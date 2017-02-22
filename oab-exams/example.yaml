@@ -1,0 +1,80 @@
+---
+enum: |
+  A advogada Laila representou judicialmente Rita, em processo no qual
+  esta postulava a condenação do Município de Manaus ao cumprimento de
+  obrigação de pagar quantia certa. Fora acordado entre Laila e Rita o
+  pagamento de valor determinado à advogada, a título de honorários,
+  por meio de negócio jurídico escrito e válido. Após o transcurso do
+  processo, a Fazenda Pública foi condenada, nos termos do pedido
+  autoral. Antes da expedição do precatório, Laila juntou aos autos o
+  contrato de honorários, no intuito de obter os valores pactuados.
+
+  Considerando a situação narrada, é correto afirmar que 
+ 
+answers:
+
+  - text: >
+      Laila deverá executar os honorários em face de Rita em processo
+      autônomo, sendo vedado o pagamento nos mesmos autos, por se
+      tratar de honorários contratuais e não sucumbenciais.
+    correct: true
+
+  - text: >
+      o juiz deverá determinar que os valores acordados a título de
+      honorários sejam pagos diretamente a Laila, por dedução da
+      quantia a ser recebida por Rita, independentemente de
+      concordância desta nos autos, salvo se Rita provar que já os
+      pagou.
+
+  - text: >
+      Laila deverá executar os honorários em face do município de
+      Manaus, em processo autônomo de execução, sendo vedado o
+      pagamento nos mesmos autos, por se tratar de honorários
+      contratuais e não sucumbenciais.
+
+  - text: >
+      o juiz poderá determinar que os valores acordados a título de
+      honorários sejam pagos diretamente a Laila, por dedução da
+      quantia a ser recebida por Rita, caso Rita apresente sua
+      concordância nos autos.
+
+---
+enum: |
+
+  Michael foi réu em um processo criminal, denunciado pela prática do
+  delito de corrupção passiva. Sua defesa técnica no feito foi
+  realizada pela advogada Maria, que, para tanto, teve acesso a
+  comprovantes de rendimentos e extratos da conta bancária de Michael.
+  Tempos após o término do processo penal, a ex-mulher de Michael
+  ajuizou demanda, postulando, em face dele, a prestação de
+  alimentos. Ciente de que Maria conhecia os rendimentos de Michael, a
+  autora arrolou a advogada como testemunha.
+
+  Considerando o caso narrado e o disposto no Código de Ética e
+  Disciplina da OAB, assinale a afirmativa correta.
+ 
+answers:
+
+  - text: >
+      Maria deverá depor como testemunha, prestando compromisso de
+      dizer a verdade, e revelar tudo o que souber, mesmo que isto
+      prejudique Michael, uma vez que não é advogada dele no processo
+      de natureza cível.
+
+  - text: >
+      Maria deverá depor como testemunha, mesmo que isto prejudique
+      Michael, uma vez que não é advogada dele no processo de natureza
+      cível, mas terá o direito e o dever de se calar apenas quanto às
+      informações acobertadas pelo sigilo bancário de Michael.
+
+  - text: >
+      Maria deverá recursar-se a depor como testemunha, exceto se
+      Michael expressamente autorizá-la, caso em que deverá informar o
+      que souber, mesmo que isto prejudique Michael.
+    corret: true
+
+  - text: >
+      Maria deverá recursar-se a depor como testemunha, ainda que
+      Michael expressamente lhe autorize ou solicite que revele o que
+      sabe.
+---
