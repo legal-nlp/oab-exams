@@ -11,13 +11,13 @@ enum: |
 
   Considerando a situação narrada, é correto afirmar que 
  
-answers:
+options:
 
   - text: >
       Laila deverá executar os honorários em face de Rita em processo
       autônomo, sendo vedado o pagamento nos mesmos autos, por se
       tratar de honorários contratuais e não sucumbenciais.
-    correct: true
+    answer: true
 
   - text: >
       o juiz deverá determinar que os valores acordados a título de
@@ -53,7 +53,7 @@ enum: |
   Considerando o caso narrado e o disposto no Código de Ética e
   Disciplina da OAB, assinale a afirmativa correta.
  
-answers:
+options:
 
   - text: >
       Maria deverá depor como testemunha, prestando compromisso de
@@ -71,7 +71,7 @@ answers:
       Maria deverá recursar-se a depor como testemunha, exceto se
       Michael expressamente autorizá-la, caso em que deverá informar o
       que souber, mesmo que isto prejudique Michael.
-    corret: true
+    answer: true
 
   - text: >
       Maria deverá recursar-se a depor como testemunha, ainda que
