@@ -1,15 +1,6 @@
-
-
-
- 
-
- 2
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 1 
+---
+ENUM Questão 1 
  
-
 Paulo,  bacharel  em  Direito,  exerceu  relevantes  cargos  no 
 Poder  Executivo  das  três  esferas  de  Governo,  adquirindo 
 profundo  conhecimento  sobre  as  atividades  internas  da 
@@ -18,10 +9,10 @@ inscrição  nos  quadros  da  OAB,  estabelece  serviço  de 
 consultoria  jurídica,  tendo  angariado  vários  clientes  desde  o 
 período da inauguração da sua atividade.  
  
-
 De  acordo  com  o  narrado  e  observadas  as  normas 
 estatutárias, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Dentre as atividades privativas do advogado incluem‐se a 
 postulação  judicial  e  a  assessoria  jurídica,  mas  não  a 
@@ -31,7 +22,7 @@ B) O  bacharel  em  Direito  aposentado  não  tem  vedado 
 qualquer prática de atividade jurídica, mesmo não inscrito 
 nos quadros da OAB. 
 
-C) O  advogado  atua  na  atividade  judicial  pugnando  pela 
+C:CORRECT) O  advogado  atua  na  atividade  judicial  pugnando  pela 
 defesa dos  interesses dos  seus  clientes  e na  consultoria 
 jurídica  
 
@@ -39,10 +30,9 @@ D) As atividades privativas do advogado incluem a assessoria 
 jurídica,  a  direção  jurídica  e  a  atuação  nos  Juizados 
 Especiais. 
 
+---
+ENUM Questão 2 
  
-Questão 2 
- 
-
 O  advogado  “Y”,  recém  formado,  diante  da  dificuldade  em 
 conseguir  clientes,  passa  a  distribuir  panfletos  em  locais 
 próximos aos  fóruns da cidade onde  reside, oferecendo seus 
@@ -54,19 +44,19 @@ constar  os  valores  cobrados  por  seus  serviços  profissionais, 
 fixados,  aliás,  em  patamares  inferiores  àqueles  estipulados 
 pela tabela de honorários da OAB.  
  
-
 Quanto à conduta de “Y”, assinale a afirmativa incorreta. 
  
+OPTIONS
 
 A) “Y”  incorre  em  infração  disciplinar,  consistente  na 
 captação  irregular  de  causas,  ao  distribuir  panfletos  ao 
-público oferecendo seus serviços como advogado.                                                                                        
+público oferecendo seus serviços como advogado.                                
 
 B) “Y”  viola  dispositivo  do  Código  de  Ética  e  Disciplina  da 
 OAB,  ao  fixar  honorários  em  valores  inferiores  aos 
 estipulados na tabela de honorários da OAB. 
 
-C) “Y” pode distribuir panfletos ao público, oferecendo seus 
+C:CORRECT) “Y” pode distribuir panfletos ao público, oferecendo seus 
 serviços  profissionais,  desde  que  neles  não  conste  sua 
 especialização técnico‐científica. 
 
@@ -74,17 +64,8 @@ D) “Y”  viola  dispositivo  do  Código  de  Ética  e  Disciplina 
 OAB, ao fazer constar de sua placa referências aos valores 
 cobrados por seus serviços profissionais. 
 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 3 
- 
+---
+ENUM Questão 3 
 
 João,  advogado  inscrito  há  muitos  anos  na  OAB,  decide 
 candidatar‐se, pelo quinto constitucional, ao cargo de Juiz do 
@@ -94,16 +75,16 @@ Federal da OAB. Após  longo  processo  avaliatório,  vem  a  ser 
 escolhido  para  integrar  a  lista  sêxtupla  a  ser  remetida  ao 
 Tribunal Regional Federal.  
  
-
 Diante  dessa  narrativa,  à  luz  da  legislação  aplicável  aos 
 advogados, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) O  advogado,  ao  ser  incluído  em  lista  sêxtupla  para 
 integrar  os  quadros  de  tribunal,  deve  requerer  licença 
 para tratamento de questões particulares. 
 
-B) O  advogado  que  integra  lista  sêxtupla  ou  tríplice  para 
+B:CORRECT) O  advogado  que  integra  lista  sêxtupla  ou  tríplice  para 
 ingresso  pelo  quinto  constitucional  pode  continuar 
 exercendo livremente suas atividades. 
 
@@ -115,30 +96,30 @@ D) O advogado que pretende  ingressar na magistratura pelo 
 quinto  constitucional  passa  a  ser  considerado  impedido 
 ao compor lista sêxtupla. 
 
+---
+ENUM Questão 4 
  
-Questão 4 
- 
-
 José, general de brigada, entusiasmado  com a opção do  seu 
 filho pelo curso de Direito, resolve acompanhá‐lo nos estudos. 
 Presta exame vestibular e matricula‐se em outra instituição de 
 ensino,  também  no  curso  de  Direito.  Ambos  alcançam  o 
 período  letivo  em  que  há  necessidade  de  realizar  o  estágio 
 forense.  
+
 José, desejando acompanhar seu filho nas atividades forenses 
 nas  horas  de  folga,  vez  que  continua  na  ativa,  agora  como 
 General  de  Divisão,  requer  o  seu  ingresso  no  quadro  de 
 estagiários da OAB.  
  
-
 A partir do caso apresentado, assinale a afirmativa correta. 
- 
 
+OPTIONS
+ 
 A) Militar  não  pode,  enquanto  permanecer  na  ativa, 
 inscrever‐se no quadro de advogados, mas  se permite a 
 ele a inscrição no quadro de estagiários. 
 
-B) Militar  não  pode,  enquanto  na  ativa,  obter  inscrição  no 
+B:CORRECT) Militar  não  pode,  enquanto  na  ativa,  obter  inscrição  no 
 quadro de advogados nem no quadro de estagiários. 
 
 C) Militar  da  ativa  pode  atuar  na  Justiça  Militar 
@@ -149,26 +130,8 @@ D) Militar  de  alta  patente  pode  obter  inscrição  tanto  no 
 quadro de estagiários  como no de advogados, mediante 
 permissão especial do Presidente da OAB. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 3
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 5 
- 
+---
+ENUM Questão 5 
 
 O  advogado  “X”,  regularmente  constituído  pelo  seu  cliente 
 “Z”,  retira  os  autos  de  cartório  para  realizar  peça  defensiva 
@@ -177,11 +140,11 @@ escritório profissional de “X”. Um  incêndio no prédio em que 
 se  localiza  o  escritório  destruiu  numerosos  documentos, 
 inclusive  os  autos  referidos.  Com  base  no  ocorrido,  “X” 
 comunica o fato ao Juízo e ao seu cliente. 
- 
 
 Diante  dessa  narrativa,  à  luz  da  legislação  aplicável  aos 
 advogados, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) O extravio de autos é  caracterizado  como  infração,  com 
 pena de suspensão.  
@@ -189,17 +152,15 @@ pena de suspensão.  
 B) O advogado deverá receber pena de advertência, por não 
 prever o incêndio. 
 
-C) O extravio de autos deve ser doloso ou culposo, para ser 
+C:CORRECT) O extravio de autos deve ser doloso ou culposo, para ser 
 punível disciplinarmente. 
 
 D) O extravio de autos seria punível, caso fosse recebido em 
 confiança. 
 
+---
+ENUM Questão 6 
  
-
-Questão 6 
- 
-
 João postulou, por meio de representação de advogado, ação 
 condenatória  em  face  da  sociedade  Cacos  e  Cacos  Ltda., 
 obtendo sentença  favorável, condenando a ré ao pagamento 
@@ -209,21 +170,23 @@ o trânsito em julgado da decisão judicial, João e seu advogado 
 Pedro  são  cientificados  de  que  a  sociedade  está  falida, 
 devendo os seus créditos sofrer procedimento de habilitação.  
  
-
 Nesse  caso,  a  natureza  dos  créditos  correspondentes  a 
 honorários  advocatícios,  nos  termos  do  Estatuto,  é 
 considerada como 
- 
+
+OPTIONS
 
 A) quirografária. 
+
 B) real. 
-C) privilegiada. 
+
+C:CORRECT) privilegiada. 
+
 D) natural. 
  
-
-Questão 7  
+---
+ENUM Questão 7  
  
-
 João  é  contratado  para  propor  ação  de  cobrança  pela 
 sociedade M e P Ltda., em face da sociedade C e L Ltda., sendo 
 o valor da causa, correspondente ao débito, de R$ 200.000,00 
@@ -234,36 +197,37 @@ nesse  caso,  seriam devidos honorários  fixos de R$ 10.000,00 
 (dez  mil  reais).  A  sociedade  notificada  regularmente  não 
 pagou os honorários contratuais.  
  
-
 Nesse caso, o prazo para a prescrição da ação de cobrança de 
 honorários passa a contar da data  
  
+OPTIONS
 
 A) do trânsito em julgado da decisão judicial. 
-B) da desistência judicial formulada. 
+
+B:CORRECT) da desistência judicial formulada. 
+
 C) do término do mandato judicial.  
+
 D) da ultimação do serviço judicial. 
  
- 
- 
+---
+ENUM Questão 8 
 
-Questão 8 
-  
 Osvaldo é vereador do município “K” e ocupa cargo vinculado 
 à Mesa da Câmara de Vereadores. Necessitando propor ação 
 cominatória  em  face  do  seu  vizinho  Marcos,  e  sendo 
 advogado,  apresenta‐se  em  Juízo  postulando  em  causa 
 própria.  
  
-
 Nos  termos  das  normas  estatutárias,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) A  função  de  membro  do  Poder  Legislativo  impede  o 
 advogado de atuar, mesmo em causa própria. 
 
-B) A  eleição  para  a  Mesa  Diretora  do  Poder  Legislativo 
+B:CORRECT) A  eleição  para  a  Mesa  Diretora  do  Poder  Legislativo 
 impede  o  advogado  de  atuar,  gerando  uma 
 incompatibilidade. 
 
@@ -275,11 +239,9 @@ D) As  incompatibilidades dos membros do Poder Legislativo 
 estão  circunscritas  aos  integrantes  do  Senado  e  da 
 Câmara dos Deputados Federal. 
 
+---
+ENUM Questão 9 
  
-
-Questão 9 
- 
-
 Além de advogado,  João é professor da Universidade pública 
 “M”, com natureza de autarquia, onde exerce as  funções de 
 coordenador  acadêmico  da  graduação  do  Curso  de  Direito. 
@@ -287,10 +249,10 @@ Diante do prestígio acumulado, o seu escritório de advocacia 
 vem a ter renome, atuando em diversas causas nas comarcas 
 de influência da universidade.  
  
-
 Essas  circunstâncias  indicam  que  o  cargo  ocupado  pelo 
 advogado seria um caso 
- 
+
+OPTIONS
 
 A) abrangido  pelas  normas  que  criam  regras  de 
 incompatibilidade para administradores públicos. 
@@ -299,27 +261,25 @@ B) não  previsto,  vez  que  a  atuação  como  dirigente  de 
 entidade  pública  é  irrelevante  para  o  sistema  de 
 incompatibilidades. 
 
-C) excepcionado diante da característica que o vincularia ao 
+C:CORRECT) excepcionado diante da característica que o vincularia ao 
 magistério jurídico. 
 
 D) incluído no rol de incompatibilidades por não permitir que 
 o advogado exerça cargo administrativo nas universidades 
 públicas. 
 
+---
+ENUM Questão 10 
  
-
-Questão 10 
- 
-
 O advogado Rubem, em causa em que patrocina os interesses 
 da sociedade Só Fácil Ltda., cita  fatos delituosos, por escrito, 
 contra  a honra do  réu,  sem  autorização do  seu  cliente. Dias 
 depois,  é  surpreendido  com  ação  criminal  em  virtude  dos 
 fatos apresentados no processo judicial.  
- 
 
 A descrição acima amolda‐se à seguinte infração disciplinar: 
  
+OPTIONS
 
 A) locupletar‐se, por qualquer  forma, à  custa do  cliente ou 
 da parte adversa, por si ou interposta pessoa. 
@@ -330,20 +290,12 @@ profissional. 
 C) prestar concurso a cliente ou a terceiro para realização de 
 ato contrário à lei ou destinado a fraudá‐la. 
 
-D) fazer, em nome do  constituinte,  sem autorização escrita 
+D:CORRECT) fazer, em nome do  constituinte,  sem autorização escrita 
 deste, imputação a terceiro de fato definido como crime. 
 
-
-
- 
-
- 4
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 11 
+---
+ENUM Questão 11 
  
-
 Pedro, advogado  regularmente  inscrito nos quadros da OAB, 
 após  regular  processo  administrativo  disciplinar,  é  apenado 
 com a sanção de exclusão por ter sido condenado pela prática 
@@ -352,9 +304,9 @@ transitada  em  julgado.  Após  cumprir  a  pena  e  tendo  sido  a 
 mesma  julgada  extinta  pelo  Juízo  competente,  apresenta 
 requerimento de retorno à OAB. 
  
-
 Nos termos do Estatuto, deve o requerente  
  
+OPTIONS
 
 A) apresentar  a  documentação  prevista  para  inscrição 
 inaugural no quadro de advogados, além de submeter‐se 
@@ -368,17 +320,17 @@ C) indicar provas para a  inscrição nos quadros da OAB que 
 comprovem  a  sua  capacidade  civil  apta  a  permitir  o 
 retorno, e os documentos para inscrição inaugural. 
 
-D) comprovar a sua reabilitação e apresentar os documentos 
+D:CORRECT) comprovar a sua reabilitação e apresentar os documentos 
 relacionados à idoneidade moral. 
 
-  
-Questão 12  
+---
+ENUM Questão 12  
  
-
 As  alternativas  a  seguir  apresentam  algumas  das 
 competências do Conselho Federal da Ordem dos Advogados 
 do Brasil, à exceção de uma. Assinale‐a. 
  
+OPTIONS
 
 A) Representar, em juízo ou fora dele, os interesses coletivos 
 dos advogados. 
@@ -386,25 +338,24 @@ dos advogados. 
 B) Velar  pela  dignidade,  independência,  prerrogativas  e 
 valorização da advocacia. 
 
-C) Representar, sem exclusividade, os advogados brasileiros 
+C:CORRECT) Representar, sem exclusividade, os advogados brasileiros 
 nos órgãos e eventos internacionais da advocacia. 
 
 D) Editar e alterar o Regulamento Geral, o Código de Ética e 
 Disciplina, e os Provimentos que julgar necessários. 
 
- 
-Questão 13 
- 
+---
+ENUM Questão 13 
 
 No  intuito  de  garantir  o  regular  exercício  da  prestação 
 jurisdicional,  a  Constituição  da  República  conferiu  aos 
 magistrados algumas prerrogativas. 
  
-
 A respeito dessas prerrogativas, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) A  inamovibilidade  pode  ser  excepcionada  no  caso  de 
+A:CORRECT) A  inamovibilidade  pode  ser  excepcionada  no  caso  de 
 relevante  interesse público e desde que  a  remoção  seja 
 aprovada pela maioria absoluta do tribunal ou do CNJ. 
 
@@ -420,25 +371,25 @@ D) A aposentadoria dos magistrados seguirá  regime  jurídico 
 diverso  daquele  aplicável  aos  servidores  públicos  em 
 geral. 
 
+---
+ENUM Questão 14 
  
- 
- 
-
-Questão 14 
- 
-
 A  competência  para  processar  e  julgar  originariamente 
 Governador de Estado por crime comum é do 
  
+OPTIONS
 
 A) Supremo Tribunal Federal. 
-B) Superior Tribunal de Justiça. 
-C) Órgão Especial do Tribunal de Justiça. 
-D) Juizo  Criminal  da  capital  onde  se  situa  o  Tribunal  de 
 
+B:CORRECT) Superior Tribunal de Justiça. 
+
+C) Órgão Especial do Tribunal de Justiça. 
+
+D) Juizo  Criminal  da  capital  onde  se  situa  o  Tribunal  de 
 Justiça do Estado respectivo. 
  
-Questão 15 
+---
+ENUM Questão 15 
  
 Lei estadual de iniciativa do Deputado “X” previu a criação de 
 300  cargos  de  fiscal  de  rendas  e  determinou  o  seu 
@@ -455,7 +406,6 @@ constitucionalidade, assinale a alternativa que indica o correto 
 posicionamento do STF. 
  
 A) Não  terá  alternativa  senão  declarar  a 
-
 inconstitucionalidade  da  lei,  por  vício  de  iniciativa,  com 
 efeitos  ex  tunc,  e  julgar  de  plano  inválido  o  concurso 
 público,  determinando  a  exoneração  de  todos  os  fiscais 
@@ -472,38 +422,15 @@ ao final, decidir pela constitucionalidade da lei e pela sua 
 manutenção no ordenamento  jurídico, apesar da afronta 
 à Constituição, caso em que julgará improcedente a ação. 
 
-D) Poderá,  ao declarar  a  inconstitucionalidade,  e pelo  voto 
+D:CORRECT) Poderá,  ao declarar  a  inconstitucionalidade,  e pelo  voto 
 de  dois  terços  dos  ministros,  restringir  os  efeitos  da 
 decisão ou decidir que ela só tenha eficácia a partir de seu 
 trânsito  em  julgado ou de outro momento que  venha  a 
 ser fixado, preservando os atos já praticados pelos fiscais. 
 
+---
+ENUM Questão 16 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 5
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 16 
- 
-
 O  Presidente  da  República  encaminhou  ao  Senado  Federal 
 projeto  de  Lei  Ordinária  para  provimento  de  cargos  de 
 servidores da União. Após os debates, o projeto foi aprovado 
@@ -512,15 +439,15 @@ para a Câmara dos Deputados que, em apenas um  turno de 
 discussão e votação, o aprovou e o enviou ao Presidente da 
 República, que o sancionou. 
  
-
 Sobre o fato acima, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A lei é inconstitucional, pois a iniciativa de projetos de lei 
 para provimento de  cargos de  servidores da União é da 
 Câmara dos Deputados. 
 
-B) A  discussão  e  a  votação  do  projeto  deveriam  ter  se 
+B:CORRECT) A  discussão  e  a  votação  do  projeto  deveriam  ter  se 
 iniciado  na  Câmara  dos  Deputados,  havendo,  por  isso, 
 vício no processo legislativo. 
 
@@ -531,10 +458,9 @@ processo legislativo, não ocorreu no caso narrado. 
 D) A  lei  é  constitucional,  pois  o  processo  legislativo  foi 
 hígido. 
 
+---
+ENUM Questão 17 
  
-Questão 17 
- 
-
 A  Assembleia  Legislativa  do  Estado  “M”,  verificando  que  o 
 Estado  jamais  regulamentou  a  aposentadoria  especial  dos 
 servidores  públicos  cujas  atividades  sejam  exercidas  sob 
@@ -546,12 +472,12 @@ da  iniciativa  privada  (previstos  na  Lei  n.  8.213/91).  O 
 Governador  do  Estado  sanciona  a  lei,  que  é  publicada  dias 
 depois.  
  
-
 Sobre  o  caso  concreto  apresentado,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
-A) Há  vício  de  iniciativa,  devendo  a  regulamentação  do 
+A:CORRECT) Há  vício  de  iniciativa,  devendo  a  regulamentação  do 
 regime dos servidores públicos ser estabelecida em lei de 
 iniciativa  do  Chefe  do  Poder  Executivo  –  no  caso,  o 
 Governador do Estado. 
@@ -573,35 +499,32 @@ Assembleia Legislativa o projeto de  lei. Diante da  inércia 
 do  Governador  por  diversos  anos,  pode  a  Assembleia 
 suprir a mora, elaborando o projeto. 
 
+---
+ENUM Questão 18 
  
- 
- 
-
-Questão 18 
- 
-
 Pode  o  Presidente  da  República  editar  medida  provisória 
 contrária à súmula vinculante editada pelo STF? 
  
+OPTIONS
 
 A) Não, pois o STF é o guardião da Constituição. 
+
 B) Não, pois a  súmula vincula  todos os Poderes  (Executivo, 
-
 Legislativo e Judiciário). 
+
 C) Sim, pois a  súmula vincula a Administração Pública, mas 
-
 não o chefe do Poder Executivo. 
-D) Sim, pois o  Presidente da República  estaria, nesse  caso, 
 
+D:CORRECT) Sim, pois o  Presidente da República  estaria, nesse  caso, 
 exercendo função legislativa. 
  
-
-Questão 19 
+---
+ENUM Questão 19 
  
-
 Sabendo‐se que  o Município  integra  a  Federação,  assinale  a 
 afirmativa correta, à luz das normas constitucionais. 
  
+OPTIONS
 
 A) O município será regido por Lei Orgânica própria, votada 
 pela Assembleia Estadual. 
@@ -609,18 +532,16 @@ pela Assembleia Estadual. 
 B) A  organização  municipal  conterá  previsão  de  eleições 
 para mandato de cinco anos, sem reeleição. 
 
-C) Um  projeto  de  lei  de  iniciativa  popular,  baseado  em 
+C:CORRECT) Um  projeto  de  lei  de  iniciativa  popular,  baseado  em 
 interesse  local, depende de, pelo menos, cinco por cento 
 do eleitorado. 
 
 D) O limite máximo de dez vereadores deverá ser observado 
 para localidades com até 15.000 (quinze mil) habitantes. 
 
+---
+ENUM Questão 20 
  
-
-Questão 20 
- 
-
 A Convenção  sobre os Direitos da Criança estabelece que os 
 Estados‐partes reconheçam a  importância da função exercida 
 pelos  órgãos  de  comunicação  social,  devendo  assegurar  o 
@@ -628,10 +549,10 @@ acesso da criança à  informação. Do mesmo modo o Estatuto 
 da Criança e do Adolescente assegura que a informação é um 
 direito da criança e do adolescente.  
  
-
 Acerca  da  política  de  informação  envolvendo  menores, 
 assinale a afirmativa correta. 
  
+OPTIONS
 
 A) No que  concerne  às Medidas  Específicas de  Proteção,  é 
 incabível, qualquer que seja o estágio de compreensão da 
@@ -639,7 +560,7 @@ criança,  prestar‐lhe  informações  sobre  os  motivos  que 
 determinam a  intervenção, o que será  informado apenas 
 aos pais e responsáveis. 
 
-B) Deve haver o encorajamento dos órgãos de comunicação 
+B:CORRECT) Deve haver o encorajamento dos órgãos de comunicação 
 social  a  levar  em  conta  as  necessidades  linguísticas  das 
 crianças  indígenas  ou  que  pertençam  a  um  grupo 
 minoritário. 
@@ -654,33 +575,17 @@ compreende,  inclusive,  liberdade de procurar,  receber  e 
 expandir  informações e  ideias,  sem  restrições, de  forma 
 oral ou por qualquer outro meio à escolha da criança. 
 
- 
-
- 
- 
- 
- 
- 
-
-
-
- 
-
- 6
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 21 
- 
+---
+ENUM Questão 21 
 
 O  Pacto  de  São  José  da  Costa  Rica  estabelece  que  todas  as 
 pessoas  são  iguais perante a  Lei, não  se admitindo qualquer 
 discriminação, sendo assegurada a proteção legal.  
  
-
 No  que  tange  ao  direito  indigenista,  segundo  a  norma 
 brasileira, assinale a afirmativa correta.  
  
+OPTIONS
 
 A) As  terras  tradicionalmente  ocupadas  pelos  índios 
 destinam‐se  a  sua  posse  permanente,  cabendo‐lhes  o 
@@ -701,7 +606,7 @@ outro órgão público ou privado, deve promover  a plena 
 assistência ao índio e a defesa judicial ou extrajudicial dos 
 direitos dos silvícolas e das comunidades indígenas. 
 
-D) Os  atos  praticados  entre  um  índio  não  integrado  e 
+D:CORRECT) Os  atos  praticados  entre  um  índio  não  integrado  e 
 qualquer  pessoa  estranha  à  comunidade  indígena, 
 quando  não  tenha  havido  assistência  do  órgão  tutelar 
 competente,  são  nulos,  salvo  se  o  índio  revelar 
@@ -709,10 +614,8 @@ consciência e conhecimento do ato praticado, desde que 
 não  lhe  seja  prejudicial,  diante  da  extensão  dos  seus 
 efeitos. 
 
- 
-
-Questão 22 
- 
+---
+ENUM Questão 22 
 
 A  Declaração  Universal  dos  Direitos  Humanos  idealizou  a 
 figura  do  “ser  humano  livre”,  caso  fossem  atendidos  os 
@@ -723,12 +626,12 @@ n.  10.098/2003  criou  mecanismos  para  a  promoção  da 
 acessibilidade das pessoas portadoras de deficiência ou  com 
 mobilidade reduzida.  
  
-
 A  respeito  de  tais  disposições  legais,  as  afirmativas  a  seguir 
 estão corretas, à exceção de uma. Assinale‐a. 
  
+OPTIONS
 
-A) A  pessoa  portadora  de  deficiência  ou  com  mobilidade 
+A:CORRECT) A  pessoa  portadora  de  deficiência  ou  com  mobilidade 
 reduzida é aquela que em caráter permanentemente, não 
 temporário, tenha  limitada sua capacidade de relacionar‐
 se com o meio e de utilizá‐lo.  
@@ -747,14 +650,15 @@ instalação de elevadores, devem atender ao requisito de 
 percurso  acessível  que  una  a  edificação  à  via  pública, 
 exigindo‐se o mesmo de edifícios de uso privado. 
 
-Questão 23 
+---
+ENUM Questão 23 
  
-
 A  respeito  da  autorização  de  trabalho  a  estrangeiro  com 
 vínculo empregatício no Brasil, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) Trata‐se  de  ato  administrativo  de  competência  do 
+A:CORRECT) Trata‐se  de  ato  administrativo  de  competência  do 
 Ministério  do  Trabalho,  para  efeito  de  requerimento  de 
 visto  permanente  e/ou  temporário,  a  estrangeiros  que 
 desejem trabalhar no Brasil. 
@@ -775,21 +679,19 @@ o estrangeiro que haja concluído curso de pós‐graduação 
 stricto  sensu  no  Brasil  ou  tiver  seu  diploma  estrangeiro 
 revalidado. 
 
- 
-
-Questão 24 
- 
+---
+ENUM Questão 24 
 
 Jean  Pierre,  cidadão  estrangeiro,  foi  preso  em  flagrante  em 
 razão  de  suposta  prática  de  crime  de  falsificação  de 
 passaporte  com o objetivo de  viabilizar  sua permanência no 
 Brasil.  
  
-
 Diante dessa situação hipotética, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) A fraude para obter a entrada e permanência no território 
+A:CORRECT) A fraude para obter a entrada e permanência no território 
 brasileiro  constitui motivo  suficiente para  a expulsão do 
 estrangeiro,  cabendo,  exclusivamente,  ao  Presidente  da 
 República,  de  forma  discricionária,  resolver  sobre  a 
@@ -812,37 +714,19 @@ D) A  fraude para obter entrada e permanência no território 
 brasileiro não é motivo para fundamentar ato de expulsão 
 de estrangeiro. 
 
+---
+ENUM Questão 25 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 7
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 25 
- 
-
 A respeito dos impostos, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) O  Imposto  de  Transmissão  Causa  Mortis  e  Doação 
 (ITCMD) de quaisquer bens e direitos  terá suas alíquotas 
 máximas  fixadas  pelos  Estados  competentes  para  a  sua 
 instituição. 
 
-B) As  alíquotas  máximas  e  mínimas  do  Imposto  sobre 
+B:CORRECT) As  alíquotas  máximas  e  mínimas  do  Imposto  sobre 
 Serviços de Qualquer Natureza  (ISS) deverão  ser  fixados 
 por lei complementar nacional. 
 
@@ -858,15 +742,15 @@ externa, impostos extraordinários, compreendidos ou não 
 em sua competência tributária, os quais serão suprimidos, 
 gradativamente, cessadas as causas de sua criação. 
 
+---
+ENUM Questão 26 
  
-Questão 26 
- 
-
 Mário inscreveu‐se no programa de incentivo à aposentadoria 
 mediante  indenização,  promovido  pela  empresa  em  que 
 trabalha.  A  respeito  do  caso  proposto,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) Mário pagará  imposto de  renda,  já que o valor  recebido 
 tem natureza salarial. 
@@ -874,27 +758,26 @@ tem natureza salarial. 
 B) Mário não pagará  imposto de  renda,  já que  se  trata de 
 verba especial. 
 
-C) Mario  não  pagará  imposto  de  renda,  já  que  o  valor 
+C:CORRECT) Mario  não  pagará  imposto  de  renda,  já  que  o  valor 
 recebido tem caráter indenizatório. 
 
 D) Mário  pagará  imposto  de  renda,  em  homenagem  ao 
 princípio da isonomia. 
 
+---
+ENUM Questão 27 
  
-Questão 27 
- 
-
 O Sr. Afrânio dos Santos, administrador da empresa “X”, que 
 atua no ramo industrial, percebeu ter efetuado pagamento do 
 IPI  maior  que  o  efetivamente  devido,  ao  longo  de  certo 
 período. 
  
-
 Com  base  no  cenário  acima,  para  fins  de  aconselhar  o 
 administrador  acerca  da  possibilidade  de  obtenção  da 
 restituição  do  montante  recolhido  a  maior,  assinale  a 
 afirmativa correta. 
  
+OPTIONS
 
 A) Não  é  possível  a  restituição,  pois  o  pagamento  foi 
 espontâneo,  incidindo  a  máxima  “quem  paga  mal  paga 
@@ -906,29 +789,35 @@ indevidamente, não cabe restituição de tributo indireto. 
 C) Cabe  apenas  pedido  administrativo  de  restituição,  em 
 razão do pagamento indevido. 
 
-D) Cabe pedido  judicial de repetição de  indébito, desde que 
+D:CORRECT) Cabe pedido  judicial de repetição de  indébito, desde que 
 a  empresa  comprove  ter  assumido  o  referido  encargo, 
 sem tê‐lo transferido a terceiro. 
  
-
-Questão 28 
+---
+ENUM Questão 28 
  
 O imposto cuja alíquota é invariável e se aplica sobre base de 
 cálculo variável, é classificado como 
  
+OPTIONS
+
 A) progressivo. 
-B) proporcional. 
+
+B:CORRECT) proporcional. 
+
 C) indireto. 
+
 D) pessoal. 
  
-Questão 29 
+---
+ENUM Questão 29 
  
-
 Quanto  às  pessoas  jurídicas  que  compõem  a  Administração 
 Indireta, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) As  autarquias  são  pessoas  jurídicas  de  direito  público, 
+A:CORRECT) As  autarquias  são  pessoas  jurídicas  de  direito  público, 
 criadas por lei. 
 
 B) As  autarquias  são  pessoas  jurídicas  de  direito  privado, 
@@ -941,36 +830,39 @@ D) As  empresas  públicas  são  pessoas  jurídicas  de  direito 
 privado, criadas para o exercício de atividades  típicas do 
 Estado. 
 
+---
+ENUM Questão 30  
  
-Questão 30  
- 
-
 Uma  concessionária  de  serviço  público,  em  virtude  de  sua 
 completa inadequação na prestação do serviço, não consegue 
 executar o contrato.  
  
-
 Nesse caso, segundo a Lei n. 8.987/95, poderá ser declarada, a 
 critério do poder concedente, a extinção do contrato por 
- 
 
-A) caducidade. 
+OPTIONS
+ 
+A:CORRECT) caducidade. 
+
 B) encampação. 
+
 C) anulação. 
+
 D) revogação. 
  
-Questão 31 
- 
+---
+ENUM Questão 31 
 
 A  União,  após  regular  licitação,  realiza  concessão  de 
 determinado  serviço  público  a  uma  sociedade  privada. 
 Entretanto, para a efetiva prestação do  serviço, é necessário 
 realizar algumas desapropriações.  
- 
-A respeito desse caso concreto, assinale a afirmativa correta. 
- 
-A) A  sociedade  concessionária  poderá  promover 
 
+A respeito desse caso concreto, assinale a afirmativa correta. 
+
+OPTIONS
+ 
+A:CORRECT) A  sociedade  concessionária  poderá  promover 
 desapropriações  mediante  autorização  expressa, 
 constante de lei ou contrato. 
 
@@ -986,19 +878,9 @@ D) Os  bens  pertencentes  ao(s)  Município(s)  inserido(s)  na 
 área  de  prestação  do  serviço  não  poderão  ser 
 desapropriados, mesmo que haja autorização legislativa. 
 
+---
+ENUM Questão 32 
  
-
-
-
- 
-
- 8
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 32 
- 
-
 Com  a  finalidade  de  minimizar  as  consequências  dos 
 problemas de trânsito na cidade “X”, o   Prefeito estabeleceu, 
 por  meio  de  decreto  de  natureza  genérica  e  abstrata, 
@@ -1009,18 +891,18 @@ feira, em dias úteis, na área de abrangência especificada.Face 
 a esse  fato, a Associação Empresarial do  ramo de  transporte 
 de  mercadorias  procura  um  advogado  para  orientá‐la  na 
 proteção de seus interesses. 
- 
 
 Com base na hipótese apresentada, assinale a alternativa que 
 indica  a  linha  de  atuação  mais  apropriada  proposta  pelo 
 advogado. 
  
+OPTIONS
 
 A) Impetração de mandado de segurança contra o Decreto, 
 ao argumento de que  faltaria ao Município competência 
 normativa para estabelecer a referida restrição. 
 
-B) Ajuizamento  de  ação  de  conhecimento  com  pedido  de 
+B:CORRECT) Ajuizamento  de  ação  de  conhecimento  com  pedido  de 
 antecipação  dos  efeitos  da  tutela  jurisdicional  com  a 
 finalidade  de  suspender  os  efeitos  do  Decreto,  ao 
 argumento de vício de razoabilidade/proporcionalidade. 
@@ -1035,18 +917,17 @@ finalidade  de  suspender  os  efeitos  do  Decreto,  ao 
 argumento  de  que  faltaria  ao  Município  competência 
 normativa para estabelecer a referida restrição. 
 
+---
+ENUM Questão 33 
  
-Questão 33 
- 
-
 Sílvio,  servidor  público,  durante  uma  diligência  com  carro 
 oficial  do  Estado  X  para  o  qual  trabalha,  se  envolve  em 
 acidente de trânsito, por sua culpa, atingindo o carro de João.  
  
-
 Considerando a situação acima e a evolução do entendimento 
 sobre o tema, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) João deverá demandar Sílvio ou o Estado X, à sua escolha, 
 porém,  caso  opte  por  demandar  Sílvio,  terá  que 
@@ -1058,7 +939,7 @@ porém, caso opte por demandar Sílvio, presumir‐se‐á sua 
 culpa,  ao  passo  que  o  Estado  responde 
 independentemente dela. 
 
-C) João poderá demandar  apenas o  Estado  X,  já que  Sílvio 
+C:CORRECT) João poderá demandar  apenas o  Estado  X,  já que  Sílvio 
 estava  em  serviço  quando  da  colisão  e,  por  isso,  a 
 responsabilidade objetiva é do Estado, que terá direito de 
 regresso contra Sílvio, em caso de culpa. 
@@ -1068,29 +949,25 @@ D) João  terá que demandar Sílvio e o Estado X,  já que este 
 que, no entanto,  será presumida por  ser ele  servidor do 
 Estado (responsabilidade objetiva). 
 
+---
+ENUM Questão 34  
  
- 
- 
-
-Questão 34  
- 
-
 O  Presidente  da  República,  considerando  necessária  a 
 realização  de  diversas  obras  de  infraestrutura,  decide  pela 
 criação de uma nova Sociedade de Economia Federal e envia 
 projeto de  lei para o Congresso Nacional. Após a sua  regular 
 tramitação, o Congresso aprova a criação da Companhia “X”. 
- 
 
 Considerando  a  situação  apresentada,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) A Companhia “X” poderá editar os decretos de utilidade 
 pública das áreas que necessitam ser desapropriadas para 
 consecução do objeto que justificou sua criação. 
 
-B) A Companhia “X” está sujeita à  licitação e à contratação 
+B:CORRECT) A Companhia “X” está sujeita à  licitação e à contratação 
 de obras,  serviços,  compras e alienações, observados os 
 princípios da administração. 
 
@@ -1101,15 +978,15 @@ deverá sempre pertencer à União. 
 D) A  Companhia  “X”  possui  foro  privilegiado  e  eventuais 
 demandas judiciais correrão perante a Justiça Federal. 
 
+---
+ENUM Questão 35 
  
-Questão 35 
- 
-
 Sobre  a  Reserva  Particular  do  Patrimônio  Natural  (RPPN), 
 assinale a afirmativa correta. 
  
+OPTIONS
 
-A) As RPPN’s são unidades de conservação criadas em áreas 
+A:CORRECT) As RPPN’s são unidades de conservação criadas em áreas 
 de  posse  e  domínios  privados,  gravadas  com 
 perpetuidade,  e  deverão  ser  averbadas,  por  intermédio 
 de  Termo  de  Compromisso,  no  Registro  Público  de 
@@ -1134,29 +1011,8 @@ automaticamente,  sem  necessidade  de  avaliação  do 
 privado  e  a  averbação,  por  intermédio  de  Termo  de 
 Compromisso, no Registro Público de Imóveis. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 9
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 36 
- 
+---
+ENUM Questão 36 
 
 Luísa, residente e domiciliada na cidade de Recife, após visitar 
 a Austrália,  traz consigo para a sua casa um  filhote de coala, 
@@ -1165,7 +1021,6 @@ animal típico daquele país e inexistente no Brasil.  
 Tendo em vista tal situação, assinale a afirmativa correta. 
  
 A) Ao  trazer  o  animal,  Luísa  não  cometeu  qualquer  ilícito 
-
 ambiental  já que a propriedade de animais domésticos é 
 livre no Brasil. 
 
@@ -1180,20 +1035,20 @@ introduziu no Brasil sem prévio  licenciamento ambiental, 
 sendo a Justiça estadual de Pernambuco competente para 
 julgar a eventual ação. 
 
-D) Ao trazer o animal, Luísa cometeu crime ambiental, pois o 
+D:CORRECT) Ao trazer o animal, Luísa cometeu crime ambiental, pois o 
 introduziu  no  Brasil  sem  licença  e  sem  parecer  técnico 
 oficial favorável, sendo a Justiça Federal competente para 
 julgar a eventual ação. 
 
- 
-Questão 37 
- 
+---
+ENUM Questão 37  
 
 Com  relação  ao  direito  sucessório,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
-A) O  cônjuge  sobrevivente,  mesmo  se  constituir  nova 
+A:CORRECT) O  cônjuge  sobrevivente,  mesmo  se  constituir  nova 
 família, continuará a ter direito real de habitação sobre o 
 imóvel em que residiu com seu finado cônjuge. 
 
@@ -1207,13 +1062,13 @@ tanto o herdeiro legítimo quanto o legatário. 
 D) Os  efeitos  da  indignidade  não  retroagem  à  data  da 
 abertura da sucessão, tendo, portanto, efeito ex nunc. 
 
+---
+ENUM Questão 38 
  
-Questão 38 
- 
-
 Em  relação  aos  defeitos  dos  negócios  jurídicos,  assinale  a 
 afirmativa incorreta. 
  
+OPTIONS
 
 A) A emissão de vontade livre e consciente, que corresponda 
 efetivamente  ao  que  almeja  o  agente,  é  requisito  de 
@@ -1223,21 +1078,16 @@ B) O  erro  acidental  é  o  que  recai  sobre  características 
 secundárias  do  objeto,  não  sendo  passível  de  levar  à 
 anulação do negócio. 
 
-C) A simulação é causa de anulação do negócio, e só poderá 
+C:CORRECT) A simulação é causa de anulação do negócio, e só poderá 
 ocorrer se a parte prejudicada demonstrar cabalmente ter 
 sido prejudicada por essa prática. 
 
 D) O objetivo da ação pauliana é anular o negócio praticado 
 em fraude contra credores. 
 
+---
+ENUM Questão 39 
  
- 
- 
- 
-
-Questão 39 
- 
-
 João  dirigia  seu  veículo  respeitando  todas  as  normas  de 
 trânsito,  com  velocidade  inferior  à  permitida  para  o  local, 
 quando  um  bêbado  atravessou  a  rua,  sem  observar  as 
@@ -1245,9 +1095,9 @@ condições  de  tráfego.  João  não  teve  condições  de  frear  
 veículo ou desviar‐se dele, atingindo‐o e causando‐lhe graves 
 ferimentos. 
  
-
 A partir do caso apresentado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Houve  responsabilidade  civil,  devendo  João  ser 
 considerado culpado por sua conduta.  
@@ -1260,23 +1110,23 @@ C) Inexistiu um dos  requisitos essenciais para caracterizar a 
 responsabilidade civil: o dano indenizável e, por isso, não 
 deve ser responsabilizado. 
 
-D) Houve rompimento do nexo de causalidade, em razão da 
+D:CORRECT) Houve rompimento do nexo de causalidade, em razão da 
 conduta  da  vítima,  não  restando  configurada  a 
 responsabilidade civil. 
 
- 
-Questão 40 
- 
+---
+ENUM Questão 40 
 
 Utilizando‐se  das  regras  afetas  ao  direito  das  obrigações, 
 assinale a alternativa correta. 
  
+OPTIONS
 
 A) Quando  o pagamento de boa‐fé  for  efetuado  ao  credor 
 putativo,  somente  será  inválido  se,  em  seguida,  ficar 
 demonstrado que não era credor. 
 
-B) Levando  em  consideração  os  elementos  contidos  na  lei 
+B:CORRECT) Levando  em  consideração  os  elementos  contidos  na  lei 
 para  o  reconhecimento  da  onerosidade  excessiva,  é 
 admissível  assegurar  que  a  regra  se  aplica  às  relações 
 obrigacionais de execução diferida ou continuada. 
@@ -1291,52 +1141,25 @@ D) O  terceiro,  interessado  ou  não,  poderá  efetuar  o 
 pagamento  da  dívida  em  seu  próprio  nome,  ficando 
 sempre sub‐rogado nos direitos da parte credora. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 10
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 41 
- 
+---
+ENUM Questão 41 
 
 Embora  sujeito  às  constantes  mutações  e  às  diferenças  de 
 contexto em que é aplicado, o conceito tradicional de contrato 
 sugere que ele representa o acordo de vontades estabelecido 
 com a finalidade de produzir efeitos jurídicos. 
  
-
 Tomando  por  base  a  teoria  geral  dos  contratos,  assinale  a 
 afirmativa correta. 
  
+OPTIONS
 
 A) A  celebração de  contrato atípico,  fora do  rol  contido na 
 legislação,  não  é  lícita,  pois  as  partes  não  dispõem  da 
 liberdade  de  celebrar  negócios  não  expressamente 
 regulamentados por lei. 
 
-B) A atipicidade contratual é possível, mas, de outro lado, há 
+B:CORRECT) A atipicidade contratual é possível, mas, de outro lado, há 
 regra específica prevendo não ser lícita a contratação que 
 tenha por objeto a herança de pessoa viva, seja por meio 
 de contrato típico ou não. 
@@ -1351,10 +1174,9 @@ nosso Código Civil. 
 D) Será  obrigatoriamente  declarado  nulo  o  contrato  de 
 adesão que contiver cláusulas ambíguas ou contraditórias. 
 
+---
+ENUM Questão 42 
  
-Questão 42 
- 
-
 Em  janeiro de 2010, Nádia, unida estavelmente com Rômulo, 
 após dez anos de convivência e sem que houvesse entre eles 
 contrato  escrito  que  disciplinasse  as  relações  entre 
@@ -1369,11 +1191,11 @@ de qualquer espécie, contra quem quer que fosse  ‐  ingressou 
 com  ação  de  usucapião,  pretendendo  o  reconhecimento 
 judicial  para  adquirir  integralmente  o  domínio  do  referido 
 imóvel. 
- 
 
 Diante dessa situação hipotética, assinale a afirmativa correta. 
- 
 
+OPTIONS
+ 
 A) A pretensão de aquisição do domínio  integral do  imóvel 
 por  Rômulo  é  infundada,  pois  o  prazo  assinalado  pelo 
 Código Civil é de 10 (dez) anos. 
@@ -1389,14 +1211,15 @@ por Rômulo é infundada, pois tal direito só existe para as 
 situações em que as pessoas foram casadas sob o regime 
 da comunhão universal de bens. 
 
-D) A pretensão de aquisição do domínio  integral do  imóvel 
+D:CORRECT) A pretensão de aquisição do domínio  integral do  imóvel 
 por  Rômulo  preenche  todos  os  requisitos  previstos  no 
 Código Civil. 
 
-Questão 43 
+---
+ENUM Questão 43 
  
 Eduardo e Mônica, casados, tinham um filho menor chamado 
-Renato.   Por orientação de um advogado, Eduardo e Mônica, 
+Renato. Por orientação de um advogado, Eduardo e Mônica, 
 em  2005,  fizeram  os  respectivos  testamentos  e  nomearam 
 Lúcio,  irmão  mais  velho  de  Eduardo,  como  tutor  do  menor 
 para  o  caso  de  alguma  eventualidade.  Pouco  antes  da 
@@ -1405,6 +1228,7 @@ condenado  pelo  crime  de  dano  (art.  163  do  Código  Penal), 
 mas  o  casal  manteve  a  nomeação,  acreditando  no 
 arrependimento de Lúcio, que, desde então, mostrou conduta 
 socialmente adequada.  
+
 Em 2010, Eduardo e Mônica morreram em um acidente aéreo. 
 Dois  anos  depois  do  acidente,  pretendendo  salvaguardar  os 
 interesses do menor colocado sob sua tutela, Lúcio, prevendo 
@@ -1414,9 +1238,9 @@ imóveis  do  patrimônio  de  Renato,  depositando, 
 imediatamente, todo o dinheiro obtido na negociação em uma 
 conta de poupança, aberta em nome do menor. 
  
-
 Diante do caso narrado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A nomeação de Lúcio como tutor é  inválida em razão de 
 ter  sido  condenado  criminalmente,  independentemente 
@@ -1428,7 +1252,7 @@ B) A  nomeação  de  Lúcio  como  tutor  é  válida,  apesar  da 
 condenação criminal, e a alienação do imóvel é lícita, pois 
 atende ao princípio do melhor interesse do menor. 
 
-C) A  nomeação  de  Lúcio  como  tutor  é  válida,  apesar  da 
+C:CORRECT) A  nomeação  de  Lúcio  como  tutor  é  válida,  apesar  da 
 condenação  criminal,  mas  a  alienação  do  imóvel,  sem 
 prévia avaliação e autorização judicial, é ilícita. 
 
@@ -1437,39 +1261,8 @@ condenado  criminalmente, mas  a  alienação  do  imóvel  é 
 lícita, pois somente bens móveis de alto valor necessitam 
 de prévia avaliação e autorização judicial. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 11
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 44 
- 
+---
+ENUM Questão 44 
 
 João e Maria, ambos adolescentes, com dezessete e dezesseis 
 anos,  respectivamente,  resolvem  realizar  uma  viagem  para 
@@ -1478,11 +1271,11 @@ destino, o  jovem  casal elege Armação dos Búzios, no estado 
 do Rio de  Janeiro, e efetua a  reserva, por  telefone, em uma 
 pousada do balneário.  
  
-
 Considerando  a  normativa  acerca  da  prevenção  especial 
 contida  na  Lei  n.  8.069,  de  13  de  julho  de  1990,  assinale  a 
 afirmativa correta. 
  
+OPTIONS
 
 A) O  casal  poderá  hospedar‐se  na  pousada  reservada  sem 
 quaisquer  restrições,  já  que  ambos  são  maiores  de 
@@ -1505,46 +1298,23 @@ portanto,  dispensável  que  os  adolescentes  estejam 
 acompanhados  dos  pais  ou  responsáveis,  ou,  ainda, 
 autorizados por estes para a regular hospedagem.  
 
-D) O  titular  da  pousada,  ou  um  de  seus  prepostos,  pode, 
+D:CORRECT) O  titular  da  pousada,  ou  um  de  seus  prepostos,  pode, 
 legitimamente e fundado na legislação especial que tutela 
 a  criança  e  o  adolescente,  negar‐se  a  promover  a 
 hospedagem  do  jovem  casal,  já  que  ambos  estão 
 desacompanhados dos pais ou responsável e desprovidos, 
 igualmente, da autorização específica exigida pelo ECA. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 45 
- 
+---
+ENUM Questão 45 
 
 Acerca das atribuições do Conselho Tutelar determinadas no 
 Estatuto  da  Criança  e  do Adolescente,  assinale  a  alternativa 
 correta.  
  
+OPTIONS
 
-A) O  Conselho  Tutelar,  considerando  sua  natureza  não 
+A:CORRECT) O  Conselho  Tutelar,  considerando  sua  natureza  não 
 jurisdicional,  destaca‐se  no  aconselhamento  e  na 
 orientação  à  família  ou  responsável  pela  criança  ou 
 adolescente,  inclusive  na  hipótese  de  inclusão  em 
@@ -1569,19 +1339,18 @@ Ministério Público notícia de  fato que  constitua  infração 
 administrativa ou penal  contra os direitos da  criança ou 
 adolescente. 
 
+---
+ENUM Questão 46 
  
-Questão 46 
- 
-
 João celebrou contrato de seguro de vida e invalidez, aderindo 
 a plano oferecido por conhecida rede particular. O contrato de 
 adesão,  válido  por  cinco  anos,  prevê  a  possibilidade  de 
 cancelamento,  em  favor  da  seguradora,  antes  de  ocorrer  o 
 sinistro, por alegação de desequilíbrio econômico‐financeiro.  
  
-
 A esse respeito, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Os  contratos  de  seguro  ofertados  no  mercado  de 
 consumo,  apesar  de  serem  de  adesão,  são  regidos  pelo 
@@ -1593,7 +1362,7 @@ cancelamento  unilateral  do  contrato  em  caso  de 
 desequilíbrio econômico, seria viável desde que exercida 
 na primeira metade do contrato. 
 
-C) O  Ministério  Público  tem  legitimidade  para  ajuizar 
+C:CORRECT) O  Ministério  Público  tem  legitimidade  para  ajuizar 
 demanda contra a seguradora, buscando ser declarada a 
 nulidade  da  cláusula  contratual  celebrada  com  os 
 consumidores, e que seja proibido à seguradora continuar 
@@ -1604,24 +1373,9 @@ abusiva,  pois  o  seguro  deve  atentar  para  a  equação 
 financeira atuarial, necessária ao equilíbrio econômico da 
 avença e à própria higidez e continuidade do contrato. 
 
+---
+ENUM Questão 47 
  
- 
- 
- 
- 
- 
-
-
-
- 
-
- 12
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 47 
- 
-
 Determinado consumidor, ao mastigar uma  fatia de pão com 
 geleia,  encontrou  um  elemento  rígido,  o  que  lhe  causou 
 intenso desconforto e a quebra parcial de um dos dentes. Em 
@@ -1631,16 +1385,16 @@ do processo, a perícia constatou que o elemento encontrado 
 era  uma  pequena  porção  de  açúcar  cristalizado,  não 
 oferecendo risco à saúde do autor.  
  
-
 Diante desta narrativa, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) O  fabricante  e  o  fornecedor  do  serviço  devem  ser 
 excluídos  de  responsabilidade,  visto  que  o material  não 
 ofereceu  qualquer  risco  à  integridade  física  do 
 consumidor, não merecendo reparação. 
 
-B) O  elemento  rígido  não  característico  do  produto,  ainda 
+B:CORRECT) O  elemento  rígido  não  característico  do  produto,  ainda 
 que  não  o  tornasse  impróprio  para  o  consumo,  violou 
 padrões  de  segurança,  já  que  houve  dano  comprovado 
 pelo consumidor.  
@@ -1655,18 +1409,18 @@ qualquer medida  contra o  fabricante, posto que não há 
 fato ou vício do produto, motivo pelo qual não deve ser  
 responsabilizado pelo alegado defeito. 
 
+---
+ENUM Questão 48 
  
-Questão 48 
- 
-
 Com  relação  ao  instituto  do  cheque,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) O  cheque  pode  ser  sacado  contra  pessoa  jurídica, 
 instituições financeiras e instituições equiparadas. 
 
-B) O  portador  não  pode  recusar  o  pagamento  parcial  do 
+B:CORRECT) O  portador  não  pode  recusar  o  pagamento  parcial  do 
 cheque. 
 
 C) O  cheque  pode  consubstanciar  ordem  de  pagamento  à 
@@ -1674,37 +1428,29 @@ vista ou a prazo. 
 
 D) A ação de execução do cheque contra o sacador prescreve 
 em  1  (um)  ano  contado  do  prazo  final  para  sua 
-apresentação. 
-
+apresentação.
  
-
-Questão 49 
+---
+ENUM Questão 49 
  
-
 A  respeito  do  sócio  ostensivo  da  sociedade  em  conta  de 
 participação, assinale a afirmativa correta. 
  
-
 A) É também chamado de sócio oculto. 
-B) É  o  único  responsável  pela  atividade  constitutiva  do 
 
+B:CORRECT) É  o  único  responsável  pela  atividade  constitutiva  do 
 objeto social. 
-C) É  o  novo  sócio  admitido,  mesmo  que  sem  o 
 
+C) É  o  novo  sócio  admitido,  mesmo  que  sem  o 
 consentimento  dos  demais,  quando  a  sociedade 
 necessitar de um aporte de capital. 
 
 D) É  o  único  sócio  ostensivo  da  sociedade,vedada  a 
 pluralidade de sócios dessa natureza. 
 
+---
+ENUM Questão 50 
  
- 
- 
- 
-
-Questão 50 
- 
-
 A  Assembleia  Geral  de  S.A.  Empreendimentos  Turísticos, 
 companhia  aberta  sediada  em  “X”,  delegou  ao  Conselho  de 
 Administração  a  deliberação  sobre  a  oportunidade  de 
@@ -1712,13 +1458,13 @@ emissão,  época  e  condições  de  vencimento  de  debêntures 
 conversíveis  em  ações.  Petrossian  Participações  Ltda., 
 acionista  minoritário,  consultou  seu  advogado  sobre  a 
 legalidade da deliberação.  
- 
 
 Com  relação  ao  fato  acima,  assinale  a  alternativa  que 
 apresenta a resposta correta à consulta. 
  
+OPTIONS
 
-A) A  deliberação  é  válida,  porque  a  deliberação  sobre  a 
+A:CORRECT) A  deliberação  é  válida,  porque  a  deliberação  sobre  a 
 oportunidade  de  emissão,  a  época  e  as  condições  de 
 vencimento  de  debêntures  conversíveis  em  ações  pode 
 ser delegada ao Conselho de Administração. 
@@ -1738,13 +1484,13 @@ minoritários,  pois  a  emissão  de  debêntures  conversíveis 
 em  ações  acarretará  aumento  de  capital  com  diluição 
 injustificada de participação desses acionistas. 
 
+---
+ENUM Questão 51 
  
-Questão 51 
- 
-
-A  respeito  da  recuperação  judicial,  assinale  a  afirmativa 
+A respeito da recuperação  judicial,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) O juiz somente poderá conceder a recuperação judicial do 
 devedor cujo plano de  recuperação  tenha sido aprovado 
@@ -1755,7 +1501,7 @@ judicial a qualquer tempo, desde que antes da concessão 
 da  recuperação  judicial  pelo  juiz,  bastando,  para  tanto, 
 comunicar sua desistência ao juízo da recuperação. 
 
-C) O juiz decretará falência, caso o devedor não apresente o 
+C:CORRECT) O juiz decretará falência, caso o devedor não apresente o 
 plano de  recuperação no prazo de 60  (sessenta) dias da 
 publicação  da  decisão  que  deferir  o  processamento  da 
 recuperação.  
@@ -1763,40 +1509,18 @@ recuperação.  
 D) O  plano  de  recuperação  apresentado  pelo  devedor,  em 
 hipótese alguma, poderá sofrer alterações. 
  
-
+---
+ENUM Questão 52 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 13
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 52 
- 
-
 José  decidiu  constituir  uma  Empresa  Individual  de 
 Responsabilidade  Limitada  (EIRELI)  para  atuar  no  município 
 “X”  e  consultou  um  advogado  para  obter  esclarecimentos 
 sobre a administração da EIRELI. 
  
-
 Assinale  a  alternativa  que  apresenta  a  informação  correta 
 dada pelo advogado. 
  
+OPTIONS
 
 A) A  designação  de  administrador  não  sócio  depende  do 
 voto  favorável  de  2/3  (dois  terços)  do  capital  social,  se 
@@ -1806,7 +1530,7 @@ B) A  administração  atribuída  pelo  contrato  a  qualquer  dos 
 sócios da EIRELI não se estende de pleno direito aos que 
 posteriormente adquirirem essa qualidade. 
 
-C) O  administrador  da  EIRELI,  seja  o  próprio  instituidor  ou 
+C:CORRECT) O  administrador  da  EIRELI,  seja  o  próprio  instituidor  ou 
 terceiro,  responde  por  culpa  no  desempenho  de  suas 
 atribuições perante terceiros prejudicados. 
 
@@ -1814,21 +1538,21 @@ D) O  titular da EIRELI poderá usar a  firma ou denominação, 
 sendo  vedado  seu  uso  pelo  terceiro,  ainda  que  seja 
 designado administrador. 
 
+---
+ENUM Questão 53 
  
-Questão 53 
- 
-
 A parte que, no curso do processo comum ordinário, suscitar 
 questão  prejudicial  e  requerer  ao  juiz  não  apenas  o  exame, 
 mas  o  julgamento  dessa  questão,  que  passará  a  integrar  o 
 dispositivo da sentença, deverá requerer 
  
+OPTIONS
 
 A) sua  declaração  incidental  por  ação,  mas  mesmo  assim, 
 quanto  a  essa  questão  prejudicial,  se  formará  apenas 
 coisa julgada formal. 
 
-B) sua  declaração  incidental  por  ação,  para  que  se  forme, 
+B:CORRECT) sua  declaração  incidental  por  ação,  para  que  se  forme, 
 quanto  a  essa  questão  prejudicial,  a  coisa  julgada 
 material. 
 
@@ -1839,42 +1563,39 @@ D) o  julgamento  antecipado  dessa  questão,  por  meio  de 
 decisão  interlocutória,  no  momento  do  despacho 
 saneador. 
 
+---
+ENUM Questão 54 
  
-Questão 54 
- 
-
 O  procedimento  sumário  deve  ser  adotado  em  causas  cujo 
 valor não supere sessenta salários mínimos ou em situações, 
 qualquer que seja o valor da causa, em que se debata um dos 
 assuntos previstos na lei. 
  
-
 Indique, dentre as alternativas abaixo, a que contém espécie 
 de  resposta que não  pode  ser  apresentada pelo  réu no  rito 
 comum sumário. 
- 
 
-A) Reconvenção. 
+OPTIONS
+ 
+A:CORRECT) Reconvenção. 
+
 B) Exceção. 
+
 C) Contestação. 
+
 D) Impugnação ao valor da causa. 
  
- 
- 
- 
- 
-
-Questão 55 
- 
+---
+ENUM Questão 55 
 
 A uniformização de  jurisprudência é um  instituto  jurídico que 
 tem por objetivo diminuir os  impactos das divergências entre 
 julgamentos do mesmo assunto.  
  
-
 A  respeito  da  uniformização  de  jurisprudência,  asinale  a 
 afirmativa correta. 
- 
+
+OPTIONS
 
 A) A uniformização de jurisprudência é um recurso capaz de 
 provocar  a  votação  acerca  do  melhor  entendimento 
@@ -1887,7 +1608,7 @@ que só será instaurado, levando à suspensão do processo 
 que  está  no  tribunal  até  sua  resolução,  se  houver 
 expresso requerimento das partes nesse sentido. 
 
-C) A divergência que permite a instauração da uniformização 
+C:CORRECT) A divergência que permite a instauração da uniformização 
 de  jurisprudência  é  sempre  verificada  entre  órgãos 
 diversos do mesmo tribunal. 
 
@@ -1895,10 +1616,9 @@ D) A decisão do órgão fracionário que reconhece a existência 
 de divergência acerca da matéria ou deixa de fazê‐lo pode 
 ser impugnada por agravo de instrumento. 
 
+---
+ENUM Questão 56 
  
-Questão 56 
- 
-
 Nos  autos  de  ação  indenizatória  movida  por  Henrique  em 
 face  de  Paulo,  ambos  prósperos  empresários,  transitou  em 
 julgado  sentença  de  procedência  do  pleito  autoral, 
@@ -1907,16 +1627,16 @@ montante  equivalente  a  500  salários  mínimos,  na  data  da 
 prolação da  sentença,  acrescidos  de  juros  legais  e  correção 
 monetária. 
  
-
 Assinale  a  alternativa  que  apresenta  a  providência  a  ser 
 imediatamente adotada pelo advogado de Henrique. 
  
+OPTIONS
 
 A) Instauração  da  fase  de  liquidação  de  sentença  por 
 arbitramento, a fim de apurar o valor da condenação em 
 moeda corrente. 
 
-B) Instauração da fase de cumprimento de sentença, com a 
+B:CORRECT) Instauração da fase de cumprimento de sentença, com a 
 apresentação  da  memória  de  cálculo  contemplando  o 
 valor da condenação em moeda corrente. 
 
@@ -1928,45 +1648,40 @@ valor da condenação em moeda corrente. 
 D) Ajuizamento de  ação  rescisória,  a  fim de que o  tribunal 
 apure o valor da condenação em moeda corrente. 
 
- 
-Questão 57 
- 
+---
+ENUM Questão 57 
 
 Vinícius foi demandado em uma ação de cobrança por ter sido 
 fiador de sua sogra, Francisca. Assinale a alternativa que indica 
 a medida a ser adotada por Vinícius para trazer Francisca para 
 o pólo passivo desse processo. 
  
+OPTIONS
 
 A) Reconvenção. 
+
 B) Denunciação à lide. 
-C) Chamamento ao processo. 
+
+C:CORRECT) Chamamento ao processo. 
+
 D) Nomeação à autoria. 
 
-
-
- 
-
- 14
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 58 
+---
+ENUM Questão 58 
  
-
 O  sistema  processual  pátrio  estabelece  duas  espécies  de 
 incompetência:  a  incompetência  absoluta e  a  incompetência 
 relativa.  
- 
 
 Acerca do tema, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Os  critérios  absolutos  de  fixação  de  competência  são 
 previstos em lei com a finalidade de promover a proteção, 
 precipuamente, de interesses privados. 
 
-B) Em  litígios  que  envolvam  nunciação  de  obra  nova,  é 
+B:CORRECT) Em  litígios  que  envolvam  nunciação  de  obra  nova,  é 
 defeso ao autor optar por fazer o ajuizamento da ação no 
 foro de domicílio do réu ou no foro de eleição. 
 
@@ -1981,19 +1696,19 @@ causa é desrespeitado, hipótese em que  tanto as partes 
 quanto  o  magistrado,  de  ofício,  poderão  suscitar  a 
 incompetência do juízo. 
 
+---
+ENUM Questão 59 
  
-Questão 59 
- 
-
 Em relação ao princípio da insignificância, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) O  princípio  da  insignificância  funciona  como  causa  de 
 exclusão da culpabilidade. A conduta do agente, embora 
 típica e ilícita, não é culpável. 
 
-B) A  mínima  ofensividade  da  conduta,  a  ausência  de 
+B:CORRECT) A  mínima  ofensividade  da  conduta,  a  ausência  de 
 periculosidade  social  da  ação,  o  reduzido  grau  de 
 reprovabilidade do  comportamento e  a  inexpressividade 
 da  lesão  jurídica  constituem,  para  o  Supremo  Tribunal 
@@ -2008,51 +1723,46 @@ violência ou grave ameaça à pessoa (a exemplo do roubo). 
 D) O  princípio  da  insignificância  funciona  como  causa  de 
 diminuição de pena. 
 
+---
+ENUM Questão 60 
  
-Questão 60 
- 
-
 Trata‐se  de  causa  extintiva  da  punibilidade  consistente  na 
 exclusão, por  lei ordinária com efeitos  retroativos, de um ou 
 mais  fatos  criminosos  do  campo  de  incidência  do  Direito 
 Penal,  
- 
+
+OPTIONS
 
 A) o indulto individual. 
-B) a anistia. 
+
+B:CORRECT) a anistia. 
+
 C) o indulto coletivo. 
+
 D) a graça. 
  
+---
+ENUM Questão 61 
  
- 
- 
- 
- 
-
-Questão 61 
- 
-
 Analise detidamente as seguintes situações: 
  
-
 Casuística 1: Amarildo, ao chegar a sua casa, constata que sua 
 filha  foi  estuprada  por  Terêncio.  Imbuído de  relevante  valor 
 moral,  contrata  Ronaldo,  pistoleiro  profissional,  para  tirar  a 
 vida do estuprador. O serviço é regularmente executado. 
  
-
 Casuística  2:  Lucas  concorre  para  um  infanticídio  auxiliando 
 Julieta, parturiente, a matar o nascituro – o que efetivamente 
 acontece. Lucas sabia, desde o início, que Julieta estava sob a 
 influência do estado puerperal. 
  
-
 Levando  em  consideração  a  legislação  vigente  e  a  doutrina 
 sobre  o  concurso  de  pessoas  (concursus  delinquentium),  é 
 correto afirmar que 
  
+OPTIONS
 
-A) no  exemplo  1,  Amarildo  responderá  pelo  homicídio 
+A:CORRECT) no  exemplo  1,  Amarildo  responderá  pelo  homicídio 
 privilegiado  e  Ronaldo  pelo  crime  de  homicídio 
 qualificado  por  motivo  torpe.  No  exemplo  2,  Lucas  e 
 Julieta responderão pelo crime de infanticídio.  
@@ -2078,16 +1788,16 @@ qualificado  pelo motivo  fútil. No  exemplo  2,  Lucas,  que 
 não está  influenciado pelo estado puerperal,  responderá 
 por homicídio e Julieta pelo crime de infanticídio. 
  
-
-Questão 62 
+---
+ENUM Questão 62 
  
-
 Analise  as  hipóteses  abaixo  relacionadas  e  assinale  a 
 alternativa  que  apresenta  somente  causas  excludentes  de 
 culpabilidade. 
  
+OPTIONS
 
-A) Erro  de  proibição;  embriaguez  completa  proveniente  de 
+A:CORRECT) Erro  de  proibição;  embriaguez  completa  proveniente  de 
 caso fortuito ou força maior; coação moral irresistível. 
 
 B) Embriaguez  culposa;  erro  de  tipo  permissivo; 
@@ -2100,23 +1810,9 @@ do dever legal; embriaguez incompleta. 
 D) Embriaguez  incompleta  proveniente  de  caso  fortuito  ou 
 força maior; erro de proibição; obediência hierárquica. 
 
+---
+ENUM Questão 63 
  
- 
- 
- 
- 
-
-
-
- 
-
- 15
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 63 
- 
-
 José conversava com Antônio em frente a um prédio. Durante 
 a conversa, José percebe que João, do alto do edifício,  jogara 
 um vaso mirando a cabeça de  seu  interlocutor. Assustado, e 
@@ -2126,23 +1822,24 @@ Do alto do prédio,  João vê a cena e  fica  irritado ao perceber�
 que,  pela  atuação  rápida  de  José,  não  conseguira  acertar  o 
 vaso na cabeça de Antônio.  
  
-
 Com base no caso apresentado, segundo os estudos acerca da 
 teoria da imputação objetiva, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) José praticou lesão corporal culposa. 
+
 B) José praticou lesão corporal dolosa. 
-C) O  resultado  não  pode  ser  imputado  a  José,  ainda  que 
 
+C:CORRECT) O  resultado  não  pode  ser  imputado  a  José,  ainda  que 
 entre a lesão e sua conduta exista nexo de causalidade. 
-D) O  resultado  pode  ser  imputado  a  José,  que  agiu  com 
 
+D) O  resultado  pode  ser  imputado  a  José,  que  agiu  com 
 excesso e sem a observância de devido cuidado. 
  
-Questão 64 
+---
+ENUM Questão 64 
  
-
 Jaime, conhecido pelos colegas como “Jaiminho mão de seda”, 
 utilizando‐se de  sua destreza,  consegue  retirar  a  carteira do 
 bolso  traseiro  da  calça  de  Ricardo  que,  ao  perceber  a 
@@ -2150,21 +1847,23 @@ subtração, sai ao encalço do delinquente. Ocorre que, durante 
 a  perseguição,  Ricardo  acaba  sendo  atropelado,  vindo  a 
 falecer em decorrência dos ferimentos.  
  
-
 Nesse  sentido,  com  base  nas  informações  apresentadas  na 
 hipótese,  e  a  jurisprudência  predominante  dos  tribunais 
 superiores, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Jaime  praticou  delito  de  furto  em  sua  modalidade 
 tentada. 
 
-B) Jaime consumou a prática do delito de furto simples. 
+B:CORRECT) Jaime consumou a prática do delito de furto simples. 
+
 C) Jaime consumou a prática do delito de furto qualificado. 
+
 D) Jaime consumou a prática de latrocínio. 
  
-Questão 65 
- 
+---
+ENUM Questão 65 
 
 Adão  ofereceu  uma  queixa‐crime  contra  Eva  por  crime  de 
 dano  qualificado  (art.  163,  parágrafo  único,  IV).  A  queixa 
@@ -2174,24 +1873,21 @@ pelo  juízo  competente,  que  refere,  equivocadamente,  que  a 
 inicial  é  intempestiva,  pois  já  teria  transcorrido  o  prazo 
 decadencial. 
  
-
 Nesse caso, assinale a afirmativa que indica o recurso cabível. 
  
+OPTIONS
 
-A) Recurso em sentido estrito. 
+A:CORRECT) Recurso em sentido estrito. 
+
 B) Apelação. 
+
 C) Embargos infrigentes. 
+
 D) Carta testemunhável. 
   
+---
+ENUM Questão 66 
  
- 
- 
- 
- 
-
-Questão 66 
- 
-
 O deputado  “M” é um  famoso político do Estado “Y”, e  tem 
 grande  influência  no  governo  estadual,  em  virtude  das 
 posições que  já ocupou, como a de Presidente da Assembleia 
@@ -2203,6 +1899,7 @@ deputado  “M”  exigiu  do  presidente  da  empresa  “Z”  R$ 
 500.000,00  (quinhentos  mil  reais)  para  que  esta  pudesse 
 participar da concorrência para a realização das obras na sede 
 da Câmara dos Deputados. 
+
 O  presidente  da  empresa  “Z”,  assustado  com  tal  exigência, 
 visto  que  sua  empresa  preenchia  todos  os  requisitos  legais 
 para participar das obras, compareceu à Delegacia de Polícia e 
@@ -2217,32 +1914,35 @@ Na qualidade de advogado contratado pelo Deputado, assinale 
 a  alternativa  que  indica  a  peça  processual  ou  pretensão 
 processual, exclusiva de advogado, cabível na hipótese acima. 
 
- 
+OPTIONS 
 
 A) Liberdade Provisória. 
+
 B) Habeas Corpus. 
-C) Relaxamento de Prisão. 
+
+C:CORRECT) Relaxamento de Prisão. 
+
 D) Revisão Criminal. 
  
-
-Questão 67 
+---
+ENUM Questão 67 
  
-
 Um Delegado de Polícia determina a instauração de inquérito 
 policial  para  apurar  a  prática  do  crime  de  receptação, 
 supostamente  praticado  por  José.  Com  relação  ao  Inquérito 
 Policial,  assinale  a  afirmativa  que  não  constitui  sua 
 característica. 
  
-
 A) Escrito. 
+
 B) Inquisitório. 
-C) Indispensável. 
+
+C:CORRECT) Indispensável. 
+
 D) Formal. 
  
-
-Questão 68 
- 
+---
+ENUM Questão 68 
 
 Paulo  reside  na  cidade  “Y”  e  lá  resolveu  falsificar  seu 
 passaporte. Após a falsificação, pegou sua moto e viajou até a 
@@ -2252,36 +1952,32 @@ Militar. Paulo  se  identificou ao policial usando o documento 
 falsificado e este, percebendo a  fraude, encaminhou Paulo à 
 delegacia. O Parquet denunciou Paulo pela prática do crime de 
 uso de documento falso.  
+
 Assinale  a  afirmativa  que  indica  o  órgão  competente  para 
 julgamento. 
  
+OPTIONS
 
 A) Justiça Estadual da cidade “Y”. 
-B) Justiça Federal da cidade “K”. 
+
+B:CORRECT) Justiça Federal da cidade “K”. 
+
 C) Justiça Federal da cidade “Y”. 
+
 D) Justiça Estadual da cidade “K”. 
  
-
-
-
- 
-
- 16
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 69 
+---
+ENUM Questão 69 
  
-
 Pedro  foi  denunciado  pela  prática  de  homicídio  triplamente 
 qualificado. Como se trata de um crime doloso contra a vida, 
 será julgado pelo Tribunal do Júri. O processo seguiu seu curso 
 normal, tendo Pedro sido pronunciado.  
  
-
 Acerca da 2ª fase do procedimento, assinale a afirmativa que 
 não corresponde à realidade. 
  
+OPTIONS
 
 A) Encerrada  a  instrução,  será  concedida  a  palavra  ao 
 Ministério  Público,  que  fará  a  acusação,  nos  limites  da 
@@ -2301,19 +1997,19 @@ acusado  tomarão,  sucessiva  e  diretamente,  as 
 declarações  do  ofendido,  se  possível,  e  inquirirão  as 
 testemunhas arroladas pela acusação. 
 
-D) Durante  o  julgamento  não  será  permitida  a  leitura  de 
+D:CORRECT) Durante  o  julgamento  não  será  permitida  a  leitura  de 
 documento  ou  a  exibição  de  objeto  que  não  tiver  sido 
 juntado aos autos com a antecedência mínima de 3 (três) 
 dias úteis, dando‐se ciência à outra parte, salvo jornais ou 
 revistas. 
  
-
-Questão 70 
+---
+ENUM Questão 70 
  
-
 Acerca  do  Fundo  de Garantia  por  Tempo  de  Serviço  (FGTS), 
 assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A movimentação de conta vinculada do FGTS não poderá 
 ocorrer  nos  casos  de  aposentadoria  espontânea 
@@ -2329,26 +2025,19 @@ regime  da  legislação  trabalhista  não  poderão  estar 
 sujeitos  ao  regime  do  FGTS,  em  razão  da  ausência  de 
 vínculo empregatício. 
 
-D) Nos termos da  lei específica que regulamenta o FGTS, os 
+D:CORRECT) Nos termos da  lei específica que regulamenta o FGTS, os 
 empregadores  deverão  depositar  nas  contas  vinculadas 
 dos  empregados  o  valor  correspondente  a  8%  da 
 remuneração  de  cada  empregado  do  mês  anterior, 
 incluídas  na  remuneração  as  comissões,  gorjetas  e 
 prestações in natura e, ainda, o 13º salário. 
  
+---
+ENUM Questão 71 
  
- 
- 
- 
- 
- 
- 
-
-Questão 71 
- 
-
 A respeito da estabilidade, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A estabilidade da gestante dura de 28 dias antes até 92 
 dias após o parto. 
@@ -2357,7 +2046,7 @@ B) A estabilidade do membro da CIPA dura da eleição até 1 
 ano  após  o  término  do  mandato,  servindo  para  os 
 representantes dos empregados, inclusive suplentes. 
 
-C) A  estabilidade  do  dirigente  sindical  dura  do  registro  da 
+C:CORRECT) A  estabilidade  do  dirigente  sindical  dura  do  registro  da 
 candidatura  até  1  ano  após  o  término  do  mandato, 
 servindo para os representantes dos empregados eleitos e 
 seus  suplentes,  estando  limitada  ao  número  de  7 
@@ -2369,24 +2058,26 @@ estabilidade no curso do aviso prévio, pois este  integra o 
 contrato  de  trabalho  para  todos  os  efeitos,  inclusive 
 pecuniários. 
 
+---
+ENUM Questão 72 
  
-Questão 72 
- 
-
 Segundo expressa previsão em nossa ordem  jurídica, assinale 
 a afirmativa que indica o trabalhador que possui igualdade de 
 direitos com os que têm vínculo empregatício permanente. 
  
+OPTIONS
 
 A) Trabalhador doméstico. 
+
 B) Trabalhador voluntário. 
-C) Trabalhador avulso. 
+
+C:CORRECT) Trabalhador avulso. 
+
 D) Trabalhador eventual. 
 
+---
+ENUM Questão 73 
  
-Questão 73 
- 
-
 João, após completar 21 anos e dois meses de vínculo jurídico 
 de  emprego  com  a  empresa  EGEST  ENGENHARIA,  foi 
 injustificadamente  dispensado  em  11/11/2011.  No  mesmo 
@@ -2398,19 +2089,19 @@ parcelas  resilitórias  a  ambos.  Um  mês  após  a  rescisão 
 contratual,  João  e  José  ajuízam  reclamação  trabalhista, 
 postulando,  dentre  outras  rubricas,  o  pagamento  de  aviso 
 prévio.  
- 
 
 À  luz  da  Lei  n.  12.506/2011,  introduzida  no  ordenamento 
 jurídico  em  11/10/2011,  que  regula  o  pagamento  do  aviso 
 prévio proporcional ao tempo se serviço, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) João é credor do pagamento de aviso prévio na razão de 
 93  dias,  enquanto  que  José  fará  jus  ao  pagamento  de 
 aviso prévio de 105 dias. 
 
-B) Tanto João quanto José farão  jus ao pagamento de aviso 
+B:CORRECT) Tanto João quanto José farão  jus ao pagamento de aviso 
 prévio na razão de 90 dias. 
 
 C) Uma vez que ambos foram admitidos em data anterior à 
@@ -2422,31 +2113,25 @@ D) João é credor do pagamento de aviso prévio na razão de 
 prévio de 75 dias, uma vez que o aviso prévio é calculado 
 proporcionalmente ao tempo de serviço. 
 
-
-
- 
-
- 17
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-Questão 74 
+---
+ENUM Questão 74 
  
-
 Um  determinado  empregador  paga  os  salários  dos  seus 
 empregados no primeiro dia útil do mês seguinte ao vencido. 
 Encontrando‐se  em  situação  financeira  delicada,  pretende 
 passar  a  honrar  esta  obrigação  no  5º  dia  útil  do  mês 
 subsequente  ao  vencido,  como  normalmente  fazem  os  seus 
 concorrentes.  
+
 A  partir  da  hipótese  apresentada,  assinale  a  afirmativa 
 correta. 
  
+OPTIONS
 
 A) A  alteração  contratual,  por  ser  lesiva  à  classe 
 trabalhadora, é inválida diante do princípio da proteção. 
 
-B) A  alteração  é  válida,  pois  a  nova  data  pretendida 
+B:CORRECT) A  alteração  é  válida,  pois  a  nova  data  pretendida 
 encontra‐se no limite legal. 
 
 C) A  alteração  somente  pode  ser  realizada  se  houver 
@@ -2455,25 +2140,25 @@ previsão em acordo coletivo. 
 D) A  alteração  de  data  somente  prevalecerá  para  os 
 admitidos posteriormente à mudança pretendida. 
 
+---
+ENUM Questão 75 
  
-
-Questão 75 
- 
-
 Um cientista é contratado como empregado para trabalhar no 
 setor  de  pesquisa  de  uma  empresa,  visando  desenvolver 
 atividade inventiva. Após três anos, com uso de equipamentos 
 e  insumos  da  empresa,  o  trabalhador  inventa  um  novo 
 maquinário, cuja patente é requerida e, em breve, introduzida 
 no processo de produção, com previsão de alto lucro.  
+
 Na  hipótese,  caso  nada  tenha  sido  disposto  a  respeito, 
 assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A  invenção pertence exclusivamente ao empregado, mas 
 os lucros deverão ser divididos. 
 
-B) A  invenção  pertence  exclusivamente  ao  empregador, 
+B:CORRECT) A  invenção  pertence  exclusivamente  ao  empregador, 
 dada a atividade para a qual foi contratado o empregado. 
 
 C) A invenção pertence ao empregado e ao empregador, que 
@@ -2483,14 +2168,13 @@ D) A  invenção  pertence  ao  empregador,  mas  é  dado  ao 
 empregado  pedir  indenização  por  dano  material,  a  ser 
 arbitrado pela justiça. 
 
+---
+ENUM Questão 76 
  
-
-Questão 76 
- 
-
 A  respeito do preposto no  Processo do  Trabalho, de  acordo 
 com a legislação, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Não precisa ter conhecimento dos fatos, uma vez que tal 
 característica é própria das testemunhas. 
@@ -2498,28 +2182,31 @@ característica é própria das testemunhas. 
 B) Não precisa ter conhecimento dos fatos, já que atua como 
 representante do empregador. 
 
-C) Deve ter conhecimento dos fatos. 
-D) Deve  ter conhecimento da  interpretação do empregador 
+C:CORRECT) Deve ter conhecimento dos fatos. 
 
+D) Deve  ter conhecimento da  interpretação do empregador 
 quanto aos fatos ocorridos. 
  
-
-Questão 77 
+---
+ENUM Questão 77 
  
-
 Se  for  instalado  conflito  de  competência  positivo  entre  dois 
 juízes  do  Trabalho  do  Estado  de  Pernambuco,  qual  será  o 
 órgão competente para julgá‐lo? 
  
+OPTIONS
 
 A) O TST. 
+
 B) O STJ. 
-C) O TRT de Pernambuco. 
+
+C:CORRECT) O TRT de Pernambuco. 
+
 D) O STF. 
 
-Questão 78 
+---
+ENUM Questão 78 
  
-
 Em  30/7/2008  foi  efetuada  a  penhora  de  um  veículo BMW, 
 modelo X1, por meio de carta precatória executória. Depois de 
 devolvida  a  carta,  o  executado  Eliezer  Filho,  proprietário  do 
@@ -2529,16 +2216,17 @@ alegando  a  existência  de  um  grosseiro  vício,  o  embargante 
 apontou para a  irregularidade na avaliação do bem, uma vez 
 que  constou do auto da  constrição  judicial  sua avaliação em 
 R$  15.000,00, montante muito  abaixo do  valor  de mercado. 
+
 Logo, por  força do princípio da  execução menos onerosa  ao 
 devedor,  requereu  a  reavaliação  do  bem,  sob  pena  de 
 nulidade da execução. 
  
-
 Com base nesse  caso  concreto,  é  correto  afirmar que o  juiz 
 deprecante 
  
+OPTIONS
 
-A) deve remeter os autos ao juízo deprecado, uma vez que o 
+A:CORRECT) deve remeter os autos ao juízo deprecado, uma vez que o 
 ato  de  avaliação  foi  por  ele  praticado,  sendo  sua  a 
 competência para decidir. 
 
@@ -2552,16 +2240,15 @@ D) não deve conhecer dos embargos e extinguir o processo 
 sem  julgamento  do  mérito,  haja  vista  a  sua 
 intempestividade. 
 
+---
+ENUM Questão 79 
  
-
-Questão 79 
- 
-
 A  respeito  do  procedimento  sumaríssimo  no  processo  do 
 trabalho, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) A apreciação da reclamação trabalhista deverá ocorrer no 
+A:CORRECT) A apreciação da reclamação trabalhista deverá ocorrer no 
 prazo máximo de quinze dias da data de seu ajuizamento.  
 
 B) A citação por edital somente é cabível se esgotadas todas 
@@ -2572,13 +2259,13 @@ notificação postal. 
 
 D) Não cabe a interposição de recurso de revista. 
  
-
-Questão 80 
+---
+ENUM Questão 80 
  
-
 Em  relação  ao  valor  das  custas  no  processo  do  trabalho, 
 assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) Quando houver acordo,  incidirão à base de 10% sobre o 
 valor respectivo. 
@@ -2586,183 +2273,9 @@ valor respectivo. 
 B) Quando  o  pedido  for  julgado  improcedente,  sempre 
 haverá a isenção de pagamento. 
 
-C) Quando  for  procedente  o  pedido  formulado  em  ação 
+C:CORRECT) Quando  for  procedente  o  pedido  formulado  em  ação 
 declaratória,  incidirão  à  base  de  2%  sobre  o  valor  da 
 causa. 
 
 D) Quando  o  valor  for  indeterminado,  incidirão  à  base  de 
 20% sobre o que o juiz fixar. 
-
- 
- 
- 
- 
- 
-
-
-
- 
-
- 18
-
-VIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
-QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA 
- 
-Este  questionário  é  de  preenchimento  facultativo  pelo 
-examinando. Como se trata de mera pesquisa, não  influi no 
-resultado final do exame.  
- 
-As  questões  têm  como  objetivo  avaliar  a  qualidade  e  a 
-adequação da prova que você acabou de realizar.  
- 
-Assinale suas respostas nos espaços próprios  (canto  inferior 
-direito) da sua folha de respostas. 
- 
-A OAB e a FGV agradecem sua colaboração. 
- 
-1 
-Na sua avaliação, o grau de dificuldade desta prova, quanto ao 
-conteúdo programático abordado, foi 
-(A) muito fácil. 
-(B) fácil. 
-(C) médio. 
-(D) difícil. 
- 
-2 
-Assinale  a  alternativa  que  indique  a  sua  avaliação  quanto  à 
-capacidade crítica e  interpretativa desta prova em relação ao 
-cenário e ao ordenamento jurídico contemporâneo. 
-(A) Plenamente satisfatória. 
-(B) Satisfatória. 
-(C) Pouco satisfatória. 
-(D) Insatisfatória. 
- 
-3 
-Considerando a extensão da prova em relação ao tempo total, 
-você considera que ela foi 
-(A) muito longa. 
-(B) longa. 
-(C) adequada. 
-(D) curta. 
- 
-4 
-Os  enunciados  das  questões  da  prova  estavam  claros  e 
-objetivos? 
-(A) Sim, todos. 
-(B) Sim, a maioria. 
-(C) Poucos. 
-(D) Não, nenhum. 
- 
-5 
-As  questões  das  diversas  áreas  do  Direito  (Civil,  Penal, 
-Trabalho, Administrativo,  etc.)  apresentavam  o mesmo  nível 
-de dificuldade e compreensão? 
-(A) Sim, todas. 
-(B) Sim, a maioria. 
-(C) Não houve esse nivelamento. 
-(D) Não tenho como opinar. 
- 
- 
- 
- 
-
-6 
-As  informações/instruções  fornecidas  para  a  resolução  da 
-prova foram suficientes e adequadas? 
-(A) Sim, até excessivas. 
-(B) Sim, todas elas. 
-(C) Sim, somente algumas. 
-(D) Não, nenhuma delas. 
- 
-7 
-Assinale  o  tipo  de  dificuldade  que  você  encontrou  ao 
-responder à prova. Indique a preponderante. 
-(A) Desconhecimento do conteúdo. 
-(B) Forma diferente de abordagem do conteúdo. 
-(C) Falta de motivação para fazer a prova. 
-(D)  Não  tive  qualquer  tipo  de  dificuldade  para  responder  à 
-prova. 
- 
-8 
-Considerando  sua  preparação  para  esta  prova,  você  conclui 
-que 
-(A) não estudou a maioria dos conteúdos abordados. 
-(B) estudou a maioria dos conteúdos abordados, mas não os 
-assimilou. 
-(C) estudou e assimilou muitos dos conteúdos abordados. 
-(D) estudou e assimilou todos os conteúdos abordados. 
- 
-9 
-Qual foi o tempo gasto para concluir a prova? 
-(A) Menos de três horas. 
-(B) Entre três e quatro horas. 
-(C) Entre quatro e cinco horas. 
-(D) Não consegui terminar. 
- 
-10 
-Você  considera  o  layout  (formatação  e  diagramação)  desta 
-prova 
-(A) muito bom. 
-(B) bom. 
-(C) regular. 
-(D) ruim. 
- 
-
- 
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-

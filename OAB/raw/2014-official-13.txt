@@ -1,116 +1,39 @@
-
-GETULIO VARGAS
-
-FGV PROJETOS
-
-F U N D A Ç Ã O
-
-Ordem dos Advogados 
-do Brasil
-
-XIII EXAME DE ORDEM UNIFICADO
-
-TIPO 1 - BRANCA
-Atenção!
-Você está recebendo um caderno de provas do tipo 1. Portanto, verifique se sua folha de respostas é, também, do tipo 1. 
-Verifique se o número deste caderno de provas coincide com o registrado no rodapé de cada página. Caso contrário, 
-notifique imediatamente o fiscal de sala para que sejam tomadas as devidas providências.
-
-Informações gerais
-
- Você receberá do fiscal de sala o material descrito a seguir:
-a) uma folha destinada às respostas das questões objetivas formuladas na prova de tipo 1;
-b) este caderno de prova tipo 1, com o enunciado das 80 (oitenta) questões, sem repetição ou falha, e o questionário de 
-percepção sobre a prova, com 10 (dez) questões objetivas.
-
- Ao receber a folha de respostas você deve:
-a) conferir seu nome, número de identidade e número de inscrição;
-b) ler atentamente as instruções para a marcação das respostas das questões objetivas;
-c) assinar a folha de respostas, no espaço reservado, com caneta esferográfica transparente de cor azul ou preta.
-
- As questões são identificadas pelo número que se situa acima do seu enunciado.
-
- Durante a aplicação da prova não será permitido:
-a) qualquer tipo de comunicação entre os examinandos;
-b) levantar da cadeira sem a devida autorização do fiscal de sala;
-c) portar aparelhos eletrônicos, tais como bipe, telefone celular,  walkman, agenda eletrônica, notebook,  palmtop, 
-receptor, gravador,  telefone celular, máquina fotográfica,  controle de alarme de carro etc., bem como relógio de qualquer 
-espécie, protetor auricular, óculos escuros ou quaisquer acessórios de chapelaria, tais como chapéu, boné, gorro etc., e 
-ainda lápis, lapiseira, borracha e/ou corretivo de qualquer espécie.
-
- A FGV realizará a coleta da impressão digital dos examinandos na folha de respostas.
-
- Não será permitida a troca da folha de respostas por erro do examinando.
-
- O tempo disponível para esta prova será de 5 (cinco) horas, já incluído o tempo para marcação da folha de respostas.
-
- Reserve tempo suficiente para marcar sua folha de respostas.
-
- Para fins de avaliação, serão levadas em consideração apenas as marcações realizadas na folha de respostas.
-
- Somente após decorridas duas horas do início da prova você poderá retirar-se da sala de prova sem levar o caderno de 
-questões.
-
- Somente no decorrer dos últimos 60 (sessenta) minutos do período da prova você poderá retirar-se da sala levando o 
-caderno de questões.
-
- Quando terminar sua prova, você deverá, OBRIGATORIAMENTE, entregar a folha de respostas devidamente preenchida 
-e assinada ao fiscal da sala. Aquele que descumprir esta regra será ELIMINADO.
-
- Os 3 (três) últimos examinandos de cada sala só poderão sair juntos,  após entregarem ao fiscal de aplicação os 
-documentos que serão utilizados na correção das provas. Esses examinandos poderão acompanhar, caso queiram, o 
-procedimento de conferência da documentação da sala de aplicação, que será realizada pelo Coordenador da unidade, na 
-Coordenação do local de provas. Caso algum desses examinandos insista em sair do local de aplicação antes de autorizado 
-pelo fiscal de aplicação, deverá assinar termo desistindo do Exame e, caso se negue, será lavrado Termo de Ocorrência, 
-testemunhado pelos 2 (dois) outros examinandos, pelo fiscal de aplicação da sala e pelo Coordenador da unidade de provas.
-
-
-
+---
+ENUM Questão 1 
  
-
- 2
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 1 
- 
-
 O advogado Carlos pretende substabelecer os poderes que lhe 
 foram conferidos pelo seu cliente Eduardo, sem reserva de 
 poderes, pois pretende realizar uma longa viagem, sem saber 
 a data do retorno, não pretendendo manter compromissos 
 profissionais. 
  
-
 Nos termos das normas do Código de Ética, tal ato deve 
  
+OPTIONS
 
 A) prescindir do conhecimento do cliente por ser ato 
-
 privativo. 
 
-B) ser comunicado ao cliente de modo inequívoco. 
+B:CORRECT) ser comunicado ao cliente de modo inequívoco. 
 
 C) ser realizado por tempo determinado. 
 
 D) implicar na devolução dos honorários pagos 
 antecipadamente pelo cliente. 
 
+---
+ENUM Questão 2 
  
-Questão 2 
- 
-
 Sobre o prazo para ajuizamento de ação de cobrança de 
 honorários de advogado, assinale a opção correta. 
- 
+
+OPTIONS
 
 A) Prescreve em dois anos a ação de cobrança de honorários 
 de advogado, contando-se o prazo do vencimento do 
 contrato, se houver. 
 
-B) Prescreve em cinco anos a ação de cobrança de honorários 
+B:CORRECT) Prescreve em cinco anos a ação de cobrança de honorários 
 de advogado, contando-se o prazo do trânsito em julgado 
 da decisão que os fixar. 
 
@@ -122,10 +45,9 @@ D) Prescreve em cinco anos a ação de cobrança de honorários
 de advogado, contando-se o prazo da decisão que os fixar, 
 independentemente do seu trânsito em julgado. 
 
+---
+ENUM Questão 3 
  
-Questão 3 
- 
-
 Maria, após vários anos de tramitação de ação indenizatória 
 em que figurava como autora, decidiu substituir José, 
 advogado que até então atuava na causa, por João, amigo da 
@@ -136,53 +58,48 @@ procurada por José, que desejava receber honorários pelos
 serviços advocatícios prestados até o momento em que foi 
 substituído. 
  
-
 Sobre a hipótese sugerida, assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) José tem direito a receber a integralidade dos honorários 
-
 contratuais e de sucumbência, como se tivesse atuado na 
-
 causa até o final, uma vez que foi substituído por vontade 
-
 da cliente e não sua.  
 
 B) José não tem direito a receber honorários, porque não 
-
 atuou na causa até o seu fim. 
 
 C) José tem direito a receber honorários contratuais, mas não 
-
 tem direito a receber honorários de sucumbência. 
 
-D) José tem direito a receber honorários contratuais, bem 
-
+D:CORRECT) José tem direito a receber honorários contratuais, bem 
 como honorários de sucumbência, calculados 
-
 proporcionalmente, em face do serviço efetivamente 
-
 prestado. 
 
-Questão 4 
+---
+ENUM Questão 4 
  
-
 Maria da Silva, advogada, apresenta requerimento ao 
 Presidente da Seccional da OAB tendo o seu pleito sido 
 indeferido. 
  
-
 Nos termos do Estatuto da Advocacia, cabe recurso ao 
- 
 
-A) Conselho Seccional da OAB. 
+OPTIONS
+
+A:CORRECT) Conselho Seccional da OAB. 
+
 B) Conselho Federal da OAB. 
-C) Presidente do Conselho Federal da OAB. 
-D) Presidente do Tribunal de Ética da OAB. 
- 
-Questão 5 
- 
 
+C) Presidente do Conselho Federal da OAB. 
+
+D) Presidente do Tribunal de Ética da OAB. 
+
+---
+ENUM Questão 5 
+ 
 Agnaldo é advogado na área de Direito de Empresas, tendo 
 como uma de suas clientes a sociedade Cobradora Eficiente 
 Ltda., que consegue realizar os seus atos de cobrança com 
@@ -190,48 +107,55 @@ rara eficiência. Por força de sua atividade, a sociedade é
 convidada a participar de reunião com a Associação dos 
 Consumidores Unidos e envia o seu advogado para dialogar 
 com a referida instituição. 
- 
 
 Consoante o Estatuto da Advocacia, deve o advogado 
 comparecer 
- 
+
+OPTIONS
 
 A) à reunião com seu cliente, responsável pela empresa. 
+
 B) desacompanhado, com procuração com poderes ad juditia. 
-C) à reunião, com mandato outorgado com poderes especiais. 
+
+C:CORRECT) à reunião, com mandato outorgado com poderes especiais. 
+
 D) ao local sem a presença do cliente e sem mandato. 
  
-Questão 6 
+---
+ENUM Questão 6 
  
-
 Abel, por força de suas atividades como advogado, comparece 
 à audiência designada para ocorrer às 13 horas. Aguarda 
 algum tempo, mas não recebe qualquer notícia do início dos 
 trabalhos forenses. 
  
-
 Nesse caso, consoante o Estatuto da Advocacia, 
 protocolizando comunicação em juízo, pode retirar-se do 
 recinto passados 
  
+OPTIONS
 
 A) vinte minutos do horário designado. 
-B) trinta minutos do horário designado. 
+
+B:CORRECT) trinta minutos do horário designado. 
+
 C) quarenta minutos do horário designado. 
+
 D) cinquenta minutos do horário designado. 
  
-Questão 7 
+---
+ENUM Questão 7 
  
-
 A respeito da competência do Conselho Federal da OAB, 
 assinale a opção incorreta. 
  
+OPTIONS
 
 A) Compete ao Conselho Federal da OAB representar, em 
 juízo ou fora dele, os interesses coletivos ou individuais 
 dos advogados. 
 
-B) Compete ao Conselho Federal da OAB editar seu 
+B:CORRECT) Compete ao Conselho Federal da OAB editar seu 
 regimento interno e o regimento interno das Seccionais da 
 OAB. 
 
@@ -242,21 +166,9 @@ nos casos previstos no EAOAB e no regulamento geral.
 D) Compete ao Conselho Federal da OAB velar pela dignidade, 
 independência, prerrogativas e valorização da advocacia. 
 
+---
+ENUM Questão 8  
  
-
-
-
- 
-
- 3
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 8  
- 
-
 A advogada Maria Vivian procura apresentar os seus serviços 
 profissionais como de excelente qualidade, utilizando a 
 estratégia aprendida em tempos em que atuava no teatro, 
@@ -267,36 +179,38 @@ divulgação de material de propaganda, informando o número
 de vitórias obtido em várias causas com temas próprios das 
 causas de massa. 
  
-
 Nos termos do Código de Ética da Advocacia, o advogado não 
 pode 
  
+OPTIONS
 
 A) realizar propaganda, mesmo moderada, da sua atividade. 
-B) ofertar serviços profissionais que impliquem exposição de 
 
+B:CORRECT) ofertar serviços profissionais que impliquem exposição de 
 clientela. 
+
 C) apresentar o seu currículo profissional em público. 
+
 D) distribuir cartões de visita com seu endereço profissional. 
  
-Questão 9 
+---
+ENUM Questão 9 
  
-
 Juarez da Silva, advogado, professor adjunto de Direito 
 Administrativo em determinada Universidade Federal, foi 
 procurado, na qualidade de advogado, por um grupo de 
 funcionários públicos federais que desejavam ajuizar 
 determinada ação contra a União. 
  
-
 Pode Juarez aceitar a causa, advogando contra a União? 
  
+OPTIONS
 
 A) Não. Juarez não pode aceitar a causa, pois está impedido 
 de exercer a advocacia contra a Fazenda Pública que o 
 remunera.  
 
-B) Sim. Juarez poderá aceitar a causa, pois o impedimento de 
+B:CORRECT) Sim. Juarez poderá aceitar a causa, pois o impedimento de 
 exercício da advocacia contra a Fazenda Pública que 
 remunera os advogados que são servidores públicos não 
 inclui a hipótese de docentes de cursos jurídicos. 
@@ -309,28 +223,9 @@ D) Não. Juarez não poderá aceitar a causa, pois exerce o
 cargo de professor universitário, que é incompatível com o 
 exercício da advocacia. 
 
+---
+ENUM Questão 10 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 10 
- 
-
 Valdir representa os interesses de André em ação de divórcio 
 em que estão em discussão diversas questões relevantes, 
 inclusive de cunho financeiro, como, por exemplo, o 
@@ -338,31 +233,23 @@ pensionamento e a partilha de bens. Irritado com as
 exigências de sua ex-esposa, André revela a Valdir que 
 pretende contratar alguém para assassiná-la. 
  
-
 Deve Valdir comunicar o segredo revelado por seu cliente às 
 autoridades competentes? 
  
+OPTIONS
 
 A) Valdir não pode revelar o segredo que lhe foi confiado por 
-
 André, pois o advogado deve sempre guardar sigilo sobre o 
-
 que saiba em razão do seu ofício. 
 
 B) Valdir poderia revelar o segredo que lhe foi confiado por 
-
 André, mas apenas no caso de ser intimado como 
-
 testemunha em ação penal eventualmente deflagrada para 
-
 a apuração do homicídio que viesse a ser efetivamente 
-
 praticado. 
 
-C) Valdir pode revelar o segredo que lhe foi confiado por 
-
+C:CORRECT) Valdir pode revelar o segredo que lhe foi confiado por 
 André, em razão de estar a vida da ex-esposa deste último 
-
 em risco. 
 
 D) Valdir não pode revelar o segredo que lhe foi confiado por 
@@ -370,61 +257,30 @@ André, mas tem obrigação legal de impedir que o
 homicídio seja praticado, sob pena de se tornar partícipe 
 do crime. 
 
+---
+ENUM Questão 11 
  
-Questão 11 
- 
-
 Segundo Chaïm Perelman, ao tratar da argumentação jurídica 
 na obra Lógica Jurídica, a decisão judicial aceitável deve 
 satisfazer três auditórios para os quais ela se destina. 
  
-
 Assinale a alternativa que indica corretamente os auditórios. 
  
+OPTIONS
 
 A) A opinião pública, o parlamento e as cortes superiores. 
 
-B) As partes em litígio, os profissionais do direito e a opinião 
-
+B:CORRECT) As partes em litígio, os profissionais do direito e a opinião 
 pública. 
 
 C) As partes em litígio, o parlamento e as cortes superiores. 
 
 D) As cortes superiores, os organismos internacionais e os 
-
 profissionais do direito. 
 
+---
+ENUM Questão 12  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 4
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 12  
- 
-
 Em seu livro Levando os Direitos a Sério, Ronald Dworkin cita o 
 caso Riggs contra Palmer, em que um jovem matou o próprio 
 avô para ficar com a herança. O Tribunal de Nova Iorque (em 
@@ -435,10 +291,10 @@ não legislado, do direito que diz que ninguém pode se
 beneficiar de sua própria iniquidade ou ilicitude. Assim, o 
 assassino não recebeu sua herança. 
  
-
 Com esse exemplo podemos concluir que a jusfilosofia de 
 Ronald Dworkin, dentre outras coisas, pretende 
  
+OPTIONS
 
 A) revelar que a responsabilidade sobre o maior ou menor 
 grau de justiça de um ordenamento jurídico é 
@@ -453,43 +309,46 @@ C) defender que regras e princípios são normas jurídicas que
 possuem as mesmas características e, por isso, ambos 
 podem ser aplicados livremente pelos tribunais. 
 
-D) argumentar que regras e princípios são normas com 
+D:CORRECT) argumentar que regras e princípios são normas com 
 características distintas e em certos casos os princípios 
 poderão justificar de forma mais razoável a decisão 
 judicial, pois a tornam também moralmente aceitável. 
 
+---
+ENUM Questão 13 
  
-Questão 13 
- 
-
 José é cidadão do município W, onde está localizado o distrito 
 de B. Após consultas informais, José verifica o desejo da 
 população distrital de obter a emancipação do distrito em 
 relação ao município de origem. 
  
-
 De acordo com as normas constitucionais federais, dentre 
 outros requisitos para legitimar a criação de um novo 
 Município, são indispensáveis: 
- 
+
+OPTIONS
 
 A) lei estadual e referendo. 
-B) lei municipal e plebiscito. 
-C) lei municipal e referendo. 
-D) lei estadual e plebiscito. 
- 
-Questão 14 
- 
 
+B) lei municipal e plebiscito. 
+
+C) lei municipal e referendo. 
+
+D:CORRECT) lei estadual e plebiscito. 
+ 
+---
+ENUM Questão 14 
+ 
 No que concerne às condições de elegibilidade para o cargo de 
 prefeito previstas na CRFB/88, assinale a opção correta. 
  
+OPTIONS
 
 A) José, ex-prefeito, que renunciou ao cargo 120 dias antes da 
 eleição poderá candidatar-se à reeleição ao cargo de 
 prefeito. 
 
-B) João, brasileiro, solteiro, 22 anos, poderá candidatar-se, 
+B:CORRECT) João, brasileiro, solteiro, 22 anos, poderá candidatar-se, 
 pela primeira vez, ao cargo de prefeito. 
 
 C) Marcos, brasileiro, 35 anos e analfabeto, poderá 
@@ -499,11 +358,8 @@ D) Luís, capitão do exército com 5 anos de serviço, mas que
 não pretende e nem irá afastar-se das atividades militares, 
 poderá candidatar-se ao cargo de prefeito. 
 
- 
- 
-
-Questão 15 
- 
+---
+ENUM Questão 15 
 
 Ângela, segurada da Previdência Social, residente e 
 domiciliada na comarca X, pretende ajuizar uma demanda 
@@ -514,12 +370,12 @@ sede de vara federal. Contudo, a comarca vizinha Y é sede de
 vara da justiça federal, com competência sobre as comarcas X, 
 Y e Z. 
  
-
 Considerando a situação exposta, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
-A) A ação poderá ser ajuizada na Justiça estadual, perante a 
+A:CORRECT) A ação poderá ser ajuizada na Justiça estadual, perante a 
 vara única da comarca X, cabendo eventual recurso ao 
 Tribunal Regional Federal na área de jurisdição do juiz de 
 primeiro grau. 
@@ -537,19 +393,17 @@ Regional Federal que abrange o estado onde se localiza a
 comarca X, em razão da matéria ser competência 
 originária desse Tribunal. 
 
- 
-Questão 16 
-
- 
+---
+ENUM Questão 16 
 
 Imagine a hipótese na qual o avião presidencial sofre um 
 acidente, vindo a vitimar o Presidente da República e seu Vice, 
 após a conclusão do terceiro ano de mandato. 
  
-
 A partir da hipotese apresentada, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) O Presidente do Senado Federal assume o cargo e 
 completa o mandato. 
@@ -561,44 +415,21 @@ abertas as vagas.
 C) O Presidente do Congresso Nacional assume o cargo e 
 completa o mandato.  
 
-D) O Presidente da Câmara dos Deputados assume o cargo e 
+D:CORRECT) O Presidente da Câmara dos Deputados assume o cargo e 
 convoca eleições que serão realizadas trinta dias após a 
 abertura das vagas, pelo Congresso Nacional, na forma da 
 lei. 
 
+---
+ENUM Questão 17 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 5
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 17 
- 
-
 O Presidente da República possui uma série de competências 
 privativas, que lhe são atribuídas diretamente pela 
 Constituição. Admite-se que algumas delas possam ser 
 delegadas ao Ministro de Estado da pasta relacionada ao 
 tema. Dentre as competências delegáveis, inclui-se 
  
+OPTIONS
 
 A) editar medidas provisórias com força de lei, nos termos do 
 artigo 62 da Constituição. 
@@ -606,30 +437,29 @@ artigo 62 da Constituição.
 B) nomear, observado o disposto no artigo 73, os Ministros 
 do Tribunal de Contas da União. 
 
-C) prover e extinguir os cargos públicos federais, na forma da 
+C:CORRECT) prover e extinguir os cargos públicos federais, na forma da 
 lei. 
 
 D) iniciar o processo legislativo, na forma e nos casos 
 previstos na Constituição. 
 
+---
+ENUM Questão 18 
  
-Questão 18 
- 
-
 A arguição de descumprimento de preceito fundamental 
 (ADPF), regulada pela Lei nº 9.882/99, tem por objeto evitar 
 ou reparar lesão a preceito fundamental, resultante de ato do 
 Poder Público. 
  
-
 Com base no legalmente disposto sobre a ADPF, assinale a 
 opção correta. 
  
+OPTIONS
 
 A) Face à extraordinariedade da ADPF, a decisão de 
 indeferimento liminar da petição inicial é irrecorrível. 
 
-B) De acordo com a Lei nº 9.882/99, vige o principio da 
+B:CORRECT) De acordo com a Lei nº 9.882/99, vige o principio da 
 subsidiariedade quanto ao cabimento da ADPF.  
 
 C) A decisão proferida em ADPF produzirá somente efeitos 
@@ -638,10 +468,9 @@ erga omnes e ex tunc.
 D) O prefeito de qualquer município pode propor ADPF 
 contra lei local perante o STF. 
 
+---
+ENUM Questão 19 
  
-Questão 19 
- 
-
 A ação de habeas data, como instrumento de proteção de 
 dimensão do direito de personalidade, destina-se a garantir o 
 acesso de uma pessoa a informações sobre ela que façam 
@@ -649,41 +478,32 @@ parte de arquivos ou banco de dados de entidades
 governamentais ou públicas, bem como a garantir a correção 
 de dados incorretos.  
  
-
 A partir do fragmento acima, assinale a opção correta. 
  
+OPTIONS
 
 A) Conceder-se-á habeas data para assegurar o 
-
 conhecimento de informações relativas à pessoa do 
-
 impetrante ou de parente deste até o segundo grau, 
-
 constantes de registro ou banco de dados de entidades 
-
 governamentais ou privadas. 
 
 B) Além dos requisitos previstos no Código de Processo Civil 
-
 para petição inicial, a ação de habeas data deverá vir 
-
 instruída com prova da recusa ao acesso às informações ou 
-
 o simples decurso de dez dias sem decisão. 
 
 C) Do despacho de indeferimento da inicial de habeas data 
-
 por falta de algum requisito legal para o ajuizamento 
-
 caberá agravo de instrumento. 
 
-D) A ação de habeas data terá prioridade sobre todos os atos 
+D:CORRECT) A ação de habeas data terá prioridade sobre todos os atos 
 judiciais, com exceção ao habeas corpus e ao mandado de 
 segurança. 
 
-Questão 20 
+---
+ENUM Questão 20 
  
-
 A Companhia Energética de Minas Gerais (Cemig) foi 
 responsabilizada por fiscais do Ministério do Trabalho e 
 Emprego (MTE) e pelo Ministério Público do Trabalho (MPT) 
@@ -692,10 +512,8 @@ de escravos, em Belo Horizonte. Esse fato gravíssimo
 comprova, na prática, violação de um princípio crucial acerca 
 dos Direitos Humanos. 
  
-
 Assinale a opção que expressa esse princípio. 
  
-
 A) O princípio do relativismo cultural determina que o 
 trabalho forçado seja combatido apenas nos países onde a 
 legislação defina tal conduta como ilícita. 
@@ -707,15 +525,14 @@ análoga à de escravo.
 C) O princípio do direito humanitário, pois o trabalho na 
 condição análoga à de escravo é desumano. 
 
-D) O princípio da indivisibilidade dos direitos humanos, pois o 
+D:CORRECT) O princípio da indivisibilidade dos direitos humanos, pois o 
 trabalho na condição análoga à de escravo viola a um só 
 tempo os direitos civis e políticos e os direitos econômicos 
 e sociais. 
 
+---
+ENUM Questão 21 
  
-Questão 21 
- 
-
 Considere a seguinte informação jurisprudencial: “Súmula 
 Vinculante nº 25 do STF: É ilícita a prisão civil de depositário 
 infiel, qualquer que seja a modalidade do depósito.” Os 
@@ -724,10 +541,10 @@ jurisprudência e à adoção da Súmula acima consagraram a
 prevalência do Pacto de São José da Costa Rica e de sua 
 proibição de prisão civil (Artigo 7º, item 7, do Pacto). 
  
-
 Assinale a opção que contém a tese majoritária que 
 fundamentou a decisão do STF. 
- 
+
+OPTIONS
 
 A) A natureza supraconstitucional das Convenções de Direitos 
 Humanos já que estas são universais e possuem força 
@@ -737,7 +554,7 @@ B) A natureza constitucional das Convenções de Direitos
 Humanos que no Brasil decorre do Artigo 5º,  
 § 2°, da Constituição de 1988. 
 
-C) A natureza supralegal das Convenções de Direitos 
+C:CORRECT) A natureza supralegal das Convenções de Direitos 
 Humanos que faz com que elas sejam hierarquicamente 
 superiores ao código civil e ao de processo civil. 
 
@@ -745,31 +562,8 @@ D) A natureza de lei ordinária das Convenções de Direitos
 Humanos, considerando que lei posterior revoga lei 
 anterior. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 6
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 22 
- 
+---
+ENUM Questão 22 
 
 O sistema global de Direitos Humanos foi pensado para 
 proteger as vítimas de violações ou ameaças de violações dos 
@@ -781,9 +575,9 @@ independente voltado especificamente para o julgamento e a
 punição de indivíduos agressores e não diretamente para a 
 proteção das vítimas. 
  
-
 Assinale a opção que indica esse órgão. 
  
+OPTIONS
 
 A) Corte Internacional de Justiça – Corte de Haia – instituída 
 pela Carta das Nações Unidas. 
@@ -791,22 +585,22 @@ pela Carta das Nações Unidas.
 B) Conselho de Segurança da ONU, instituído pela Carta das 
 Nações Unidas. 
 
-C) Tribunal Penal Internacional, instituído pelo Estatuto de 
+C:CORRECT) Tribunal Penal Internacional, instituído pelo Estatuto de 
 Roma. 
 
 D) Corte Europeia dos Direitos dos Homens, instituída pela 
 Convenção Europeia dos Direitos do Homem. 
  
-
-Questão 23 
+---
+ENUM Questão 23 
  
-
 Sobre o sistema de regulação de investimentos e fluxo de 
 capital estrangeiro no atual ordenamento jurídico da 
 República Federativa do Brasil, assinale a afirmativa incorreta. 
  
+OPTIONS
 
-A) É vedada a participação de capital estrangeiro nas 
+A:CORRECT) É vedada a participação de capital estrangeiro nas 
 empresas jornalísticas e de radiodifusão sonora e de sons e 
 imagens, uma vez que sua propriedade é privativa de 
 brasileiros natos. 
@@ -824,47 +618,41 @@ D) Os investimentos de capital estrangeiro, o incentivo aos
 reinvestimentos e a regulação à remessa de lucros serão 
 disciplinados em lei, tendo por base o interesse nacional. 
 
+---
+ENUM Questão 24 
  
-Questão 24 
- 
-
 A respeito da extradição e/ou expulsão de estrangeiro do 
 Brasil, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) É passível de extradição o estrangeiro que, de qualquer 
-
 forma, atentar contra a segurança nacional, a ordem 
-
 pública ou social, a tranquilidade ou a moralidade pública e 
-
 a economia popular, ou cujo procedimento o torne nocivo 
-
 à conveniência e aos interesses nacionais. 
 
 B) É passível de extradição o estrangeiro que praticar fraude a 
-
 fim de obter a sua entrada ou permanência no Brasil. 
 
-C) Caberá exclusivamente ao Presidente da República 
-
+C:CORRECT) Caberá exclusivamente ao Presidente da República 
 resolver sobre a conveniência e a oportunidade de 
-
 expulsão do estrangeiro ou de sua revogação. 
 
 D) A expulsão do estrangeiro não poderá efetivar-se se 
 houver processo ou ocorrido condenação. 
 
-Questão 25 
+---
+ENUM Questão 25 
  
-
 Segundo o entendimento do STF, a taxa cobrada 
 exclusivamente em razão dos serviços públicos de coleta, 
 remoção e tratamento ou destinação de lixo ou resíduos 
 provenientes de imóveis, é 
  
+OPTIONS
 
-A) constitucional, por não violar o conceito constitucional de 
+A:CORRECT) constitucional, por não violar o conceito constitucional de 
 taxa. 
 
 B) inconstitucional, por violar o conceito constitucional de 
@@ -878,10 +666,9 @@ D) inconstitucional, por violar o conceito constitucional de
 taxa, além de ilegal, por violar a definição de taxa contida 
 no Código Tributário Nacional. 
 
+---
+ENUM Questão 26 
  
-Questão 26 
- 
-
 Determinado Estado, localizado na Região Norte do país, 
 instituiu, mediante lei específica, a contribuição para o custeio 
 do serviço de iluminação pública. Nessa linha, com base na 
@@ -889,6 +676,7 @@ competência tributária prevista nas normas constitucionais
 em vigor, tal contribuição instituída pelo respectivo estado-
 membro da Federação é 
  
+OPTIONS
 
 A) constitucional, sendo possível sua cobrança com base nas 
 regras constitucionais em vigor. 
@@ -896,66 +684,48 @@ regras constitucionais em vigor.
 B) inconstitucional, por ser o referido tributo de competência 
 tributária da União Federal. 
 
-C) inconstitucional, por ser o referido tributo de competência 
+C:CORRECT) inconstitucional, por ser o referido tributo de competência 
 do Distrito Federal e dos Municípios. 
 
 D) inconstitucional, visto que somente lei complementar 
 poderá instituir o referido tributo. 
 
+---
+ENUM Questão 27 
  
-Questão 27 
- 
-
 José recebeu auto de infração pelo inadimplemento de 
 determinado tributo instituído por lei ordinária. José contesta 
 a exigência fiscal sob o argumento, correto, de que o tributo 
 em questão deveria ter sido instituído por lei complementar.  
  
-
 A partir da hipótese apresentada, assinale a opção que indica 
 o tributo exigido no referido auto de infração. 
  
+OPTIONS
 
 A) Contribuição de Interesse de Categoria Profissional. 
+
 B) Contribuição de Melhoria. 
+
 C) Contribuição de Intervenção no Domínio Econômico. 
-D) Empréstimo Compulsório. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-
-
+D:CORRECT) Empréstimo Compulsório. 
  
-
- 7
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
+---
+ENUM Questão 28 
  
-
-Questão 28 
- 
-
 A pessoa jurídica XYZ Participações S.A., ao verificar que havia 
 recolhido a maior o Imposto sobre a Renda de Pessoas 
 Jurídicas - IRPJ - dos últimos dois anos, peticionou 
 administrativamente, requerendo a repetição do indébito. No 
 entanto, a Receita Federal do Brasil negou o pedido 
 administrativo.  
+
 Sobre a hipótese, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) O prazo para o contribuinte ajuizar ação anulatória é de 2 
+A:CORRECT) O prazo para o contribuinte ajuizar ação anulatória é de 2 
 (dois) anos, a contar da data da decisão administrativa que 
 indeferiu o pedido de repetição. 
 
@@ -971,18 +741,19 @@ reconhecido por ação ordinária por meio de precatório,
 não sendo possível o recebimento via compensação 
 tributária. 
 
+---
+ENUM Questão 29 
  
-Questão 29 
- 
-
 A União licitou, mediante concorrência, uma obra de 
 engenharia para construir um hospital público. Depois de 
 realizadas todas as etapas previstas na Lei n. 8.666/93, sagrou-
 se vencedora a Companhia X. No entanto, antes de se 
 outorgar o contrato para a Companhia X, a Administração 
 Pública resolveu revogar a licitação.  
+
 Acerca do tema, assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) A Administração Pública pode revogar a licitação, por 
 qualquer motivo, principalmente por ilegalidade, não 
@@ -993,7 +764,7 @@ curso do procedimento e, nesse caso, não pode ser
 decretada em prejuízo da Companhia X, que já se sagrou 
 vencedora. 
 
-C) A revogação, fundada na conveniência e na oportunidade 
+C:CORRECT) A revogação, fundada na conveniência e na oportunidade 
 da Administração Pública, deverá sempre ser motivada e 
 baseada em fato superveniente ao início da licitação. 
 
@@ -1001,11 +772,9 @@ D) Quando a Administração lança um edital e a ele se vincula,
 somente será possível a anulação do certame em caso de 
 ilegalidade, sendo-lhe vedado, pois, revogar a licitação. 
 
+---
+ENUM Questão 30 
  
-
-Questão 30 
- 
-
 José da Silva é o chefe do Departamento de Pessoal de uma 
 Secretaria de Estado. Recentemente, José da Silva avocou a 
 análise de determinada matéria, constante de processo 
@@ -1013,10 +782,12 @@ administrativo inicialmente distribuído a João de Souza, seu
 subordinado, ao perceber que a questão era por demais 
 complexa e não vinha sendo tratada com prioridade por 
 aquele servidor.  
+
 Ao assim agir, José da Silva fez uso 
  
+OPTIONS
 
-A) do poder hierárquico. 
+A:CORRECT) do poder hierárquico. 
 
 B) do poder disciplinar. 
 
@@ -1024,9 +795,9 @@ C) do poder discricionário.
 
 D) da teoria dos motivos determinantes. 
 
-Questão 31  
+---
+ENUM Questão 31  
  
-
 Após conclusão de licitação do tipo menor preço, conduzida 
 por uma autarquia federal para a contratação de serviços de 
 limpeza predial, sagrou-se vencedora a sociedade “LYMPA”, 
@@ -1038,9 +809,9 @@ que o oferecido pela sociedade vencedora. O Ministério
 Público ajuizou ação de improbidade contra o dirigente da 
 autarquia.  
  
-
 A partir do caso apresentado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A improbidade administrativa não está configurada, uma 
 vez que não restou configurado enriquecimento do agente 
@@ -1050,7 +821,7 @@ B) O resultado da ação de improbidade dependerá da
 apuração financeira de eventual prejuízo aos cofres do 
 ente público. 
 
-C) A propositura da ação de improbidade é admissível, ainda 
+C:CORRECT) A propositura da ação de improbidade é admissível, ainda 
 que não haja prejuízo ao erário e nem enriquecimento do 
 agente público. 
 
@@ -1058,21 +829,20 @@ D) A ação de improbidade somente é aceita em relação aos
 atos expressamente tipificados na Lei nº 8.429/1992, o que 
 não atinge a contratação direta sem licitação. 
 
+---
+ENUM Questão 32 
  
-Questão 32 
- 
-
 A União celebrou protocolo de intenções com o Estado A e os 
 Municípios X, Y e Z do Estado B, todos em regiões de fronteira, 
 para a constituição de um consórcio público na área de 
 segurança pública.  
  
-
 Considerando a disciplina legislativa acerca dos consórcios 
 públicos, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) O consórcio público pode adquirir personalidade jurídica 
+A:CORRECT) O consórcio público pode adquirir personalidade jurídica 
 de direito público, constituindo-se em uma associação 
 pública. 
 
@@ -1085,37 +855,12 @@ Municípios não integrantes de Estado não conveniado.
 D) O consórcio público adquire personalidade jurídica com a 
 celebração do protocolo de intenções. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 8
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 33 
- 
+---
+ENUM Questão 33 
 
 Acerca da desapropriação, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Na desapropriação por interesse social, o expropriante tem 
 o prazo de cinco anos, contados da edição do decreto, para 
@@ -1126,17 +871,16 @@ B) Na desapropriação por interesse social, em regra, não se
 exige o requisito da indenização prévia, justa e em 
 dinheiro. 
 
-C) O município pode desapropriar um imóvel por interesse 
+C:CORRECT) O município pode desapropriar um imóvel por interesse 
 social, mediante indenização prévia, justa e em dinheiro. 
 
 D) A desapropriação para fins de reforma agrária da 
 propriedade que não esteja cumprindo a sua função social 
 não será indenizada. 
 
+---
+ENUM Questão 34 
  
-Questão 34 
- 
-
 O Estado X publicou edital de concorrência para a concessão 
 de uma linha de transporte aquaviário interligando os 
 municípios A e B, situados em seu território, por meio do Rio 
@@ -1144,11 +888,12 @@ Azulão. Sobre o tema da concessão de serviços públicos, e
 considerando os dados acima narrados, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) A outorga de concessão de serviço público, em regra, se dá 
 em caráter de exclusividade. 
 
-B) O edital de licitação pode prever a utilização de receitas 
+B:CORRECT) O edital de licitação pode prever a utilização de receitas 
 alternativas, provenientes da exploração de placas 
 publicitárias, com vistas a favorecer a modicidade das 
 tarifas. 
@@ -1160,46 +905,36 @@ D) Na licitação para a concessão de serviços públicos, não se
 admite a inversão da ordem das fases de habilitação e 
 julgamento. 
 
+---
+ENUM Questão 35 
  
-Questão 35 
- 
-
 Nos termos da Lei nº 11.445/2007 (Lei de Diretrizes Nacionais 
 para o Saneamento Básico), assinale a afirmativa que indica o 
 serviço público que não pode ser considerado como 
 saneamento básico. 
  
+OPTIONS
 
 A) Esgotamento sanitário. 
+
 B) Manejo de águas pluviais urbanas. 
+
 C) Limpeza urbana. 
-D) Administração de recursos hídricos. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-Questão 36 
+D:CORRECT) Administração de recursos hídricos. 
  
-
+---
+ENUM Questão 36 
+ 
 Bruno é proprietário de pousada que está em regular 
 funcionamento há seis anos e explora o ecoturismo. Na área 
 em que a pousada está localizada, o estado da federação 
 pretende instituir estação ecológica com o objetivo de 
 promover a proteção da flora e da fauna locais.  
  
-
 A partir do caso apresentado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Não é possível o estado instituir a estação ecológica, pois 
 fere o princípio da segurança jurídica, tendo em vista que a 
@@ -1210,7 +945,7 @@ federação, não impedindo o funcionamento da pousada,
 visto que Bruno tem direito adquirido ao exercício da 
 atividade econômica. 
 
-C) É possível a instituição da estação ecológica com a 
+C:CORRECT) É possível a instituição da estação ecológica com a 
 cessação da atividade econômica da pousada, desde que o 
 Poder Público Estadual indenize Bruno pelos prejuízos que 
 a instituição da unidade de conservação causar à sua 
@@ -1222,20 +957,19 @@ cabendo ao Poder Público qualquer forma de indenização,
 tendo em vista a supremacia do interesse coletivo sobre os 
 interesses individualmente considerados. 
 
+---
+ENUM Questão 37 
  
-Questão 37 
- 
-
 Pedro, menor impúbere, e sem o consentimento de seu 
 representante legal, celebrou contrato de mútuo com Marcos, 
 tendo este lhe entregue a quantia de R$400,00, a fim de que 
 pudesse comprar uma bicicleta.  
  
-
 A respeito desse caso, assinale a afirmativa incorreta. 
  
+OPTIONS
 
-A) O mútuo poderá ser reavido somente se o representante 
+A:CORRECT) O mútuo poderá ser reavido somente se o representante 
 legal de Pedro ratificar o contrato. 
 
 B) Se o contrato tivesse por fim suprir despesas com a própria 
@@ -1249,34 +983,8 @@ consentimento do seu representante legal.
 D) O mútuo também poderia ser reavido caso Pedro tivesse 
 obtido o empréstimo maliciosamente. 
  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 9
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 38 
- 
+---
+ENUM Questão 38 
 
 A transmissibilidade de obrigações pode ser realizada por 
 meio do ato denominado cessão, por meio da qual o credor 
@@ -1285,8 +993,9 @@ fazendo surgir as figuras jurídicas do cedente e do cessionário.
 Constituída essa nova relação obrigacional, é correto afirmar 
 que 
  
+OPTIONS
 
-A) os acessórios da obrigação principal são abrangidos na 
+A:CORRECT) os acessórios da obrigação principal são abrangidos na 
 cessão de crédito, salvo disposição em contrário. 
 
 B) o cedente responde pela solvência do devedor, não se 
@@ -1300,10 +1009,9 @@ D) o devedor não pode opor ao cessionário as exceções que
 tinha contra o cedente no momento em que veio a ter 
 conhecimento da cessão. 
 
+---
+ENUM Questão 39 
  
-Questão 39 
- 
-
 Lúcia, pessoa doente, idosa, com baixo grau de escolaridade, 
 foi obrigada a celebrar contrato particular de assunção de 
 dívida com o Banco FDC S.A., reconhecendo e confessando 
@@ -1313,10 +1021,10 @@ ameaçou Lúcia de não efetuar o pagamento da pensão
 deixada pelo seu falecido marido, caso não fosse assinado o 
 contrato de assunção de dívida.  
  
-
 Considerando a hipótese acima e as regras de Direito Civil, 
 assinale a afirmativa correta. 
  
+OPTIONS
 
 A) O contrato particular de assunção de dívida assinado por 
 Lúcia é anulável por erro substancial, pois Lúcia manifestou 
@@ -1334,25 +1042,14 @@ FDC S.A. pode ser anulado sob fundamento de lesão, uma
 vez que Lúcia assumiu obrigação excessiva sobre premente 
 necessidade. 
 
-D) O negócio jurídico celebrado entre Lúcia e o Banco FDC 
+D:CORRECT) O negócio jurídico celebrado entre Lúcia e o Banco FDC 
 S.A. é anulável pelo vício da coação, uma vez que a ameaça 
 praticada pelo banco foi iminente e atual, grave, séria e 
 determinante para a celebração da avença. 
 
+---
+ENUM Questão 40 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 40 
- 
-
 Felipe, atrasado para um compromisso profissional, guia seu 
 veículo particular de passeio acima da velocidade permitida e, 
 falando ao celular, desatento, não observa a sinalização de 
@@ -1367,11 +1064,11 @@ do sustento antes pago pelo genitor falecido, ajuíza demanda
 reparatória em face de Felipe, que está sendo processado no 
 âmbito criminal por homicídio culposo no trânsito. 
  
-
 Com base no caso em questão, assinale a opção correta. 
  
+OPTIONS
 
-A) Felipe indenizará as despesas comprovadamente gastas 
+A:CORRECT) Felipe indenizará as despesas comprovadamente gastas 
 com o mês de internação para tratamento de Pedro, 
 alimentos indenizatórios a Júlia e Bruno tendo em conta a 
 duração provável da vida do genitor, sem excluir outras 
@@ -1395,43 +1092,9 @@ funeral, luto da família, bem como dos alimentos aos
 dependentes enquanto viverem, excluindo-se quaisquer 
 outras reparações. 
 
+---
+ENUM Questão 41 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 10
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 41 
- 
-
 Ary celebrou contrato de compra e venda de imóvel com 
 Laurindo e, mesmo sem a devida declaração negativa de 
 débitos condominiais, conseguiu registrar o bem em seu 
@@ -1441,10 +1104,10 @@ condominiais em atraso. Inconformado com a situação, Ary
 tentou, sem sucesso, entrar em contato com o vendedor, para 
 que este arcasse com os mencionados valores.  
  
-
 De acordo com as regras concernentes ao direito obrigacional, 
 assinale a opção correta. 
  
+OPTIONS
 
 A) Perante o condomínio, Laurindo deverá arcar com o 
 pagamento das cotas em atraso, pois cabe ao vendedor 
@@ -1461,17 +1124,15 @@ pagamento das cotas em atraso, pois se trata de obrigação
 com eficácia real, uma vez que Ary ainda não possui direito 
 real sobre a coisa. 
 
-D) Perante o condomínio, Ary deverá arcar com o pagamento 
+D:CORRECT) Perante o condomínio, Ary deverá arcar com o pagamento 
 das cotas em atraso, pois se trata de obrigação propter 
 rem, entendida como aquela que está a cargo daquele que 
 possui o direito real sobre a coisa e, comprovadamente, 
 imitido na posse do imóvel adquirido. 
 
+---
+ENUM Questão 42 
  
-
-Questão 42 
- 
-
 Jeremias e Antônio moram cada um em uma margem do rio 
 Tatuapé. Com o passar do tempo, as chuvas, as estiagens e a 
 erosão do rio alteraram a área da propriedade de cada um. 
@@ -1483,48 +1144,40 @@ Antônio também começou a notar diferenças em seu terreno
 na margem do rio. Ambos questionam se não deveriam 
 receber alguma indenização do outro. 
  
-
 Sobre a situação apresentada, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) Trata-se de aquisição por aluvião, uma vez que 
-
+A:CORRECT) Trata-se de aquisição por aluvião, uma vez que 
 corresponde a acréscimos trazidos pelo rio de forma 
-
 sucessiva e imperceptível, não gerando indenização a 
-
 ninguém.  
 
 B) Se for formada uma ilha no meio do rio Tatuapé, 
-
 pertencerá ao proprietário do terreno de onde aquela 
-
 porção de terra se deslocou. 
 
 C) Trata-se de aquisição por avulsão e cada proprietário 
-
 adquirirá a terra trazida pelo rio mediante indenização do 
-
 outro ou, se ninguém tiver reclamado, após o período de 
-
 um ano.  
 
 D) Se o rio Tatuapé secar, adquirirá a propriedade da terra 
 aquele que primeiro a tornar produtiva de alguma 
 maneira, seja como moradia ou como área de trabalho. 
 
-Questão 43 
+---
+ENUM Questão 43 
  
-
 Antônio, muito necessitado de dinheiro, decide empenhar 
 uma vaca leiteira para iniciar um negócio, acreditando que, 
 com o sucesso do empreendimento, terá o animal de volta o 
 quanto antes.  
- 
 
 Sobre a hipótese de penhor apresentada, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) Se a vaca leiteira morrer, ainda que por descuido do 
 credor, Antônio poderá ter a dívida executada 
@@ -1540,27 +1193,26 @@ o penhor estará automaticamente extinto e, declarada sua
 extinção, poder-se-á proceder à adjudicação judicial da 
 vaca leiteira. 
 
-D) Caso o credor pignoratício perceba que, devido a uma 
+D:CORRECT) Caso o credor pignoratício perceba que, devido a uma 
 doença que subitamente atingiu a vaca leiteira, sua morte 
 está próxima, o CC/02 permite a sua venda antecipada, 
 mediante prévia autorização judicial, situação que pode 
 ser impedida por Antônio por meio da sua substituição. 
 
+---
+ENUM Questão 44 
  
-Questão 44 
- 
-
 João e Joana são pais de Mila, 9 anos, e de Letícia, 8 anos. João 
 mudou-se para Maringá depois do divórcio, e levou sua filha 
 mais nova para morar com ele. Nas férias escolares, Letícia 
 quer ir ao Rio de Janeiro visitar sua mãe, enquanto Mila deseja 
 passar seus dias livres com seu pai em Maringá. 
  
-
 Avalie as situações apresentadas a seguir e, de acordo com o 
 Estatuto da Criança e do Adolescente, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) Letícia poderá viajar sem autorização judicial se a sua 
 prima, Olívia, que tem 19 anos, aceitar acompanhá-la. Mila 
@@ -1572,7 +1224,7 @@ responsáveis, Letícia e Mila ficam dispensadas da
 autorização judicial e poderão viajar desacompanhadas 
 dentro do território nacional.  
 
-C) Letícia poderá viajar desacompanhada dos pais por todo 
+C:CORRECT) Letícia poderá viajar desacompanhada dos pais por todo 
 território nacional se houver autorização judicial, que 
 poderá ser concedida pelo prazo de dois anos. Mila não 
 precisará de autorização judicial para ir a Maringá se seu 
@@ -1584,25 +1236,9 @@ autorizada por seus pais, enquanto Letícia não precisaria
 de autorização judicial se seu padrinho, Ricardo, primo do 
 seu pai, a acompanhasse. 
 
+---
+ENUM Questão 45 
  
- 
- 
- 
- 
-
-
-
- 
-
- 11
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 45 
- 
-
 Vilma, avó materna do menor Oscar, de quinze anos de idade, 
 pretende mover ação de suspensão do poder familiar em face 
 de Onísio e Paula, pais do menor. Argumenta que Oscar 
@@ -1610,10 +1246,10 @@ estaria na condição de evasão escolar e os pais negligentes,
 embora incansavelmente questionados por Vilma quanto as 
 consequências negativas para a formação de Oscar. 
  
-
 Considere a hipótese narrada e assinale a única opção correta 
 aplicável ao caso. 
  
+OPTIONS
 
 A) Do ponto de vista processual, Vilma não tem legitimidade 
 para propor a ação que deve ser movida exclusivamente 
@@ -1636,41 +1272,15 @@ aplicada, mas são suficientes ao pleito de aplicação de
 multa e repreensão aos pais negligentes, por se tratar de 
 infração administrativa. 
 
-D) Do ponto de vista processual, Vilma possui legitimidade 
+D:CORRECT) Do ponto de vista processual, Vilma possui legitimidade 
 para propor a ação de suspensão do poder familiar e, 
 tramitando o processo perante a Justiça da Infância e da 
 Juventude, é impositiva a isenção de custas e 
 emolumentos, independente de concessão da gratuidade 
 de justiça, conforme dispõe expressa e literalmente o ECA. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 46 
- 
+---
+ENUM Questão 46 
 
 Eliane trabalha em determinada empresa para a qual uma 
 seguradora apresentou proposta de seguro de vida e 
@@ -1679,12 +1289,12 @@ formulário entregue pela seguradora e, dias depois, recebeu
 comunicado escrito informando, sem motivo justificado, a 
 recusa da seguradora para a contratação por Eliane. 
  
-
 Partindo da situação fática narrada, à luz da legislação vigente, 
 assinale a afirmativa correta. 
  
+OPTIONS
 
-A) Eliane pode exigir o cumprimento forçado da obrigação 
+A:CORRECT) Eliane pode exigir o cumprimento forçado da obrigação 
 nos termos do serviço apresentado, já que a oferta obriga 
 a seguradora e a negativa constituiu prática abusiva pela 
 recusa infundada de prestação de serviço. 
@@ -1705,52 +1315,9 @@ que a proposta de seguro e acidentes pessoais dos
 empregados não configura oferta, nos termos do Código 
 do Consumidor. 
 
+---
+ENUM Questão 47 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 12
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 47 
- 
-
 Mauro adquiriu um veículo zero quilômetro da fabricante 
 brasileira Surreal, na concessionária Possante Ltda., 
 revendedora de automóveis que comercializa habitualmente 
@@ -1764,10 +1331,10 @@ impedindo com isso o descontrole e a derrapagem do veículo.
 Mauro, inconformado, aciona a concessionária postulando a 
 substituição do seu veículo, pelo novo modelo com freio ABS. 
  
-
 Diante do caso narrado e das regras atinentes ao Direito do 
 Consumidor, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Mauro tem direito à substituição, pois o fato de o novo 
 modelo ter sido oferecido com o opcional do freio ABS, de 
@@ -1785,7 +1352,7 @@ adquirido por Mauro, a fabricante Surreal ficará exonerada
 do dever legal de assegurar o oferecimento de 
 componentes e peças de reposição para o automóvel.  
 
-D) Havendo necessidade de reposição de peças ou 
+D:CORRECT) Havendo necessidade de reposição de peças ou 
 componentes no veículo de Mauro, a fabricante Surreal 
 deverá, ainda que cessada a fabricação no país, efetuar o 
 reparo com peças originais por um período razoável de 
@@ -1793,9 +1360,8 @@ tempo, fixado por lei. A reposição com peças usadas só é
 admitida pelo Código do Consumidor quando houver 
 autorização do consumidor. 
 
- 
-Questão 48 
- 
+---
+ENUM Questão 48 
 
 A assembleia geral de credores da sociedade falida 
 “Concessionária de Veículos Pereiro Ltda.” aprovou, com o 
@@ -1803,16 +1369,16 @@ voto favorável de credores que representam 3/4 (três quartos)
 dos créditos presentes à assembleia, a constituição de 
 sociedade formada pelos empregados do próprio devedor. 
  
-
 Sobre esta modalidade de realização do ativo, assinale a 
 afirmativa incorreta. 
  
+OPTIONS
 
 A) Os empregados que vierem a integrar a futura sociedade 
 poderão utilizar créditos derivados da legislação do 
 trabalho para a aquisição da empresa. 
 
-B) A constituição da sociedade formada pelos empregados do 
+B:CORRECT) A constituição da sociedade formada pelos empregados do 
 devedor depende da apresentação, pela massa falida, das 
 certidões negativas de débitos tributários. 
 
@@ -1824,13 +1390,12 @@ D) A constituição de sociedade dos empregados do próprio
 devedor pode contar com a participação, se necessária, 
 dos atuais sócios da falida ou de terceiros. 
 
-Questão 49 
+---
+ENUM Questão 49 
  
-
 Sobre o desenho industrial e seu registro no Instituto Nacional 
 da Propriedade Industrial (INPI), assinale a afirmativa correta. 
  
-
 A) É registrável como desenho industrial qualquer obra 
 ornamental de caráter puramente artístico, ou o conjunto 
 ornamental de linhas e cores que pode ser aplicado a um 
@@ -1849,25 +1414,24 @@ do registro, devendo o INPI ser notificado da propositura
 da ação para avaliar se tem interesse ou não em intervir no 
 feito, quando não for autor. 
 
-D) O pedido de registro que não atender às condições 
+D:CORRECT) O pedido de registro que não atender às condições 
 estabelecidas pelo INPI, mas contiver dados suficientes 
 relativos ao depositante, ao desenho industrial e ao autor, 
 poderá ser recebido, desde que sejam cumpridas, em 5 
 (cinco) dias, as exigências do INPI. 
 
+---
+ENUM Questão 50 
  
-Questão 50 
- 
-
 Ananias Targino consulta sua advogada para saber as 
 providências que deve tomar para publicizar o trespasse do 
 estabelecimento da Empresa Individual de Responsabilidade 
 Limitada (EIRELI) por ele constituída e enquadrada como 
 microempresa, cuja firma é Ananias Targino EIRELI ME.  
  
-
 A advogada corretamente respondeu que 
- 
+
+OPTIONS
 
 A) é dispensável qualquer publicização ou arquivamento do 
 contrato de trespasse do estabelecimento por ser a EIRELI 
@@ -1882,52 +1446,29 @@ Registro Público de Empresas Mercantis, mas ele deverá
 ser publicado na imprensa oficial e em jornal de grande 
 circulação. 
 
-D) é dispensável a publicação do contrato de trespasse na 
+D:CORRECT) é dispensável a publicação do contrato de trespasse na 
 imprensa oficial, mas ele deverá ser arquivado no Registro 
 Público de Empresas Mercantis. 
 
+---
+ENUM Questão 51 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 13
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 51 
- 
-
 Glória vendeu um automóvel a prazo para Valente. O 
 pagamento foi realizado em quatro notas promissórias, com 
 vencimentos em 30, 60, 90 e 120 dias da data de emissão. Os 
 títulos foram endossados em branco para Paulo Afonso, mas 
 foram extraviados antes dos respectivos vencimentos.  
  
-
 Sobre a responsabilidade do emitente e do endossante das 
 notas promissórias, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Apenas o emitente responde pelo pagamento dos títulos 
 porque o endossante não é coobrigado, salvo cláusula em 
 contrário inserida na nota promissória. 
 
-B) A responsabilidade do emitente e do endossante perante o 
+B:CORRECT) A responsabilidade do emitente e do endossante perante o 
 portador subsiste ainda que os títulos tenham sido 
 perdidos ou extraviados involuntariamente. 
 
@@ -1939,21 +1480,20 @@ D) O emitente e o endossante não respondem pelo
 pagamento dos títulos porque só é permitido ao vendedor 
 sacar duplicata em uma compra e venda. 
 
+---
+ENUM Questão 52 
  
-Questão 52 
- 
-
 Olímpio Noronha é servidor público militar ativo e, 
 concomitantemente, exerce pessoalmente atividade 
 econômica organizada sem ter sua firma inscrita na Junta 
 Comercial.  
- 
 
 Em relação às obrigações assumidas por Olímpio Noronha, 
 assinale a alternativa correta. 
  
+OPTIONS
 
-A) São válidas tanto as obrigações assumidas no exercício da 
+A:CORRECT) São válidas tanto as obrigações assumidas no exercício da 
 empresa quanto estranhas a essa atividade e por elas 
 Olímpio Noronha responderá ilimitadamente. 
 
@@ -1969,30 +1509,14 @@ D) São válidas apenas as obrigações relacionadas ao exercício
 da empresa e por elas Olímpio Noronha responderá 
 limitadamente; as demais são anuláveis. 
 
+---
+ENUM Questão 53 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 53 
- 
-
 Com relação aos poderes, deveres e reponsabilidades das 
 partes, dos procuradores e dos juízes, assinale a afirmativa 
 correta. 
- 
+
+OPTIONS
 
 A) O Juiz decidirá a lide nos limites em que foi proposta, 
 sendo-lhe defeso conhecer, em qualquer hipótese, 
@@ -2007,38 +1531,30 @@ C) O Juiz deve declarar-se suspeito de parcialidade, mas
 deverá demonstrar claramente sua motivação, não se 
 admitindo mera arguição de motivo íntimo. 
 
-D) O Juiz, caso as partes e seus advogados empreguem 
+D:CORRECT) O Juiz, caso as partes e seus advogados empreguem 
 expressões injuriosas nos escritos apresentados no 
 processo, poderá mandar riscá-las, podendo assim agir, 
 inclusive, de ofício. 
 
- 
-Questão 54 
- 
+---
+ENUM Questão 54 
 
 A respeito do recurso de agravo, assinale a afirmativa correta. 
- 
 
-A) O relator, recebido o agravo de instrumento no tribunal, 
+OPTIONS
 
+A:CORRECT) O relator, recebido o agravo de instrumento no tribunal, 
 converterá em agravo retido, salvo quando se tratar de 
-
 decisão suscetível de causar à parte lesão grave e de difícil 
-
 reparação. 
 
 B) A regra é, conforme previsto em nosso sistema processual, 
-
 a de utilização do agravo de instrumento para impugnar 
-
 decisões interlocutórias proferidas pelo Juiz. 
 
 C) A interposição do agravo retido impedirá que a decisão 
-
 interlocutória impugnada seja imediatamente reanalisada 
-
 pelo Tribunal e estará condicionada ao prévio pagamento 
-
 do preparo devido. 
 
 D) Interposto o agravo retido para impugnação de decisão 
@@ -2047,38 +1563,9 @@ reanalisar a questão por ocasião da interposição de
 apelação, ainda que nesta não seja requerida 
 expressamente a apreciação de tal recurso. 
 
+---
+ENUM Questão 55 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 14
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 55 
- 
-
 A atividade recursal do Supremo Tribunal Federal e do 
 Superior Tribunal de Justiça encontra-se tradicionalmente 
 associada aos recursos extraordinário e especial, 
@@ -2086,9 +1573,9 @@ respectivamente. Contudo, tal múnus também é
 desempenhado por meio do julgamento do denominado 
 recurso ordinário constitucional. 
  
-
 Acerca dessa espécie recursal, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Exigir-se-á a comprovação do requisito do pré-
 questionamento para a admissão do recurso ordinário 
@@ -2104,14 +1591,13 @@ decidido em única instância pelos Tribunais Regionais
 Federais ou pelos Tribunais dos estados, do Distrito 
 Federal e dos territórios, quando denegatória a decisão. 
 
-D) Serão julgadas em recurso ordinário pelo Superior Tribunal 
+D:CORRECT) Serão julgadas em recurso ordinário pelo Superior Tribunal 
 de Justiça as causas em que forem partes, de um lado, 
 Estado estrangeiro ou organismo internacional e, do outro, 
 município ou pessoa residente ou domiciliada no país. 
 
- 
-Questão 56 
- 
+---
+ENUM Questão 56 
 
 Lindalva faleceu em Minas Gerais, em um acidente durante a 
 prática de montanhismo. Não tinha feito testamento, mas 
@@ -2119,10 +1605,10 @@ deixou dois filhos maiores que residem em dois estados da
 Federação. Apesar de não ter domicílio certo, deixou bens 
 situados nos estados da Bahia e de Mato Grosso. 
  
-
 A repeito da ação de inventário, de acordo com o que dispõe o 
 Código de Processo Civil, assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) A ação de inventário deve ser ajuizada no foro do domicílio 
 dos filhos de Lindalva, pois são eles os inventariantes.  
@@ -2135,27 +1621,13 @@ C) A ação de inventário poderá ser ajuizada no foro da
 situação de qualquer dos bens, uma vez que o autor da 
 herança possui bens em lugares diferentes. 
 
-D) O inventário deverá ser aberto pelos herdeiros no estado 
+D:CORRECT) O inventário deverá ser aberto pelos herdeiros no estado 
 de Minas Gerais, uma vez que Lindalva não tinha domicílio 
 certo e seus bens estavam em lugares diferentes. 
 
+---
+ENUM Questão 57 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 57 
- 
-
 Antônio ajuizou demanda indenizatória em face de Maria, 
 tendo obtido tutela de urgência determinando o embargo de 
 obra em fase de edificação por Maria. Com vistas a 
@@ -2164,10 +1636,10 @@ reconhecido pela sentença condenatória, Maria retoma a obra
 sem aguardar o fim do processo, que se encontra em fase de 
 julgamento da apelação pelo Tribunal de Justiça. 
  
-
 Sobre a hipótese apresentada, de acordo com o CPC, assinale 
 a alternativa correta. 
  
+OPTIONS
 
 A) Antônio poderá ajuizar medida cautelar típica preparatória 
 perante o Tribunal de Justiça. 
@@ -2175,7 +1647,7 @@ perante o Tribunal de Justiça.
 B) O CPC não prevê medida cautelar incidental típica capaz de 
 proteger a alteração do estado de fato do bem por Maria. 
 
-C) Antônio poderá ajuizar medida cautelar típica perante o 
+C:CORRECT) Antônio poderá ajuizar medida cautelar típica perante o 
 órgão jurisdicional que conheceu originariamente da 
 causa. 
 
@@ -2183,10 +1655,9 @@ D) A procedência do pedido de concessão da medida cautelar
 incidental típica ajuizada por Antonio não acarretará a 
 vedação de Maria falar nos autos. 
 
+---
+ENUM Questão 58 
  
-Questão 58 
- 
-
 Mateus ajuizou ação de indenização por danos materiais e 
 compensação por danos morais em face de Tiago, pelo rito 
 ordinário. Os autos foram distribuídos para a 21ª Vara Cível da 
@@ -2196,13 +1667,13 @@ Julgamento para o dia 24.01.2014, às 14 horas, a ser realizada
 na sala de audiências do Fórum Ruy Barbosa. Intimem-se. 
 Diligencie-se.”  
  
-
 Considerando o caso narrado e as regras sobre Audiência de 
 Instrução e Julgamento previstas no Código de Processo Civil, 
 assinale a afirmativa correta. 
  
+OPTIONS
 
-A) A audiência designada para o dia 24.01.2014 é una e 
+A:CORRECT) A audiência designada para o dia 24.01.2014 é una e 
 contínua, todavia, não sendo possível concluir, num só dia, 
 a instrução, o debate e o julgamento, o juiz marcará o seu 
 prosseguimento para dia próximo. 
@@ -2227,21 +1698,8 @@ autor e pelo réu; depoimento pessoal do autor e do réu; e,
 por fim, prestação de esclarecimentos do perito e dos 
 assistentes técnicos aos quesitos formulados pelas partes. 
 
- 
- 
-
-
-
- 
-
- 15
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 59 
- 
+---
+ENUM Questão 59 
 
 Paulo tinha inveja da prosperidade de Gustavo e, certo dia, 
 resolveu quebrar o carro que este último havia acabado de 
@@ -2255,10 +1713,10 @@ Paulo não tinha a intenção de matar Gustavo e que este
 somente recebeu o golpe porque se colocou à frente do carro 
 quando Paulo já estava com a barra de ferro no ar, em rápido 
 movimento para atingir o veículo, que ficou intacto. 
- 
 
 Com base no caso relatado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Paulo responderá por tentativa de dano em concurso 
 formal com homicídio culposo. 
@@ -2266,14 +1724,14 @@ formal com homicídio culposo.
 B) Paulo responderá por homicídio doloso, tendo agido com 
 dolo eventual. 
 
-C) Paulo responderá por homicídio culposo. 
+C:CORRECT) Paulo responderá por homicídio culposo. 
+
 D) Paulo responderá por tentativa de dano em concurso 
+material com homicídio culposo.  
 
-material com homicídio culposo. 
+---
+ENUM Questão 60 
  
-Questão 60 
- 
-
 Maria, jovem de 22 anos, após sucessivas desilusões, deseja 
 dar cabo à própria vida. Com o fim de desabafar, Maria 
 resolve compartilhar sua situação com um amigo, Manoel, 
@@ -2286,10 +1744,10 @@ abrigava uma barraca de feira. Em consequência, Maria sofre
 apenas escoriações pelo corpo e não chega a sofrer nenhuma 
 fratura. 
  
-
 Considerando apenas os dados descritos, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) Manoel deve responder pelo delito de induzimento, 
 instigação ou auxílio ao suicídio em sua forma consumada. 
@@ -2297,7 +1755,7 @@ instigação ou auxílio ao suicídio em sua forma consumada.
 B) Manoel deve responder pelo delito de induzimento, 
 instigação ou auxílio ao suicídio em sua forma tentada. 
 
-C) Manoel não possui responsabilidade jurídico-penal, pois 
+C:CORRECT) Manoel não possui responsabilidade jurídico-penal, pois 
 Maria não morreu e nem sofreu lesão corporal de natureza 
 grave. 
 
@@ -2305,20 +1763,9 @@ D) Manoel, caso tivesse se arrependido daquilo que falou
 para Maria e esta, em virtude da queda, viesse a óbito, 
 seria responsabilizado pelo delito de homicídio. 
 
+---
+ENUM Questão 61 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 61 
- 
-
 Jaime, objetivando proteger sua residência, instala uma cerca 
 elétrica no muro. Certo dia, Cláudio, com o intuito de furtar a 
 casa de Jaime, resolve pular o referido muro, acreditando que 
@@ -2332,9 +1779,9 @@ que a descarga elétrica não era suficiente para matar uma
 pessoa em condições normais de saúde, mas suficiente para 
 provocar o óbito de Cláudio, em virtude de sua cardiopatia. 
  
-
 Nessa hipótese é correto afirmar que 
  
+OPTIONS
 
 A) Jaime deve responder por homicídio culposo, na 
 modalidade culpa consciente. 
@@ -2345,16 +1792,16 @@ modalidade dolo eventual.
 C) Pode ser aplicado à hipótese o instituto do resultado 
 diverso do pretendido. 
 
-D) Pode ser aplicado à hipótese o instituto da legítima defesa 
+D:CORRECT) Pode ser aplicado à hipótese o instituto da legítima defesa 
 preordenada. 
 
+---
+ENUM Questão 62 
  
-Questão 62 
- 
-
 A respeito do benefício da suspensão condicional da execução 
 da pena, assinale a afirmativa incorreta. 
  
+OPTIONS
 
 A) Não exige que o crime praticado tenha sido cometido sem 
 violência ou grave ameaça à pessoa. 
@@ -2366,46 +1813,13 @@ C) Somente pode ser concedido se não for indicada ou se for
 incabível a substituição da pena privativa de liberdade por 
 pena restritiva de direitos. 
 
-D) Sobrevindo, durante o período de prova, condenação 
+D:CORRECT) Sobrevindo, durante o período de prova, condenação 
 irrecorrível por crime doloso, o benefício será revogado, 
 mas tal período será computado para efeitos de detração. 
 
+---
+ENUM Questão 63 
  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 16
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 63 
- 
-
 Considere que determinado agente tenha em depósito, 
 durante o período de um ano, 300 kg de cocaína. Considere 
 também que, durante o referido período, tenha entrado em 
@@ -2415,12 +1829,13 @@ Sobre o caso sugerido, levando em conta o entendimento do
 Supremo Tribunal Federal sobre o tema, assinale a afirmativa 
 correta. 
  
+OPTIONS
 
 A) Deve ser aplicada a lei mais benéfica ao agente, qual seja, 
 aquela que já estava em vigor quando o agente passou a 
 ter a droga em depósito. 
 
-B) Deve ser aplicada a lei mais severa, qual seja, aquela que 
+B:CORRECT) Deve ser aplicada a lei mais severa, qual seja, aquela que 
 passou a vigorar durante o período em que o agente ainda 
 estava com a droga em depósito. 
 
@@ -2432,14 +1847,11 @@ D) O magistrado poderá aplicar o critério do caso concreto,
 perguntando ao réu qual lei ele pretende que lhe seja 
 aplicada por ser, no seu caso, mais benéfica. 
 
+---
+ENUM Questão 64 
  
-
-Questão 64 
- 
-
 Analise os fragmentos a seguir: 
 I. João constrange Maria, por meios violentos, a ter com 
-
 ele relação sexual. Em virtude da violência empregada 
 para a consumação do ato, Maria sofre lesões corporais 
 de natureza grave que a levam a óbito. 
@@ -2452,7 +1864,8 @@ desconhecida por Joaquim.
 
 A partir das situações apresentadas nos fragmentos I e II, os 
 delitos cometidos são, respectivamente, 
- 
+
+OPTIONS
 
 A) estupro qualificado pelo resultado morte e estupro 
 qualificado pelo resultado morte. 
@@ -2463,35 +1876,35 @@ e estupro simples.
 C) estupro qualificado pelo resultado morte e estupro em 
 concurso com homicídio preterdoloso. 
 
-D) estupro qualificado pelo resultado morte e estupro 
+D:CORRECT) estupro qualificado pelo resultado morte e estupro 
 simples. 
 
+---
+ENUM Questão 65 
  
-
-Questão 65 
- 
-
 Em determinada ação penal privada, na qual se apura a 
 prática dos delitos de calúnia e difamação, a parte não 
 apresenta, em alegações finais, pedido de condenação em 
 relação ao delito de calúnia, fazendo-o tão somente em 
 relação ao delito de difamação.  
  
-
 Com relação ao caso apresentado, assinale a afirmativa 
 correta. 
- 
 
-A) Ocorreu a perempção em relação ao delito de calúnia. 
+OPTIONS
+
+A:CORRECT) Ocorreu a perempção em relação ao delito de calúnia. 
+
 B) Não ocorreu perempção em relação a nenhum delito. 
-C) Ocorreu o perdão tácito em relação ao delito de calúnia. 
-D) Não ocorreu perempção, mas, sim, renúncia em relação ao 
 
+C) Ocorreu o perdão tácito em relação ao delito de calúnia. 
+
+D) Não ocorreu perempção, mas, sim, renúncia em relação ao 
 delito de calúnia. 
 
-Questão 66 
+---
+ENUM Questão 66 
  
-
 Carolina, voltando do Paraguai com diversas mercadorias que 
 configurariam o crime de contrabando, entra no país pela 
 cidade de Foz do Iguaçu (PR). Em lá chegando, compra uma 
@@ -2502,21 +1915,23 @@ de uma operação de rotina na rodoviária. Os policiais, então,
 apreendem as mercadorias e conduzem Carolina à Delegacia 
 Policial. 
  
-
 Na hipótese, assinale a alternativa que indica o órgão 
 competente para proceder ao julgamento de Carolina. 
  
+OPTIONS
 
 A) A Justiça Federal de Foz de Iguaçu. 
-B) A Justiça Federal do Rio de Janeiro. 
-C) A Justiça Federal de São Paulo. 
-D) Qualquer das anteriores, independentemente da regra da 
 
+B:CORRECT) A Justiça Federal do Rio de Janeiro. 
+
+C) A Justiça Federal de São Paulo. 
+
+D) Qualquer das anteriores, independentemente da regra da 
 prevenção. 
  
-Questão 67 
+---
+ENUM Questão 67 
  
-
 Fernanda, durante uma discussão com seu marido Renato, 
 levou vários socos e chutes. Inconformada com a agressão, 
 dirigiu-se à Delegacia de Polícia mais próxima e narrou todo o 
@@ -2529,18 +1944,18 @@ reconciliação com o marido, Fernanda foi novamente à
 Delegacia de Polícia requerendo a cessação das investigações 
 para que não fosse ajuizada a ação penal respectiva. 
  
-
 Diante do caso narrado, de acordo com o recente 
 entendimento do Supremo Tribunal Federal, assinale a 
 afirmativa correta. 
  
+OPTIONS
 
 A) No âmbito da Lei Maria da Penha, nos crimes de lesão 
 corporal leve, a ação penal é condicionada à 
 representação. Desta forma, é possível a sua retratação, 
 pois não houve o oferecimento da denúncia. 
 
-B) No âmbito da Lei Maria da Penha, nos crimes de lesão 
+B:CORRECT) No âmbito da Lei Maria da Penha, nos crimes de lesão 
 corporal leve, a ação penal é pública incondicionada, sendo 
 impossível interromper as investigações e obstar o 
 prosseguimento da ação penal. 
@@ -2557,25 +1972,9 @@ conhecimento da autoridade policial será impossível
 impedir o prosseguimento das investigações e o 
 ajuizamento da ação penal. 
 
+---
+ENUM Questão 68 
  
- 
- 
- 
- 
-
-
-
- 
-
- 17
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 68 
- 
-
 Felipe foi reconhecido em sede policial por meio de fotografia 
 como o autor de um crime de roubo. O inquérito policial 
 seguiu seus trâmites de forma regular e o Ministério Público 
@@ -2586,11 +1985,11 @@ decidiu pela citação por edital. Marcela, irmã de Felipe, ao
 passar pelo fórum leu a citação por edital e procurou um 
 advogado para tomar ciência das consequências de tal citação, 
 pois ela também não sabe do paradeiro do irmão. 
- 
 
 Diante da situação descrita, acerca da orientação a ser dada 
 pelo advogado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Felipe deve comparecer em juízo, sob pena de ser 
 processado e condenado sem que seja dada oportunidade 
@@ -2607,43 +2006,15 @@ suspensos, sendo determinada a produção antecipada de
 provas de forma automática, diante do risco do 
 desaparecimento das provas pelo decurso do tempo. 
 
-D) Se Felipe não comparecer e não constituir advogado, o 
+D:CORRECT) Se Felipe não comparecer e não constituir advogado, o 
 processo e o curso do prazo prescricional ficarão 
 suspensos e, se for urgente, o juiz determinará a produção 
 antecipada de provas, podendo decretar a prisão 
 preventiva se presentes os requisitos expressos no artigo 
 312, do CPP. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 69 
- 
+---
+ENUM Questão 69 
 
 João foi denunciado pela prática de crime de furto simples. Na 
 denúncia, o Ministério Público apenas narrou que houve a 
@@ -2654,10 +2025,10 @@ bicho ia pegar”, arrancando, em seguida, o seu cordão. Diante
 da narrativa da violência e da grave ameaça, o juiz fica 
 convencido de que houve crime de roubo e não de furto. 
  
-
 Sobre o caso apresentado, de acordo com o Código de 
 Processo Penal, assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) O juiz na sentença poderá condenar João pelo crime de 
 roubo, com base no artigo 383 do CPP, que assim dispõe: 
@@ -2666,7 +2037,7 @@ denúncia ou queixa, poderá atribuir-lhe definição jurídica
 diversa, ainda que, em consequência, tenha de aplicar 
 pena mais grave”. 
 
-B) Encerrada a instrução probatória, o Ministério Público 
+B:CORRECT) Encerrada a instrução probatória, o Ministério Público 
 deverá aditar a denúncia em 5 (cinco) dias. Se o Ministério 
 Público ficar inerte, o juiz deve aplicar o artigo 28 do CPP. 
 
@@ -2680,10 +2051,9 @@ D) O juiz poderá condenar João pelo crime de roubo,
 independentemente de qualquer providência, em 
 homenagem ao princípio da verdade real. 
 
+---
+ENUM Questão 70 
  
-Questão 70 
- 
-
 ABC Manutenção e Limpeza manteve contrato de 
 fornecimento de mão de obra de limpeza com Aeroportos 
 Brasileiros, empresa pública federal. Por ocasião da ruptura do 
@@ -2697,9 +2067,9 @@ demonstrando a efetiva fiscalização do cumprimento do
 contrato e de aspectos legais, sendo certo que o contrato foi 
 cancelado justamente em razão desta fiscalização. 
  
-
 Diante deste caso, assinale a afirmativa correta. 
- 
+
+OPTIONS
 
 A) A empresa pública federal responde solidariamente por 
 força da terceirização. 
@@ -2712,25 +2082,15 @@ C) A empresa pública federal é parte ilegítima para figurar no
 polo passivo da demanda porque não tem vínculo de 
 emprego com Paulo. 
 
-D) A empresa pública federal não responde pelo 
+D:CORRECT) A empresa pública federal não responde pelo 
 inadimplemento das verbas trabalhistas porque sua 
 responsabilidade não decorre do simples inadimplemento 
 contratual, tendo ficado provado, no caso, que houve 
 efetiva fiscalização por parte da tomadora dos serviços. 
 
-
-
+---
+ENUM Questão 71 
  
-
- 18
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 71 
- 
-
 Helena foi admitida em 12 de fevereiro de 2005 pela empresa 
 Marca Refrigeração Ltda. e dispensada sem justa causa em 07 
 de julho de 2011. Com o advento da regulamentação do aviso 
@@ -2738,35 +2098,34 @@ prévio proporcional ao tempo de serviço (Lei n. 12.506, de 13
 de outubro de 2011), ela pretende o pagamento dessa nova 
 vantagem atribuída à classe trabalhadora.  
  
-
 A respeito desse caso, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Helena receberá aviso prévio proporcional na razão de 45 
 dias. 
 
-B) Helena não receberá aviso prévio proporcional. 
+B:CORRECT) Helena não receberá aviso prévio proporcional. 
+
 C) Helena receberá aviso prévio proporcional na razão de 42 
-
 dias. 
-D) Helena receberá aviso prévio proporcional em razão da 
 
+D) Helena receberá aviso prévio proporcional em razão da 
 ultratividade da norma mais benéfica e pelo princípio da 
 proteção. 
 
- 
-Questão 72 
- 
+---
+ENUM Questão 72 
 
 Uma empresa, em consenso com os seus empregados e com a 
 chancela do sindicato, realiza um acordo coletivo com prazo 
 de vigência indeterminado. 
- 
 
 Com relação a esse caso, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) O instrumento é inválido naquilo que ultrapassar dois 
+A:CORRECT) O instrumento é inválido naquilo que ultrapassar dois 
 anos, prazo máximo de vigência deste instituto. 
 
 B) O acordo é integralmente válido, já que fruto da vontade 
@@ -2779,10 +2138,9 @@ respeito do prazo.
 D) O instrumento é inválido naquilo que ultrapassar quatro 
 anos, prazo máximo de vigência deste instituto. 
 
+---
+ENUM Questão 73 
  
-Questão 73 
- 
-
 Maria, empregada de uma panificadora, adotou uma criança 
 em idade de alfabetização. Quando da adoção, obteve a 
 informação de que faria jus à licença-maternidade, daí 
@@ -2791,9 +2149,9 @@ informada que não desfrutava do mencionado benefício. Na
 dúvida a empregada requereu a licença-maternidade junto ao 
 INSS. 
  
-
 Diante do caso apresentado, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) A duração da licença-maternidade de Maria tem variação 
 de acordo com a idade da criança adotada. 
@@ -2801,7 +2159,7 @@ de acordo com a idade da criança adotada.
 B) Maria não tem direito à licença-maternidade, pois se trata 
 de adoção e a legislação não prevê essa hipótese. 
 
-C) Maria tem direito à licença-maternidade de 120 dias, sem 
+C:CORRECT) Maria tem direito à licença-maternidade de 120 dias, sem 
 prejuízo do emprego e do salário, independentemente da 
 idade da criança adotoda. 
 
@@ -2809,13 +2167,9 @@ D) Maria tem direito a duas semanas de licença-maternidade
 correspondentes ao período de adaptação necessário na 
 adoção. 
 
+---
+ENUM Questão 74 
  
- 
- 
-
-Questão 74 
- 
-
 A empresa Infohoje Ltda. firmou contrato com Paulo, pelo 
 qual ele prestaria consultoria e suporte de serviços técnicos de 
 informática a clientes da empresa. Para tanto, Paulo receberia 
@@ -2827,9 +2181,9 @@ feira, sendo exigida sua assinatura digital pessoal e
 intransferível para cada trabalho, bem como exclusividade na 
 área de informática. 
  
-
 Sobre o caso sugerido, assinale a afirmativa correta. 
  
+OPTIONS
 
 A) Paulo é prestador de serviços autônomo, não tendo 
 vínculo de emprego, pois ausente a subordinação, já que 
@@ -2844,23 +2198,22 @@ vínculo de emprego, pois ausente o requisito da
 pessoalidade, já que impossível saber se era Paulo quem 
 efetivamente estaria trabalhando. 
 
-D) Paulo é empregado da empresa, pois presentes todos os 
+D:CORRECT) Paulo é empregado da empresa, pois presentes todos os 
 requisitos caracterizadores da relação de emprego. 
 
+---
+ENUM Questão 75 
  
-Questão 75 
- 
-
 Os garçons e empregados do restaurante Come Bem Ltda. 
 recebem as gorjetas dadas pelos clientes, de forma 
 espontânea, uma vez que não há a cobrança obrigatória na 
 nota de serviço. 
  
-
 Diante da hipótese apresentada, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) As gorjetas integram a remuneração, mas não servem de 
+A:CORRECT) As gorjetas integram a remuneração, mas não servem de 
 base de cálculo para o pagamento do aviso prévio, 
 adicional noturno, horas-extras e repouso semanal 
 remunerado. 
@@ -2879,45 +2232,24 @@ e repouso semanal remunerado, pois as demais parcelas
 não estão relacionadas com o dia a dia de trabalho efetivo; 
 não havendo trabalho, não há gorjeta. 
 
+---
+ENUM Questão 76 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
- 
-
- 19
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-Questão 76 
- 
-
 Paulo ajuizou ação em face de sua ex-empregadora, a 
 empresa Peças ABC Ltda. Na audiência, o Juiz propôs a 
 conciliação, que foi aceita pelas partes, nada tendo sido 
 discutido sobre custas. 
  
-
 Sobre o caso, assinale a opção que indica a hipótese correta 
 para a fixação das custas. 
- 
+
+OPTIONS
 
 A) O valor das custas ficará sempre a cargo da empresa, razão 
 pela qual não haverá dispensa das mesmas, pois não há 
 gratuidade de justiça para pessoa jurídica. 
 
-B) O valor das custas, não tendo sido convencionado pelas 
+B:CORRECT) O valor das custas, não tendo sido convencionado pelas 
 partes, caberá em partes iguais ao autor e à ré, podendo o 
 autor ser dispensado de sua parte pelo Juiz. 
 
@@ -2926,30 +2258,27 @@ recebendo o valor acordado.
 
 D) Tendo em vista o acordo, não há que se falar em custas. 
  
-Questão 77 
+---
+ENUM Questão 77 
  
-
 Paulo ajuizou reclamação trabalhista em face de sua ex-
 empregadora, empresa Ouropuro Ltda.. No dia da audiência, a 
 ré apresentou exceção de incompetência em razão do lugar, 
 aduzindo fatos que eram desconhecidos até então pelo 
 advogado de Paulo. 
  
-
 De modo a possibilitar a melhor defesa de Paulo e para evitar 
 o possível acolhimento da exceção, de acordo com a legislação 
 trabalhista, assinale a opção que indica o procedimento 
 correto a ser adotado. 
- 
+
+OPTIONS
 
 A) Deverá ser requerido prazo de 10 dias para manifestação 
-
 com o consequente adiamento da audiência. 
 
-B) Deverá o Juiz conceder prazo a Paulo por 24 horas para 
-
+B:CORRECT) Deverá o Juiz conceder prazo a Paulo por 24 horas para 
 manifestação, prolatando a sentença da exceção de 
-
 incompetência na primeira audiência. 
 
 C) O Juiz deverá adiar a audiência para a decisão, não sendo 
@@ -2960,33 +2289,16 @@ D) O Juiz apreciará imediatamente a arguição de exceção de
 incompetência, não havendo previsão de concessão de 
 prazo a Paulo, já que as audiências são unas. 
 
+---
+ENUM Questão 78 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Questão 78 
- 
-
 Rômulo impetrou mandado de segurança contra ato praticado 
 por Juiz do Trabalho que teria violado um direito seu, líquido e 
 certo. Por descuido, Rômulo deixou de juntar os documentos 
 pertinentes, indispensáveis. Verificando o equívoco, o Relator 
 deverá, de acordo com a jurisprudência consolidada do TST, 
  
+OPTIONS
 
 A) conceder prazo improrrogável de 10 dias para o 
 impetrante sanar o vício, sob pena de indeferimento da 
@@ -2995,17 +2307,16 @@ petição inicial.
 B) prosseguir normalmente no trâmite processual, pois a 
 matéria não pode ser conhecida de ofício. 
 
-C) indeferir a petição inicial de plano e extinguir o processo 
+C:CORRECT) indeferir a petição inicial de plano e extinguir o processo 
 sem resolução do mérito. 
 
 D) solicitar à autoridade coatora que, juntamente com as 
 informações que serão prestadas, envie cópia dos 
 documentos faltantes. 
 
+---
+ENUM Questão 79 
  
-Questão 79 
- 
-
 Em outubro de 2013, Gilberto ajuizou ação contra a empresa 
 CSC Computadores Ltda., na qual ainda trabalha, postulando o 
 pagamento de vale-transporte de 2 meses e o ticket refeição 
@@ -3016,11 +2327,11 @@ cláusula 8ª, garante o benefício da alimentação.
 A sentença foi prolatada de forma líquida, no valor total de R$ 
 657,00, mesmo valor de alçada arbitrado na audiência. 
  
-
 Diante do que prevê a Lei, assinale a afirmativa correta. 
  
+OPTIONS
 
-A) Desta sentença não caberá recurso, tendo em vista a 
+A:CORRECT) Desta sentença não caberá recurso, tendo em vista a 
 matéria discutida, bem como por se tratar de causa de 
 alçada exclusiva da Vara. 
 
@@ -3033,10 +2344,9 @@ dos litigantes.
 D) Por envolver análise de Lei Federal, a sentença deve ser 
 submetida ao duplo grau de jurisdição obrigatório. 
 
+---
+ENUM Questão 80 
  
-Questão 80 
- 
-
 Pedro, estivador, logo trabalhador avulso, está insatisfeito 
 com os repasses que lhe são feitos pelos trabalhos no Porto de 
 Tubarão. Pretende ajuizar ação em face do operador portuário 
@@ -3044,135 +2354,18 @@ e do Órgão Gestor de Mão de Obra – OGMO. Como advogado
 de Pedro, indique a Justiça competente para o processamento 
 e julgamento da demanda a ser proposta. 
  
+OPTIONS
 
 A) Justiça Comum Federal, dado que o avulso não tem vínculo 
 de emprego com os réus e a matéria portuária é de âmbito 
 nacional. 
 
-B) Justiça do Trabalho. 
-C) Justiça Comum Estadual, pela ausência de relação 
+B:CORRECT) Justiça do Trabalho. 
 
+C) Justiça Comum Estadual, pela ausência de relação 
 empregatícia, sendo o avulso uma espécie de trabalhador 
 autônomo. 
 
 D) Poderá optar pela Justiça Comum Estadual ou Justiça do 
 Trabalho, caso pretenda o reconhecimento de vínculo de 
 emprego. 
-
-
-
- 
-
- 20
-
-XIII EXAME DE ORDEM UNIFICADO – TIPO 01 – BRANCA 
-
- 
-
-QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA 
- 
-Este questionário é de preenchimento facultativo pelo 
-examinando. Como se trata de mera pesquisa, não influi no 
-resultado final do exame.  
- 
-As questões têm como objetivo avaliar a qualidade e a 
-adequação da prova que você acabou de realizar.  
- 
-Assinale suas respostas nos espaços próprios (canto inferior 
-direito) da sua folha de respostas. 
- 
-A OAB e a FGV agradecem sua colaboração. 
- 
-1 
-Na sua avaliação, o grau de dificuldade desta prova, quanto ao 
-conteúdo programático abordado, foi 
-(A) muito fácil. 
-(B) fácil. 
-(C) médio. 
-(D) difícil. 
- 
-2 
-Assinale a alternativa que indique a sua avaliação quanto à 
-capacidade crítica e interpretativa desta prova em relação ao 
-cenário e ao ordenamento jurídico contemporâneo. 
-(A) Plenamente satisfatória. 
-(B) Satisfatória. 
-(C) Pouco satisfatória. 
-(D) Insatisfatória. 
- 
-3 
-Considerando a extensão da prova em relação ao tempo total, 
-você considera que ela foi 
-(A) muito longa. 
-(B) longa. 
-(C) adequada. 
-(D) curta. 
- 
-4 
-Os enunciados das questões da prova estavam claros e 
-objetivos? 
-(A) Sim, todos. 
-(B) Sim, a maioria. 
-(C) Poucos. 
-(D) Não, nenhum. 
- 
-5 
-As questões das diversas áreas do Direito (Civil, Penal, 
-Trabalho, Administrativo, etc.) apresentavam o mesmo nível 
-de dificuldade e compreensão? 
-(A) Sim, todas. 
-(B) Sim, a maioria. 
-(C) Não houve esse nivelamento. 
-(D) Não tenho como opinar. 
- 
- 
- 
- 
-
-6 
-As informações/instruções fornecidas para a resolução da 
-prova foram suficientes e adequadas? 
-(A) Sim, até excessivas. 
-(B) Sim, todas elas. 
-(C) Sim, somente algumas. 
-(D) Não, nenhuma delas. 
- 
-7 
-Assinale o tipo de dificuldade que você encontrou ao 
-responder à prova. Indique a preponderante. 
-(A) Desconhecimento do conteúdo. 
-(B) Forma diferente de abordagem do conteúdo. 
-(C) Falta de motivação para fazer a prova. 
-(D) Não tive qualquer tipo de dificuldade para responder à 
-prova. 
- 
-8 
-Considerando sua preparação para esta prova, você conclui 
-que 
-(A) não estudou a maioria dos conteúdos abordados. 
-(B) estudou a maioria dos conteúdos abordados, mas não os 
-assimilou. 
-(C) estudou e assimilou muitos dos conteúdos abordados. 
-(D) estudou e assimilou todos os conteúdos abordados. 
- 
-9 
-Qual foi o tempo gasto para concluir a prova? 
-(A) Menos de três horas. 
-(B) Entre três e quatro horas. 
-(C) Entre quatro e cinco horas. 
-(D) Não consegui terminar. 
- 
-10 
-Você considera o layout (formatação e diagramação) desta 
-prova 
-(A) muito bom. 
-(B) bom. 
-(C) regular. 
-(D) ruim. 
- 
-
- 
-
-
-
-

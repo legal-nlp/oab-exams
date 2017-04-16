@@ -1,75 +1,11 @@
+---
+ENUM Questão 1 
 
-Ordem dos Advogados do Brasil
-Exame de Ordem Unificado – 2010.2
-
-Caderno de prova
-
-Leia com atenção as instruções a seguir:
-1. Você está recebendo do fi scal de sala o seguinte material:
-
-a) uma folha desti nada às respostas das questões formuladas na prova;
-b) um caderno com 100 (cem) questões objeti vas, sem repeti ção ou falha, e o questi onário de percepção sobre a prova, com 10 (dez)
-
-questões objeti vas.
-2. Ao receber a folha de respostas você deve:
-
-a) verifi car se o número deste caderno de provas coincide com o registrado em sua folha de respostas e no rodapé de cada página deste
-caderno;
-
-b) conferir seu nome, número de identi dade e número de inscrição;
-c) comunicar imediatamente ao fi scal da sala, qualquer erro encontrado no material recebido;
-d) ler atentamente as instruções para a marcação das respostas das questões objeti vas;
-e) assinar a folha de respostas, no espaço reservado, com caneta esferográfi ca transparente de cor azul ou preta.
-
-3. Quando autorizado pelo fi scal de aplicação, escreva, no espaço apropriado de sua folha de respostas, com a sua caligrafi a usual, a seguinte
-frase:
-
-“Juízes, não sois máquinas! Homens é o que sois!”
-Conforme previsão editalícia, o descumprimento desta instrução implicará a anulação de sua prova e sua eliminação do Exame de Ordem.
-
-4. As questões são identi fi cadas pelo número que se situa acima do seu enunciado.
-5. Durante a aplicação da prova não será permiti do:
-
-a) qualquer ti po de comunicação entre os examinandos;
-b) levantar da cadeira sem a devida autorização do fi scal de sala;
-c) portar aparelhos eletrônicos, tais como bipe, telefone celular, walkman, agenda eletrônica, notebook, palmtop, receptor, gravador,
-
-máquina fotográfi ca, controle de alarme de carro, etc., bem como relógio de qualquer espécie, óculos escuros ou qualquer acessório de
-chapelaria, como chapéu, boné, gorro, etc., e ainda lápis, lapiseira, borracha ou correti vo de qualquer espécie.
-
-6. A FGV realizará a coleta da impressão digital dos examinandos na folha de respostas.
-7. Não será permiti da a troca da folha de respostas por erro do examinando.
-8. O tempo disponível para esta prova será de 5 (cinco) horas, já incluido o tempo para marcação da folha de respostas.
-9. Reserve os vinte minutos fi nais para marcar sua folha de respostas.
-10. Para fi ns de avaliação, serão levadas em consideração apenas as marcações realizadas na folha de respostas.
-11. Somente após decorridas duas horas do início da prova, você poderá reti rar-se da sala de prova sem levar o caderno de questões.
-12. Somente após decorridas quatro horas do início da prova, você poderá reti rar-se da sala de prova levando o caderno de questões.
-13. Quando terminar sua prova, entregue a folha de respostas devidamente preenchida e assinada ao fi scal da sala.
-14. Os 3 (três) últi mos examinandos de cada sala só poderão sair juntos, devendo obrigatoriamente testemunhar o lacre da embalagem de
-
-segurança pelo fi scal de aplicação, contendo os documentos que serão uti lizados na correção das provas dos examinandos, assinando termo
-quanto a esse procedimento. Caso algum desses examinandos insista em sair do local de aplicação antes de presenciar o procedimento
-descrito, deverá assinar termo desisti ndo do Exame e, caso se negue, será lavrado Termo de Ocorrência, testemunhado pelos 2 (dois) outros
-examinandos, pelo fi scal de aplicação da sala e pelo Coordenador da unidade de provas.
-
-15. Boa prova!
-
-01
-
-www.questoesdeconcursos.com.br
-
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 2 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-01 A00413
 O Congresso Nacional e suas respecti vas Casas se reúnem anualmente
 para a ati vidade legislati va. Com relação ao sistema consti tucional
 brasileiro, assinale a alternati va correta.
+
+OPTIONS
 
 (A) Legislatura: o período compreendido entre 2 de fevereiro a 17
 de julho e 1º de agosto a 22 de dezembro.
@@ -77,7 +13,7 @@ de julho e 1º de agosto a 22 de dezembro.
 (B) Sessão legislati va: os quatro anos equivalentes ao mandato dos
 parlamentares.
 
-(C) Sessão conjunta: a reunião da Câmara dos Deputados e do
+(C:CORRECT) Sessão conjunta: a reunião da Câmara dos Deputados e do
 Senado Federal desti nada, por exemplo, a conhecer do veto
 presidencial e sobre ele deliberar.
 
@@ -88,12 +24,16 @@ requerimento da maioria dos membros de ambas as Casas
 para, excepcionalmente, inaugurar a sessão legislati va e eleger
 as respecti vas mesas diretoras.
 
-02 A00436
+---
+ENUM Questão 2
+
 A obrigatoriedade ou necessidade de deliberação plenária dos
 tribunais, no sistema de controle de consti tucionalidade brasileiro,
 signifi ca que:
 
-(A) somente pelo voto da maioria absoluta de seus membros ou
+OPTIONS
+
+(A:CORRECT) somente pelo voto da maioria absoluta de seus membros ou
 dos membros do respecti vo órgão especial poderão os tribunais
 declarar a inconsti tucionalidade de lei ou ato normati vo do
 Poder Público.
@@ -114,13 +54,17 @@ normati vo do Poder Público pode ser delegada a qualquer tribunal,
 condicionada a delegação a que a decisão seja proferida por este
 órgão jurisdicional delegado em sessão plenária.
 
-03 A00426
+---
+ENUM Questão 3
+
 A respeito do Conselho Nacional de Justi ça é correto afi rmar que:
+
+OPTIONS
 
 (A) é órgão integrante do Poder Judiciário com competência
 administrati va e jurisdicional.
 
-(B) pode rever, de ofí cio ou mediante provocação, os processos
+(B:CORRECT) pode rever, de ofí cio ou mediante provocação, os processos
 disciplinares de juízes e membros de Tribunais julgados há
 menos de um ano.
 
@@ -131,11 +75,15 @@ e do Superior Tribunal de Justi ça.
 Federal que o integra e que exerce o direito de voto em todas
 as deliberações submeti das àquele órgão.
 
-04 A00424
+---
+ENUM Questão 4
+
 Em relação aos Ministros de Estado, a Consti tuição do Brasil
 estabelece que:
 
-(A) como delegatários do Presidente da República, podem, desde
+OPTIONS
+
+(A:CORRECT) como delegatários do Presidente da República, podem, desde
 que autorizados, exti nguir cargos públicos.
 
 (B) podem expedir instruções para a execução de leis e editarem
@@ -146,11 +94,15 @@ medidas provisórias.
 (D) respondem, qualquer que seja a infração cometi da, perante o
 Superior Tribunal de Justi ça.
 
-05 A00431
+---
+ENUM Questão 5
+
 Considerando que nos termos dispostos no art. 133 da Consti tuição do
 Brasil, o advogado é indispensável à administração da justi ça, sendo
 até mesmo inviolável por seus atos e manifestações no exercício da
 profi ssão, é correto afi rmar que:
+
+OPTIONS
 
 (A) a imunidade profi ssional não pode sofrer restrições de qualquer
 natureza.
@@ -160,7 +112,7 @@ Judiciário pelo qual tramite, independentemente de sua natureza,
 objeto e partes envolvidas, pode receber a prestação jurisdicional
 se não houver atuação de advogado.
 
-(C) a inviolabilidade do escritório ou local de trabalho é assegurada
+(C:CORRECT) a inviolabilidade do escritório ou local de trabalho é assegurada
 nos termos da lei, não sendo vedadas, contudo, a busca e a
 apreensão judicialmente decretadas, por decisão moti vada,
 desde que realizada na presença de representante da OAB,
@@ -171,32 +123,17 @@ proceder à indicação.
 somente poderá ocorrer em fl agrante, mesmo em caso de
 crime afi ançável.
 
-PROVA OBJETIVA
+---
+ENUM Questão 6
 
-As siglas encontradas na prova devem ser interpretadas da seguinte forma:
-
-CF = Consti tuição Federal de 1988; CLT = Consolidação das Leis do Trabalho; CP = Código Penal; CPC = Código de Processo Civil; CPP = Código
-de Processo Penal; CTN = Código Tributário Nacional; OAB = Ordem dos Advogados do Brasil; ONU = Organização das Nações Unidas;
-STF = Supremo Tribunal Federal; STJ = Superior Tribunal de Justi ça; TRT = Tribunal Regional do Trabalho; ECA = Estatuto da Criança e do
-Adolescente.
-
-www.questoesdeconcursos.com.br
-
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 3 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-06 A00420
 Sabe-se a polêmica ainda existente na doutrina consti tucionalista
 pátria no que se refere à eventual hierarquia da Lei Complementar
 sobre a Lei Ordinária. Todavia, há diferenças entre essas duas espécies
 normati vas que podem até gerar vícios de inconsti tucionalidade caso
 não respeitadas durante o processo legislati vo.
 A parti r do fragmento acima, assinale a afi rmati va incorreta.
+
+OPTIONS
 
 (A) A Lei Complementar exige aprovação por maioria absoluta,
 enquanto a lei ordinária é aprovada por maioria simples
@@ -213,18 +150,22 @@ resíduo competi rá à lei ordinária.
 (C) As matérias reservadas à Lei Complementar não serão objeto
 de delegação do Congresso ao Presidente da República.
 
-(D) A discussão e votação dos projetos de lei ordinária devem,
+(D:CORRECT) A discussão e votação dos projetos de lei ordinária devem,
 obrigatoriamente, ter início na Câmara dos Deputados.
 
-07 A00425
+---
+ENUM Questão 7
+
 Em relação à inovação da ordem consti tucional que insti tuiu a
 nominada Súmula Vinculante, é correto afi rmar que:
+
+OPTIONS
 
 (A) somente os Tribunais Superiores podem editá-la.
 
 (B) podem ser canceladas, mas vedada a mera revisão.
 
-(C) a proposta para edição da Súmula pode ser provocada
+(C:CORRECT) a proposta para edição da Súmula pode ser provocada
 pelos legiti mados para a propositura da ação direta de
 inconsti tucionalidade.
 
@@ -233,14 +174,18 @@ o Supremo Tribunal Federal poderá, de ofí cio ou por provocação,
 aprovar a Súmula mediante decisão da maioria absoluta de
 seus membros.
 
-08 A00407
+---
+ENUM Questão 8
+
 Um determinado Estado-membro editou lei estabelecendo disciplina
 uniforme para a data de vencimento das mensalidades das insti tuições
 de ensino sediadas no seu território.
 Examinada a questão à luz da parti lha de competência entre os entes
 federati vos, é correto afi rmar que:
 
-(A) mensalidade escolar versa sobre direito obrigacional, portanto,
+OPTIONS
+
+(A:CORRECT) mensalidade escolar versa sobre direito obrigacional, portanto,
 de natureza contratual, logo cabe à União legislar sobre o
 assunto.
 
@@ -255,15 +200,19 @@ Estado-membro é concorrente com a da União.
 assunto quando se tratar de mensalidades cobradas por
 insti tuições parti culares de Ensino Médio.
 
-09 A00421
+---
+ENUM Questão 9
+
 Sobre o instrumento jurídico denominado Medida Provisória que não é
 lei, mas tem força de lei, assinale a afi rmati va correta.
+
+OPTIONS
 
 (A) A sua efi cácia dura sessenta dias contados da publicação,
 podendo a medida ser prorrogada apenas duas vezes, ambas
 por igual período.
 
-(B) Se a Medida Provisória perder efi cácia por decurso de prazo
+(B:CORRECT) Se a Medida Provisória perder efi cácia por decurso de prazo
 ou, em caráter expresso, for rejeitada pelo Congresso Nacional,
 vedada será sua reedição na mesma sessão legislati va.
 
@@ -277,10 +226,14 @@ lei que disciplina o mesmo assunto e que, a par de já aprovado
 pelo Congresso Nacional, está pendente de sanção ou veto do
 Presidente da República.
 
-10 A00435
+---
+ENUM Questão 10
+
 Declarando o Supremo Tribunal Federal, incidentalmente, a
 inconsti tucionalidade de lei ou ato normati vo federal em face da
 Consti tuição do Brasil, caberá
+
+OPTIONS
 
 (A) ao Procurador-Geral da República, como chefe do Ministério
 Público da União, expedir atos para o cumprimento da decisão
@@ -289,7 +242,7 @@ pelos membros do Ministério Público Federal e dos Estados.
 (B) ao Presidente da República editar decreto para tornar inválida
 a lei no âmbito da administração pública.
 
-(C) ao Senado Federal suspender a execução da lei, total ou
+(C:CORRECT) ao Senado Federal suspender a execução da lei, total ou
 parcialmente, conforme o caso, desde que a decisão do
 Supremo Tribunal Federal seja defi niti va.
 
@@ -297,12 +250,16 @@ Supremo Tribunal Federal seja defi niti va.
 impedir que a União seja compelida a cumprir a referida
 decisão.
 
-11 A00136
+---
+ENUM Questão 11
+
 A doutrina costuma afi rmar que certas prerrogati vas postas à
 Administração encerram verdadeiros poderes, que são irrenunciáveis
 e devem ser exercidos sempre que o interesse público clamar. Por tal
 razão são chamados poder-dever.
 A esse respeito é correto afi rmar que:
+
+OPTIONS
 
 (A) o poder regulamentar é amplo, e permite, sem controvérsias, a
 edição de regulamentos autônomos e executórios.
@@ -315,22 +272,14 @@ prévia.
 administrador ilimitada margem de opções quanto à sanção a
 ser, eventualmente, aplicada.
 
-(D) o poder hierárquico é inerente à ideia de verti calização
+(D:CORRECT) o poder hierárquico é inerente à ideia de verti calização
 administrati va, e revela as possibilidades de controlar ati vidades,
 delegar competência, avocar competências delegáveis e invalidar
 atos, dentre outros.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 12
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 4 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-12 A00130
 Em determinado procedimento administrati vo disciplinar, a
 Administração federal impôs, ao servidor, a pena de advertência,
 tendo em vista a comprovação de ato de improbidade. Inconformado,
@@ -340,11 +289,13 @@ nº 8112/90 e da Lei 9784/98.
 Com base no fragmento acima, é correto afi rmar que a Administração
 Federal
 
+OPTIONS
+
 (A) agiu em desrespeito aos princípios da efi ciência e da
 instrumentalidade, autorizati vos da reforma em prejuízo do
 recorrente, desde que não imponha pena grave. 
 
-(B) agiu em respeito aos princípios da legalidade e autotutela,
+(B:CORRECT) agiu em respeito aos princípios da legalidade e autotutela,
 autorizati vos da reforma em prejuízo do recorrente.
 
 (C) não observou o princípio da dignidade da pessoa humana,
@@ -353,13 +304,17 @@ trazendo equivocada reforma em prejuízo do recorrente.
 (D) não observou o princípio do devido processo legal, trazendo
 equivocada reforma em prejuízo do recorrente.
 
-13 A00125
+---
+ENUM Questão 13
+
 Acerca do tombamento, como uma das formas de o Estado intervir
 na propriedade privada, os proprietários passam a ter obrigações
 negati vas que estão relacionadas nas alternati vas a seguir, à exceção
 de uma. Assinale-a.
 
-(A) Os proprietários são obrigados a colocar os seus imóveis
+OPTIONS
+
+(A:CORRECT) Os proprietários são obrigados a colocar os seus imóveis
 tombados à disposição da Administração Pública para que
 possam ser uti lizados como reparti ções públicas, quando da
 necessidade imperiosa de uti lização, a fi m de suprir a prestação
@@ -376,10 +331,14 @@ administrati vo competente.
 (D) Os proprietários não podem alienar os bens, ressalvada a
 possibilidade de transferência para uma enti dade pública.
 
-14 A00138
+---
+ENUM Questão 14
+
 O poder de polícia, conferindo a possibilidade de o Estado limitar o
 exercício da liberdade ou das faculdades de proprietário, em prol do
 interesse público
+
+OPTIONS
 
 (A) gera a possibilidade de cobrança, como contraparti da, de preço
 público.
@@ -389,18 +348,22 @@ público.
 (C) afasta a razoabilidade, para ati ngir os seus objeti vos maiores,
 em prol da predominância do interesse público.
 
-(D) deve ser exercido nos limites da lei, gerando a possibilidade de
+(D:CORRECT) deve ser exercido nos limites da lei, gerando a possibilidade de
 cobrança de taxa.
 
-15 A00103
+---
+ENUM Questão 15
+
 No Direito Público brasileiro, o grau de autonomia das Agências
 Reguladoras é defi nido por uma independência
+
+OPTIONS
 
 (A) administrati va total e absoluta, uma vez que a Consti tuição da
 República de 1988 não lhes exige qualquer liame, submissão ou
 controle administrati vo dos órgãos de cúpula do Poder Executi vo.
 
-(B) administrati va miti gada, uma vez que a própria lei que cria cada
+(B:CORRECT) administrati va miti gada, uma vez que a própria lei que cria cada
 uma das Agências Reguladoras defi ne e regulamenta as relações
 de submissão e controle, fundado no poder de supervisão dos
 Ministérios a que cada uma se encontra vinculada, em razão
@@ -416,10 +379,14 @@ brasileira.
 de políti cas públicas adotadas pelos Poderes do Estado
 (executi vo e legislati vo).
 
-16 A00113
+---
+ENUM Questão 16
+
 Nas hipóteses de desapropriação, em regra geral, os requisitos
 consti tucionais a serem observados pela Administração Pública são
 os seguintes:
+
+OPTIONS
 
 (A) comprovação da necessidade ou uti lidade pública ou de
 interesse social; pagamento de indenização prévia ao ato de
@@ -427,7 +394,7 @@ imissão na posse pelo Poder Público, e que seja justa e em
 dinheiro; e observância de ato administrati vo, sem contraditório
 por parte do proprietário.
 
-(B) comprovação da necessidade ou uti lidade pública ou de
+(B:CORRECT) comprovação da necessidade ou uti lidade pública ou de
 interesse social; pagamento de indenização prévia ao ato de
 imissão na posse pelo Poder Público, e que seja justa e em
 dinheiro; e observância de procedimento administrati vo,
@@ -449,21 +416,15 @@ e em dinheiro; e observância de procedimento administrati vo,
 com respeito ao contraditório e ampla defesa por parte do
 proprietário.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 17
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 5 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-17 A00110
 Uma das característi cas dos contratos administrati vos é a
 “instabilidade” quanto ao seu objeto que decorre
 
-(A) do poder conferido à Administração Pública de alterar,
+OPTIONS
+
+(A:CORRECT) do poder conferido à Administração Pública de alterar,
 unilateralmente, algumas cláusulas do contrato, no curso de sua
 execução, na forma do arti go 58, inciso I da Lei n. 8.666/93, a
 fi m de adequar o objeto do contrato às fi nalidades de interesse
@@ -489,7 +450,9 @@ vinculação ao edital licitatório, do qual o contrato e seu objeto
 fazem parte integrante; e o princípio da juridicidade, do qual
 aquele primeiro decorre.
 
-18 A00134
+---
+ENUM Questão 18 
+
 Determinada Administração Pública realiza concurso para
 preenchimento de cargos de deteti ve, categoria I. Ao fi nal do certame,
 procede à nomeação e posse de 400 (quatrocentos) aprovados.
@@ -499,11 +462,13 @@ passam a exercer as ati vidades de delegado. Com o transcurso de
 
 A parti r do fragmento acima, assinale a alternati va correta.
 
+OPTIONS
+
 (A) Os referidos agentes têm razão, pois investi dos irregularmente,
 estão exercendo as suas ati vidades há mais de 4 (quatro) anos,
 a consolidar a situação.
 
-(B) É inconsti tucional toda modalidade de provimento que propicie
+(B:CORRECT) É inconsti tucional toda modalidade de provimento que propicie
 ao servidor investi r-se, sem prévia aprovação em concurso
 público desti nado ao seu provimento, em cargo que não integra
 a carreira na qual anteriormente foi investi do.
@@ -517,10 +482,14 @@ pois afronta o princípio do concurso público, porém não podem
 ter alterado os ganhos vencimentais, sedimentado pelos anos,
 pelo princípio da irreduti bilidade.
 
-19 A00116
+---
+ENUM Questão 19
+
 No âmbito do Poder discricionário da Administração Pública, não
 se admite que o agente público administrati vo exerça o Poder
 discricionário
+
+OPTIONS
 
 (A) quando esti ver diante de conceitos legais e jurídicos
 parcialmente indeterminados, que se tornam determinados à
@@ -534,10 +503,12 @@ cientí fi cos, sendo, neste caso, limitado às escolhas técnicas, por
 pela lei, que dependem de concreti zação pelas escolhas do
 agente, considerados o momento histórico e social.
 
-(D) em situações em que a redação da Lei se encontra insati sfatória
+(D:CORRECT) em situações em que a redação da Lei se encontra insati sfatória
 ou ultrapassada.
 
-20 A00121
+---
+ENUM Questão 20
+
 Uma determinada empresa concessionária transfere o seu
 controle acionário para uma outra empresa privada, sem noti fi car,
 previamente, o Poder concedente, parte no contrato de concessão.
@@ -547,7 +518,9 @@ poderá tomar, se não restarem atendidas as mesmas exigências
 técnicas, de idoneidade fi nanceira e regularidade jurídica por esta
 nova empresa.
 
-(A) Poderá o Poder concedente declarar a caducidade da concessão,
+OPTIONS
+
+(A:CORRECT) Poderá o Poder concedente declarar a caducidade da concessão,
 tendo em vista o caráter intuitu personae do contrato de
 concessão.
 
@@ -565,14 +538,18 @@ convalidação.
 concessionária, apesar da alteração societária, não desnatura o
 caráter intuitu personae do contrato de concessão.
 
-21 A00204
+---
+ENUM Questão 21
+
 A respeito das diferenças e semelhanças entre prescrição e
 decadência, no Código Civil, é correto afi rmar que:
+
+OPTIONS
 
 (A) a prescrição acarreta a exti nção do direito potestati vo,
 enquanto a decadência gera a exti nção do direito subjeti vo.
 
-(B) os prazos prescricionais podem ser suspensos e interrompidos,
+(B:CORRECT) os prazos prescricionais podem ser suspensos e interrompidos,
 enquanto os prazos decadenciais legais não se suspendem ou
 interrompem, com exceção da hipótese de ti tular de direito
 absolutamente incapaz, contra o qual não corre nem prazo
@@ -585,24 +562,18 @@ mesmo após consumadas.
 benefi cia, enquanto a decadência pode ser declarada de ofí cio
 pelo juiz.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 22
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 6 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-22 A00207
 Com relação ao regime da solidariedade passiva, é correto afi rmar
 que:
+
+OPTIONS
 
 (A) cada herdeiro pode ser demandado pela dívida toda do devedor
 solidário falecido.
 
-(B) com a perda do objeto por culpa de um dos devedores
+(B:CORRECT) com a perda do objeto por culpa de um dos devedores
 solidários, a solidariedade subsiste no pagamento do
 equivalente pecuniário, mas pelas perdas e danos somente
 poderá ser demandado o culpado.
@@ -616,7 +587,9 @@ mora somente poderá ser demandado o culpado.
 devedores solidários, ainda que sejam pessoais apenas a um
 deles.
 
-23 A00215
+---
+ENUM Questão 23
+
 Durante dez anos, empregados de uma fabricante de extrato de tomate
 distribuíram, gratuitamente, sementes de tomate entre agricultores de
 uma certa região. A cada ano, os empregados da fabricante procuravam
@@ -627,7 +600,9 @@ a fabricante recusou-se a efetuar a compra. O tribunal competente
 entendeu que havia responsabilidade pré-contratual da fabricante.
 A responsabilidade pré-contratual é aquela que:
 
-(A) deriva da violação à boa-fé objeti va na fase das negociações
+OPTIONS
+
+(A:CORRECT) deriva da violação à boa-fé objeti va na fase das negociações
 preliminares à formação do contrato.
 
 (B) deriva da ruptura de um pré-contrato, também chamado
@@ -639,7 +614,9 @@ contrato preliminar.
 (D) segue o desti no da responsabilidade contratual, como o
 acessório segue o principal.
 
-24 A00234
+---
+ENUM Questão 24
+
 Em 2004, Joaquim, que não ti nha herdeiros necessários, lavrou um
 testamento contemplando como sua herdeira universal Ana. Em 2006,
 arrependido, Joaquim revogou o testamento de 2004, nomeando como
@@ -648,24 +625,36 @@ fi lha Catarina. No mês de julho de 2010, faleceu Joaquim. O único
 parente vivo de Joaquim era seu irmão, Rubens.
 
 Assinale a alternati va que indique a quem caberá a herança de Joaquim.
-(A) Rubens.
+
+OPTIONS
+
+(A:CORRECT) Rubens.
+
 (B) Catarina.
+
 (C) Ana.
+
 (D) A herança será vacante.
 
-25 A00221
+---
+ENUM Questão 25
+
 Sobre o consti tuto possessório, assinale a alternati va correta.
+
+OPTIONS
 
 (A) Trata-se de modo originário de aquisição da propriedade.
 
 (B) Trata-se de modo originário de aquisição da posse.
 
-(C) Representa uma tradição fi cta.
+(C:CORRECT) Representa uma tradição fi cta.
 
 (D) É imprescindível para que se opere a transferência da posse aos
 herdeiros na sucessão universal.
 
-26 A00228
+---
+ENUM Questão 26
+
 Passando por difi culdades fi nanceiras, Alexandre insti tuiu uma
 hipoteca sobre imóvel de sua propriedade, onde reside com sua
 família. Posteriormente, foi procurado por Amanda, que estaria
@@ -676,11 +665,13 @@ insti tuição da hipoteca que o proibia de alienar o bem hipotecado.
 
 A opinião do advogado de Alexandre
 
+OPTIONS
+
 (A) está incorreta, porque a hipoteca insti tuída não produz efeitos,
 pois, na hipótese, o direito real em garanti a a ser insti tuído
 deveria ser o penhor.
 
-(B) está incorreta, porque Alexandre está livre para alienar o
+(B:CORRECT) está incorreta, porque Alexandre está livre para alienar o
 imóvel, pois a cláusula que proíbe o proprietário de alienar o
 bem hipotecado é nula.
 
@@ -692,7 +683,9 @@ hipotecário.
 Alexandre não poderia alienar o imóvel enquanto recaísse
 sobre ele a garanti a hipotecária.
 
-27 A00237
+---
+ENUM Questão 27
+
 Jane e Carlos consti tuíram uma união estável em julho de 2003 e não
 celebraram contrato para regular as relações patrimoniais decorrentes
 da aludida enti dade familiar. Em março de 2005, Jane recebeu R$
@@ -705,6 +698,8 @@ por Jane na Barra da Tijuca em maio de 2005.
 Assinale a alternati va que indique a orientação correta a ser exposta
 a Carlos.
 
+OPTIONS
+
 (A) Por se tratar de bem adquirido a tí tulo oneroso na vigência da
 união estável, Carlos tem direito a parti lhar o imóvel adquirido
 por Jane na Barra da Tijuca em maio de 2005.
@@ -714,7 +709,7 @@ Barra da Tijuca em maio de 2005 porque, salvo contrato escrito
 entre os companheiros, aplica-se às relações patrimoniais entre
 os mesmos o regime da separação total de bens.
 
-(C) Carlos não tem direito a parti lhar o imóvel adquirido por Jane
+(C:CORRECT) Carlos não tem direito a parti lhar o imóvel adquirido por Jane
 na Barra da Tijuca em maio de 2005 porque, em virtude da
 ausência de contrato escrito entre os companheiros, aplica-
 se às relações patrimoniais entre os mesmos o regime da
@@ -726,17 +721,9 @@ na Barra da Tijuca em maio de 2005 porque, muito embora
 o referido bem tenha sido adquirido com o produto de uma
 doação, não se aplica a sub-rogação de bens na união estável.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 28
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 7 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-28 A00227
 Por meio de uma promessa de compra e venda, celebrada por
 instrumento parti cular registrada no cartório de Registro de Imóveis
 e na qual não se pactuou arrependimento, Juvenal foi residir no
@@ -745,7 +732,9 @@ se com a recusa do promitente-vendedor em outorgar-lhe a escritura
 defi niti va do imóvel.
 Diante do impasse, Juvenal poderá
 
-(A) requerer ao juiz a adjudicação do imóvel, a despeito de a
+OPTIONS
+
+(A:CORRECT) requerer ao juiz a adjudicação do imóvel, a despeito de a
 promessa de compra e venda ter sido celebrada por instrumento
 parti cular.
 
@@ -753,16 +742,20 @@ parti cular.
 na hipótese.
 
 (C) desisti r do negócio e pedir o dinheiro de volta.
-(D) exigir a substi tuição do imóvel prometi do à venda por outro,
 
+(D) exigir a substi tuição do imóvel prometi do à venda por outro,
 muito embora inexisti sse previsão expressa a esse respeito no
 contrato preliminar.
 
-29 A00206
+---
+ENUM Questão 29
+
 João prometeu transferir a propriedade de uma coisa certa, mas
 antes disso, sem culpa sua, o bem foi deteriorado.
 Segundo o Código Civil, ao caso de João aplica-se o seguinte regime
 jurídico:
+
+OPTIONS
 
 (A) a obrigação fi ca resolvida, com a devolução de valores
 eventualmente pagos.
@@ -774,28 +767,32 @@ se encontra.
 em que se encontra e abati mento no preço proporcional à
 deterioração.
 
-(D) a obrigação poderá ser resolvida, com a devolução de valores
+(D:CORRECT) a obrigação poderá ser resolvida, com a devolução de valores
 eventualmente pagos, ou subsisti r, com a entrega da coisa no
 estado em que se encontra e abati mento no preço proporcional
 à deterioração, cabendo ao credor a escolha de uma dentre as
 duas soluções.
 
-30 A00223
-Assinale a alternati va que contemple exclusivamente obrigação
+---
+ENUM Questão 30
+
+Assinale a alternativa que contemple exclusivamente obrigação
 propter rem:
 
 (A) a obrigação de indenizar decorrente da aluvião e aquela
 decorrente da avulsão.
 
 (B) a hipoteca e o dever de pagar as cotas condominiais.
+
 (C) o dever que tem o servidor da posse de exercer o desforço
-
 possessório e o dever de pagar as cotas condominiais.
-(D) a obrigação que tem o proprietário de um terreno de indenizar
 
+(D:CORRECT) a obrigação que tem o proprietário de um terreno de indenizar
 o terceiro que, de boa-fé, erigiu benfeitorias sobre o mesmo.
 
-31 A00301
+---
+ENUM Questão 31
+
 A capacidade é um dos pressupostos processuais. Caso o juiz
 verifi que que uma das partes é incapaz ou há irregularidade em sua
 representação, deverá suspender o processo e marcar prazo razoável
@@ -804,23 +801,29 @@ para que o defeito seja sanado.
 Assinale a alternati va que indique a providência correta a ser tomada
 pelo magistrado, na hipótese de persistência do vício.
 
+OPTIONS
+
 (A) Se o vício se referir ao autor, deve o juiz aplicar-lhe multa por
 liti gância de má-fé.
 
 (B) Se o vício se referir ao autor, deve o juiz proferir o julgamento
 antecipado da lide.
 
-(C) Se o vício se referir ao réu, deve o juiz reputá-lo revel.
-(D) Se o vício se referir ao réu, deve o juiz julgar a causa em seu
+(C:CORRECT) Se o vício se referir ao réu, deve o juiz reputá-lo revel.
 
+(D) Se o vício se referir ao réu, deve o juiz julgar a causa em seu
 desfavor.
 
-32 A00310
+---
+ENUM Questão 32
+
 A incompetência do juízo, tal como prevista no CPC, pode assumir
 duas feições, de acordo com a natureza do vício e ainda com as
 consequências advindas de tal reconhecimento. O Código trata, então,
 da incompetência absoluta e da relati va. A respeito dessas modalidades
 de incompetência, assinale a afi rmati va correta.
+
+OPTIONS
 
 (A) A incompetência relati va pode ser alegada a qualquer tempo.
 
@@ -830,12 +833,16 @@ pelo juiz.
 (C) A incompetência absoluta gera a nulidade de todos os atos
 prati cados no processo até seu reconhecimento.
 
-(D) A incompetência absoluta é alegada como preliminar da
+(D:CORRECT) A incompetência absoluta é alegada como preliminar da
 contestação ou por peti ção nos autos.
 
-33 A00322
+---
+ENUM Questão 33
+
 Com relação ao procedimento da execução por quanti a certa, contra
 devedor solvente, fundado em tí tulo extrajudicial, é correto afi rmar que:
+
+OPTIONS
 
 (A) o executado é citado para, no prazo de três dias, apresentar
 embargos.
@@ -843,19 +850,23 @@ embargos.
 (B) o credor só pode indicar os bens a serem penhorados se o
 executado não se manifestar no prazo legal, após ser citado.
 
-(C) o juiz pode, de ofí cio, e a qualquer tempo, determinar a inti mação
+(C:CORRECT) o juiz pode, de ofí cio, e a qualquer tempo, determinar a inti mação
 do executado para indicar bens passíveis de penhora.
 
 (D) o juiz somente fi xará os honorários de advogado a serem pagos
 pelo executado ao fi m do processo de execução.
 
-34 A00323
+---
+ENUM Questão 34
+
 As medidas cautelares estão expressamente previstas no CPC como
 forma de instrumentalizar a tutela, tendo natureza eminentemente
 acessória.
 
 Assinale a alternati va que apresente uma regra que disciplina a
 concessão de medidas cautelares.
+
+OPTIONS
 
 (A) o Juiz, como regra, deve deferir  medidas cautelares sem a
 prévia audiência do requerido.
@@ -866,18 +877,23 @@ incidentais, sendo vedado o uso de medidas prévias.
 (C) interposto recurso nos autos principais, fi ca vedado o
 requerimento de cautelares.
 
-(D) salvo decisão em contrário, a cautelar conserva sua efi cácia
+(D:CORRECT) salvo decisão em contrário, a cautelar conserva sua efi cácia
 mesmo durante o período de suspensão do processo principal.
 
-35 A00336
+---
+ENUM Questão 35
+
 A Lei n. 9.099/95 disciplina os chamados Juizados Especiais Cíveis no
 âmbito Estadual. Nela é possível encontrar diversas regras especiais,
 que diferenciam o procedimento dos Juizados do procedimento
 comum do CPC. 
+
 Segundo a Lei n. 9.099/95, assinale a alternati va que indique uma
 dessas regras específi cas.
 
-(A) Não é cabível nenhuma forma de intervenção de terceiros nem
+OPTIONS
+
+(A:CORRECT) Não é cabível nenhuma forma de intervenção de terceiros nem
 de assistência.
 
 (B) É vedado o liti sconsórcio.
@@ -887,27 +903,21 @@ de assistência.
 (D) Se o pedido formulado for genérico, admite-se, excepcio-
 nalmente, sentença ilíquida.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 36
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 8 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-36 A00338
 O Mandado de Segurança Coleti vo, previsto no art. 5º, inciso LXX da
 Consti tuição da República, foi regulamentado pelos arti gos 21 e 22
 da Lei Federal n. 12.016/09.
 
 Acerca desta garanti a consti tucional é correto afi rmar que:
 
+OPTIONS
+
 (A) qualquer cidadão tem legiti midade para impetrar o mandado
 de segurança coleti vo.
 
-(B) no mandado de segurança coleti vo, a sentença fará coisa
+(B:CORRECT) no mandado de segurança coleti vo, a sentença fará coisa
 julgada limitadamente aos membros do grupo substi tuído pelo
 impetrante.
 
@@ -917,8 +927,12 @@ de direitos difusos.
 (D) o mandado de segurança coleti vo induz liti spendência para as
 ações individuais que tenham o mesmo objeto.
 
-37 A00312
+---
+ENUM Questão 37
+
 Acerca da revelia, é correto afi rmar que:
+
+OPTIONS
 
 (A) a revelia se dá com a não apresentação de exceção ou de
 reconvenção no prazo da resposta.
@@ -929,20 +943,24 @@ produz seus efeitos normalmente.
 (C) contra o revel, ainda que tenha patrono consti tuído nos autos,
 correrão os prazos independentemente de inti mação.
 
-(D) o revel pode intervir no processo em qualquer fase, recebendo-o
+(D:CORRECT) o revel pode intervir no processo em qualquer fase, recebendo-o
 no estado em que se encontrar.
 
-38 A00314
+---
+ENUM Questão 38
+
 Se, durante a audiência de instrução e julgamento, um advogado,
 exercendo seu mister de bem defender os interesses de seu cliente,
 entende que a testemunha arrolada pela parte contrária mantém
 com essa vínculo estreito de amizade e que seu depoimento pode
 ser tendencioso, esse advogado deverá:
 
+OPTIONS
+
 (A) contraditar a testemunha, devendo a audiência, nesse caso,
 ser necessária e imediatamente interrompida.
 
-(B) contraditar a testemunha, que mesmo assim poderá ser ouvida
+(B:CORRECT) contraditar a testemunha, que mesmo assim poderá ser ouvida
 como informante do juízo, desde que o magistrado fundamente
 sua decisão de ouví-la.
 
@@ -952,11 +970,15 @@ obrigado a dispensá-la.
 (D) contraditar a testemunha, que será ouvida após a audiência,
 sem a presença das partes.
 
-39 A00329
-Com relação ao procedimento da curatela dos interditos, é correto
-afi rmar que:
+---
+ENUM Questão 39
 
-(A) na ausência dos pais, do tutor e do cônjuge, um parente
+Com relação ao procedimento da curatela dos interditos, é correto
+afirmar que:
+
+OPTIONS
+
+(A:CORRECT) na ausência dos pais, do tutor e do cônjuge, um parente
 próximo pode requerer a interdição.
 
 (B) a sentença proferida pelo juiz faz coisa julgada material.
@@ -967,16 +989,21 @@ interditando, é facultati va, podendo o juiz dispensá-la.
 (D) o Ministério Público não tem legiti midade para requerer a
 interdição.
 
-40 A00308
+---
+ENUM Questão 40
+
 Um advogado é procurado em seu escritório por um cliente que
 lhe narra que a empresa da qual ele é diretor foi citada pelo poder
 judiciário, em decorrência de um confl ito surgido em razão de contrato
 de compra e venda no qual inseriram cláusula compromissória cheia,
 estabelecendo que em caso de eventual confl ito entre as partes, o
 mesmo será apreciado por um tribunal arbitral.
+
 O advogado ao peti cionar no referido processo, representando
 os interesses do seu cliente, no senti do de exigir cumprimento da
 cláusula compromissória cheia, deverá:
+
+OPTIONS
 
 (A) requerer a designação de audiência de conciliação, pois o juiz
 pode conhecer de ofí cio da pré-existência da convenção de
@@ -985,21 +1012,25 @@ arbitragem.
 (B) apresentar desde logo contestação, restringindo sua
 argumentação ao exame do mérito da causa.
 
-(C) apresentar contestação e alegar expressamente, em preliminar,
+(C:CORRECT) apresentar contestação e alegar expressamente, em preliminar,
 a existência de convenção de arbitragem, solicitando a exti nção
 do feito.
 
 (D) solicitar ao juiz o julgamento antecipado da lide.
 
-41 A00927
+---
+ENUM Questão 41
+
 A respeito do regime de compensação de jornada do banco de horas,
 assinale a alternati va correta.
+
+OPTIONS
 
 (A) Pode ser insti tuído mediante acordo, verbal ou por escrito,
 entre empresa e empregado, facultando-se a parti cipação dos
 sindicatos representantes das categorias.
 
-(B) Não admite compensação de jornada que ultrapassar o limite
+(B:CORRECT) Não admite compensação de jornada que ultrapassar o limite
 máximo de 10 horas diárias.
 
 (C) Pode ser compensado após a rescisão do contrato de trabalho,
@@ -1010,14 +1041,18 @@ de validade do acordo.
 no prazo legal máximo de um semestre, a soma das jornadas
 semanais previstas para o período.
 
-42 A00911
+---
+ENUM Questão 42
+
 No contexto da teoria das nulidades do contrato de trabalho, assinale
 a alternati va correta.
+
+OPTIONS
 
 (A) Confi gurado o trabalho ilícito, é devido ao empregado somente o
 pagamento da contraprestação salarial pactuada.
 
-(B) Os trabalhos noturno, perigoso e insalubre do menor de 18
+(B:CORRECT) Os trabalhos noturno, perigoso e insalubre do menor de 18
 (dezoito) anos de idade são modalidades de trabalho proibido
 ou irregular.
 
@@ -1028,19 +1063,13 @@ qualquer efeito.
 (D) A falta de anotação da Carteira de Trabalho e Previdência Social
 do empregado invalida o contrato de trabalho.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 43 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 9 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-43 A00915
 Com relação ao Direito Coleti vo do Trabalho, assinale a alternati va
 correta.
+
+OPTIONS
 
 (A) Acordo coleti vo do trabalho é o acordo de caráter normati vo
 pelo qual dois ou mais sindicatos representati vos de categorias
@@ -1048,7 +1077,7 @@ econômicas e profi ssionais esti pulam condições de trabalho
 aplicáveis, no âmbito das respecti vas representações, às
 relações individuais de trabalho.
 
-(B) Na greve em serviços ou ati vidades essenciais, fi cam as
+(B:CORRECT) Na greve em serviços ou ati vidades essenciais, fi cam as
 enti dades sindicais ou os trabalhadores, conforme o caso,
 obrigados a comunicar a decisão aos empregadores e aos
 usuários com antecedência mínima de 72 (setenta e duas)
@@ -1061,7 +1090,9 @@ convenções coleti vos de trabalho.
 sindical”) somente é exigido dos empregados sindicalizados,
 em face do princípio da liberdade sindical.
 
-44 A00923
+---
+ENUM Questão 44
+
 O empregado João foi contratado para trabalhar como caixa de um
 supermercado. No ato de admissão, foi-lhe entregue o regulamento
 da empresa, onde constava a obrigatoriedade do uso do uniforme
@@ -1076,6 +1107,8 @@ art. 482, h da CLT).
 
 Diante deste caso concreto
 
+OPTIONS
+
 (A) está correta a aplicação da justa causa, uma vez que João
 descumpriu reiteradamente as ordens genéricas do empregador
 conti das no regulamento geral.
@@ -1086,12 +1119,16 @@ cometeu ato de insubordinação e não de indisciplina.
 (C) está incorreta a aplicação da justa causa, uma vez que João
 cometeu mau procedimento.
 
-(D) está incorreta a aplicação da justa causa, uma vez que o
+(D:CORRECT) está incorreta a aplicação da justa causa, uma vez que o
 empregador prati cou bis in idem, ao punir João duas vezes pelo
 mesmo fato.
 
-45 A00929
+---
+ENUM Questão 45
+
 Com relação ao regime de férias, é correto afi rmar que:
+
+OPTIONS
 
 (A) as férias devem ser pagas ao empregado com adicional de 1/3
 até 30 dias antes do início do seu gozo.
@@ -1099,13 +1136,15 @@ até 30 dias antes do início do seu gozo.
 (B) salvo para as gestantes e os menores de 18 anos, as férias
 podem ser gozadas em dois períodos.
 
-(C) o empregado que pede demissão antes de completado seu
+(C:CORRECT) o empregado que pede demissão antes de completado seu
 primeiro período aquisiti vo faz jus a férias proporcionais.
 
 (D) as férias podem ser converti das integralmente em abono
 pecuniário, por opção do empregado.
 
-46 A00925
+---
+ENUM Questão 46
+
 Marcos foi contratado para o cargo de escriturário de um banco
 privado. Iniciada sua ati vidade, Marcos percebeu que o gerente lhe
 estava repassando tarefas alheias à sua função. A rigor, conforme
@@ -1122,6 +1161,8 @@ período.
 
 Diante desta situação jurídica, é correto afi rmar que:
 
+OPTIONS
+
 (A) o pedido está inepto, uma vez que este é um caso tí pico de
 equiparação salarial e não houve indicação de paradigma.
 
@@ -1129,7 +1170,7 @@ equiparação salarial e não houve indicação de paradigma.
 determinação das ati vidades, para as quais o empregado está
 obrigado, encontra-se dentro do jus variandi do empregador.i
 
-(C) o pedido deve ser julgado procedente, se for demonstrado,
+(C:CORRECT) o pedido deve ser julgado procedente, se for demonstrado,
 pelo empregado, que as suas ati vidades correspondiam, de
 fato, àquelas previstas abstratamente na norma interna da
 empresa para o cargo de tesoureiro.
@@ -1138,7 +1179,9 @@ empresa para o cargo de tesoureiro.
 a parti r da decisão judicial que determine o reenquadramento
 é que o empregado fará jus ao aumento salarial.
 
-47 A00930
+---
+ENUM Questão 47
+
 Joana foi contratada para trabalhar de segunda a sábado na
 residência do Sr. Demétrius, de 70 anos, como sua acompanhante,
 recebendo salário mensal.  Ao exato término do terceiro mês de
@@ -1150,10 +1193,12 @@ reconhecimento da estabilidade provisória pela gestação.
 Levando-se em consideração a situação de Joana, assinale a
 alternati va correta.
 
+OPTIONS
+
 (A) A função de acompanhante é incompatí vel com o
 reconhecimento de vínculo de emprego domésti co.
 
-(B) Joana faz jus ao reconhecimento de vínculo de emprego como
+(B:CORRECT) Joana faz jus ao reconhecimento de vínculo de emprego como
 empregada domésti ca.
 
 (C) Joana não fará jus à estabilidade gestacional, pois este não é
@@ -1164,17 +1209,9 @@ de três meses é automati camente considerado de experiência
 para o Direito do Trabalho e pode ser rescindido ao ati ngir o
 seu termo fi nal.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 48
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 10 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-48 A00913
 Paulo, empregado de uma empresa siderúrgica, sofreu acidente do
 trabalho, entrando em gozo de auxílio-doença acidentário, a parti r
 do décimo sexto dia de seu afastamento. Durante este período de
@@ -1182,6 +1219,8 @@ percepção do benefí cio previdenciário, ele foi dispensado sem justa
 causa por seu empregador.
 
 Diante do exposto, assinale a alternati va correta.
+
+OPTIONS
 
 (A) Paulo tem direito a ser reintegrado, com fundamento na
 garanti a provisória de emprego assegurada ao empregado
@@ -1194,13 +1233,17 @@ provisória de emprego assegurada ao empregado acidentado.
 contrato de trabalho que se operou a parti r do décimo sexto
 dia de afastamento.
 
-(D) Paulo tem direito a ser reintegrado, em razão da suspensão do
+(D:CORRECT) Paulo tem direito a ser reintegrado, em razão da suspensão do
 contrato de trabalho que se operou a parti r do décimo sexto
 dia de afastamento.
 
-49 A01012
+---
+ENUM Questão 49
+
 Com relação às provas no processo do trabalho, assinale a alternati va
 correta.
+
+OPTIONS
 
 (A) As testemunhas devem ser necessariamente arroladas pelas
 partes dentro do prazo estabelecido pelo juiz, a fi m de que
@@ -1214,19 +1257,23 @@ grave, caso em que este número pode ser elevado a seis.
 (C) Na hipótese de deferimento de prova técnica, é vedada às
 partes a apresentação de peritos assistentes.
 
-(D) Nas causas sujeitas ao procedimento sumaríssimo, somente
+(D:CORRECT) Nas causas sujeitas ao procedimento sumaríssimo, somente
 quando a prova do fato o exigir, ou for legalmente imposta,
 será deferida prova técnica, incumbindo ao juiz, desde logo,
 fi xar o prazo, o objeto da perícia e nomear perito.
 
-50 A01013
+---
+ENUM Questão 50
+
 Com relação às despesas processuais na Justi ça do Trabalho, assinale
-a afi rmati va correta.
+a afirmativa correta.
+
+OPTIONS
 
 (A) As enti dades fi scalizadoras do exercício profi ssional, em face de
 sua natureza autárquica, são isentas do pagamento de custas.
 
-(B) As custas devem ser pagas pelo vencido, após o trânsito em
+(B:CORRECT) As custas devem ser pagas pelo vencido, após o trânsito em
 julgado da decisão. No caso de recurso, estas devem ser pagas
 e comprovado o recolhimento dentro do prazo recursal.
 
@@ -1238,8 +1285,12 @@ parte interessada.
 da parte sucumbente na pretensão objeto da perícia, ainda que
 benefi ciária da gratuidade de justi ça.
 
-51 A01015
+---
+ENUM Questão 51
+
 Com relação à execução trabalhista, assinale a afi rmati va correta.
+
+OPTIONS
 
 (A) A execução deve ser impulsionada pela parte interessada,
 sendo vedado ao juiz promovê-la de ofí cio.
@@ -1250,7 +1301,7 @@ ser executado no processo do trabalho, depende de prévia
 homologação pelo juiz que teria competência para o processo
 de conhecimento relati vo à matéria.
 
-(C) Conforme disposição expressa na Consolidação das Leis do
+(C:CORRECT) Conforme disposição expressa na Consolidação das Leis do
 Trabalho, considera-se inexigível o tí tulo judicial fundado em lei
 ou ato normati vo declarados inconsti tucionais pelo Supremo
 Tribunal Federal ou em aplicação ou interpretação ti das por
@@ -1260,20 +1311,31 @@ incompatí veis com a Consti tuição Federal.
 dias o prazo para o executado apresentar embargos à execução,
 cabendo igual prazo ao exequente para impugnação.
 
-52 A01005
+---
+ENUM Questão 52
+
 Assinale a alternati va que apresente requisitos intrínsecos genéricos
 de admissibilidade recursal.
-(A) Capacidade, legiti midade e interesse.
+
+OPTIONS
+
+(A:CORRECT) Capacidade, legiti midade e interesse.
+
 (B) Preparo, interesse e representação processual.
+
 (C) Representação processual, preparo e tempesti vidade.
+
 (D) Legiti midade, tempesti vidade e preparo.
 
-53 A01006
+---
+ENUM Questão 53
+
 Pedro ajuizou ação em face de seu empregador objeti vando a
 sati sfação dos pedidos de horas extraordinárias, suas integrações
 e consectárias. O seu pedido foi julgado improcedente. Recorre
 ordinariamente, pretendendo a substi tuição da decisão por outra de
 diverso teor, tempesti vamente.
+
 Na análise da primeira admissibilidade recursal há um equívoco, e
 se nega seguimento ao recurso por intempesti vo. Desta decisão,
 tempesti vamente, se interpõe o recurso de agravo por instrumento,
@@ -1283,6 +1345,8 @@ principal que se pretendia destrancar, nos termos do arti go 899, § 7º
 da Consolidação das Leis do Trabalho.
 
 Quanto à conduta do Desembargador Relator, é corretor afi rmar que:
+
+OPTIONS
 
 (A) ela está correta, uma vez que o referido arti go afi rma que nos
 casos de interposição do recurso de agravo por instrumento
@@ -1294,7 +1358,7 @@ seguimento.
 admissibilidade recursal e, por isso, não pode estar ausente,
 sob pena de não conhecimento do recurso.
 
-(C) ela está equivocada, pois em que pese haver a necessidade
+(C:CORRECT) ela está equivocada, pois em que pese haver a necessidade
 do preparo para a interposição do recurso de agravo por
 instrumento, no problema acima, o pedido foi julgado
 improcedente sendo recorrente o autor, portanto, dispensável
@@ -1305,19 +1369,13 @@ na esfera laboral é o único, juntamente com os embargos
 por declaração, que não necessita de preparo para a sua
 interposição.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 54 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 11 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-54 A01023
 Segundo a legislação e a jurisprudência sobre a ação rescisória no
 Processo do Trabalho, assinale a afi rmati va correta.
+
+OPTIONS
 
 (A) A decisão que exti ngue o processo sem resolução de mérito,
 uma vez transitada em julgado, é passível de corte rescisório.
@@ -1329,11 +1387,13 @@ previsão específi ca do Processo do Trabalho.
 Trabalho, admiti rá o recurso de revista para o Tribunal Superior
 do Trabalho.
 
-(D) A sentença de mérito proferida por prevaricação, concussão ou
+(D:CORRECT) A sentença de mérito proferida por prevaricação, concussão ou
 corrupção do juiz, uma vez transitada em julgado, é passível de
 corte rescisório.
 
-55 A01021
+---
+ENUM Questão 55
+
 No dia 23.05.2003, Paulo apresentou reclamação verbal perante
 o distribuidor do fórum trabalhista, o qual, após livre distribuição,
 o encaminhou para a 132ª Vara do Trabalho do Rio de Janeiro.
@@ -1349,11 +1409,13 @@ uma vez e não compareceu, gerando o arquivamento dos autos.
 
 Diante desta situação concreta, é correto afi rmar que:
 
+OPTIONS
+
 (A) Paulo não poderá ajuizar uma nova reclamação verbal, uma vez
 que a CLT proíbe o ajuizamento sucessivo de três reclamações
 desta modalidade.
 
-(B) Paulo poderá ajuizar uma nova reclamação verbal, uma vez que
+(B:CORRECT) Paulo poderá ajuizar uma nova reclamação verbal, uma vez que
 somente a segunda foi reduzida a termo, gerando apenas um
 arquivamento dos autos por ausência do autor na audiência
 inaugural.
@@ -1365,8 +1427,12 @@ subsidiariamente ao processo do trabalho.
 (D) Paulo poderá ajuizar nova reclamação trabalhista, mas apenas
 na forma escrita e assisti do obrigatoriamente por advogado.
 
-56 A00718
+---
+ENUM Questão 56
+
 Com relação ao concurso de delitos, é correto afi rmar que:
+
+OPTIONS
 
 (A) no concurso de crimes as penas de multa são aplicadas
 disti ntamente, mas de forma reduzida.
@@ -1380,12 +1446,14 @@ ocorre quando o agente, por meio de uma só ação ou omissão,
 prati ca dois ou mais crimes idênti cos, caso em que as penas
 serão somadas.
 
-(D) o Código Penal Brasileiro adotou o sistema de aplicação de
+(D:CORRECT) o Código Penal Brasileiro adotou o sistema de aplicação de
 pena do cúmulo material para os concursos material e formal
 imperfeito, e da exasperação para o concurso formal perfeito e
 crime conti nuado.
 
-57 A00728
+---
+ENUM Questão 57
+
 Paula Rita convenceu sua mãe adoti va, Maria Aparecida, de 50
 anos de idade, a lhe outorgar um instrumento de mandato para
 movimentar sua conta bancária, ao argumento de que poderia ajudá-
@@ -1398,7 +1466,9 @@ fi nanceiras, no total de R$ 150.000,00 (cento e cinquenta mil reais),
 apropriando-se do dinheiro antes pertencente a sua mãe.
 Considerando tal narrati va, assinale a alternati va correta.
 
-(A) Paula Rita prati cou crime de estelionato em detrimento de Maria
+OPTIONS
+
+(A:CORRECT) Paula Rita prati cou crime de estelionato em detrimento de Maria
 Aparecida e, pelo fato de ser sua fi lha adoti va, é isenta de pena.
 
 (B) Paula Rita prati cou crime de furto mediante fraude em
@@ -1413,12 +1483,16 @@ de pena.
 detrimento de Maria Aparecida e, apesar de seu sua fi lha
 adoti va, não é isenta de pena.
 
-58 A00730
+---
+ENUM Questão 58
+
 A respeito do regime legal da prescrição no Código Penal, tendo
 por base ocorrência do fato na data de hoje, assinale a alternati va
 correta.
 
-(A) A prescrição, depois da sentença condenatória com trânsito
+OPTIONS
+
+(A:CORRECT) A prescrição, depois da sentença condenatória com trânsito
 em julgado para a acusação, regula-se pela pena aplicada, não
 podendo, em nenhuma hipótese, ter por termo inicial data
 anterior à da denúncia ou queixa.
@@ -1437,7 +1511,9 @@ Código Penal, dentre outras, o recebimento da denúncia ou da
 queixa, a pronúncia, a publicação da sentença condenatória ou
 absolutória recorrível.
 
-59 A00704
+---
+ENUM Questão 59
+
 Assinale a alternati va que preencha corretamente as lacunas do texto:
 
 “para a ocorrência de __________, não basta a imputação falsa de
@@ -1447,7 +1523,9 @@ simples imputação falsa de fato defi nido como crime pode consti tuir
 __________, que, consti tui infração penal contra a honra, enquanto
 a __________ é crime contra a Administração da Justi ça”.
 
-(A) denunciação caluniosa, calúnia, denunciação caluniosa.
+OPTIONS
+
+(A:CORRECT) denunciação caluniosa, calúnia, denunciação caluniosa.
 
 (B) denunciação caluniosa, difamação, denunciação caluniosa.
 
@@ -1457,17 +1535,9 @@ comunicação falsa de crime ou de contravenção.
 (D) comunicação falsa de crime ou de contravenção, difamação,
 comunicação falsa de crime ou de contravenção.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 60
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 12 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-60 A00717
 Arlete, em estado puerperal, manifesta a intenção de matar o próprio
 fi lho recém nascido. Após receber a criança no seu quarto para
 amamentá-la, a criança é levada para o berçário. Durante a noite, Arlete
@@ -1478,6 +1548,8 @@ asfi xia de um recém nascido, que não era o fi lho de Arlete.
 Diante do caso concreto, assinale a alternati va que indique a
 responsabilidade penal da mãe.
 
+OPTIONS
+
 (A) Crime de homicídio, pois, o erro acidental não a isenta de
 reponsabilidade.
 
@@ -1485,13 +1557,17 @@ reponsabilidade.
 matar o próprio fi lho sob infl uência do estado puerperal, não
 houve preenchimento dos elementos do ti po.
 
-(C) Crime de infanti cídio, pois houve erro quanto à pessoa.
+(C:CORRECT) Crime de infanti cídio, pois houve erro quanto à pessoa.
 
 (D) Crime de infanti cídio, pois houve erro essencial.
 
-61 A00723
+---
+ENUM Questão 61
+
 Relati vamente à legislação sobre lavagem de capitais (Lei n. 9.613/98),
 assinale a alternati va correta.
+
+OPTIONS
 
 (A) O crime de lavagem só ocorre quando os bens, direitos ou
 valores provenientes, direta ou indiretamente, de um dos
@@ -1509,12 +1585,14 @@ na Lei n. 9.613/98.
 9613/98 dependem do processo e julgamento dos crimes
 antecedentes.
 
-(D) Prati ca crime de lavagem de dinheiro quem uti liza, na ati vidade
+(D:CORRECT) Prati ca crime de lavagem de dinheiro quem uti liza, na ati vidade
 econômica ou fi nanceira, bens, direitos ou valores que sabe
 serem provenientes de qualquer dos crimes antecedentes
 previstos na Lei n. 9613/98.
 
-62 A00729
+---
+ENUM Questão 62
+
 Fundação Pública Federal contrata o técnico de informáti ca Abelardo
 Fonseca para que opere o sistema informati zado desti nado à
 elaboração da folha de pagamento de seus funcionários. Abelardo,
@@ -1527,8 +1605,11 @@ atribuindo-se a condição de funcionário da Fundação e desti na
 a elaboração da folha, Abelardo remete as informações à seção
 de pagamentos, a qual efetua os pagamentos de acordo com as
 informações lançadas no sistema por ele.
+
 Considerando tal narrati va, é correto afi rmar que Abelardo prati cou
 crime de:
+
+OPTIONS
 
 (A) estelionato.
 
@@ -1536,9 +1617,11 @@ crime de:
 
 (C) concussão.
 
-(D) inserção de dados falsos em sistema de informações.
+(D:CORRECT) inserção de dados falsos em sistema de informações.
 
-63 A00724
+---
+ENUM Questão 63
+
 João da Silva, José da Silva e Maria da Silva são os acionistas
 controladores do Banco Silva’s e Família, cada um com 30% das ações
 com direito a voto e exercendo respecti vamente os cargos de Diretor-
@@ -1563,17 +1646,21 @@ vêm à tona.
 Assinale a alternati va que indique o(s) crime(s) prati cado(s) pelos
 acionistas controladores.
 
+OPTIONS
+
 (A) Crimes de falsidade ideológica, falsidade documental e
 estelionato qualifi cado.
 
 (B) Crime de gestão temerária de insti tuição fi nanceira.
 
-(C) Crime de gestão fraudulenta de insti tuição fi nanceira.
+(C:CORRECT) Crime de gestão fraudulenta de insti tuição fi nanceira.
 
 (D) Crime de gestão temerária em concurso com crime de gestão
 fraudulenta de insti tuição fi nanceira.
 
-64 A00820
+---
+ENUM Questão 64
+
 João da Silva foi denunciado por homicídio qualifi cado por moti vo
 fúti l. Nos debates orais ocorridos na primeira fase do procedimento
 de júri, a Defesa alegou que João agira em estrito cumprimento
@@ -1586,7 +1673,9 @@ a preclusão.
 
 Considerando tal narrati va, assinale a afi rmati va correta.
 
-(A) Nos debates orais perante os jurados, o promotor de justi ça não
+OPTIONS
+
+(A:CORRECT) Nos debates orais perante os jurados, o promotor de justi ça não
 poderá sustentar a qualifi cadora de moti vo fúti l, mas a defesa
 poderá alegar a tese de estrito cumprimento de dever legal. 
 
@@ -1602,17 +1691,9 @@ poderá alegar a tese de estrito cumprimento de dever legal.
 poderá sustentar a qualifi cadora de moti vo fúti l, mas a defesa não
 poderá alegar a tese de estrito cumprimento de dever legal.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 65
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 13 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-65 A00817
 Em uma briga de bar, Joaquim feriu Pedro com uma faca, causando-
 lhe sérias lesões no ombro direito. O promotor de justi ça ofereceu
 denúncia contra Joaquim, imputando-lhe a práti ca do crime de
@@ -1635,6 +1716,8 @@ de legíti ma defesa.
 
 Considerando tal narrati va, assinale a afi rmati va correta.
 
+OPTIONS
+
 (A) O ônus de provar a situação de legíti ma defesa era da defesa.
 Assim, como o juiz não se convenceu completamente da
 ocorrência de legíti ma defesa, deve condenar o réu.
@@ -1643,7 +1726,7 @@ ocorrência de legíti ma defesa, deve condenar o réu.
 Assim, como o juiz não se convenceu completamente da ocorrência
 de legíti ma defesa, deve condenar o réu.
 
-(C) O ônus de provar a situação de legíti ma defesa era da defesa.
+(C:CORRECT) O ônus de provar a situação de legíti ma defesa era da defesa.
 No caso, como o juiz fi cou em dúvida sobre a ocorrência de
 legíti ma defesa, deve absolver o réu.
 
@@ -1653,7 +1736,9 @@ todas as diligências que esti verem a seu alcance para dirimir
 dúvidas, sob pena de nulidade da sentença que vier a ser
 prolatada.
 
-66 A00815
+---
+ENUM Questão 66
+
 Em processo sujeito ao rito ordinário, ao apresentar resposta escrita,
 o advogado requer a absolvição sumária de seu cliente e não propõe
 provas. O juiz, rejeitando o requerimento de absolvição sumária,
@@ -1665,6 +1750,8 @@ inquiridas.
 
 Considerando tal narrati va, assinale a afi rmati va correta.
 
+OPTIONS
+
 (A) O juiz deve deferir o pedido, pois a juntada do rol das
 testemunhas de defesa pode ser feita até o encerramento da
 prova de acusação. 
@@ -1672,7 +1759,7 @@ prova de acusação.
 (B) O juiz não deve deferir o pedido, pois o desmembramento da
 audiência una causa nulidade absoluta.
 
-(C) O juiz só deve deferir a oiti va de testemunhas de defesa
+(C:CORRECT) O juiz só deve deferir a oiti va de testemunhas de defesa
 arroladas posteriormente ao momento da apresentação da
 resposta escrita se fi car demonstrado que a necessidade da
 oiti va se originou de circunstâncias ou fatos apurados na
@@ -1683,7 +1770,9 @@ testemunhas da defesa não ter sido feita no momento correto,
 em nenhuma hipótese do processo penal, o juiz deve indeferir
 diligências requeridas pela defesa.
 
-67 A00804
+---
+ENUM Questão 67 
+
 Antônio Ribeiro foi denunciado pela práti ca de homicídio qualifi cado,
 pronunciado nos mesmos moldes da denúncia e submeti do a
 julgamento pelo Tribunal do Júri em 25/05/2005, tendo sido
@@ -1697,10 +1786,12 @@ mais vantajoso (inicial fechado).
 
 A esse respeito, assinale a afi rmati va correta.
 
+OPTIONS
+
 (A) Não cabe nova apelação no caso concreto, em respeito ao
 princípio da soberania dos veredictos.
 
-(B) A decisão do juiz togado foi incorreta, pois violou o princípio do
+(B:CORRECT) A decisão do juiz togado foi incorreta, pois violou o princípio do
 ne reformati o in pejus, cabendo apelação.
 
 (C) A decisão dos jurados foi incorreta, pois violou o princípio do
@@ -1710,9 +1801,13 @@ tantum devolutum quantum appelatum.
 fi xação do regime inicial fechado é mais vantajosa do que uma
 pena a ser cumprida em regime integralmente fechado.
 
-68 A00810
+---
+ENUM Questão 68 
+
 Relati vamente às regras sobre ação civil fi xadas no Código de
 Processo Penal, assinale a alternati va correta.
+
+OPTIONS
 
 (A) São fatos que impedem a propositura da ação civil: o despacho de
 arquivamento do inquérito ou das peças de informação, a decisão
@@ -1727,12 +1822,14 @@ execução só poderá ser efetuada pelo valor fi xado na mesma,
 não se admiti ndo, neste caso, a liquidação para a apuração do
 dano efeti vamente sofrido.
 
-(D) Transitada em julgado a sentença penal condenatória, poderão
+(D:CORRECT) Transitada em julgado a sentença penal condenatória, poderão
 promover-lhe a execução, no juízo cível, para o efeito da
 reparação do dano, o ofendido, seu representante legal ou seus
 herdeiros.
 
-69 A00825
+---
+ENUM Questão 69 
+
 João foi denunciado pela práti ca do crime de furto (CP, art. 155), pois
 segundo narra a denúncia ele subtraiu colar de pedras preciosas da
 víti ma. No decorrer da instrução processual, a testemunha Antônio
@@ -1747,25 +1844,19 @@ condenatória transita em julgado para o Ministério Público.
 O Tribunal, ao julgar apelo de João com fundamento exclusivo na
 insufi ciência da prova para a condenação, deve:
 
+OPTIONS
+
 (A) anular a sentença.
 
 (B) manter a condenação pela práti ca do crime de roubo.
 
 (C) abrir vista ao Ministério Público para aditamento da denúncia.
 
-(D) absolver o acusado.
+(D:CORRECT) absolver o acusado.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 70 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 14 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-70 A00805
 Ao fi nal da audiência de instrução e julgamento, o advogado do réu
 requer a oiti va de testemunha inicialmente não arrolada na resposta
 escrita, mas referida por outra testemunha ouvida na audiência.
@@ -1780,10 +1871,12 @@ Com base exclusivamente nos fatos acima narrados, assinale a
 alternati va que apresente o que alegaria na apelação o advogado do
 réu, como pressuposto da análise do mérito recursal.
 
+OPTIONS
+
 (A) A redução da pena ou a fi xação de um regime de cumprimento
 de pena mais vantajoso.
 
-(B) A anulação da sentença para que outra seja proferida em razão
+(B:CORRECT) A anulação da sentença para que outra seja proferida em razão
 da violação do princípio da ampla defesa.
 
 (C) A reinquirição de todas as testemunhas em sede de apelação.
@@ -1794,7 +1887,9 @@ suspensão do prazo da prescrição de modo que o órgão
 ad quem se sinta confortável para anular a sentença sem gerar
 impunidade no caso concreto.
 
-71 A01104
+---
+ENUM Questão 71
+
 Mauro Ricardo decidiu não pagar o imposto de renda do últi mo ano,
 pois sua esposa Ana, servidora pública, sofreu acidente de carro e
 foi declarada absolutamente incapaz, em virtude de traumati smo
@@ -1806,14 +1901,16 @@ Quando Mauro recebeu a noti fi cação, ele se dirigiu à Receita e
 confessou a infração, pronti fi cando-se a pagar, de imediato, o tributo
 devido, sem multa ou juros de mora.
 
-A parti r do exposto acima, assinale a afi rmati va correta.
+A partir do exposto acima, assinale a afi rmati va correta.
+
+OPTIONS
 
 (A) A confi ssão de Mauro tem o condão de excluir a sua
 responsabilidade, sem a imposição de qualquer penalidade.
 Entretanto, ele deve pagar o tributo devido acrescido dos juros
 de mora.
 
-(B) Mauro somente se apresentou à Receita após a noti fi cação, o
+(B:CORRECT) Mauro somente se apresentou à Receita após a noti fi cação, o
 que exclui qualquer benefí cio oriundo da denúncia espontânea,
 devendo ele recolher o tributo devido, a penalidade imposta e
 os juros de mora.
@@ -1828,10 +1925,14 @@ a sonegação ti vesse ocorrido por mero esquecimento, ele
 poderia pagar somente o tributo e os juros de mora, excluindo
 o pagamento de multa.
 
-72 A01122
+---
+ENUM Questão 72
+
 Em Direito Tributário, cumpre à lei ordinária:
 
-(A) estabelecer a cominação ou dispensa de penalidades para as
+OPTIONS
+
+(A:CORRECT) estabelecer a cominação ou dispensa de penalidades para as
 ações ou omissões contrárias a seus dispositi vos.
 
 (B) estabelecer a forma e as condições como isenções, incenti vos e
@@ -1845,17 +1946,21 @@ prati cado pelas sociedades cooperati vas.
 sobre a defi nição de tratamento diferenciado e favorecido para
 as microempresas e empresas de pequeno porte.
 
-73 A01108
+---
+ENUM Questão 73 
+
 Pizza Aqui Ltda., empresa do ramo dos restaurantes, adquiriu o
 estabelecimento empresarial Pizza Já Ltda., conti nuando a exploração
 deste estabelecimento, porém sob razão social diferente – Pizza Aqui
 Ltda. Neste caso, é correto afi rmar que:
 
+OPTIONS
+
 (A) a Pizza Aqui responde solidariamente pelos tributos devidos
 pela Pizza Já, até a data do ato de aquisição do estabelecimento
 empresarial, se a Pizza Já cessar a exploração da ati vidade.
 
-(B) caso a Pizza Já prossiga na exploração da mesma ati vidade dentro
+(B:CORRECT) caso a Pizza Já prossiga na exploração da mesma ati vidade dentro
 de 6 (seis) meses contados da data de alienação, a Pizza Aqui
 responde subsidiariamente pelos tributos devidos pela Pizza Já
 Ltda. até a data do ato de aquisição do estabelecimento.
@@ -1870,7 +1975,9 @@ incorporação da Pizza Já pela Pizza Aqui, esta últi ma estaria
 isenta de qualquer responsabilidade referente aos tributos
 devidos pela Pizza Já até a data da incorporação.
 
-74 A01113
+---
+ENUM Questão 74
+
 Delta Ltda. teve sua falência decretada em 11/01/2010. Delta
 possuía um imóvel hipotecado ao Banco Junior S/A, em garanti a de
 dívida no valor de R$ 1.000.000,00 O imóvel está avaliado em R$
@@ -1882,6 +1989,8 @@ Ltda. relacionados ao ICMS não pago de vendas ocorridas em
 
 Com base no exposto acima, assinale a afi rmati va correta.
 
+OPTIONS
+
 (A) A Fazenda tem direito de preferência sobre o credor com
 garanti a real, em virtude de seus privilégios.
 
@@ -1891,20 +2000,12 @@ quebra da empresa, prevalecendo o crédito com garanti a real.
 (C) A Fazenda tem direito de preferência uma vez que a dívida
 tributária é anterior à hipoteca.
 
-(D) A Fazenda respeitará a preferência do credor hipotecário, nos
+(D:CORRECT) A Fazenda respeitará a preferência do credor hipotecário, nos
 limites do valor do crédito garanti do pela hipoteca.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 75 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 15 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-75 A01118
 Semprônio dos Santos é proprietário de um síti o de recreio, local
 desti nado ao lazer, na área de expansão urbana, na região serrana
 de Paraíso do Alto.
@@ -1915,7 +2016,9 @@ não existam próximos quer escola, quer hospitais públicos.
 
 Neste caso Semprônio deve pagar o seguinte imposto:
 
-(A) o IPTU, por ser área de expansão urbana, dotada de
+OPTIONS
+
+(A:CORRECT) o IPTU, por ser área de expansão urbana, dotada de
 melhoramentos.
 
 (B) o ITR, por ser síti o de recreio, não inserido em área urbana.
@@ -1925,9 +2028,13 @@ melhoramentos.
 (D) o ITR, por não haver escola ou hospital próximos a menos de
 3km do imóvel.
 
-76 A01124
+---
+ENUM Questão 76
+
 De acordo com o Código Tributário Nacional, aplica-se retroati vamente
 a lei tributária na hipótese de:
+
+OPTIONS
 
 (A) analogia, quando esta favorecer o contribuinte.
 
@@ -1936,13 +2043,17 @@ a lei tributária na hipótese de:
 (C) graduação quanto à natureza de tributo aplicável, desde que
 não seja hipótese de crime.
 
-(D) ato não defi niti vamente julgado, quando a lei nova lhe comine
+(D:CORRECT) ato não defi niti vamente julgado, quando a lei nova lhe comine
 penalidade menos severa que a prevista na lei vigente ao
 tempo de sua práti ca.
 
-77 A01126
+---
+ENUM Questão 77 
+
 Caso determinado município venha a atualizar o valor monetário da
 base de cálculo do IPTU, tal hipótese
+
+OPTIONS
 
 (A) deve vir regulada por lei.
 
@@ -1950,10 +2061,14 @@ base de cálculo do IPTU, tal hipótese
 
 (C) enquadra-se como majoração de tributo.
 
-(D) poderá ser disciplinada mediante decreto.
+(D:CORRECT) poderá ser disciplinada mediante decreto.
 
-78 A01127
+---
+ENUM Questão 78
+
 O emprego da analogia, em matéria tributária, resultará na
+
+OPTIONS
 
 (A) majoração de tributo.
 
@@ -1961,16 +2076,21 @@ O emprego da analogia, em matéria tributária, resultará na
 
 (C) exclusão do crédito tributário.
 
-(D) impossibilidade de exigência de tributo não previsto em lei.
+(D:CORRECT) impossibilidade de exigência de tributo não previsto em lei.
 
-79 A01133
+---
+ENUM Questão 79 
+
 Considere a seguinte situação hipotéti ca: lei federal fi xou alíquotas
 aplicáveis ao ITR e estabeleceu que a alíquota relati va aos imóveis
 rurais situados no Rio de Janeiro seria de 5% e a relati va aos demais
 Estados do Sudeste de 7%.
+
 Tal enunciado normati vo viola o princípio consti tucional
 
-(A) da uniformidade geográfi ca da tributação.
+OPTIONS
+
+(A:CORRECT) da uniformidade geográfi ca da tributação.
 
 (B) da legalidade tributária.
 
@@ -1979,12 +2099,16 @@ Tal enunciado normati vo viola o princípio consti tucional
 (D) da não diferenciação tributária entre a procedência e o desti no
 do produto.
 
-80 A01138
+---
+ENUM Questão 80 
+
 A Cia. de Limpeza do Município de Trás os Montes, empresa pública
 municipal, vendeu um imóvel de sua ti tularidade situado na rua
 Dois, da quadra 23, localizado no nº 06.
 
 Neste caso, o novo proprietário
+
+OPTIONS
 
 (A) não paga o imposto de transmissão de bens imóveis, em função
 de ser bem público.
@@ -1996,10 +2120,12 @@ imunidade do patrimônio público.
 hipótese, quem transmite a propriedade do bem é empresa
 pública.
 
-(D) fi ca obrigado a pagar todos os tributos que recaiam sobre o
+(D:CORRECT) fi ca obrigado a pagar todos os tributos que recaiam sobre o
 bem.
 
-81 A00629
+---
+ENUM Questão 81 
+
 Renato, advogado em início de carreira, é contactado para defender
 os interesses de Rodrigo que está deti do em cadeia pública. Dirige-
 se ao local onde seu cliente está reti do e busca informações sobre
@@ -2011,6 +2137,8 @@ os autos para realização de diligências.
 
 À luz das normas aplicáveis,
 
+OPTIONS
+
 (A) o advogado, diante do seu dever de urbanidade, deve aguardar
 os atos cabíveis da autoridade policial.
 
@@ -2020,10 +2148,12 @@ autorização da autoridade policial.
 (C) no caso de réu preso, somente com autorização do juiz pode o
 advogado acessar os autos do inquérito policial.
 
-(D) o acesso aos autos de inquérito policial é direito do advogado,
+(D:CORRECT) o acesso aos autos de inquérito policial é direito do advogado,
 mesmo sem procuração ou conclusos à autoridade policial.
 
-82 A00624
+---
+ENUM Questão 82 
+
 Mauro, advogado com larga experiência profi ssional, resolve
 contratar com emissora de televisão, um novo programa, incluído
 na grade normal de horários da empresa, cujo ti tulo é “o Advogado
@@ -2037,29 +2167,23 @@ jurídico, todas essas vinculadas ao seu escritório de advocacia.
 
 Consoante as normas aplicáveis, é correto afi rmar que:
 
+OPTIONS
+
 (A) a parti cipação em programa televisivo está vedada aos
 advogados.
 
 (B) a publicidade, como narrada, é compatí vel com as normas do
 Código de Éti ca.
 
-(C) o advogado, no caso, deveria se limitar ao aspecto educacional
+(C:CORRECT) o advogado, no caso, deveria se limitar ao aspecto educacional
 e instruti vo da ati vidade profi ssional.
 
 (D) programas televisivos são franqueados aos advogados, inclusive
 para realizar propaganda dos seus escritórios.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 83 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 16 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-83 A00622
 Fábio, advogado com mais de dez anos de efeti va ati vidade, obtém
 a indicação da OAB para concorrer pelo quinto consti tucional à vaga
 reservada no âmbito de Tribunal de Justi ça.
@@ -2069,7 +2193,9 @@ a ser nomeado pelo Governador do Estado, ingressando nos quadros
 do Poder Judiciário. Diante disso, à luz das normas estatutárias
 ocorrerá:
 
-(A) o cancelamento da inscrição como advogado.
+OPTIONS
+
+(A:CORRECT) o cancelamento da inscrição como advogado.
 
 (B) a suspensão até que cesse a incompati bilidade.
 
@@ -2077,7 +2203,9 @@ ocorrerá:
 
 (D) a passagem para a reserva do quadro de advogados.
 
-84 A00626
+---
+ENUM Questão 84
+
 João Vítor e Ana Beatriz, ambos advogados, contraem núpcias,
 mantendo o estado de casados por longos anos. Paralelamente,
 também mantêm sociedade em escritório de advocacia. Por moti vos
@@ -2090,7 +2218,9 @@ honra foi ati ngida por seu marido, em discussões conjugais.
 
 À luz das normas estatutárias,
 
-(A) nenhum ato poderá ser realizado pela OAB, tendo em vista que as
+OPTIONS
+
+(A:CORRECT) nenhum ato poderá ser realizado pela OAB, tendo em vista que as
 ofensas não ocorreram no exercício da profi ssão de advogado.
 
 (B) o ato de desagravo depende somente da qualidade de
@@ -2101,7 +2231,9 @@ estatuto.
 
 (D) o desagravo poderá ocorrer privadamente.
 
-85 A00605
+---
+ENUM Questão 85
+
 Francisco, advogado, dirige-se, com seu cliente, para parti cipar de
 audiência em questão cível, designada para a colheita de provas e
 depoimento pessoal. O ato fora designado para iniciar às 13 horas.
@@ -2119,26 +2251,33 @@ ocorrido, ele e seu cliente estariam se reti rando do recinto.
 
 Diante do narrado, à luz das normas estatutárias
 
+OPTIONS
+
 (A) qualquer atraso superior a uma hora justi fi ca a reti rada do
 recinto, pelo advogado.
 
 (B) o advogado deveria, no caso narrado, peti cionar ao Magistrado
 e reti rar-se do recinto.
 
-(C) o atraso que justi fi ca a reti rada do advogado está condicionado
+(C:CORRECT) o atraso que justi fi ca a reti rada do advogado está condicionado
 à ausência da autoridade judicial no evento.
 
 (D) meros atrasos da autoridade judicial não permitem a reti rada
 do advogado do recinto.
 
-86 A00621
+---
+ENUM Questão 86
+
 Dentre as sanções cabíveis no processo disciplinar realizado pela
 OAB no concernente aos advogados estão a censura, a suspensão,
 a exclusão e a multa.
+
 Dentre as circunstâncias atenuantes para a aplicação do ato
 sancionatório, encontra-se, consoante o Estatuto,
 
-(A) exercício assíduo e profi ciente em mandato realizado na OAB.
+OPTIONS
+
+(A:CORRECT) exercício assíduo e profi ciente em mandato realizado na OAB.
 
 (B) ser reincidente em faltas da mesma natureza.
 
@@ -2147,7 +2286,9 @@ sancionatório, encontra-se, consoante o Estatuto,
 (D) ter sido o ato cometi do contra outro integrante de carreira
 jurídica.
 
-87 A00627
+---
+ENUM Questão 87
+
 Eduardo, advogado, é contratado para defender os interesses de
 Otávio, próspero fazendeiro, em diversas ações, de natureza civil,
 empresarial, criminal, bem como em processos administrati vos que
@@ -2160,19 +2301,23 @@ processos judiciais.
 
 À luz das normas aplicáveis,
 
+OPTIONS
+
 (A) os honorários sucumbenciais e os contratados são naturalmente
 excludentes, devendo o profi ssional optar por um deles.
 
 (B) os honorários contratuais devem ser sempre em valor fi xo.
 
-(C) os honorários de sucumbência podem, ao alvedrio das partes,
+(C:CORRECT) os honorários de sucumbência podem, ao alvedrio das partes,
 sofrer desconto dos honorários pactuados contratualmente.
 
 (D) os honorários sucumbenciais acrescidos dos honorários
 contratuais podem superar o benefí cio econômico obti do pelo
 cliente.
 
-88 A00601
+---
+ENUM Questão 88
+
 Caio, advogado, inscrito na OAB-SP, após aprovação em concorrido
 Exame de Ordem, atua em diversos ramos do Direito. Um dos seus
 clientes possui causa em curso perante a Comarca de Tombos/MG,
@@ -2186,28 +2331,22 @@ encargo, Caio parti cipou do ato.
 
 Diante desse quadro
 
+OPTIONS
+
 (A) o ato deveria ter sido adiado diante da exclusividade da atuação
 da Defensoria Pública.
 
 (B) o advogado deveria ter recusado o encargo, mesmo sem
 justi fi cati va plausível.
 
-(C) a recusa nesses casos poderá ocorrer, com justo moti vo.
+(C:CORRECT) a recusa nesses casos poderá ocorrer, com justo moti vo.
 
 (D) a recusa poderia ocorrer diante da ausência de sanção
 disciplinar.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 89
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 17 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-89 A00606
 Michel, Philippe e Lígia, bacharéis em Direito recém-formados e
 colegas de bancos universitários, comprometem-se a empreender a
 ati vidade advocatí cia de forma conjunta logo após a aprovação no
@@ -2222,20 +2361,25 @@ por sociedades empresárias ansiosas pela prestação de serviços
 profi ssionais advocatí cios de qualidade. Uma exigência, no entanto,
 é realizada: a prestação deve ocorrer por meio de sociedade de
 advogados.
+
 No concernente ao tema, à luz das normas aplicáveis
+
+OPTIONS
 
 (A) a sociedade de advogados é de natureza empresarial.
 
 (B) os advogados sócios da sociedade de advogados respondem
 limitadamente por danos causados aos clientes.
 
-(C) o registro da sociedade de advogados é realizado no Conselho
+(C:CORRECT) o registro da sociedade de advogados é realizado no Conselho
 Seccional da OAB onde a mesma manti ver sede.
 
 (D) não é possível associação com advogados, sem vínculo de
 emprego, para parti cipação nos resultados.
 
-90 A00608
+---
+ENUM Questão 90
+
 Joel é experiente advogado, inscrito há muitos anos nos quadros
 da OAB. Em ati vidade profi ssional, comparece à sessão de tribunal
 com o fi to de sustentar, oralmente, recurso apresentado em prol
@@ -2247,10 +2391,12 @@ constantes dos autos processuais que se revelam incorretas.
 
 No concernente ao tema, à luz das normas estatutárias, o advogado
 
+OPTIONS
+
 (A) deve aguardar o fi nal do julgamento, com a proclamação do
 resultado, para apresentar questão de ordem.
 
-(B) poderá usar a palavra, pela ordem, para esclarecer questão de
+(B:CORRECT) poderá usar a palavra, pela ordem, para esclarecer questão de
 fato, que infl uencie o julgamento.
 
 (C) não possui instrumento hábil para interromper o julgamento.
@@ -2258,7 +2404,9 @@ fato, que infl uencie o julgamento.
 (D) após o fi nal do julgamento deverá, mediante nova sustentação
 oral, indicar os erros cometi dos.
 
-91 A00503
+---
+ENUM Questão 91 
+
 Antônio e Joana casaram-se pelo regime da comunhão parcial de bens.
 Após o casamento, Antônio tornou-se sócio de sociedade simples
 com 1.000 quotas representati vas de 20% do capital da sociedade.
@@ -2266,6 +2414,8 @@ Passados alguns anos, o casal veio a se separar judicialmente.
 
 Assinale a alternati va que indique o que Joana pode fazer em relação
 às quotas de seu ex-cônjuge.
+
+OPTIONS
 
 (A) Solicitar judicialmente a parti lha das quotas de Antônio, ingressando
 na sociedade com 500 quotas ou 10% do capital social.
@@ -2275,23 +2425,27 @@ o valor de metade das quotas de Antônio calculado com base
 em balanço especialmente levantado, tomando-se como base
 a data da separação.
 
-(C) Parti cipar da divisão de lucros até que se liquide a sociedade,
+(C:CORRECT) Parti cipar da divisão de lucros até que se liquide a sociedade,
 ainda que não possa nela ingressar.
 
 (D) Requerer a dissolução da sociedade e a liquidação dos bens
 sociais para que, apurados os haveres dos sócios, possa receber
 a parte que lhe pertence das quotas de seu ex-cônjuge.
 
-92 A00504
+---
+ENUM Questão 92
+
 No que se refere à cessão de quotas de sociedade empresária
 limitada, assinale a alternati va correta.
+
+OPTIONS
 
 (A) O cedente responde solidariamente com o cessionário perante
 a sociedade e terceiros pelas obrigações que ti nha como sócio
 até 3 anos após averbado no registro competente a modifi cação
 do contrato social.
 
-(B) Na omissão do contrato, o sócio pode ceder sua quota, total
+(B:CORRECT) Na omissão do contrato, o sócio pode ceder sua quota, total
 ou parcialmente, a quem já seja sócio, independentemente da
 audiência dos demais.
 
@@ -2303,7 +2457,9 @@ após a sua averbação perante o órgão competente.
 parcialmente, para terceiro, estranho ao quadro de sócios, somente
 se houver a concordância da unanimidade dos demais sócios.
 
-93 A01506
+---
+ENUM Questão 93
+
 Jogador de futebol de um importante ti me espanhol e ti tular da
 seleção brasileira é fi lmado por um celular em uma casa noturna na
 Espanha, em avançado estado de embriaguez. O vídeo é veiculado
@@ -2312,9 +2468,11 @@ cortado da seleção brasileira, o jogador ajuíza uma ação no Brasil
 contra o portal de vídeos, cuja sede é na Califórnia, Estados Unidos.
 O juiz brasileiro
 
+OPTIONS
+
 (A) não é competente, porque o réu é pessoa jurídica estrangeira.
 
-(B) terá competência porque os danos à imagem ocorreram no
+(B:CORRECT) terá competência porque os danos à imagem ocorreram no
 Brasil.
 
 (C) deverá remeter o caso, por carta rogatória, à justi ça norte-
@@ -2322,7 +2480,9 @@ americana.
 
 (D) terá competência porque o autor tem nacionalidade brasileira.
 
-94 A01507
+---
+ENUM Questão 94 
+
 Um contrato internacional entre um exportador brasileiro de laranjas
 e o comprador americano, previu que em caso de lití gio fosse uti lizada
 a arbitragem, realizada pela Câmara de Comércio Internacional.
@@ -2331,7 +2491,9 @@ ati ngiram a qualidade estabelecida no contrato. O comprador entrou
 com uma ação no Brasil para discuti r o cumprimento do contrato. O
 juiz decidiu:
 
-(A) exti nguir o feito sem julgamento de mérito, em face da cláusula
+OPTIONS
+
+(A:CORRECT) exti nguir o feito sem julgamento de mérito, em face da cláusula
 arbitral.
 
 (B) deferir o pedido, na forma requerida.
@@ -2342,17 +2504,9 @@ arbitral.
 (D) deferir o pedido, em razão da competência concorrente da
 justi ça brasileira.
 
-www.questoesdeconcursos.com.br
+---
+ENUM Questão 95 
 
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01 – 18 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-95 A01402
 Dentre os direitos de toda criança ou todo adolescente, o ECA
 assegura o de ser criado e educado no seio de sua família e,
 excepcionalmente, a colocação em família substi tuta, assegurando-
@@ -2361,23 +2515,29 @@ lhe a convivência famíliar e comunitária.
 Fundando-se em tal preceito, acerca da colocação em família
 substi tuta, é correto afi rmar que:
 
+OPTIONS
+
 (A) a colocação em família substi tuta far-se-á, exclusivamente, por
 meio da tutela ou da adoção.
 
 (B) a guarda somente obriga seu detentor à assistência material a
 criança ou adolescente. 
 
-(C) o adotando não deve ter mais que 18 anos à data do pedido,
+(C:CORRECT) o adotando não deve ter mais que 18 anos à data do pedido,
 salvo se já esti ver sob a guarda ou tutela dos adotantes.
 
 (D) desde que comprovem seu estado civil de casados, somente os
 maiores de 21 anos podem adotar.
 
-96 A01408
+---
+ENUM Questão 96
+
 Tendo por substrato legal as alterações promovidas pela Lei n.
 12.010, de 2009 no tocante à adoção, assinale a afi rmati va correta.
 
-(A) A morte dos adotantes não restabelece o poder familiar dos
+OPTIONS
+
+(A:CORRECT) A morte dos adotantes não restabelece o poder familiar dos
 pais naturais.
 
 (B) Para viabilizar a celeridade no processo de adoção, a legislação
@@ -2394,16 +2554,20 @@ fornecer certi dão a qualquer requisitante, independentemente,
 de justi fi cati va de seu interesse, em que conste o vínculo da
 adoção consti tuído por sentença judicial.
 
-97 A01203
+---
+ENUM Questão 97
+
 Considerando a reparti ção de competências ambientais estabelecida
 na Consti tuição Federal, assinale a alternati va correta.
+
+OPTIONS
 
 (A) Deverá ser editada lei ordinária com as normas para a
 cooperação entre a União e os Estados, o Distrito Federal e os
 Municípios para o exercício da competência comum de defesa
 do meio ambiente.
 
-(B) A exigência de apresentação, no processo de licenciamento
+(B:CORRECT) A exigência de apresentação, no processo de licenciamento
 ambiental, de certi dão da Prefeitura Municipal sobre a
 conformidade do empreendimento com a legislação de uso
 e ocupação do solo decorre da competência do município
@@ -2419,10 +2583,14 @@ arti go 24 da Consti tuição Federal.
 aplicação de sanções administrati vas por infração à legislação
 de meio ambiente.
 
-98 A01219
+---
+ENUM Questão 98 
+
 Diante das disposições estabelecidas pela Lei n. 9.605/98 sobre as
 sanções penais e administrati vas derivadas de condutas e ati vidades
 lesivas ao meio ambiente, assinale a alternati va correta.
+
+OPTIONS
 
 (A) A desconsideração da pessoa jurídica somente será admiti da se
 a pena restriti va de direitos se revelar inócua para os fi ns a que
@@ -2438,14 +2606,18 @@ anti juridicidade relati vamente ao comércio não autorizado de
 animais da fauna silvestre voltado exclusivamente à subsistência
 da enti dade familiar.
 
-(D) Os ti pos penais ambientais, em regra, descrevem crimes de
+(D:CORRECT) Os ti pos penais ambientais, em regra, descrevem crimes de
 perigo abstrato, que se consumam com a própria criação do
 risco, efeti vo ou presumido, independentemente de qualquer
 resultado danoso.
 
-99 A01307
+---
+ENUM Questão 99
+
 Sobre o tratamento da publicidade no Código de Defesa do
 Consumidor, é correto afi rmar que:
+
+OPTIONS
 
 (A) a publicidade somente vincula o fornecedor se conti ver
 informações falsas.
@@ -2457,10 +2629,14 @@ produto.
 (C) o ônus da prova da veracidade da mensagem publicitária cabe
 ao veículo de comunicação.
 
-(D) é abusiva a publicidade que desrespeita valores ambientais.
+(D:CORRECT) é abusiva a publicidade que desrespeita valores ambientais.
 
-100 A01308
+---
+ENUM Questão 100
+
 Nas ações coleti vas, o efeito da coisa julgada material será:
+
+OPTIONS
 
 (A) Tratando-se de direitos individuais homogêneos, efeito erga
 omnes, se procedente, mas só aproveita aquele que se habilitou
@@ -2470,7 +2646,7 @@ até o trânsito em julgado.
 improcedentes, o consumidor, que não ti ver conhecimento da
 ação, não poderá intentar ação individual.
 
-(C) Tratando-se de direitos difusos, no caso de improcedência
+(C:CORRECT) Tratando-se de direitos difusos, no caso de improcedência
 por insufi ciência de provas, não faz coisa julgada material,
 podendo, qualquer prejudicado, intentar nova ação com os
 mesmo fundamentos, valendo-se de novas provas.
@@ -2478,405 +2654,3 @@ mesmo fundamentos, valendo-se de novas provas.
 (D) Tratando-se de direitos coleti vos, no caso de improcedência
 do pedido de nulidade de cláusula contratual, o efeito é ultra
 partes e impede a propositura de ação individual.
-
-www.questoesdeconcursos.com.br
-
-www.questoesdeconcursos.com.br
-
-
-
-Caderno de Prova 01– 19 –
-
-OAB – Exame de Ordem Unifi cado 2010.2
-
-CRONOGRAMA OPERACIONAL
-
-Gabarito preliminar da prova obejti va ......................................................................................................................... 28 de setembro de 2010
-
-Prazo recursal................................................................................................................................de 29 de setembro a 01 de outubro de 2010
-
-Divulgação do resultado fi nal da prova objeti va ......................................................................................................... 01 de novembro de 2010
-
-Aplicação da prova práti co-profi ssional ...................................................................................................................... 14 de novembro de 2010
-
-QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA
-
-Este questi onário é de preenchimento facultati vo pelo examinando,
-por se tratar de mera pesquisa, não infl uindo no resultado fi nal do exame
-
-As questões têm como objeti vo avaliar a qualidade e a adequação da prova que você acabou de realizar. Assinale suas 
-respostas nos espaços próprios (canto inferior direito) da sua folha de respostas.
-
-A OAB  e a FGV agradecem sua colaboração.
-
-Questão 01
-Na sua avaliação, o grau de difi culdade desta
-prova, quanto ao conteúdo programáti co 
-abordado, foi:
-
-(A) muito fácil. (B) fácil.
-(C) médio.  (D) difí cil.
-
-Questão 02:
-Assinale a alternati va que indique a sua 
-avaliação quanto à capacidade críti ca e 
-interpretati va desta prova em relação 
-ao cenário e ao ordenamento jurídico
-contemporâneo.
-
-(A) Plenamente sati sfatória.
-(B) Sati sfatória.
-(C) Pouco sati sfatória.
-(D) Insati sfatória.
-
-Questão 03:
-Considerando a extensão da prova em relação 
-ao tempo total, você considera que ela foi:
-
-(A) muito longa.  (B) longa.
-(C) adequada. (D) curta.
-
-Questão 04:
-Os enunciados das questões da prova estavam 
-claros e objeti vos?
-
-(A) Sim, todos. (B) Sim, a maioria.
-(C) Poucos. (D) Não, nenhum.
-
-Questão 05:
-As questões das diversas áreas do Direito
-(Civil, Penal, Trabalho, Administrati vo, etc.)
-apresentavam o mesmo nível de difi culdade e 
-compreensão? 
-
-(A) Sim, todas.
-(B) Sim, a maioria.
-(C) Não houve este nivelamento
-(D) Não tenho como opinar.
-
-Questão 06:
-As informações / instruções fornecidas para
-a resolução da prova foram sufi cientes e
-adequadas?
-
-(A) Sim, até excessivas.
-(B) Sim, todas elas.
-(C) Sim, somente algumas.
-(D) Não, nenhuma delas.
-
-Questão 07:
-Assinale o ti po de difi culdade que você 
-encontrou ao responder a prova. Indique a
-preponderante.
-
-(A) Desconhecimento do conteúdo.
-(B) Forma diferente de abordagem do conteúdo.
-(C) Falta de moti vação para fazer a prova.
-(D) Não ti ve qualquer ti po de difi culdade para 
-
-responder a prova.
-
-Questão 08:
-Considerando a sua preparação para esta prova, 
-você conclui que:
-
-(A) não estudou a maioria dos conteúdos
-abordados.
-
-(B) estudou a maioria dos conteúdos abordados,
-mas não os assimilou.
-
-(C) estudou e assimilou muitos dos conteúdos
-abordados.
-
-(D) estudou e assimilou todos os conteúdos
-abordados.
-
-Questão 09:
-Qual foi o tempo gasto para concluir a prova?
-
-(A) Menos de três horas.
-(B) Entre três e quatro horas.
-(C) Entre quatro e cinco horas.
-(D) Não consegui terminar.
-
-Questão 10:
-Você considera o layout (formatação et
-diagramação) desta prova: 
-
-(A) muito bom.
-(B) bom.
-(C) regular.
-(D) ruim.
-
-www.questoesdeconcursos.com.br
-
-www.questoesdeconcursos.com.br
-
-
-
-Realização
-
-www.questoesdeconcursos.com.br
-
-www.questoesdeconcursos.com.br
-
-
-<<
-  /ASCII85EncodePages false
-  /AllowTransparency false
-  /AutoPositionEPSFiles true
-  /AutoRotatePages /None
-  /Binding /Left
-  /CalGrayProfile (Dot Gain 20%)
-  /CalRGBProfile (sRGB IEC61966-2.1)
-  /CalCMYKProfile (U.S. Web Coated \050SWOP\051 v2)
-  /sRGBProfile (sRGB IEC61966-2.1)
-  /CannotEmbedFontPolicy /Error
-  /CompatibilityLevel 1.4
-  /CompressObjects /Tags
-  /CompressPages true
-  /ConvertImagesToIndexed true
-  /PassThroughJPEGImages true
-  /CreateJobTicket false
-  /DefaultRenderingIntent /Default
-  /DetectBlends true
-  /DetectCurves 0.0000
-  /ColorConversionStrategy /CMYK
-  /DoThumbnails false
-  /EmbedAllFonts true
-  /EmbedOpenType false
-  /ParseICCProfilesInComments true
-  /EmbedJobOptions true
-  /DSCReportingLevel 0
-  /EmitDSCWarnings false
-  /EndPage -1
-  /ImageMemory 1048576
-  /LockDistillerParams false
-  /MaxSubsetPct 100
-  /Optimize true
-  /OPM 1
-  /ParseDSCComments true
-  /ParseDSCCommentsForDocInfo true
-  /PreserveCopyPage true
-  /PreserveDICMYKValues true
-  /PreserveEPSInfo true
-  /PreserveFlatness true
-  /PreserveHalftoneInfo false
-  /PreserveOPIComments true
-  /PreserveOverprintSettings true
-  /StartPage 1
-  /SubsetFonts true
-  /TransferFunctionInfo /Apply
-  /UCRandBGInfo /Preserve
-  /UsePrologue false
-  /ColorSettingsFile ()
-  /AlwaysEmbed [ true
-  ]
-  /NeverEmbed [ true
-  ]
-  /AntiAliasColorImages false
-  /CropColorImages true
-  /ColorImageMinResolution 300
-  /ColorImageMinResolutionPolicy /OK
-  /DownsampleColorImages true
-  /ColorImageDownsampleType /Bicubic
-  /ColorImageResolution 300
-  /ColorImageDepth -1
-  /ColorImageMinDownsampleDepth 1
-  /ColorImageDownsampleThreshold 1.50000
-  /EncodeColorImages true
-  /ColorImageFilter /DCTEncode
-  /AutoFilterColorImages true
-  /ColorImageAutoFilterStrategy /JPEG
-  /ColorACSImageDict <<
-    /QFactor 0.15
-    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
-  >>
-  /ColorImageDict <<
-    /QFactor 0.15
-    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
-  >>
-  /JPEG2000ColorACSImageDict <<
-    /TileWidth 256
-    /TileHeight 256
-    /Quality 30
-  >>
-  /JPEG2000ColorImageDict <<
-    /TileWidth 256
-    /TileHeight 256
-    /Quality 30
-  >>
-  /AntiAliasGrayImages false
-  /CropGrayImages true
-  /GrayImageMinResolution 300
-  /GrayImageMinResolutionPolicy /OK
-  /DownsampleGrayImages true
-  /GrayImageDownsampleType /Bicubic
-  /GrayImageResolution 300
-  /GrayImageDepth -1
-  /GrayImageMinDownsampleDepth 2
-  /GrayImageDownsampleThreshold 1.50000
-  /EncodeGrayImages true
-  /GrayImageFilter /DCTEncode
-  /AutoFilterGrayImages true
-  /GrayImageAutoFilterStrategy /JPEG
-  /GrayACSImageDict <<
-    /QFactor 0.15
-    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
-  >>
-  /GrayImageDict <<
-    /QFactor 0.15
-    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
-  >>
-  /JPEG2000GrayACSImageDict <<
-    /TileWidth 256
-    /TileHeight 256
-    /Quality 30
-  >>
-  /JPEG2000GrayImageDict <<
-    /TileWidth 256
-    /TileHeight 256
-    /Quality 30
-  >>
-  /AntiAliasMonoImages false
-  /CropMonoImages true
-  /MonoImageMinResolution 1200
-  /MonoImageMinResolutionPolicy /OK
-  /DownsampleMonoImages true
-  /MonoImageDownsampleType /Bicubic
-  /MonoImageResolution 1200
-  /MonoImageDepth -1
-  /MonoImageDownsampleThreshold 1.50000
-  /EncodeMonoImages true
-  /MonoImageFilter /CCITTFaxEncode
-  /MonoImageDict <<
-    /K -1
-  >>
-  /AllowPSXObjects false
-  /CheckCompliance [
-    /None
-  ]
-  /PDFX1aCheck false
-  /PDFX3Check false
-  /PDFXCompliantPDFOnly false
-  /PDFXNoTrimBoxError true
-  /PDFXTrimBoxToMediaBoxOffset [
-    0.00000
-    0.00000
-    0.00000
-    0.00000
-  ]
-  /PDFXSetBleedBoxToMediaBox true
-  /PDFXBleedBoxToTrimBoxOffset [
-    0.00000
-    0.00000
-    0.00000
-    0.00000
-  ]
-  /PDFXOutputIntentProfile ()
-  /PDFXOutputConditionIdentifier ()
-  /PDFXOutputCondition ()
-  /PDFXRegistryName ()
-  /PDFXTrapped /False
-
-  /CreateJDFFile false
-  /Description <<
-    /ARA <FEFF06270633062A062E062F0645002006470630064700200627064406250639062F0627062F0627062A002006440625064606340627062100200648062B062706260642002000410064006F00620065002000500044004600200645062A064806270641064206290020064406440637062806270639062900200641064A00200627064406450637062706280639002006300627062A0020062F0631062C0627062A002006270644062C0648062F0629002006270644063906270644064A0629061B0020064A06450643064600200641062A062D00200648062B0627062606420020005000440046002006270644064506460634062306290020062806270633062A062E062F062706450020004100630072006F0062006100740020064800410064006F006200650020005200650061006400650072002006250635062F0627063100200035002E0030002006480627064406250635062F062706310627062A0020062706440623062D062F062B002E0635062F0627063100200035002E0030002006480627064406250635062F062706310627062A0020062706440623062D062F062B002E>
-    /BGR <FEFF04180437043f043e043b043704320430043904420435002004420435043704380020043d0430044104420440043e0439043a0438002c00200437043000200434043000200441044a0437043404300432043004420435002000410064006f00620065002000500044004600200434043e043a0443043c0435043d04420438002c0020043c0430043a04410438043c0430043b043d043e0020043f044004380433043e04340435043d04380020043704300020043204380441043e043a043e043a0430044704350441044204320435043d0020043f04350447043004420020043704300020043f044004350434043f0435044704300442043d04300020043f043e04340433043e0442043e0432043a0430002e002000200421044a04370434043004340435043d043804420435002000500044004600200434043e043a0443043c0435043d044204380020043c043e0433043004420020043404300020044104350020043e0442043204300440044f0442002004410020004100630072006f00620061007400200438002000410064006f00620065002000520065006100640065007200200035002e00300020043800200441043b0435043404320430044904380020043204350440044104380438002e>
-    /CHS <FEFF4f7f75288fd94e9b8bbe5b9a521b5efa7684002000410064006f006200650020005000440046002065876863900275284e8e9ad88d2891cf76845370524d53705237300260a853ef4ee54f7f75280020004100630072006f0062006100740020548c002000410064006f00620065002000520065006100640065007200200035002e003000204ee553ca66f49ad87248672c676562535f00521b5efa768400200050004400460020658768633002>
-    /CHT <FEFF4f7f752890194e9b8a2d7f6e5efa7acb7684002000410064006f006200650020005000440046002065874ef69069752865bc9ad854c18cea76845370524d5370523786557406300260a853ef4ee54f7f75280020004100630072006f0062006100740020548c002000410064006f00620065002000520065006100640065007200200035002e003000204ee553ca66f49ad87248672c4f86958b555f5df25efa7acb76840020005000440046002065874ef63002>
-    /CZE <FEFF005400610074006f0020006e006100730074006100760065006e00ed00200070006f0075017e0069006a007400650020006b0020007600790074007600e101590065006e00ed00200064006f006b0075006d0065006e0074016f002000410064006f006200650020005000440046002c0020006b00740065007200e90020007300650020006e0065006a006c00e90070006500200068006f006400ed002000700072006f0020006b00760061006c00690074006e00ed0020007400690073006b00200061002000700072006500700072006500730073002e002000200056007900740076006f01590065006e00e900200064006f006b0075006d0065006e007400790020005000440046002000620075006400650020006d006f017e006e00e90020006f007400650076015900ed007400200076002000700072006f006700720061006d0065006300680020004100630072006f00620061007400200061002000410064006f00620065002000520065006100640065007200200035002e0030002000610020006e006f0076011b006a016100ed00630068002e>
-    /DAN <FEFF004200720075006700200069006e0064007300740069006c006c0069006e006700650072006e0065002000740069006c0020006100740020006f007000720065007400740065002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e007400650072002c0020006400650072002000620065006400730074002000650067006e006500720020007300690067002000740069006c002000700072006500700072006500730073002d007500640073006b007200690076006e0069006e00670020006100660020006800f8006a0020006b00760061006c0069007400650074002e0020004400650020006f007000720065007400740065006400650020005000440046002d0064006f006b0075006d0065006e0074006500720020006b0061006e002000e50062006e00650073002000690020004100630072006f00620061007400200065006c006c006500720020004100630072006f006200610074002000520065006100640065007200200035002e00300020006f00670020006e0079006500720065002e>
-    /DEU <FEFF00560065007200770065006e00640065006e0020005300690065002000640069006500730065002000450069006e007300740065006c006c0075006e00670065006e0020007a0075006d002000450072007300740065006c006c0065006e00200076006f006e002000410064006f006200650020005000440046002d0044006f006b0075006d0065006e00740065006e002c00200076006f006e002000640065006e0065006e002000530069006500200068006f006300680077006500720074006900670065002000500072006500700072006500730073002d0044007200750063006b0065002000650072007a0065007500670065006e0020006d00f60063006800740065006e002e002000450072007300740065006c006c007400650020005000440046002d0044006f006b0075006d0065006e007400650020006b00f6006e006e0065006e0020006d006900740020004100630072006f00620061007400200075006e0064002000410064006f00620065002000520065006100640065007200200035002e00300020006f0064006500720020006800f600680065007200200067006500f600660066006e00650074002000770065007200640065006e002e>
-    /ESP <FEFF005500740069006c0069006300650020006500730074006100200063006f006e0066006900670075007200610063006900f3006e0020007000610072006100200063007200650061007200200064006f00630075006d0065006e0074006f00730020005000440046002000640065002000410064006f0062006500200061006400650063007500610064006f00730020007000610072006100200069006d0070007200650073006900f3006e0020007000720065002d0065006400690074006f007200690061006c00200064006500200061006c00740061002000630061006c0069006400610064002e002000530065002000700075006500640065006e00200061006200720069007200200064006f00630075006d0065006e0074006f00730020005000440046002000630072006500610064006f007300200063006f006e0020004100630072006f006200610074002c002000410064006f00620065002000520065006100640065007200200035002e003000200079002000760065007200730069006f006e0065007300200070006f00730074006500720069006f007200650073002e>
-    /ETI <FEFF004b00610073007500740061006700650020006e0065006900640020007300e4007400740065006900640020006b00760061006c006900740065006500740073006500200074007200fc006b006900650065006c007300650020007000720069006e00740069006d0069007300650020006a0061006f006b007300200073006f00620069006c0069006b0065002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e00740069006400650020006c006f006f006d006900730065006b0073002e00200020004c006f006f0064007500640020005000440046002d0064006f006b0075006d0065006e00740065002000730061006100740065002000610076006100640061002000700072006f006700720061006d006d006900640065006700610020004100630072006f0062006100740020006e0069006e0067002000410064006f00620065002000520065006100640065007200200035002e00300020006a00610020007500750065006d006100740065002000760065007200730069006f006f006e00690064006500670061002e000d000a>
-    /FRA <FEFF005500740069006c006900730065007a00200063006500730020006f007000740069006f006e00730020006100660069006e00200064006500200063007200e900650072002000640065007300200064006f00630075006d0065006e00740073002000410064006f00620065002000500044004600200070006f0075007200200075006e00650020007100750061006c0069007400e90020006400270069006d007000720065007300730069006f006e00200070007200e9007000720065007300730065002e0020004c0065007300200064006f00630075006d0065006e00740073002000500044004600200063007200e900e90073002000700065007500760065006e0074002000ea0074007200650020006f007500760065007200740073002000640061006e00730020004100630072006f006200610074002c002000610069006e00730069002000710075002700410064006f00620065002000520065006100640065007200200035002e0030002000650074002000760065007200730069006f006e007300200075006c007400e90072006900650075007200650073002e>
-    /GRE <FEFF03a703c103b703c303b903bc03bf03c003bf03b903ae03c303c403b5002003b103c503c403ad03c2002003c403b903c2002003c103c503b803bc03af03c303b503b903c2002003b303b903b1002003bd03b1002003b403b703bc03b903bf03c503c103b303ae03c303b503c403b5002003ad03b303b303c103b103c603b1002000410064006f006200650020005000440046002003c003bf03c5002003b503af03bd03b103b9002003ba03b103c42019002003b503be03bf03c703ae03bd002003ba03b103c403ac03bb03bb03b703bb03b1002003b303b903b1002003c003c103bf002d03b503ba03c403c503c003c903c403b903ba03ad03c2002003b503c103b303b103c303af03b503c2002003c503c803b703bb03ae03c2002003c003bf03b903cc03c403b703c403b103c2002e0020002003a403b10020005000440046002003ad03b303b303c103b103c603b1002003c003bf03c5002003ad03c703b503c403b5002003b403b703bc03b903bf03c503c103b303ae03c303b503b9002003bc03c003bf03c103bf03cd03bd002003bd03b1002003b103bd03bf03b903c703c403bf03cd03bd002003bc03b5002003c403bf0020004100630072006f006200610074002c002003c403bf002000410064006f00620065002000520065006100640065007200200035002e0030002003ba03b103b9002003bc03b503c403b103b303b503bd03ad03c303c403b503c103b503c2002003b503ba03b403cc03c303b503b903c2002e>
-    /HEB <FEFF05D405E905EA05DE05E905D5002005D105D405D205D305E805D505EA002005D005DC05D4002005DB05D305D9002005DC05D905E605D505E8002005DE05E105DE05DB05D9002000410064006F006200650020005000440046002005D405DE05D505EA05D005DE05D905DD002005DC05D405D305E405E105EA002005E705D305DD002D05D305E405D505E1002005D005D905DB05D505EA05D905EA002E002005DE05E105DE05DB05D90020005000440046002005E905E005D505E605E805D5002005E005D905EA05E005D905DD002005DC05E405EA05D905D705D4002005D105D005DE05E605E205D505EA0020004100630072006F006200610074002005D5002D00410064006F00620065002000520065006100640065007200200035002E0030002005D505D205E805E105D005D505EA002005DE05EA05E705D305DE05D505EA002005D905D505EA05E8002E05D005DE05D905DD002005DC002D005000440046002F0058002D0033002C002005E205D905D905E005D5002005D105DE05D305E805D905DA002005DC05DE05E905EA05DE05E9002005E905DC0020004100630072006F006200610074002E002005DE05E105DE05DB05D90020005000440046002005E905E005D505E605E805D5002005E005D905EA05E005D905DD002005DC05E405EA05D905D705D4002005D105D005DE05E605E205D505EA0020004100630072006F006200610074002005D5002D00410064006F00620065002000520065006100640065007200200035002E0030002005D505D205E805E105D005D505EA002005DE05EA05E705D305DE05D505EA002005D905D505EA05E8002E>
-    /HRV (Za stvaranje Adobe PDF dokumenata najpogodnijih za visokokvalitetni ispis prije tiskanja koristite ove postavke.  Stvoreni PDF dokumenti mogu se otvoriti Acrobat i Adobe Reader 5.0 i kasnijim verzijama.)
-    /HUN <FEFF004b0069007600e1006c00f30020006d0069006e0151007300e9006701710020006e0079006f006d00640061006900200065006c0151006b00e90073007a00ed007401510020006e0079006f006d00740061007400e100730068006f007a0020006c006500670069006e006b00e1006200620020006d0065006700660065006c0065006c0151002000410064006f00620065002000500044004600200064006f006b0075006d0065006e00740075006d006f006b0061007400200065007a0065006b006b0065006c0020006100200062006500e1006c006c00ed007400e10073006f006b006b0061006c0020006b00e90073007a00ed0074006800650074002e0020002000410020006c00e90074007200650068006f007a006f00740074002000500044004600200064006f006b0075006d0065006e00740075006d006f006b00200061007a0020004100630072006f006200610074002000e9007300200061007a002000410064006f00620065002000520065006100640065007200200035002e0030002c0020007600610067007900200061007a002000610074007400f3006c0020006b00e9007301510062006200690020007600650072007a006900f3006b006b0061006c0020006e00790069007400680061007400f3006b0020006d00650067002e>
-    /ITA <FEFF005500740069006c0069007a007a006100720065002000710075006500730074006500200069006d0070006f007300740061007a0069006f006e00690020007000650072002000630072006500610072006500200064006f00630075006d0065006e00740069002000410064006f00620065002000500044004600200070006900f900200061006400610074007400690020006100200075006e00610020007000720065007300740061006d0070006100200064006900200061006c007400610020007100750061006c0069007400e0002e0020004900200064006f00630075006d0065006e007400690020005000440046002000630072006500610074006900200070006f00730073006f006e006f0020006500730073006500720065002000610070006500720074006900200063006f006e0020004100630072006f00620061007400200065002000410064006f00620065002000520065006100640065007200200035002e003000200065002000760065007200730069006f006e006900200073007500630063006500730073006900760065002e>
-    /JPN <FEFF9ad854c18cea306a30d730ea30d730ec30b951fa529b7528002000410064006f0062006500200050004400460020658766f8306e4f5c6210306b4f7f75283057307e305930023053306e8a2d5b9a30674f5c62103055308c305f0020005000440046002030d530a130a430eb306f3001004100630072006f0062006100740020304a30883073002000410064006f00620065002000520065006100640065007200200035002e003000204ee5964d3067958b304f30533068304c3067304d307e305930023053306e8a2d5b9a306b306f30d530a930f330c8306e57cb30818fbc307f304c5fc59808306730593002>
-    /KOR <FEFFc7740020c124c815c7440020c0acc6a9d558c5ec0020ace0d488c9c80020c2dcd5d80020c778c1c4c5d00020ac00c7a50020c801d569d55c002000410064006f0062006500200050004400460020bb38c11cb97c0020c791c131d569b2c8b2e4002e0020c774b807ac8c0020c791c131b41c00200050004400460020bb38c11cb2940020004100630072006f0062006100740020bc0f002000410064006f00620065002000520065006100640065007200200035002e00300020c774c0c1c5d0c11c0020c5f40020c2180020c788c2b5b2c8b2e4002e>
-    /LTH <FEFF004e006100750064006f006b0069007400650020016100690075006f007300200070006100720061006d006500740072007500730020006e006f0072011700640061006d00690020006b0075007200740069002000410064006f00620065002000500044004600200064006f006b0075006d0065006e007400750073002c0020006b00750072006900650020006c0061006200690061007500730069006100690020007000720069007400610069006b007900740069002000610075006b01610074006f00730020006b006f006b007900620117007300200070006100720065006e006700740069006e00690061006d00200073007000610075007300640069006e0069006d00750069002e0020002000530075006b0075007200740069002000500044004600200064006f006b0075006d0065006e007400610069002000670061006c006900200062016b007400690020006100740069006400610072006f006d00690020004100630072006f006200610074002000690072002000410064006f00620065002000520065006100640065007200200035002e0030002000610072002000760117006c00650073006e0117006d00690073002000760065007200730069006a006f006d00690073002e>
-    /LVI <FEFF0049007a006d0061006e0074006f006a00690065007400200161006f00730020006900650073007400610074012b006a0075006d00750073002c0020006c0061006900200076006500690064006f00740075002000410064006f00620065002000500044004600200064006f006b0075006d0065006e007400750073002c0020006b006100730020006900720020012b00700061016100690020007000690065006d01130072006f00740069002000610075006700730074006100730020006b00760061006c0069007401010074006500730020007000690072006d007300690065007300700069006501610061006e006100730020006400720075006b00610069002e00200049007a0076006500690064006f006a006900650074002000500044004600200064006f006b0075006d0065006e007400750073002c0020006b006f002000760061007200200061007400760113007200740020006100720020004100630072006f00620061007400200075006e002000410064006f00620065002000520065006100640065007200200035002e0030002c0020006b0101002000610072012b00200074006f0020006a00610075006e0101006b0101006d002000760065007200730069006a0101006d002e>
-    /NLD (Gebruik deze instellingen om Adobe PDF-documenten te maken die zijn geoptimaliseerd voor prepress-afdrukken van hoge kwaliteit. De gemaakte PDF-documenten kunnen worden geopend met Acrobat en Adobe Reader 5.0 en hoger.)
-    /NOR <FEFF004200720075006b00200064006900730073006500200069006e006e007300740069006c006c0069006e00670065006e0065002000740069006c002000e50020006f0070007000720065007400740065002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e00740065007200200073006f006d00200065007200200062006500730074002000650067006e0065007400200066006f00720020006600f80072007400720079006b006b0073007500740073006b00720069006600740020006100760020006800f800790020006b00760061006c0069007400650074002e0020005000440046002d0064006f006b0075006d0065006e00740065006e00650020006b0061006e002000e50070006e00650073002000690020004100630072006f00620061007400200065006c006c00650072002000410064006f00620065002000520065006100640065007200200035002e003000200065006c006c00650072002000730065006e006500720065002e>
-    /POL <FEFF0055007300740061007700690065006e0069006100200064006f002000740077006f0072007a0065006e0069006100200064006f006b0075006d0065006e007400f300770020005000440046002000700072007a0065007a006e00610063007a006f006e00790063006800200064006f002000770079006400720075006b00f30077002000770020007700790073006f006b00690065006a0020006a0061006b006f015b00630069002e002000200044006f006b0075006d0065006e0074007900200050004400460020006d006f017c006e00610020006f007400770069006500720061010700200077002000700072006f006700720061006d006900650020004100630072006f00620061007400200069002000410064006f00620065002000520065006100640065007200200035002e0030002000690020006e006f00770073007a0079006d002e>
-    /PTB <FEFF005500740069006c0069007a006500200065007300730061007300200063006f006e00660069006700750072006100e700f50065007300200064006500200066006f0072006d00610020006100200063007200690061007200200064006f00630075006d0065006e0074006f0073002000410064006f0062006500200050004400460020006d00610069007300200061006400650071007500610064006f00730020007000610072006100200070007200e9002d0069006d0070007200650073007300f50065007300200064006500200061006c007400610020007100750061006c00690064006100640065002e0020004f007300200064006f00630075006d0065006e0074006f00730020005000440046002000630072006900610064006f007300200070006f00640065006d0020007300650072002000610062006500720074006f007300200063006f006d0020006f0020004100630072006f006200610074002000650020006f002000410064006f00620065002000520065006100640065007200200035002e0030002000650020007600650072007300f50065007300200070006f00730074006500720069006f007200650073002e>
-    /RUM <FEFF005500740069006c0069007a00610163006900200061006300650073007400650020007300650074010300720069002000700065006e007400720075002000610020006300720065006100200064006f00630075006d0065006e00740065002000410064006f006200650020005000440046002000610064006500630076006100740065002000700065006e0074007200750020007400690070010300720069007200650061002000700072006500700072006500730073002000640065002000630061006c006900740061007400650020007300750070006500720069006f006100720103002e002000200044006f00630075006d0065006e00740065006c00650020005000440046002000630072006500610074006500200070006f00740020006600690020006400650073006300680069007300650020006300750020004100630072006f006200610074002c002000410064006f00620065002000520065006100640065007200200035002e00300020015f00690020007600650072007300690075006e0069006c006500200075006c0074006500720069006f006100720065002e>
-    /RUS <FEFF04180441043f043e043b044c04370443043904420435002004340430043d043d044b04350020043d0430044104420440043e0439043a043800200434043b044f00200441043e043704340430043d0438044f00200434043e043a0443043c0435043d0442043e0432002000410064006f006200650020005000440046002c0020043c0430043a04410438043c0430043b044c043d043e0020043f043e04340445043e0434044f04490438044500200434043b044f00200432044b0441043e043a043e043a0430044704350441044204320435043d043d043e0433043e00200434043e043f0435044704300442043d043e0433043e00200432044b0432043e04340430002e002000200421043e043704340430043d043d044b04350020005000440046002d0434043e043a0443043c0435043d0442044b0020043c043e0436043d043e0020043e0442043a0440044b043204300442044c002004410020043f043e043c043e0449044c044e0020004100630072006f00620061007400200438002000410064006f00620065002000520065006100640065007200200035002e00300020043800200431043e043b043504350020043f043e04370434043d043804450020043204350440044104380439002e>
-    /SKY <FEFF0054006900650074006f0020006e006100730074006100760065006e0069006100200070006f0075017e0069007400650020006e00610020007600790074007600e100720061006e0069006500200064006f006b0075006d0065006e0074006f0076002000410064006f006200650020005000440046002c0020006b0074006f007200e90020007300610020006e0061006a006c0065007001610069006500200068006f0064006900610020006e00610020006b00760061006c00690074006e00fa00200074006c0061010d00200061002000700072006500700072006500730073002e00200056007900740076006f00720065006e00e900200064006f006b0075006d0065006e007400790020005000440046002000620075006400650020006d006f017e006e00e90020006f00740076006f00720069016500200076002000700072006f006700720061006d006f006300680020004100630072006f00620061007400200061002000410064006f00620065002000520065006100640065007200200035002e0030002000610020006e006f0076016100ed00630068002e>
-    /SLV <FEFF005400650020006e006100730074006100760069007400760065002000750070006f0072006100620069007400650020007a00610020007500730074007600610072006a0061006e006a006500200064006f006b0075006d0065006e0074006f0076002000410064006f006200650020005000440046002c0020006b006900200073006f0020006e0061006a007000720069006d00650072006e0065006a016100690020007a00610020006b0061006b006f0076006f00730074006e006f0020007400690073006b0061006e006a00650020007300200070007200690070007200610076006f0020006e00610020007400690073006b002e00200020005500730074007600610072006a0065006e006500200064006f006b0075006d0065006e0074006500200050004400460020006a00650020006d006f0067006f010d00650020006f0064007000720065007400690020007a0020004100630072006f00620061007400200069006e002000410064006f00620065002000520065006100640065007200200035002e003000200069006e0020006e006f00760065006a01610069006d002e>
-    /SUO <FEFF004b00e40079007400e40020006e00e40069007400e4002000610073006500740075006b007300690061002c0020006b0075006e0020006c0075006f00740020006c00e400680069006e006e00e4002000760061006100740069007600610061006e0020007000610069006e006100740075006b00730065006e002000760061006c006d0069007300740065006c00750074007900f6006800f6006e00200073006f00700069007600690061002000410064006f0062006500200050004400460020002d0064006f006b0075006d0065006e007400740065006a0061002e0020004c0075006f0064007500740020005000440046002d0064006f006b0075006d0065006e00740069007400200076006f0069006400610061006e0020006100760061007400610020004100630072006f0062006100740069006c006c00610020006a0061002000410064006f00620065002000520065006100640065007200200035002e0030003a006c006c00610020006a006100200075007500640065006d006d0069006c006c0061002e>
-    /SVE <FEFF0041006e007600e4006e00640020006400650020006800e4007200200069006e0073007400e4006c006c006e0069006e006700610072006e00610020006f006d002000640075002000760069006c006c00200073006b006100700061002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e007400200073006f006d002000e400720020006c00e4006d0070006c0069006700610020006600f60072002000700072006500700072006500730073002d007500740073006b00720069006600740020006d006500640020006800f600670020006b00760061006c0069007400650074002e002000200053006b006100700061006400650020005000440046002d0064006f006b0075006d0065006e00740020006b0061006e002000f600700070006e00610073002000690020004100630072006f0062006100740020006f00630068002000410064006f00620065002000520065006100640065007200200035002e00300020006f00630068002000730065006e006100720065002e>
-    /TUR <FEFF005900fc006b00730065006b0020006b0061006c006900740065006c0069002000f6006e002000790061007a006401310072006d00610020006200610073006b013100730131006e006100200065006e0020006900790069002000750079006100620069006c006500630065006b002000410064006f006200650020005000440046002000620065006c00670065006c0065007200690020006f006c0075015f007400750072006d0061006b0020006900e70069006e00200062007500200061007900610072006c0061007201310020006b0075006c006c0061006e0131006e002e00200020004f006c0075015f0074007500720075006c0061006e0020005000440046002000620065006c00670065006c0065007200690020004100630072006f006200610074002000760065002000410064006f00620065002000520065006100640065007200200035002e003000200076006500200073006f006e0072006100730131006e00640061006b00690020007300fc007200fc006d006c00650072006c00650020006100e70131006c006100620069006c00690072002e>
-    /UKR <FEFF04120438043a043e0440043804410442043e043204430439044204350020044604560020043f043004400430043c043504420440043800200434043b044f0020044104420432043e04400435043d043d044f00200434043e043a0443043c0435043d044204560432002000410064006f006200650020005000440046002c0020044f043a04560020043d04300439043a04400430044904350020043f045604340445043e0434044f0442044c00200434043b044f0020043204380441043e043a043e044f043a04560441043d043e0433043e0020043f0435044004350434043404400443043a043e0432043e0433043e0020043404400443043a0443002e00200020042104420432043e04400435043d045600200434043e043a0443043c0435043d0442043800200050004400460020043c043e0436043d04300020043204560434043a0440043804420438002004430020004100630072006f006200610074002004420430002000410064006f00620065002000520065006100640065007200200035002e0030002004300431043e0020043f04560437043d04560448043e04570020043204350440044104560457002e>
-    /ENU (Use these settings to create Adobe PDF documents best suited for high-quality prepress printing.  Created PDF documents can be opened with Acrobat and Adobe Reader 5.0 and later.)
-  >>
-  /Namespace [
-    (Adobe)
-    (Common)
-    (1.0)
-  ]
-  /OtherNamespaces [
-    <<
-      /AsReaderSpreads false
-      /CropImagesToFrames true
-      /ErrorControl /WarnAndContinue
-      /FlattenerIgnoreSpreadOverrides false
-      /IncludeGuidesGrids false
-      /IncludeNonPrinting false
-      /IncludeSlug false
-      /Namespace [
-        (Adobe)
-        (InDesign)
-        (4.0)
-      ]
-      /OmitPlacedBitmaps false
-      /OmitPlacedEPS false
-      /OmitPlacedPDF false
-      /SimulateOverprint /Legacy
-    >>
-    <<
-      /AddBleedMarks false
-      /AddColorBars false
-      /AddCropMarks false
-      /AddPageInfo false
-      /AddRegMarks false
-      /ConvertColors /ConvertToCMYK
-      /DestinationProfileName ()
-      /DestinationProfileSelector /DocumentCMYK
-      /Downsample16BitImages true
-      /FlattenerPreset <<
-        /PresetSelector /MediumResolution
-      >>
-      /FormElements false
-      /GenerateStructure false
-      /IncludeBookmarks false
-      /IncludeHyperlinks false
-      /IncludeInteractive false
-      /IncludeLayers false
-      /IncludeProfiles false
-      /MultimediaHandling /UseObjectSettings
-      /Namespace [
-        (Adobe)
-        (CreativeSuite)
-        (2.0)
-      ]
-      /PDFXOutputIntentProfileSelector /DocumentCMYK
-      /PreserveEditing true
-      /UntaggedCMYKHandling /LeaveUntagged
-      /UntaggedRGBHandling /UseDocumentProfile
-      /UseDocumentBleed false
-    >>
-  ]
->> setdistillerparams
-<<
-  /HWResolution [2400 2400]
-  /PageSize [612.000 792.000]
->> setpagedevice
-
-
-
