@@ -204,6 +204,8 @@ Em obediência ao que dispõe o Estatuto da Advocacia e da OAB, o
 advogado que, por motivos pessoais, não mais deseje continuar
 patrocinando determinada causa deve
 
+OPTIONS
+
 A) renunciar ao mandato e continuar representando seu cliente por
 trinta dias, salvo se este constituir novo advogado antes do término
 do prazo.
@@ -224,6 +226,8 @@ ENUM Questão 10
 
 Ao conselho da subseção compete
 
+OPTIONS
+
 A) representar a OAB no Conselho de Segurança do MERCOSUL.
 
 B) fiscalizar as funções e atribuições do conselho seccional.
@@ -239,6 +243,8 @@ conselho seccional.
 ENUM Questão 11
 
 Com relação à ONU, assinale a opção correta.
+
+OPTIONS
 
 A) Poderão ser admitidos como membros da ONU todos os
 Estados que o desejarem, independentemente de condições de
@@ -268,28 +274,26 @@ direito brasileiro, assinale a opção correta.
 
 OPTIONS
 
-A) A CF dispõe expressamente sobre a possibilidade de expulsão
-do estrangeiro que praticar atividade nociva à ordem pública
-e ao interesse nacional, salvo se estiverem presentes,
-simultaneamente, os seguintes requisitos: cônjuge brasileiro e
-filho brasileiro dependente da economia paterna.
+A) A CF dispõe expressamente sobre a possibilidade de expulsão do
+estrangeiro que praticar atividade nociva à ordem pública e ao
+interesse nacional, salvo se estiverem presentes, simultaneamente, os
+seguintes requisitos: cônjuge brasileiro e filho brasileiro dependente
+da economia paterna.
 
-B:CORRECT) O Brasil, por ter ratificado integralmente o Estatuto de Roma,
-que criou o Tribunal Penal Internacional, tem o compromisso
-de entregar ao tribunal os indivíduos contra os quais tenham
-sido expedidos pedidos de detenção e entrega, mesmo que eles
-possuam, originariamente, nacionalidade brasileira.
+B:CORRECT) O Brasil, por ter ratificado integralmente o Estatuto de
+Roma, que criou o Tribunal Penal Internacional, tem o compromisso de
+entregar ao tribunal os indivíduos contra os quais tenham sido
+expedidos pedidos de detenção e entrega, mesmo que eles possuam,
+originariamente, nacionalidade brasileira.
 
-C) Os estrangeiros de qualquer nacionalidade residentes na
-República Federativa do Brasil há mais de quinze anos
-ininterruptos são automaticamente considerados brasileiros
-naturalizados, independentemente de qualquer outra condição
-ou exigência.
+C) Os estrangeiros de qualquer nacionalidade residentes na República
+Federativa do Brasil há mais de quinze anos ininterruptos são
+automaticamente considerados brasileiros naturalizados,
+independentemente de qualquer outra condição ou exigência.
 
-D) É vedada a extradição de nacionais, salvo em caso de
-comprovado envolvimento em tráfico ilícito de entorpecentes,
-em terrorismo ou em crimes definidos, em lei, como
-hediondos.
+D) É vedada a extradição de nacionais, salvo em caso de comprovado
+envolvimento em tráfico ilícito de entorpecentes, em terrorismo ou em
+crimes definidos, em lei, como hediondos.
 
 ---
 ENUM Questão 13
@@ -577,6 +581,8 @@ ENUM Questão 24
 
 Acerca da disciplina normativa do cheque, assinale a opção
 correta.
+
+OPTIONS
 
 A) A lei admite a emissão de cheque contra banco, instituição
 financeira ou cooperativa de crédito.
@@ -1221,32 +1227,31 @@ a opção correta.
 OPTIONS
 
 A) Tratando-se de desapropriação por utilidade pública para a
-realização de obra, as áreas contíguas necessárias à execução
-da obra poderão ser abrangidas pela desapropriação,
-independentemente da inclusão dessas áreas na declaração de
-utilidade pública. 
+realização de obra, as áreas contíguas necessárias à execução da obra
+poderão ser abrangidas pela desapropriação, independentemente da
+inclusão dessas áreas na declaração de utilidade pública.
 
 B) A fase declaratória, durante a qual o poder público manifesta sua
 vontade na futura desapropriação, é iniciada com a declaração
-expropriatória e formalizada por meio de ato exclusivo do chefe
-do Poder Executivo federal, estadual ou municipal; por isso, não
-pode o dirigente máximo de autarquia ou de agência reguladora,
-por exemplo, expedir declaração expropriatória. 
+expropriatória e formalizada por meio de ato exclusivo do chefe do
+Poder Executivo federal, estadual ou municipal; por isso, não pode o
+dirigente máximo de autarquia ou de agência reguladora, por exemplo,
+expedir declaração expropriatória.
 
 C) O decreto expropriatório caduca no prazo de cinco anos caso a
 desapropriação por utilidade pública não seja efetivada mediante
-acordo ou judicialmente, sendo o termo final desse prazo, para
-as desapropriações que correrem na via judicial, o do trânsito em
-julgado da ação de desapropriação. 
+acordo ou judicialmente, sendo o termo final desse prazo, para as
+desapropriações que correrem na via judicial, o do trânsito em julgado
+da ação de desapropriação.
 
 D:CORRECT) No caso de imissão prévia na posse, na desapropriação por
 necessidade ou utilidade pública e interesse social, havendo
-divergência entre o preço ofertado em juízo e o valor do bem, os
-juros moratórios destinam-se a recompor a perda decorrente do
-atraso no efetivo pagamento da indenização fixada na sentença;
-desse modo, só serão devidos esses juros se o pagamento não for
-feito até 1.º de janeiro do exercício seguinte àquele em que o
-pagamento deveria ter sido feito. 
+divergência entre o preço ofertado em juízo e o valor do bem, os juros
+moratórios destinam-se a recompor a perda decorrente do atraso no
+efetivo pagamento da indenização fixada na sentença; desse modo, só
+serão devidos esses juros se o pagamento não for feito até 1.º de
+janeiro do exercício seguinte àquele em que o pagamento deveria ter
+sido feito.
 
 ---
 ENUM Questão 52
@@ -1255,8 +1260,8 @@ Com relação aos bens públicos, assinale a opção correta.
 
 OPTIONS
 
-A) Por terem caráter tipicamente patrimonial, os bens de uso comum
-do povo podem ser alienados. 
+A) Por terem caráter tipicamente patrimonial, os bens de uso comum do
+povo podem ser alienados.
 
 B) Os bens dominicais são indisponíveis.
 
@@ -1585,6 +1590,8 @@ pagamento e outra, por não ter entregue a declaração anual de
 rendimentos da pessoa jurídica.
 
 Nessa situação hipotética,
+
+OPTIONS
 
 A:CORRECT) todas as obrigações são consideradas principais.
 
@@ -1961,6 +1968,8 @@ depósito recursal, e nenhuma delas pleiteie a exclusão da lide.
 Nessa situação hipotética, o recurso apresentado pela empresa
 Echo
 
+OPTIONS
+
 A) será deserto, em razão de não ter sido efetuado o depósito
 recursal.
 
@@ -2241,6 +2250,8 @@ independente das justiças nacional e estrangeira.
 ENUM Questão 91
 
 Admite-se a suspensão condicional da pena (sursis)
+
+OPTIONS
 
 A) em casos de condenação a pena restritiva de direito ou privativa
 de liberdade, desde que não superior a quatro anos.

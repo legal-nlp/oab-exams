@@ -1,19 +1,20 @@
 
 (ql:quickload :parser-combinators)
+(ql:quickload :parser-combinators-cl-ppcre)
 (ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
 
 ; https://github.com/Ramarren/cl-parser-combinators/blob/master/doc/parser-combinators.org
 
 (defpackage :oab-parser
-  (:use :cl :parser-combinators :alexandria)
+  (:use :cl :parser-combinators :parser-combinators-cl-ppcre :alexandria)
   (:export #:parse-oab #:parse-oab-file))
 
 (in-package :oab-parser)
 
 
 (defun line? ()
-  (named-seq? (<- a (atleast? (choices (word?) #\Space "ª" "-" "/"  "," ".") 1))
+  (named-seq? (<- a (atleast? (choices (word?) #\Space ":" "ª" "-" "/"  "," ".") 1))
 	      #\Newline
 	      a))
 
@@ -43,7 +44,7 @@
 					 (sep-options?)
 					 (<- ops (between? (option?) 1 4))
 					 (list :num a :enum enum :options ops))
-			     question)))
+			     question :complete nil)))
     (list (getf data :num)
 	  (format nil "~{~{~{~a~}~%~}~%~}" (getf data :enum))
 	  (mapcar (lambda (op)
@@ -51,8 +52,8 @@
 		  (getf data :options)))))
 
 
-(defun parse-oab-file (filename num)
+(defun parse-oab-file (filename num &key (fn-parsing #'parse-question))
   (let ((questions (cdr (cl-ppcre:split "---\\s" (read-file-into-string filename)))))
-    (mapcar #'parse-question (subseq questions 0 num))))
+    (mapcar fn-parsing (subseq questions 0 num))))
 
 
