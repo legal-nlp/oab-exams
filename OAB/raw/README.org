@@ -1,0 +1,60 @@
+Important observations
+
+I - In order to make parsing easier, we defined some markers and
+conventions. Take this part of the raw file as an example:
+
+#+BEGIN_EXAMPLE
+---
+ENUM Questão 1 
+
+Alexandre, advogado que exerce a profissão há muitos anos, é 
+conhecido por suas atitudes corajosas, sendo respeitado pelos 
+seus clientes e pelas autoridades com quem se relaciona por 
+questões profissionais. Comentando sua atuação profissional, 
+ele foi inquirido, por um dos seus filhos, se não deveria 
+recusar a defesa de um indivíduo considerado impopular, bem 
+como se não deveria ser mais obediente às autoridades, 
+diante da possibilidade de retaliação. 
+ 
+Sobre o caso apresentado, observadas as regras do Estatuto 
+da OAB, assinale a opção correta indicada ao filho do 
+advogado citado. 
+ 
+OPTIONS
+
+A) O advogado Alexandre deve recusar a defesa de cliente 
+cuja atividade seja impopular. 
+
+B) O temor à autoridade pode levar à negativa de prestação 
+do serviço advocatício por Alexandre. 
+
+C) As causas impopulares aceitas por Alexandre devem vir 
+sempre acompanhadas de apoio da Seccional da OAB. 
+
+D:CORRECT) Nenhum receio de desagradar uma autoridade deterá o 
+advogado Alexandre. 
+#+END_EXAMPLE
+
+The :CORRECT indicates the correct answer.
+
+- In every exam there are 4 different models of test. Each model has
+  the same content, however, the questions are presented in a
+  different sequential order. That's specially important when you
+  check the answer sheet. For this corpus we only used the white model
+  or the first model of the exam.
+
+- The marker "OPTIONS NULL" was used to indicate that this question
+  was nullified by the organizers.
+
+- On the first, second and third exams the whole test used to have 100
+  questions. From the 4th exam onwards the organizers changed the test
+  to have a total of 80 questions.
+
+- Before 2010, Brazil did not have a unified OAB Exam. Each State from
+  the country used to have his own exam.
+
+- For some reason, the 6th and the 20th exams had problems and, in
+  some regions of the country, they were reapplied, keeping. For
+  instance, the 6th edition of the unified exam was reapplied in some
+  cities. Both the first and the reapplication count as the 6th
+  edition. However, these two tests had a different content.
