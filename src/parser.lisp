@@ -11,12 +11,11 @@
   (:use :cl
         :parser-combinators
         :parser-combinators-cl-ppcre
-        :alexandria
-        :cxml)
+        :alexandria)
   (:export #:parse-oab
            #:parse-oab-file
-           #:exam-to-xml
-           #:dir-to-xml))
+           #:dir-to-xml
+           #:exam-to-xml))
 
 (in-package :oab-parser)
 
@@ -42,7 +41,7 @@
 	      (<- b (opt? ":CORRECT"))
 	      ")"
 	      (<- txt (paragraph?))
-	      (list "item" a "correct?" b "text" txt)))
+	      (list a b txt)))
 
 
 (defun combinator-parser (question)
@@ -51,17 +50,13 @@
 					 (between? #\Newline 1 2)
 					 (<- enum (block?))
 					 (sep-options?)
-					 (<- ops (between?
-                                                  (option?) 1 4))
-					 (list :num a
-                                               :enum enum
-                                               :options ops))
+					 (<- ops (between? (option?) 1 4))
+					 (list :num a :enum enum :options ops))
 			     question :complete nil)))
     (list (getf data :num)
 	  (format nil "~{~{~{~a~}~%~}~%~}" (getf data :enum))
 	  (mapcar (lambda (op)
-		    (list (car op) (cadr op)
-                          (format nil "~{~{~a~}~%~}" (caddr op))))
+		    (list (car op) (cadr op) (format nil "~{~{~a~}~%~}" (caddr op))))
 		  (getf data :options)))))
 
 
@@ -140,4 +135,3 @@
   (let ((file-paths (txt-in-directory dir-path)))
     (mapcar #'exam-to-xml file-paths))
   nil)
-
