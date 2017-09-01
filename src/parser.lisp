@@ -1,63 +1,14 @@
 
-(ql:quickload :parser-combinators)
-(ql:quickload :parser-combinators-cl-ppcre)
 (ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
 (ql:quickload :cxml)
 
-; https://github.com/Ramarren/cl-parser-combinators/blob/master/doc/parser-combinators.org
 
 (defpackage :oab-parser
-  (:use :cl
-        :parser-combinators
-        :parser-combinators-cl-ppcre
-        :alexandria)
-  (:export #:parse-oab
-           #:parse-oab-file
-           #:dir-to-xml
-           #:exam-to-xml))
+  (:use :cl :alexandria))
+
 
 (in-package :oab-parser)
-
-
-(defun line? ()
-  (named-seq? (<- a (atleast? (choices (word?) #\Space ":" "ª" "-" "/"  "," ".") 1))
-	      #\Newline
-	      a))
-
-(defun paragraph? ()
-  (many? (line?)))
-
-(defun block? ()
-  (sepby? (paragraph?) #\Newline))
-
-(defun sep-options? ()
-  (seq-list? (between? #\Newline 1 2) "OPTIONS"
-             (between? #\Newline 1 2)))
-
-(defun option? ()
-  (named-seq? #\Newline
-	      (<- a (choices "A" "B" "C" "D"))
-	      (<- b (opt? ":CORRECT"))
-	      ")"
-	      (<- txt (paragraph?))
-	      (list a b txt)))
-
-
-(defun combinator-parser (question)
-  (let ((data (parse-string* (named-seq? "ENUM Questão "
-					 (<- a (word?))
-					 (between? #\Newline 1 2)
-					 (<- enum (block?))
-					 (sep-options?)
-					 (<- ops (between? (option?) 1 4))
-					 (list :num a :enum enum :options ops))
-			     question :complete nil)))
-    (list (getf data :num)
-	  (format nil "~{~{~{~a~}~%~}~%~}" (getf data :enum))
-	  (mapcar (lambda (op)
-		    (list (car op) (cadr op) (format nil "~{~{~a~}~%~}" (caddr op))))
-		  (getf data :options)))))
 
 
 (defun naive-parser (question)
@@ -86,19 +37,15 @@
                                     (read-file-into-string filename)))))
     (mapcar fn-parsing questions)))
 
-;;
-;; XML
 
-(defun true-or-false (boolean)
-  (if boolean
-      "true"
-      "false"))
+;; XML
 
 (defun item-to-tree (item)
   (destructuring-bind (i-letter i-correct? i-text) item
     (list "item" (list (list "letter" i-letter)
-                       (list "correct" (true-or-false i-correct?)))
+                       (list "correct" (if i-correct? "true" "false")))
           i-text)))
+
 
 (defun question-to-tree (question)
   (destructuring-bind (q-number q-enum items) question
@@ -107,10 +54,12 @@
           (append (list "items" nil)
                   (reverse (mapcar #'item-to-tree items))))))
 
-(defun questions-to-tree (questions year)
-  (list "OAB-exam" (list (list "year" year) (list "edition" ""))
+
+(defun questions-to-tree (questions year edition)
+  (list "OAB-exam" (list (list "year" year) (list "edition" edition))
         (append (list "questions" nil)
                 (mapcar #'question-to-tree questions))))
+
 
 (defun tree-to-xml (tree path)
   (with-open-file (out path :direction :output
@@ -118,16 +67,11 @@
     (cxml-xmls:map-node (cxml:make-octet-stream-sink out)
                         tree :include-namespace-uri nil)))
 
-(defun exam-to-xml (path)
-  (let* ((questions (oab-parser:parse-oab-file path))
-         (year (subseq (file-namestring path) 0 4))
-         (tree (questions-to-tree questions year))
-         (xml-path (make-pathname :type "xml" :defaults path)))
+
+(defun oab-to-xml (txt-path xml-path &key (year "2017") (edition "normal"))
+  (let* ((questions (parse-oab-file txt-path))
+         (tree (questions-to-tree questions year edition)))
     (tree-to-xml tree xml-path)))
 
-(defun dir-to-xml (dir-path)
-  "use path/to/txt/files/*.txt to get all *.txt files in the
-directory"
-  (let ((file-paths (directory dir-path)))
-    (mapcar #'exam-to-xml file-paths))
-  nil)
+
+; (oab-to-xml #P"../OAB/raw/2010-official-1.txt" #P"2010-01.xml")
