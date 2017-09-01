@@ -1,0 +1,20 @@
+
+Validate
+
+#+BEGIN_SRC bash
+for f in *.xml; do xmllint --dtdvalid OAB-Exam.dtd --noout $f; done
+#+END_SRC
+
+Generate the XML files
+
+#+BEGIN_SRC lisp
+  (load "parser.lisp")
+
+  (in-package :oab-parser)
+
+  (mapc (lambda (file)
+	  (oab-to-xml file (make-pathname :type "xml" :defaults file)))
+	(directory "../OAB/raw/*.txt"))
+#+END_SRC
+
+	     
