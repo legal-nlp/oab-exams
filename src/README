@@ -1,0 +1,5 @@
+
+Validate
+
+for f in *.xml; do xmllint --dtdvalid OAB-Exam.dtd --noout $f; done
+

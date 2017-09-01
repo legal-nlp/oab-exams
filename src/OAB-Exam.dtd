@@ -1,0 +1,20 @@
+
+<!ELEMENT questions (question*)>
+<!ELEMENT items (item)* >
+
+<!ELEMENT question (statement, items*) >
+<!ATTLIST question
+	  number CDATA #REQUIRED>
+
+<!ELEMENT statement (#PCDATA) >
+
+<!ELEMENT item (#PCDATA) >
+<!ATTLIST item
+	  letter CDATA #REQUIRED
+	  correct (true | false) #IMPLIED>
+
+<!ELEMENT OAB-exam (questions) >
+<!ATTLIST OAB-exam
+	  year CDATA #REQUIRED
+	  edition CDATA #REQUIRED>
+
