@@ -3,6 +3,7 @@
 (ql:quickload :parser-combinators-cl-ppcre)
 (ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
+(ql:quickload :cxml)
 
 ; https://github.com/Ramarren/cl-parser-combinators/blob/master/doc/parser-combinators.org
 
