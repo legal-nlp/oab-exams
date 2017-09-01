@@ -11,9 +11,12 @@
   (:use :cl
         :parser-combinators
         :parser-combinators-cl-ppcre
-        :alexandria)
+        :alexandria
+        :cxml)
   (:export #:parse-oab
-           #:parse-oab-file))
+           #:parse-oab-file
+           #:exam-to-xml
+           #:dir-to-xml))
 
 (in-package :oab-parser)
 
@@ -88,4 +91,53 @@
                                     (read-file-into-string filename)))))
     (mapcar fn-parsing questions)))
 
+;;
+;; XML
+
+(defun txt-in-directory (dir-path)
+  "return list of all .txt files in a directory"
+  (let ((wild-path (merge-pathnames dir-path
+                                    (parse-namestring "*.txt"))))
+    (directory wild-path)))
+
+(defun true-or-false (boolean)
+  (if boolean
+      "t"
+      "nil"))
+
+(defun item-to-tree (item)
+  (destructuring-bind (i-letter i-correct? i-text) item
+    (list "item" (list (list "letter" i-letter)
+                       (list "correct" (true-or-false i-correct?)))
+          i-text)))
+
+(defun question-to-tree (question)
+  (destructuring-bind (q-number q-enum items) question
+    (list "question" (list (list "number" q-number))
+          (list "statement" nil q-enum)
+          (append (list "items" nil)
+                  (reverse (mapcar #'item-to-tree items))))))
+
+(defun questions-to-tree (questions year)
+  (list "OAB-exam" (list (list "year" year) (list "edition" ""))
+        (append (list "questions" nil)
+                (mapcar #'question-to-tree questions))))
+
+(defun tree-to-xml (tree path)
+  (with-open-file (out path :direction :output
+                       :element-type '(unsigned-byte 8))
+    (cxml-xmls:map-node (cxml:make-octet-stream-sink out)
+                        tree :include-namespace-uri nil)))
+
+(defun exam-to-xml (path)
+  (let* ((questions (oab-parser:parse-oab-file path))
+         (year (subseq (file-namestring path) 0 4))
+         (tree (questions-to-tree questions year))
+         (xml-path (make-pathname :type "xml" :defaults path)))
+    (tree-to-xml tree xml-path)))
+
+(defun dir-to-xml (dir-path)
+  (let ((file-paths (txt-in-directory dir-path)))
+    (mapcar #'exam-to-xml file-paths))
+  nil)
 
