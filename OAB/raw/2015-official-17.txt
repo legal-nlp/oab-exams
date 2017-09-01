@@ -595,7 +595,7 @@ pessoas supostamente envolvidas no esquema de desvio
 de verba. 
 
 ---
-ENUM Questão 20 
+ENUM NULL Questão 20 
  
 A Comissão Interamericana de Direitos Humanos é 
 competente para examinar comunicações encaminhadas por 
@@ -611,7 +611,7 @@ para cumprir suas exigências.
 Caso o Estado não atenda às exigências deliberadas pela 
 Comissão, esta poderá 
 
-OPTIONS NULL
+OPTIONS
 
 A) encaminhar o caso para deliberação pela Assembleia Geral 
 da OEA. 
@@ -2364,7 +2364,7 @@ D) Maria receberá adicional de transferência de 25% do seu
 salário enquanto permanecer na outra localidade. 
 
 ---
-ENUM Questão 76 
+ENUM NULL Questão 76 
  
 José é empregado da sociedade empresária Bicicletas Ltda. 
 Necessitando de dinheiro, ele vendeu seu automóvel para seu 
@@ -2379,7 +2379,7 @@ para ele, razão pela qual tudo deveria ser compensado.
  
 Diante disso, assinale a afirmativa correta. 
  
-OPTIONS NULL
+OPTIONS
 
 A) Descabe a condenação em horas extras, dado o prejuízo 
 causado, tendo em vista a vedação ao enriquecimento sem 

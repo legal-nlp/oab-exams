@@ -990,7 +990,7 @@ do regime previdenciário quanto a previsão de cabimento
 do recurso ao órgão ao qual a autarquia está vinculada.
 
 ---
-ENUM Questão 33 
+ENUM NULL Questão 33 
  
 Os municípios A, B e C formam o consórcio ABC, com 
 personalidade jurídica de direito privado, para a realização de 
@@ -1003,7 +1003,7 @@ Federal.
 Considerando a disciplina legislativa acerca dos consórcios 
 públicos, assinale a afirmativa correta. 
  
-OPTIONS NULL
+OPTIONS
 
 A) Os Municípios  A, B e C não podem constituir consórcio 
 que não se revista de personalidade jurídica de direito 
@@ -2437,7 +2437,7 @@ D) Correta a decisão do juiz, já que a matéria da execução
 está restrita a valores. 
 
 ---
-ENUM Questão 78 
+ENUM NULL Questão 78 
  
 Pedro trabalhou por um ano em Goiânia/GO e quatro 
 Varginha/MG. Ao ser dispensado, retornou para Goiânia, onde 
@@ -2448,7 +2448,7 @@ remessa dos autos para o TRT/GO.
  
 Dessa decisão, Pedro 
  
-OPTIONS NULL
+OPTIONS
 
 A) poderá interpor agravo de instrumento, porque a remessa 
 dos autos equivale ao trancamento da ação, dada a 
