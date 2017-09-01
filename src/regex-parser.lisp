@@ -1,6 +1,8 @@
 
 (ql:quickload :cl-ppcre)
 
+;;
+;; pre-processing
 (defun read-file (filename)
   (coerce (with-open-file (stream filename)
 	    (loop for char = (read-char stream nil)
@@ -18,6 +20,9 @@
 "ENUM\\s*Questão\\s*(\\d+)\\s+([\\S|\\s]+?.)\\s*OPTIONS"
 ;;item, correta?, texto-item
 "\\s*([A-E])(\:CORRECT)?\\)\\s+([\\S|\\s]+?)\\n{2,}"
+
+;;
+;; parser
 
 (defun get-str (str start end)
   (if (null start)
@@ -83,6 +88,41 @@
       (parse-questions (rest questions)
                        (cons (parse-question (first questions))
                              parsed-questions))))
+
+;;
+;; xml
+;; check xml syntax with xmlint and book
+(defun number-heading (question-nr)
+  (concatenate 'string "<question-number>"
+               question-nr
+               "</question-number>"))
+
+(defun enum-heading (question-enum)
+  (concatenate 'string "<question-enum>"
+               question-enum
+               "</question-enum>"))
+
+(defun items-heading (items)
+  )
+
+(defun question-heading (question)
+  (concatenate 'string "<question>"
+               question-enum
+               "</question>"))
+
+(defun question-to-xml (question)
+  (destructuring-bind (q-nr q-enum items) question
+    (question-heading (number-heading q-nr)
+                      (enum-heading q-enum)
+                      (items-heading items))))
+  
+
+(defun exam-to-xml (exam &optional xml-exam) ;;output of parse-questions
+  (if (endp exam)
+      xml-exam
+      (exam-to-xml (rest exam)
+                   (cons (question-to-xml (first exam))
+                         xml-exam))))
 
 ;; example
 
