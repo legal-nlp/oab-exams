@@ -92,6 +92,21 @@
 ;;
 ;; xml
 ;; check xml syntax with xmlint and book
+
+;; <test a="b"><child/></test>
+;; (name ((name value)*) child*).
+
+
+
+(cxml:with-xml-output (cxml:make-octet-stream-sink stream :indentation 2 :canonical nil)
+  (cxml:with-element "exam"
+    (cxml:attribute "year" "xxxx")
+    (cxml:attribute "number" "xx")
+    (cxml:with-element "questions"
+      (cxml:with-element "question"     (cxml:attribute "blub" "bla"))
+    (cxml:text "Hi there.")))
+
+
 (defun number-heading (question-nr)
   (concatenate 'string "<question-number>"
                question-nr

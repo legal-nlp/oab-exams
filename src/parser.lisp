@@ -7,8 +7,12 @@
 ; https://github.com/Ramarren/cl-parser-combinators/blob/master/doc/parser-combinators.org
 
 (defpackage :oab-parser
-  (:use :cl :parser-combinators :parser-combinators-cl-ppcre :alexandria)
-  (:export #:parse-oab #:parse-oab-file))
+  (:use :cl
+        :parser-combinators
+        :parser-combinators-cl-ppcre
+        :alexandria)
+  (:export #:parse-oab
+           #:parse-oab-file))
 
 (in-package :oab-parser)
 
@@ -25,7 +29,8 @@
   (sepby? (paragraph?) #\Newline))
 
 (defun sep-options? ()
-  (seq-list? (between? #\Newline 1 2) "OPTIONS" (between? #\Newline 1 2)))
+  (seq-list? (between? #\Newline 1 2) "OPTIONS"
+             (between? #\Newline 1 2)))
 
 (defun option? ()
   (named-seq? #\Newline
@@ -33,7 +38,7 @@
 	      (<- b (opt? ":CORRECT"))
 	      ")"
 	      (<- txt (paragraph?))
-	      (list a b txt)))
+	      (list "item" a "correct?" b "text" txt)))
 
 
 (defun combinator-parser (question)
@@ -42,13 +47,17 @@
 					 (between? #\Newline 1 2)
 					 (<- enum (block?))
 					 (sep-options?)
-					 (<- ops (between? (option?) 1 4))
-					 (list :num a :enum enum :options ops))
+					 (<- ops (between?
+                                                  (option?) 1 4))
+					 (list :num a
+                                               :enum enum
+                                               :options ops))
 			     question :complete nil)))
     (list (getf data :num)
 	  (format nil "~{~{~{~a~}~%~}~%~}" (getf data :enum))
 	  (mapcar (lambda (op)
-		    (list (car op) (cadr op) (format nil "~{~{~a~}~%~}" (caddr op))))
+		    (list (car op) (cadr op)
+                          (format nil "~{~{~a~}~%~}" (caddr op))))
 		  (getf data :options)))))
 
 
@@ -65,14 +74,17 @@
 	(declare (ignore a))
 	(cl-ppcre:do-scans (s e rs re sc2 ops)
 	  (push (list (subseq ops (aref rs 0) (aref re 0))
-		      (if (aref rs 1) (subseq ops (aref rs 1) (aref re 1)))
+		      (if (aref rs 1) (subseq ops (aref rs 1)
+                                              (aref re 1)))
 		      (subseq ops (aref rs 2) (aref re 2)))
 		res))
 	(list (aref m 0) (aref m 1) res)))))
 
 
 (defun parse-oab-file (filename &key (fn-parsing #'naive-parser))
-  (let ((questions (cdr (cl-ppcre:split "---\\s" (read-file-into-string filename)))))
+  (let ((questions (cdr
+                    (cl-ppcre:split "---\\s"
+                                    (read-file-into-string filename)))))
     (mapcar fn-parsing questions)))
 
 
