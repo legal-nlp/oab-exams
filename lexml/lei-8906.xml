@@ -1,14 +1,14 @@
 <LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
       <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
       <Metadado>
-      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;999@data.evento;leitura;2017-09-05t19.30"/>
+      <Identificacao URN="urn:lex:br:federal:lei:1994-07-04;8906"/>
     </Metadado>
       <ProjetoNorma>
         <Norma>
           <ParteInicial>
-      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 999, DE 2017</Epigrafe>
+      <Epigrafe id="epigrafe">LEI Nº 8.906, DE 1994</Epigrafe>
       <Ementa id="ementa">Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB).</Ementa>
-      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+      <Preambulo id="preambulo"><p>O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:</p></Preambulo>
     </ParteInicial>
           <Articulacao><Titulo id="tit1">
             
