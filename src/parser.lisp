@@ -5,14 +5,14 @@
 
 
 (defpackage :oab-parser
-  (:use :cl :alexandria))
+  (:use :cl :alexandria :cl-ppcre :cxml))
 
 
 (in-package :oab-parser)
 
 
 (defun naive-parser (question)
-  (let ((sc1 (cl-ppcre:create-scanner "ENUM Questão ([0-9]+)(.+)"
+  (let ((sc1 (cl-ppcre:create-scanner "ENUM (NULL )?Questão ([0-9]+)(.+)"
 				      :single-line-mode t))
 	(sc2 (cl-ppcre:create-scanner "([A-D])(:CORRECT)?\\)(([^\\n]+\\n)+\\n)"
 				      :single-line-mode t))
@@ -28,7 +28,7 @@
                                               (aref re 1)))
 		      (subseq ops (aref rs 2) (aref re 2)))
 		res))
-	(list (aref m 0) (aref m 1) res)))))
+	(list (aref m 1) (aref m 0) (aref m 2) res)))))
 
 
 (defun parse-oab-file (filename &key (fn-parsing #'naive-parser))
@@ -48,8 +48,9 @@
 
 
 (defun question-to-tree (question)
-  (destructuring-bind (q-number q-enum items) question
-    (list "question" (list (list "number" q-number))
+  (destructuring-bind (q-number q-null? q-enum items) question
+    (list "question" (list (list "number" q-number)
+                           (list "valid" (if q-null? "false" "true")))
           (list "statement" nil q-enum)
           (append (list "items" nil)
                   (reverse (mapcar #'item-to-tree items))))))

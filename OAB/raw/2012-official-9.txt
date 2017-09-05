@@ -52,7 +52,7 @@ atuação do advogado nas duas funções: preposto e
 representante judicial. 
 
 ---
-ENUM Questão 3 
+ENUM NULL Questão 3 
 
 Marcos, Letícia e Cristina, advogados, resolvem formar 
 sociedade, para atuar na área cível, campo profissional da 
@@ -63,7 +63,7 @@ Observado tal relato, consoante as normas do Regulamento
 Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa 
 correta. 
  
-OPTIONS NULL
+OPTIONS
 
 A) A ausência de registro da sociedade de advogados na 
 Ordem dos Advogados do Brasil constitui mera 
@@ -692,12 +692,12 @@ C) É imposto monofásico e qualificado como indireto.
 D) É imposto interno e lançado por declaração. 
 
 ---
-ENUM Questão 26 
+ENUM NULL Questão 26
  
 De acordo com as regras contidas no Código Tributário 
 Nacional, considera-se fraude à execução fiscal 
  
-OPTIONS NULL
+OPTIONS
 
 A) a alienação dos direitos reais do patrimônio do devedor, 
 efetivada a qualquer tempo, para terceiro de má-fé. 
@@ -715,7 +715,7 @@ mesmo que feita a terceiro de boa-fé, após notificação do
 lançamento fiscal. 
 
 ---
-ENUM Questão 27 
+ENUM NULL Questão 27 
  
 Concessionária de veículos se insurge contra aumento da 
 alíquota do IPI sobre automóveis nacionais e, antes mesmo da 
@@ -730,7 +730,7 @@ Considerando que a Fazenda Pública não adotou qualquer
 providência quanto ao lançamento do imposto devido durante 
 o trâmite da ação judicial, tem-se que 
  
-OPTIONS NULL
+OPTIONS
 
 A) o IPI é devido e coincide com o valor depositado. 
 
