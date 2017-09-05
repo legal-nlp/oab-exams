@@ -1,7 +1,7 @@
 <LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
       <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
       <Metadado>
-      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;999@data.evento;leitura;2017-08-14t16.02"/>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;999@data.evento;leitura;2017-09-05t19.30"/>
     </Metadado>
       <ProjetoNorma>
         <Norma>
@@ -14,12 +14,12 @@
             
             
             <Rotulo>TÍTULO I</Rotulo>
-            <NomeAgrupador>DA ADVOCACIA</NomeAgrupador>
+            <NomeAgrupador>Da Advocacia</NomeAgrupador>
             <Capitulo id="tit1_cap1">
             
             
             <Rotulo>CAPÍTULO I</Rotulo>
-            <NomeAgrupador>DA ATIVIDADE DE ADVOCACIA</NomeAgrupador>
+            <NomeAgrupador>Da Atividade de Advocacia</NomeAgrupador>
             <Artigo id="art1">
             
             
@@ -34,7 +34,7 @@
             
             
             <Rotulo>I –</Rotulo>
-            <p>a postulação a qualquer órgão do Poder Judiciário e aos juizados especiais;</p>
+            <p>a postulação a órgão do Poder Judiciário e aos juizados especiais;</p>
             
           </Inciso><Inciso id="art1_cpt_inc2">
             
@@ -101,7 +101,7 @@
             
             
             
-            <p>O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil - OAB.</p>
+            <p>O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),</p>
             
           </Caput><Paragrafo id="art3_par1">
             
@@ -169,7 +169,7 @@
             
             
             <Rotulo>CAPÍTULO II</Rotulo>
-            <NomeAgrupador>DOS DIREITOS DO ADVOGADO</NomeAgrupador>
+            <NomeAgrupador>Dos Direitos do Advogado</NomeAgrupador>
             <Artigo id="art6">
             
             
@@ -208,7 +208,7 @@
             
             
             <Rotulo>II –</Rotulo>
-            <p>ter respeitada, em nome da liberdade de defesa e do sigilo profissional, a inviolabilidade de seu escritório ou local de trabalho, de seus arquivos e dados, de sua correspondência e de suas comunicações, inclusive telefônicas ou afins, salvo caso de busca ou apreensão determinada por magistrado e acompanhada de representante da OAB;</p>
+            <p>a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondência escrita, eletrônica, telefônica e telemática, desde que relativas ao exercício da advocacia;</p>
             
           </Inciso><Inciso id="art7_cpt_inc3">
             
@@ -226,7 +226,7 @@
             
             
             <Rotulo>V –</Rotulo>
-            <p>não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, assim reconhecidas pela OAB, e, na sua falta, em prisão domiciliar;</p>
+            <p>não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar;</p>
             
           </Inciso><Inciso id="art7_cpt_inc6">
             
@@ -270,12 +270,6 @@
             <Rotulo>VIII –</Rotulo>
             <p>dirigir-se diretamente aos magistrados nas salas e gabinetes de trabalho, independentemente de horário previamente marcado ou outra condição, observando-se a ordem de chegada;</p>
             
-          </Inciso><Inciso id="art7_cpt_inc9">
-            
-            
-            <Rotulo>IX –</Rotulo>
-            <p>sustentar oralmente as razões de qualquer recurso ou processo, nas sessões de julgamento, após o voto do relator, em instância judicial ou administrativa, pelo prazo de quinze minutos, salvo se prazo maior for concedido;</p>
-            
           </Inciso><Inciso id="art7_cpt_inc10">
             
             
@@ -304,7 +298,7 @@
             
             
             <Rotulo>XIV –</Rotulo>
-            <p>examinar em qualquer repartição policial, mesmo sem procuração, autos de flagrante e de inquérito, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos;</p>
+            <p>examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital;</p>
             
           </Inciso><Inciso id="art7_cpt_inc15">
             
@@ -342,6 +336,18 @@
             <Rotulo>XX –</Rotulo>
             <p>retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.</p>
             
+          </Inciso><Inciso id="art7_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração:</p>
+            <Alinea id="art7_cpt_inc21_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>apresentar razões e quesitos;</p>
+            
+          </Alinea>
           </Inciso>
           </Caput><Paragrafo id="art7_par1">
             
@@ -371,7 +377,7 @@
             
             
             <Rotulo>§ 2º</Rotulo>
-            <p>O advogado tem imunidade profissional, não constituindo injúria, difamação ou desacato puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele, sem prejuízo das sanções disciplinares perante a OAB, pelos excessos que cometer.</p>
+            <p>O advogado tem imunidade profissional, não constituindo injúria, difamação puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele, sem prejuízo das sanções disciplinares perante a OAB, pelos excessos que cometer.</p>
             
           </Paragrafo><Paragrafo id="art7_par3">
             
@@ -383,7 +389,7 @@
             
             
             <Rotulo>§ 4º</Rotulo>
-            <p>O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso e controle assegurados à OAB.</p>
+            <p>O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso assegurados à OAB.</p>
             
           </Paragrafo><Paragrafo id="art7_par5">
             
@@ -391,13 +397,109 @@
             <Rotulo>§ 5º</Rotulo>
             <p>No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.</p>
             
+          </Paragrafo><Paragrafo id="art7_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>nA ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7-1">
+            
+            
+            <Rotulo>Art. 7º-A.</Rotulo>
+            
+            <Caput id="art7-1_cpt">
+            
+            
+            
+            <p>São direitos da advogada:</p>
+            <Inciso id="art7-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>gestante:</p>
+            <Alinea id="art7-1_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X;</p>
+            
+          </Alinea><Alinea id="art7-1_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>reserva de vaga em garagens dos fóruns dos tribunais;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art7-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê;</p>
+            
+          </Inciso><Inciso id="art7-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição;</p>
+            
+          </Inciso><Inciso id="art7-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação.</p>
+            
+          </Paragrafo><Paragrafo id="art7-1_par2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no HYPERLINK http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm \l art392<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392">art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span>).</p>
+            
+          </Paragrafo><Paragrafo id="art7-1_par3">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art313_par6-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no HYPERLINK http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm \l art313§6<span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art313_par6">§ 6o do art. 313 da Lei no 13.105, de 16 de março de 2015</span> (Código de Processo Civil). HYPERLINK http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13363.htm \l art2)</p>
+            
           </Paragrafo>
           </Artigo>
           </Capitulo><Capitulo id="tit1_cap3">
             
             
             <Rotulo>CAPÍTULO III</Rotulo>
-            <NomeAgrupador>DA INSCRIÇÃO</NomeAgrupador>
+            <NomeAgrupador>Da Inscrição</NomeAgrupador>
             <Artigo id="art8">
             
             
@@ -685,7 +787,7 @@
             
             
             <Rotulo>CAPÍTULO IV</Rotulo>
-            <NomeAgrupador>DA SOCIEDADE DE ADVOGADOS</NomeAgrupador>
+            <NomeAgrupador>Da Sociedade de Advogados</NomeAgrupador>
             <Artigo id="art15">
             
             
@@ -695,19 +797,19 @@
             
             
             
-            <p>Os advogados podem reunir-se em sociedade civil de prestação de serviço de advocacia, na forma disciplinada nesta lei e no regulamento geral.</p>
+            <p>Os advogados podem reunir-se em sociedade simples de prestação de serviços de advocacia ou constituir sociedade unipessoal de advocacia, na forma disciplinada nesta Lei e no regulamento geral.</p>
             
           </Caput><Paragrafo id="art15_par1">
             
             
             <Rotulo>§ 1º</Rotulo>
-            <p>A sociedade de advogados adquire personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede.</p>
+            <p>A sociedade de advogados e a sociedade unipessoal de advocacia adquirem personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede.</p>
             
           </Paragrafo><Paragrafo id="art15_par2">
             
             
             <Rotulo>§ 2º</Rotulo>
-            <p>Aplica-se à sociedade de advogados o Código de Ética e Disciplina, no que couber.</p>
+            <p>Aplica-se à sociedade de advogados e à sociedade unipessoal de advocacia o Código de Ética e Disciplina, no que couber.</p>
             
           </Paragrafo><Paragrafo id="art15_par3">
             
@@ -719,19 +821,25 @@
             
             
             <Rotulo>§ 4º</Rotulo>
-            <p>Nenhum advogado pode integrar mais de uma sociedade de advogados, com sede ou filial na mesma área territorial do respectivo Conselho Seccional.</p>
+            <p>Nenhum advogado pode integrar mais de uma sociedade de advogados, constituir mais de uma sociedade unipessoal de advocacia, ou integrar, simultaneamente, uma sociedade de advogados e uma sociedade unipessoal de advocacia, com sede ou filial na mesma área territorial do respectivo Conselho Seccional.</p>
             
           </Paragrafo><Paragrafo id="art15_par5">
             
             
             <Rotulo>§ 5º</Rotulo>
-            <p>O ato de constituição de filial deve ser averbado no registro da sociedade e arquivado junto ao Conselho Seccional onde se instalar, ficando os sócios obrigados à inscrição suplementar.</p>
+            <p>O ato de constituição de filial deve ser averbado no registro da sociedade e arquivado no Conselho Seccional onde se instalar, ficando os sócios, inclusive o titular da sociedade unipessoal de advocacia, obrigados à inscrição suplementar.</p>
             
           </Paragrafo><Paragrafo id="art15_par6">
             
             
             <Rotulo>§ 6º</Rotulo>
             <p>Os advogados sócios de uma mesma sociedade profissional não podem representar em juízo clientes de interesses opostos.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A sociedade unipessoal de advocacia pode resultar da concentração por um advogado das quotas de uma sociedade de advogados, independentemente das razões que motivaram tal concentração.</p>
             
           </Paragrafo>
           </Artigo><Artigo id="art16">
@@ -743,7 +851,7 @@
             
             
             
-            <p>Não são admitidas a registro, nem podem funcionar, as sociedades de advogados que apresentem forma ou características mercantis, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam sócio não inscrito como advogado ou totalmente proibido de advogar.</p>
+            <p>Não são admitidas a registro nem podem funcionar todas as espécies de sociedades de advogados que apresentem forma ou características de sociedade empresária, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam como sócio ou titular de sociedade unipessoal de advocacia pessoa não inscrita como advogado ou totalmente proibida de advogar.</p>
             
           </Caput><Paragrafo id="art16_par1">
             
@@ -763,6 +871,12 @@
             <Rotulo>§ 3º</Rotulo>
             <p>É proibido o registro, nos cartórios de registro civil de pessoas jurídicas e nas juntas comerciais, de sociedade que inclua, entre outras finalidades, a atividade de advocacia.</p>
             
+          </Paragrafo><Paragrafo id="art16_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A denominação da sociedade unipessoal de advocacia deve ser obrigatoriamente formada pelo nome do seu titular, completo ou parcial, com a expressão ‘Sociedade Individual de Advocacia’.</p>
+            
           </Paragrafo>
           </Artigo><Artigo id="art17">
             
@@ -773,7 +887,7 @@
             
             
             
-            <p>Além da sociedade, o sócio responde subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possa incorrer.</p>
+            <p>Além da sociedade, o sócio e o titular da sociedade individual de advocacia respondem subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possam incorrer.</p>
             
           </Caput>
           </Artigo>
@@ -781,7 +895,7 @@
             
             
             <Rotulo>CAPÍTULO V</Rotulo>
-            <NomeAgrupador>DO ADVOGADO EMPREGADO</NomeAgrupador>
+            <NomeAgrupador>Do Advogado Empregado</NomeAgrupador>
             <Artigo id="art18">
             
             
@@ -865,7 +979,7 @@
             
             
             <Rotulo>CAPÍTULO VI</Rotulo>
-            <NomeAgrupador>DOS HONORÁRIOS ADVOCATÍCIOS</NomeAgrupador>
+            <NomeAgrupador>Dos Honorários Advocatícios</NomeAgrupador>
             <Artigo id="art22">
             
             
@@ -998,6 +1112,18 @@
             
           </Inciso>
           </Caput>
+          </Artigo><Artigo id="art25-1">
+            
+            
+            <Rotulo>Art. 25-A.</Rotulo>
+            
+            <Caput id="art25-1_cpt">
+            
+            
+            
+            <p>Prescreve em cinco anos a ação de prestação de contas pelas quantias recebidas pelo advogado de seu cliente, ou de terceiros por conta dele (art. 34, XXI).</p>
+            
+          </Caput>
           </Artigo><Artigo id="art26">
             
             
@@ -1015,7 +1141,7 @@
             
             
             <Rotulo>CAPÍTULO VII</Rotulo>
-            <NomeAgrupador>DAS INCOMPATIBILIDADES E IMPEDIMENTOS</NomeAgrupador>
+            <NomeAgrupador>Das Incompatibilidades e Impedimentos</NomeAgrupador>
             <Artigo id="art27">
             
             
@@ -1147,7 +1273,7 @@
             
             
             <Rotulo>CAPÍTULO VIII</Rotulo>
-            <NomeAgrupador>DA ÉTICA DO ADVOGADO</NomeAgrupador>
+            <NomeAgrupador>Da Ética do Advogado</NomeAgrupador>
             <Artigo id="art31">
             
             
@@ -1213,7 +1339,7 @@
             
             
             <Rotulo>CAPÍTULO IX</Rotulo>
-            <NomeAgrupador>DAS INFRAÇÕES E SANÇÕES DISCIPLINARES</NomeAgrupador>
+            <NomeAgrupador>Das Infrações e Sanções Disciplinares</NomeAgrupador>
             <Artigo id="art34">
             
             
@@ -1712,12 +1838,12 @@
             
             
             <Rotulo>TÍTULO II</Rotulo>
-            <NomeAgrupador>DA ORDEM DOS ADVOGADOS DO BRASIL</NomeAgrupador>
+            <NomeAgrupador>Da Ordem dos Advogados do Brasil</NomeAgrupador>
             <Capitulo id="tit2_cap1">
             
             
             <Rotulo>CAPÍTULO I</Rotulo>
-            <NomeAgrupador>DOS FINS E DA ORGANIZAÇÃO</NomeAgrupador>
+            <NomeAgrupador>Dos Fins e da Organização</NomeAgrupador>
             <Artigo id="art44">
             
             
@@ -1903,7 +2029,7 @@
             
             
             <Rotulo>CAPÍTULO II</Rotulo>
-            <NomeAgrupador>DO CONSELHO FEDERAL</NomeAgrupador>
+            <NomeAgrupador>Do Conselho Federal</NomeAgrupador>
             <Artigo id="art51">
             
             
@@ -1974,6 +2100,12 @@
             
             <Rotulo>§ 2º</Rotulo>
             <p>O voto é tomado por delegação, e não pode ser exercido nas matérias de interesse da unidade que represente.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios.</p>
             
           </Paragrafo>
           </Artigo><Artigo id="art54">
@@ -2137,7 +2269,7 @@
             
             
             <Rotulo>CAPÍTULO III</Rotulo>
-            <NomeAgrupador>DO CONSELHO SECCIONAL</NomeAgrupador>
+            <NomeAgrupador>Do Conselho Seccional</NomeAgrupador>
             <Artigo id="art56">
             
             
@@ -2305,7 +2437,7 @@
             
             
             <Rotulo>CAPÍTULO IV</Rotulo>
-            <NomeAgrupador>DA SUBSEÇÃO</NomeAgrupador>
+            <NomeAgrupador>Da Subseção</NomeAgrupador>
             <Artigo id="art60">
             
             
@@ -2425,7 +2557,7 @@
             
             
             <Rotulo>CAPÍTULO V</Rotulo>
-            <NomeAgrupador>DA CAIXA DE ASSISTÊNCIA DOS ADVOGADOS</NomeAgrupador>
+            <NomeAgrupador>Da Caixa de Assistência dos Advogados</NomeAgrupador>
             <Artigo id="art62">
             
             
@@ -2485,7 +2617,7 @@
             
             
             <Rotulo>CAPÍTULO VI</Rotulo>
-            <NomeAgrupador>DAS ELEIÇÕES E DOS MANDATOS</NomeAgrupador>
+            <NomeAgrupador>Das Eleições e dos Mandatos</NomeAgrupador>
             <Artigo id="art63">
             
             
@@ -2620,13 +2752,13 @@
             
             
             <Rotulo>IV –</Rotulo>
-            <p>no dia 25 de janeiro, proceder-se-á, em todos os Conselhos Seccionais, à eleição da Diretoria do Conselho Federal, devendo o Presidente do Conselho Seccional comunicar, em três dias, à Diretoria do Conselho Federal, o resultado do pleito;</p>
+            <p>no dia 31 de janeiro do ano seguinte ao da eleição, o Conselho Federal elegerá, em reunião presidida pelo conselheiro mais antigo, por voto secreto e para mandato de 3 (três) anos, sua diretoria, que tomará posse no dia seguinte;</p>
             
           </Inciso><Inciso id="art67_cpt_inc5">
             
             
             <Rotulo>V –</Rotulo>
-            <p>de posse dos resultados das Seccionais, a Diretoria do Conselho Federal procederá à contagem dos votos, correspondendo a cada Conselho Seccional um voto, e proclamará o resultado.</p>
+            <p>será considerada eleita a chapa que obtiver maioria simples dos votos dos Conselheiros Federais, presente a metade mais 1 (um) de seus membros.</p>
             
           </Inciso>
           </Caput><Paragrafo id="art67_par1u">
@@ -2642,12 +2774,12 @@
             
             
             <Rotulo>TÍTULO III</Rotulo>
-            <NomeAgrupador>DO PROCESSO NA OAB</NomeAgrupador>
+            <NomeAgrupador>Do Processo na OAB</NomeAgrupador>
             <Capitulo id="tit3_cap1">
             
             
             <Rotulo>CAPÍTULO I</Rotulo>
-            <NomeAgrupador>DISPOSIÇÕES GERAIS</NomeAgrupador>
+            <NomeAgrupador>Disposições Gerais</NomeAgrupador>
             <Artigo id="art68">
             
             
@@ -2689,7 +2821,7 @@
             
             
             <Rotulo>CAPÍTULO II</Rotulo>
-            <NomeAgrupador>DO PROCESSO DISCIPLINAR</NomeAgrupador>
+            <NomeAgrupador>Do Processo Disciplinar</NomeAgrupador>
             <Artigo id="art70">
             
             
@@ -2815,7 +2947,7 @@
             
             
             <Rotulo>CAPÍTULO III</Rotulo>
-            <NomeAgrupador>DOS RECURSOS</NomeAgrupador>
+            <NomeAgrupador>Dos Recursos</NomeAgrupador>
             <Artigo id="art75">
             
             
@@ -2870,7 +3002,7 @@
             
             
             <Rotulo>TÍTULO IV</Rotulo>
-            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS</NomeAgrupador>
+            <NomeAgrupador>Das Disposições Gerais e Transitórias</NomeAgrupador>
             <Artigo id="art78">
             
             
@@ -2958,7 +3090,7 @@
             <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988--><!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988-->
             
             
-            <p>Não se aplica o disposto no art. 28, inciso II, desta lei, aos membros do Ministério Público que, na data de promulgação da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, se incluam na previsão do art. 29, § 3º, do seu <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988">Ato das Disposições Constitucionais Transitórias</span>.</p>
+            <p>Não se aplica o disposto no art. 28, inciso II, desta lei, aos membros do Ministério Público que, na data de promulgação da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, se incluam na previsão do HYPERLINK http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm \l adctart29§3art. 29, § 3º, do seu <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988">Ato das Disposições Constitucionais Transitórias</span>.</p>
             
           </Caput>
           </Artigo><Artigo id="art84">
