@@ -10,7 +10,7 @@
 
   <xsl:template match="//lexml:Artigo">
     <artigo>
-      <xsl:value-of select="."/>
+      <xsl:value-of select="normalize-space(.)"/>
     </artigo>
   </xsl:template>
   
