@@ -44,3 +44,16 @@ def namespace_it(namespaces, key, element):
 def articles_in_tree(tree_root, namespace=nsm):
     for artigo in elements_in_tree(tree_root, namespace_it(namespace, None, 'Artigo')):
         yield artigo.get('id'), ''.join(artigo.itertext())
+
+"""
+# examples
+
+oab = parse_xml('~/git/oab-exams/src/2010-01.xml')
+questions = parsed_questions_in_tree(oab)
+next(questions)
+
+lei = parse_xml('~/git/oab-exams/lexml/lei-8906.xml')
+artigos =  articles_in_tree(a)
+next(artigos)
+
+"""
