@@ -37,6 +37,7 @@ def questions_in_tree(tree_root):
                                get_statement_text(question),
                                make_items_dict(get_items(question)))
 
+
 #
 ## reading law XML
 
