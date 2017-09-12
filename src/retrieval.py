@@ -1,4 +1,37 @@
+import copy
+import collections
 from lxml import etree
+import nltk
+import numpy
+import networkx
+nltk.download('punkt')
+
+
+"""
+## examples
+
+# parse OAB exam, return generator of OABQuestion instances
+oab = parse_xml('/home/bruno/git/oab-exams/src/2010-01.xml')
+questions = questions_in_tree(oab)
+first_q = next(questions)
+
+# parse law XML, return list of tuples article ID and raw article text
+lei = parse_xml('/home/bruno/git/oab-exams/lexml/lei-8906.xml')
+artigos =  articles_in_tree(lei)
+
+# create an instance of collection of articles, which processes the 
+# text in each article, creates a node for each, creates a graph of 
+# them, and caches their TF-IDF vectors
+artcol = ArtigosCollection(artigos, rm_stopwords=True)
+
+# add first question to graph constructed from the articles in artcol
+# return the shortest path and distance from the question statement
+# to each item
+path_dict = add_question_to_graph(artcol, first_q)
+
+
+"""
+
 
 #
 ## reading XML
@@ -57,23 +90,9 @@ def lazy_articles_in_tree(tree_root, namespace=nsm):
 def articles_in_tree(tree_root, namespace=nsm):
     return list(lazy_articles_in_tree(tree_root, namespace))
 
-"""
-# examples
-
-oab = parse_xml('/home/bruno/git/oab-exams/src/2010-01.xml')
-questions = questions_in_tree(oab)
-next(questions)
-
-lei = parse_xml('/home/bruno/git/oab-exams/lexml/lei-8906.xml')
-artigos =  articles_in_tree(lei)
-next(artigos)
-
-"""
 
 #
 ## text processing
-import nltk
-nltk.download('punkt')
   
 def is_number(token):
     try:
@@ -104,9 +123,6 @@ def preprocess_text(text, rm_stopwords):
 
 #
 ## tf-idf and base graph making
-import collections
-import numpy
-import networkx
 
 class ArtigosCollection(nltk.TextCollection):
     def __init__(self, source, rm_stopwords):
@@ -160,18 +176,9 @@ def cosine_similarity(vec1, vec2):
     else:
         return numpy.dot(vec1, vec2) / denominator
 
-"""
-examples:
-
-artcol = ArtigosCollection(artigos, rm_stopwords=True)
-
-"""
 
 #
 ## add questions
-"""
-
-"""
 
 def add_temporary_node(artigos_collection, text, label, graph=None):
     """
@@ -197,7 +204,8 @@ def add_question_to_graph(artigos_collection, oab_question):
     """
     assert isinstance(artigos_collection, ArtigosCollection)
     assert isinstance(oab_question, OABQuestion)
-    graph = add_temporary_node(artigos_collection, oab_question.statement, oab_question.number)
+    graph = copy.deepcopy(artigos_collection.base_graph)
+    graph = add_temporary_node(artigos_collection, oab_question.statement, oab_question.number, graph=graph)
     paths = {}
     for question_item, item in oab_question.items.items():
         graph = add_temporary_node(artigos_collection, item[1], question_item, graph=graph)
