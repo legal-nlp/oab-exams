@@ -4,7 +4,8 @@
 
 <!ELEMENT question (statement, items*) >
 <!ATTLIST question
-	  number CDATA #REQUIRED>
+	  number CDATA #REQUIRED
+	  valid (true | false) #IMPLIED>
 
 <!ELEMENT statement (#PCDATA) >
 
