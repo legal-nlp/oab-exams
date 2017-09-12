@@ -150,8 +150,6 @@ class ArtigosCollection(nltk.TextCollection):
     def make_base_graph(self):
         graph = networkx.Graph()
         graph.add_nodes_from(range(self.size))
-        for node in range(self.size):
-            graph = self.add_edges_from(graph, node)
         return graph
 
 
@@ -172,10 +170,7 @@ artcol = ArtigosCollection(artigos, rm_stopwords=True)
 #
 ## add questions
 """
-networkx.algorithms.shortest_paths.dijkstra_path()
-networkx.algorithms.shortest_paths.generic.has_path()
-...bidirectional_dijkstra
-https://networkx.github.io/documentation/stable/reference/generated/networkx.algorithms.shortest_paths.generic.all_shortest_paths.html#networkx.algorithms.shortest_paths.generic.all_shortest_paths
+
 """
 
 def add_temporary_node(artigos_collection, text, label, graph=None):
@@ -196,11 +191,15 @@ def add_temporary_node(artigos_collection, text, label, graph=None):
 # gotta check if deepcopy is needed
 
 def add_question_to_graph(artigos_collection, oab_question):
+    """
+    return distance and shortest path from statement to each item
+    note that '1' (str) means question one and 1 (int) means article one
+    """
     assert isinstance(artigos_collection, ArtigosCollection)
     assert isinstance(oab_question, OABQuestion)
     graph = add_temporary_node(artigos_collection, oab_question.statement, oab_question.number)
     paths = {}
     for question_item, item in oab_question.items.items():
-        graph2 = add_temporary_node(artigos_collection, item[1], question_item, graph=graph)
-        paths[question_item] = list(networkx.algorithms.shortest_paths.generic.all_shortest_paths(graph2, oab_question.number, question_item, weight='weight'))
+        graph = add_temporary_node(artigos_collection, item[1], question_item, graph=graph)
+        paths[question_item] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_item, weight='weight')
     return paths
