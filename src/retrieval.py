@@ -1,4 +1,6 @@
 import copy
+import csv
+import os
 import collections
 from lxml import etree
 import nltk
@@ -22,12 +24,12 @@ artigos =  articles_in_tree(lei)
 # create an instance of collection of articles, which processes the 
 # text in each article, creates a node for each, creates a graph of 
 # them, and caches their TF-IDF vectors
-artcol = ArtigosCollection(artigos, rm_stopwords=True)
+artcol = ArticleCollection(artigos, rm_stopwords=True)
 
 # add first question to graph constructed from the articles in artcol
 # return the shortest path and distance from the question statement
 # to each item
-path_dict = add_question_to_graph(artcol, first_q)
+paths_dict = question_paths_in_graph(artcol, first_q)
 
 
 """
@@ -45,6 +47,10 @@ def elements_in_tree(tree_root, element_tag):
 
 #
 ## reading OAB exams
+def get_exam_id(tree):
+    exam_id = tree.getroot()
+    return exam_id.get('year')+'-'+exam_id.get('edition')
+
 def get_statement_text(question):
     return question.find('statement').text
 
@@ -56,15 +62,21 @@ def make_items_dict(items):
                 (i.get('correct'), getattr(i, 'text'))) for i in items)
 
 class OABQuestion():
-    def __init__(self, number, valid, statement, items):
+    def __init__(self, number, exam, valid, statement, items, justification=None):
         self.number = number
+        self.exam = exam
         self.valid = valid
         self.statement = statement
         self.items = items
+        self.justification = justification
+
+    def __repr__(self):
+        return "OAB:{}-Q{} | just: {}".format(self.exam, self.number, self.justification)
 
 def questions_in_tree(tree_root):
     for question in elements_in_tree(tree_root, 'question'):
         yield OABQuestion(question.get('number'),
+                          get_exam_id(tree_root),
                            question.get('valid'),
                                get_statement_text(question),
                                make_items_dict(get_items(question)))
@@ -124,11 +136,11 @@ def preprocess_text(text, rm_stopwords):
 #
 ## tf-idf and base graph making
 
-class ArtigosCollection(nltk.TextCollection):
+class ArticleCollection(nltk.TextCollection):
     def __init__(self, source, rm_stopwords):
         self.rm_stopwords = rm_stopwords
         self.ids = {ix:artigo[0] for ix, artigo in enumerate(source)}
-        nltk.TextCollection.__init__(self, list(map(lambda x: preprocess_text(x[1], rm_stopwords), source)))
+        nltk.TextCollection.__init__(self, list(map(lambda x: preprocess_text(x[1], self.rm_stopwords), source)))
         self.token_index_dict = {key:ix for ix, key in enumerate(self.vocab().keys())}
         self.vocab_size = len(self.vocab().keys())
         self.tfidf_vectors = [self.tfidf_vectorize(text) for text in self._texts]
@@ -195,14 +207,14 @@ def add_temporary_node(artigos_collection, text, label, graph=None):
         graph.add_edge(label, node, weight=artigos_collection.inverse_similarity(label_tfidf, artigos_collection.tfidf_vectors[node]))
     return graph
 
-# gotta check if deepcopy is needed
-
-def add_question_to_graph(artigos_collection, oab_question):
+def question_paths_in_graph(artigos_collection, oab_question):
     """
-    return distance and shortest path from statement to each item
-    note that '1' (str) means question one and 1 (int) means article one
+    return distance and shortest path from statement to each item in
+    oab_question.
+    note that '1' (str) means question one and 1 (int) means article two
+    (indexing starts at 0)
     """
-    assert isinstance(artigos_collection, ArtigosCollection)
+    assert isinstance(artigos_collection, ArticleCollection)
     assert isinstance(oab_question, OABQuestion)
     graph = copy.deepcopy(artigos_collection.base_graph)
     graph = add_temporary_node(artigos_collection, oab_question.statement, oab_question.number, graph=graph)
@@ -211,3 +223,48 @@ def add_question_to_graph(artigos_collection, oab_question):
         graph = add_temporary_node(artigos_collection, item[1], question_item, graph=graph)
         paths[question_item] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_item, weight='weight')
     return paths
+
+#
+## add justified questions
+
+def get_urn(law_xml):
+    assert isinstance(law_xml, etree._ElementTree)
+    id_element = law_xml.find('Metadado/Identificacao', namespaces=nsm)
+    return id_element.get('URN')
+
+def read_laws_into_artcollection(laws_path, rm_stopwords=False, namespaces=nsm):
+    assert os.path.isdir(laws_path)
+    laws = {}
+    for file in os.scandir(laws_path):
+        if file.name.endswith(".xml"):
+            law_xml = parse_xml(file.path)
+            urn = get_urn(law_xml)
+            artigos = articles_in_tree(law_xml)
+            artcol = ArticleCollection(artigos, rm_stopwords)
+            laws[urn] = artcol
+    return laws
+
+def find_question(oab_exam, question_nr):
+    assert isinstance(oab_exam, etree._ElementTree)
+    for question in questions_in_tree(oab_exam):
+        if question.number == question_nr:
+            return question
+
+def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwords=False, namespace=nsm):
+    # sqa = shallow question answering
+    assert os.path.isfile(justification_path)
+    assert os.path.isdir(exams_path)
+    laws = read_laws_into_artcollection(laws_path, rm_stopwords, namespace)
+    question_paths = {}
+    with open(justification_path, 'r') as tsv:
+        tsv = csv.reader(tsv, delimiter='\t')
+        for row in tsv:
+            # see README on justify.txt to know what a column is
+            exam_path = os.path.join(exams_path, row[0] + '.xml')
+            oab_exam = parse_xml(exam_path)
+            question = find_question(oab_exam, row[1])
+            law = laws[row[3]] # get appropriate law for curr question
+            question.justification = row[3] + '!' + row[2]
+            paths = question_paths_in_graph(law, question)
+            question_paths[question] = paths
+        return question_paths
