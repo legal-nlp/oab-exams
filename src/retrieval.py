@@ -13,7 +13,7 @@ nltk.download('punkt')
 ## examples
 
 # parse OAB exam, return generator of OABQuestion instances
-oab = parse_xml('/home/bruno/git/oab-exams/src/2010-01.xml')
+oab = parse_xml('/home/bruno/git/oab-exams/OAB/raw/2010-01.xml')
 questions = questions_in_tree(oab)
 first_q = next(questions)
 
@@ -30,6 +30,10 @@ artcol = ArticleCollection(artigos, rm_stopwords=True)
 # return the shortest path and distance from the question statement
 # to each item
 paths_dict = question_paths_in_graph(artcol, first_q)
+
+# shallow question answer justified questions in justify.txt, using
+# laws in lexml/ and getting the questions at OAB/raw/
+result = sqa_justified_questions('doc/justify.txt', 'lexml/', 'OAB/raw/', rm_stopwords=True) 
 
 
 """
@@ -57,9 +61,13 @@ def get_statement_text(question):
 def get_items(question):
     return question.find('items').getchildren()
 
+def get_correct_item(question):
+    for i in get_items(question):
+        if i.get('correct') == "true":
+            return i.get('letter')
+
 def make_items_dict(items):
-    return dict((i.get('letter'),
-                (i.get('correct'), getattr(i, 'text'))) for i in items)
+    return dict((i.get('letter'), getattr(i, 'text')) for i in items)
 
 class OABQuestion():
     def __init__(self, number, exam, valid, statement, items, justification=None):
@@ -72,15 +80,13 @@ class OABQuestion():
 
     def __repr__(self):
         if self.valid:
-            return "OAB:{}-Q{} | just: {}".format(self.exam, self.number, self.justification)
-        else:
-            return "OAB:{}-Q{} | NULL".format(self.exam, self.number)
+            return "OAB:{}-Q:{}-ans:{} | just: {}".format(self.exam, self.number, self.valid, self.justification)
 
 def questions_in_tree(tree_root):
     for question in elements_in_tree(tree_root, 'question'):
         yield OABQuestion(question.get('number'),
                           get_exam_id(tree_root),
-                           question.get('valid'),
+                           get_correct_item(question),
                                get_statement_text(question),
                                make_items_dict(get_items(question)))
 
@@ -105,6 +111,14 @@ def lazy_articles_in_tree(tree_root, namespace=nsm):
 def articles_in_tree(tree_root, namespace=nsm):
     return list(lazy_articles_in_tree(tree_root, namespace))
 
+def get_urn(law_xml):
+    assert isinstance(law_xml, etree._ElementTree)
+    id_element = law_xml.find('Metadado/Identificacao', namespaces=nsm)
+    return id_element.get('URN')
+
+def law_articles(law_path, namespace=nsm):
+    law_xml = parse_xml(law_path)
+    return (law_urn, articles_in_tree(law_xml, namespace=nsm))
 
 #
 ## text processing
@@ -194,45 +208,40 @@ def cosine_similarity(vec1, vec2):
 #
 ## add questions
 
-def add_temporary_node(graph, artigos_collection, text, label):
+def add_temporary_node(graph, article_collection, text, label):
     """
-    artigos_collection is where graph and tfidf-calculation happen,
+    article_collection is where graph and tfidf-calculation happen,
     text is raw question statement (which is preprocessed here) and
     label is question number in str.
     """
     graph.add_node(label)
-    label_tfidf = artigos_collection.tfidf_vectorize(preprocess_text(text, artigos_collection.rm_stopwords))
-    for node_id in artigos_collection.ids.keys():
-        node_ix = artigos_collection.ids[node_id]
-        graph.add_edge(label, node_id, weight=artigos_collection.inverse_similarity(label_tfidf, artigos_collection.tfidf_vectors[node_ix]))
+    label_tfidf = article_collection.tfidf_vectorize(preprocess_text(text, article_collection.rm_stopwords))
+    # to add edges only to the articles, and not every node
+    for node_id in article_collection.ids.keys():
+        node_ix = article_collection.ids[node_id]
+        graph.add_edge(label, node_id, weight=article_collection.inverse_similarity(label_tfidf, article_collection.tfidf_vectors[node_ix]))
     return graph
 
-def question_paths_in_graph(artigos_collection, oab_question):
+def question_paths_in_graph(article_collection, oab_question):
     """
     return distance and shortest path from statement to each item in
     oab_question.
     note that '1' (str) means question one and.
     """
-    assert isinstance(artigos_collection, ArticleCollection)
+    assert isinstance(article_collection, ArticleCollection)
     assert isinstance(oab_question, OABQuestion)
     # so that base_graph is not changed improperly:
-    graph = copy.deepcopy(artigos_collection.base_graph)
+    graph = copy.deepcopy(article_collection.base_graph)
     # add question statement:
-    graph = add_temporary_node(graph, artigos_collection, oab_question.statement, oab_question.number)
+    graph = add_temporary_node(graph, article_collection, oab_question.statement, oab_question.number)
     paths = {}
-    for question_item, item in oab_question.items.items():
-        # item[1] is item text, while item[0] is whether it is correct
-        graph = add_temporary_node(graph, artigos_collection, item[1], question_item)
-        paths[question_item + '-' + item[0]] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_item, weight='weight')
+    for question_letter, item_text in oab_question.items.items():
+        graph = add_temporary_node(graph, article_collection, item_text, question_letter)
+        paths[question_letter] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_letter, weight='weight')
     return paths
 
 #
 ## add justified questions
-
-def get_urn(law_xml):
-    assert isinstance(law_xml, etree._ElementTree)
-    id_element = law_xml.find('Metadado/Identificacao', namespaces=nsm)
-    return id_element.get('URN')
 
 def read_laws_into_artcollection(laws_path, rm_stopwords=False, namespaces=nsm):
     # reads all .xml files in laws_path to a dictionary of urn:artcol
@@ -263,11 +272,24 @@ def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwo
     with open(justification_path, 'r') as tsv:
         tsv = csv.reader(tsv, delimiter='\t')
         for row in tsv:
+            # row[0]: OAB exam filename
             exam_path = os.path.join(exams_path, row[0] + '.xml')
             oab_exam = parse_xml(exam_path)
+            # row[1]: question number
             question = find_question(oab_exam, row[1])
-            law = laws[row[3]] # get appropriate law for curr question
-            question.justification = row[3] + '!' + row[2]
+            # row[3]: justification law URN
+            law = laws[row[3]]
+            # row[2]: justification article
+            question.justification = (row[3], row[2])
             paths = question_paths_in_graph(law, question)
             question_paths[question] = paths
         return question_paths
+
+def check_justification_correct_items(question_paths):
+    correct_items = {}
+    for question, item_paths in question_paths.items():
+        correct_letter = question.valid
+        correct_item_path = item_paths[correct_letter]
+        selected_article = correct_item_path[1][1]
+        correct_items[question] = (selected_article == question.justification[1])
+    return correct_items
