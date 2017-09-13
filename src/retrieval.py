@@ -71,7 +71,10 @@ class OABQuestion():
         self.justification = justification
 
     def __repr__(self):
-        return "OAB:{}-Q{} | just: {}".format(self.exam, self.number, self.justification)
+        if self.valid:
+            return "OAB:{}-Q{} | just: {}".format(self.exam, self.number, self.justification)
+        else:
+            return "OAB:{}-Q{} | NULL".format(self.exam, self.number)
 
 def questions_in_tree(tree_root):
     for question in elements_in_tree(tree_root, 'question'):
@@ -129,7 +132,7 @@ def is_useful(token, rm_stopwords):
         return True
 
 def preprocess_text(text, rm_stopwords):
-    assert bool(rm_stopwords)
+    assert isinstance(rm_stopwords, bool)
     return [token.lower().strip() for token in nltk.tokenize.word_tokenize(text) if is_useful(token, rm_stopwords)]
 
 
@@ -139,12 +142,16 @@ def preprocess_text(text, rm_stopwords):
 class ArticleCollection(nltk.TextCollection):
     def __init__(self, source, rm_stopwords):
         self.rm_stopwords = rm_stopwords
-        self.ids = {ix:artigo[0] for ix, artigo in enumerate(source)}
+        # map article index to its original number in law
+        self.ids = {artigo[0]:ix for ix, artigo in enumerate(source)}
+        # so that we have useful methods such as .idf(token)
         nltk.TextCollection.__init__(self, list(map(lambda x: preprocess_text(x[1], self.rm_stopwords), source)))
+        # index tokens to create TF-IDF vector
         self.token_index_dict = {key:ix for ix, key in enumerate(self.vocab().keys())}
         self.vocab_size = len(self.vocab().keys())
         self.tfidf_vectors = [self.tfidf_vectorize(text) for text in self._texts]
         self.size = len(self._texts)
+        # graph w/ only the articles as nodes, no edges
         self.base_graph = self.make_base_graph()
 
     def tf_tokens(self, tokens):
@@ -153,6 +160,7 @@ class ArticleCollection(nltk.TextCollection):
         return list(map(lambda x: count[x]/length, tokens))
 
     def tfidf_vectorize(self, text):
+        # text must be preprocessed first!
         tfidf_vector = numpy.zeros(self.vocab_size)
         tf_vector = self.tf_tokens(text)
         for ix, token in enumerate(text):
@@ -169,15 +177,9 @@ class ArticleCollection(nltk.TextCollection):
         else:
             return 1 / similarity
 
-    def add_edges_from(self, graph, node_ix):
-        node_tfidf = self.tfidf_vectors[node_ix]
-        for adj_ix in range(node_ix + 1, self.size):
-            graph.add_edge(node_ix, adj_ix, weight = self.inverse_similarity(node_tfidf, self.tfidf_vectors[adj_ix]))
-        return graph
-
     def make_base_graph(self):
         graph = networkx.Graph()
-        graph.add_nodes_from(range(self.size))
+        graph.add_nodes_from(self.ids.keys())
         return graph
 
 
@@ -192,36 +194,36 @@ def cosine_similarity(vec1, vec2):
 #
 ## add questions
 
-def add_temporary_node(artigos_collection, text, label, graph=None):
+def add_temporary_node(graph, artigos_collection, text, label):
     """
-    artcol is where graph and tfidf-calculation happen, text is raw
-    question statement (which is preprocessed here) and label is
-    question number in str (if it were int it would shadow an existing
-    node).
+    artigos_collection is where graph and tfidf-calculation happen,
+    text is raw question statement (which is preprocessed here) and
+    label is question number in str.
     """
-    if graph is None:
-        graph = artigos_collection.base_graph
     graph.add_node(label)
     label_tfidf = artigos_collection.tfidf_vectorize(preprocess_text(text, artigos_collection.rm_stopwords))
-    for node in artigos_collection.ids.keys():
-        graph.add_edge(label, node, weight=artigos_collection.inverse_similarity(label_tfidf, artigos_collection.tfidf_vectors[node]))
+    for node_id in artigos_collection.ids.keys():
+        node_ix = artigos_collection.ids[node_id]
+        graph.add_edge(label, node_id, weight=artigos_collection.inverse_similarity(label_tfidf, artigos_collection.tfidf_vectors[node_ix]))
     return graph
 
 def question_paths_in_graph(artigos_collection, oab_question):
     """
     return distance and shortest path from statement to each item in
     oab_question.
-    note that '1' (str) means question one and 1 (int) means article two
-    (indexing starts at 0)
+    note that '1' (str) means question one and.
     """
     assert isinstance(artigos_collection, ArticleCollection)
     assert isinstance(oab_question, OABQuestion)
+    # so that base_graph is not changed improperly:
     graph = copy.deepcopy(artigos_collection.base_graph)
-    graph = add_temporary_node(artigos_collection, oab_question.statement, oab_question.number, graph=graph)
+    # add question statement:
+    graph = add_temporary_node(graph, artigos_collection, oab_question.statement, oab_question.number)
     paths = {}
     for question_item, item in oab_question.items.items():
-        graph = add_temporary_node(artigos_collection, item[1], question_item, graph=graph)
-        paths[question_item] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_item, weight='weight')
+        # item[1] is item text, while item[0] is whether it is correct
+        graph = add_temporary_node(graph, artigos_collection, item[1], question_item)
+        paths[question_item + '-' + item[0]] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_item, weight='weight')
     return paths
 
 #
@@ -233,6 +235,7 @@ def get_urn(law_xml):
     return id_element.get('URN')
 
 def read_laws_into_artcollection(laws_path, rm_stopwords=False, namespaces=nsm):
+    # reads all .xml files in laws_path to a dictionary of urn:artcol
     assert os.path.isdir(laws_path)
     laws = {}
     for file in os.scandir(laws_path):
@@ -252,6 +255,7 @@ def find_question(oab_exam, question_nr):
 
 def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwords=False, namespace=nsm):
     # sqa = shallow question answering
+    # justification file must be in the format described in docs.
     assert os.path.isfile(justification_path)
     assert os.path.isdir(exams_path)
     laws = read_laws_into_artcollection(laws_path, rm_stopwords, namespace)
@@ -259,7 +263,6 @@ def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwo
     with open(justification_path, 'r') as tsv:
         tsv = csv.reader(tsv, delimiter='\t')
         for row in tsv:
-            # see README on justify.txt to know what a column is
             exam_path = os.path.join(exams_path, row[0] + '.xml')
             oab_exam = parse_xml(exam_path)
             question = find_question(oab_exam, row[1])
