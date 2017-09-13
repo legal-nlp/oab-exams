@@ -5,7 +5,8 @@
 
 
 (defpackage :oab-parser
-  (:use :cl :alexandria :cl-ppcre :cxml))
+  (:use :cl :alexandria :cl-ppcre :cxml)
+  (:export :oab-to-xml :mirror-oab-to-xml))
 
 
 (in-package :oab-parser)
@@ -64,15 +65,30 @@
 
 (defun tree-to-xml (tree path)
   (with-open-file (out path :direction :output
-                       :element-type '(unsigned-byte 8))
+                       :element-type '(unsigned-byte 8)
+                       :if-exists :supersede)
     (cxml-xmls:map-node (cxml:make-octet-stream-sink out)
                         tree :include-namespace-uri nil)))
 
 
-(defun oab-to-xml (txt-path xml-path &key (year "2017") (edition "normal"))
+(defun oab-to-xml (txt-path xml-path &key year edition)
   (let* ((questions (parse-oab-file txt-path))
          (tree (questions-to-tree questions year edition)))
     (tree-to-xml tree xml-path)))
 
+(defun get-year-edition-from-path (filepath &key (sep "-"))
+  (let ((name (pathname-name filepath)))
+    (cl-ppcre:split sep name)))
 
-; (oab-to-xml #P"../OAB/raw/2010-official-1.txt" #P"2010-01.xml")
+(defun mirror-oab-to-xml (txt-path)
+  ;; will create a xml version in the same path as txt-path
+  ;; filename-name must be YYYY-ed, as in doc/README
+  (destructuring-bind (year edition)
+      (get-year-edition-from-path txt-path)
+    (let ((xml-path (make-pathname :name (pathname-name txt-path)
+                                   :type "xml" :defaults txt-path)))
+      (oab-to-xml txt-path xml-path :year year :edition edition))))
+
+
+; (oab-parser:oab-to-xml #P"../OAB/raw/2010-official-1.txt" #P"2010-01.xml" :year "2010" :edition "01")
+; (mapc #'oab-parser:mirror-oab-to-xml (directory #p"/*.txt"))
