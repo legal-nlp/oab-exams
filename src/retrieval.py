@@ -1,6 +1,7 @@
 import copy
 import csv
 import os
+import json
 import collections
 from lxml import etree
 import nltk
@@ -25,7 +26,7 @@ leis = all_law_articles_in_path('/home/bruno/git/oab-exams/lexml/')
 # text in each article, creates a node for each, creates a graph of 
 # them, and caches their TF-IDF vectors
 artcol = ArticleCollection(leis, rm_stopwords=True)
-laws = read_laws_into_artcollection('/home/bruno/git/oab-exams/lexml/', False, True, namespace=nsm) # see code for arguments
+laws = read_laws_into_artcollection('/home/bruno/git/oab-exams/lexml/', False, True) # see code for arguments
 
 # add first question to graph constructed from the articles in artcol
 # return the shortest path and distance from the question statement
@@ -48,8 +49,9 @@ paths = sqa_questions_in_exam('/home/bruno/git/oab-exams/OAB/raw/2016-20a.xml', 
 def parse_xml(path, parser=etree.XMLParser(remove_blank_text=True)):
     return etree.parse(path)
 
-def elements_in_tree(tree_root, element_tag):
-    for element in tree_root.getiterator(tag=element_tag):
+def elements_in_tree(tree, element_tag):
+    assert isinstance(tree, etree._ElementTree)
+    for element in tree.getiterator(tag=element_tag):
         yield element
 
 
@@ -82,14 +84,21 @@ class OABQuestion():
         self.items = items
         self.justification = justification
 
-    def __repr__(self):
-        if self.valid:
-            return "OAB:{}-Q:{}-ans:{} | just: {}".format(self.exam, self.number, self.valid, self.justification)
+    def str_repr(self):
+        if self.valid and self.justification:
+            return "OAB:{}|Q{}|ans:{}|just:{}".format(self.exam, self.number, self.valid, self.justification)
+        elif self.valid:
+            return "OAB:{}|Q{}|ans:{}|just:{}".format(self.exam, self.number, self.valid, ".")
+        else:
+            return "OAB:{}|Q{}|ans:{}".format(self.exam, self.number, "NULL")
 
-def questions_in_tree(tree_root):
-    for question in elements_in_tree(tree_root, 'question'):
+    def __repr__(self):
+        return self.str_repr()
+
+def questions_in_tree(tree):
+    for question in elements_in_tree(tree, 'question'):
         yield OABQuestion(question.get('number'),
-                          get_exam_id(tree_root),
+                          get_exam_id(tree),
                            get_correct_item(question),
                                get_statement_text(question),
                                make_items_dict(get_items(question)))
@@ -99,39 +108,36 @@ def questions_in_tree(tree_root):
 ## reading law XML
 
 # lexML namespaces
-nsm = {"xlink": "http://www.w3.org/1999/xlink",
-           'xsi': 'http://www.w3.org/2001/XMLSchema-instance',
-           "xml": "http://www.w3.org/XML/1998/namespace",
-           None: "http://www.lexml.gov.br/1.0"}
 
 def namespace_it(namespace, key, element):
     # namespaced element in {namespace}element syntax
     return "{{{}}}{}".format(namespace[key], element)
 
-def lazy_articles_in_tree(tree_root, namespace=nsm):
-    for artigo in elements_in_tree(tree_root, namespace_it(namespace, None, 'Artigo')):
+def lazy_articles_in_tree(tree):
+    for artigo in elements_in_tree(tree, namespace_it(tree.getroot().nsmap, None, 'Artigo')):
         yield artigo.get('id'), ''.join(artigo.itertext())
 
-def articles_in_tree(tree_root, namespace=nsm):
-    return list(lazy_articles_in_tree(tree_root, namespace=namespace))
+def articles_in_tree(tree):
+    return list(lazy_articles_in_tree(tree))
 
-def get_urn(law_xml, namespace=nsm):
+def get_urn(law_xml):
     assert isinstance(law_xml, etree._ElementTree)
-    id_element = law_xml.find('Metadado/Identificacao', namespaces=namespace)
+    # fixme http://lxml.de/xpathxslt.html#namespaces-and-prefixes
+    id_element = law_xml.find(namespace_it(law_xml.getroot().nsmap, None, 'Metadado') + '/' + namespace_it(law_xml.getroot().nsmap, None, 'Identificacao'))
     return id_element.get('URN')
 
-def law_articles_in_file(law_path, namespace=nsm):
+def law_articles_in_file(law_path):
     law_xml = parse_xml(law_path)
     law_urn = get_urn(law_xml)
-    return (law_urn, articles_in_tree(law_xml, namespace=namespace))
+    return (law_urn, articles_in_tree(law_xml))
 
-def all_law_articles_in_path(laws_path, namespace=nsm):
+def all_law_articles_in_path(laws_path):
     # reads all .xml files in laws_path to a list of law_articles
     assert os.path.isdir(laws_path)
     laws = []
     for file in os.scandir(laws_path):
         if file.name.endswith(".xml"):
-            law = law_articles_in_file(file.path, namespace=namespace)
+            law = law_articles_in_file(file.path)
             laws.append(law)
     return laws
 
@@ -280,22 +286,22 @@ def question_paths_in_graph(article_collection, oab_question):
 #
 ## add justified questions
 
-def read_laws_into_separate_artcol(laws_path, rm_stopwords, namespace):
+def read_laws_into_separate_artcol(laws_path, rm_stopwords):
     laws = {}
     for file in os.scandir(laws_path):
         if file.name.endswith(".xml"):
-            urn, artigos = law_articles_in_file(file.path, namespace=namespace)
+            urn, artigos = law_articles_in_file(file.path)
             artcol = ArticleCollection([(urn, artigos)], rm_stopwords)
             laws[urn] = artcol
     return laws
 
-def read_laws_into_artcollection(laws_path, separate, rm_stopwords=False, namespace=nsm):
+def read_laws_into_artcollection(laws_path, separate, rm_stopwords=False):
     # reads all .xml files in laws_path to a dictionary of urn:artcol
     assert os.path.isdir(laws_path)
     if separate:
-        laws = read_laws_into_separate_artcol(laws_path, rm_stopwords, namespace)
+        laws = read_laws_into_separate_artcol(laws_path, rm_stopwords)
     else:
-        laws_list = all_law_articles_in_path(laws_path, namespace=namespace)
+        laws_list = all_law_articles_in_path(laws_path)
         laws = ArticleCollection(laws_list, rm_stopwords)
     return laws
 
@@ -311,12 +317,12 @@ def find_question(oab_exam, question_nr):
         if question.number == question_nr:
             return question
 
-def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwords=False, separate=True, namespace=nsm):
+def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwords=False, separate=True):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
     assert os.path.isfile(justification_path)
     assert os.path.isdir(exams_path)
-    laws = read_laws_into_artcollection(laws_path, separate, rm_stopwords, namespace)
+    laws = read_laws_into_artcollection(laws_path, separate, rm_stopwords)
     question_paths = {}
     with open(justification_path, 'r') as tsv:
         tsv = csv.reader(tsv, delimiter='\t')
@@ -365,14 +371,16 @@ def sqa_questions_in_exam(exam_path, artcol, max_questions=-1):
         if ix == max_questions:
             break
         paths = question_paths_in_graph(artcol, question)
-        question_paths[question] = paths
+        question_str = question.str_repr()
+        question_paths[question_str] = paths
     return question_paths
 
 def results_to_json(exams_path, artcol, max_questions=-1):
     # make this work with all functions later
     assert os.path.isdir(exams_path)
+    paths = {}
     for file in os.scandir(exams_path):
         if file.name.endswith(".xml"):
-            paths = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
-            with open(os.path.join(os.path.dirname(file.path), file.name + '.json'), 'w') as f:
-                json.dump(paths, f)
+            paths[file.name] = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
+    with open(os.path.join(os.path.dirname(file.path), 'results.json'), 'w') as f:
+        json.dump(paths, f, indent=4)
