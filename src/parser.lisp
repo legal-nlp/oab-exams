@@ -85,8 +85,7 @@
   ;; filename-name must be YYYY-ed, as in doc/README
   (destructuring-bind (year edition)
       (get-year-edition-from-path txt-path)
-    (let ((xml-path (make-pathname :name (pathname-name txt-path)
-                                   :type "xml" :defaults txt-path)))
+    (let ((xml-path (make-pathname :type "xml" :defaults txt-path)))
       (oab-to-xml txt-path xml-path :year year :edition edition))))
 
 

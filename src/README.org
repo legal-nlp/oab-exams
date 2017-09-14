@@ -12,9 +12,10 @@ Generate the XML files
 
   (in-package :oab-parser)
 
-  (mapc (lambda (file)
-	  (oab-to-xml file (make-pathname :type "xml" :defaults file)))
-	(directory "../OAB/raw/*.txt"))
+  ;; creates a xml file with year and edition information if
+  ;; filename is YYYY-ed.txt
+  (mapc #'oab-parser:mirror-oab-to-xml (directory #p"/*.txt"))
+
 #+END_SRC
 
 	     
