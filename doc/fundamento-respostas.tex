@@ -9,7 +9,6 @@
 \usepackage{url}
 \usepackage{graphicx}
 \usepackage{listings}
-
 \usepackage{color}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 
@@ -155,8 +154,8 @@ mandato judicial, por vontade de Pedro,
 OPTIONS
 
 \textbf{A:CORRECT) não o desobriga do pagamento das verbas honorárias 
-contratadas. 
-}
+contratadas. }
+
 B) desobriga-o do pagamento das verbas honorárias 
 contratadas. 
 
@@ -1394,14 +1393,14 @@ II – a inviolabilidade de seu escritório ou local de trabalho, bem como de se
 \subsection{Algoritmo}
 
 O algoritmo acertou o artigo 7.
- \lstset{
-    language=python,
+\lstset{
+    string=[s]{"}{"},
     tabsize=3,
-    %frame=lines,
-    %caption=Exemplo de Lei em LexML,
-    label=code:sample,
-    frame=shadowbox,
-    rulesepcolor=\color{gray},
+    frame=shadowbox
+    stringstyle=\color{blue},
+    comment=[l]{:},
+    commentstyle=\color{black},
+     rulesepcolor=\color{gray},
     xleftmargin=20pt,
     framexleftmargin=15pt,
     keywordstyle=\color{blue}\bf,
@@ -1415,7 +1414,8 @@ O algoritmo acertou o artigo 7.
     basicstyle=\footnotesize,
     extendedchars=true,
     literate={º}{{$^o$}}1 {õ}{{\~o}}1 {ã}{{\~a}}1 {ç}{{\'{c}}}1 {á}{{\'a}}1 {ó}{{\'o}}1 {í}{{\'i}}1 {§}{{\S}}1 {â}{{\^a}}1,
-    emph={food,name,price},emphstyle={\color{magenta}}}
+    emph={food,name,price},emphstyle={\color{magenta}}
+}
 
 \begin{lstlisting}
        "OAB:2015-18|Q2|ans:D|just:.": {
@@ -1688,17 +1688,6 @@ Código de Ética e Disciplina da OAB, artigo 11
 Art. 11. O advogado não deve aceitar procuração de quem já tenha patrono constituído, sem prévio conhecimento deste, salvo por motivo justo ou para adoção de medidas
 judiciais urgentes e inadiáveis.
 
-O Presidente de determinada Seccional da OAB recebeu representação contra advogado que nela era inscrito por meio de missiva anônima, que narrava grave infração disciplinar. Considerando a via eleita para a apresentação da representação, foi determinado o arquivamento do expediente, sem instauração de processo disciplinar. Pouco tempo depois, foi publicada matéria jornalística sobre investigação realizada pela Polícia Federal que tinha como objeto a mesma infração disciplinar que havia sido narrada na missiva anônima e indicando o nome do investigado naquele procedimento inquisitorial. Com base na reportagem, foi determinada, pelo Presidente da Seccional, a instauração de processo disciplinar. Sobre o procedimento adotado pelo Presidente da Seccional em questão, assinale a
-afirmativa correta.
-
-a) Deveria ter instaurado processo disciplinar quando recebeu a missiva anônima.
-
-b) Não poderia ter instaurado processo disciplinar em nenhuma das oportunidades.
-
-c) Deveria ter instaurado processo disciplinar em qualquer uma das oportunidades.
-
-d) Poderia ter instaurado processo disciplinar a partir da publicação da matéria
-jornalística.
 
 \subsection{Algoritmo}
 
