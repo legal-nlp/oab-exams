@@ -40,6 +40,9 @@ result = sqa_justified_questions('doc/justify.txt', 'lexml/', 'OAB/raw/', rm_sto
 # shallow question answering non-justified questions in an exam
 paths = sqa_questions_in_exam('/home/bruno/git/oab-exams/OAB/raw/2016-20a.xml', artcol, max_questions=10)
 
+# calculate paths and write them to json
+results_to_json(exams_path, artcol, max_questions=10)
+
 
 """
 
@@ -347,7 +350,8 @@ def get_correct_item_paths(question_paths):
             continue
         correct_letter = question.valid
         correct_item_path = item_paths[correct_letter]
-        correct_paths[question] = correct_item_path
+        question_str = question.str_repr()
+        correct_paths[question_str] = correct_item_path
     return correct_paths
 
 def check_justification_correct_items(question_paths):
@@ -375,6 +379,10 @@ def sqa_questions_in_exam(exam_path, artcol, max_questions=-1):
         question_paths[question_str] = paths
     return question_paths
 
+def to_json(dictionary, path):
+    with open(path, 'w') as f:
+        json.dump(dictionary, f, indent=4)
+
 def results_to_json(exams_path, artcol, max_questions=-1):
     # make this work with all functions later
     assert os.path.isdir(exams_path)
@@ -382,5 +390,5 @@ def results_to_json(exams_path, artcol, max_questions=-1):
     for file in os.scandir(exams_path):
         if file.name.endswith(".xml"):
             paths[file.name] = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
-    with open(os.path.join(os.path.dirname(file.path), 'results.json'), 'w') as f:
-        json.dump(paths, f, indent=4)
+    result_path = os.path.join(os.path.dirname(file.path), 'results.json')
+    to_json(paths, result_path)

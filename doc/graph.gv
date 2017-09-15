@@ -1,0 +1,34 @@
+graph oab {
+        rankdir=LR;
+        splines=line;
+        subgraph cluster_statement {
+                label="question statement"
+                statement
+        }
+        subgraph cluster_articles{
+                label="articles"
+                art1;
+                art2;
+                reticencias[label="...", shape="none"];
+                art131[label="art131-1"];
+                
+                {rank=same;
+                        art1;
+                        art2;
+                        reticencias;
+                        art131}
+                } 		
+        subgraph cluster_items {
+                        label="question items";
+                A;
+                B;
+                C;
+                D;
+                {rank=same;
+                        A B C D}
+                }
+        statement -- {art1 art2 art131};
+        art1 -- {A B C D};
+        art2 -- {A B C D};
+        art131 -- {A B C D};
+            }
