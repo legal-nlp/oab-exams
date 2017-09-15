@@ -344,7 +344,7 @@ def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwo
             # row[3]: justification law URN
             artcol = get_law_artcol(laws, row[3], separate)
             # row[2]: justification article
-            question.justification = row[3] + row[2]
+            question.justification = (row[3], row[2])
             paths = question_paths_in_graph(artcol, question)
             question_paths[question] = paths
         return question_paths
@@ -367,7 +367,10 @@ def check_justification_correct_items(question_paths):
         correct_letter = question.valid
         correct_item_path = item_paths[correct_letter]
         selected_article = correct_item_path[1][1]
-        correct_items[question] = (selected_article == question.justification)
+        justification_urn = question.justification[0]
+        justification_articles = question.justification[1].split(',')
+        justification = list(map(lambda x: justification_urn + x, justification_articles))
+        correct_items[question] = (selected_article in justification)
     return correct_items
 
 #
