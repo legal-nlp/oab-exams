@@ -2,6 +2,7 @@ import copy
 import csv
 import os
 import json
+from functools import reduce
 import collections
 from lxml import etree
 import nltk
@@ -349,6 +350,16 @@ def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwo
             question_paths[question] = paths
         return question_paths
 
+def get_minimum_paths(question_paths):
+    minimum_paths = {}
+    for question, item_paths in question_paths.items():
+        paths = []
+        for item, item_path in item_paths.items():
+            paths.append(item_path)
+        minimum_path = reduce(lambda x,y: y if x[0]>y[0] else x if x[0] < y[0] else x + ("can't decide between {} and {}".format(x[1],y[1]),), paths)
+        minimum_paths[question] = minimum_path
+    return minimum_paths
+
 def get_correct_item_paths(question_paths):
     correct_paths = {}
     for question, item_paths in question_paths.items():
@@ -356,8 +367,7 @@ def get_correct_item_paths(question_paths):
             continue
         correct_letter = question.valid
         correct_item_path = item_paths[correct_letter]
-        question_str = question.str_repr()
-        correct_paths[question_str] = correct_item_path
+        correct_paths[question] = correct_item_path
     return correct_paths
 
 def check_justification_correct_items(question_paths):
