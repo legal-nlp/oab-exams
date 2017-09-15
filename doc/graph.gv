@@ -1,4 +1,6 @@
-graph oab {
+// dot -Tps -o graph.ps graph.gv
+// gs -o graph.pdf -sDEVICE=pdfwrite -g4510x3260 -dPDFFitPage graph.ps
+Digraph oab {
         rankdir=LR;
         splines=line;
         subgraph cluster_statement {
@@ -27,8 +29,8 @@ graph oab {
                 {rank=same;
                         A B C D}
                 }
-        statement -- {art1 art2 art131};
-        art1 -- {A B C D};
-        art2 -- {A B C D};
-        art131 -- {A B C D};
+        statement -> {art1 art2 art131};
+        art1 -> {A B C D};
+        art2 -> {A B C D};
+        art131 -> {A B C D};
             }

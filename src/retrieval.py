@@ -2,6 +2,7 @@ import copy
 import csv
 import os
 import json
+from functools import reduce
 import collections
 from lxml import etree
 import nltk
@@ -41,7 +42,7 @@ result = sqa_justified_questions('doc/justify.txt', 'lexml/', 'OAB/raw/', rm_sto
 paths = sqa_questions_in_exam('/home/bruno/git/oab-exams/OAB/raw/2016-20a.xml', artcol, max_questions=10)
 
 # calculate paths and write them to json
-results_to_json(exams_path, artcol, max_questions=10)
+questions_in_exams_to_json('exams_path', artcol, max_questions=10)
 
 
 """
@@ -246,7 +247,7 @@ class ArticleCollection(nltk.TextCollection):
             return 1 / similarity
 
     def make_base_graph(self):
-        graph = networkx.Graph()
+        graph = networkx.DiGraph()
         graph.add_nodes_from(self.ids.keys())
         return graph
 
@@ -254,18 +255,24 @@ class ArticleCollection(nltk.TextCollection):
 #
 ## add questions
 
-def add_temporary_node(graph, artcol, text, label):
+def add_temporary_node(graph, artcol, text, label, to_nodes=True):
     """
     article_collection is where graph and tfidf-calculation happen,
     text is raw question statement (which is preprocessed here) and
     label is question number in str.
+    to_nodes is the direction of the edges to be built. should be 
+    from new node to the nodes already present, or from them to the
+    node being added?
     """
     graph.add_node(label)
     label_tfidf = artcol.tfidf_vectorize(artcol._text_preprocessing_fn(text, artcol.rm_stopwords))
     # to add edges only to the articles, and not every node
     for node_id in artcol.ids.keys():
         node_ix = artcol.ids[node_id]
-        graph.add_edge(label, node_id, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
+        if to_nodes:
+            graph.add_edge(label, node_id, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
+        else:
+            graph.add_edge(node_id, label, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
     return graph
 
 def question_paths_in_graph(article_collection, oab_question):
@@ -279,10 +286,10 @@ def question_paths_in_graph(article_collection, oab_question):
     # so that base_graph is not changed improperly:
     graph = copy.deepcopy(article_collection.base_graph)
     # add question statement:
-    graph = add_temporary_node(graph, article_collection, oab_question.statement, oab_question.number)
+    graph = add_temporary_node(graph, article_collection, oab_question.statement, oab_question.number, to_nodes=True)
     paths = {}
     for question_letter, item_text in oab_question.items.items():
-        graph = add_temporary_node(graph, article_collection, item_text, question_letter)
+        graph = add_temporary_node(graph, article_collection, item_text, question_letter, to_nodes=False)
         paths[question_letter] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_letter, weight='weight')
     return paths
 
@@ -338,10 +345,20 @@ def sqa_justified_questions(justification_path, laws_path, exams_path, rm_stopwo
             # row[3]: justification law URN
             artcol = get_law_artcol(laws, row[3], separate)
             # row[2]: justification article
-            question.justification = row[3] + row[2]
+            question.justification = (row[3], row[2])
             paths = question_paths_in_graph(artcol, question)
             question_paths[question] = paths
         return question_paths
+
+def get_minimum_paths(question_paths):
+    minimum_paths = {}
+    for question, item_paths in question_paths.items():
+        paths = []
+        for item, item_path in item_paths.items():
+            paths.append(item_path)
+        minimum_path = reduce(lambda x,y: y if x[0]>y[0] else x if x[0] < y[0] else x + ("can't decide between {} and {}".format(x[1],y[1]),), paths)
+        minimum_paths[question] = minimum_path
+    return minimum_paths
 
 def get_correct_item_paths(question_paths):
     correct_paths = {}
@@ -350,8 +367,7 @@ def get_correct_item_paths(question_paths):
             continue
         correct_letter = question.valid
         correct_item_path = item_paths[correct_letter]
-        question_str = question.str_repr()
-        correct_paths[question_str] = correct_item_path
+        correct_paths[question] = correct_item_path
     return correct_paths
 
 def check_justification_correct_items(question_paths):
@@ -361,7 +377,10 @@ def check_justification_correct_items(question_paths):
         correct_letter = question.valid
         correct_item_path = item_paths[correct_letter]
         selected_article = correct_item_path[1][1]
-        correct_items[question] = (selected_article == question.justification)
+        justification_urn = question.justification[0]
+        justification_articles = question.justification[1].split(',')
+        justification = list(map(lambda x: justification_urn + x, justification_articles))
+        correct_items[question] = (selected_article in justification)
     return correct_items
 
 #
@@ -375,20 +394,27 @@ def sqa_questions_in_exam(exam_path, artcol, max_questions=-1):
         if ix == max_questions:
             break
         paths = question_paths_in_graph(artcol, question)
-        question_str = question.str_repr()
-        question_paths[question_str] = paths
+        question_paths[question] = paths
     return question_paths
+
+def make_paths_printable(question_paths):
+    printable_paths = {}
+    for question, item_paths in question_paths.items():
+        question_str = question.str_repr()
+        printable_paths[question_str] = item_paths
+    return printable_paths
 
 def to_json(dictionary, path):
     with open(path, 'w') as f:
         json.dump(dictionary, f, indent=4)
 
-def results_to_json(exams_path, artcol, max_questions=-1):
+def questions_in_exams_to_json(exams_path, artcol, max_questions=-1):
     # make this work with all functions later
     assert os.path.isdir(exams_path)
     paths = {}
     for file in os.scandir(exams_path):
         if file.name.endswith(".xml"):
-            paths[file.name] = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
+             exam_question_paths = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
+             paths[file.name] = make_paths_printable(exam_question_paths)
     result_path = os.path.join(os.path.dirname(file.path), 'results.json')
     to_json(paths, result_path)
