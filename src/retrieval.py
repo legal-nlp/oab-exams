@@ -246,7 +246,7 @@ class ArticleCollection(nltk.TextCollection):
             return 1 / similarity
 
     def make_base_graph(self):
-        graph = networkx.Graph()
+        graph = networkx.DiGraph()
         graph.add_nodes_from(self.ids.keys())
         return graph
 
@@ -254,18 +254,24 @@ class ArticleCollection(nltk.TextCollection):
 #
 ## add questions
 
-def add_temporary_node(graph, artcol, text, label):
+def add_temporary_node(graph, artcol, text, label, to_nodes=True):
     """
     article_collection is where graph and tfidf-calculation happen,
     text is raw question statement (which is preprocessed here) and
     label is question number in str.
+    to_nodes is the direction of the edges to be built. should be 
+    from new node to the nodes already present, or from them to the
+    node being added?
     """
     graph.add_node(label)
     label_tfidf = artcol.tfidf_vectorize(artcol._text_preprocessing_fn(text, artcol.rm_stopwords))
     # to add edges only to the articles, and not every node
     for node_id in artcol.ids.keys():
         node_ix = artcol.ids[node_id]
-        graph.add_edge(label, node_id, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
+        if to_nodes:
+            graph.add_edge(label, node_id, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
+        else:
+            graph.add_edge(node_id, label, weight=artcol.inverse_similarity(label_tfidf, artcol.tfidf_vectors[node_ix]))
     return graph
 
 def question_paths_in_graph(article_collection, oab_question):
@@ -279,10 +285,10 @@ def question_paths_in_graph(article_collection, oab_question):
     # so that base_graph is not changed improperly:
     graph = copy.deepcopy(article_collection.base_graph)
     # add question statement:
-    graph = add_temporary_node(graph, article_collection, oab_question.statement, oab_question.number)
+    graph = add_temporary_node(graph, article_collection, oab_question.statement, oab_question.number, to_nodes=True)
     paths = {}
     for question_letter, item_text in oab_question.items.items():
-        graph = add_temporary_node(graph, article_collection, item_text, question_letter)
+        graph = add_temporary_node(graph, article_collection, item_text, question_letter, to_nodes=False)
         paths[question_letter] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_letter, weight='weight')
     return paths
 
