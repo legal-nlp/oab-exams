@@ -41,7 +41,7 @@ result = sqa_justified_questions('doc/justify.txt', 'lexml/', 'OAB/raw/', rm_sto
 paths = sqa_questions_in_exam('/home/bruno/git/oab-exams/OAB/raw/2016-20a.xml', artcol, max_questions=10)
 
 # calculate paths and write them to json
-results_to_json(exams_path, artcol, max_questions=10)
+questions_in_exams_to_json('exams_path', artcol, max_questions=10)
 
 
 """
@@ -375,20 +375,27 @@ def sqa_questions_in_exam(exam_path, artcol, max_questions=-1):
         if ix == max_questions:
             break
         paths = question_paths_in_graph(artcol, question)
-        question_str = question.str_repr()
-        question_paths[question_str] = paths
+        question_paths[question] = paths
     return question_paths
+
+def make_paths_printable(question_paths):
+    printable_paths = {}
+    for question, item_paths in question_paths.items():
+        question_str = question.str_repr()
+        printable_paths[question_str] = item_paths
+    return printable_paths
 
 def to_json(dictionary, path):
     with open(path, 'w') as f:
         json.dump(dictionary, f, indent=4)
 
-def results_to_json(exams_path, artcol, max_questions=-1):
+def questions_in_exams_to_json(exams_path, artcol, max_questions=-1):
     # make this work with all functions later
     assert os.path.isdir(exams_path)
     paths = {}
     for file in os.scandir(exams_path):
         if file.name.endswith(".xml"):
-            paths[file.name] = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
+             exam_question_paths = sqa_questions_in_exam(file.path, artcol, max_questions=max_questions)
+             paths[file.name] = make_paths_printable(exam_question_paths)
     result_path = os.path.join(os.path.dirname(file.path), 'results.json')
     to_json(paths, result_path)
