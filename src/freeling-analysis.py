@@ -2,6 +2,8 @@ from retrieval import *
 import freeling
 import sys
 import re
+import collections
+import math
 
 def prepare_freeling():    
     # Freeling:
@@ -165,3 +167,67 @@ def question_paths_in_sense_graph(article_collection, oab_question):
         graph = add_temporary_sense_node(graph, article_collection, item_text, question_letter, to_nodes=False)
         paths[question_letter] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_letter, weight='weight')
     return paths
+
+class SenseArticleCollection():
+    def __init__(self, laws, similarity_fn=cosine_similarity):
+        assert isinstance(laws, list)
+        self._similarity_fn = similarity_fn
+        # map article id to its index
+        self.ids, self.articles = self.separate_ids_and_articles(laws)
+        self.laws = [law[0] for law in laws]
+        self.size = len(self.laws)
+        self.dfs = self.make_dfs()
+        self.sense_indices = {key:ix for ix, key in enumerate(self.dfs.keys())}
+        self.vocab_size = len(self.sense_indices.keys())
+        self.tfidf_vectors = [self.tfidf_vectorize(article_senses) for article_senses in self.articles]
+
+    def separate_ids_and_articles(self, laws):
+        ids = {}
+        articles = []
+        ix = 0
+        for law in laws:
+            law_id = law[0]
+            for article in law[1]:
+                art_id = article[0]
+                art_id = law_id + art_id
+                ids[art_id] = ix
+                articles.append(article[1])
+                ix += 1
+        return ids, articles
+
+    def make_dfs(self):
+        dfs = collections.defaultdict(lambda: 0, {})
+        for article in self.articles:
+            art_vocab = set()
+            for sense in article.keys():
+                art_vocab.add(sense)
+            for sense in art_vocab:
+                dfs[sense] += 1
+        return dfs
+    
+    def tf_tokens(self, tokens):
+        count = collections.Counter(tokens)
+        length = len(tokens)
+        return list(map(lambda x: count[x]/length, tokens))
+
+    def tfidf_vectorize(self, article):
+        tfidf_vector = numpy.zeros(self.vocab_size)
+        tf_vector = self.tf_tokens(list(article.keys()))
+        for ix, (sense, weight) in enumerate(article.items()):
+            df = self.dfs[sense]
+            if df == 0:
+                continue
+            tfidf_vector[self.sense_indices[sense]] = weight * tf_vector[ix] * math.log(self.size/df)
+        return tfidf_vector
+
+    def inverse_similarity(self, vec1, vec2):
+        similarity = self._similarity_fn(vec1, vec2)
+        if similarity == 0:
+            return numpy.Infinity
+        else:
+            return 1 / similarity
+
+    def make_base_graph(self):
+        graph = networkx.DiGraph()
+        graph.add_nodes_from(self.ids.keys())
+        return graph
