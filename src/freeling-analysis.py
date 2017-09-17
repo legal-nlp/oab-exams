@@ -104,14 +104,18 @@ def get_senses_from_text(input_text):
     text = tg.analyze(text)
     text = sen.analyze(text)
     text = ukb.analyze(text)
-    senses = set()
+    senses = {}
     for sentence in text:
         for word in sentence.get_words():
-            for sense in word.get_senses():
-                senses.add(sense)
-                break
-                # will only add the first sense,
-                # most probable one from UKB
+            total = 0
+            for sense_pair in word.get_senses():
+                # sense_pair is (sense, value)
+                total += sense_pair[1]
+            for sense_pair in word.get_senses():
+                if sense in senses:
+                    senses[sense_pair[0]] += sense_pair[1]/total
+                else:
+                    senses[sense_pair[0]] = sense_pair[1]/total
     return senses
     
     
