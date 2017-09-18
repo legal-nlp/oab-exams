@@ -11,7 +11,7 @@ Digraph oab {
                 label="articles"
                 art1;
                 art2;
-                reticencias[label="...", shape="none"];
+                reticencias[label=".\n.\n.", shape="none"];
                 art131[label="art131-1"];
                 
                 {rank=same;
