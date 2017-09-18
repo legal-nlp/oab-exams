@@ -181,6 +181,7 @@ def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     """
     graph.add_node(label)
     # text_senses should be dict {sense:weight}
+    text_senses = get_senses_from_text(text)
     label_tfidf = artcol.tfidf_vectorize(text_senses)
     # to add edges only to the articles, and not every node
     for node_id in artcol.ids.keys():
@@ -203,7 +204,7 @@ def question_paths_in_sense_graph(article_collection, oab_question):
     "sense" means it's relative to the senses found by freeling in the
     analysis (and not to the tf-idf of the words themselves).
     """
-    assert isinstance(article_collection, ArticleCollection)
+    assert isinstance(article_collection, SenseArticleCollection)
     assert isinstance(oab_question, OABQuestion)
     # so that base_graph is not changed improperly:
     graph = copy.deepcopy(article_collection.base_graph)
@@ -227,6 +228,7 @@ class SenseArticleCollection():
         self.sense_indices = {key:ix for ix, key in enumerate(self.dfs.keys())}
         self.vocab_size = len(self.sense_indices.keys())
         self.tfidf_vectors = [self.tfidf_vectorize(article_senses) for article_senses in self.articles]
+        self.base_graph = self.make_base_graph()
 
     def separate_ids_and_articles(self, laws):
         ids = {}
@@ -348,3 +350,32 @@ def get_article_from_law(laws, law, articles):
     for art in articles.split(','):
         output.insert(0, d[art])
     return output
+
+def evaluate_correct_answer(answer):
+    "Verifies which questions are correctly answered (that is, have
+    minimum weight only in the correct alternative), wrongly answered
+    or are undecided (minimum weight in the correct alternative and in
+    at least some other)"
+    # Input: dictionary indexed by questions
+    correct = []
+    wrong = []
+    undecided = []
+    for question in answer.keys():
+        correct_opt = question.valid
+        q_result = synset_ans[question]
+        min_weight = np.min([q_result[opt][0] for opt in q_result.keys()])
+        min_alternatives = []
+        for opt in q_result.keys():
+            if q_result[opt][0] == min_weight:
+                min_alternatives.insert(0,opt)
+        assert len(min_alternatives) > 0 , "question {} has no minimum options, minimum is {}".format(question, min_weight)
+
+        if correct_opt in min_alternatives:
+            if len(min_alternatives) > 1:
+                undecided.insert(0,question)
+            else:
+                correct.insert(0,question)
+        else:
+            wrong.insert(0,question)
+    return correct, wrong, undecided
+            
