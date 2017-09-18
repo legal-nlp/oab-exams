@@ -68,13 +68,13 @@ def clean_article(article_string):
                           article_string.replace("\n",""))))
 
 
-def sqa_justified_synset_approach(justification_path, laws_path, exams_path, rm_stopwords=False, separate=True):
+def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
     # see ./retrieval.py
     assert os.path.isfile(justification_path)
     assert os.path.isdirir(exams_path)
-    laws = read_laws_into_artcollection(laws_path, separate, rm_stopwords)
+    laws = fl_read_laws_into_artcollection(laws_path)
     question_paths = {}
 
     with open(justification_path, 'r') as tsv:
@@ -119,7 +119,14 @@ def get_senses_from_text(input_text):
                 else:
                     senses[sense_pair[0]] = sense_pair[1]/total
     return senses
-    
+
+def get_article_senses(article)
+    artnr, arttext = article
+    return artnr, get_senses_from_text(arttext)
+
+def get_law_senses(law_articles):
+    law_urn, articles = law_articles
+    return law_urn, list(map(get_article_senses, articles))
     
 def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     """
@@ -134,7 +141,8 @@ def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     analysis (and not to the tf-idf of the words themselves).
     """
     graph.add_node(label)
-    label_tfidf = artcol.tfidf_vectorize(artcol._text_preprocessing_fn(text, artcol.rm_stopwords))
+    # text_senses should be dict {sense:weight}
+    label_tfidf = artcol.tfidf_vectorize(text_senses)
     # to add edges only to the articles, and not every node
     for node_id in artcol.ids.keys():
         node_ix = artcol.ids[node_id]
@@ -231,3 +239,11 @@ class SenseArticleCollection():
         graph = networkx.DiGraph()
         graph.add_nodes_from(self.ids.keys())
         return graph
+
+def fl_read_laws_into_artcollection(laws_path):
+    laws = {}
+    assert os.path.isdir(laws_path)
+    laws_list = all_law_articles_in_path(laws_path)
+    law_senses = map(get_law_senses, laws_list)
+    laws = SenseArticleCollection(laws_senses)
+    return laws
