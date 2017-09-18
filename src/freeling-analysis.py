@@ -54,10 +54,11 @@ def prepare_freeling():
     sen=freeling.senses(DATA+LANG+"/senses.dat");
     parser= freeling.chart_parser(DATA+LANG+"/chunker/grammar-chunk.dat");
     ukb = freeling.ukb(DATA+LANG+"/ukb.dat");
-    return tk, sp, sid, mf, tg, sen, parser, ukb
+    outputter = freeling.output_conll('./output_conll.dat')
+    return tk, sp, sid, mf, tg, sen, parser, ukb, outputter
 
-# tokenizer, sentence splitter, morphological, tagger, sense labeller, word sense disambiguator (ukb algorithm)
-tk, sp, sid, mf, tg, sen, parser, ukb = prepare_freeling()
+# tokenizer, sentence splitter, morphological, tagger, sense labeller, word sense disambiguator (ukb algorithm), output
+tk, sp, sid, mf, tg, sen, parser, ukb, outputter = prepare_freeling()
 
 def clean_article(article_string):
     # Very simple.
@@ -67,13 +68,12 @@ def clean_article(article_string):
                   (re.sub("Art. [0-9]+\.","",
                           article_string.replace("\n",""))))
 
-
 def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
     # see ./retrieval.py
     assert os.path.isfile(justification_path)
-    assert os.path.isdirir(exams_path)
+    assert os.path.isdir(exams_path)
     laws = fl_read_laws_into_artcollection(laws_path)
     question_paths = {}
 
@@ -102,6 +102,7 @@ def get_senses_from_text(input_text):
     assert(isinstance(input_text,str))
     text = clean_article(input_text)
     text = tk.tokenize(text)
+    text = sp.split(sid,text,False)
     text = mf.analyze(text)
     text = tg.analyze(text)
     text = sen.analyze(text)
@@ -120,7 +121,7 @@ def get_senses_from_text(input_text):
                     senses[sense_pair[0]] = sense_pair[1]/total
     return senses
 
-def get_article_senses(article)
+def get_article_senses(article):
     artnr, arttext = article
     return artnr, get_senses_from_text(arttext)
 
@@ -128,6 +129,44 @@ def get_law_senses(law_articles):
     law_urn, articles = law_articles
     return law_urn, list(map(get_article_senses, articles))
     
+def write_freeling_analysis_conll(input_text):
+    # Please don't use this out of context.
+    # this is pretty terrible
+    assert(isinstance(input_text,str))
+    text = clean_article(input_text)
+    text = tk.tokenize(text)
+    text = sp.split(sid,text,False)
+    text = mf.analyze(text)
+    text = tg.analyze(text)
+    text = sen.analyze(text)
+    text = ukb.analyze(text)
+    new_sentences = []
+    for sentence in text:
+        words = []
+        for word in sentence.get_words():
+            # print(word.get_form())
+            weight_sum = 0
+            for sense in word.get_senses():
+                weight_sum += sense[1]
+            word.set_senses(list(map(
+                # (lambda x: [str(x[0]) + ":" + str((x[1]/weight_sum)),x[1]/weight_sum]),
+                (lambda x: [x[0],x[1]/weight_sum]),
+                word.get_senses())))
+            words.insert(len(words),word)
+        new_sentences.insert(len(new_sentences),freeling.sentence(words))
+        # It was necessary to create new sentences because freeling
+        # recreates the original words using the .get_words() method,
+        # making the .sense_senses before irrelevant
+    text = tuple(new_sentences)
+    # for sentence in text:
+    #     for word in sentence.get_words():
+    #         print(word.get_form())
+    #         print(word.get_senses())
+    # output = open(outputdir + outputname, 'w')
+    # output.write(outputter.PrintResults(text))
+    # output.close()
+    return outputter.PrintResults(text)
+   
 def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     """
     article_collection is where graph and tfidf-calculation happen,
@@ -244,6 +283,68 @@ def fl_read_laws_into_artcollection(laws_path):
     laws = {}
     assert os.path.isdir(laws_path)
     laws_list = all_law_articles_in_path(laws_path)
-    law_senses = map(get_law_senses, laws_list)
-    laws = SenseArticleCollection(laws_senses)
+    law_senses = list(map(get_law_senses, laws_list))
+    laws = SenseArticleCollection(law_senses)
     return laws
+    
+# def read_laws_into_separate_senseartcol(laws_path, rm_stopwords):
+#     laws = {}
+#     for file in os.scandir(laws_path):
+#         if file.name.endswith(".xml"):
+#             urn, artigos = law_articles_in_file(file.path)
+#             artcol = SenseArticleCollection([(urn, artigos)], rm_stopwords)
+#             laws[urn] = artcol
+#     return laws
+
+# def read_laws_into_senseartcollection(laws_path, separate, rm_stopwords=False):
+#     # reads all .xml files in laws_path to a dictionary of urn:artcol
+#     assert os.path.isdir(laws_path)
+#     if separate:
+#         laws = read_laws_into_separate_senseartcol(laws_path, rm_stopwords)
+#     else:
+#         laws_list = all_law_articles_in_path(laws_path)
+#         laws = SenseArticleCollection(laws_list, rm_stopwords)
+#     return laws
+
+
+
+def write_conll_justified_sentences(justification_path, laws_path, exams_path, output_name, output_path="./"):
+    # justification file must be in the format described in docs.
+    # see ./retrieval.py
+    assert os.path.isfile(justification_path)
+    assert os.path.isdir(exams_path)
+    assert os.path.isdir(output_path)
+    # laws = fl_read_laws_into_artcollection(laws_path)
+    sent_file = open(output_path + output_name, 'w')
+    laws = dict(all_law_articles_in_path(laws_path))
+    with open(justification_path, 'r') as tsv:
+        tsv = csv.reader(tsv, delimiter='\t')
+        for row in tsv:
+            # row[0]: OAB exam filename
+            sent_file.write("# STARTING NEW QUESTION:\n# {}\n".format(row))
+            exam_path = os.path.join(exams_path, row[0] + '.xml')
+            oab_exam = parse_xml(exam_path)
+            # row[1]: question number
+            # row[2]: justification article
+            # row[3]: justification law URN
+            question = find_question(oab_exam, row[1])
+            question.justification = (row[3], row[2])
+            articles_text = get_article_from_law(laws,row[3],row[2])
+            # Write in the following order:
+            # question, answer, justification
+            sent_file.write("# Question statement\n")
+            sent_file.write(write_freeling_analysis_conll(question.statement))
+            sent_file.write("# Question answer\n")
+            sent_file.write(write_freeling_analysis_conll(question.items[question.valid]))
+            sent_file.write("# Justifications (articles)")
+            for article_text in articles_text:
+                sent_file.write(write_freeling_analysis_conll(article_text))
+        return None
+
+def get_article_from_law(laws, law, articles):
+    # LAW as dict of what is returned from all_law_articles_in_path
+    d = dict(laws[law])
+    output = []
+    for art in articles.split(','):
+        output.insert(0, d[art])
+    return output
