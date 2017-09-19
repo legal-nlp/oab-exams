@@ -280,18 +280,19 @@ class SenseArticleCollection():
         return dfs
     
     def tf_tokens(self, tokens):
-        count = collections.Counter(tokens)
-        length = len(tokens)
-        return list(map(lambda x: count[x]/length, tokens)) # tf adjusted by document length
+        # this function if adapted to input like this
+        # {'sense-a':0.5, 'sense-b':0.8, 'sense-c':2}
+        length = sum(map(lambda x: tokens[x], tokens.keys()))
+        return list(map(lambda x: tokens[x]/length, tokens.keys())) # tf adjusted by document length
 
     def tfidf_vectorize(self, article):
         tfidf_vector = numpy.zeros(self.vocab_size)
-        tf_vector = self.tf_tokens(list(article.keys()))
+        tf_vector = self.tf_tokens(article)
         for ix, (sense, weight) in enumerate(article.items()):
             df = self.dfs[sense]
             if df == 0:
                 continue
-            tfidf_vector[self.sense_indices[sense]] = weight * tf_vector[ix] * math.log(self.size/df)
+            tfidf_vector[self.sense_indices[sense]] = tf_vector[ix] * math.log(self.size/df)
         return tfidf_vector
 
     def inverse_similarity(self, vec1, vec2):
