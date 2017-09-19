@@ -98,7 +98,7 @@ def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
     #     merge_question_answer_text(question)
     #     clean_question_answer_text(question)
 
-def get_senses_from_text(input_text):
+def analyze_text(input_text):
     assert(isinstance(input_text,str))
     text = clean_article(input_text)
     text = tk.tokenize(text)
@@ -107,6 +107,11 @@ def get_senses_from_text(input_text):
     text = tg.analyze(text)
     text = sen.analyze(text)
     text = ukb.analyze(text)
+    return text
+    
+def get_senses_from_text(input_text):
+    assert(isinstance(input_text,str))
+    text = analyze_text(input_text)
     senses = {}
     for sentence in text:
         for word in sentence.get_words():
@@ -115,7 +120,7 @@ def get_senses_from_text(input_text):
                 # sense_pair is (sense, value)
                 total += sense_pair[1]
             for sense_pair in word.get_senses():
-                if sense in senses:
+                if sense_pair[0] in senses:
                     senses[sense_pair[0]] += sense_pair[1]/total
                 else:
                     senses[sense_pair[0]] = sense_pair[1]/total
@@ -336,9 +341,12 @@ def write_conll_justified_sentences(justification_path, laws_path, exams_path, o
             # question, answer, justification
             sent_file.write("# Question statement\n")
             sent_file.write(write_freeling_analysis_conll(question.statement))
-            sent_file.write("# Question answer\n")
-            sent_file.write(write_freeling_analysis_conll(question.items[question.valid]))
-            sent_file.write("# Justifications (articles)")
+            sent_file.write("# Question items\n")
+            for item in sorted(question.items):
+              if item == question.valid:
+                  sent_file.write("# Question answer\n")            
+              sent_file.write(write_freeling_analysis_conll(question.items[item]))
+            sent_file.write("# Justifications (articles)\n")
             for article_text in articles_text:
                 sent_file.write(write_freeling_analysis_conll(article_text))
         return None
@@ -356,7 +364,7 @@ def evaluate_correct_answer(answer):
     minimum weight only in the correct alternative), wrongly answered
     or are undecided (minimum weight in the correct alternative and in
     at least some other)"
-    # Input: dictionary indexed by questions
+    # Input: dictionary indexed by questions ("question_paths")
     correct = []
     wrong = []
     undecided = []
@@ -379,3 +387,27 @@ def evaluate_correct_answer(answer):
             wrong.insert(0,question)
     return correct, wrong, undecided
             
+def evaluate_justification(answer):
+    # Input: dictionary indexed by questions ("question_paths")
+    correct = []
+    wrong = []
+    undecided = []
+    for question in answer.keys():
+        correct_opt = question.valid
+        q_result = synset_ans[question]
+        min_weight = np.min([q_result[opt][0] for opt in q_result.keys()])
+        min_alternatives = []
+        for opt in q_result.keys():
+            if q_result[opt][0] == min_weight:
+                min_alternatives.insert(0,opt)
+        assert len(min_alternatives) > 0 , "question {} has no minimum options, minimum is {}".format(question, min_weight)
+
+        if correct_opt in min_alternatives:
+            if len(min_alternatives) > 1:
+                undecided.insert(0,question)
+            else:
+                correct.insert(0,question)
+        else:
+            wrong.insert(0,question)
+    return correct, wrong, undecided
+    

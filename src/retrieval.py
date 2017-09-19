@@ -371,7 +371,8 @@ def get_correct_item_paths(question_paths):
     return correct_paths
 
 def check_justification_correct_items(question_paths):
-    # return True if justification and article selected match
+    # return True if justification for the correct article match with
+    # the correct justification
     correct_items = {}
     for question, item_paths in question_paths.items():
         correct_letter = question.valid
@@ -382,6 +383,7 @@ def check_justification_correct_items(question_paths):
         justification = list(map(lambda x: justification_urn + x, justification_articles))
         correct_items[question] = (selected_article in justification)
     return correct_items
+
 
 #
 ## assign article to question
