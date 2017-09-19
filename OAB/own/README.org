@@ -37,22 +37,28 @@ freling, e por isso estavam sempre recebendo POS de verbo! Logo não
 eram achados corretamenet na OWN-PT. Adicionei no freeling source
 folder data/pt/dictionary/entries/adjs na posição correta:
 
+#+BEGIN_EXAMPLE
 correta correto AQ0FS00
 correto correto AQ0MS00
+#+END_EXAMPLE
 
 A palavra 'mediante' também não estava na OWN-PT. Adicionei uma linha
 no senses30.src. Também adicionado os synsets que não tinham na PWN:
 
+#+BEGIN_EXAMPLE
 00063089-r mediante
 88888888-a hipossuficiente
 99999999-n ordem oab ordem_dos_advogados
+#+END_EXAMPLE
 
 E também tive que criar relações mínimas para estes novos synsets no data/common/xwn.dat
 
+#+BEGIN_EXAMPLE
 88888888-a 02335828-a
 02335828-a 88888888-a
 99999999-n 08008335-n
 08008335-n 99999999-n
+#+END_EXAMPLE
 
 Como as probabilidades associadas às escolhas de sense do modulo WSD
 mudam a cada rodada, depois de reexecutar o freeling, para facilitar a
