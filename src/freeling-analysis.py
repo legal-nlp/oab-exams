@@ -65,7 +65,7 @@ def clean_article(article_string):
     # It should eliminate "Parágrafo único" and other structural parts
     # of the text. (or perhaps this should happen at parse time)
     return re.sub("  +","",
-                  (re.sub("Art. [0-9]+\.","",
+                  (re.sub("Art. [0-9]+(\.|º)","",
                           article_string.replace("\n",""))))
 
 def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
@@ -195,7 +195,57 @@ def get_article_senses(article):
 def get_law_senses(law_articles):
     law_urn, articles = law_articles
     return law_urn, list(map(get_article_senses, articles))
-    
+
+
+def write_conll_law_text(law, output_file_name):
+    # This uses WSD for all sentences together
+    law_urn, articles = law
+    art_nrs, art_txts = zip(*articles)
+    with open(output_file_name, 'w') as f:
+        write_conll_justified_sentences
+        f.write(write_freeling_sentences_analysis_conll(art_txts))
+    return None
+
+def write_freeling_sentences_analysis_conll(input_list_text):
+    # Please don't use this out of context.
+    # this is pretty terrible
+    assert(isinstance(input_list_text,list) or isinstance(input_list_text,tuple))
+    for i in input_list_text:
+        assert(isinstance(i,str))
+    list_analyzed = [sen.analyze(tg.analyze(mf.analyze(sp.split(sid,tk.tokenize(clean_article(text)), False)))) for text in input_list_text]
+    # list_analyzed does NOT contain WSD senses yet
+    all_sentences = []
+    entry_has_sentences = {i:[] for i in range(len(list_analyzed))}
+    counter = 0
+    for entry_index in range(len(list_analyzed)):
+        for sentence in list_analyzed[entry_index]:
+            all_sentences.insert(len(all_sentences),sentence)
+            entry_has_sentences[entry_index].insert(len(entry_has_sentences[entry_index]), counter)
+            # sentence_in_entry[counter] = entry_index
+            counter += 1
+            # entry_has_sentences[i] means that the entry indexed by i
+            # contains exactly the sentences in all_sentences indexed
+            # by values in entry_has_sentences[i]
+    all_sentences = ukb.analyze(all_sentences)
+    #
+    new_sentences = []
+    for sentence in all_sentences:
+        words = []
+        for word in sentence.get_words():
+            weight_sum = 0
+            for sense in word.get_senses():
+                weight_sum += sense[1]
+            word.set_senses(list(map(
+                (lambda x: [x[0],x[1]/weight_sum]),
+                word.get_senses())))
+            words.insert(len(words),word)
+        new_sentences.insert(len(new_sentences),freeling.sentence(words))
+        # It was necessary to create new sentences because freeling
+        # recreates the original words using the .get_words() method,
+        # making the .sense_senses before irrelevant
+    text = tuple(new_sentences)
+    return outputter.PrintResults(text)
+
 def write_freeling_analysis_conll(input_text):
     # Please don't use this out of context.
     # this is pretty terrible
@@ -233,7 +283,7 @@ def write_freeling_analysis_conll(input_text):
     # output.write(outputter.PrintResults(text))
     # output.close()
     return outputter.PrintResults(text)
-   
+
 def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     """
     article_collection is where graph and tfidf-calculation happen,
@@ -378,8 +428,6 @@ def fl_read_laws_into_artcollection(laws_path):
 #         laws_list = all_law_articles_in_path(laws_path)
 #         laws = SenseArticleCollection(laws_list, rm_stopwords)
 #     return laws
-
-
 
 def write_conll_justified_sentences(justification_path, laws_path, exams_path, output_name, output_path="./"):
     # justification file must be in the format described in docs.
