@@ -68,14 +68,6 @@ def clean_article(article_string):
                   (re.sub("Art. [0-9]+\.","",
                           article_string.replace("\n",""))))
 
-def apply_to_law_text(func, law):
-    law_urn, articles = law
-    art_nrs, art_txts = zip(*articles)
-    applied_art_txts = func(art_txts)
-    applied_articles = list(zip(art_nrs, applied_art_txts))
-    return law_urn, applied_articles
-    
-
 def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
@@ -130,6 +122,44 @@ def get_senses_from_text(input_text):
                     senses[sense_pair[0]] = sense_pair[1]/total
     return senses
 
+def get_senses_from_list_of_text(input_list_text):
+    # Receives a list of strings, returns a list of dictionaries of
+    # senses (value:key is sense:weight)
+    assert(isinstance(input_list_text,list) or isinstance(input_list_text,tuple))
+    for i in input_list_text:
+        assert(isinstance(i,str))
+    list_analyzed = [sen.analyze(tg.analyze(mf.analyze(sp.split(sid,tk.tokenize(clean_article(text)), False)))) for text in input_list_text]
+    # list_analyzed does NOT contain WSD senses yet
+    all_sentences = []
+    entry_has_sentences = {i:[] for i in range(len(list_analyzed))}
+    counter = 0
+    for entry_index in range(len(list_analyzed)):
+        for sentence in list_analyzed[entry_index]:
+            all_sentences.insert(len(all_sentences),sentence)
+            entry_has_sentences[entry_index].insert(len(entry_has_sentences[entry_index]), counter)
+            # sentence_in_entry[counter] = entry_index
+            counter += 1
+            # entry_has_sentences[i] means that the entry indexed by i
+            # contains exactly the sentences in all_sentences indexed
+            # by values in entry_has_sentences[i]
+    all_sentences = ukb.analyze(all_sentences)
+    output_analysis = [{} for i in range(len(list_analyzed))]
+    for entry_index in range(len(list_analyzed)):
+        senses = {}
+        for sentence in [all_sentences[i] for i in entry_has_sentences[entry_index]]:
+            for word in sentence.get_words():
+                total = 0
+                for sense_pair in word.get_senses():
+                    # sense_pair is (sense, value)
+                    total += sense_pair[1]
+                for sense_pair in word.get_senses():
+                    if sense_pair[0] in senses:
+                        senses[sense_pair[0]] += sense_pair[1]/total
+                    else:
+                        senses[sense_pair[0]] = sense_pair[1]/total
+        output_analysis[entry_index] = senses
+    return tuple(output_analysis)
+
 # this uses FORMS not senses
 #   (was very important for sanity check)
 # def get_senses_from_text(input_text):
@@ -150,6 +180,13 @@ def get_senses_from_text(input_text):
 #                     senses[form] = 1
 #     return senses
 
+
+def apply_to_law_text(func, law):
+    law_urn, articles = law
+    art_nrs, art_txts = zip(*articles)
+    applied_art_txts = func(art_txts)
+    applied_articles = list(zip(art_nrs, applied_art_txts))
+    return law_urn, applied_articles
 
 def get_article_senses(article):
     artnr, arttext = article
