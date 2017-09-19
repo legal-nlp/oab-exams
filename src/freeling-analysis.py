@@ -93,11 +93,6 @@ def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
             question_paths[question] = paths
         return question_paths
 
-
-    # for question in ...:
-    #     merge_question_answer_text(question)
-    #     clean_question_answer_text(question)
-
 def analyze_text(input_text):
     assert(isinstance(input_text,str))
     text = clean_article(input_text)
@@ -108,7 +103,8 @@ def analyze_text(input_text):
     text = sen.analyze(text)
     text = ukb.analyze(text)
     return text
-    
+
+# THIS IS THE CORRECT IMPLEMENTATION; commented just for debugging
 def get_senses_from_text(input_text):
     assert(isinstance(input_text,str))
     text = analyze_text(input_text)
@@ -125,6 +121,27 @@ def get_senses_from_text(input_text):
                 else:
                     senses[sense_pair[0]] = sense_pair[1]/total
     return senses
+
+# this uses FORMS not senses
+#   (was very important for sanity check)
+# def get_senses_from_text(input_text):
+#     assert(isinstance(input_text,str))
+#     text = analyze_text(input_text)
+#     senses = {}
+#     for sentence in text:
+#         for word in sentence.get_words():
+#             # total = 0
+#             # for sense_pair in word.get_senses():
+#             #     # sense_pair is (sense, value)
+#             #     total += sense_pair[1]
+#             if True:
+#                 form = word.get_form()
+#                 if form in senses:
+#                     senses[form] += 1
+#                 else:
+#                     senses[form] = 1
+#     return senses
+
 
 def get_article_senses(article):
     artnr, arttext = article
@@ -228,7 +245,7 @@ class SenseArticleCollection():
         # map article id to its index
         self.ids, self.articles = self.separate_ids_and_articles(laws)
         self.laws = [law[0] for law in laws]
-        self.size = len(self.laws)
+        self.size = len(self.articles)
         self.dfs = self.make_dfs()
         self.sense_indices = {key:ix for ix, key in enumerate(self.dfs.keys())}
         self.vocab_size = len(self.sense_indices.keys())
@@ -262,7 +279,7 @@ class SenseArticleCollection():
     def tf_tokens(self, tokens):
         count = collections.Counter(tokens)
         length = len(tokens)
-        return list(map(lambda x: count[x]/length, tokens))
+        return list(map(lambda x: count[x]/length, tokens)) # tf adjusted by document length
 
     def tfidf_vectorize(self, article):
         tfidf_vector = numpy.zeros(self.vocab_size)
@@ -360,17 +377,17 @@ def get_article_from_law(laws, law, articles):
     return output
 
 def evaluate_correct_answer(answer):
-    "Verifies which questions are correctly answered (that is, have
+    """Verifies which questions are correctly answered (that is, have
     minimum weight only in the correct alternative), wrongly answered
     or are undecided (minimum weight in the correct alternative and in
-    at least some other)"
+    at least some other)"""
     # Input: dictionary indexed by questions ("question_paths")
     correct = []
     wrong = []
     undecided = []
     for question in answer.keys():
         correct_opt = question.valid
-        q_result = synset_ans[question]
+        q_result = answer[question]
         min_weight = np.min([q_result[opt][0] for opt in q_result.keys()])
         min_alternatives = []
         for opt in q_result.keys():
@@ -387,27 +404,27 @@ def evaluate_correct_answer(answer):
             wrong.insert(0,question)
     return correct, wrong, undecided
             
-def evaluate_justification(answer):
-    # Input: dictionary indexed by questions ("question_paths")
-    correct = []
-    wrong = []
-    undecided = []
-    for question in answer.keys():
-        correct_opt = question.valid
-        q_result = synset_ans[question]
-        min_weight = np.min([q_result[opt][0] for opt in q_result.keys()])
-        min_alternatives = []
-        for opt in q_result.keys():
-            if q_result[opt][0] == min_weight:
-                min_alternatives.insert(0,opt)
-        assert len(min_alternatives) > 0 , "question {} has no minimum options, minimum is {}".format(question, min_weight)
+# def evaluate_justification(answer):
+#     # Input: dictionary indexed by questions ("question_paths")
+#     correct = []
+#     wrong = []
+#     undecided = []
+#     for question in answer.keys():
+#         correct_opt = question.valid
+#         q_result = answer[question]
+#         min_weight = np.min([q_result[opt][0] for opt in q_result.keys()])
+#         min_alternatives = []
+#         for opt in q_result.keys():
+#             if q_result[opt][0] == min_weight:
+#                 min_alternatives.insert(0,opt)
+#         assert len(min_alternatives) > 0 , "question {} has no minimum options, minimum is {}".format(question, min_weight)
 
-        if correct_opt in min_alternatives:
-            if len(min_alternatives) > 1:
-                undecided.insert(0,question)
-            else:
-                correct.insert(0,question)
-        else:
-            wrong.insert(0,question)
-    return correct, wrong, undecided
+#         if correct_opt in min_alternatives:
+#             if len(min_alternatives) > 1:
+#                 undecided.insert(0,question)
+#             else:
+#                 correct.insert(0,question)
+#         else:
+#             wrong.insert(0,question)
+#     return correct, wrong, undecided
     
