@@ -273,7 +273,10 @@ class SenseArticleCollection():
             for sense in article.keys():
                 art_vocab.add(sense)
             for sense in art_vocab:
-                dfs[sense] += 1
+                if article[sense] >= 1:
+                    dfs[sense] += 1
+                else:
+                    dfs[sense] += article[sense]
         return dfs
     
     def tf_tokens(self, tokens):
