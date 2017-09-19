@@ -192,9 +192,13 @@ def get_article_senses(article):
     artnr, arttext = article
     return artnr, get_senses_from_text(arttext)
 
+# def get_law_senses(law_articles):
+#     law_urn, articles = law_articles
+#     return law_urn, list(map(get_article_senses, articles))
+
 def get_law_senses(law_articles):
-    law_urn, articles = law_articles
-    return law_urn, list(map(get_article_senses, articles))
+    # This does joint WSD
+    return apply_to_law_text(get_senses_from_list_of_text,law_articles)
 
 
 def write_conll_law_text(law, output_file_name):
@@ -284,11 +288,11 @@ def write_freeling_analysis_conll(input_text):
     # output.close()
     return outputter.PrintResults(text)
 
-def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
+def add_temporary_sense_node(graph, artcol, text_senses, label, to_nodes=True):
     """
-    article_collection is where graph and tfidf-calculation happen,
-    text is raw question statement (which is preprocessed here) and
+    article_collection is where graph and tfidf-calculation happen and
     label is question number in str.
+    text_senses is dict {sense: weight} (already processed question statement)
     to_nodes is the direction of the edges to be built. should be 
     from new node to the nodes already present, or from them to the
     node being added?
@@ -298,7 +302,7 @@ def add_temporary_sense_node(graph, artcol, text, label, to_nodes=True):
     """
     graph.add_node(label)
     # text_senses should be dict {sense:weight}
-    text_senses = get_senses_from_text(text)
+    # text_senses = get_senses_from_text(text)
     label_tfidf = artcol.tfidf_vectorize(text_senses)
     # to add edges only to the articles, and not every node
     for node_id in artcol.ids.keys():
@@ -325,11 +329,15 @@ def question_paths_in_sense_graph(article_collection, oab_question):
     assert isinstance(oab_question, OABQuestion)
     # so that base_graph is not changed improperly:
     graph = copy.deepcopy(article_collection.base_graph)
+    # process questions
+    # index 0 is question, 1, 2, 3 and 4 are resp. A, B, C and D
+    oab_question_senses = get_senses_from_list_of_text([oab_question.statement, oab_question.items['A'], oab_question.items['B'], oab_question.items['C'], oab_question.items['D']])
+    oab_question_senses = dict(zip(['quest','A','B','C','D'], oab_question_senses))
     # add question statement:
-    graph = add_temporary_sense_node(graph, article_collection, oab_question.statement, oab_question.number, to_nodes=True)
+    graph = add_temporary_sense_node(graph, article_collection, oab_question_senses['quest'], oab_question.number, to_nodes=True)
     paths = {}
     for question_letter, item_text in oab_question.items.items():
-        graph = add_temporary_sense_node(graph, article_collection, item_text, question_letter, to_nodes=False)
+        graph = add_temporary_sense_node(graph, article_collection, oab_question_senses[question_letter], question_letter, to_nodes=False)
         paths[question_letter] = networkx.algorithms.shortest_paths.bidirectional_dijkstra(graph, oab_question.number, question_letter, weight='weight')
     return paths
 
