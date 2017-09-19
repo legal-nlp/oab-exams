@@ -68,6 +68,14 @@ def clean_article(article_string):
                   (re.sub("Art. [0-9]+\.","",
                           article_string.replace("\n",""))))
 
+def apply_to_law_text(func, law):
+    law_urn, articles = law
+    art_nrs, art_txts = zip(*articles)
+    applied_art_txts = func(art_txts)
+    applied_articles = list(zip(art_nrs, applied_art_txts))
+    return law_urn, applied_articles
+    
+
 def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
