@@ -13,11 +13,12 @@ que não existem na WN, melhoramos o grafo da WN e possivelmente a
 disambiguação não apenas das novas palavras mas de palavras que
 co-ocorrem com ela em um mesmo contexto.
 
-Para testar a hipotese meus experimentos são bem naive, apenas rodo o
-freeling nos arquivos das provas e comparo o resultado da primeira
-rodada do freeling com as rodadas depois das mudanças. Note que não
-limpei os arquivos, logo as marcações de questões e opções foram
-tratadas como texto correte e podem ter introduzido algum ruído.
+Para testar a hipotese meus experimentos são bem naive e apenas em
+parte dos arquivos das provas, apenas rodo o freeling nos arquivos das
+provas e comparo o resultado da primeira rodada do freeling com as
+rodadas depois das mudanças. Note que não limpei os arquivos, logo as
+marcações de questões e opções foram tratadas como texto correte e
+podem ter introduzido algum ruído.
 
 * Rodada 1 antes de alterar WN e Freeling
 
