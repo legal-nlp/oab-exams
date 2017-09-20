@@ -237,15 +237,6 @@ def get_law_senses(law_articles):
     return apply_to_law_text(get_senses_from_list_of_text,law_articles)
 
 
-def write_conll_law_text(law, output_file_name):
-    # This uses WSD for all sentences together
-    law_urn, articles = law
-    art_nrs, art_txts = zip(*articles)
-    with open(output_file_name, 'w') as f:
-        write_conll_justified_sentences
-        f.write(write_freeling_sentences_analysis_conll(art_txts))
-    return None
-
 def write_freeling_sentences_analysis_conll(input_list_text):
     # Please don't use this out of context.
     # this is pretty terrible
@@ -472,6 +463,16 @@ def fl_read_laws_into_artcollection(laws_path):
 #         laws_list = all_law_articles_in_path(laws_path)
 #         laws = SenseArticleCollection(laws_list, rm_stopwords)
 #     return laws
+
+
+def write_conll_law_text(law, output_file_name):
+    # This uses WSD for all sentences together
+    law_urn, articles = law
+    art_nrs, art_txts = zip(*articles)
+    with open(output_file_name, 'w') as f:
+        write_conll_justified_sentences
+        f.write(write_freeling_sentences_analysis_conll(art_txts))
+    return None
 
 def write_conll_justified_sentences(justification_path, laws_path, exams_path, output_name, output_path="./"):
     # justification file must be in the format described in docs.
