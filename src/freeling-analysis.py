@@ -122,14 +122,14 @@ def get_senses_from_text(input_text):
                     senses[sense_pair[0]] = sense_pair[1]/total
     return senses
 
-def get_senses_from_list_of_text(input_list_text):
-    # Receives a list of strings, returns a list of dictionaries of
-    # senses (value:key is sense:weight)
+def analyze_list_of_text(input_list_text):
+    # input list of text
+    # output list of list of sentences
     assert(isinstance(input_list_text,list) or isinstance(input_list_text,tuple))
     for i in input_list_text:
         assert(isinstance(i,str))
     list_analyzed = [sen.analyze(tg.analyze(mf.analyze(sp.split(sid,tk.tokenize(clean_article(text)), False)))) for text in input_list_text]
-    # list_analyzed does NOT contain WSD senses yet
+        # list_analyzed does NOT contain WSD senses yet
     all_sentences = []
     entry_has_sentences = {i:[] for i in range(len(list_analyzed))}
     counter = 0
@@ -143,22 +143,58 @@ def get_senses_from_list_of_text(input_list_text):
             # contains exactly the sentences in all_sentences indexed
             # by values in entry_has_sentences[i]
     all_sentences = ukb.analyze(all_sentences)
-    output_analysis = [{} for i in range(len(list_analyzed))]
+    output_analysis = [[] for i in range(len(list_analyzed))]
     for entry_index in range(len(list_analyzed)):
-        senses = {}
+        new_sentences = []
         for sentence in [all_sentences[i] for i in entry_has_sentences[entry_index]]:
+            words = []
             for word in sentence.get_words():
-                total = 0
-                for sense_pair in word.get_senses():
-                    # sense_pair is (sense, value)
-                    total += sense_pair[1]
+                weight_sum = 0
+                for sense in word.get_senses():
+                    weight_sum += sense[1]
+                word.set_senses(list(map(
+                    (lambda x: [x[0],x[1]/weight_sum]),
+                    word.get_senses())))
+                words.insert(len(words),word)
+            new_sentences.insert(len(new_sentences),freeling.sentence(words))
+                # It was necessary to create new sentences because freeling
+                # recreates the original words using the .get_words() method,
+                # making the .sense_senses before irrelevant
+        output_analysis[entry_index] = new_sentences
+    return output_analysis
+    
+def get_senses_from_list_of_text(input_list_text):
+    # Receives a list of strings, returns a list of dictionaries of
+    # senses (value:key is sense:weight)
+    analyzed_texts = analyze_list_of_text(input_list_text)
+    output_senses = [{} for i in analyzed_texts]
+    for entry_index in range(len(analyzed_texts)):
+        senses = {}
+        for sentence in analyzed_texts[entry_index]:
+            for word in sentence.get_words():
                 for sense_pair in word.get_senses():
                     if sense_pair[0] in senses:
-                        senses[sense_pair[0]] += sense_pair[1]/total
+                        senses[sense_pair[0]] += sense_pair[1]
                     else:
-                        senses[sense_pair[0]] = sense_pair[1]/total
-        output_analysis[entry_index] = senses
-    return tuple(output_analysis)
+                        senses[sense_pair[0]] = sense_pair[1]
+        output_senses[entry_index] = senses
+    return tuple(output_senses)
+
+    # for entry_index in range(len(list_analyzed)):
+    #     senses = {}
+    #     for sentence in [all_sentences[i] for i in entry_has_sentences[entry_index]]:
+    #         for word in sentence.get_words():
+    #             total = 0
+    #             for sense_pair in word.get_senses():
+    #                 # sense_pair is (sense, value)
+    #                 total += sense_pair[1]
+    #             for sense_pair in word.get_senses():
+    #                 if sense_pair[0] in senses:
+    #                     senses[sense_pair[0]] += sense_pair[1]/total
+    #                 else:
+    #                     senses[sense_pair[0]] = sense_pair[1]/total
+    #     output_analysis[entry_index] = senses
+    # return tuple(output_analysis)
 
 # this uses FORMS not senses
 #   (was very important for sanity check)
@@ -440,12 +476,13 @@ def fl_read_laws_into_artcollection(laws_path):
 def write_conll_justified_sentences(justification_path, laws_path, exams_path, output_name, output_path="./"):
     # justification file must be in the format described in docs.
     # see ./retrieval.py
+    # currently not printin laws_path
     assert os.path.isfile(justification_path)
     assert os.path.isdir(exams_path)
     assert os.path.isdir(output_path)
     # laws = fl_read_laws_into_artcollection(laws_path)
     sent_file = open(output_path + output_name, 'w')
-    laws = dict(all_law_articles_in_path(laws_path))
+    # laws = dict(all_law_articles_in_path(laws_path))
     with open(justification_path, 'r') as tsv:
         tsv = csv.reader(tsv, delimiter='\t')
         for row in tsv:
@@ -458,19 +495,23 @@ def write_conll_justified_sentences(justification_path, laws_path, exams_path, o
             # row[3]: justification law URN
             question = find_question(oab_exam, row[1])
             question.justification = (row[3], row[2])
-            articles_text = get_article_from_law(laws,row[3],row[2])
+            analyzed_question = analyze_list_of_text([question.statement, question.items['A'], question.items['B'], question.items['C'], question.items['D']])
+            analyzed_question = dict(zip(['quest','A','B','C','D'], analyzed_question))
+            # articles_text = get_article_from_law(laws,row[3],row[2])
             # Write in the following order:
             # question, answer, justification
             sent_file.write("# Question statement\n")
-            sent_file.write(write_freeling_analysis_conll(question.statement))
+            sent_file.write(outputter.PrintResults(analyzed_question['quest']))
             sent_file.write("# Question items\n")
-            for item in sorted(question.items):
+            for item in ['A','B','C','D']:
+              sent_file.write("# Item {}\n".format(item))
               if item == question.valid:
                   sent_file.write("# Question answer\n")            
-              sent_file.write(write_freeling_analysis_conll(question.items[item]))
-            sent_file.write("# Justifications (articles)\n")
-            for article_text in articles_text:
-                sent_file.write(write_freeling_analysis_conll(article_text))
+              sent_file.write(outputter.PrintResults(analyzed_question[item]))
+            sent_file.write("Justification is {}".format(question.justification))
+            # sent_file.write("# Justifications (articles)\n")
+            # for article_text in articles_text:
+            #     sent_file.write(write_freeling_analysis_conll(article_text))
         return None
 
 def get_article_from_law(laws, law, articles):
