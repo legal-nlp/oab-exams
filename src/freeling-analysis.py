@@ -68,7 +68,7 @@ def clean_article(article_string):
                   (re.sub("Art. [0-9]+(\.|º)","",
                           article_string.replace("\n",""))))
 
-def sqa_justified_synset_approach(justification_path, laws_path, exams_path):
+def sqa_justified_synset_approach(justification_path, laws_path, exams_path, separate=False):
     # sqa = shallow question answering
     # justification file must be in the format described in docs.
     # see ./retrieval.py
