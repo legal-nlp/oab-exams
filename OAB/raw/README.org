@@ -1,7 +1,7 @@
 Important observations
 
-I - In order to make parsing easier, we defined some markers and
-conventions. Take this part of the raw file as an example:
+- In order to make parsing easier, we defined some markers and 
+  conventions. Take this part of the raw file as an example:
 
 #+BEGIN_EXAMPLE
 ---
@@ -35,7 +35,7 @@ D:CORRECT) Nenhum receio de desagradar uma autoridade deterá o
 advogado Alexandre. 
 #+END_EXAMPLE
 
-The :CORRECT indicates the correct answer.
+- The :CORRECT indicates the correct answer.
 
 - In every exam there are 4 different models of test. Each model has
   the same content, however, the questions are presented in a
