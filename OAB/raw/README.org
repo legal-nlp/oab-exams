@@ -45,8 +45,13 @@ advogado Alexandre.
   check the answer sheet. For this corpus we only used the white model
   or the first model of the exam (named in portuguese as "prova branca").
 
-- The marker "OPTIONS NULL" was used to indicate that this question
-  was nullified by the organizers.
+- The marker bellow was used to indicate that this question
+  was nullified by the organizers:
+
+#+BEGIN_EXAMPLE
+---
+ENUM NULL Questão 1 
+#+END_EXAMPLE
 
 - On the first, second and third exams the whole test used to have 100
   questions. From the 4th exam onwards the organizers changed the test
