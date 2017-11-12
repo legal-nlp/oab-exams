@@ -1,0 +1,2302 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2017;999@data.evento;leitura;2017-11-11t13.27"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 999, DE 2017</Epigrafe>
+      <Ementa id="ementa">place holder place-holder place-holder place-holder place-holder</Ementa>
+      <Preambulo id="preambulo"><p>O Congresso Nacional decreta:</p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">
+            
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador>Dos Princípios Fundamentais</NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a soberania;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a cidadania</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a dignidade da pessoa humana;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>os valores sociais do trabalho e da livre iniciativa;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o pluralismo político.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1u">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>Constituem objetivos fundamentais da República Federativa do Brasil:</p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>construir uma sociedade livre, justa e solidária;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>garantir o desenvolvimento nacional;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;</p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:</p>
+            <Inciso id="art4_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>independência nacional;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>prevalência dos direitos humanos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>autodeterminação dos povos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>não-intervenção;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>igualdade entre os Estados;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>defesa da paz;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>solução pacífica dos conflitos;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>repúdio ao terrorismo e ao racismo;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>cooperação entre os povos para o progresso da humanidade;</p>
+            
+          </Inciso><Inciso id="art4_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>concessão de asilo político.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>Dos Direitos e Garantias FundamentaisCAPÍTULO IDOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS</NomeAgrupador>
+            <Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:</p>
+            <Inciso id="art5_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>homens e mulheres são iguais em direitos e obrigações, nos termos desta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ninguém será submetido a tortura nem a tratamento desumano ou degradante;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>é livre a manifestação do pensamento, sendo vedado o anonimato;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>ninguém poderá ser compelido a associar-se ou a permanecer associado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>é garantido o direito de propriedade;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>a propriedade atenderá a sua função social;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc24">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc27">
+            
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>são assegurados, nos termos da lei:</p>
+            <Alinea id="art5_cpt_inc28_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc28_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc29">
+            
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc30">
+            
+            
+            <Rotulo>XXX –</Rotulo>
+            <p>é garantido o direito de herança;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc31">
+            
+            
+            <Rotulo>XXXI –</Rotulo>
+            <p>a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc32">
+            
+            
+            <Rotulo>XXXII –</Rotulo>
+            <p>o Estado promoverá, na forma da lei, a defesa do consumidor;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc33">
+            
+            
+            <Rotulo>XXXIII –</Rotulo>
+            <p>todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc34">
+            
+            
+            <Rotulo>XXXIV –</Rotulo>
+            <p>são a todos assegurados, independentemente do pagamento de taxas:</p>
+            <Alinea id="art5_cpt_inc34_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc34_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc35">
+            
+            
+            <Rotulo>XXXV –</Rotulo>
+            <p>a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc36">
+            
+            
+            <Rotulo>XXXVI –</Rotulo>
+            <p>a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc37">
+            
+            
+            <Rotulo>XXXVII –</Rotulo>
+            <p>não haverá juízo ou tribunal de exceção;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc38">
+            
+            
+            <Rotulo>XXXVIII –</Rotulo>
+            <p>é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:</p>
+            <Alinea id="art5_cpt_inc38_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>a plenitude de defesa;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc38_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>o sigilo das votações;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc38_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>a soberania dos veredictos;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc38_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>a competência para o julgamento dos crimes dolosos contra a vida;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc39">
+            
+            
+            <Rotulo>XXXIX –</Rotulo>
+            <p>não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc40">
+            
+            
+            <Rotulo>XL –</Rotulo>
+            <p>a lei penal não retroagirá, salvo para beneficiar o réu;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc41">
+            
+            
+            <Rotulo>XLI –</Rotulo>
+            <p>a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc42">
+            
+            
+            <Rotulo>XLII –</Rotulo>
+            <p>a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc43">
+            
+            
+            <Rotulo>XLIII –</Rotulo>
+            <p>a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem; (Regulamento)</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc44">
+            
+            
+            <Rotulo>XLIV –</Rotulo>
+            <p>constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc45">
+            
+            
+            <Rotulo>XLV –</Rotulo>
+            <p>nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc46">
+            
+            
+            <Rotulo>XLVI –</Rotulo>
+            <p>a lei regulará a individualização da pena e adotará, entre outras, as seguintes:</p>
+            <Alinea id="art5_cpt_inc46_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>privação ou restrição da liberdade;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc46_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>perda de bens;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc46_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>multa;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc46_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>prestação social alternativa;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc46_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>suspensão ou interdição de direitos;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc47">
+            
+            
+            <Rotulo>XLVII –</Rotulo>
+            <p>não haverá penas:</p>
+            <Alinea id="art5_cpt_inc47_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc47_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>de caráter perpétuo;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc47_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>de trabalhos forçados;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc47_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>de banimento;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc47_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>cruéis;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc48">
+            
+            
+            <Rotulo>XLVIII –</Rotulo>
+            <p>a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc49">
+            
+            
+            <Rotulo>XLIX –</Rotulo>
+            <p>é assegurado aos presos o respeito à integridade física e moral;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc50">
+            
+            
+            <Rotulo>L –</Rotulo>
+            <p>às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc51">
+            
+            
+            <Rotulo>LI –</Rotulo>
+            <p>nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc52">
+            
+            
+            <Rotulo>LII –</Rotulo>
+            <p>não será concedida extradição de estrangeiro por crime político ou de opinião;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc53">
+            
+            
+            <Rotulo>LIII –</Rotulo>
+            <p>ninguém será processado nem sentenciado senão pela autoridade competente;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc54">
+            
+            
+            <Rotulo>LIV –</Rotulo>
+            <p>ninguém será privado da liberdade ou de seus bens sem o devido processo legal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc55">
+            
+            
+            <Rotulo>LV –</Rotulo>
+            <p>aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc56">
+            
+            
+            <Rotulo>LVI –</Rotulo>
+            <p>são inadmissíveis, no processo, as provas obtidas por meios ilícitos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc57">
+            
+            
+            <Rotulo>LVII –</Rotulo>
+            <p>ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc58">
+            
+            
+            <Rotulo>LVIII –</Rotulo>
+            <p>o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei; (Regulamento).</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc59">
+            
+            
+            <Rotulo>LIX –</Rotulo>
+            <p>será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc60">
+            
+            
+            <Rotulo>LX –</Rotulo>
+            <p>a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc61">
+            
+            
+            <Rotulo>LXI –</Rotulo>
+            <p>ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc62">
+            
+            
+            <Rotulo>LXII –</Rotulo>
+            <p>a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc63">
+            
+            
+            <Rotulo>LXIII –</Rotulo>
+            <p>o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc64">
+            
+            
+            <Rotulo>LXIV –</Rotulo>
+            <p>o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc65">
+            
+            
+            <Rotulo>LXV –</Rotulo>
+            <p>a prisão ilegal será imediatamente relaxada pela autoridade judiciária;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc66">
+            
+            
+            <Rotulo>LXVI –</Rotulo>
+            <p>ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc67">
+            
+            
+            <Rotulo>LXVII –</Rotulo>
+            <p>não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc68">
+            
+            
+            <Rotulo>LXVIII –</Rotulo>
+            <p>conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc69">
+            
+            
+            <Rotulo>LXIX –</Rotulo>
+            <p>conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc70">
+            
+            
+            <Rotulo>LXX –</Rotulo>
+            <p>o mandado de segurança coletivo pode ser impetrado por:</p>
+            <Alinea id="art5_cpt_inc70_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>partido político com representação no Congresso Nacional;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc70_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc71">
+            
+            
+            <Rotulo>LXXI –</Rotulo>
+            <p>conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc72">
+            
+            
+            <Rotulo>LXXII –</Rotulo>
+            <p>conceder-se-á habeas data:</p>
+            <Alinea id="art5_cpt_inc72_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc72_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc73">
+            
+            
+            <Rotulo>LXXIII –</Rotulo>
+            <p>qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc74">
+            
+            
+            <Rotulo>LXXIV –</Rotulo>
+            <p>o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc75">
+            
+            
+            <Rotulo>LXXV –</Rotulo>
+            <p>o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc76">
+            <!--Link: urn:lex:br:federal:lei:1989;7844-->
+            
+            <Rotulo>LXXVI –</Rotulo>
+            <p>são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide <span xlink:href="urn:lex:br:federal:lei:1989;7844">Lei nº 7.844, de 1989</span>)</p>
+            <Alinea id="art5_cpt_inc76_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>o registro civil de nascimento;</p>
+            
+          </Alinea><Alinea id="art5_cpt_inc76_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>a certidão de óbito;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art5_cpt_inc77">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2004;45-->
+            
+            <Rotulo>LXXVII –</Rotulo>
+            <p>são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania. LXXVIII a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc45.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2004;45">Emenda Constitucional nº 45, de 2004</span>)</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os direitos e garantias expressos nesta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2004;45-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc45.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2004;45">Emenda Constitucional nº 45, de 2004</span>) (Atos aprovados na forma deste parágrafo)</p>
+            
+          </Paragrafo><Paragrafo id="art5_par4">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2004;45-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc45.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2004;45">Emenda Constitucional nº 45, de 2004</span>)</p>
+            
+          </Paragrafo>
+          </Artigo><Capitulo id="tit2_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DOS DIREITOS SOCIAIS</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988--><!--Link: urn:lex:br:federal:emenda.constitucional:2015;90-->
+            
+            
+            <p>São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>. (Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2015;90">Emenda Constitucional nº 90, de 2015</span>)</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>seguro-desemprego, em caso de desemprego involuntário;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>fundo de garantia do tempo de serviço;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>salário mínimo , fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>piso salarial proporcional à extensão e à complexidade do trabalho;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>remuneração do trabalho noturno superior à do diurno;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>proteção do salário na forma da lei, constituindo crime sua retenção dolosa;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc12">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1998;20-->
+            
+            <Rotulo>XII –</Rotulo>
+            <p>salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc20.htm \l art7xii(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1998;20">Emenda Constitucional nº 20, de 1998</span>)</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc13">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943;5452-->
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; HYPERLINK http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm \l art478§2(vide <span xlink:href="urn:lex:br:federal:decreto.lei:1943;5452">Decreto-Lei nº 5.452, de 1943</span>)</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>repouso semanal remunerado, preferencialmente aos domingos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; HYPERLINK http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm \l art59§1(Vide Del 5.452, art. 59 § 1º)</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>licença-paternidade, nos termos fixados em lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>aposentadoria;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc25">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2006;53-->
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc53.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2006;53">Emenda Constitucional nº 53, de 2006</span>)</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>reconhecimento das convenções e acordos coletivos de trabalho;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc27">
+            
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>proteção em face da automação, na forma da lei;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc29">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2000-05-25;28-->
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc28.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2000-05-25;28">Emenda Constitucional nº 28, de 25/05/2000</span>)</p>
+            <Alinea id="art7_cpt_inc29_ali1">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2000-05-25;28-->
+            
+            <Rotulo>a)</Rotulo>
+            <p>(Revogada). HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc28.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2000-05-25;28">Emenda Constitucional nº 28, de 25/05/2000</span>)</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc29_ali2">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2000-05-25;28-->
+            
+            <Rotulo>b)</Rotulo>
+            <p>(Revogada). HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc28.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2000-05-25;28">Emenda Constitucional nº 28, de 25/05/2000</span>)</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art7_cpt_inc30">
+            
+            
+            <Rotulo>XXX –</Rotulo>
+            <p>proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc31">
+            
+            
+            <Rotulo>XXXI –</Rotulo>
+            <p>proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc32">
+            
+            
+            <Rotulo>XXXII –</Rotulo>
+            <p>proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc33">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1998;20-->
+            
+            <Rotulo>XXXIII –</Rotulo>
+            <p>proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc20.htm \l art7xxxiii(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1998;20">Emenda Constitucional nº 20, de 1998</span>)</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc34">
+            
+            
+            <Rotulo>XXXIV –</Rotulo>
+            <p>igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1u">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2013;72-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2013;72">Emenda Constitucional nº 72, de 2013</span>)</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>É livre a associação profissional ou sindical, observado o seguinte:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a assembléia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o aposentado filiado tem direito a votar e ser votado nas organizações sindicais;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.</p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os abusos cometidos sujeitam os responsáveis às penas da lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA NACIONALIDADE</NomeAgrupador>
+            <Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>São brasileiros:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>natos:</p>
+            <Alinea id="art12_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;</p>
+            
+          </Alinea><Alinea id="art12_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;</p>
+            
+          </Alinea><Alinea id="art12_cpt_inc1_ali3">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2007;54-->
+            
+            <Rotulo>c)</Rotulo>
+            <p>os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc54.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2007;54">Emenda Constitucional nº 54, de 2007</span>)</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>naturalizados:</p>
+            <Alinea id="art12_cpt_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;</p>
+            
+          </Alinea><Alinea id="art12_cpt_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr3.htm \l art12iib(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art12_par1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr3.htm \l art12§1(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)</p>
+            
+          </Paragrafo><Paragrafo id="art12_par2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>.</p>
+            
+          </Paragrafo><Paragrafo id="art12_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>São privativos de brasileiro nato os cargos:</p>
+            <Inciso id="art12_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>de Presidente e Vice-Presidente da República;</p>
+            
+          </Inciso><Inciso id="art12_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>de Presidente da Câmara dos Deputados;</p>
+            
+          </Inciso><Inciso id="art12_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>de Presidente do Senado Federal;</p>
+            
+          </Inciso><Inciso id="art12_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>de Ministro do Supremo Tribunal Federal;</p>
+            
+          </Inciso><Inciso id="art12_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>da carreira diplomática;</p>
+            
+          </Inciso><Inciso id="art12_par3_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>de oficial das Forças Armadas.</p>
+            
+          </Inciso><Inciso id="art12_par3_inc7">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1999;23-->
+            
+            <Rotulo>VII –</Rotulo>
+            <p>de Ministro de Estado da Defesa HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc23.htm \l art12§3vii(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1999;23">Emenda Constitucional nº 23, de 1999</span>)</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art12_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Será declarada a perda da nacionalidade do brasileiro que:</p>
+            <Inciso id="art12_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional;</p>
+            
+          </Inciso><Inciso id="art12_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>adquirir outra nacionalidade, salvo nos casos: HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr3.htm \l art12§4ii(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)</p>
+            <Alinea id="art12_par4_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>de reconhecimento de nacionalidade originária pela lei estrangeira; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr3.htm \l art12§4ii(Incluído pela Emenda Constitucional de Revisão nº 3, de 1994)</p>
+            
+          </Alinea><Alinea id="art12_par4_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr3.htm \l art12§4ii(Incluído pela Emenda Constitucional de Revisão nº 3, de 1994)</p>
+            
+          </Alinea>
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>A língua portuguesa é o idioma oficial da República Federativa do Brasil.</p>
+            
+          </Caput><Paragrafo id="art13_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais.</p>
+            
+          </Paragrafo><Paragrafo id="art13_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DOS DIREITOS POLÍTICOS</NomeAgrupador>
+            <Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:</p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>plebiscito;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>referendo;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>iniciativa popular.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art14_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O alistamento eleitoral e o voto são:</p>
+            <Inciso id="art14_par1_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>obrigatórios para os maiores de dezoito anos;</p>
+            
+          </Inciso><Inciso id="art14_par1_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>facultativos para:</p>
+            <Alinea id="art14_par1_inc2_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>os analfabetos;</p>
+            
+          </Alinea><Alinea id="art14_par1_inc2_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>os maiores de setenta anos;</p>
+            
+          </Alinea><Alinea id="art14_par1_inc2_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>os maiores de dezesseis e menores de dezoito anos.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Paragrafo><Paragrafo id="art14_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>São condições de elegibilidade, na forma da lei:</p>
+            <Inciso id="art14_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a nacionalidade brasileira;</p>
+            
+          </Inciso><Inciso id="art14_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o pleno exercício dos direitos políticos;</p>
+            
+          </Inciso><Inciso id="art14_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o alistamento eleitoral;</p>
+            
+          </Inciso><Inciso id="art14_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o domicílio eleitoral na circunscrição;</p>
+            
+          </Inciso><Inciso id="art14_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>a filiação partidária; Regulamento</p>
+            
+          </Inciso><Inciso id="art14_par3_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a idade mínima de:</p>
+            <Alinea id="art14_par3_inc6_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>trinta e cinco anos para Presidente e Vice-Presidente da República e Senador;</p>
+            
+          </Alinea><Alinea id="art14_par3_inc6_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal;</p>
+            
+          </Alinea><Alinea id="art14_par3_inc6_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz;</p>
+            
+          </Alinea><Alinea id="art14_par3_inc6_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>dezoito anos para Vereador.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Paragrafo><Paragrafo id="art14_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>São inelegíveis os inalistáveis e os analfabetos.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par5">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1997;16-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc16.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1997;16">Emenda Constitucional nº 16, de 1997</span>)</p>
+            
+          </Paragrafo><Paragrafo id="art14_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par8">
+            
+            
+            <Rotulo>§ 8º</Rotulo>
+            <p>O militar alistável é elegível, atendidas as seguintes condições:</p>
+            <Inciso id="art14_par8_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>se contar menos de dez anos de serviço, deverá afastar-se da atividade;</p>
+            
+          </Inciso><Inciso id="art14_par8_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art14_par9">
+            
+            
+            <Rotulo>§ 9º</Rotulo>
+            <p>Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr4.htm \l art1(Redação dada pela Emenda Constitucional de Revisão nº 4, de 1994)</p>
+            
+          </Paragrafo><Paragrafo id="art14_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.</p>
+            
+          </Paragrafo><Paragrafo id="art14_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de:</p>
+            <Inciso id="art15_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>cancelamento da naturalização por sentença transitada em julgado;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>incapacidade civil absoluta;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>condenação criminal transitada em julgado, enquanto durarem seus efeitos;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII;</p>
+            
+          </Inciso><Inciso id="art15_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>improbidade administrativa, nos termos do art. 37, § 4º.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1993;4-->
+            
+            
+            <p>A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. (Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1993;4">Emenda Constitucional nº 4, de 1993</span>)</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DOS PARTIDOS POLÍTICOS</NomeAgrupador>
+            <Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento</p>
+            <Inciso id="art17_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>caráter nacional;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>prestação de contas à Justiça Eleitoral;</p>
+            
+          </Inciso><Inciso id="art17_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>funcionamento parlamentar de acordo com a lei.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art17_par1">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2017;97-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É assegurada aos partidos políticos autonomia para definir sua estrutura interna e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, vedada a sua celebração nas eleições proporcionais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2017;97">Emenda Constitucional nº 97, de 2017</span>)</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par3">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2017;97-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos políticos que alternativamente: HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2017;97">Emenda Constitucional nº 97, de 2017</span>)</p>
+            <Inciso id="art17_par3_inc1">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2017;97-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento) dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2017;97">Emenda Constitucional nº 97, de 2017</span>)</p>
+            
+          </Inciso><Inciso id="art17_par3_inc2">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2017;97-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um terço das unidades da Federação. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2017;97">Emenda Constitucional nº 97, de 2017</span>)</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art17_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>É vedada a utilização pelos partidos políticos de organização paramilitar.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par5">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2017;97-->
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Ao eleito por partido que não preencher os requisitos previstos no § 3º deste artigo é assegurado o mandato e facultada a filiação, sem perda do mandato, a outro partido que os tenha atingido, não sendo essa filiação considerada para fins de distribuição dos recursos do fundo partidário e de acesso gratuito ao tempo de rádio e de televisão. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm \l art1(Incluído pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2017;97">Emenda Constitucional nº 97, de 2017</span>)</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>Da Organização do EstadoCAPÍTULO IDA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            
+            <p>A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>.</p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Brasília é a Capital Federal.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par4">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1996;15-->
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc15.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1996;15">Emenda Constitucional nº 15, de 1996</span>)</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:</p>
+            <Inciso id="art19_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>recusar fé aos documentos públicos;</p>
+            
+          </Inciso><Inciso id="art19_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>criar distinções entre brasileiros ou preferências entre si.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Capitulo id="tit3_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA UNIÃO</NomeAgrupador>
+            <Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>São bens da União:</p>
+            <Inciso id="art20_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc3">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2005;46-->
+            
+            <Rotulo>III –</Rotulo>
+            <p>os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais; IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. 26, II; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc46.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2005;46">Emenda Constitucional nº 46, de 2005</span>)</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>os recursos naturais da plataforma continental e da zona econômica exclusiva;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o mar territorial;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>os terrenos de marinha e seus acrescidos;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>os potenciais de energia hidráulica;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>os recursos minerais, inclusive os do subsolo;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos;</p>
+            
+          </Inciso><Inciso id="art20_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>as terras tradicionalmente ocupadas pelos índios.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>É assegurada, nos termos da lei, aos Estados, ao Distrito Federal e aos Municípios, bem como a órgãos da administração direta da União, participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Compete à União:</p>
+            <Inciso id="art21_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>manter relações com Estados estrangeiros e participar de organizações internacionais;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>declarar a guerra e celebrar a paz;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>assegurar a defesa nacional;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>decretar o estado de sítio, o estado de defesa e a intervenção federal;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>autorizar e fiscalizar a produção e o comércio de material bélico;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>emitir moeda;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de previdência privada;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>elaborar e executar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>manter o serviço postal e o correio aéreo nacional;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc11">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:0095-08-15;8-->
+            
+            <Rotulo>XI –</Rotulo>
+            <p>explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc08.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:0095-08-15;8">Emenda Constitucional nº 8, de 15/08/95</span>:)</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>explorar, diretamente ou mediante autorização, concessão ou permissão:</p>
+            <Alinea id="art21_cpt_inc12_ali1">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:0095-08-15;8-->
+            
+            <Rotulo>a)</Rotulo>
+            <p>os serviços de radiodifusão sonora, e de sons e imagens; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc08.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:0095-08-15;8">Emenda Constitucional nº 8, de 15/08/95</span>:)</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc12_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc12_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>a navegação aérea, aeroespacial e a infra-estrutura aeroportuária;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc12_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc12_ali5">
+            
+            
+            <Rotulo>e)</Rotulo>
+            <p>os serviços de transporte rodoviário interestadual e internacional de passageiros;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc12_ali6">
+            
+            
+            <Rotulo>f)</Rotulo>
+            <p>os portos marítimos, fluviais e lacustres;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art21_cpt_inc13">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2012;69-->
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc69.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2012;69">Emenda Constitucional nº 69, de 2012</span>) HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc69.htm \l art4(Produção de efeito)</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc14">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1998;19-->
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>organizar e manter a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc19.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1998;19">Emenda Constitucional nº 19, de 1998</span>)</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e televisão;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>conceder anistia;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>planejar e promover a defesa permanente contra as calamidades públicas, especialmente as secas e as inundações;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; (Regulamento)</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>estabelecer princípios e diretrizes para o sistema nacional de viação;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc22">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1998;19-->
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>executar os serviços de polícia marítima, aeroportuária e de fronteiras; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc19.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1998;19">Emenda Constitucional nº 19, de 1998</span>)</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:</p>
+            <Alinea id="art21_cpt_inc23_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc23_ali2">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2006;49-->
+            
+            <Rotulo>b)</Rotulo>
+            <p>sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para a pesquisa e usos médicos, agrícolas e industriais; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc49.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2006;49">Emenda Constitucional nº 49, de 2006</span>)</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc23_ali3">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2006;49-->
+            
+            <Rotulo>c)</Rotulo>
+            <p>sob regime de permissão, são autorizadas a produção, comercialização e utilização de radioisótopos de meia-vida igual ou inferior a duas horas; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc49.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2006;49">Emenda Constitucional nº 49, de 2006</span>)</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc23_ali4">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2006;49-->
+            
+            <Rotulo>d)</Rotulo>
+            <p>a responsabilidade civil por danos nucleares independe da existência de culpa; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc49.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2006;49">Emenda Constitucional nº 49, de 2006</span>)</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art21_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>organizar, manter e executar a inspeção do trabalho;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>estabelecer as áreas e as condições para o exercício da atividade de garimpagem, em forma associativa.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>Compete privativamente à União legislar sobre:</p>
+            <Inciso id="art22_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>desapropriação;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>requisições civis e militares, em caso de iminente perigo e em tempo de guerra;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>águas, energia, informática, telecomunicações e radiodifusão;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>serviço postal;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>sistema monetário e de medidas, títulos e garantias dos metais;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>política de crédito, câmbio, seguros e transferência de valores;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>comércio exterior e interestadual;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>diretrizes da política nacional de transportes;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>regime dos portos, navegação lacustre, fluvial, marítima, aérea e aeroespacial;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>trânsito e transporte;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>jazidas, minas, outros recursos minerais e metalurgia;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>nacionalidade, cidadania e naturalização;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>populações indígenas;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>emigração e imigração, entrada, extradição e expulsão de estrangeiros;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>organização do sistema nacional de emprego e condições para o exercício de profissões;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc17">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:2012;69-->
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>organização judiciária, do Ministério Público do Distrito Federal e dos Territórios e da Defensoria Pública dos Territórios, bem como organização administrativa destes; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc69.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:2012;69">Emenda Constitucional nº 69, de 2012</span>) HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc69.htm \l art4(Produção de efeito)</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>sistema estatístico, sistema cartográfico e de geologia nacionais;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>sistemas de poupança, captação e garantia da poupança popular;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>sistemas de consórcios e sorteios;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>normas gerais de organização, efetivos, material bélico, garantias, convocação e mobilização das polícias militares e corpos de bombeiros militares;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>competência da polícia federal e das polícias rodoviária e ferroviária federais;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>seguridade social;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>diretrizes e bases da educação nacional;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>registros públicos;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>atividades nucleares de qualquer natureza;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc27">
+            <!--Link: urn:lex:br:federal:emenda.constitucional:1998;19-->
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, Estados, Distrito Federal e Municípios, obedecido o disposto no art. 37, XXI, e para as empresas públicas e sociedades de economia mista, nos termos do art. 173, § 1°, III; HYPERLINK http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc19.htm \l art1(Redação dada pela <span xlink:href="urn:lex:br:federal:emenda.constitucional:1998;19">Emenda Constitucional nº 19, de 1998</span>)</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>defesa territorial, defesa aeroespacial, defesa marítima, defesa civil e mobilização nacional;</p>
+            
+          </Inciso><Inciso id="art22_cpt_inc29">
+            
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>propaganda comercial.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art22_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>
