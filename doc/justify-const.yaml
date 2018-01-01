@@ -1,41 +1,40 @@
 --- 
-exam: 2010-01
-question: 13
-urn: urn:lex:br:federal:lei:1999-11-10;9868
-article: 12
-subsection: caput 
-comment: |
-  Essa questão tem dois pontos curiosos. Primeiro, apesar de ser de
-  constitucional, a resposta não está na constituição, está na lei
-  sobre ADI, sendo ADI um instituto clássico de
-  constitucional. Segundo, a resposta é literalmente a transcrição do
-  artigo 12.
----
-exam: 2010-01
-question: 14
-urn: urn:lex:br:supremo.tribunal.federal;turma.2:acordao;re:2007-11-06;243157-3617899
-article: ementa
-subsection: |
-  Necessidade de autorização judicial ou decisão de Comissão
-  Parlamentar de Inquérito, ambas devidamente fundamentadas.
-comment: |
-  Essa questão também chama atenção. A resposta, de acordo com a Banca
-  Examinadora, está na jurisprudência, em uma decisão em turma do
-  STF. A resposta não está na Constiuição.  O LexML tem uma urn
-  voltada para decisões judiciais.
----
-exam: 2016-20
-question: 14
-urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-article:
-  - [73, §1º-I]
-  - [75, caput]
-comment: |
-  Essa questão exige a interpretação conjugada de dois artigos, além
-  do uso de um princípio da doutrina - o princípio da simetria, isto
-  é, as Constituições Estaduais devem ser simétricas à Constituição
-  federal. O artigo 73, parágrafo primeiro, inciso primeiro da
-  Constituição define a idade mínima de 35 anos como requisito do
-  TCU. O artigo 75, por sua vez, diz que as constituições estaduais
-  devem emular a federal. Isso é o princípio da simetria.
-  
+- exam: 2010-01
+  question: 13
+  urn: urn:lex:br:federal:lei:1999-11-10;9868
+  article: 12
+  subsection: caput 
+  comment: |
+      Essa questão tem dois pontos curiosos. Primeiro, apesar de ser de 
+      constitucional, a resposta não está na constituição, está na lei sobre ADI, 
+      sendo ADI um instituto clássico de constitucional. Segundo, a resposta é 
+      literalmente a transcrição do artigo 12.
+
+-
+  exam: 2010-01
+  question: 14
+  urn: urn:lex:br:supremo.tribunal.federal;turma.2:acordao;re:2007-11-06;243157-3617899
+  article: ementa
+  subsection: |
+      Necessidade de autorização judicial ou decisão de Comissão Parlamentar
+      de Inquérito, ambas devidamente fundamentadas.
+  comment: |
+      Essa questão também chama atenção. A resposta, de acordo com a Banca Examinadora, está
+      na jurisprudência, em uma decisão em turma do STF. A resposta não está na Constiuição.
+      O LexML tem uma urn voltada para decisões judiciais.
+
+-
+  exam: 2016-20
+  question: 14
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
+  article: 73 
+  subsection: §1º-I  
+  article: 75 
+  subsection: caput
+  comment: |
+    Essa questão exige a interpretação conjugada de dois artigos, além do uso de um princípio
+    da doutrina: o princípio da simetria, isto é, as Constituições Estaduais devem ser 
+    simétricas à Constituição federal. O artigo 73, parágrafo primeiro, inciso primeiro
+    da Constituição define a idade mínima de 35 anos como requisito do TCU. O artigo 75,
+    por sua vez, diz que as constituições estaduais devem emular a federal. Isso é o 
+    princípio da simetria.
