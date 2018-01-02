@@ -3,16 +3,15 @@
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 34
-  subsection:  
+  subsection: VIII
   comment: 
-
 
 -
   exam: 2013-10
   question: 2
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
   article: 2
-  subsection: 
+  subsection: sole-paragraph
   comment: 
 
 -
@@ -20,7 +19,7 @@
   question: 3
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
   article: 16 
-  subsection:
+  subsection: caput
   comment: 
 
 -
@@ -28,7 +27,7 @@
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 22
-  subsection:  
+  subsection: third-paragraph
   comment: 
 
 -
@@ -36,7 +35,7 @@
   question: 5
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 7
-  subsection:  
+  subsection: XIII
   comment: 
 
 -
@@ -44,7 +43,7 @@
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
   article: 5
-  subsection:  
+  subsection: caput
   comment: 
 
 -
@@ -52,31 +51,31 @@
   question: 7
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 2
-  subsection:  
-  comment: 
+  subsection:  VIII-e
+  comment: a resposta dessa questão não está apenas no subsection (inciso) VIII e sim na alínea "e"
 
 -
   exam: 2013-11
   question: 9
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 7
-  subsection:  
-  comment: 
+  subsection: XVI
+  comment: o artigo 7 da lei 8906 é gigante, a resposta está apenas no inciso XVI
 
 -
   exam: 2013-12
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 11
-  subsection:  
-  comment: 
+  subsection: caput
+  comment: a resposta dessa questão é bem direta no caput do artigo 11
 
 -
   exam: 2014-13
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 24
-  subsection:  
+  subsection: first-paragraph
   comment: 
 
 -
@@ -84,7 +83,7 @@
   question: 2
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 27
-  subsection:  
+  subsection: sole-paragraph
   comment: 
 
 -
@@ -92,15 +91,15 @@
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 43
-  subsection:  
-  comment: 
+  subsection: caput
+  comment: essa me parece uma boa questão para text-entailment
 
 -
   exam: 2015-16
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 3
-  subsection:  
+  subsection: caput
   comment: 
 
 -
@@ -108,7 +107,7 @@
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 1
-  subsection:  
+  subsection: second-paragraph
   comment: 
 
 -
@@ -116,15 +115,15 @@
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 14
-  subsection:  
-  comment: 
+  subsection: caput
+  comment: o fundamento dessa questão não é uma lei e sim uma norma infra-legal, o código de ética
 
 -
   exam: 2015-18
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 7 
-  subsection:  
+  subsection: II sixth-paragraph
   comment: 
 
 -
@@ -132,15 +131,15 @@
   question: 3
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 7 34
-  subsection:  
-  comment: 
+  subsection: 7-first-paragraph-3 34-II
+  comment: a justificativa, na parte do artigo 7, envolve o parágrafo primeiro, "tópico" 3
 
 -
   exam: 2015-18
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 9 28
-  subsection:  
+  subsection: 9-third-paragraph 28-IV
   comment: 
 
 -
@@ -148,7 +147,7 @@
   question: 5
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 11
-  subsection:  
+  subsection: caput
   comment: 
 
 -
@@ -156,7 +155,7 @@
   question: 6
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
   article: 51
-  subsection:  
+  subsection: caput
   comment: 
 
 -
@@ -164,7 +163,7 @@
   question: 7
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 15
-  subsection:  
+  subsection: fourth-paragraph
   comment: 
 
 -
@@ -172,7 +171,7 @@
   question: 8
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 17
-  subsection:  
+  subsection: caput
   comment: 
 
 -
@@ -180,7 +179,7 @@
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 31 
-  subsection:  
+  subsection: second-paragraph
   comment: 
 
 -
@@ -188,31 +187,31 @@
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 7
-  subsection:  
-  comment: 
+  subsection: XIV tenth-paragraph
+  comment: essa questão tem como fundamento duas partes do art 7, o parágrafo décimo cita o inciso XIV
 
 -
   exam: 2016-19
   question: 3
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 50
-  subsection:  
-  comment: also depends on jurisprudence from the supreme court (STF)
+  subsection: caput
+  comment: depende da jurisprudência 
 
 -
   exam: 2016-19
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 28
-  subsection:  
-  comment: 
+  subsection: I V VIII 
+  comment: o enunciado menciona 3 pessoas, cada inciso acima do art 28 é sobre o caso de uma pessoa
 
 -
   exam: 2016-19
   question: 5
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 26 24
-  subsection:  
+  subsection: 26-caput and 24-first-paragraph
   comment: 
 
 -
@@ -220,15 +219,15 @@
   question: 6
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 10
-  subsection:  
+  subsection: second-paragraph
   comment: 
 
 -
   exam: 2016-19
   question: 7
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
-  article: 131-1
-  subsection:  
+  article: 131-A
+  subsection: caput third-paragraph
   comment: 
 
 -
@@ -236,7 +235,6 @@
   question: 6
   urn: urn:lex:br:federal:lei:1994-07-04;8906
   article: 66
-  subsection:  
-  comment: 
-
+  subsection: sole-paragraph 
+  comment:  
 
