@@ -87,9 +87,9 @@
 -
   exam: 2012-06
   question: 17
-  urn: ?
-  article: ?
-  subsection: ?
+  urn:
+  article:
+  subsection:
   comment: |
     Essa questão é bem interessante. Ela pergunta algo que não existe consenso
     entre os teóricos.  O gabarito assume a visão majoritária: não cabe ADI para
@@ -128,8 +128,8 @@
   article: 95  98
   subsection: 95-II 98-VIII
   comment:  |
-  A resposta está no 95-II, o ponto legal é que o pro inciso II do 95
-  cita o VIII do 98
+    A resposta está no 95-II, o ponto legal é que o pro inciso II do 95
+    cita o VIII do 98
 
 -
   exam: 2012-9
