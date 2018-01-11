@@ -1,0 +1,3153 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xmlns="http://www.lexml.gov.br/1.0">
+
+<!--  xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+
+<Metadado>
+  <Identificacao URN="urn:lex:br:federal:lei:1994-07-04;8906"/>
+</Metadado>
+<ProjetoNorma>
+  <Norma>
+    <ParteInicial>
+      <Epigrafe id="epigrafe">LEI Nº 8.906, DE 1994</Epigrafe>
+      <Ementa id="ementa">Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB).</Ementa>
+      <Preambulo id="preambulo"><p>O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:</p></Preambulo>
+    </ParteInicial>
+    <Articulacao><Titulo id="tit1">
+      
+      
+      <Rotulo>TÍTULO I</Rotulo>
+      <NomeAgrupador>Da Advocacia</NomeAgrupador>
+      <Capitulo id="tit1_cap1">
+        
+        
+        <Rotulo>CAPÍTULO I</Rotulo>
+        <NomeAgrupador>Da Atividade de Advocacia</NomeAgrupador>
+        <Artigo id="art1">
+          
+          
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>São atividades privativas de advocacia:</p>
+            <Inciso id="art1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>a postulação a órgão do Poder Judiciário e aos juizados especiais;</p>
+            
+          </Inciso><Inciso id="art1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>as atividades de consultoria, assessoria e direção jurídicas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não se inclui na atividade privativa de advocacia a impetração de habeas corpus em qualquer instância ou tribunal.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os atos e contratos constitutivos de pessoas jurídicas, sob pena de nulidade, só podem ser admitidos a registro, nos órgãos competentes, quando visados por advogados.</p>
+            
+          </Paragrafo><Paragrafo id="art1_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É vedada a divulgação de advocacia em conjunto com outra atividade.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O advogado é indispensável à administração da justiça.</p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>No seu ministério privado, o advogado presta serviço público e exerce função social.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No processo judicial, o advogado contribui, na postulação de decisão favorável ao seu constituinte, ao convencimento do julgador, e seus atos constituem múnus público.</p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No exercício da profissão, o advogado é inviolável por seus atos e manifestações, nos limites desta lei.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),</p>
+            
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Exercem atividade de advocacia, sujeitando-se ao regime desta lei, além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e das respectivas entidades de administração indireta e fundacional.</p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O estagiário de advocacia, regularmente inscrito, pode praticar os atos previstos no art. 1º, na forma do regimento geral, em conjunto com advogado e sob responsabilidade deste.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>São nulos os atos privativos de advogado praticados por pessoa não inscrita na OAB, sem prejuízo das sanções civis, penais e administrativas.</p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São também nulos os atos praticados por advogado impedido - no âmbito do impedimento - suspenso, licenciado ou que passar a exercer atividade incompatível com a advocacia.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>O advogado postula, em juízo ou fora dele, fazendo prova do mandato.</p>
+            
+          </Caput><Paragrafo id="art5_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O advogado, afirmando urgência, pode atuar sem procuração, obrigando-se a apresentá-la no prazo de quinze dias, prorrogável por igual período.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A procuração para o foro em geral habilita o advogado a praticar todos os atos judiciais, em qualquer juízo ou instância, salvo os que exijam poderes especiais.</p>
+            
+          </Paragrafo><Paragrafo id="art5_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O advogado que renunciar ao mandato continuará, durante os dez dias seguintes à notificação da renúncia, a representar o mandante, salvo se for substituído antes do término desse prazo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Dos Direitos do Advogado</NomeAgrupador>
+            <Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>Não há hierarquia nem subordinação entre advogados, magistrados e membros do Ministério Público, devendo todos tratar-se com consideração e respeito recíprocos.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As autoridades, os servidores públicos e os serventuários da justiça devem dispensar ao advogado, no exercício da profissão, tratamento compatível com a dignidade da advocacia e condições adequadas a seu desempenho.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>São direitos do advogado:</p>
+            <Inciso id="art7_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer, com liberdade, a profissão em todo o território nacional;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondência escrita, eletrônica, telefônica e telemática, desde que relativas ao exercício da advocacia;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procuração, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicáveis;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ter a presença de representante da OAB, quando preso em flagrante, por motivo ligado ao exercício da advocacia, para lavratura do auto respectivo, sob pena de nulidade e, nos demais casos, a comunicação expressa à seccional da OAB;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>ingressar livremente:</p>
+            <Alinea id="art7_cpt_inc6_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>nas salas de sessões dos tribunais, mesmo além dos cancelos que separam a parte reservada aos magistrados;</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc6_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>nas salas e dependências de audiências, secretarias, cartórios, ofícios de justiça, serviços notariais e de registro, e, no caso de delegacias e prisões, mesmo fora da hora de expediente e independentemente da presença de seus titulares;</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc6_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>em qualquer edifício ou recinto em que funcione repartição judicial ou outro serviço público onde o advogado deva praticar ato ou colher prova ou informação útil ao exercício da atividade profissional, dentro do expediente ou fora dele, e ser atendido, desde que se ache presente qualquer servidor ou empregado;</p>
+            
+          </Alinea><Alinea id="art7_cpt_inc6_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>em qualquer assembléia ou reunião de que participe ou possa participar o seu cliente, ou perante a qual este deva comparecer, desde que munido de poderes especiais;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art7_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>permanecer sentado ou em pé e retirar-se de quaisquer locais indicados no inciso anterior, independentemente de licença;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>dirigir-se diretamente aos magistrados nas salas e gabinetes de trabalho, independentemente de horário previamente marcado ou outra condição, observando-se a ordem de chegada;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>usar da palavra, pela ordem, em qualquer juízo ou tribunal, mediante intervenção sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, documentos ou afirmações que influam no julgamento, bem como para replicar acusação ou censura que lhe forem feitas;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>reclamar, verbalmente ou por escrito, perante qualquer juízo, tribunal ou autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>falar, sentado ou em pé, em juízo, tribunal ou órgão de deliberação coletiva da Administração Pública ou do Poder Legislativo;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estejam sujeitos a sigilo, assegurada a obtenção de cópias, podendo tomar apontamentos;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>retirar autos de processos findos, mesmo sem procuração, pelo prazo de dez dias;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>ser publicamente desagravado, quando ofendido no exercício da profissão ou em razão dela;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>usar os símbolos privativos da profissão de advogado;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional;</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.</p>
+            
+          </Inciso><Inciso id="art7_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração:</p>
+            <Alinea id="art7_cpt_inc21_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>apresentar razões e quesitos;</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não se aplica o disposto nos incisos XV e XVI:</p>
+            <Alinea id="art7_par1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>aos processos sob regime de segredo de justiça;</p>
+            
+          </Alinea><Alinea id="art7_par1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>quando existirem nos autos documentos originais de difícil restauração ou ocorrer circunstância relevante que justifique a permanência dos autos no cartório, secretaria ou repartição, reconhecida pela autoridade em despacho motivado, proferido de ofício, mediante representação ou a requerimento da parte interessada;</p>
+            
+          </Alinea><Alinea id="art7_par1_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>até o encerramento do processo, ao advogado que houver deixado de devolver os respectivos autos no prazo legal, e só o fizer depois de intimado.</p>
+            
+          </Alinea>
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O advogado tem imunidade profissional, não constituindo injúria, difamação puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele, sem prejuízo das sanções disciplinares perante a OAB, pelos excessos que cometer.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O advogado somente poderá ser preso em flagrante, por motivo de exercício da profissão, em caso de crime inafiançável, observado o disposto no inciso IV deste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso assegurados à OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>nA ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par10">
+            
+            
+            <Rotulo>§ 10.</Rotulo>
+            <p>Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par11">
+            
+            
+            <Rotulo>§ 11.</Rotulo>
+            <p>No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências.</p>
+            
+          </Paragrafo><Paragrafo id="art7_par12">
+            
+            
+            <Rotulo>§ 12.</Rotulo>
+            <p>A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7-1">
+            
+            
+            <Rotulo>Art. 7º-A.</Rotulo>
+            
+            <Caput id="art7-1_cpt">
+            
+            
+            
+            <p>São direitos da advogada:</p>
+            <Inciso id="art7-1_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>gestante:</p>
+            <Alinea id="art7-1_cpt_inc1_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X;</p>
+            
+          </Alinea><Alinea id="art7-1_cpt_inc1_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>reserva de vaga em garagens dos fóruns dos tribunais;</p>
+            
+          </Alinea>
+          </Inciso><Inciso id="art7-1_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê;</p>
+            
+          </Inciso><Inciso id="art7-1_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição;</p>
+            
+          </Inciso><Inciso id="art7-1_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art7-1_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação.</p>
+            
+          </Paragrafo><Paragrafo id="art7-1_par2">
+            <!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392--><!--Link: urn:lex:br:federal:decreto.lei:1943-05-01;5452-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no HYPERLINK http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm \l art392<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452!art392">art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943</span> (<span xlink:href="urn:lex:br:federal:decreto.lei:1943-05-01;5452">Consolidação das Leis do Trabalho</span>).</p>
+            
+          </Paragrafo><Paragrafo id="art7-1_par3">
+            <!--Link: urn:lex:br:federal:lei:2015-03-16;13105!art313_par6-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no HYPERLINK http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm \l art313§6<span xlink:href="urn:lex:br:federal:lei:2015-03-16;13105!art313_par6">§ 6o do art. 313 da Lei no 13.105, de 16 de março de 2015</span> (Código de Processo Civil). HYPERLINK http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13363.htm \l art2)</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Da Inscrição</NomeAgrupador>
+            <Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Para inscrição como advogado é necessário:</p>
+            <Inciso id="art8_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>capacidade civil;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>diploma ou certidão de graduação em direito, obtido em instituição de ensino oficialmente autorizada e credenciada;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>título de eleitor e quitação do serviço militar, se brasileiro;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>aprovação em Exame de Ordem;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>não exercer atividade incompatível com a advocacia;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>idoneidade moral;</p>
+            
+          </Inciso><Inciso id="art8_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>prestar compromisso perante o conselho.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art8_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Exame da Ordem é regulamentado em provimento do Conselho Federal da OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O estrangeiro ou brasileiro, quando não graduado em direito no Brasil, deve fazer prova do título de graduação, obtido em instituição estrangeira, devidamente revalidado, além de atender aos demais requisitos previstos neste artigo.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A inidoneidade moral, suscitada por qualquer pessoa, deve ser declarada mediante decisão que obtenha no mínimo dois terços dos votos de todos os membros do conselho competente, em procedimento que observe os termos do processo disciplinar.</p>
+            
+          </Paragrafo><Paragrafo id="art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Não atende ao requisito de idoneidade moral aquele que tiver sido condenado por crime infamante, salvo reabilitação judicial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Para inscrição como estagiário é necessário:</p>
+            <Inciso id="art9_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>preencher os requisitos mencionados nos incisos I, III, V, VI e VII do art. 8º;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ter sido admitido em estágio profissional de advocacia.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O estágio profissional de advocacia, com duração de dois anos, realizado nos últimos anos do curso jurídico, pode ser mantido pelas respectivas instituições de ensino superior pelos Conselhos da OAB, ou por setores, órgãos jurídicos e escritórios de advocacia credenciados pela OAB, sendo obrigatório o estudo deste Estatuto e do Código de Ética e Disciplina.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A inscrição do estagiário é feita no Conselho Seccional em cujo território se localize seu curso jurídico.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O aluno de curso jurídico que exerça atividade incompatível com a advocacia pode freqüentar o estágio ministrado pela respectiva instituição de ensino superior, para fins de aprendizagem, vedada a inscrição na OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art9_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O estágio profissional poderá ser cumprido por bacharel em Direito que queira se inscrever na Ordem.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>A inscrição principal do advogado deve ser feita no Conselho Seccional em cujo território pretende estabelecer o seu domicílio profissional, na forma do regulamento geral.</p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Considera-se domicílio profissional a sede principal da atividade de advocacia, prevalecendo, na dúvida, o domicílio da pessoa física do advogado.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Além da principal, o advogado deve promover a inscrição suplementar nos Conselhos Seccionais em cujos territórios passar a exercer habitualmente a profissão considerando-se habitualidade a intervenção judicial que exceder de cinco causas por ano.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No caso de mudança efetiva de domicílio profissional para outra unidade federativa, deve o advogado requerer a transferência de sua inscrição para o Conselho Seccional correspondente.</p>
+            
+          </Paragrafo><Paragrafo id="art10_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O Conselho Seccional deve suspender o pedido de transferência ou de inscrição suplementar, ao verificar a existência de vício ou ilegalidade na inscrição principal, contra ela representando ao Conselho Federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Cancela-se a inscrição do profissional que:</p>
+            <Inciso id="art11_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>assim o requerer;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>sofrer penalidade de exclusão;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>falecer;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>passar a exercer, em caráter definitivo, atividade incompatível com a advocacia;</p>
+            
+          </Inciso><Inciso id="art11_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>perder qualquer um dos requisitos necessários para inscrição.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ocorrendo uma das hipóteses dos incisos II, III e IV, o cancelamento deve ser promovido, de ofício, pelo conselho competente ou em virtude de comunicação por qualquer pessoa.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de novo pedido de inscrição - que não restaura o número de inscrição anterior - deve o interessado fazer prova dos requisitos dos incisos I, V, VI e VII do art. 8º.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese do inciso II deste artigo, o novo pedido de inscrição também deve ser acompanhado de provas de reabilitação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Licencia-se o profissional que:</p>
+            <Inciso id="art12_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>assim o requerer, por motivo justificado;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>passar a exercer, em caráter temporário, atividade incompatível com o exercício da advocacia;</p>
+            
+          </Inciso><Inciso id="art12_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>sofrer doença mental considerada curável.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            
+            
+            
+            <p>O documento de identidade profissional, na forma prevista no regulamento geral, é de uso obrigatório no exercício da atividade de advogado ou de estagiário e constitui prova de identidade civil para todos os fins legais.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>É obrigatória a indicação do nome e do número de inscrição em todos os documentos assinados pelo advogado, no exercício de sua atividade.</p>
+            
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>É vedado anunciar ou divulgar qualquer atividade relacionada com o exercício da advocacia ou o uso da expressão escritório de advocacia, sem indicação expressa do nome e do número de inscrição dos advogados que o integrem ou o número de registro da sociedade de advogados na OAB.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>Da Sociedade de Advogados</NomeAgrupador>
+            <Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>Os advogados podem reunir-se em sociedade simples de prestação de serviços de advocacia ou constituir sociedade unipessoal de advocacia, na forma disciplinada nesta Lei e no regulamento geral.</p>
+            
+          </Caput><Paragrafo id="art15_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A sociedade de advogados e a sociedade unipessoal de advocacia adquirem personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Aplica-se à sociedade de advogados e à sociedade unipessoal de advocacia o Código de Ética e Disciplina, no que couber.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As procurações devem ser outorgadas individualmente aos advogados e indicar a sociedade de que façam parte.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Nenhum advogado pode integrar mais de uma sociedade de advogados, constituir mais de uma sociedade unipessoal de advocacia, ou integrar, simultaneamente, uma sociedade de advogados e uma sociedade unipessoal de advocacia, com sede ou filial na mesma área territorial do respectivo Conselho Seccional.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O ato de constituição de filial deve ser averbado no registro da sociedade e arquivado no Conselho Seccional onde se instalar, ficando os sócios, inclusive o titular da sociedade unipessoal de advocacia, obrigados à inscrição suplementar.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os advogados sócios de uma mesma sociedade profissional não podem representar em juízo clientes de interesses opostos.</p>
+            
+          </Paragrafo><Paragrafo id="art15_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>A sociedade unipessoal de advocacia pode resultar da concentração por um advogado das quotas de uma sociedade de advogados, independentemente das razões que motivaram tal concentração.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Não são admitidas a registro nem podem funcionar todas as espécies de sociedades de advogados que apresentem forma ou características de sociedade empresária, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam como sócio ou titular de sociedade unipessoal de advocacia pessoa não inscrita como advogado ou totalmente proibida de advogar.</p>
+            
+          </Caput><Paragrafo id="art16_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A razão social deve ter, obrigatoriamente, o nome de, pelo menos, um advogado responsável pela sociedade, podendo permanecer o de sócio falecido, desde que prevista tal possibilidade no ato constitutivo.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O licenciamento do sócio para exercer atividade incompatível com a advocacia em caráter temporário deve ser averbado no registro da sociedade, não alterando sua constituição.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É proibido o registro, nos cartórios de registro civil de pessoas jurídicas e nas juntas comerciais, de sociedade que inclua, entre outras finalidades, a atividade de advocacia.</p>
+            
+          </Paragrafo><Paragrafo id="art16_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A denominação da sociedade unipessoal de advocacia deve ser obrigatoriamente formada pelo nome do seu titular, completo ou parcial, com a expressão ‘Sociedade Individual de Advocacia’.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>Além da sociedade, o sócio e o titular da sociedade individual de advocacia respondem subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possam incorrer.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>Do Advogado Empregado</NomeAgrupador>
+            <Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>A relação de emprego, na qualidade de advogado, não retira a isenção técnica nem reduz a independência profissional inerentes à advocacia.</p>
+            
+          </Caput><Paragrafo id="art18_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>O salário mínimo profissional do advogado será fixado em sentença normativa, salvo se ajustado em acordo ou convenção coletiva de trabalho.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>A jornada de trabalho do advogado empregado, no exercício da profissão, não poderá exceder a duração diária de quatro horas contínuas e a de vinte horas semanais, salvo acordo ou convenção coletiva ou em caso de dedicação exclusiva.</p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para efeitos deste artigo, considera-se como período de trabalho o tempo em que o advogado estiver à disposição do empregador, aguardando ou executando ordens, no seu escritório ou em atividades externas, sendo-lhe reembolsadas as despesas feitas com transporte, hospedagem e alimentação.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>As horas trabalhadas que excederem a jornada normal são remuneradas por um adicional não inferior a cem por cento sobre o valor da hora normal, mesmo havendo contrato escrito.</p>
+            
+          </Paragrafo><Paragrafo id="art20_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As horas trabalhadas no período das vinte horas de um dia até as cinco horas do dia seguinte são remuneradas como noturnas, acrescidas do adicional de vinte e cinco por cento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>Nas causas em que for parte o empregador, ou pessoa por este representada, os honorários de sucumbência são devidos aos advogados empregados.</p>
+            
+          </Caput><Paragrafo id="art21_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os honorários de sucumbência, percebidos por advogado empregado de sociedade de advogados são partilhados entre ele e a empregadora, na forma estabelecida em acordo.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>Dos Honorários Advocatícios</NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.</p>
+            
+          </Caput><Paragrafo id="art22_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O advogado, quando indicado para patrocinar causa de juridicamente necessitado, no caso de impossibilidade da Defensoria Pública no local da prestação de serviço, tem direito aos honorários fixados pelo juiz, segundo tabela organizada pelo Conselho Seccional da OAB, e pagos pelo Estado.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, não podendo ser inferiores aos estabelecidos na tabela organizada pelo Conselho Seccional da OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Salvo estipulação em contrário, um terço dos honorários é devido no início do serviço, outro terço até a decisão de primeira instância e o restante no final.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.</p>
+            
+          </Paragrafo><Paragrafo id="art22_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>O disposto neste artigo não se aplica quando se tratar de mandato outorgado por advogado para defesa em processo oriundo de ato ou omissão praticada no exercício da profissão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.</p>
+            
+          </Caput><Paragrafo id="art24_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores ou representantes legais.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>É nula qualquer disposição, cláusula, regulamento ou convenção individual ou coletiva que retire do advogado o direito ao recebimento dos honorários de sucumbência.</p>
+            
+          </Paragrafo><Paragrafo id="art24_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>O acordo feito pelo cliente do advogado e a parte contrária, salvo aquiescência do profissional, não lhe prejudica os honorários, quer os convencionados, quer os concedidos por sentença.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Prescreve em cinco anos a ação de cobrança de honorários de advogado, contado o prazo:</p>
+            <Inciso id="art25_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>do vencimento do contrato, se houver;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>do trânsito em julgado da decisão que os fixar;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>da ultimação do serviço extrajudicial;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>da desistência ou transação;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>da renúncia ou revogação do mandato.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art25-1">
+            
+            
+            <Rotulo>Art. 25-A.</Rotulo>
+            
+            <Caput id="art25-1_cpt">
+            
+            
+            
+            <p>Prescreve em cinco anos a ação de prestação de contas pelas quantias recebidas pelo advogado de seu cliente, ou de terceiros por conta dele (art. 34, XXI).</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap7">
+            
+            
+            <Rotulo>CAPÍTULO VII</Rotulo>
+            <NomeAgrupador>Das Incompatibilidades e Impedimentos</NomeAgrupador>
+            <Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>A incompatibilidade determina a proibição total, e o impedimento, a proibição parcial do exercício da advocacia.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>A advocacia é incompatível, mesmo em causa própria, com as seguintes atividades:</p>
+            <Inciso id="art28_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>chefe do Poder Executivo e membros da Mesa do Poder Legislativo e seus substitutos legais;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>membros de órgãos do Poder Judiciário, do Ministério Público, dos tribunais e conselhos de contas, dos juizados especiais, da justiça de paz, juízes classistas, bem como de todos os que exerçam função de julgamento em órgãos de deliberação coletiva da administração pública direta e indireta;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>ocupantes de cargos ou funções vinculados direta ou indiretamente a qualquer órgão do Poder Judiciário e os que exercem serviços notariais e de registro;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>ocupantes de cargos ou funções vinculados direta ou indiretamente a atividade policial de qualquer natureza;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>militares de qualquer natureza, na ativa;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>ocupantes de cargos ou funções que tenham competência de lançamento, arrecadação ou fiscalização de tributos e contribuições parafiscais;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>ocupantes de funções de direção e gerência em instituições financeiras, inclusive privadas.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art28_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A incompatibilidade permanece mesmo que o ocupante do cargo ou função deixe de exercê-lo temporariamente.</p>
+            
+          </Paragrafo><Paragrafo id="art28_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Não se incluem nas hipóteses do inciso III os que não detenham poder de decisão relevante sobre interesses de terceiro, a juízo do conselho competente da OAB, bem como a administração acadêmica diretamente relacionada ao magistério jurídico.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Os Procuradores Gerais, Advogados Gerais, Defensores Gerais e dirigentes de órgãos jurídicos da Administração Pública direta, indireta e fundacional são exclusivamente legitimados para o exercício da advocacia vinculada à função que exerçam, durante o período da investidura.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>São impedidos de exercer a advocacia:</p>
+            <Inciso id="art30_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>os servidores da administração direta, indireta e fundacional, contra a Fazenda Pública que os remunere ou à qual seja vinculada a entidade empregadora;</p>
+            
+          </Inciso><Inciso id="art30_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os membros do Poder Legislativo, em seus diferentes níveis, contra ou a favor das pessoas jurídicas de direito público, empresas públicas, sociedades de economia mista, fundações públicas, entidades paraestatais ou empresas concessionárias ou permissionárias de serviço público.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art30_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não se incluem nas hipóteses do inciso I os docentes dos cursos jurídicos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap8">
+            
+            
+            <Rotulo>CAPÍTULO VIII</Rotulo>
+            <NomeAgrupador>Da Ética do Advogado</NomeAgrupador>
+            <Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>O advogado deve proceder de forma que o torne merecedor de respeito e que contribua para o prestígio da classe e da advocacia.</p>
+            
+          </Caput><Paragrafo id="art31_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O advogado, no exercício da profissão, deve manter independência em qualquer circunstância.</p>
+            
+          </Paragrafo><Paragrafo id="art31_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nenhum receio de desagradar a magistrado ou a qualquer autoridade, nem de incorrer em impopularidade, deve deter o advogado no exercício da profissão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art32">
+            
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">
+            
+            
+            
+            <p>O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa.</p>
+            
+          </Caput><Paragrafo id="art32_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Em caso de lide temerária, o advogado será solidariamente responsável com seu cliente, desde que coligado com este para lesar a parte contrária, o que será apurado em ação própria.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art33">
+            
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">
+            
+            
+            
+            <p>O advogado obriga-se a cumprir rigorosamente os deveres consignados no Código de Ética e Disciplina.</p>
+            
+          </Caput><Paragrafo id="art33_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O Código de Ética e Disciplina regula os deveres do advogado para com a comunidade, o cliente, o outro profissional e, ainda, a publicidade, a recusa do patrocínio, o dever de assistência jurídica, o dever geral de urbanidade e os respectivos procedimentos disciplinares.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap9">
+            
+            
+            <Rotulo>CAPÍTULO IX</Rotulo>
+            <NomeAgrupador>Das Infrações e Sanções Disciplinares</NomeAgrupador>
+            <Artigo id="art34">
+            
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">
+            
+            
+            
+            <p>Constitui infração disciplinar:</p>
+            <Inciso id="art34_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>exercer a profissão, quando impedido de fazê-lo, ou facilitar, por qualquer meio, o seu exercício aos não inscritos, proibidos ou impedidos;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>manter sociedade profissional fora das normas e preceitos estabelecidos nesta lei;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>valer-se de agenciador de causas, mediante participação nos honorários a receber;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>angariar ou captar causas, com ou sem a intervenção de terceiros;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>assinar qualquer escrito destinado a processo judicial ou para fim extrajudicial que não tenha feito, ou em que não tenha colaborado;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>advogar contra literal disposição de lei, presumindo-se a boa-fé quando fundamentado na inconstitucionalidade, na injustiça da lei ou em pronunciamento judicial anterior;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>violar, sem justa causa, sigilo profissional;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>estabelecer entendimento com a parte adversa sem autorização do cliente ou ciência do advogado contrário;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>prejudicar, por culpa grave, interesse confiado ao seu patrocínio;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>acarretar, conscientemente, por ato próprio, a anulação ou a nulidade do processo em que funcione;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>abandonar a causa sem justo motivo ou antes de decorridos dez dias da comunicação da renúncia;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>recusar-se a prestar, sem justo motivo, assistência jurídica, quando nomeado em virtude de impossibilidade da Defensoria Pública;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>fazer publicar na imprensa, desnecessária e habitualmente, alegações forenses ou relativas a causas pendentes;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>deturpar o teor de dispositivo de lei, de citação doutrinária ou de julgado, bem como de depoimentos, documentos e alegações da parte contrária, para confundir o adversário ou iludir o juiz da causa;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>fazer, em nome do constituinte, sem autorização escrita deste, imputação a terceiro de fato definido como crime;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>deixar de cumprir, no prazo estabelecido, determinação emanada do órgão ou de autoridade da Ordem, em matéria da competência desta, depois de regularmente notificado;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc17">
+            
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>prestar concurso a clientes ou a terceiros para realização de ato contrário à lei ou destinado a fraudá-la;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>solicitar ou receber de constituinte qualquer importância para aplicação ilícita ou desonesta;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc19">
+            
+            
+            <Rotulo>XIX –</Rotulo>
+            <p>receber valores, da parte contrária ou de terceiro, relacionados com o objeto do mandato, sem expressa autorização do constituinte;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc20">
+            
+            
+            <Rotulo>XX –</Rotulo>
+            <p>locupletar-se, por qualquer forma, à custa do cliente ou da parte adversa, por si ou interposta pessoa;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc21">
+            
+            
+            <Rotulo>XXI –</Rotulo>
+            <p>recusar-se, injustificadamente, a prestar contas ao cliente de quantias recebidas dele ou de terceiros por conta dele;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc22">
+            
+            
+            <Rotulo>XXII –</Rotulo>
+            <p>reter, abusivamente, ou extraviar autos recebidos com vista ou em confiança;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc23">
+            
+            
+            <Rotulo>XXIII –</Rotulo>
+            <p>deixar de pagar as contribuições, multas e preços de serviços devidos à OAB, depois de regularmente notificado a fazê-lo;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc24">
+            
+            
+            <Rotulo>XXIV –</Rotulo>
+            <p>incidir em erros reiterados que evidenciem inépcia profissional;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc25">
+            
+            
+            <Rotulo>XXV –</Rotulo>
+            <p>manter conduta incompatível com a advocacia;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc26">
+            
+            
+            <Rotulo>XXVI –</Rotulo>
+            <p>fazer falsa prova de qualquer dos requisitos para inscrição na OAB;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc27">
+            
+            
+            <Rotulo>XXVII –</Rotulo>
+            <p>tornar-se moralmente inidôneo para o exercício da advocacia;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc28">
+            
+            
+            <Rotulo>XXVIII –</Rotulo>
+            <p>praticar crime infamante;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc29">
+            
+            
+            <Rotulo>XXIX –</Rotulo>
+            <p>praticar, o estagiário, ato excedente de sua habilitação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art34_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Inclui-se na conduta incompatível:</p>
+            <Alinea id="art34_par1u_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>prática reiterada de jogo de azar, não autorizado por lei;</p>
+            
+          </Alinea><Alinea id="art34_par1u_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>incontinência pública e escandalosa;</p>
+            
+          </Alinea><Alinea id="art34_par1u_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>embriaguez ou toxicomania habituais.</p>
+            
+          </Alinea>
+          </Paragrafo>
+          </Artigo><Artigo id="art35">
+            
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">
+            
+            
+            
+            <p>As sanções disciplinares consistem em:</p>
+            <Inciso id="art35_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>censura;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>suspensão;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>exclusão;</p>
+            
+          </Inciso><Inciso id="art35_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>multa.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art35_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As sanções devem constar dos assentamentos do inscrito, após o trânsito em julgado da decisão, não podendo ser objeto de publicidade a de censura.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art36">
+            
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">
+            
+            
+            
+            <p>A censura é aplicável nos casos de:</p>
+            <Inciso id="art36_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>infrações definidas nos incisos I a XVI e XXIX do art. 34;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>violação a preceito do Código de Ética e Disciplina;</p>
+            
+          </Inciso><Inciso id="art36_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>violação a preceito desta lei, quando para a infração não se tenha estabelecido sanção mais grave.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art36_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A censura pode ser convertida em advertência, em ofício reservado, sem registro nos assentamentos do inscrito, quando presente circunstância atenuante.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">
+            
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">
+            
+            
+            
+            <p>A suspensão é aplicável nos casos de:</p>
+            <Inciso id="art37_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>infrações definidas nos incisos XVII a XXV do art. 34;</p>
+            
+          </Inciso><Inciso id="art37_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>reincidência em infração disciplinar.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art37_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A suspensão acarreta ao infrator a interdição do exercício profissional, em todo o território nacional, pelo prazo de trinta dias a doze meses, de acordo com os critérios de individualização previstos neste capítulo.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nas hipóteses dos incisos XXI e XXIII do art. 34, a suspensão perdura até que satisfaça integralmente a dívida, inclusive com correção monetária.</p>
+            
+          </Paragrafo><Paragrafo id="art37_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na hipótese do inciso XXIV do art. 34, a suspensão perdura até que preste novas provas de habilitação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art38">
+            
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">
+            
+            
+            
+            <p>A exclusão é aplicável nos casos de:</p>
+            <Inciso id="art38_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>aplicação, por três vezes, de suspensão;</p>
+            
+          </Inciso><Inciso id="art38_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>infrações definidas nos incisos XXVI a XXVIII do art. 34.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art38_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Para a aplicação da sanção disciplinar de exclusão, é necessária a manifestação favorável de dois terços dos membros do Conselho Seccional competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">
+            
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">
+            
+            
+            
+            <p>A multa, variável entre o mínimo correspondente ao valor de uma anuidade e o máximo de seu décuplo, é aplicável cumulativamente com a censura ou suspensão, em havendo circunstâncias agravantes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art40">
+            
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">
+            
+            
+            
+            <p>Na aplicação das sanções disciplinares, são consideradas, para fins de atenuação, as seguintes circunstâncias, entre outras:</p>
+            <Inciso id="art40_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>falta cometida na defesa de prerrogativa profissional;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>ausência de punição disciplinar anterior;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>exercício assíduo e proficiente de mandato ou cargo em qualquer órgão da OAB;</p>
+            
+          </Inciso><Inciso id="art40_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>prestação de relevantes serviços à advocacia ou à causa pública.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art40_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os antecedentes profissionais do inscrito, as atenuantes, o grau de culpa por ele revelada, as circunstâncias e as conseqüências da infração são considerados para o fim de decidir:</p>
+            <Alinea id="art40_par1u_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>sobre a conveniência da aplicação cumulativa da multa e de outra sanção disciplinar;</p>
+            
+          </Alinea><Alinea id="art40_par1u_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>sobre o tempo de suspensão e o valor da multa aplicáveis.</p>
+            
+          </Alinea>
+          </Paragrafo>
+          </Artigo><Artigo id="art41">
+            
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">
+            
+            
+            
+            <p>É permitido ao que tenha sofrido qualquer sanção disciplinar requerer, um ano após seu cumprimento, a reabilitação, em face de provas efetivas de bom comportamento.</p>
+            
+          </Caput><Paragrafo id="art41_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Quando a sanção disciplinar resultar da prática de crime, o pedido de reabilitação depende também da correspondente reabilitação criminal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art42">
+            
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">
+            
+            
+            
+            <p>Fica impedido de exercer o mandato o profissional a quem forem aplicadas as sanções disciplinares de suspensão ou exclusão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art43">
+            
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">
+            
+            
+            
+            <p>A pretensão à punibilidade das infrações disciplinares prescreve em cinco anos, contados da data da constatação oficial do fato.</p>
+            
+          </Caput><Paragrafo id="art43_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aplica-se a prescrição a todo processo disciplinar paralisado por mais de três anos, pendente de despacho ou julgamento, devendo ser arquivado de ofício, ou a requerimento da parte interessada, sem prejuízo de serem apuradas as responsabilidades pela paralisação.</p>
+            
+          </Paragrafo><Paragrafo id="art43_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A prescrição interrompe-se:</p>
+            <Inciso id="art43_par2_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>pela instauração de processo disciplinar ou pela notificação válida feita diretamente ao representado;</p>
+            
+          </Inciso><Inciso id="art43_par2_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pela decisão condenatória recorrível de qualquer órgão julgador da OAB.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit2">
+            
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador>Da Ordem dos Advogados do Brasil</NomeAgrupador>
+            <Capitulo id="tit2_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Dos Fins e da Organização</NomeAgrupador>
+            <Artigo id="art44">
+            
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">
+            
+            
+            
+            <p>A Ordem dos Advogados do Brasil (OAB), serviço público, dotada de personalidade jurídica e forma federativa, tem por finalidade:</p>
+            <Inciso id="art44_cpt_inc1">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>defender a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, a ordem jurídica do Estado democrático de direito, os direitos humanos, a justiça social, e pugnar pela boa aplicação das leis, pela rápida administração da justiça e pelo aperfeiçoamento da cultura e das instituições jurídicas;</p>
+            
+          </Inciso><Inciso id="art44_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>promover, com exclusividade, a representação, a defesa, a seleção e a disciplina dos advogados em toda a República Federativa do Brasil.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art44_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A OAB não mantém com órgãos da Administração Pública qualquer vínculo funcional ou hierárquico.</p>
+            
+          </Paragrafo><Paragrafo id="art44_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O uso da sigla OAB é privativo da Ordem dos Advogados do Brasil.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art45">
+            
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">
+            
+            
+            
+            <p>São órgãos da OAB:</p>
+            <Inciso id="art45_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Conselho Federal;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>os Conselhos Seccionais;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>as Subseções;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>as Caixas de Assistência dos Advogados.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art45_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Conselho Federal, dotado de personalidade jurídica própria, com sede na capital da República, é o órgão supremo da OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os Conselhos Seccionais, dotados de personalidade jurídica própria, têm jurisdição sobre os respectivos territórios dos Estados-membros, do Distrito Federal e dos Territórios.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As Subseções são partes autônomas do Conselho Seccional, na forma desta lei e de seu ato constitutivo.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>As Caixas de Assistência dos Advogados, dotadas de personalidade jurídica própria, são criadas pelos Conselhos Seccionais, quando estes contarem com mais de mil e quinhentos inscritos.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>A OAB, por constituir serviço público, goza de imunidade tributária total em relação a seus bens, rendas e serviços.</p>
+            
+          </Paragrafo><Paragrafo id="art45_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Os atos conclusivos dos órgãos da OAB, salvo quando reservados ou de administração interna, devem ser publicados na imprensa oficial ou afixados no fórum, na íntegra ou em resumo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art46">
+            
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">
+            
+            
+            
+            <p>Compete à OAB fixar e cobrar, de seus inscritos, contribuições, preços de serviços e multas.</p>
+            
+          </Caput><Paragrafo id="art46_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Constitui título executivo extrajudicial a certidão passada pela diretoria do Conselho competente, relativa a crédito previsto neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art47">
+            
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">
+            
+            
+            
+            <p>O pagamento da contribuição anual à OAB isenta os inscritos nos seus quadros do pagamento obrigatório da contribuição sindical.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">
+            
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">
+            
+            
+            
+            <p>O cargo de conselheiro ou de membro de diretoria de órgão da OAB é de exercício gratuito e obrigatório, considerado serviço público relevante, inclusive para fins de disponibilidade e aposentadoria.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art49">
+            
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">
+            
+            
+            
+            <p>Os Presidentes dos Conselhos e das Subseções da OAB têm legitimidade para agir, judicial e extrajudicialmente, contra qualquer pessoa que infringir as disposições ou os fins desta lei.</p>
+            
+          </Caput><Paragrafo id="art49_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As autoridades mencionadas no caput deste artigo têm, ainda, legitimidade para intervir, inclusive como assistentes, nos inquéritos e processos em que sejam indiciados, acusados ou ofendidos os inscritos na OAB.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art50">
+            
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">
+            
+            
+            
+            <p>Para os fins desta lei, os Presidentes dos Conselhos da OAB e das Subseções podem requisitar cópias de peças de autos e documentos a qualquer tribunal, magistrado, cartório e órgão da Administração Pública direta, indireta e fundacional.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Do Conselho Federal</NomeAgrupador>
+            <Artigo id="art51">
+            
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">
+            
+            
+            
+            <p>O Conselho Federal compõe-se:</p>
+            <Inciso id="art51_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dos conselheiros federais, integrantes das delegações de cada unidade federativa;</p>
+            
+          </Inciso><Inciso id="art51_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>dos seus ex-presidentes, na qualidade de membros honorários vitalícios.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art51_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Cada delegação é formada por três conselheiros federais.</p>
+            
+          </Paragrafo><Paragrafo id="art51_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os ex-presidentes têm direito apenas a voz nas sessões.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">
+            
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">
+            
+            
+            
+            <p>Os presidentes dos Conselhos Seccionais, nas sessões do Conselho Federal, têm lugar reservado junto à delegação respectiva e direito somente a voz.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art53">
+            
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">
+            
+            
+            
+            <p>O Conselho Federal tem sua estrutura e funcionamento definidos no Regulamento Geral da OAB.</p>
+            
+          </Caput><Paragrafo id="art53_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Presidente, nas deliberações do Conselho, tem apenas o voto de qualidade.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O voto é tomado por delegação, e não pode ser exercido nas matérias de interesse da unidade que represente.</p>
+            
+          </Paragrafo><Paragrafo id="art53_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art54">
+            
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">
+            
+            
+            
+            <p>Compete ao Conselho Federal:</p>
+            <Inciso id="art54_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dar cumprimento efetivo às finalidades da OAB;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>representar, em juízo ou fora dele, os interesses coletivos ou individuais dos advogados;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>velar pela dignidade, independência, prerrogativas e valorização da advocacia;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>representar, com exclusividade, os advogados brasileiros nos órgãos e eventos internacionais da advocacia;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>editar e alterar o Regulamento Geral, o Código de Ética e Disciplina, e os Provimentos que julgar necessários;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>adotar medidas para assegurar o regular funcionamento dos Conselhos Seccionais;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>intervir nos Conselhos Seccionais, onde e quando constatar grave violação desta lei ou do regulamento geral;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>cassar ou modificar, de ofício ou mediante representação, qualquer ato, de órgão ou autoridade da OAB, contrário a esta lei, ao regulamento geral, ao Código de Ética e Disciplina, e aos Provimentos, ouvida a autoridade ou o órgão em causa;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>julgar, em grau de recurso, as questões decididas pelos Conselhos Seccionais, nos casos previstos neste estatuto e no regulamento geral;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>dispor sobre a identificação dos inscritos na OAB e sobre os respectivos símbolos privativos;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>apreciar o relatório anual e deliberar sobre o balanço e as contas de sua diretoria;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>homologar ou mandar suprir relatório anual, o balanço e as contas dos Conselhos Seccionais;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>elaborar as listas constitucionalmente previstas, para o preenchimento dos cargos nos tribunais judiciários de âmbito nacional ou interestadual, com advogados que estejam em pleno exercício da profissão, vedada a inclusão de nome de membro do próprio Conselho ou de outro órgão da OAB;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>ajuizar ação direta de inconstitucionalidade de normas legais e atos normativos, ação civil pública, mandado de segurança coletivo, mandado de injunção e demais ações cuja legitimação lhe seja outorgada por lei;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>colaborar com o aperfeiçoamento dos cursos jurídicos, e opinar, previamente, nos pedidos apresentados aos órgãos competentes para criação, reconhecimento ou credenciamento desses cursos;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>autorizar, pela maioria absoluta das delegações, a oneração ou alienação de seus bens imóveis;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc17">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>XVII –</Rotulo>
+            <p>participar de concursos públicos, nos casos previstos na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> e na lei, em todas as suas fases, quando tiverem abrangência nacional ou interestadual;</p>
+            
+          </Inciso><Inciso id="art54_cpt_inc18">
+            
+            
+            <Rotulo>XVIII –</Rotulo>
+            <p>resolver os casos omissos neste estatuto.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art54_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A intervenção referida no inciso VII deste artigo depende de prévia aprovação por dois terços das delegações, garantido o amplo direito de defesa do Conselho Seccional respectivo, nomeando-se diretoria provisória para o prazo que se fixar.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art55">
+            
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">
+            
+            
+            
+            <p>A diretoria do Conselho Federal é composta de um Presidente, de um Vice-Presidente, de um Secretário-Geral, de um Secretário-Geral Adjunto e de um Tesoureiro.</p>
+            
+          </Caput><Paragrafo id="art55_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Presidente exerce a representação nacional e internacional da OAB, competindo-lhe convocar o Conselho Federal, presidi-lo, representá-lo ativa e passivamente, em juízo ou fora dele, promover-lhe a administração patrimonial e dar execução às suas decisões.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O regulamento geral define as atribuições dos membros da diretoria e a ordem de substituição em caso de vacância, licença, falta ou impedimento.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Nas deliberações do Conselho Federal, os membros da diretoria votam como membros de suas delegações, cabendo ao Presidente, apenas, o voto de qualidade e o direito de embargar a decisão, se esta não for unânime.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Do Conselho Seccional</NomeAgrupador>
+            <Artigo id="art56">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">
+            
+            
+            
+            <p>O Conselho Seccional compõe-se de conselheiros em número proporcional ao de seus inscritos, segundo critérios estabelecidos no regulamento geral.</p>
+            
+          </Caput><Paragrafo id="art56_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>São membros honorários vitalícios os seus ex-presidentes, somente com direito a voz em suas sessões.</p>
+            
+          </Paragrafo><Paragrafo id="art56_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Presidente do Instituto dos Advogados local é membro honorário, somente com direito a voz nas sessões do Conselho.</p>
+            
+          </Paragrafo><Paragrafo id="art56_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Quando presentes às sessões do Conselho Seccional, o Presidente do Conselho Federal, os Conselheiros Federais integrantes da respectiva delegação, o Presidente da Caixa de Assistência dos Advogados e os Presidentes das Subseções, têm direito a voz.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art57">
+            
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">
+            
+            
+            
+            <p>O Conselho Seccional exerce e observa, no respectivo território, as competências, vedações e funções atribuídas ao Conselho Federal, no que couber e no âmbito de sua competência material e territorial, e as normas gerais estabelecidas nesta lei, no regulamento geral, no Código de Ética e Disciplina, e nos Provimentos.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art58">
+            
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">
+            
+            
+            
+            <p>Compete privativamente ao Conselho Seccional:</p>
+            <Inciso id="art58_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>editar seu regimento interno e resoluções;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>criar as Subseções e a Caixa de Assistência dos Advogados;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>julgar, em grau de recurso, as questões decididas por seu Presidente, por sua diretoria, pelo Tribunal de Ética e Disciplina, pelas diretorias das Subseções e da Caixa de Assistência dos Advogados;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>fiscalizar a aplicação da receita, apreciar o relatório anual e deliberar sobre o balanço e as contas de sua diretoria, das diretorias das Subseções e da Caixa de Assistência dos Advogados;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>fixar a tabela de honorários, válida para todo o território estadual;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>realizar o Exame de Ordem;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>decidir os pedidos de inscrição nos quadros de advogados e estagiários;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>manter cadastro de seus inscritos;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>fixar, alterar e receber contribuições obrigatórias, preços de serviços e multas;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc10">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>X –</Rotulo>
+            <p>participar da elaboração dos concursos públicos, em todas as suas fases, nos casos previstos na <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> e nas leis, no âmbito do seu território;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>determinar, com exclusividade, critérios para o traje dos advogados, no exercício profissional;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc12">
+            
+            
+            <Rotulo>XII –</Rotulo>
+            <p>aprovar e modificar seu orçamento anual;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc13">
+            
+            
+            <Rotulo>XIII –</Rotulo>
+            <p>definir a composição e o funcionamento do Tribunal de Ética e Disciplina, e escolher seus membros;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc14">
+            
+            
+            <Rotulo>XIV –</Rotulo>
+            <p>eleger as listas, constitucionalmente previstas, para preenchimento dos cargos nos tribunais judiciários, no âmbito de sua competência e na forma do Provimento do Conselho Federal, vedada a inclusão de membros do próprio Conselho e de qualquer órgão da OAB;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc15">
+            
+            
+            <Rotulo>XV –</Rotulo>
+            <p>intervir nas Subseções e na Caixa de Assistência dos Advogados;</p>
+            
+          </Inciso><Inciso id="art58_cpt_inc16">
+            
+            
+            <Rotulo>XVI –</Rotulo>
+            <p>desempenhar outras atribuições previstas no regulamento geral.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art59">
+            
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">
+            
+            
+            
+            <p>A diretoria do Conselho Seccional tem composição idêntica e atribuições equivalentes às do Conselho Federal, na forma do regimento interno daquele.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>Da Subseção</NomeAgrupador>
+            <Artigo id="art60">
+            
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">
+            
+            
+            
+            <p>A Subseção pode ser criada pelo Conselho Seccional, que fixa sua área territorial e seus limites de competência e autonomia.</p>
+            
+          </Caput><Paragrafo id="art60_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A área territorial da Subseção pode abranger um ou mais municípios, ou parte de município, inclusive da capital do Estado, contando com um mínimo de quinze advogados, nela profissionalmente domiciliados.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Subseção é administrada por uma diretoria, com atribuições e composição equivalentes às da diretoria do Conselho Seccional.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Havendo mais de cem advogados, a Subseção pode ser integrada, também, por um conselho em número de membros fixado pelo Conselho Seccional.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Os quantitativos referidos nos §§ 1º e 3º deste artigo podem ser ampliados, na forma do regimento interno do Conselho Seccional.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Cabe ao Conselho Seccional fixar, em seu orçamento, dotações específicas destinadas à manutenção das Subseções.</p>
+            
+          </Paragrafo><Paragrafo id="art60_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>O Conselho Seccional, mediante o voto de dois terços de seus membros, pode intervir nas Subseções, onde constatar grave violação desta lei ou do regimento interno daquele.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art61">
+            
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">
+            
+            
+            
+            <p>Compete à Subseção, no âmbito de seu território:</p>
+            <Inciso id="art61_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>dar cumprimento efetivo às finalidades da OAB;</p>
+            
+          </Inciso><Inciso id="art61_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>velar pela dignidade, independência e valorização da advocacia, e fazer valer as prerrogativas do advogado;</p>
+            
+          </Inciso><Inciso id="art61_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>representar a OAB perante os poderes constituídos;</p>
+            
+          </Inciso><Inciso id="art61_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>desempenhar as atribuições previstas no regulamento geral ou por delegação de competência do Conselho Seccional.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art61_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ao Conselho da Subseção, quando houver, compete exercer as funções e atribuições do Conselho Seccional, na forma do regimento interno deste, e ainda:</p>
+            <Alinea id="art61_par1u_ali1">
+            
+            
+            <Rotulo>a)</Rotulo>
+            <p>editar seu regimento interno, a ser referendado pelo Conselho Seccional;</p>
+            
+          </Alinea><Alinea id="art61_par1u_ali2">
+            
+            
+            <Rotulo>b)</Rotulo>
+            <p>editar resoluções, no âmbito de sua competência;</p>
+            
+          </Alinea><Alinea id="art61_par1u_ali3">
+            
+            
+            <Rotulo>c)</Rotulo>
+            <p>instaurar e instruir processos disciplinares, para julgamento pelo Tribunal de Ética e Disciplina;</p>
+            
+          </Alinea><Alinea id="art61_par1u_ali4">
+            
+            
+            <Rotulo>d)</Rotulo>
+            <p>receber pedido de inscrição nos quadros de advogado e estagiário, instruindo e emitindo parecer prévio, para decisão do Conselho Seccional.</p>
+            
+          </Alinea>
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>Da Caixa de Assistência dos Advogados</NomeAgrupador>
+            <Artigo id="art62">
+            
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">
+            
+            
+            
+            <p>A Caixa de Assistência dos Advogados, com personalidade jurídica própria, destina-se a prestar assistência aos inscritos no Conselho Seccional a que se vincule.</p>
+            
+          </Caput><Paragrafo id="art62_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A Caixa é criada e adquire personalidade jurídica com a aprovação e registro de seu estatuto pelo respectivo Conselho Seccional da OAB, na forma do regulamento geral.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A Caixa pode, em benefício dos advogados, promover a seguridade complementar.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Compete ao Conselho Seccional fixar contribuição obrigatória devida por seus inscritos, destinada à manutenção do disposto no parágrafo anterior, incidente sobre atos decorrentes do efetivo exercício da advocacia.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>A diretoria da Caixa é composta de cinco membros, com atribuições definidas no seu regimento interno.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Cabe à Caixa a metade da receita das anuidades recebidas pelo Conselho Seccional, considerado o valor resultante após as deduções regulamentares obrigatórias.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par6">
+            
+            
+            <Rotulo>§ 6º</Rotulo>
+            <p>Em caso de extinção ou desativação da Caixa, seu patrimônio se incorpora ao do Conselho Seccional respectivo.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par7">
+            
+            
+            <Rotulo>§ 7º</Rotulo>
+            <p>O Conselho Seccional, mediante voto de dois terços de seus membros, pode intervir na Caixa de Assistência dos Advogados, no caso de descumprimento de suas finalidades, designando diretoria provisória, enquanto durar a intervenção.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap6">
+            
+            
+            <Rotulo>CAPÍTULO VI</Rotulo>
+            <NomeAgrupador>Das Eleições e dos Mandatos</NomeAgrupador>
+            <Artigo id="art63">
+            
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">
+            
+            
+            
+            <p>A eleição dos membros de todos os órgãos da OAB será realizada na segunda quinzena do mês de novembro, do último ano do mandato, mediante cédula única e votação direta dos advogados regularmente inscritos.</p>
+            
+          </Caput><Paragrafo id="art63_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A eleição, na forma e segundo os critérios e procedimentos estabelecidos no regulamento geral, é de comparecimento obrigatório para todos os advogados inscritos na OAB.</p>
+            
+          </Paragrafo><Paragrafo id="art63_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O candidato deve comprovar situação regular junto à OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de cinco anos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art64">
+            
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">
+            
+            
+            
+            <p>Consideram-se eleitos os candidatos integrantes da chapa que obtiver a maioria dos votos válidos.</p>
+            
+          </Caput><Paragrafo id="art64_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A chapa para o Conselho Seccional deve ser composta dos candidatos ao conselho e à sua diretoria e, ainda, à delegação ao Conselho Federal e à Diretoria da Caixa de Assistência dos Advogados para eleição conjunta.</p>
+            
+          </Paragrafo><Paragrafo id="art64_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A chapa para a Subseção deve ser composta com os candidatos à diretoria, e de seu conselho quando houver.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art65">
+            
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">
+            
+            
+            
+            <p>O mandato em qualquer órgão da OAB é de três anos, iniciando-se em primeiro de janeiro do ano seguinte ao da eleição, salvo o Conselho Federal.</p>
+            
+          </Caput><Paragrafo id="art65_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os conselheiros federais eleitos iniciam seus mandatos em primeiro de fevereiro do ano seguinte ao da eleição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art66">
+            
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">
+            
+            
+            
+            <p>Extingue-se o mandato automaticamente, antes do seu término, quando:</p>
+            <Inciso id="art66_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>ocorrer qualquer hipótese de cancelamento de inscrição ou de licenciamento do profissional;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o titular sofrer condenação disciplinar;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o titular faltar, sem motivo justificado, a três reuniões ordinárias consecutivas de cada órgão deliberativo do conselho ou da diretoria da Subseção ou da Caixa de Assistência dos Advogados, não podendo ser reconduzido no mesmo período de mandato.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art66_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Extinto qualquer mandato, nas hipóteses deste artigo, cabe ao Conselho Seccional escolher o substituto, caso não haja suplente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art67">
+            
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">
+            
+            
+            
+            <p>A eleição da Diretoria do Conselho Federal, que tomará posse no dia 1º de fevereiro, obedecerá às seguintes regras:</p>
+            <Inciso id="art67_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>será admitido registro, junto ao Conselho Federal, de candidatura à presidência, desde seis meses até um mês antes da eleição;</p>
+            
+          </Inciso><Inciso id="art67_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o requerimento de registro deverá vir acompanhado do apoiamento de, no mínimo, seis Conselhos Seccionais;</p>
+            
+          </Inciso><Inciso id="art67_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>até um mês antes das eleições, deverá ser requerido o registro da chapa completa, sob pena de cancelamento da candidatura respectiva;</p>
+            
+          </Inciso><Inciso id="art67_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>no dia 31 de janeiro do ano seguinte ao da eleição, o Conselho Federal elegerá, em reunião presidida pelo conselheiro mais antigo, por voto secreto e para mandato de 3 (três) anos, sua diretoria, que tomará posse no dia seguinte;</p>
+            
+          </Inciso><Inciso id="art67_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>será considerada eleita a chapa que obtiver maioria simples dos votos dos Conselheiros Federais, presente a metade mais 1 (um) de seus membros.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art67_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Com exceção do candidato a Presidente, os demais integrantes da chapa deverão ser conselheiros federais eleitos.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">
+            
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador>Do Processo na OAB</NomeAgrupador>
+            <Capitulo id="tit3_cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>Disposições Gerais</NomeAgrupador>
+            <Artigo id="art68">
+            
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">
+            
+            
+            
+            <p>Salvo disposição em contrário, aplicam-se subsidiariamente ao processo disciplinar as regras da legislação processual penal comum e, aos demais processos, as regras gerais do procedimento administrativo comum e da legislação processual civil, nessa ordem.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art69">
+            
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">
+            
+            
+            
+            <p>Todos os prazos necessários à manifestação de advogados, estagiários e terceiros, nos processos em geral da OAB, são de quinze dias, inclusive para interposição de recursos.</p>
+            
+          </Caput><Paragrafo id="art69_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nos casos de comunicação por ofício reservado, ou de notificação pessoal, o prazo se conta a partir do dia útil imediato ao da notificação do recebimento.</p>
+            
+          </Paragrafo><Paragrafo id="art69_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos casos de publicação na imprensa oficial do ato ou da decisão, o prazo inicia-se no primeiro dia útil seguinte.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit3_cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>Do Processo Disciplinar</NomeAgrupador>
+            <Artigo id="art70">
+            
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">
+            
+            
+            
+            <p>O poder de punir disciplinarmente os inscritos na OAB compete exclusivamente ao Conselho Seccional em cuja base territorial tenha ocorrido a infração, salvo se a falta for cometida perante o Conselho Federal.</p>
+            
+          </Caput><Paragrafo id="art70_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Cabe ao Tribunal de Ética e Disciplina, do Conselho Seccional competente, julgar os processos disciplinares, instruídos pelas Subseções ou por relatores do próprio conselho.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A decisão condenatória irrecorrível deve ser imediatamente comunicada ao Conselho Seccional onde o representado tenha inscrição principal, para constar dos respectivos assentamentos.</p>
+            
+          </Paragrafo><Paragrafo id="art70_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Tribunal de Ética e Disciplina do Conselho onde o acusado tenha inscrição principal pode suspendê-lo preventivamente, em caso de repercussão prejudicial à dignidade da advocacia, depois de ouvi-lo em sessão especial para a qual deve ser notificado a comparecer, salvo se não atender à notificação. Neste caso, o processo disciplinar deve ser concluído no prazo máximo de noventa dias.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art71">
+            
+            
+            <Rotulo>Art. 71.</Rotulo>
+            
+            <Caput id="art71_cpt">
+            
+            
+            
+            <p>A jurisdição disciplinar não exclui a comum e, quando o fato constituir crime ou contravenção, deve ser comunicado às autoridades competentes.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art72">
+            
+            
+            <Rotulo>Art. 72.</Rotulo>
+            
+            <Caput id="art72_cpt">
+            
+            
+            
+            <p>O processo disciplinar instaura-se de ofício ou mediante representação de qualquer autoridade ou pessoa interessada.</p>
+            
+          </Caput><Paragrafo id="art72_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Código de Ética e Disciplina estabelece os critérios de admissibilidade da representação e os procedimentos disciplinares.</p>
+            
+          </Paragrafo><Paragrafo id="art72_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O processo disciplinar tramita em sigilo, até o seu término, só tendo acesso às suas informações as partes, seus defensores e a autoridade judiciária competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art73">
+            
+            
+            <Rotulo>Art. 73.</Rotulo>
+            
+            <Caput id="art73_cpt">
+            
+            
+            
+            <p>Recebida a representação, o Presidente deve designar relator, a quem compete a instrução do processo e o oferecimento de parecer preliminar a ser submetido ao Tribunal de Ética e Disciplina.</p>
+            
+          </Caput><Paragrafo id="art73_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Ao representado deve ser assegurado amplo direito de defesa, podendo acompanhar o processo em todos os termos, pessoalmente ou por intermédio de procurador, oferecendo defesa prévia após ser notificado, razões finais após a instrução e defesa oral perante o Tribunal de Ética e Disciplina, por ocasião do julgamento.</p>
+            
+          </Paragrafo><Paragrafo id="art73_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Se, após a defesa prévia, o relator se manifestar pelo indeferimento liminar da representação, este deve ser decidido pelo Presidente do Conselho Seccional, para determinar seu arquivamento.</p>
+            
+          </Paragrafo><Paragrafo id="art73_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O prazo para defesa prévia pode ser prorrogado por motivo relevante, a juízo do relator.</p>
+            
+          </Paragrafo><Paragrafo id="art73_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Se o representado não for encontrado, ou for revel, o Presidente do Conselho ou da Subseção deve designar-lhe defensor dativo;</p>
+            
+          </Paragrafo><Paragrafo id="art73_par5">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>É também permitida a revisão do processo disciplinar, por erro de julgamento ou por condenação baseada em falsa prova.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art74">
+            
+            
+            <Rotulo>Art. 74.</Rotulo>
+            
+            <Caput id="art74_cpt">
+            
+            
+            
+            <p>O Conselho Seccional pode adotar as medidas administrativas e judiciais pertinentes, objetivando a que o profissional suspenso ou excluído devolva os documentos de identificação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit3_cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>Dos Recursos</NomeAgrupador>
+            <Artigo id="art75">
+            
+            
+            <Rotulo>Art. 75.</Rotulo>
+            
+            <Caput id="art75_cpt">
+            
+            
+            
+            <p>Cabe recurso ao Conselho Federal de todas as decisões definitivas proferidas pelo Conselho Seccional, quando não tenham sido unânimes ou, sendo unânimes, contrariem esta lei, decisão do Conselho Federal ou de outro Conselho Seccional e, ainda, o regulamento geral, o Código de Ética e Disciplina e os Provimentos.</p>
+            
+          </Caput><Paragrafo id="art75_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Além dos interessados, o Presidente do Conselho Seccional é legitimado a interpor o recurso referido neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art76">
+            
+            
+            <Rotulo>Art. 76.</Rotulo>
+            
+            <Caput id="art76_cpt">
+            
+            
+            
+            <p>Cabe recurso ao Conselho Seccional de todas as decisões proferidas por seu Presidente, pelo Tribunal de Ética e Disciplina, ou pela diretoria da Subseção ou da Caixa de Assistência dos Advogados.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art77">
+            
+            
+            <Rotulo>Art. 77.</Rotulo>
+            
+            <Caput id="art77_cpt">
+            
+            
+            
+            <p>Todos os recursos têm efeito suspensivo, exceto quando tratarem de eleições (arts. 63 e seguintes), de suspensão preventiva decidida pelo Tribunal de Ética e Disciplina, e de cancelamento da inscrição obtida com falsa prova.</p>
+            
+          </Caput><Paragrafo id="art77_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O regulamento geral disciplina o cabimento de recursos específicos, no âmbito de cada órgão julgador.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit4">
+            
+            
+            <Rotulo>TÍTULO IV</Rotulo>
+            <NomeAgrupador>Das Disposições Gerais e Transitórias</NomeAgrupador>
+            <Artigo id="art78">
+            
+            
+            <Rotulo>Art. 78.</Rotulo>
+            
+            <Caput id="art78_cpt">
+            
+            
+            
+            <p>Cabe ao Conselho Federal da OAB, por deliberação de dois terços, pelo menos, das delegações, editar o regulamento geral deste estatuto, no prazo de seis meses, contados da publicação desta lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art79">
+            
+            
+            <Rotulo>Art. 79.</Rotulo>
+            
+            <Caput id="art79_cpt">
+            
+            
+            
+            <p>Aos servidores da OAB, aplica-se o regime trabalhista.</p>
+            
+          </Caput><Paragrafo id="art79_par1">
+            <!--Link: urn:lex:br:federal:lei:1990-12-11;8112-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Aos servidores da OAB, sujeitos ao regime da <span xlink:href="urn:lex:br:federal:lei:1990-12-11;8112">Lei nº 8.112, de 11 de dezembro de 1990</span>, é concedido o direito de opção pelo regime trabalhista, no prazo de noventa dias a partir da vigência desta lei, sendo assegurado aos optantes o pagamento de indenização, quando da aposentadoria, correspondente a cinco vezes o valor da última remuneração.</p>
+            
+          </Paragrafo><Paragrafo id="art79_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os servidores que não optarem pelo regime trabalhista serão posicionados no quadro em extinção, assegurado o direito adquirido ao regime legal anterior.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art80">
+            
+            
+            <Rotulo>Art. 80.</Rotulo>
+            
+            <Caput id="art80_cpt">
+            
+            
+            
+            <p>Os Conselhos Federal e Seccionais devem promover trienalmente as respectivas Conferências, em data não coincidente com o ano eleitoral, e, periodicamente, reunião do colégio de presidentes a eles vinculados, com finalidade consultiva.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art81">
+            
+            
+            <Rotulo>Art. 81.</Rotulo>
+            
+            <Caput id="art81_cpt">
+            
+            
+            
+            <p>Não se aplicam aos que tenham assumido originariamente o cargo de Presidente do Conselho Federal ou dos Conselhos Seccionais, até a data da publicação desta lei, as normas contidas no Título II, acerca da composição desses Conselhos, ficando assegurado o pleno direito de voz e voto em suas sessões.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art82">
+            
+            
+            <Rotulo>Art. 82.</Rotulo>
+            
+            <Caput id="art82_cpt">
+            
+            
+            
+            <p>Aplicam-se as alterações previstas nesta lei, quanto a mandatos, eleições, composição e atribuições dos órgãos da OAB, a partir do término do mandato dos atuais membros, devendo os Conselhos Federal e Seccionais disciplinarem os respectivos procedimentos de adaptação.</p>
+            
+          </Caput><Paragrafo id="art82_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Os mandatos dos membros dos órgãos da OAB, eleitos na primeira eleição sob a vigência desta lei, e na forma do Capítulo VI do Título II, terão início no dia seguinte ao término dos atuais mandatos, encerrando-se em 31 de dezembro do terceiro ano do mandato e em 31 de janeiro do terceiro ano do mandato, neste caso com relação ao Conselho Federal.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art83">
+            
+            
+            <Rotulo>Art. 83.</Rotulo>
+            
+            <Caput id="art83_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988--><!--Link: urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988-->
+            
+            
+            <p>Não se aplica o disposto no art. 28, inciso II, desta lei, aos membros do Ministério Público que, na data de promulgação da <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span>, se incluam na previsão do HYPERLINK http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm \l adctart29§3art. 29, § 3º, do seu <span xlink:href="urn:lex:br:federal:ato.disposicoes.constitucionais.transitorias:1988-10-05;1988">Ato das Disposições Constitucionais Transitórias</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art84">
+            
+            
+            <Rotulo>Art. 84.</Rotulo>
+            
+            <Caput id="art84_cpt">
+            
+            
+            
+            <p>O estagiário, inscrito no respectivo quadro, fica dispensado do Exame de Ordem, desde que comprove, em até dois anos da promulgação desta lei, o exercício e resultado do estágio profissional ou a conclusão, com aproveitamento, do estágio de Prática Forense e Organização Judiciária, realizado junto à respectiva faculdade, na forma da legislação em vigor.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art85">
+            
+            
+            <Rotulo>Art. 85.</Rotulo>
+            
+            <Caput id="art85_cpt">
+            
+            
+            
+            <p>O Instituto dos Advogados Brasileiros e as instituições a ele filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer dos seus membros.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art86">
+            
+            
+            <Rotulo>Art. 86.</Rotulo>
+            
+            <Caput id="art86_cpt">
+            
+            
+            
+            <p>Esta lei entra em vigor na data de sua publicação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art87">
+            
+            
+            <Rotulo>Art. 87.</Rotulo>
+            
+            <Caput id="art87_cpt">
+            <!--Link: urn:lex:br:federal:lei:1985-07-22;7346--><!--Link: urn:lex:br:federal:lei:1973-12-10;5960--><!--Link: urn:lex:br:federal:lei:1971-07-20;5681--><!--Link: urn:lex:br:federal:lei:1963-04-27;4215--><!--Link: urn:lex:br:federal:decreto.lei:1969-03-18;505--><!--Link: urn:lex:br:federal:lei:1980-12-09;6884--><!--Link: urn:lex:br:federal:lei:1972-12-06;5842--><!--Link: urn:lex:br:federal:lei:1968-02-23;5390--><!--Link: urn:lex:br:federal:lei:1982-05-26;6994--><!--Link: urn:lex:br:federal:lei:1979-12-05;6743-->
+            
+            
+            <p>Revogam-se as disposições em contrário, especialmente a <span xlink:href="urn:lex:br:federal:lei:1963-04-27;4215">Lei nº 4.215, de 27 de abril de 1963</span>, a <span xlink:href="urn:lex:br:federal:lei:1968-02-23;5390">Lei nº 5.390, de 23 de fevereiro de 1968</span>, o <span xlink:href="urn:lex:br:federal:decreto.lei:1969-03-18;505">Decreto-Lei nº 505, de 18 de março de 1969</span>, a <span xlink:href="urn:lex:br:federal:lei:1971-07-20;5681">Lei nº 5.681, de 20 de julho de 1971</span>, a <span xlink:href="urn:lex:br:federal:lei:1972-12-06;5842">Lei nº 5.842, de 6 de dezembro de 1972</span>, a <span xlink:href="urn:lex:br:federal:lei:1973-12-10;5960">Lei nº 5.960, de 10 de dezembro de 1973</span>, a <span xlink:href="urn:lex:br:federal:lei:1979-12-05;6743">Lei nº 6.743, de 5 de dezembro de 1979</span>, a <span xlink:href="urn:lex:br:federal:lei:1980-12-09;6884">Lei nº 6.884, de 9 de dezembro de 1980</span>, a <span xlink:href="urn:lex:br:federal:lei:1982-05-26;6994">Lei nº 6.994, de 26 de maio de 1982</span>, mantidos os efeitos da <span xlink:href="urn:lex:br:federal:lei:1985-07-22;7346">Lei nº 7.346, de 22 de julho de 1985</span>.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>

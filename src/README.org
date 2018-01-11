@@ -1,0 +1,21 @@
+
+Validate
+
+#+BEGIN_SRC bash
+for f in *.xml; do xmllint --dtdvalid OAB-Exam.dtd --noout $f; done
+#+END_SRC
+
+Generate the XML files
+
+#+BEGIN_SRC lisp
+  (load "parser.lisp")
+
+  (in-package :oab-parser)
+
+  ;; creates a xml file with year and edition information if
+  ;; filename is YYYY-ed.txt
+  (mapc #'oab-parser:mirror-oab-to-xml (directory #p"/*.txt"))
+
+#+END_SRC
+
+	     

@@ -1,0 +1,305 @@
+#+Title: Experiment with UKB and Freeling in Legal Domain
+#+Author: Alexandre Rademaker
+
+* A hipotese
+
+O algoritimo UKB (http://ixa2.si.ehu.es/ukb/) não funciona com
+treinamento, ele usa o grafo da wordnet para, dado um contexto,
+definir os senses das palavras de forma que os escolhidos sejam os
+mais conectados possível entre si.
+
+Desta forma a nossa hipotese é que adicionando senses para palavras
+que não existem na WN, melhoramos o grafo da WN e possivelmente a
+disambiguação não apenas das novas palavras mas de palavras que
+co-ocorrem com ela em um mesmo contexto.
+
+Para testar a hipotese meus experimentos são bem naive e apenas em
+parte dos arquivos das provas, apenas rodo o freeling nos arquivos das
+provas e comparo o resultado da primeira rodada do freeling com as
+rodadas depois das mudanças. Note que não limpei os arquivos, logo as
+marcações de questões e opções foram tratadas como texto correte e
+podem ter introduzido algum ruído.
+
+* Rodada 1 antes de alterar WN e Freeling
+
+#+BEGIN_EXAMPLE
+$ for f in ../raw/*.txt ; do analyze -f pt.cfg < $f > $(basename $f).conll; done 
+#+END_EXAMPLE
+
+* Edições e comparação
+
+Colocando "superveniente" em dois synsets, o sense de "subsequentes" no
+2010-01 mudou de 00122626-a para 00127661-a. Não é uma mudança muito
+grande. Mesma coisa aconteceu no 2011-03 questão 23.
+
+os adjetivos "correto" e "correta" não estavam no dicionário do
+freling, e por isso estavam sempre recebendo POS de verbo! Logo não
+eram achados corretamenet na OWN-PT. Adicionei no freeling source
+folder data/pt/dictionary/entries/adjs na posição correta:
+
+#+BEGIN_EXAMPLE
+correta correto AQ0FS00
+correto correto AQ0MS00
+#+END_EXAMPLE
+
+A palavra 'mediante' também não estava na OWN-PT. Adicionei uma linha
+no senses30.src. Também adicionado os synsets que não tinham na PWN:
+
+#+BEGIN_EXAMPLE
+00063089-r mediante
+88888888-a hipossuficiente
+99999999-n ordem oab ordem_dos_advogados
+#+END_EXAMPLE
+
+E também tive que criar relações mínimas para estes novos synsets no data/common/xwn.dat
+
+#+BEGIN_EXAMPLE
+88888888-a 02335828-a
+02335828-a 88888888-a
+99999999-n 08008335-n
+08008335-n 99999999-n
+#+END_EXAMPLE
+
+Como as probabilidades associadas às escolhas de sense do modulo WSD
+mudam a cada rodada, depois de reexecutar o freeling, para facilitar a
+comparação da primeira rodada com a nova, tive que manipular os
+arquivos:
+
+Rodando novamente
+
+#+BEGIN_EXAMPLE
+$ for f in ../raw/*.txt ; do analyze -f pt.cfg < $f > $(basename $f).conll.1; done
+#+END_EXAMPLE
+
+Depois para poder comparar:
+
+#+BEGIN_EXAMPLE
+for f in *.conll; do 
+ awk '$5 ~ /^[0-9]+/ {split($5,a,"/"); split(a[1],b,":"); $5=b[1]; print}' $f > $f.simple; 
+ awk '$5 ~ /^[0-9]+/ {split($5,a,"/"); split(a[1],b,":"); $5=b[1]; print}' $f.1 > $f.1.simple; 
+done
+#+END_EXAMPLE
+
+* Por que estas mudanças?
+
+Fiz uma consulta em todos os arquivos produzidos pela rodada 1,
+procurando por palavras sem sense e suas frequencias. Priorizei as
+palavras mais frequentes. 
+
+#+BEGIN_EXAMPLE
+awk '$0 ~ /-$/ && $3 !~ /^NP/ {print $2}' *.conll | sort | uniq -c | sort -nr | head -50
+#+END_EXAMPLE
+
+* Analise
+
+Várias mudanças foram as óbvias, diretamente relacionadas as palavras
+que introduzi. Mas tiveram outras mudanças interessantes.
+
+E finalmente, consegui uma BOA mudança na WSD depois destas
+alterações. O novo sentido é o certo! O sentido anterior, 00901345-a,
+estava errado!
+
+#+BEGIN_EXAMPLE
+$ diff 2010-01.txt.conll.simple 2010-01.txt.conll.1.simple
+...
+< constitucional constitucional AQ0CS00 0.667364 00901345-a
+---
+> constitucional constitucional AQ0CS00 0.667364 00179925-a
+...
+#+END_EXAMPLE
+
+Outras mudanças, dificil dizer qual é o sense certo aqui, tem que
+olhar o contexto, mas mudou:
+
+#+BEGIN_EXAMPLE
+$ diff 2010-02.txt.conll.simple 2010-02.txt.conll.1.simple
+...
+< matéria matéria NCFS000 1 06599788-n
+---
+> matéria matéria NCFS000 1 05814291-n
+
+< Poder poder NP00O00 1 05194578-n
+---
+> Poder poder NP00O00 1 05190804-n
+
+< adquirido adquirir VMP00SM 0.992509 02207206-v
+---
+> adquirido adquirir VMP00SM 0.992509 02210855-v
+
+< justa justo AQ0FS00 0.46384 02036578-a
+---
+> justa justo AQ0FS00 0.46384 00631391-a
+
+< meio meio NCMS000 0.671123 08567235-n
+---
+> meio meio NCMS000 0.671123 00172710-n
+
+#+END_EXAMPLE
+
+aqui parece que piorou
+
+#+BEGIN_EXAMPLE
+< alienar alienar VMN0000 0.529581 02254258-v
+---
+> alienar alienar VMN0000 0.529581 01823528-v
+
+< obtém obter VMIP3S0 0.999479 02210855-v
+---
+> obtém obter VMIP3S0 0.999479 02526085-v
+#+END_EXAMPLE
+
+No arquivo 2011-3 ocorreu uma coisa interessante:
+
+#+BEGIN_EXAMPLE
+base base NCFS000 1 04360501-n
+relatado relatar VMP00SM 0.992512 00965035-v
+acima acima RG 0.983871 00080169-r
+é ser VMIP3S0 1 02627363-v
+afirmar afirmar VMN0000 0.331148 01011031-v
+#+END_EXAMPLE
+
+passou para o trecho abaixo. A palavra 'correto' não aparece acima
+porque estava sem sense. Mas além dela aparecer, o sense do verbo
+'ser' melhorou, agora é o correto sense na minha opinião para o
+contexto:
+
+#+BEGIN_EXAMPLE
+base base NCFS000 1 04360501-n
+relatado relatar VMP00SM 0.992512 00965035-v
+acima acima RG 0.983871 00080169-r
+é ser VMIP3S0 1 02604760-v
+correto correto AQ0MS00 0.960748 00764484-a
+afirmar afirmar VMN0000 0.331148 01011031-v
+#+END_EXAMPLE
+
+Também 'celebrar' e 'cabendo' mudaram de sense, Talvez não os
+perfeitos mas certamente mais adequados. 
+
+#+BEGIN_EXAMPLE
+  De: celebrou celebrar VMIS3S0 1 02578510-v
+Para: celebrou celebrar VMIS3S0 1 02490877-v
+
+  De: cabendo caber VMG0000 1 00050652-v
+Para: cabendo caber VMG0000 1 02735753-v
+#+END_EXAMPLE
+
+Nota: quando mudei o dicionário, fui obrigado a recompilar e
+reinstalar o freeling (vide INSTALL, 3-4 comandos) para ele gerar um
+novo /usr/local/share/freeling/pt/dicc.src. Com isso mudou o
+freeling/config/pt.cfg em relação ao que usei na primeira
+rodada. Algumas alterações em datas são resultado disso, só ignorar.
+
+* Colateral
+
+Aparentemente, as mudanças no dicionário também influenciaram o POS
+tagger do Freeling, controle passou a ser corretamente
+lematizado. Bem, isto não tem haver com a OWN mas é relevante claro:
+
+#+BEGIN_EXAMPLE
+$ grep controle 2011-03.txt.conll
+controle controlo NCMS000 0.969804 -
+controle controlo NCMS000 0.969804 -
+controle controlo NCMS000 0.969804 -
+controle controlo NCMS000 0.969804 -
+urca:own arademaker$ grep controle 2011-03.txt.conll.1
+controle controle NCMS000 0.492285 04882968-n:0.00116282
+controle controle NCMS000 0.492285 04882968-n:0.0017715
+controle controle NCMS000 0.492285 04882968-n:0.00143457
+controle controle NCMS000 0.492285 04882968-n:0.00189112
+#+END_EXAMPLE
+
+
+
+* Os arquivos alterados do Freeling 
+
+#+BEGIN_EXAMPLE
+$ git st
+ M data/common/xwn.dat
+ M data/pt/dictionary/entries/adjs
+ M data/pt/senses30.src
+#+END_EXAMPLE
+
+E detalhes das alterações
+
+#+BEGIN_EXAMPLE
+diff --git a/data/common/xwn.dat b/data/common/xwn.dat
+index 3b1a870..bdd7c28 100644
+--- a/data/common/xwn.dat
++++ b/data/common/xwn.dat
+@@ -1,3 +1,7 @@
++88888888-a 02335828-a
++02335828-a 88888888-a
++99999999-n 08008335-n
++08008335-n 99999999-n
+ 00001740-a 00002098-a
+ 00001740-a 00084353-a
+ 00001740-a 00160288-a
+diff --git a/data/pt/dictionary/entries/adjs b/data/pt/dictionary/entries/adjs
+index eaa5e42..093f72a 100644
+--- a/data/pt/dictionary/entries/adjs
++++ b/data/pt/dictionary/entries/adjs
+@@ -28445,6 +28445,8 @@ correspondido correspondido AQ0MS00
+ correspondidos correspondido AQ0MP00
+ corresponsáveis corresponsável AQ0CP00
+ corresponsável corresponsável AQ0CS00
++correta correto AQ0FS00
++correto correto AQ0MS00
+ corrida corrido AQ0FS00
+ corridas corrido AQ0FP00
+ corrido corrido AQ0MS00
+diff --git a/data/pt/senses30.src b/data/pt/senses30.src
+index 220a2ab..361a23b 100644
+--- a/data/pt/senses30.src
++++ b/data/pt/senses30.src
+@@ -1,3 +1,5 @@
++88888888-a hipossuficiente
++99999999-n ordem oab ordem_dos_advogados
+ 00001740-a capaz
+ 00001740-n ser entidade ente
+ 00001740-r a_capela
+@@ -1129,7 +1131,7 @@
+ 00122273-r anticonstitucionalmente
+ 00122386-a preexistente
+ 00122427-r democraticamente
+-00122626-a posterior ulterior subseqüente subsequente
++00122626-a posterior ulterior subseqüente subsequente superveniente
+ 00122661-n tiro pontaria
+ 00122816-r à_parte
+ 00122844-a anexado concomitante decorrente conseqüente resultante
+@@ -1138,7 +1140,7 @@
+ 00123170-v variar mudar modificar alterar
+ 00123229-r economicamente
+ 00123365-r economicamente
+-00123485-a posterior ulterior
++00123485-a posterior ulterior superveniente
+ 00123500-r economicamente
+ 00123582-r eletronicamente
+ 00123695-r etnicamente de_forma_étnica
+@@ -47543,3 +47545,4 @@
+ 15298283-n grande_cisma_do_oriente grande_cisma_do_oriente
+ 15299367-n transfiguração 6_de_agosto
+ 15300051-n 11_de_setembro
++00063089-r mediante
+#+END_EXAMPLE
+
+* Próximos passos?
+
+Ainda olhando palavras mais frequentes sem sense, as próximas
+candidatas seriam as marcadas com setas.
+
+#+BEGIN_EXAMPLE
+  38 perante   <-
+  36 quanto
+  36 caso      <-
+  35 nulidade  <- 
+  35 isso
+  35 honorário <-
+#+END_EXAMPLE
+
+Para cada uma, a primeira pergunta é se ja existe um synset para elas,
+se sim, basta editar o senses30.src no freeling/pt. Se não existir,
+tem que criar o synset neste mesmo arquivo e também editar o xwn.dat
+adicionado pelo menos uma relação deste novo synset com
+outro. Idealmente, este trabalho todo precisa ser refinado, quanto
+mais relações melhor a conexão do synset e maior sua influência no
+WSD.
