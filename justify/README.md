@@ -26,9 +26,9 @@ year-edition	question_number	article_number	justification_URN	comments
 
 - `comments`: any string without tabs (`\t`).
 
-# fundamento-respostas.docx
+# fundamento-respostas.tex
 
-contains the original justifications for 23 questions from the ethics
+contains the original justifications for 30 questions from the ethics
 section of the OAB exam.
 
 # relatorio-wn-oabexams.docx
