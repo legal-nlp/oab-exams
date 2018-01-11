@@ -1,0 +1,239 @@
+---
+- exam: 2013-10
+  question: 1
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 34
+  subsection: VIII
+  comment:
+
+-
+  exam: 2013-10
+  question: 2
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
+  article: 2
+  subsection: sole-paragraph
+  comment:
+
+-
+  exam: 2013-10
+  question: 3
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
+  article: 16
+  subsection: caput
+  comment:
+
+-
+  exam: 2013-10
+  question: 4
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 22
+  subsection: third-paragraph
+  comment:
+
+-
+  exam: 2013-10
+  question: 5
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 7
+  subsection: XIII
+  comment:
+
+-
+  exam: 2013-11
+  question: 1
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
+  article: 5
+  subsection: caput
+  comment:
+
+-
+  exam: 2013-11
+  question: 7
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 2
+  subsection:  VIII-e
+  comment: a resposta dessa questão não está apenas no subsection (inciso) VIII e sim na alínea "e"
+
+-
+  exam: 2013-11
+  question: 9
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 7
+  subsection: XVI
+  comment: o artigo 7 da lei 8906 é gigante, a resposta está apenas no inciso XVI
+
+-
+  exam: 2013-12
+  question: 1
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 11
+  subsection: caput
+  comment: a resposta dessa questão é bem direta no caput do artigo 11
+
+-
+  exam: 2014-13
+  question: 1
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 24
+  subsection: first-paragraph
+  comment:
+
+-
+  exam: 2014-14
+  question: 2
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 27
+  subsection: sole-paragraph
+  comment:
+
+-
+  exam: 2014-15
+  question: 4
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 43
+  subsection: caput
+  comment: essa me parece uma boa questão para text-entailment
+
+-
+  exam: 2015-16
+  question: 1
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 3
+  subsection: caput
+  comment:
+
+-
+  exam: 2015-17
+  question: 2
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 1
+  subsection: second-paragraph
+  comment:
+
+-
+  exam: 2015-18
+  question: 1
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 14
+  subsection: caput
+  comment: o fundamento dessa questão não é uma lei e sim uma norma infra-legal, o código de ética
+
+-
+  exam: 2015-18
+  question: 2
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 7
+  subsection: II sixth-paragraph
+  comment:
+
+-
+  exam: 2015-18
+  question: 3
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 7 34
+  subsection: 7-first-paragraph-3 34-II
+  comment: a justificativa, na parte do artigo 7, envolve o parágrafo primeiro, "tópico" 3
+
+-
+  exam: 2015-18
+  question: 4
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 9 28
+  subsection: 9-third-paragraph 28-IV
+  comment:
+
+-
+  exam: 2015-18
+  question: 5
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 11
+  subsection: caput
+  comment:
+
+-
+  exam: 2015-18
+  question: 6
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
+  article: 51
+  subsection: caput
+  comment:
+
+-
+  exam: 2015-18
+  question: 7
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 15
+  subsection: fourth-paragraph
+  comment:
+
+-
+  exam: 2015-18
+  question: 8
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 17
+  subsection: caput
+  comment:
+
+-
+  exam: 2016-19
+  question: 1
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 31
+  subsection: second-paragraph
+  comment:
+
+-
+  exam: 2016-19
+  question: 2
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 7
+  subsection: XIV tenth-paragraph
+  comment: essa questão tem como fundamento duas partes do art 7, o parágrafo décimo cita o inciso XIV
+
+-
+  exam: 2016-19
+  question: 3
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 50
+  subsection: caput
+  comment: depende da jurisprudência
+
+-
+  exam: 2016-19
+  question: 4
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 28
+  subsection: I V VIII
+  comment: o enunciado menciona 3 pessoas, cada inciso acima do art 28 é sobre o caso de uma pessoa
+
+-
+  exam: 2016-19
+  question: 5
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 26 24
+  subsection: 26-caput and 24-first-paragraph
+  comment:
+
+-
+  exam: 2016-19
+  question: 6
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 10
+  subsection: second-paragraph
+  comment:
+
+-
+  exam: 2016-19
+  question: 7
+  urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
+  article: 131-A
+  subsection: caput third-paragraph
+  comment:
+
+-
+  exam: 2016-20
+  question: 6
+  urn: urn:lex:br:federal:lei:1994-07-04;8906
+  article: 66
+  subsection: sole-paragraph
+  comment:
