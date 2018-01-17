@@ -1,0 +1,480 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{hyperref}
+
+\usepackage{listings}
+
+
+
+
+\title{Como classificar questões}
+
+\date{Janeiro 2018}
+
+\begin{document}
+
+\maketitle
+
+\section*{Apresentação}
+
+A ideia desse documento é explicitar o tipo de raciocínio que foi usado durante a classificação manual das questões do \href{https://github.com/own-pt/oab-exams/tree/master/official/raw}{repositório}. Esse documento será usado como insumo para a construção de um algoritmo de \textit{Machine Learning}, o que tornaria a classificação das questões semi-automática, precisando apenas de uma supervisão.
+
+No momento, o repositório conta com 15 exames que foram totalmente classificados por áreas. Atualmente, para ter os dados todos classificados, faltam 10 exames. Mais significativo do que isso, esse é um trabalho constante, a cada novo exame, as questões precisarão ser classificadas, por isso, é importante automatizar, ao menos parte, do processo.
+
+Observações sobre a classificação estão no  \href{https://github.com/own-pt/oab-exams/blob/master/official/raw/README.org}{ README} desse diretório.
+
+\section*{Tipos}
+
+É possível modelar casos típicos de classificação.
+
+\subsection*{A) O enunciado dá a resposta}
+
+Esse é o melhor tipo de questão. O próprio enunciado define com base em qual legislação a questão deve ser respondida. Sabendo a legislação, necessariamente a área está definida. Um exemplo disso é:
+
+\begin{verbatim}
+
+ENUM Questão 1 
+
+AREA ETHICS
+
+Alexandre, advogado que exerce a profissão há muitos anos, é 
+conhecido por suas atitudes corajosas, sendo respeitado pelos 
+seus clientes e pelas autoridades com quem se relaciona por 
+questões profissionais. Comentando sua atuação profissional, 
+ele foi inquirido, por um dos seus filhos, se não deveria 
+recusar a defesa de um indivíduo considerado impopular, bem 
+como se não deveria ser mais obediente às autoridades, 
+diante da possibilidade de retaliação. 
+ 
+Sobre o caso apresentado, observadas as regras do Estatuto 
+da OAB, assinale a opção correta indicada ao filho do 
+advogado citado. 
+ 
+OPTIONS
+
+A) O advogado Alexandre deve recusar a defesa de cliente 
+cuja atividade seja impopular. 
+
+B) O temor à autoridade pode levar à negativa de prestação 
+do serviço advocatício por Alexandre. 
+
+C) As causas impopulares aceitas por Alexandre devem vir 
+sempre acompanhadas de apoio da Seccional da OAB. 
+
+D:CORRECT) Nenhum receio de desagradar uma autoridade deterá o 
+advogado Alexandre.
+\end{verbatim}
+
+Veja que o enunciado acima dá a resposta com \textit{observadas as regras do Estatuto da OAB}.
+
+Em outros casos, a menção à norma aplicável é mais sútil. Um bom exemplo disso é:
+
+\begin{verbatim}
+
+---
+ENUM Questão 13 
+
+AREA CONSTITUTIONAL
+
+A Constituição declara que todos podem reunir-se em local 
+aberto ao público. Algumas condições para que as reuniões se 
+realizem são apresentadas nas alternativas a seguir, à exceção 
+de uma. Assinale-a. 
+
+OPTIONS
+
+A) Os participantes não portem armas. 
+
+B:CORRECT) A reunião seja autorizada pela autoridade competente. 
+
+C) A reunião não frustre outra reunião anteriormente 
+convocada para o mesmo local. 
+
+D) Os participantes reúnam-se pacificamente. 
+
+
+\end{verbatim}
+
+Perceba que a Constituição é citada e isso contextualiza o que está sendo perguntado. Mais sútil do que dizer \textit{com base na norma X}.
+
+
+\subsection*{B) Mapa de conceitos}
+
+Ao longo do curso de Direito, os alunos são apresentados a vários conceitos. Esses conceitos, normalmente, estão inseridos em uma área. As vezes, um mesmo conceito pertence a duas áreas. Na hora da classificação manual, muitas vezes, se aparecia determinado conceito, isso era suficiente para definir a classificação da questão.
+
+Um exemplo em Direito Empresarial é o conceito de  \textbf{recuperação judicial}, muito frequente nas provas da OAB. Veja a questão abaixo:
+
+\begin{verbatim}
+
+---
+ENUM Questão 49 
+  
+AREA BUSINESS
+
+Com relação às atribuições do Comitê de Credores, quando 
+constituído no âmbito da recuperação judicial, assinale a 
+afirmativa correta. 
+ 
+OPTIONS
+
+A:CORRECT) Fiscalizar a execução do plano de recuperação judicial. 
+
+B) Fornecer, com presteza, todas as informações exigidas 
+pelos credores interessados. 
+
+C) Consolidar o quadro geral de credores e providenciar sua 
+publicação. 
+
+D) Apresentar ao juiz, para juntada aos autos, relatório 
+mensal das atividades do devedor. 
+
+\end{verbatim}
+
+Existe uma lei que disciplina a recuperação judicial (uma alternativa ao processo de falência), lei 11.101 de 2005. A lei não foi citada, mas o conceito foi e esse conceito é sacramentado como parte da área de Direito Empresarial.
+
+Um outro é exemplo é Direito Tributário, é comum que determinado tributo seja citado no enunciado. Isso significa, praticamente, uma classificação automática da área como TAXES.
+
+\begin{verbatim}
+
+---
+ENUM Questão 25 
+
+AREA TAXES
+ 
+Três irmãos são donos de um imóvel, em proporções iguais. 
+Em relação ao IPTU, cada irmão 
+ 
+OPTIONS
+
+A) só pode ser cobrado pelo fisco na razão de 33,33% do 
+imposto. 
+
+B:CORRECT) é devedor solidário em relação ao todo do imposto. 
+
+C) é devedor na razão de 33,3% do imposto e responsável 
+subsidiário pelo restante. 
+
+D) não pode ser cobrado judicialmente pela parte de outro 
+irmão que tenha recursos para pagá-la. 
+
+\end{verbatim}
+
+\subsection*{C) Nome de autores}
+
+A abordagem é um pouco semelhante com o mapa de conceitos. Muitas vezes, se determinado nome de um autor aparece é porque com certeza determinada área está sendo citada. Isso é muito forte nas questões de Filosofia, que foram introduzidas no exame recentemente, no ano de 2012.
+
+Essa questão, por exemplo, cita o filósofo Kant. É muito improvável que esse autor seja citado em qualquer outra área. Pode acontecer, talvez, um gancho com Direito Constitucional, com Direitos Humanos, com Direito Internacional e, talvez, até Direito Penal. Mas é muito improvável considerando o histórico da prova. Normalmente, são poucas questões de filosofia, tradicionalmente, são duas de 80.
+
+\begin{verbatim}
+ENUM Questão 12  
+ 
+AREA PHILOSOPHY
+
+“Manter os próprios compromissos não constitui dever de 
+virtude, mas dever de direito, a cujo cumprimento pode-se ser 
+forçado. Mas prossegue sendo uma ação virtuosa (uma 
+demonstração de virtude) fazê-lo mesmo quando nenhuma 
+coerção possa ser aplicada. A doutrina do direito e a doutrina 
+da virtude não são, consequentemente, distinguidas tanto por 
+seus diferentes deveres, como pela diferença em sua 
+legislação, a qual relaciona um motivo ou outro com a lei”. 
+ 
+Pelo trecho acima podemos inferir que Kant estabelece uma 
+relação entre o direito e a moral. A esse respeito, assinale a 
+afirmativa correta.  
+ 
+OPTIONS
+
+A) O direito e a moral são idênticos, tanto na forma como no 
+conteúdo prescritivo. Assim, toda ação contrária à 
+moralidade das normas jurídicas é também uma violação 
+da ordem jurídica. 
+
+B:CORRECT) A conduta moral refere-se à vontade interna do sujeito, 
+enquanto o direito é imposto por uma ação exterior e se 
+concretiza no seu cumprimento, ainda que as razões da 
+obediência do sujeito não sejam morais. 
+
+C) A coerção, tanto no direito quanto na moral, é um 
+elemento determinante. É na possibilidade de impor-se 
+pela força, independentemente da vontade, que o direito e 
+a moral regulam a liberdade. 
+
+D) Direito e moral são absolutamente distintos. 
+Consequentemente, cumprir a lei, ainda que 
+espontaneamente, não é demonstração de virtude moral. 
+
+\end{verbatim}
+
+No entanto, nem sempre um autor é citado numa questão de filosofia. Talvez isso torne questões dessa área uma das mais difíceis! Talvez tratar como algo residual, como "else", se não for nenhuma outra aŕea, bem provável que seja filosofia.
+
+\begin{verbatim}
+---
+ENUM Questão 12  
+  
+AREA PHILOSOPHY
+ 
+Boa parte da doutrina jusfilosófica contemporânea associa a 
+ideia de Direito ao conceito de razão prática ou sabedoria 
+prática.  
+ 
+Assinale a alternativa que apresenta o conceito correto de 
+razão prática. 
+ 
+OPTIONS
+
+A) Uma forma de conhecimento científico (episteme) capaz 
+de distinguir entre o verdadeiro e o falso. 
+
+B) Uma técnica (techne) capaz de produzir resultados 
+universalmente corretos e desejados. 
+
+C) A manifestação de uma opinião (doxa) qualificada ou 
+ponto de vista específico de um agente diante de um tema 
+específico. 
+
+D:CORRECT) A capacidade de bem deliberar (phronesis) a respeito de 
+bens ou questões humanas. 
+\end{verbatim}
+
+
+\subsection*{D) Número da questão na prova}
+
+É um pouco vergonhoso admitir isso, no entanto, é uma verdade que precisa ser dita: o número da questão ajuda muito na classificação. 
+
+Tradicionalmente, a prova tem um padrão na ordem em que as questões são apresentadas. Por exemplo, nos últimos exames, a área de ética, normalmente, é a primeira e a de Direito Processual Trabalhista, a última. Isso não ocorre apenas para a primeira e última, mas por toda a prova!
+
+Veja a questão abaixo. Ela trata sobre desapropriação no contexto de  reforma agrária. Esse é um assunto discutido em Direito Civil, Direito Administrativo e Direito Constitucional.
+
+Por que a classificação é constitucional?
+
+Na hora da classificação, definitivamente, foi levado em conta que a questão anterior era sobre constitucional e a que seguinte também era sobre constiucional. Além disso, a questão era de número 14 e, tradicionalmente, as questões de 13 a 20 são de Constitucional.
+
+Mais do que isso, tecnicamente, o artigo 184 da Constituição em seu \textit{caput} e no seu parágrafo primeiro respondem a questão:
+
+\begin{verbatim}
+Art. 184. Compete à União desapropriar por
+interesse social, para fins de reforma agrária, o
+imóvel rural que não esteja cumprindo sua função
+social, mediante prévia e justa indenização em
+títulos da dívida agrária, com cláusula de
+preservação do valor real, resgatáveis no prazo
+de até vinte anos, a partir do segundo ano de sua
+emissão, e cuja utilização será definida em
+lei.
+§ 1º As benfeitorias úteis e necessárias serão
+indenizadas em dinheiro.
+\end{verbatim}
+
+
+\begin{verbatim}
+ENUM Questão 14 
+  
+AREA CONSTITUTIONAL
+  
+Assinale a alternativa que completa corretamente o 
+fragmento a seguir. 
+
+A desapropriação para fins de reforma agrária ocorre 
+mediante prévia e justa indenização  
+
+OPTIONS 
+
+A) em dinheiro, incluindo-se as benfeitorias úteis e 
+necessárias. 
+
+B) em dinheiro, mas as benfeitorias não são passíveis de 
+indenização. 
+
+C) em títulos da dívida agrária, incluindo-se as benfeitorias 
+úteis e necessárias. 
+
+D:CORRECT) em títulos da dívida agrária, mas as benfeitorias úteis e 
+necessárias serão indenizadas em dinheiro
+\end{verbatim}
+
+
+
+\subsection*{E) Instituições citadas}
+
+Esse tipo de questão é semelhante ao tipo B. Diferentemente do nome do autor ser um referencial para a classificação da área, a menção a determinada instituição é suficiente para a classificação quase automática. No exemplo abaixo, o Tribunal Superior do Trabalho (TST) é citado:
+
+\begin{verbatim}
+---
+ENUM Questão 70 
+     
+AREA LABOUR
+ 
+Rodrigo foi admitido pela empresa Dona Confecções, a título 
+de experiência, por 45 dias. No 35º dia após a admissão, 
+Rodrigo foi vítima de um acidente do trabalho de média 
+proporção, que o obrigou ao afastamento por 18 dias. De 
+acordo com o entendimento do TST: 
+ 
+OPTIONS
+
+A:CORRECT) Rodrigo não poderá ser dispensado pois, em razão do 
+acidente do trabalho, possui garantia no emprego, mesmo 
+no caso de contrato a termo.  
+
+B) O contrato poderá ser rompido porque foi realizado por 
+prazo determinado, de forma que nenhum fator, por mais 
+relevante que seja, poderá elastecê-lo. 
+
+C) Rodrigo poderá ser desligado porque a natureza jurídica da 
+ruptura não será resilição unilateral, mas caducidade 
+contratual, que é outra modalidade de rompimento. 
+
+D) Rodrigo não pode ter o contrato rompido no termo final, 
+pois em razão do acidente do trabalho sofrido, terá 
+garantia no emprego até 5 meses após o retorno, 
+conforme Lei previdenciária. 
+\end{verbatim}
+
+\section*{\textit{Hard Cases}}
+
+Algumas questões são casos difíceis e servem como contra-exemplos ou exceções para a modelagem feito acima. 
+
+
+\subsection*{\textit{Hard Case} \#1}
+
+Em alguns casos, será preciso fazer um "combo" das estratégias de classificação citadas acima. Uma boa questão para ilustrar isso é:
+
+\begin{verbatim}
+
+---
+ENUM Questão 30  
+
+AREA ADMINISTRATIVE
+
+Paulo é servidor concursado da Câmara de Vereadores do 
+município Beta há mais de quinze anos. Durante esse tempo, 
+Paulo concluiu cursos de aperfeiçoamento profissional, 
+graduou-se no curso de economia, exerceu cargos em 
+comissão e foi promovido por merecimento. Todos esses 
+fatores contribuíram para majorar sua remuneração. 
+ 
+Considerando a disciplina constitucional a respeito dos 
+servidores públicos, assinale a afirmativa correta. 
+ 
+OPTIONS
+
+A:CORRECT) O teto remuneratório aplicável a Paulo, servidor público 
+municipal, corresponde ao subsídio do prefeito do 
+município Beta. 
+
+B) O teto remuneratório aplicável a Paulo, servidor público 
+municipal, corresponde ao subsídio pago aos vereadores 
+de Beta. 
+
+C) Os acréscimos de caráter remuneratório, pagos a Paulo, 
+como a gratificação por tempo de serviço e a gratificação 
+adicional de qualificação profissional, não se submetem ao 
+teto remuneratório. 
+
+D) O teto remuneratório aplicável a Paulo não está sujeito a 
+qualquer limitação, tendo em vista a necessidade de 
+edição de lei complementar para a instituição do teto 
+previsto na CRFB/88. 
+\end{verbatim}
+
+A resposta dessa questão está na Constituição, no artigo 37, inciso XI:
+
+
+\begin{verbatim}
+a remuneração e o subsídio dos ocupantes de
+cargos, funções e empregos públicos da
+administração direta, autárquica e fundacional,
+dos membros de qualquer dos Poderes da União, dos
+Estados, do Distrito Federal e dos Municípios, dos
+detentores de mandato eletivo e dos demais
+agentes políticos e os proventos, pensões ou
+outra espécie remuneratória, percebidos
+cumulativamente ou não, incluídas as vantagens 
+pessoais ou de qualquer outra natureza, não 
+poderão exceder o subsídio mensal, em espécie, 
+dos Ministros do Supremo Tribunal Federal, 
+aplicando-se como limite, nos Municípios, o 
+subsídio do Prefeito (…)
+\end{verbatim} 
+
+No entanto, a classificação dessa questão, imho, é de Direito Administrativo. Por quê?
+
+Basicamente, porque esse artigo da Constituição, o 37, é um dos grandes pilares do Direito Administrativo brasileiro. Essas duas áreas, Direito Administrativo e Direito Constitucional tem grande sinergia e forte interseção. Muitas vezes, o Direito Administrativo é responsável por detalhar e especificar diretrizes passadas no texto Constitucional.
+
+Além disso, a numeração da questão também interfere. Ela está fora do bloco de questões constitucionais. Essa é a questão 30 do XX Exame Unificado (2016).
+
+A questão anterior, questão 29, é claramente de Direito Administrativo, pois trata de serviços públicos, impugnação de edital e concessões:
+
+\begin{verbatim}
+ENUM Questão 29 
+ 
+Determinada empresa apresenta impugnação ao edital de 
+concessão do serviço público metroviário em determinado 
+Estado, sob a alegação de que a estipulação do retorno ao 
+poder concedente de todos os bens reversíveis já 
+amortizados, quando do advento do termo final do contrato, 
+ensejaria enriquecimento sem causa do Estado. 
+ 
+Assinale a opção que indica o princípio que justifica tal 
+previsão editalícia. 
+ 
+OPTIONS
+
+A) Desconcentração. 
+
+B) Imperatividade. 
+
+C:CORRECT) Continuidade dos Serviços Públicos. 
+
+D) Subsidiariedade. 
+\end{verbatim} 
+
+A questão seguinte à questão 30, é a de número 31, e também é de Direito Administrativo, pois trata de improbidade administrativa, tema clássico de administrativo:
+
+\begin{verbatim}
+---
+ENUM Questão 31 
+ 
+O diretor-presidente de uma construtora foi procurado pelo 
+gerente de licitações de uma empresa pública federal, que 
+propôs a contratação direta de sua empresa, com dispensa de 
+licitação, mediante o pagamento de uma “contribuição” de 2% 
+(dois por cento) do valor do contrato, a ser depositado em 
+uma conta no exterior. Contudo, após consumado o acerto, foi 
+ele descoberto e publicado em revista de grande circulação. 
+ 
+A respeito do caso descrito, assinale a afirmativa correta. 
+
+OPTIONS
+
+A) Somente o gerente de licitações da empresa pública, 
+agente público, está sujeito a eventual ação de 
+improbidade administrativa. 
+
+B) Nem o diretor-presidente da construtora e nem o gerente 
+de licitações da empresa pública, que não são agentes 
+públicos, estão sujeitos a eventual ação de improbidade 
+administrativa. 
+
+C) O diretor-presidente da construtora, beneficiário do 
+esquema, está sujeito a eventual ação de improbidade, 
+mas o gerente da empresa pública, por não ser servidor 
+público, não está sujeito a tal ação. 
+
+D:CORRECT) O diretor-presidente da construtora e o gerente de 
+licitações da empresa pública estão sujeitos a eventual 
+ação de improbidade administrativa. 
+\end{verbatim}
+
+Portanto, pesou para a classificação de Direito Administrativo o contexto na prova e saber da forte interseção de Direito Administrativo e Constitucional. Como segunda opinião, veja esse blog muitíssimo conhecido no mundo dos preparatórios para a \href{https://www.estrategiaconcursos.com.br/blog/comentarios-administrativo-oab/}{oab}.
+
+Essa questão foi analisada por um professor de Direito Administrativo e a página em que a análise está inserida é chamada de \textbf{Comentários à Prova do XX Exame de Ordem – Direito Administrativo}. A classificação desses especialistas corrobora a que foi apresentada aqui.
+
+\subsection*{\textit{Hard Case} \#2}
+
+[to be continued]
+
+\end{document}
