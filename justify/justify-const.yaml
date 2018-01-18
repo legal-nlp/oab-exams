@@ -1,7 +1,7 @@
 - exam: 2010-01
   question: 13
   urn: urn:lex:br:federal:lei:1999-11-10;9868
-  article: art12_cpt
+  justification: art12_cpt
   comment: |
     Essa questão tem dois pontos curiosos. Primeiro, apesar de ser de
     constitucional, a resposta não está na constituição, está na lei
@@ -12,7 +12,7 @@
 - exam: 2010-01
   question: 14
   urn: urn:lex:br:supremo.tribunal.federal;turma.2:acordao;re:2007-11-06;243157-3617899
-  article:
+  justification:
     ementa: |
       Necessidade de autorização judicial ou decisão de Comissão
       Parlamentar de Inquérito, ambas devidamente fundamentadas.
@@ -25,7 +25,7 @@
 - exam: 2010-01
   question: 16
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art54_cpt_inc1_ali2
+  justification: art54_cpt_inc1_ali2
   comment: |
     Observe a redação do Artigo 54 da Constituição "Os Deputados e
     Senadores não poderão: I - desde a expedição do diploma: a) firmar
@@ -41,7 +41,7 @@
 - exam: 2010-02
   question: 1
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art57_par4_inc4
+  justification: art57_par4_inc4
   comment: |
     A resposta está na subsection da subsection, no inciso IV do
     parágrafo quarto.
@@ -49,7 +49,7 @@
 - exam: 2011-03
   question: 21
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art5_cpt_inc70
+  justification: art5_cpt_inc70
   comment: |
     artigo 5 é gigante, ele tem 68 incisos! A resposta está no inciso
     70, definição de mandado coletivo.
@@ -57,7 +57,7 @@
 - exam: 2011-04
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art5_par3
+  justification: art5_par3
   comment: |
     O aluno precisava perceber que "Convenção Internacional sobre os
     Direitos das Pessoas com Deficiência" entra dentro de "tratados e
@@ -67,7 +67,7 @@
 - exam: 2011-05
   question: 18
   urn: urn:lex:br:federal:lei:2006-12-19;11417
-  article: art3_cpt_inc10
+  justification: art3_cpt_inc10
   comment: |
     A questão é sobre cancelamento de súmula vinculante e envolve a
     lei 11417 de 2006. A súmula vinculante é um instituto do direito
@@ -78,7 +78,7 @@
 - exam: 2012-06
   question: 17
   urn:
-  article:
+  justification:
   comment: |
     Essa questão é bem interessante. Ela pergunta algo que não existe
     consenso entre os teóricos.  O gabarito assume a visão
@@ -98,19 +98,19 @@
 - exam: 2012-06a
   question: 16
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art103_par3
+  justification: art103_par3
   comment: O texto da lei "chapa" bem com o que foi perguntado.
 
 - exam: 2012-07
   question: 20
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art12_par3_inc5
+  justification: art12_par3_inc5
   comment: O texto da lei "chapa" bem com o que foi perguntado.
 
 - exam: 2012-08
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: 
+  justification: 
     - art95_cpt_inc2 
     - art98_cpt_inc8
   comment:  |
@@ -120,7 +120,7 @@
 - exam: 2012-9
   question: 14
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art22_cpt_inc2
+  justification: art22_cpt_inc2
   comment: |
     A questão pede pro candidato falar sobre a legislação envolvendo
     desapropriação.  Todas as alternativas, por sua vez, fazem
@@ -132,19 +132,19 @@
 - exam: 2013-10
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art60_par1
+  justification: art60_par1
   comment: o texto da lei "chapa" bem com a pergunta
 
 - exam: 2013-11
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art210_par2
+  justification: art210_par2
   comment: a alternativa é basicamente a redação do artigo
 
 - exam: 2013-12
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art5_cpt_inc16
+  justification: art5_cpt_inc16
   comment: |
     Essa questão usa negativa, tem que escolher a errada, todas as
     outras certas.  A alternativa diz que precisa de autorização de
@@ -154,19 +154,19 @@
 - exam: 2014-13
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art18_par4
+  justification: art18_par4
   comment: No parágrafo quarto aparecem os dois requisitos citados na alternativa.
 
 - exam: 2014-13
   question: 17
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art84_par1u 
+  justification: art84_par1u 
   comment: O parágrafo único faz menção a vários incisos, respondendo a questão.
 
 - exam: 2014-14
   question: 14
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art34_cpt_inc6
+  justification: art34_cpt_inc6
   comment: |
     O Estado estava descumprindo lei federal 8666. Cabe intervenção da União
     para fazer o Estado cumpir.  Detalhe que o comando do caput do artigo 34
@@ -175,7 +175,7 @@
 - exam: 2014-15
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article:
+  justification:
     - art55_cpt_inc3
     - art55_par3
   comment: Essa questão está justificada em duas "subsections" do artigo 55.
@@ -183,7 +183,7 @@
 - exam: 2015-16
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art12_par3_inc3
+  justification: art12_par3_inc3
   comment: |
     Essa questão também merece ser destacada. Existem duas formas de ser cidadão
     brasileiro: brasileiro nato ou naturalizado.  O artigo 12 da CRFB/88 diz
@@ -196,7 +196,7 @@
 - exam: 2015-17
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art60_par4
+  justification: art60_par4
   comment: |
     A justificativa dessa questão não está totalmente na lei. A lei não usa o
     termo "constituinte derivado reformador". Além disso, a própria constituição
@@ -206,7 +206,7 @@
 - exam: 2015-18
   question: 14
   urn:
-  article:
+  justification:
   comment: |
     A justificativa dessa questão está na doutrina (teoria constitucional).  Não
     pode ser encontrada diretamente em nenhum artigo da constituição.
@@ -214,7 +214,7 @@
 - exam: 2015-18
   question: 15
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art81_par1
+  justification: art81_par1
   comment: |
     Art. 81. Vagando os cargos de Presidente e Vice-Presidente da República,
     far-se-á eleição noventa dias depois de aberta a  última vaga.  § 1º
@@ -225,7 +225,7 @@
 - exam: 2016-19
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: 
+  justification: 
     - art14_par3_inc4
     - art14_par3_inc6_ali1 
     - art14_par3_inc6_ali2 
@@ -242,7 +242,7 @@
 - exam: 2016-20
   question: 14
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article:
+  justification:
     - art73_par1_inc1
     - art75_cpt
   comment: |
@@ -257,13 +257,13 @@
 - exam: 2016-20a
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art66_par4
+  justification: art66_par4
   comment: Nessa questão a alternativa correta é bem semelhante à redação normativa.
 
 - exam: 2016-21
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art194_cpt
+  justification: art194_cpt
   comment: |
     Essa questão cobra basicamente a definição constitucional de seguridade
     social. O caput define.
@@ -271,7 +271,7 @@
 - exam: 2017-22
   question: 16
   urn: urn:lex:br:supremo.tribunal.federal:sumula:2003-09-24;683
-  article:
+  justification:
   comment: |
     A resposta dessa questão está na súmula vinculante 683 do STF. A
     constituição define que não pode ocorrer discriminação no concurso público
@@ -282,13 +282,13 @@
 - exam: 2017-23
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art210_par1
+  justification: art210_par1
   comment: Nessa questão a alternativa correta é bem semelhante à redação normativa.
 
 - exam: 2017-24
   question: 13
   urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  article: art5_cpt_inc37
+  justification: art5_cpt_inc37
   comment: |
     O artigo 5 é gigante, nele são definidos direitos fundamentais criados
     dentro da matriz de pensamento liberal, como liberdade de expressão,
