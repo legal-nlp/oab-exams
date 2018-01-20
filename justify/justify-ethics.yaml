@@ -1,209 +1,194 @@
 - exam: 2013-10
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 34
-  subsection: VIII
+  justification: art_34_cpt_inc8
   comment:
 
 - exam: 2013-10
   question: 2
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
-  justification: 2
-  subsection: sole-paragraph
+  justification: art2_par1u
   comment:
 
 - exam: 2013-10
   question: 3
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq
-  justification: 16
-  subsection: caput
+  justification: art16_cpt
   comment:
 
 - exam: 2013-10
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 22
-  subsection: third-paragraph
+  justification: art22_par3
   comment:
 
 - exam: 2013-10
   question: 5
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 7
-  subsection: XIII
+  justification: art7_cpt_inc8
   comment:
 
 - exam: 2013-11
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
-  justification: 5
-  subsection: caput
+  justification: art5_cpt
   comment:
 
 - exam: 2013-11
   question: 7
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 2
-  subsection:  VIII-e
+  justification: art2_cpt_inc8_ali5
   comment: a resposta dessa questão não está apenas no subsection (inciso) VIII e sim na alínea "e"
 
 - exam: 2013-11
   question: 9
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 7
-  subsection: XVI
+  justification: art7_cpt_inc16
   comment: o artigo 7 da lei 8906 é gigante, a resposta está apenas no inciso XVI
 
 - exam: 2013-12
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 11
-  subsection: caput
+  justification: art11_cpt
   comment: a resposta dessa questão é bem direta no caput do artigo 11
 
 - exam: 2014-13
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 24
-  subsection: first-paragraph
+  justification: art24_par1
   comment:
 
 - exam: 2014-14
   question: 2
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 27
-  subsection: sole-paragraph
+  justification: art27_par1u
   comment:
 
 - exam: 2014-15
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 43
-  subsection: caput
+  justification: art43_cpt
   comment: essa me parece uma boa questão para text-entailment
 
 - exam: 2015-16
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 3
-  subsection: caput
+  justification: art3_cpt
   comment:
 
 - exam: 2015-17
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 1
-  subsection: second-paragraph
+  justification: art1_par2
   comment:
 
 - exam: 2015-18
   question: 1
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 14
-  subsection: caput
+  justification: art14_cpt
   comment: o fundamento dessa questão não é uma lei e sim uma norma infra-legal, o código de ética
 
 - exam: 2015-18
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 7
-  subsection: II sixth-paragraph
+  justification:
+   - art7_cpt_inc2
+   - art7_par6
   comment:
 
 - exam: 2015-18
   question: 3
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 7 34
-  subsection: 7-first-paragraph-3 34-II
+  justification:
+   - art7_par1 
+   - art34_cpt_inc2
   comment: a justificativa, na parte do artigo 7, envolve o parágrafo primeiro, "tópico" 3
 
 - exam: 2015-18
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 9 28
-  subsection: 9-third-paragraph 28-IV
+  justification:
+   - art9_par3 
+   - art28_cpt_inc4
   comment:
 
 - exam: 2015-18
   question: 5
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 11
-  subsection: caput
+  justification: art11_cpt
   comment:
 
 - exam: 2015-18
   question: 6
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1
-  justification: 51
-  subsection: caput
+  justification: art51_cpt
   comment:
 
 - exam: 2015-18
   question: 7
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 15
-  subsection: fourth-paragraph
+  justification: art15_par4
   comment:
 
 - exam: 2015-18
   question: 8
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 17
-  subsection: caput
+  justification: art17_cpt
   comment:
 
 - exam: 2016-19
   question: 1
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 31
-  subsection: second-paragraph
+  justification: art31_par2
   comment:
 
 - exam: 2016-19
   question: 2
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 7
-  subsection: XIV tenth-paragraph
+  justification: 
+   - art7_par10
+   - art7_cpt_inc14
   comment: essa questão tem como fundamento duas partes do art 7, o parágrafo décimo cita o inciso XIV
 
 - exam: 2016-19
   question: 3
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 50
-  subsection: caput
+  justification: art50_cpt
   comment: depende da jurisprudência
 
 - exam: 2016-19
   question: 4
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 28
-  subsection: I V VIII
+  justification: 
+   - art28_cpt_inc1
+   - art28_cpt_inc5
+   - art28_cpt_inc8
   comment: o enunciado menciona 3 pessoas, cada inciso acima do art 28 é sobre o caso de uma pessoa
 
 - exam: 2016-19
   question: 5
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 26 24
-  subsection: 26-caput and 24-first-paragraph
+  justification: 
+   - art26_cpt 
+   - art24_par1
   comment:
 
 - exam: 2016-19
   question: 6
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 10
-  subsection: second-paragraph
+  justification: art10_par2
   comment:
 
 - exam: 2016-19
   question: 7
   urn: urn:lex:br:ordem.advogados.brasil;conselho.federal:regulamento.geral:1994-10-16;seq-oab-1
-  justification: 131-A
-  subsection: caput third-paragraph
+  justification: 
+   - art131-1_cpt
+   - art131-1_par3
   comment:
 
 - exam: 2016-20
   question: 6
   urn: urn:lex:br:federal:lei:1994-07-04;8906
-  justification: 66
-  subsection: sole-paragraph
+  justification: art66_par1u
   comment:

@@ -12,4 +12,5 @@
 
 + inc8 -> inciso oitavo
 
++ art7-1\_cpt ->  Art. 7º-A (nesse caso, a lei tem um artigo 7, e um artigo 7-A)             
 
