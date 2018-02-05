@@ -2,7 +2,6 @@
 #python3
 
 """ 
-
 O objetivo desse arquivo é tornar mais automático o processo de formatação e
 limpeza dos dados das provas simuladas pela FGV DIREITO RIO. Os arquivos de
 raw/simulated precisam ter o mesmo formato que os arquivos em raw/official.
@@ -10,11 +9,9 @@ Esse processo não é totalmente automático, ainda será necessário ajustar
 manualmente os corner cases que esse script não resolve, como primeiro e último,
 inserir área e corrigir erros pontuais que não possuem um padrão.
 Posteriormente, será feito um outro script apenas para introduzir o gabarito.
-    
 """
-
 # como boa prática vou ler as informações em um arquivo e escrever em outro
-file_object = open("2011-5.txt","r")
+file_object = open("2011-5-original.txt", "r")
 
 # iterar sobre cada linha do arquivo que estou lendo
 for line in file_object:
@@ -35,7 +32,7 @@ for line in file_object:
         line = line.replace("A. ","A) ")
         
         line = "OPTIONS \n" + "\n" + line
-    
+
     if line[:3]=="B. ":
             
         line = line.replace("B. ","B) ")
@@ -55,7 +52,7 @@ for line in file_object:
             
         line = line.replace("D. ","D) ")
         
-        line = line  + "\n" + "---\n" + "ENUM Questão "   
+        line = line  + "\n" + "---\n" + "ENUM Questão \n"  + "\n" + "AREA  "  
  
     print (line)
 
