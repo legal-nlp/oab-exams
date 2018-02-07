@@ -10,8 +10,12 @@ manualmente os corner cases que esse script não resolve, como primeiro e últim
 inserir área e corrigir erros pontuais que não possuem um padrão.
 Posteriormente, será feito um outro script apenas para introduzir o gabarito.
 """
+
+# variável para guardar qual arquivo será alterado, insira, por exemplo, 2012-8.txt
+file_to_clean = input()
+
 # como boa prática vou ler as informações em um arquivo e escrever em outro
-file_object = open("2011-5-original.txt", "r")
+file_object = open(file_to_clean, "r")
 
 # iterar sobre cada linha do arquivo que estou lendo
 for line in file_object:
@@ -32,14 +36,28 @@ for line in file_object:
         line = line.replace("A. ","A) ")
         
         line = "OPTIONS \n" + "\n" + line
-
+    
+    if line[:3]=="(A)":
+            
+        line = line.replace("(A)","A)")
+        
+        line = "OPTIONS \n" + "\n" + line
+    
     if line[:3]=="B. ":
             
         line = line.replace("B. ","B) ")
+    
+    if line[:3]=="(B)":
+            
+        line = line.replace("(B)","B)")
 
     if line[:3]=="C. ":
             
         line = line.replace("C. ","C) ")
+    
+    if line[:3]=="(C)":
+            
+        line = line.replace("(C)","C)")
 
     """
     As alternativas B e C foram arrumadas em relação ao "X) .".  No caso da
@@ -53,13 +71,19 @@ for line in file_object:
         line = line.replace("D. ","D) ")
         
         line = line  + "\n" + "---\n" + "ENUM Questão \n"  + "\n" + "AREA  "  
- 
+     
+    if line[:3]=="(D)":
+            
+        line = line.replace("(D)","D)")
+        
+        line = line  + "\n" + "---\n" + "ENUM Questão \n"  + "\n" + "AREA  "  
+  
     print (line)
 
 """
 para rodar o arquivo eu usei o comando no vim:
 
-:w |! python clean_data_simulated.py >> output_test.txt
+:w |! python clean_data_simulated.py >> clean_semi_formated.txt
 
 como dito anteriormente, leio em um arquivo e escrevo no outro
 """
