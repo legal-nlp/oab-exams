@@ -15,7 +15,10 @@ Posteriormente, será feito um outro script apenas para introduzir o gabarito.
 file_to_clean = input()
 
 # como boa prática vou ler as informações em um arquivo e escrever em outro
-file_object = open(file_to_clean, "r")
+file_object = open(str(file_to_clean), "r")
+
+# criar contador para inserir o número da questão
+question_counter = 1
 
 # iterar sobre cada linha do arquivo que estou lendo
 for line in file_object:
@@ -36,13 +39,17 @@ for line in file_object:
         line = line.replace("A. ","A) ")
         
         line = "OPTIONS \n" + "\n" + line
-    
+        
+        question_counter+=1
+
     if line[:3]=="(A)":
             
         line = line.replace("(A)","A)")
         
         line = "OPTIONS \n" + "\n" + line
-    
+        
+        question_counter+=1
+
     if line[:3]=="B. ":
             
         line = line.replace("B. ","B) ")
@@ -70,13 +77,13 @@ for line in file_object:
             
         line = line.replace("D. ","D) ")
         
-        line = line  + "\n" + "---\n" + "ENUM Questão \n"  + "\n" + "AREA  "  
+        line = line  + "\n" + "---\n" + "ENUM Questão "+ str(question_counter) + "\n"  + "\n" + "AREA  "  
      
     if line[:3]=="(D)":
             
         line = line.replace("(D)","D)")
         
-        line = line  + "\n" + "---\n" + "ENUM Questão \n"  + "\n" + "AREA  "  
+        line = line  + "\n" + "---\n" + "ENUM Questão "+ str(question_counter)+ "\n" + "\n" + "AREA  "  
   
     print (line)
 
