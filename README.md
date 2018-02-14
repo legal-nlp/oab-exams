@@ -5,7 +5,11 @@ OAB Exams are the Brazilian version of the BAR exam (USA).
 
 ## Data
 
-This repository has a corpus with raw text files from the (i) official OAB Exams and (ii) simulation exams provided by FGV DIREITO RIO.
+This repository has a corpus with raw text files from:
+
++ the official OAB Exams made by FGV PROJETOS; and, 
+
++ simulation exams provided by FGV DIREITO RIO.
 
 ## Research published
 
