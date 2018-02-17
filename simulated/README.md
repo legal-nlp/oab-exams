@@ -1,10 +1,13 @@
 
-# Cleaning and annotation of the data on the simulated exam of the Brazilian Bar Exam (OAB) made by FGV DIREITO RIO.
+# Cleaning and annotation of the data on the simulated exam 
 
-In order to make the process of cleaning and formated data more efficient, two
-scritps written in Python were used: clean\_data\_simulated.py and
-insert\_answer\_simulated.py. However, this process is not fully automatic.
-Hence, some manual changes are needed.
+Simularted created by FGV DIREITO RIO.
+
+In order to make the process of cleaning and formated data more
+efficient, two scritps written in Python were used:
+clean\_data\_simulated.py and insert\_answer\_simulated.py. However,
+this process is not fully automatic.  Hence, some manual changes are
+needed.
 
 The steps of the process used is:
 

@@ -1,40 +1,25 @@
 Important observations
 
-- In order to make parsing easier, we defined some markers and 
-  conventions. Take this part of the raw file as an example:
+In order to make parsing easier, we defined some markers and
+conventions. Take this part of the raw file as an example:
 
 #+BEGIN_EXAMPLE
 ---
-ENUM Questão 1 
+ENUM [NULL]? Questão [num] 
 
-AREA ETHICS
+AREA [area]
 
-Alexandre, advogado que exerce a profissão há muitos anos, é 
-conhecido por suas atitudes corajosas, sendo respeitado pelos 
-seus clientes e pelas autoridades com quem se relaciona por 
-questões profissionais. Comentando sua atuação profissional, 
-ele foi inquirido, por um dos seus filhos, se não deveria 
-recusar a defesa de um indivíduo considerado impopular, bem 
-como se não deveria ser mais obediente às autoridades, 
-diante da possibilidade de retaliação. 
- 
-Sobre o caso apresentado, observadas as regras do Estatuto 
-da OAB, assinale a opção correta indicada ao filho do 
-advogado citado. 
+[text]
  
 OPTIONS
 
-A) O advogado Alexandre deve recusar a defesa de cliente 
-cuja atividade seja impopular. 
+A) [text]
 
-B) O temor à autoridade pode levar à negativa de prestação 
-do serviço advocatício por Alexandre. 
+B) [text]
 
-C) As causas impopulares aceitas por Alexandre devem vir 
-sempre acompanhadas de apoio da Seccional da OAB. 
+C) [text]
 
-D:CORRECT) Nenhum receio de desagradar uma autoridade deterá o 
-advogado Alexandre. 
+D:CORRECT) [text]
 #+END_EXAMPLE
 
 - The :CORRECT indicates the correct answer.
@@ -43,15 +28,11 @@ advogado Alexandre.
   the same content, however, the questions are presented in a
   different sequential order. That's specially important when you
   check the answer sheet. For this corpus we only used the white model
-  or the first model of the exam (named in portuguese as "prova branca").
+  or the first model of the exam (named in portuguese as "prova
+  branca").
 
-- The marker bellow was used to indicate that this question
-  was nullified by the organizers:
-
-#+BEGIN_EXAMPLE
----
-ENUM NULL Questão 1 
-#+END_EXAMPLE
+- The marker bellow was used to indicate that this question was
+  nullified by the organizers:
 
 - On the first, second and third exams the whole test used to have 100
   questions. From the 4th exam onwards the organizers changed the test
@@ -60,45 +41,28 @@ ENUM NULL Questão 1
 - Before 2010, Brazil did not have a unified OAB Exam. Each State from
   the country used to have his own exam.
 
-- For some reason, the 6th and the 20th exams had problems and they were reapplied in some regions of the country. Both the first 
-  and the reapplication count as the 6th edition. However, these two tests had a different content.
+- For some reason, the 6th and the 20th exams had problems and they
+  were reapplied in some regions of the country. Both the first and
+  the reapplication count as the 6th edition. However, these two tests
+  had a different content.
 
-- We inserted the areas of law as a marker. This is the complete list of all the areas covered on the exams:
+- We inserted the areas of law as a marker. This is the complete list
+  of all the areas covered on the exams:
 
-#+BEGIN_EXAMPLE
-
-AREA ETHICS
-
-AREA PHILOSOPHY
-
-AREA CONSTITUTIONAL
-
-AREA HUMAN-RIGHTS
-
-AREA INTERNATIONAL
-
-AREA TAXES
-
-AREA ADMINISTRATIVE
-
-AREA ENVIRONMENTAL
-
-AREA CIVIL
-
-AREA CHILDREN
-
-AREA CONSUMER
-
-AREA BUSINESS
-
-AREA CIVIL-PROCEDURE
-
-AREA CRIMINAL
-
-AREA CRIMINAL-PROCEDURE
-
-AREA LABOUR
-
-AREA LABOUR-PROCEDURE
-
-#+END_EXAMPLE
+  - ETHICS
+  - PHILOSOPHY
+  - CONSTITUTIONAL
+  - HUMAN-RIGHTS
+  - INTERNATIONAL
+  - TAXES
+  - ADMINISTRATIVE
+  - ENVIRONMENTAL
+  - CIVIL
+  - CHILDREN
+  - CONSUMER
+  - BUSINESS
+  - CIVIL-PROCEDURE
+  - CRIMINAL
+  - CRIMINAL-PROCEDURE
+  - LABOUR
+  - LABOUR-PROCEDURE
