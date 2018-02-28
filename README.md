@@ -23,10 +23,10 @@ This repository has a corpus with raw text files from:
   + [Slides](http://compling.hss.ntu.edu.sg/events/2018-gwc/presentations/GWC2018_59.pdf)
 
 
-You can find the official reports about the exams on the following
+- You can find the official reports about the exams on the following
 links:
 
-- http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros
-- http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol2
-- http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol3
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol2
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol3
 
