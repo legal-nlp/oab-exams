@@ -262,8 +262,9 @@
 
 - exam: 2017-22
   question: 16
-  urn: urn:lex:br:supremo.tribunal.federal:sumula:2003-09-24;683
-  justification:
+  urn:
+    - urn:lex:br:supremo.tribunal.federal:sumula:2003-09-24;683
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art7_cpt_inc30
   comment: |
     A resposta dessa questão está na súmula vinculante 683 do STF. A
     constituição define que não pode ocorrer discriminação no concurso público
