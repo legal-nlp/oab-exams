@@ -1,7 +1,6 @@
 - exam: 2010-01
   question: 13
-  urn: urn:lex:br:federal:lei:1999-11-10;9868
-  justification: art12_cpt
+  urn: urn:lex:br:federal:lei:1999-11-10;9868!art12_cpt
   comment: |
     Essa questão tem dois pontos curiosos. Primeiro, apesar de ser de
     constitucional, a resposta não está na constituição, está na lei
@@ -24,8 +23,7 @@
 
 - exam: 2010-01
   question: 16
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art54_cpt_inc1_ali2
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art54_cpt_inc1_ali2
   comment: |
     Observe a redação do Artigo 54 da Constituição "Os Deputados e
     Senadores não poderão: I - desde a expedição do diploma: a) firmar
@@ -195,8 +193,7 @@
 
 - exam: 2015-17
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art60_par4
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art60_par4
   comment: |
     A justificativa dessa questão não está totalmente na lei. A lei não usa o
     termo "constituinte derivado reformador". Além disso, a própria constituição
@@ -213,8 +210,7 @@
 
 - exam: 2015-18
   question: 15
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art81_par1
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art81_par1
   comment: |
     Art. 81. Vagando os cargos de Presidente e Vice-Presidente da República,
     far-se-á eleição noventa dias depois de aberta a  última vaga.  § 1º
@@ -224,12 +220,9 @@
 
 - exam: 2016-19
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: 
-    - art14_par3_inc4
-    - art14_par3_inc6_ali1 
-    - art14_par3_inc6_ali2 
-    - art14_par3_inc6_ali3
+  urn:
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art14_par3_inc4
+    - urn:lex:br:federal:constituicao:1988-10-05;1988![art14_par3_inc6_ali1,art14_par3_inc6_ali3]
   comment: |
     Uma das condições de elegibilidade é o domicílio eleitoral coincidir com a
     circunscrição da candidatura.  André é do Estado E, ele não pode ser
@@ -241,10 +234,9 @@
 
 - exam: 2016-20
   question: 14
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification:
-    - art73_par1_inc1
-    - art75_cpt
+  urn:
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art73_par1_inc1
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art75_cpt
   comment: |
     Essa questão exige a interpretação conjugada de dois artigos, além do uso de
     um princípio da doutrina: o princípio da simetria, isto é, as Constituições
