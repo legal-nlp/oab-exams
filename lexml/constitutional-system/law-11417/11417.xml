@@ -1,0 +1,310 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0"><script xmlns="">var pmblock = 1.3;</script>
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:federal:lei:2006-12-19;11417"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+            <Epigrafe id="epigrafe">Lei nº 11.417, de 19 de Dezembro de 2006 </Epigrafe>
+      <Ementa id="ementa"><b><i>Regulamenta o <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art103-1">art. 103-A da Constituição Federal</span> e altera a <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei no 9.784, de 29 de janeiro de 1999</span>, disciplinando a edição, a revisão e o cancelamento de enunciado de súmula vinculante pelo Supremo Tribunal Federal, e dá outras providências.</i></b> </Ementa>
+      <Preambulo id="preambulo"><p>O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: </p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei disciplina a edição, a revisão e o cancelamento de enunciado de súmula vinculante pelo Supremo Tribunal Federal e dá outras providências. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            
+            
+            
+            <p>O Supremo Tribunal Federal poderá, de ofício ou por provocação, após reiteradas decisões sobre matéria constitucional, editar enunciado de súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma prevista nesta Lei. </p>
+            
+          </Caput><Paragrafo id="art2_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O enunciado da súmula terá por objeto a validade, a interpretação e a eficácia de normas determinadas, acerca das quais haja, entre órgãos judiciários ou entre esses e a administração pública, controvérsia atual que acarrete grave insegurança jurídica e relevante multiplicação de processos sobre idêntica questão. </p>
+            
+          </Paragrafo><Paragrafo id="art2_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O Procurador-Geral da República, nas propostas que não houver formulado, manifestar-se-á previamente à edição, revisão ou cancelamento de enunciado de súmula vinculante. </p>
+            
+          </Paragrafo><Paragrafo id="art2_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A edição, a revisão e o cancelamento de enunciado de súmula com efeito vinculante dependerão de decisão tomada por 2/3 (dois terços) dos membros do Supremo Tribunal Federal, em sessão plenária. </p>
+            
+          </Paragrafo><Paragrafo id="art2_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>No prazo de 10 (dez) dias após a sessão em que editar, rever ou cancelar enunciado de súmula com efeito vinculante, o Supremo Tribunal Federal fará publicar, em seção especial do Diário da Justiça e do Diário Oficial da União, o enunciado respectivo. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>São legitimados a propor a edição, a revisão ou o cancelamento de enunciado de súmula vinculante: </p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Presidente da República; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Mesa do Senado Federal; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a Mesa da Câmara dos Deputados; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o Procurador-Geral da República; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o Conselho Federal da Ordem dos Advogados do Brasil; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o Defensor Público-Geral da União; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>partido político com representação no Congresso Nacional; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>confederação sindical ou entidade de classe de âmbito nacional; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc10">
+            
+            
+            <Rotulo>X –</Rotulo>
+            <p>o Governador de Estado ou do Distrito Federal; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc11">
+            
+            
+            <Rotulo>XI –</Rotulo>
+            <p>os Tribunais Superiores, os Tribunais de Justiça de Estados ou do Distrito Federal e Territórios, os Tribunais Regionais Federais, os Tribunais Regionais do Trabalho, os Tribunais Regionais Eleitorais e os Tribunais Militares. </p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Município poderá propor, incidentalmente ao curso de processo em que seja parte, a edição, a revisão ou o cancelamento de enunciado de súmula vinculante, o que não autoriza a suspensão do processo. </p>
+            
+          </Paragrafo><Paragrafo id="art3_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No procedimento de edição, revisão ou cancelamento de enunciado da súmula vinculante, o relator poderá admitir, por decisão irrecorrível, a manifestação de terceiros na questão, nos termos do Regimento Interno do Supremo Tribunal Federal. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A súmula com efeito vinculante tem eficácia imediata, mas o Supremo Tribunal Federal, por decisão de 2/3 (dois terços) dos seus membros, poderá restringir os efeitos vinculantes ou decidir que só tenha eficácia a partir de outro momento, tendo em vista razões de segurança jurídica ou de excepcional interesse público. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Revogada ou modificada a lei em que se fundou a edição de enunciado de súmula vinculante, o Supremo Tribunal Federal, de ofício ou por provocação, procederá à sua revisão ou cancelamento, conforme o caso. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>A proposta de edição, revisão ou cancelamento de enunciado de súmula vinculante não autoriza a suspensão dos processos em que se discuta a mesma questão. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Da decisão judicial ou do ato administrativo que contrariar enunciado de súmula vinculante, negar-lhe vigência ou aplicá-lo indevidamente caberá reclamação ao Supremo Tribunal Federal, sem prejuízo dos recursos ou outros meios admissíveis de impugnação. </p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Contra omissão ou ato da administração pública, o uso da reclamação só será admitido após esgotamento das vias administrativas. </p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Ao julgar procedente a reclamação, o Supremo Tribunal Federal anulará o ato administrativo ou cassará a decisão judicial impugnada, determinando que outra seja proferida com ou sem aplicação da súmula, conforme o caso. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784!art56-->
+            
+            
+            <p>O <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784!art56">art. 56 da Lei no 9.784, de 29 de janeiro de 1999</span>, passa a vigorar acrescido do seguinte § 3o: </p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1999-01-29;9784" id="art8_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1999-01-29;9784 -> MatchByBase(urn:lex:br:federal:lei:1999-01-29;9784,1999,Some((1,29)),Map(art56 -> ExactMatch(URN(1999,Some((1,29)),art56,urn:lex:br:federal:lei:1999-01-29;9784!art56)), art56_cpt -> PrefixMatch(URN(1999,Some((1,29)),art56,urn:lex:br:federal:lei:1999-01-29;9784!art56),art56_cpt), art56_par3 -> PrefixMatch(URN(1999,Some((1,29)),art56,urn:lex:br:federal:lei:1999-01-29;9784!art56),art56_par3)))))-->
+              <Artigo xlink:href="art56" id="art8_cpt_alt1_art56" abreAspas="s">
+            
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput xlink:href="art56_cpt" id="art8_cpt_alt1_art56_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Omissis id="art8_cpt_alt1_art56_omi1"/><Paragrafo xlink:href="art56_par3" id="art8_cpt_alt1_art56_par3" fechaAspas="s" notaAlteracao="NR">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            <!--Link: urn:lex:br:federal:lei:1999-01-29;9784-->
+            
+            
+            <p>A <span xlink:href="urn:lex:br:federal:lei:1999-01-29;9784">Lei no 9.784, de 29 de janeiro de 1999</span>, passa a vigorar acrescida dos seguintes arts. 64-A e 64-B: </p>
+            <Alteracao xml:base="urn:lex:br:federal:lei:1999-01-29;9784" id="art9_cpt_alt1">
+              <!--Matches: MatchResult(Map(urn:lex:br:federal:lei:1999-01-29;9784 -> MatchByBase(urn:lex:br:federal:lei:1999-01-29;9784,1999,Some((1,29)),Map(art64-1 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art64-1), art64-1_cpt -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art64-1_cpt), art64-2 -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art64-2), art64-2_cpt -> PrefixMatch(URN(1999,Some((1,29)),,urn:lex:br:federal:lei:1999-01-29;9784),art64-2_cpt)))))-->
+              <Artigo xlink:href="art64-1" id="art9_cpt_alt1_art64-1" abreAspas="s">
+            
+            
+            <Rotulo>Art. 64-A.</Rotulo>
+            
+            <Caput xlink:href="art64-1_cpt" id="art9_cpt_alt1_art64-1_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso.</p>
+            
+          </Caput>
+          </Artigo><Artigo xlink:href="art64-2" id="art9_cpt_alt1_art64-2" abreAspas="s">
+            
+            
+            <Rotulo>Art. 64-B.</Rotulo>
+            
+            <Caput xlink:href="art64-2_cpt" id="art9_cpt_alt1_art64-2_cpt" fechaAspas="s">
+            
+            
+            
+            <p>Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal.</p>
+            
+          </Caput>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>O procedimento de edição, revisão ou cancelamento de enunciado de súmula com efeito vinculante obedecerá, subsidiariamente, ao disposto no Regimento Interno do Supremo Tribunal Federal. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor 3 (três) meses após a sua publicação. </p>
+            
+          </Caput>
+          </Artigo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>
