@@ -1,0 +1,1000 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0"><script xmlns="">var pmblock = 1.3;</script>
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;999@data.evento;leitura;2018-03-06t17.36"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 999, DE 2018</Epigrafe>
+      <Ementa id="ementa"><b><i>Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.</i></b> </Ementa>
+      <Preambulo id="preambulo"><p>O PRESIDENTE DA REPÚBLICAFaço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: </p></Preambulo>
+    </ParteInicial>
+          <Articulacao><Capitulo id="cap1">
+            
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador>DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE E DAAÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE </NomeAgrupador>
+            <Artigo id="art1">
+            
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">
+            
+            
+            
+            <p>Esta Lei dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal. </p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="cap2">
+            
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador>DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE </NomeAgrupador>
+            <Secao id="cap2_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Admissibilidade e do Procedimento daAção Direta de Inconstitucionalidade </NomeAgrupador>
+            <Artigo id="art2">
+            
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art103-->
+            
+            
+            <p>Podem propor a ação direta de inconstitucionalidade:(Vide <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art103">artigo 103 da Constituição Federal</span>) </p>
+            <Inciso id="art2_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Presidente da República; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Mesa do Senado Federal; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a Mesa da Câmara dos Deputados; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a Mesa de Assembléia Legislativa ou a Mesa da Câmara Legislativa do Distrito Federal; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>o Governador de Estado ou o Governador do Distrito Federal; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>o Procurador-Geral da República; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc7">
+            
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o Conselho Federal da Ordem dos Advogados do Brasil; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc8">
+            
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>partido político com representação no Congresso Nacional; </p>
+            
+          </Inciso><Inciso id="art2_cpt_inc9">
+            
+            
+            <Rotulo>IX –</Rotulo>
+            <p>confederação sindical ou entidade de classe de âmbito nacional. </p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art2_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>(VETADO) </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art3">
+            
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">
+            
+            
+            
+            <p>A petição indicará: </p>
+            <Inciso id="art3_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o dispositivo da lei ou do ato normativo impugnado e os fundamentos jurídicos do pedido em relação a cada uma das impugnações; </p>
+            
+          </Inciso><Inciso id="art3_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o pedido, com suas especificações. </p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art3_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A petição inicial, acompanhada de instrumento de procuração, quando subscrita por advogado, será apresentada em duas vias, devendo conter cópias da lei ou do ato normativo impugnado e dos documentos necessários para comprovar a impugnação. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art4">
+            
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">
+            
+            
+            
+            <p>A petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator. </p>
+            
+          </Caput><Paragrafo id="art4_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cabe agravo da decisão que indeferir a petição inicial. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">
+            
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">
+            
+            
+            
+            <p>Proposta a ação direta, não se admitirá desistência. </p>
+            
+          </Caput><Paragrafo id="art5_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>(VETADO) </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art6">
+            
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">
+            
+            
+            
+            <p>O relator pedirá informações aos órgãos ou às autoridades das quais emanou a lei ou o ato normativo impugnado. </p>
+            
+          </Caput><Paragrafo id="art6_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As informações serão prestadas no prazo de trinta dias contado do recebimento do pedido. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">
+            
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">
+            
+            
+            
+            <p>Não se admitirá intervenção de terceiros no processo de ação direta de inconstitucionalidade. </p>
+            
+          </Caput><Paragrafo id="art7_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>(VETADO) </p>
+            
+          </Paragrafo><Paragrafo id="art7_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá, por despacho irrecorrível, admitir, observado o prazo fixado no parágrafo anterior, a manifestação de outros órgãos ou entidades. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">
+            
+            
+            
+            <p>Decorrido o prazo das informações, serão ouvidos, sucessivamente, o Advogado-Geral da União e o Procurador-Geral da República, que deverão manifestar-se, cada qual, no prazo de quinze dias. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">
+            
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">
+            
+            
+            
+            <p>Vencidos os prazos do artigo anterior, o relator lançará o relatório, com cópia a todos os Ministros, e pedirá dia para julgamento. </p>
+            
+          </Caput><Paragrafo id="art9_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de necessidade de esclarecimento de matéria ou circunstância de fato ou de notória insuficiência das informações existentes nos autos, poderá o relator requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão, ou fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e autoridade na matéria. </p>
+            
+          </Paragrafo><Paragrafo id="art9_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relator poderá, ainda, solicitar informações aos Tribunais Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da aplicação da norma impugnada no âmbito de sua jurisdição. </p>
+            
+          </Paragrafo><Paragrafo id="art9_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As informações, perícias e audiências a que se referem os parágrafos anteriores serão realizadas no prazo de trinta dias, contado da solicitação do relator. </p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap2_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Da Medida Cautelar em Ação Direta de Inconstitucionalidade </NomeAgrupador>
+            <Artigo id="art10">
+            
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">
+            
+            
+            
+            <p>Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no prazo de cinco dias. </p>
+            
+          </Caput><Paragrafo id="art10_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O relator, julgando indispensável, ouvirá o Advogado-Geral da União e o Procurador-Geral da República, no prazo de três dias. </p>
+            
+          </Paragrafo><Paragrafo id="art10_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela expedição do ato, na forma estabelecida no Regimento do Tribunal. </p>
+            
+          </Paragrafo><Paragrafo id="art10_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">
+            
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">
+            
+            
+            
+            <p>Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União e do Diário da Justiça da União a parte dispositiva da decisão, no prazo de dez dias, devendo solicitar as informações à autoridade da qual tiver emanado o ato, observando-se, no que couber, o procedimento estabelecido na Seção I deste Capítulo. </p>
+            
+          </Caput><Paragrafo id="art11_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A medida cautelar, dotada de eficácia contra todos, será concedida com efeito<i>ex nunc</i>, salvo se o Tribunal entender que deva conceder-lhe eficácia retroativa. </p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A concessão da medida cautelar torna aplicável a legislação anterior acaso existente, salvo expressa manifestação em sentido contrário. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">
+            
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">
+            
+            
+            
+            <p>Havendo pedido de medida cautelar, o relator, em face da relevância da matéria e de seu especial significado para a ordem social e a segurança jurídica, poderá, após a prestação das informações, no prazo de dez dias, e a manifestação do Advogado-Geral da União e do Procurador-Geral da República, sucessivamente, no prazo de cinco dias, submeter o processo diretamente ao Tribunal, que terá a faculdade de julgar definitivamente a ação. </p>
+            
+          </Caput>
+          </Artigo>
+          </Secao>
+          </Capitulo><p>(Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p><p>Da Ação Direta de Inconstitucionalidade por Omissão </p><p>(Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p><Artigo id="art12-1">
+            
+            <TituloDispositivo>Da Admissibilidade e do Procedimento da Ação Direta de Inconstitucionalidade por Omissão </TituloDispositivo>
+            <Rotulo>Art. 12-A.</Rotulo>
+            
+            <Caput id="art12-1_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Podem propor a ação direta de inconstitucionalidade por omissão os legitimados à propositura da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12-2">
+            
+            
+            <Rotulo>Art. 12-B.</Rotulo>
+            
+            <Caput id="art12-2_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>A petição indicará: (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            <Inciso id="art12-2_cpt_inc1">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>I –</Rotulo>
+            <p>a omissão inconstitucional total ou parcial quanto ao cumprimento de dever constitucional de legislar ou quanto à adoção de providência de índole administrativa; (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Inciso><Inciso id="art12-2_cpt_inc2">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>II –</Rotulo>
+            <p>o pedido, com suas especificações. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art12-2_par1u">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A petição inicial, acompanhada de instrumento de procuração, se for o caso, será apresentada em 2 (duas) vias, devendo conter cópias dos documentos necessários para comprovar a alegação de omissão. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12-3">
+            
+            
+            <Rotulo>Art. 12-C.</Rotulo>
+            
+            <Caput id="art12-3_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>A petição inicial inepta, não fundamentada, e a manifestamente improcedente serão liminarmente indeferidas pelo relator. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput><Paragrafo id="art12-3_par1u">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cabe agravo da decisão que indeferir a petição inicial. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12-4">
+            
+            
+            <Rotulo>Art. 12-D.</Rotulo>
+            
+            <Caput id="art12-4_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Proposta a ação direta de inconstitucionalidade por omissão, não se admitirá desistência. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art12-5">
+            
+            
+            <Rotulo>Art. 12-E.</Rotulo>
+            
+            <Caput id="art12-5_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Aplicam-se ao procedimento da ação direta de inconstitucionalidade por omissão, no que couber, as disposições constantes da Seção I do Capítulo II desta Lei. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput><Paragrafo id="art12-5_par1">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os demais titulares referidos no art. 2o desta Lei poderão manifestar-se, por escrito, sobre o objeto da ação e pedir a juntada de documentos reputados úteis para o exame da matéria, no prazo das informações, bem como apresentar memoriais. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo><Paragrafo id="art12-5_par2">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relator poderá solicitar a manifestação do Advogado-Geral da União, que deverá ser encaminhada no prazo de 15 (quinze) dias. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo><Paragrafo id="art12-5_par3">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O Procurador-Geral da República, nas ações em que não for autor, terá vista do processo, por 15 (quinze) dias, após o decurso do prazo para informações. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo>
+          </Artigo><p>(Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p><Artigo id="art12-6">
+            
+            <TituloDispositivo>Da Medida Cautelar em Ação Direta de Inconstitucionalidade por Omissão </TituloDispositivo>
+            <Rotulo>Art. 12-F.</Rotulo>
+            
+            <Caput id="art12-6_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Em caso de excepcional urgência e relevância da matéria, o Tribunal, por decisão da maioria absoluta de seus membros, observado o disposto no art. 22, poderá conceder medida cautelar, após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão pronunciar-se no prazo de 5 (cinco) dias. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput><Paragrafo id="art12-6_par1">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou ainda em outra providência a ser fixada pelo Tribunal. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo><Paragrafo id="art12-6_par2">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relator, julgando indispensável, ouvirá o Procurador-Geral da República, no prazo de 3 (três) dias. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo><Paragrafo id="art12-6_par3">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela omissão inconstitucional, na forma estabelecida no Regimento do Tribunal. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12-7">
+            
+            
+            <Rotulo>Art. 12-G.</Rotulo>
+            
+            <Caput id="art12-7_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar, em seção especial do Diário Oficial da União e do Diário da Justiça da União, a parte dispositiva da decisão no prazo de 10 (dez) dias, devendo solicitar as informações à autoridade ou ao órgão responsável pela omissão inconstitucional, observando-se, no que couber, o procedimento estabelecido na Seção I do Capítulo II desta Lei. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput>
+          </Artigo><p>(Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p><Artigo id="art12-8">
+            
+            <TituloDispositivo>Da Decisão na Ação Direta de Inconstitucionalidade por Omissão </TituloDispositivo>
+            <Rotulo>Art. 12-H.</Rotulo>
+            
+            <Caput id="art12-8_cpt">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            
+            <p>Declarada a inconstitucionalidade por omissão, com observância do disposto no art. 22, será dada ciência ao Poder competente para a adoção das providências necessárias. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Caput><Paragrafo id="art12-8_par1">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de omissão imputável a órgão administrativo, as providências deverão ser adotadas no prazo de 30 (trinta) dias, ou em prazo razoável a ser estipulado excepcionalmente pelo Tribunal, tendo em vista as circunstâncias específicas do caso e o interesse público envolvido. (Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo><Paragrafo id="art12-8_par2">
+            <!--Link: urn:lex:br:federal:lei:2009;12063-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Aplica-se à decisão da ação direta de inconstitucionalidade por omissão, no que couber, o disposto no Capítulo IV desta Lei.(Incluído pela <span xlink:href="urn:lex:br:federal:lei:2009;12063">Lei nº 12.063, de 2009</span>). </p>
+            
+          </Paragrafo>
+          </Artigo><Capitulo id="cap3">
+            
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador>DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE </NomeAgrupador>
+            <Secao id="cap3_sec1">
+            
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador>Da Admissibilidade e do Procedimento daAção Declaratória de Constitucionalidade </NomeAgrupador>
+            <Artigo id="art13">
+            
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art103-->
+            
+            
+            <p>Podem propor a ação declaratória de constitucionalidade de lei ou ato normativo federal:(Vide <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art103">artigo 103 da Constituição Federal</span>) </p>
+            <Inciso id="art13_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Presidente da República; </p>
+            
+          </Inciso><Inciso id="art13_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Mesa da Câmara dos Deputados; </p>
+            
+          </Inciso><Inciso id="art13_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a Mesa do Senado Federal; </p>
+            
+          </Inciso><Inciso id="art13_cpt_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>o Procurador-Geral da República. </p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art14">
+            
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">
+            
+            
+            
+            <p>A petição inicial indicará: </p>
+            <Inciso id="art14_cpt_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o dispositivo da lei ou do ato normativo questionado e os fundamentos jurídicos do pedido; </p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>o pedido, com suas especificações; </p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>a existência de controvérsia judicial relevante sobre a aplicação da disposição objeto da ação declaratória. </p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art14_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A petição inicial, acompanhada de instrumento de procuração, quando subscrita por advogado, será apresentada em duas vias, devendo conter cópias do ato normativo questionado e dos documentos necessários para comprovar a procedência do pedido de declaração de constitucionalidade. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art15">
+            
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">
+            
+            
+            
+            <p>A petição inicial inepta, não fundamentada e a manifestamente improcedente serão liminarmente indeferidas pelo relator. </p>
+            
+          </Caput><Paragrafo id="art15_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Cabe agravo da decisão que indeferir a petição inicial. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art16">
+            
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">
+            
+            
+            
+            <p>Proposta a ação declaratória, não se admitirá desistência. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art17">
+            
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">
+            
+            
+            
+            <p>(VETADO) </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art18">
+            
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">
+            
+            
+            
+            <p>Não se admitirá intervenção de terceiros no processo de ação declaratória de constitucionalidade. </p>
+            
+          </Caput><Paragrafo id="art18_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>(VETADO) </p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>(VETADO) </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art19">
+            
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">
+            
+            
+            
+            <p>Decorrido o prazo do artigo anterior, será aberta vista ao Procurador-Geral da República, que deverá pronunciar-se no prazo de quinze dias. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art20">
+            
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">
+            
+            
+            
+            <p>Vencido o prazo do artigo anterior, o relator lançará o relatório, com cópia a todos os Ministros, e pedirá dia para julgamento. </p>
+            
+          </Caput><Paragrafo id="art20_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Em caso de necessidade de esclarecimento de matéria ou circunstância de fato ou de notória insuficiência das informações existentes nos autos, poderá o relator requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão ou fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e autoridade na matéria. </p>
+            
+          </Paragrafo><Paragrafo id="art20_par2">
+            
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O relator poderá solicitar, ainda, informações aos Tribunais Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da aplicação da norma questionada no âmbito de sua jurisdição. </p>
+            
+          </Paragrafo><Paragrafo id="art20_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>As informações, perícias e audiências a que se referem os parágrafos anteriores serão realizadas no prazo de trinta dias, contado da solicitação do relator. </p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="cap3_sec2">
+            
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador>Da Medida Cautelar em Ação Declaratóriade Constitucionalidade </NomeAgrupador>
+            <Artigo id="art21">
+            
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">
+            
+            
+            
+            <p>O Supremo Tribunal Federal, por decisão da maioria absoluta de seus membros, poderá deferir pedido de medida cautelar na ação declaratória de constitucionalidade, consistente na determinação de que os juízes e os Tribunais suspendam o julgamento dos processos que envolvam a aplicação da lei ou do ato normativo objeto da ação até seu julgamento definitivo. </p>
+            
+          </Caput><Paragrafo id="art21_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União a parte dispositiva da decisão, no prazo de dez dias, devendo o Tribunal proceder ao julgamento da ação no prazo de cento e oitenta dias, sob pena de perda de sua eficácia. </p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="cap4">
+            
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador>DA DECISÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADEE NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE </NomeAgrupador>
+            <Artigo id="art22">
+            
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">
+            
+            
+            
+            <p>A decisão sobre a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo somente será tomada se presentes na sessão pelo menos oito Ministros. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art23">
+            
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">
+            
+            
+            
+            <p>Efetuado o julgamento, proclamar-se-á a constitucionalidade ou a inconstitucionalidade da disposição ou da norma impugnada se num ou noutro sentido se tiverem manifestado pelo menos seis Ministros, quer se trate de ação direta de inconstitucionalidade ou de ação declaratória de constitucionalidade. </p>
+            
+          </Caput><Paragrafo id="art23_par1u">
+            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se não for alcançada a maioria necessária à declaração de constitucionalidade ou de inconstitucionalidade, estando ausentes Ministros em número que possa influir no julgamento, este será suspenso a fim de aguardar-se o comparecimento dos Ministros ausentes, até que se atinja o número necessário para prolação da decisão num ou noutro sentido. </p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art24">
+            
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">
+            
+            
+            
+            <p>Proclamada a constitucionalidade, julgar-se-á improcedente a ação direta ou procedente eventual ação declaratória; e, proclamada a inconstitucionalidade, julgar-se-á procedente a ação direta ou improcedente eventual ação declaratória. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art25">
+            
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">
+            
+            
+            
+            <p>Julgada a ação, far-se-á a comunicação à autoridade ou ao órgão responsável pela expedição do ato. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art26">
+            
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">
+            
+            
+            
+            <p>A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art27">
+            
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">
+            
+            
+            
+            <p>Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado. </p>
+            
+          </Caput>
+          </Artigo><Artigo id="art28">
+            
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">
+            
+            
+            
+            <p>Dentro do prazo de dez dias após o trânsito em julgado da decisão, o Supremo Tribunal Federal fará publicar em seção especial do Diário da Justiça e do Diário Oficial da União a parte dispositiva do acórdão. </p>
+            
+          </Caput><Paragrafo id="art28_par1u">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988-->
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A declaração de constitucionalidade ou de inconstitucionalidade, inclusive a interpretação conforme a <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988">Constituição</span> e a declaração parcial de inconstitucionalidade sem redução de texto, têm eficácia contra todos e efeito vinculante em relação aos órgãos do Poder Judiciário e à Administração Pública federal, estadual e municipal. </p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="cap5">
+            
+            
+            <Rotulo>CAPÍTULO V</Rotulo>
+            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS E FINAIS </NomeAgrupador>
+            <Artigo id="art29">
+            
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">
+            
+            
+            
+            <p>Oart. 482 do Código de Processo Civil fica acrescido dos seguintes parágrafos: </p>
+            <Alteracao id="art29_cpt_alt1">
+              <!--Matches: MatchResult(Map())-->
+              <Artigo xlink:href="art482" id="art29_cpt_alt1_art482" abreAspas="s">
+            
+            
+            <Rotulo>Art. 482.</Rotulo>
+            
+            <Caput xlink:href="art482_cpt" id="art29_cpt_alt1_art482_cpt" textoOmitido="s">
+            
+            
+            
+            
+            
+          </Caput><Paragrafo xlink:href="art482_par1" id="art29_cpt_alt1_art482_par1">
+            
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>O Ministério Público e as pessoas jurídicas de direito público responsáveis pela edição do ato questionado, se assim o requererem, poderão manifestar-se no incidente de inconstitucionalidade, observados os prazos e condições fixados no Regimento Interno do Tribunal. </p>
+            
+          </Paragrafo><Paragrafo xlink:href="art482_par2" id="art29_cpt_alt1_art482_par2">
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art103-->
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Os titulares do direito de propositura referidos no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art103">art. 103 da Constituição</span> poderão manifestar-se, por escrito, sobre a questão constitucional objeto de apreciação pelo órgão especial ou pelo Pleno do Tribunal, no prazo fixado em Regimento, sendo-lhes assegurado o direito de apresentar memoriais ou de pedir a juntada de documentos. </p>
+            
+          </Paragrafo><Paragrafo xlink:href="art482_par3" id="art29_cpt_alt1_art482_par3" fechaAspas="s">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá admitir, por despacho irrecorrível, a manifestação de outros órgãos ou entidades.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art30">
+            
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">
+            
+            
+            
+            <p>O art. 8o daLei no 8.185, de 14 de maio de 1991, passa a vigorar acrescido dos seguintes dispositivos: </p>
+            <Alteracao id="art30_cpt_alt1">
+              <!--Matches: MatchResult(Map())-->
+              <Artigo xlink:href="art8" id="art30_cpt_alt1_art8" abreAspas="s">
+            
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput xlink:href="art8_cpt" id="art30_cpt_alt1_art8_cpt" textoOmitido="s">
+            
+            
+            
+            
+            <Inciso xlink:href="art8_cpt_inc1" id="art30_cpt_alt1_art8_cpt_inc1" textoOmitido="s">
+            
+            
+            <Rotulo>I –</Rotulo>
+            
+            <Omissis id="art30_cpt_alt1_art8_cpt_inc1_omi1"/><Alinea xlink:href="art8_cpt_inc1_ali14" id="art30_cpt_alt1_art8_cpt_inc1_ali14">
+            
+            
+            <Rotulo>n)</Rotulo>
+            <p>a ação direta de inconstitucionalidade de lei ou ato normativo do Distrito Federal em face da sua Lei Orgânica; </p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput><Omissis id="art30_cpt_alt1_art8_omi1"/><Paragrafo xlink:href="art8_par3" id="art30_cpt_alt1_art8_par3">
+            
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>São partes legítimas para propor a ação direta de inconstitucionalidade: </p>
+            <Inciso xlink:href="art8_par3_inc1" id="art30_cpt_alt1_art8_par3_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Governador do Distrito Federal; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par3_inc2" id="art30_cpt_alt1_art8_par3_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>a Mesa da Câmara Legislativa; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par3_inc3" id="art30_cpt_alt1_art8_par3_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>o Procurador-Geral de Justiça; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par3_inc4" id="art30_cpt_alt1_art8_par3_inc4">
+            
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a Ordem dos Advogados do Brasil, seção do Distrito Federal; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par3_inc5" id="art30_cpt_alt1_art8_par3_inc5">
+            
+            
+            <Rotulo>V –</Rotulo>
+            <p>as entidades sindicais ou de classe, de atuação no Distrito Federal, demonstrando que a pretensão por elas deduzida guarda relação de pertinência direta com os seus objetivos institucionais; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par3_inc6" id="art30_cpt_alt1_art8_par3_inc6">
+            
+            
+            <Rotulo>VI –</Rotulo>
+            <p>os partidos políticos com representação na Câmara Legislativa. </p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art8_par4" id="art30_cpt_alt1_art8_par4">
+            
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Aplicam-se ao processo e julgamento da ação direta de Inconstitucionalidade perante o Tribunal de Justiça do Distrito Federal e Territórios as seguintes disposições: </p>
+            <Inciso xlink:href="art8_par4_inc1" id="art30_cpt_alt1_art8_par4_inc1">
+            
+            
+            <Rotulo>I –</Rotulo>
+            <p>o Procurador-Geral de Justiça será sempre ouvido nas ações diretas de constitucionalidade ou de inconstitucionalidade; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par4_inc2" id="art30_cpt_alt1_art8_par4_inc2">
+            
+            
+            <Rotulo>II –</Rotulo>
+            <p>declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma da Lei Orgânica do Distrito Federal, a decisão será comunicada ao Poder competente para adoção das providências necessárias, e, tratando-se de órgão administrativo, para fazê-lo em trinta dias; </p>
+            
+          </Inciso><Inciso xlink:href="art8_par4_inc3" id="art30_cpt_alt1_art8_par4_inc3">
+            
+            
+            <Rotulo>III –</Rotulo>
+            <p>somente pelo voto da maioria absoluta de seus membros ou de seu órgão especial, poderá o Tribunal de Justiça declarar a inconstitucionalidade de lei ou de ato normativo do Distrito Federal ou suspender a sua vigência em decisão de medida cautelar. </p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo xlink:href="art8_par5" id="art30_cpt_alt1_art8_par5" fechaAspas="s">
+            
+            
+            <Rotulo>§ 5º</Rotulo>
+            <p>Aplicam-se, no que couber, ao processo de julgamento da ação direta de inconstitucionalidade de lei ou ato normativo do Distrito Federal em face da sua Lei Orgânica as normas sobre o processo e o julgamento da ação direta de inconstitucionalidade perante o Supremo Tribunal Federal.</p>
+            
+          </Paragrafo>
+          </Artigo>
+            </Alteracao>
+          </Caput>
+          </Artigo><Artigo id="art31">
+            
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">
+            
+            
+            
+            <p>Esta Lei entra em vigor na data de sua publicação. </p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>
