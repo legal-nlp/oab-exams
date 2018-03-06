@@ -1,12 +1,12 @@
 <LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0"><script xmlns="">var pmblock = 1.3;</script>
       <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
       <Metadado>
-      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2018;999@data.evento;leitura;2018-03-06t17.36"/>
+      <Identificacao URN="urn:lex:br:federal:lei:1999-11-10;9868"/>
     </Metadado>
       <ProjetoNorma>
         <Norma>
           <ParteInicial>
-      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 999, DE 2018</Epigrafe>
+      <Epigrafe id="epigrafe">LEI No 9.868, DE 10 DE NOVEMBRO DE 1999</Epigrafe>
       <Ementa id="ementa"><b><i>Dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade perante o Supremo Tribunal Federal.</i></b> </Ementa>
       <Preambulo id="preambulo"><p>O PRESIDENTE DA REPÚBLICAFaço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: </p></Preambulo>
     </ParteInicial>
