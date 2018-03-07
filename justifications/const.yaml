@@ -38,24 +38,21 @@
 
 - exam: 2010-02
   question: 1
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art57_par4_inc4
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art57_par4_inc4
   comment: |
     A resposta está na subsection da subsection, no inciso IV do
     parágrafo quarto.
 
 - exam: 2011-03
   question: 21
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art5_cpt_inc70
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc70
   comment: |
     artigo 5 é gigante, ele tem 68 incisos! A resposta está no inciso
     70, definição de mandado coletivo.
 
 - exam: 2011-04
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art5_par3
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_par3
   comment: |
     O aluno precisava perceber que "Convenção Internacional sobre os
     Direitos das Pessoas com Deficiência" entra dentro de "tratados e
@@ -64,8 +61,7 @@
 
 - exam: 2011-05
   question: 18
-  urn: urn:lex:br:federal:lei:2006-12-19;11417
-  justification: art3_cpt_inc10
+  urn: urn:lex:br:federal:lei:2006-12-19;11417!art3_cpt_inc10
   comment: |
     A questão é sobre cancelamento de súmula vinculante e envolve a
     lei 11417 de 2006. A súmula vinculante é um instituto do direito
@@ -76,7 +72,6 @@
 - exam: 2012-06
   question: 17
   urn:
-  justification:
   comment: |
     Essa questão é bem interessante. Ela pergunta algo que não existe
     consenso entre os teóricos.  O gabarito assume a visão
@@ -95,30 +90,26 @@
 
 - exam: 2012-06a
   question: 16
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art103_par3
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art103_par3
   comment: O texto da lei "chapa" bem com o que foi perguntado.
 
 - exam: 2012-07
   question: 20
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art12_par3_inc5
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art12_par3_inc5
   comment: O texto da lei "chapa" bem com o que foi perguntado.
 
 - exam: 2012-08
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: 
-    - art95_cpt_inc2 
-    - art98_cpt_inc8
+  urn:
+    -  urn:lex:br:federal:constituicao:1988-10-05;1988!art95_cpt_inc2
+    -  urn:lex:br:federal:constituicao:1988-10-05;1988!art98_cpt_inc8
   comment:  |
     A resposta está no 95-II, o ponto legal é que o próprio inciso II do
     95 cita o VIII do 98.
 
 - exam: 2012-9
   question: 14
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art22_cpt_inc2
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art22_cpt_inc2
   comment: |
     A questão pede pro candidato falar sobre a legislação envolvendo
     desapropriação.  Todas as alternativas, por sua vez, fazem
@@ -129,20 +120,17 @@
 
 - exam: 2013-10
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art60_par1
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art60_par1
   comment: o texto da lei "chapa" bem com a pergunta
 
 - exam: 2013-11
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art210_par2
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art210_par2
   comment: a alternativa é basicamente a redação do artigo
 
 - exam: 2013-12
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art5_cpt_inc16
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc16
   comment: |
     Essa questão usa negativa, tem que escolher a errada, todas as
     outras certas.  A alternativa diz que precisa de autorização de
@@ -151,20 +139,17 @@
 
 - exam: 2014-13
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art18_par4
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art18_par4
   comment: No parágrafo quarto aparecem os dois requisitos citados na alternativa.
 
 - exam: 2014-13
   question: 17
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art84_par1u 
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art84_par1u
   comment: O parágrafo único faz menção a vários incisos, respondendo a questão.
 
 - exam: 2014-14
   question: 14
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art34_cpt_inc6
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art34_cpt_inc6
   comment: |
     O Estado estava descumprindo lei federal 8666. Cabe intervenção da União
     para fazer o Estado cumpir.  Detalhe que o comando do caput do artigo 34
@@ -172,16 +157,14 @@
 
 - exam: 2014-15
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification:
-    - art55_cpt_inc3
-    - art55_par3
+  urn:
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art55_cpt_inc3
+    - urn:lex:br:federal:constituicao:1988-10-05;1988!art55_par3
   comment: Essa questão está justificada em duas "subsections" do artigo 55.
 
 - exam: 2015-16
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art12_par3_inc3
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art12_par3_inc3
   comment: |
     Essa questão também merece ser destacada. Existem duas formas de ser cidadão
     brasileiro: brasileiro nato ou naturalizado.  O artigo 12 da CRFB/88 diz
@@ -203,7 +186,6 @@
 - exam: 2015-18
   question: 14
   urn:
-  justification:
   comment: |
     A justificativa dessa questão está na doutrina (teoria constitucional).  Não
     pode ser encontrada diretamente em nenhum artigo da constituição.
@@ -248,14 +230,12 @@
 
 - exam: 2016-20a
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art66_par4
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art66_par4
   comment: Nessa questão a alternativa correta é bem semelhante à redação normativa.
 
 - exam: 2016-21
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art194_cpt
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art194_cpt
   comment: |
     Essa questão cobra basicamente a definição constitucional de seguridade
     social. O caput define.
@@ -274,16 +254,14 @@
 
 - exam: 2017-23
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art210_par1
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art210_par1
   comment: |
     Nessa questão a alternativa correta é bem semelhante à redação
     normativa.
 
 - exam: 2017-24
   question: 13
-  urn: urn:lex:br:federal:constituicao:1988-10-05;1988
-  justification: art5_cpt_inc37
+  urn: urn:lex:br:federal:constituicao:1988-10-05;1988!art5_cpt_inc37
   comment: |
     O artigo 5 é gigante, nele são definidos direitos fundamentais criados
     dentro da matriz de pensamento liberal, como liberdade de expressão,
