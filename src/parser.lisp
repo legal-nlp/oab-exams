@@ -2,11 +2,12 @@
 (ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
 (ql:quickload :cxml)
+(ql:quickload :yason)
 
 
 (defpackage :oab-parser
   (:use :cl :alexandria :cl-ppcre :cxml)
-  (:export :oab-to-xml :mirror-oab-to-xml))
+  (:export :oab-to-xml :mirror-oab-to-xml :parse-oab-file))
 
 
 (in-package :oab-parser)
@@ -37,6 +38,12 @@
                     (cl-ppcre:split "---\\s"
                                     (read-file-into-string filename)))))
     (mapcar fn-parsing questions)))
+
+
+;; JSON ES
+
+(defun question-to-json (question)
+  "...")
 
 
 ;; XML
