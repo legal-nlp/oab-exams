@@ -1,1003 +1,1195 @@
-<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.lexml.gov.br/1.0">
-      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
-      <Metadado>
-      <Identificacao URN="urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1"/>
-    </Metadado>
-      <ProjetoNorma>
-        <Norma>
-          <ParteInicial>
-      <Epigrafe id="epigrafe">CÓDIGO DE ÉTICA E DISCIPLINA DA OAB</Epigrafe>
-      <Ementa id="ementa"><b><i> </i></b> </Ementa>
-      <Preambulo id="preambulo"><p> O CONSELHO  FEDERAL  DA  ORDEM  DOS  ADVOGADOS  DO  BRASIL,  ao 
-                                    instituir  o  Código  de  Ética  e  Disciplina,  norteou-se  por  princípios  que  formam  a 
-                                    consciência  profissional  do  advogado  e  representam  imperativos  de  sua  conduta,  tais 
-                                    como:  os  de  lutar  sem  receio  pelo  primado  da  Justiça;  pugnar  pelo  cumprimento  da 
-                                    Constituição e pelo respeito à Lei, fazendo com que esta seja interpretada com retidão, 
-                                    em perfeita sintonia com os fins sociais a que se dirige e as exigências do bem com
-                                    um; ser  fiel  à  verdade  para  poder  servir  à  Justiça  como  um  de  seus  elementos  essenciais; 
-                                    proceder com lealdade e boa-fé em suas relações profissionais e em todos os atos do seu 
-                                    ofício;  empenhar-se  na  defesa  das  causas  confiadas  ao  seu  patrocínio,  dando  ao 
-                                    constituinte  o  amparo  do  Direito,  e  proporcionando-lhe  a  realização  prática  de  seus 
-                                    legítimos   interesses;   comportar-se,   nesse   mister,   com   independência   e   altivez, 
-                                    defendendo  com  o  mesmo  denodo  humildes  e  poderosos;  exercer  a  advocacia  com  o 
-                                    indispensável senso profissional, mas também com desprendimento, jamais permitindo 
-                                    que o anseio de ganho material sobreleve à finalidade social do seu trabalho; aprimorar
-                                    -se no culto dos princípios éticos e no domínio da ciência jurídica, de modo a tornar
-                                    -se merecedor  da confiança  do  cliente  e  da  sociedade  como  um  todo,  pelos  atributos 
-                                    intelectuais  e  pela  probidade  pessoal;  agir,  em  suma,  com  a  dignidade  das  pessoas  de 
-                                    bem e a correção dos profissionais que honram e engrandecem a sua classe.
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../xsd/lexml-br-rigido.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xmlns="http://www.lexml.gov.br/1.0">
 
-                                    Inspirado nesses postulados é que o Conselho Federal da Ordem dos Advogados do 
-                                    Brasil,  no  uso  das  atribuições  que  lhe  são  conferidas  pelos  arts.  33  e  54,  V,  da  Lei  nº 
-                                    8.906,  de  04  de  julho  de  1994,  aprova  e  edita  este  Código,  exortando  os  advogados 
-                                    brasileiros à sua fiel observância. 
- 
-  </p><p/></Preambulo>
-    </ParteInicial>
-          <Articulacao><Titulo id="tit1">
-            
-            
-            <Rotulo>TÍTULO I</Rotulo>
-            <NomeAgrupador>DA ÉTICA DO ADVOGADO </NomeAgrupador>
-            <Capitulo id="tit1_cap1">
+  <Metadado>
+    <Identificacao URN="urn:lex:br:ordem.advogados.brasil;conselho.federal:codigo.etica.disciplina.oab:1995-2-13;seq-oab-1"/>
+  </Metadado>
+  <ProjetoNorma>
+    <Norma>
+      <ParteInicial>
+	<Epigrafe id="epigrafe">CÓDIGO DE ÉTICA E DISCIPLINA DA OAB</Epigrafe>
+	<Ementa id="ementa" />
+	<Preambulo id="preambulo">
+	  <p> O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL, ao
+	  instituir o Código de Ética e Disciplina, norteou-se por
+	  princípios que formam a consciência profissional do advogado
+	  e representam imperativos de sua conduta, tais como: os de
+	  lutar sem receio pelo primado da Justiça; pugnar pelo
+	  cumprimento da Constituição e pelo respeito à Lei, fazendo
+	  com que esta seja interpretada com retidão, em perfeita
+	  sintonia com os fins sociais a que se dirige e as exigências
+	  do bem com um; ser fiel à verdade para poder servir à
+	  Justiça como um de seus elementos essenciais; proceder com
+	  lealdade e boa-fé em suas relações profissionais e em todos
+	  os atos do seu ofício; empenhar-se na defesa das causas
+	  confiadas ao seu patrocínio, dando ao constituinte o amparo
+	  do Direito, e proporcionando-lhe a realização prática de
+	  seus legítimos interesses; comportar-se, nesse mister, com
+	  independência e altivez, defendendo com o mesmo denodo
+	  humildes e poderosos; exercer a advocacia com o
+	  indispensável senso profissional, mas também com
+	  desprendimento, jamais permitindo que o anseio de ganho
+	  material sobreleve à finalidade social do seu trabalho;
+	  aprimorar-se no culto dos princípios éticos e no domínio da
+	  ciência jurídica, de modo a tornar-se merecedor da
+	  confiança do cliente e da sociedade como um todo, pelos
+	  atributos intelectuais e pela probidade pessoal; agir, em
+	  suma, com a dignidade das pessoas de bem e a correção dos
+	  profissionais que honram e engrandecem a sua classe.
+
+          Inspirado nesses postulados é que o Conselho Federal da
+          Ordem dos Advogados do Brasil, no uso das atribuições que
+          lhe são conferidas pelos arts.  33 e 54, V, da Lei nº 8.906,
+          de 04 de julho de 1994, aprova e edita este Código,
+          exortando os advogados brasileiros à sua fiel observância.
+	  
+	  </p>
+	  <p/>
+	</Preambulo>
+      </ParteInicial>
+      <Articulacao>
+	<Titulo id="tit1">
+          
+          
+          <Rotulo>TÍTULO I</Rotulo>
+          <NomeAgrupador>DA ÉTICA DO ADVOGADO </NomeAgrupador>
+          <Capitulo id="tit1_cap1">
             
             
             <Rotulo>CAPÍTULO I</Rotulo>
             <NomeAgrupador>DAS REGRAS DEONTOLÓGICAS FUNDAMENTAIS </NomeAgrupador>
             <Artigo id="art1">
-            
-            
-            <Rotulo>Art. 1º</Rotulo>
-            
-            <Caput id="art1_cpt">
-            
-            
-            
-            <p>O exercício da advocacia exige conduta compatível com os preceitos deste Código, do Estatuto, do Regulamento Geral, dos Provimentos e com os demais princípios da moral individual, social e profissional. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art2">
-            
-            
-            <Rotulo>Art. 2º</Rotulo>
-            
-            <Caput id="art2_cpt">
-            
-            
-            
-            <p>O advogado, indispensável à administração da Justiça, é defensor do Estado democrático de direito, da cidadania, da moralidade pública, da Justiça e da paz social, subordinando a atividade do seu Ministério Privado à elevada função pública que exerce. </p>
-            
-          </Caput><Paragrafo id="art2_par1u">
-            
-            
-            <Rotulo>Parágrafo único.</Rotulo>
-            <p>São deveres do advogado: </p>
-            <Inciso id="art2_par1u_inc1">
-            
-            
-            <Rotulo>I –</Rotulo>
-            <p>preservar, em sua conduta, a honra, a nobreza e a dignidade da profissão, zelando pelo seu caráter de essencialidade e indispensabilidade;  <ol><li>- atuar com destemor, independência, honestidade, decoro, veracidade, lealdade, dignidade e boa-fé; </li></ol></p>
-            
-          </Inciso><Inciso id="art2_par1u_inc3">
-            
-            
-            <Rotulo>III –</Rotulo>
-            <p>velar por sua reputação pessoal e profissional; </p>
-            
-          </Inciso><Inciso id="art2_par1u_inc4">
-            
-            
-            <Rotulo>IV –</Rotulo>
-            <p>empenhar-se, permanentemente, em seu aperfeiçoamento pessoal e profissional; V - contribuir para o aprimoramento das instituições, do Direito e das leis;  <li>Publicado no Diário da Justiça, Seção I, do dia 01.03.95, pp. 4.000/4004. </li></p>
-            
-          </Inciso><Inciso id="art2_par1u_inc6">
-            
-            
-            <Rotulo>VI –</Rotulo>
-            <p>estimular a conciliação entre os litigantes, prevenindo, sempre que possível, a instauração de litígios; </p>
-            
-          </Inciso><Inciso id="art2_par1u_inc7">
-            
-            
-            <Rotulo>VII –</Rotulo>
-            <p>aconselhar o cliente a não ingressar em aventura judicial; </p>
-            
-          </Inciso><Inciso id="art2_par1u_inc8">
-            
-            
-            <Rotulo>VIII –</Rotulo>
-            <p>abster-se de:  <ol><li>utilizar de influência indevida, em seu benefício ou do cliente; </li></ol> <ol><li>patrocinar interesses ligados a outras atividades estranhas à advocacia, em que também atue; </li></ol> <ol><li>vincular o seu nome a empreendimentos de cunho manifestamente duvidoso; </li></ol> <ol><li>emprestar concurso aos que atentem contra a ética, a moral, a honestidade e a dignidade da pessoa humana; </li></ol> <ol><li>entender-se diretamente com a parte adversa que tenha patrono constituído, sem o assentimento deste. </li></ol></p>
-            
-          </Inciso><Inciso id="art2_par1u_inc9">
-            
-            
-            <Rotulo>IX –</Rotulo>
-            <p>pugnar pela solução dos problemas da cidadania e pela efetivação dos seus direitos individuais, coletivos e difusos, no âmbito da comunidade. </p>
-            
-          </Inciso>
-          </Paragrafo>
-          </Artigo><Artigo id="art3">
-            
-            
-            <Rotulo>Art. 3º</Rotulo>
-            
-            <Caput id="art3_cpt">
-            
-            
-            
-            <p>O advogado deve ter consciência de que o Direito é um meio de mitigar as desigualdades para o encontro de soluções justas e que a lei é um instrumento para garantir a igualdade de todos. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art4">
-            
-            
-            <Rotulo>Art. 4º</Rotulo>
-            
-            <Caput id="art4_cpt">
-            
-            
-            
-            <p>O advogado vinculado ao cliente ou constituinte, mediante relação empregatícia ou por contrato de prestação permanente de serviços, integrante de departamento jurídico, ou órgão de assessoria jurídica, público ou privado, deve zelar pela sua liberdade e independência. </p>
-            
-          </Caput><Paragrafo id="art4_par1u">
-            
-            
-            <Rotulo>Parágrafo único.</Rotulo>
-            <p>É legítima a recusa, pelo advogado, do patrocínio de pretensão concernente a lei ou direito que também lhe seja aplicável, ou contrarie expressa orientação sua, manifestada anteriormente. </p>
-            
-          </Paragrafo>
-          </Artigo><Artigo id="art5">
-            
-            
-            <Rotulo>Art. 5º</Rotulo>
-            
-            <Caput id="art5_cpt">
-            
-            
-            
-            <p>O exercício da advocacia é incompatível com qualquer procedimento de mercantilização. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art6">
-            
-            
-            <Rotulo>Art. 6º</Rotulo>
-            
-            <Caput id="art6_cpt">
-            
-            
-            
-            <p>É defeso ao advogado expor os fatos em Juízo falseando deliberadamente a verdade ou estribando-se na má-fé. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art7">
-            
-            
-            <Rotulo>Art. 7º</Rotulo>
-            
-            <Caput id="art7_cpt">
-            
-            
-            
-            <p>É vedado o oferecimento de serviços profissionais que impliquem, direta ou indiretamente, inculcação ou captação de clientela. </p>
-            
-          </Caput>
-          </Artigo>
-          </Capitulo><Capitulo id="tit1_cap2">
+              
+              
+              <Rotulo>Art. 1º</Rotulo>
+              
+              <Caput id="art1_cpt">
+		
+		<p>O exercício da advocacia exige conduta compatível com os preceitos deste Código, do Estatuto, do Regulamento Geral, dos Provimentos e com os demais princípios da moral individual, social e profissional. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art2">
+              
+              
+              <Rotulo>Art. 2º</Rotulo>
+              
+              <Caput id="art2_cpt">
+		
+		
+		
+		<p>O advogado, indispensável à administração da Justiça, é defensor do Estado democrático de direito, da cidadania, da moralidade pública, da Justiça e da paz social, subordinando a atividade do seu Ministério Privado à elevada função pública que exerce. </p>
+		
+              </Caput>
+	      <Paragrafo id="art2_par1u">
+		
+		
+		<Rotulo>Parágrafo único.</Rotulo>
+		<p>São deveres do advogado: </p>
+		<Inciso id="art2_par1u_inc1">
+		  
+		  
+		  <Rotulo>I –</Rotulo>
+		  <p>preservar, em sua conduta, a honra, a nobreza e a dignidade da profissão, zelando pelo seu caráter de essencialidade e indispensabilidade;  <ol>
+		  <li>- atuar com destemor, independência, honestidade, decoro, veracidade, lealdade, dignidade e boa-fé; </li>
+		</ol>
+		  </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc3">
+		  
+		  
+		  <Rotulo>III –</Rotulo>
+		  <p>velar por sua reputação pessoal e profissional; </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc4">
+		  
+		  
+		  <Rotulo>IV –</Rotulo>
+		  <p>empenhar-se, permanentemente, em seu aperfeiçoamento pessoal e profissional; V - contribuir para o aprimoramento das instituições, do Direito e das leis;  <li>Publicado no Diário da Justiça, Seção I, do dia 01.03.95, pp. 4.000/4004. </li>
+		  </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc6">
+		  
+		  
+		  <Rotulo>VI –</Rotulo>
+		  <p>estimular a conciliação entre os litigantes, prevenindo, sempre que possível, a instauração de litígios; </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc7">
+		  
+		  
+		  <Rotulo>VII –</Rotulo>
+		  <p>aconselhar o cliente a não ingressar em aventura judicial; </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc8">
+		  
+		  
+		  <Rotulo>VIII –</Rotulo>
+		  <p>abster-se de:  <ol>
+		  <li>utilizar de influência indevida, em seu benefício ou do cliente; </li>
+		</ol> 
+		<ol>
+		  <li>patrocinar interesses ligados a outras atividades estranhas à advocacia, em que também atue; </li>
+		</ol> 
+		<ol>
+		  <li>vincular o seu nome a empreendimentos de cunho manifestamente duvidoso; </li>
+		</ol> 
+		<ol>
+		  <li>emprestar concurso aos que atentem contra a ética, a moral, a honestidade e a dignidade da pessoa humana; </li>
+		</ol> 
+		<ol>
+		  <li>entender-se diretamente com a parte adversa que tenha patrono constituído, sem o assentimento deste. </li>
+		</ol>
+		  </p>
+		  
+		</Inciso>
+		<Inciso id="art2_par1u_inc9">
+		  
+		  
+		  <Rotulo>IX –</Rotulo>
+		  <p>pugnar pela solução dos problemas da cidadania e pela efetivação dos seus direitos individuais, coletivos e difusos, no âmbito da comunidade. </p>
+		  
+		</Inciso>
+              </Paragrafo>
+            </Artigo>
+	    <Artigo id="art3">
+              
+              <Rotulo>Art. 3º</Rotulo>
+              
+              <Caput id="art3_cpt">
+		
+		<p>O advogado deve ter consciência de que o Direito é um meio de mitigar as desigualdades para o encontro de soluções justas e que a lei é um instrumento para garantir a igualdade de todos. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art4">
+              
+              
+              <Rotulo>Art. 4º</Rotulo>
+              
+              <Caput id="art4_cpt">
+		
+		
+		
+		<p>O advogado vinculado ao cliente ou constituinte, mediante relação empregatícia ou por contrato de prestação permanente de serviços, integrante de departamento jurídico, ou órgão de assessoria jurídica, público ou privado, deve zelar pela sua liberdade e independência. </p>
+		
+              </Caput>
+	      <Paragrafo id="art4_par1u">
+		
+		
+		<Rotulo>Parágrafo único.</Rotulo>
+		<p>É legítima a recusa, pelo advogado, do patrocínio de pretensão concernente a lei ou direito que também lhe seja aplicável, ou contrarie expressa orientação sua, manifestada anteriormente. </p>
+		
+              </Paragrafo>
+            </Artigo>
+	    <Artigo id="art5">
+              
+              
+              <Rotulo>Art. 5º</Rotulo>
+              
+              <Caput id="art5_cpt">
+		
+		
+		
+		<p>O exercício da advocacia é incompatível com qualquer procedimento de mercantilização. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art6">
+              
+              
+              <Rotulo>Art. 6º</Rotulo>
+              
+              <Caput id="art6_cpt">
+		
+		
+		
+		<p>É defeso ao advogado expor os fatos em Juízo falseando deliberadamente a verdade ou estribando-se na má-fé. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art7">
+              
+              
+              <Rotulo>Art. 7º</Rotulo>
+              
+              <Caput id="art7_cpt">
+		
+		
+		
+		<p>É vedado o oferecimento de serviços profissionais que impliquem, direta ou indiretamente, inculcação ou captação de clientela. </p>
+		
+              </Caput>
+            </Artigo>
+          </Capitulo>
+	  <Capitulo id="tit1_cap2">
             
             
             <Rotulo>CAPÍTULO II</Rotulo>
             <NomeAgrupador>DAS RELAÇÕES COM O CLIENTE </NomeAgrupador>
             <Artigo id="art8">
-            
-            
-            <Rotulo>Art. 8º</Rotulo>
-            
-            <Caput id="art8_cpt">
-            
-            
-            
-            <p>O advogado deve informar o cliente, de forma clara e inequívoca, quanto a eventuais riscos da sua pretensão, e das conseqüências que poderão advir da demanda. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art9">
-            
-            
-            <Rotulo>Art. 9º</Rotulo>
-            
-            <Caput id="art9_cpt">
-            
-            
-            
-            <p>A conclusão ou desistência da causa, com ou sem a extinção do mandato, obriga o advogado à devolução de bens, valores e documentos recebidos no exercício do mandato, e à pormenorizada prestação de contas, não excluindo outras prestações solicitadas, pelo cliente, a qualquer momento. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art10">
-            
-            
-            <Rotulo>Art. 10.</Rotulo>
-            
-            <Caput id="art10_cpt">
-            
-            
-            
-            <p>Concluída a causa ou arquivado o processo, presumem-se o cumprimento e a cessação do mandato. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art11">
-            
-            
-            <Rotulo>Art. 11.</Rotulo>
-            
-            <Caput id="art11_cpt">
-            
-            
-            
-            <p>O advogado não deve aceitar procuração de quem já tenha patrono constituído, sem prévio conhecimento deste, salvo por motivo justo ou para adoção de medidas judiciais urgentes e inadiáveis. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art12">
-            
-            
-            <Rotulo>Art. 12.</Rotulo>
-            
-            <Caput id="art12_cpt">
-            
-            
-            
-            <p>O advogado não deve deixar ao abandono ou ao desamparo os feitos, sem motivo justo e comprovada ciência do constituinte. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art13">
-            
-            
-            <Rotulo>Art. 13.</Rotulo>
-            
-            <Caput id="art13_cpt">
-            
-            
-            
-            <p>A renúncia ao patrocínio implica omissão do motivo e a continuidade da responsabilidade profissional do advogado ou escritório de advocacia, durante o prazo estabelecido em lei; não exclui, todavia, a responsabilidade pelos danos causados dolosa ou culposamente aos clientes ou a terceiros. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art14">
-            
-            
-            <Rotulo>Art. 14.</Rotulo>
-            
-            <Caput id="art14_cpt">
-            
-            
-            
-            <p>A revogação do mandato judicial por vontade do cliente não o desobriga do pagamento das verbas honorárias contratadas, bem como não retira o direito do advogado de receber o quanto lhe seja devido em eventual verba honorária de sucumbência, calculada proporcionalmente, em face do serviço efetivamente prestado. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art15">
-            
-            
-            <Rotulo>Art. 15.</Rotulo>
-            
-            <Caput id="art15_cpt">
-            
-            
-            
-            <p>O mandato judicial ou extrajudicial deve ser outorgado individualmente aos advogados que integrem sociedade de que façam parte, e será exercido no interesse do cliente, respeitada a liberdade de defesa. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art16">
-            
-            
-            <Rotulo>Art. 16.</Rotulo>
-            
-            <Caput id="art16_cpt">
-            
-            
-            
-            <p>O mandato judicial ou extrajudicial não se extingue pelo decurso de tempo, desde que permaneça a confiança recíproca entre o outorgante e o seu patrono no interesse da causa. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art17">
-            
-            
-            <Rotulo>Art. 17.</Rotulo>
-            
-            <Caput id="art17_cpt">
-            
-            
-            
-            <p>Os advogados integrantes da mesma sociedade profissional, ou reunidos em caráter permanente para cooperação recíproca, não podem representar em juízo clientes com interesses opostos. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art18">
-            
-            
-            <Rotulo>Art. 18.</Rotulo>
-            
-            <Caput id="art18_cpt">
-            
-            
-            
-            <p>Sobrevindo conflitos de interesse entre seus constituintes, e não estando acordes os interessados, com a devida prudência e discernimento, optará o advogado por um dos mandatos, renunciando aos demais, resguardado o sigilo profissional. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art19">
-            
-            
-            <Rotulo>Art. 19.</Rotulo>
-            
-            <Caput id="art19_cpt">
-            
-            
-            
-            <p>O advogado, ao postular em nome de terceiros, contra ex-cliente ou ex-empregador, judicial e extrajudicialmente, deve resguardar o segredo profissional e as informações reservadas ou privilegiadas que lhe tenham sido confiadas. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art20">
-            
-            
-            <Rotulo>Art. 20.</Rotulo>
-            
-            <Caput id="art20_cpt">
-            
-            
-            
-            <p>O advogado deve abster-se de patrocinar causa contrária à ética, à moral ou à validade de ato jurídico em que tenha colaborado, orientado ou conhecido em consulta; da mesma forma, deve declinar seu impedimento ético quando tenha sido convidado pela outra parte, se esta lhe houver revelado segredos ou obtido seu parecer. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art21">
-            
-            
-            <Rotulo>Art. 21.</Rotulo>
-            
-            <Caput id="art21_cpt">
-            
-            
-            
-            <p>É direito e dever do advogado assumir a defesa criminal, sem considerar sua própria opinião sobre a culpa do acusado. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art22">
-            
-            
-            <Rotulo>Art. 22.</Rotulo>
-            
-            <Caput id="art22_cpt">
-            
-            
-            
-            <p>O advogado não é obrigado a aceitar a imposição de seu cliente que pretenda ver com ele atuando outros advogados, nem aceitar a indicação de outro profissional para com ele trabalhar no processo. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art23">
-            
-            
-            <Rotulo>Art. 23.</Rotulo>
-            
-            <Caput id="art23_cpt">
-            
-            
-            
-            <p>É defeso ao advogado funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador ou cliente. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art24">
-            
-            
-            <Rotulo>Art. 24.</Rotulo>
-            
-            <Caput id="art24_cpt">
-            
-            
-            
-            <p>O substabelecimento do mandato, com reserva de poderes, é ato pessoal do advogado da causa. </p>
-            
-          </Caput>
-          <p><li>1º O substabelecimento do mandato sem reservas de poderes exige o prévio e inequívoco conhecimento do cliente. </li></p><p><li>2º O substabelecido com reserva de poderes deve ajustar antecipadamente seus honorários com o substabelecente. </li></p>
-          </Artigo>
+              
+              
+              <Rotulo>Art. 8º</Rotulo>
+              
+              <Caput id="art8_cpt">
+		
+		
+		
+		<p>O advogado deve informar o cliente, de forma clara e inequívoca, quanto a eventuais riscos da sua pretensão, e das conseqüências que poderão advir da demanda. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art9">
+              
+              
+              <Rotulo>Art. 9º</Rotulo>
+              
+              <Caput id="art9_cpt">
+		
+		
+		
+		<p>A conclusão ou desistência da causa, com ou sem a extinção do mandato, obriga o advogado à devolução de bens, valores e documentos recebidos no exercício do mandato, e à pormenorizada prestação de contas, não excluindo outras prestações solicitadas, pelo cliente, a qualquer momento. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art10">
+              
+              
+              <Rotulo>Art. 10.</Rotulo>
+              
+              <Caput id="art10_cpt">
+		
+		
+		
+		<p>Concluída a causa ou arquivado o processo, presumem-se o cumprimento e a cessação do mandato. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art11">
+              
+              
+              <Rotulo>Art. 11.</Rotulo>
+              
+              <Caput id="art11_cpt">
+		
+		
+		
+		<p>O advogado não deve aceitar procuração de quem já tenha patrono constituído, sem prévio conhecimento deste, salvo por motivo justo ou para adoção de medidas judiciais urgentes e inadiáveis. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art12">
+              
+              
+              <Rotulo>Art. 12.</Rotulo>
+              
+              <Caput id="art12_cpt">
+		
+		
+		
+		<p>O advogado não deve deixar ao abandono ou ao desamparo os feitos, sem motivo justo e comprovada ciência do constituinte. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art13">
+              
+              
+              <Rotulo>Art. 13.</Rotulo>
+              
+              <Caput id="art13_cpt">
+		
+		
+		
+		<p>A renúncia ao patrocínio implica omissão do motivo e a continuidade da responsabilidade profissional do advogado ou escritório de advocacia, durante o prazo estabelecido em lei; não exclui, todavia, a responsabilidade pelos danos causados dolosa ou culposamente aos clientes ou a terceiros. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art14">
+              
+              
+              <Rotulo>Art. 14.</Rotulo>
+              
+              <Caput id="art14_cpt">
+		
+		
+		
+		<p>A revogação do mandato judicial por vontade do cliente não o desobriga do pagamento das verbas honorárias contratadas, bem como não retira o direito do advogado de receber o quanto lhe seja devido em eventual verba honorária de sucumbência, calculada proporcionalmente, em face do serviço efetivamente prestado. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art15">
+              
+              
+              <Rotulo>Art. 15.</Rotulo>
+              
+              <Caput id="art15_cpt">
+		
+		
+		
+		<p>O mandato judicial ou extrajudicial deve ser outorgado individualmente aos advogados que integrem sociedade de que façam parte, e será exercido no interesse do cliente, respeitada a liberdade de defesa. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art16">
+              
+              
+              <Rotulo>Art. 16.</Rotulo>
+              
+              <Caput id="art16_cpt">
+		
+		
+		
+		<p>O mandato judicial ou extrajudicial não se extingue pelo decurso de tempo, desde que permaneça a confiança recíproca entre o outorgante e o seu patrono no interesse da causa. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art17">
+              
+              
+              <Rotulo>Art. 17.</Rotulo>
+              
+              <Caput id="art17_cpt">
+		
+		
+		
+		<p>Os advogados integrantes da mesma sociedade profissional, ou reunidos em caráter permanente para cooperação recíproca, não podem representar em juízo clientes com interesses opostos. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art18">
+              
+              
+              <Rotulo>Art. 18.</Rotulo>
+              
+              <Caput id="art18_cpt">
+		
+		
+		
+		<p>Sobrevindo conflitos de interesse entre seus constituintes, e não estando acordes os interessados, com a devida prudência e discernimento, optará o advogado por um dos mandatos, renunciando aos demais, resguardado o sigilo profissional. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art19">
+              
+              
+              <Rotulo>Art. 19.</Rotulo>
+              
+              <Caput id="art19_cpt">
+		
+		
+		
+		<p>O advogado, ao postular em nome de terceiros, contra ex-cliente ou ex-empregador, judicial e extrajudicialmente, deve resguardar o segredo profissional e as informações reservadas ou privilegiadas que lhe tenham sido confiadas. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art20">
+              
+              
+              <Rotulo>Art. 20.</Rotulo>
+              
+              <Caput id="art20_cpt">
+		
+		
+		
+		<p>O advogado deve abster-se de patrocinar causa contrária à ética, à moral ou à validade de ato jurídico em que tenha colaborado, orientado ou conhecido em consulta; da mesma forma, deve declinar seu impedimento ético quando tenha sido convidado pela outra parte, se esta lhe houver revelado segredos ou obtido seu parecer. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art21">
+              
+              
+              <Rotulo>Art. 21.</Rotulo>
+              
+              <Caput id="art21_cpt">
+		
+		
+		
+		<p>É direito e dever do advogado assumir a defesa criminal, sem considerar sua própria opinião sobre a culpa do acusado. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art22">
+              
+              
+              <Rotulo>Art. 22.</Rotulo>
+              
+              <Caput id="art22_cpt">
+		
+		
+		
+		<p>O advogado não é obrigado a aceitar a imposição de seu cliente que pretenda ver com ele atuando outros advogados, nem aceitar a indicação de outro profissional para com ele trabalhar no processo. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art23">
+              
+              
+              <Rotulo>Art. 23.</Rotulo>
+              
+              <Caput id="art23_cpt">
+		
+		
+		
+		<p>É defeso ao advogado funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador ou cliente. </p>
+		
+              </Caput>
+            </Artigo>
+	    <Artigo id="art24">
+              
+              
+              <Rotulo>Art. 24.</Rotulo>
+              
+              <Caput id="art24_cpt">
+		
+		
+		
+		<p>O substabelecimento do mandato, com reserva de poderes, é ato pessoal do advogado da causa. </p>
+		
+              </Caput>
+              <p>
+		<li>1º O substabelecimento do mandato sem reservas de poderes exige o prévio e inequívoco conhecimento do cliente. </li>
+	      </p>
+	      <p>
+		<li>2º O substabelecido com reserva de poderes deve ajustar antecipadamente seus honorários com o substabelecente. </li>
+	      </p>
+            </Artigo>
           </Capitulo>
         </Titulo>
         <Capitulo id="cap3">
-            
-            
-            <Rotulo>CAPÍTULO III</Rotulo>
-            <NomeAgrupador>DO SIGILO PROFISSIONAL</NomeAgrupador>
-            <Artigo id="art25">
+          
+          
+          <Rotulo>CAPÍTULO III</Rotulo>
+          <NomeAgrupador>DO SIGILO PROFISSIONAL</NomeAgrupador>
+          <Artigo id="art25">
             
             
             <Rotulo>Art. 25.</Rotulo>
             
             <Caput id="art25_cpt">
-            
-            
-            
-            <p>O sigilo profissional é inerente à profissão, impondo-se o seu respeito, salvo grave ameaça ao direito à vida, à honra, ou quando o advogado se veja afrontado pelo próprio cliente e, em defesa própria, tenha que revelar segredo, porém sempre restrito ao interesse da causa. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art26">
+              
+              
+              
+              <p>O sigilo profissional é inerente à profissão, impondo-se o seu respeito, salvo grave ameaça ao direito à vida, à honra, ou quando o advogado se veja afrontado pelo próprio cliente e, em defesa própria, tenha que revelar segredo, porém sempre restrito ao interesse da causa. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art26">
             
             
             <Rotulo>Art. 26.</Rotulo>
             
             <Caput id="art26_cpt">
-            
-            
-            
-            <p>O advogado deve guardar sigilo, mesmo em depoimento judicial, sobre o que saiba em razão de seu ofício, cabendo-lhe recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou tenha sido advogado, mesmo que autorizado ou solicitado pelo constituinte. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art27">
+              
+              
+              
+              <p>O advogado deve guardar sigilo, mesmo em depoimento judicial, sobre o que saiba em razão de seu ofício, cabendo-lhe recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou tenha sido advogado, mesmo que autorizado ou solicitado pelo constituinte. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art27">
             
             
             <Rotulo>Art. 27.</Rotulo>
             
             <Caput id="art27_cpt">
-            
-            
-            
-            <p>As confidências feitas ao advogado pelo cliente podem ser utilizadas nos limites da necessidade da defesa, desde que autorizado aquele pelo constituinte. Parágrafo único. Presumem-se confidenciais as comunicações epistolares entre advogado e cliente, as quais não podem ser reveladas a terceiros. </p>
-            
-          </Caput>
+              
+              
+              
+              <p>As confidências feitas ao advogado pelo cliente podem ser utilizadas nos limites da necessidade da defesa, desde que autorizado aquele pelo constituinte. Parágrafo único. Presumem-se confidenciais as comunicações epistolares entre advogado e cliente, as quais não podem ser reveladas a terceiros. </p>
+              
+            </Caput>
           </Artigo>
-          </Capitulo><Capitulo id="cap4">
-            
-            
-            <Rotulo>CAPÍTULO IV</Rotulo>
-            <NomeAgrupador>DA PUBLICIDADE</NomeAgrupador>
-            <Artigo id="art28">
+        </Capitulo>
+	<Capitulo id="cap4">
+          
+          
+          <Rotulo>CAPÍTULO IV</Rotulo>
+          <NomeAgrupador>DA PUBLICIDADE</NomeAgrupador>
+          <Artigo id="art28">
             
             
             <Rotulo>Art. 28.</Rotulo>
             
             <Caput id="art28_cpt">
-            
-            
-            
-            <p>O advogado pode anunciar os seus serviços profissionais, individual ou coletivamente, com discrição e moderação, para finalidade exclusivamente informativa, vedada a divulgação em conjunto com outra atividade. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art29">
+              
+              
+              
+              <p>O advogado pode anunciar os seus serviços profissionais, individual ou coletivamente, com discrição e moderação, para finalidade exclusivamente informativa, vedada a divulgação em conjunto com outra atividade. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art29">
             
             
             <Rotulo>Art. 29.</Rotulo>
             
             <Caput id="art29_cpt">
-            
-            
-            
-            <p>O anúncio deve mencionar o nome completo do advogado e o número da inscrição na OAB, podendo fazer referência a títulos ou qualificações profissionais, especialização técnico-científica e associações culturais e científicas, endereços, horário do expediente e meios de comunicação, vedadas a sua veiculação pelo rádio e televisão e a denominação de fantasia. </p>
-            
-          </Caput>
-          <p><li>1º Títulos ou qualificações profissionais são os relativos à profissão de advogado, conferidos por universidades ou instituições de ensino superior, reconhecidas. </li></p><p><li>2º Especialidades são os ramos do Direito, assim entendidos pelos doutrinadores ou legalmente reconhecidos. </li></p><p><li>3º Correspondências, comunicados e publicações, versando sobre constituição, colaboração, composição e qualificação de componentes de escritório e especificação de especialidades profissionais, bem como boletins informativos e comentários sobre legislação, somente podem ser fornecidos a colegas, clientes, ou pessoas que os solicitem ou os autorizem previamente. </li></p><p><li>4º O anúncio de advogado não deve mencionar, direta ou indiretamente, qualquer cargo, função pública ou relação de emprego e patrocínio que tenha exercido, passível de captar clientela. </li></p><p><li>5º O uso das expressões “escritório de advocacia” ou “sociedade de advogados” deve estar acompanhado da indicação de número de registro na OAB ou do nome e do número de inscrição dos advogados que o integrem. </li></p><p><li>6º O anúncio, no Brasil, deve adotar o idioma português, e, quando em idioma estrangeiro, deve estar acompanhado da respectiva tradução. </li></p>
+              
+              
+              
+              <p>O anúncio deve mencionar o nome completo do advogado e o número da inscrição na OAB, podendo fazer referência a títulos ou qualificações profissionais, especialização técnico-científica e associações culturais e científicas, endereços, horário do expediente e meios de comunicação, vedadas a sua veiculação pelo rádio e televisão e a denominação de fantasia. </p>
+              
+            </Caput>
+            <p>
+	      <li>1º Títulos ou qualificações profissionais são os relativos à profissão de advogado, conferidos por universidades ou instituições de ensino superior, reconhecidas. </li>
+	    </p>
+	    <p>
+	      <li>2º Especialidades são os ramos do Direito, assim entendidos pelos doutrinadores ou legalmente reconhecidos. </li>
+	    </p>
+	    <p>
+	      <li>3º Correspondências, comunicados e publicações, versando sobre constituição, colaboração, composição e qualificação de componentes de escritório e especificação de especialidades profissionais, bem como boletins informativos e comentários sobre legislação, somente podem ser fornecidos a colegas, clientes, ou pessoas que os solicitem ou os autorizem previamente. </li>
+	    </p>
+	    <p>
+	      <li>4º O anúncio de advogado não deve mencionar, direta ou indiretamente, qualquer cargo, função pública ou relação de emprego e patrocínio que tenha exercido, passível de captar clientela. </li>
+	    </p>
+	    <p>
+	      <li>5º O uso das expressões “escritório de advocacia” ou “sociedade de advogados” deve estar acompanhado da indicação de número de registro na OAB ou do nome e do número de inscrição dos advogados que o integrem. </li>
+	    </p>
+	    <p>
+	      <li>6º O anúncio, no Brasil, deve adotar o idioma português, e, quando em idioma estrangeiro, deve estar acompanhado da respectiva tradução. </li>
+	    </p>
           </Artigo>
         </Capitulo>
         <Artigo id="art30">
-            
-            
-            <Rotulo>Art. 30.</Rotulo>
-            
-            <Caput id="art30_cpt">
+          
+          
+          <Rotulo>Art. 30.</Rotulo>
+          
+          <Caput id="art30_cpt">
             
             
             
             <p>O anúncio sob a forma de placas, na sede profissional ou na residência do advogado, deve observar discrição quanto ao conteúdo, forma e dimensões, sem qualquer aspecto mercantilista, vedada a utilização de<i>outdoor</i> ou equivalente. </p>
             
           </Caput>
-          </Artigo><Artigo id="art31">
-            
-            
-            <Rotulo>Art. 31.</Rotulo>
-            
-            <Caput id="art31_cpt">
+        </Artigo>
+	<Artigo id="art31">
+          
+          
+          <Rotulo>Art. 31.</Rotulo>
+          
+          <Caput id="art31_cpt">
             
             
             
             <p>O anúncio não deve conter fotografias, ilustrações, cores, figuras, desenhos, logotipos, marcas ou símbolos incompatíveis com a sobriedade da advocacia, sendo proibido o uso dos símbolos oficiais e dos que sejam utilizados pela Ordem dos Advogados do Brasil. </p>
             
           </Caput>
-          <p><li>1º São vedadas referências a valores dos serviços, tabelas, gratuidade ou forma de pagamento, termos ou expressões que possam iludir ou confundir o público, informações de serviços jurídicos suscetíveis de implicar, direta ou indiretamente, captação de causa ou clientes, bem como menção ao tamanho, qualidade e estrutura da sede profissional. </li></p><p><li>2º Considera-se imoderado o anúncio profissional do advogado mediante remessa de correspondência a uma coletividade, salvo para comunicar a clientes e colegas a instalação ou mudança de endereço, a indicação expressa do seu nome e escritório em partes externas de veículo, ou a inserção de seu nome em anúncio relativo a outras atividades não advocatícias, faça delas parte ou não. </li></p>
+          <p>
+	    <li>1º São vedadas referências a valores dos serviços, tabelas, gratuidade ou forma de pagamento, termos ou expressões que possam iludir ou confundir o público, informações de serviços jurídicos suscetíveis de implicar, direta ou indiretamente, captação de causa ou clientes, bem como menção ao tamanho, qualidade e estrutura da sede profissional. </li>
+	  </p>
+	  <p>
+	    <li>2º Considera-se imoderado o anúncio profissional do advogado mediante remessa de correspondência a uma coletividade, salvo para comunicar a clientes e colegas a instalação ou mudança de endereço, a indicação expressa do seu nome e escritório em partes externas de veículo, ou a inserção de seu nome em anúncio relativo a outras atividades não advocatícias, faça delas parte ou não. </li>
+	  </p>
         </Artigo>
         <Artigo id="art32">
-            
-            
-            <Rotulo>Art. 32.</Rotulo>
-            
-            <Caput id="art32_cpt">
+          
+          
+          <Rotulo>Art. 32.</Rotulo>
+          
+          <Caput id="art32_cpt">
             
             
             
             <p>O advogado que eventualmente participar de programa de televisão ou de rádio, de entrevista na imprensa, de reportagem televisionada ou de qualquer outro meio, para manifestação profissional, deve visar a objetivos exclusivamente ilustrativos, educacionais e instrutivos, sem propósito de promoção pessoal ou profissional, vedados pronunciamentos sobre métodos de trabalho usados por seus colegas de profissão. </p>
             
-          </Caput><Paragrafo id="art32_par1u">
+          </Caput>
+	  <Paragrafo id="art32_par1u">
             
             
             <Rotulo>Parágrafo único.</Rotulo>
             <p>Quando convidado para manifestação pública, por qualquer modo e forma, visando ao esclarecimento de tema jurídico de interesse geral, deve o advogado evitar insinuações a promoção pessoal ou profissional, bem como o debate de caráter sensacionalista. </p>
             
           </Paragrafo>
-          </Artigo><Artigo id="art33">
-            
-            
-            <Rotulo>Art. 33.</Rotulo>
-            
-            <Caput id="art33_cpt">
+        </Artigo>
+	<Artigo id="art33">
+          
+          
+          <Rotulo>Art. 33.</Rotulo>
+          
+          <Caput id="art33_cpt">
             
             
             
             <p>advogado deve abster-se de: </p>
             <Inciso id="art33_cpt_inc1">
-            
-            
-            <Rotulo>I –</Rotulo>
-            <p>responder com habitualidade consulta sobre matéria jurídica, nos meios de comunicação social, com intuito de promover-se profissionalmente;  <ol><li>- debater, em qualquer veículo de divulgação, causa sob seu patrocínio ou patrocínio de colega; </li></ol></p>
-            
-          </Inciso><Inciso id="art33_cpt_inc3">
-            
-            
-            <Rotulo>III –</Rotulo>
-            <p>abordar tema de modo a comprometer a dignidade da profissão e da instituição que o congrega; </p>
-            
-          </Inciso><Inciso id="art33_cpt_inc4">
-            
-            
-            <Rotulo>IV –</Rotulo>
-            <p>divulgar ou deixar que seja divulgada a lista de clientes e demandas; V - insinuar-se para reportagens e declarações públicas. </p>
-            
-          </Inciso>
+              
+              
+              <Rotulo>I –</Rotulo>
+              <p>responder com habitualidade consulta sobre matéria jurídica, nos meios de comunicação social, com intuito de promover-se profissionalmente;  <ol>
+	      <li>- debater, em qualquer veículo de divulgação, causa sob seu patrocínio ou patrocínio de colega; </li>
+	    </ol>
+	      </p>
+              
+            </Inciso>
+	    <Inciso id="art33_cpt_inc3">
+              
+              
+              <Rotulo>III –</Rotulo>
+              <p>abordar tema de modo a comprometer a dignidade da profissão e da instituição que o congrega; </p>
+              
+            </Inciso>
+	    <Inciso id="art33_cpt_inc4">
+              
+              
+              <Rotulo>IV –</Rotulo>
+              <p>divulgar ou deixar que seja divulgada a lista de clientes e demandas; V - insinuar-se para reportagens e declarações públicas. </p>
+              
+            </Inciso>
           </Caput>
-          </Artigo><Artigo id="art34">
-            
-            
-            <Rotulo>Art. 34.</Rotulo>
-            
-            <Caput id="art34_cpt">
+        </Artigo>
+	<Artigo id="art34">
+          
+          
+          <Rotulo>Art. 34.</Rotulo>
+          
+          <Caput id="art34_cpt">
             
             
             
             <p>A divulgação pública, pelo advogado, de assuntos técnicos ou jurídicos de que tenha ciência em razão do exercício profissional como advogado constituído, assessor jurídico ou parecerista, deve limitar-se a aspectos que não quebrem ou violem o segredo ou o sigilo profissional. </p>
             
           </Caput>
-          </Artigo><Capitulo id="cap5">
-            
-            
-            <Rotulo>CAPÍTULO V</Rotulo>
-            <NomeAgrupador>DOS HONORÁRIOS PROFISSIONAIS</NomeAgrupador>
-            <Artigo id="art35">
+        </Artigo>
+	<Capitulo id="cap5">
+          
+          
+          <Rotulo>CAPÍTULO V</Rotulo>
+          <NomeAgrupador>DOS HONORÁRIOS PROFISSIONAIS</NomeAgrupador>
+          <Artigo id="art35">
             
             
             <Rotulo>Art. 35.</Rotulo>
             
             <Caput id="art35_cpt">
-            
-            
-            
-            <p>Os honorários advocatícios e sua eventual correção, bem como sua majoração decorrente do aumento dos atos judiciais que advierem como necessários, devem ser previstos em contrato escrito, qualquer que seja o objeto e o meio da prestação do serviço profissional, contendo todas as especificações e forma de pagamento, inclusive no caso de acordo. </p>
-            
-          </Caput>
-          <p><li>1º Os honorários da sucumbência não excluem os contratados, porém devem ser levados em conta no acerto final com o cliente ou constituinte, tendo sempre presente o que foi ajustado na aceitação da causa. </li></p><p><li>2º A compensação ou o desconto dos honorários contratados e de valores que devam ser entregues ao constituinte ou cliente só podem ocorrer se houver prévia autorização ou previsão contratual. </li></p><p><li>3º A forma e as condições de resgate dos encargos gerais, judiciais e extrajudiciais, inclusive eventual remuneração de outro profissional, advogado ou não, para desempenho de serviço auxiliar ou complementar técnico e especializado, ou com incumbência pertinente fora da Comarca, devem integrar as condições gerais do contrato. </li></p>
+              
+              
+              
+              <p>Os honorários advocatícios e sua eventual correção, bem como sua majoração decorrente do aumento dos atos judiciais que advierem como necessários, devem ser previstos em contrato escrito, qualquer que seja o objeto e o meio da prestação do serviço profissional, contendo todas as especificações e forma de pagamento, inclusive no caso de acordo. </p>
+              
+            </Caput>
+            <p>
+	      <li>1º Os honorários da sucumbência não excluem os contratados, porém devem ser levados em conta no acerto final com o cliente ou constituinte, tendo sempre presente o que foi ajustado na aceitação da causa. </li>
+	    </p>
+	    <p>
+	      <li>2º A compensação ou o desconto dos honorários contratados e de valores que devam ser entregues ao constituinte ou cliente só podem ocorrer se houver prévia autorização ou previsão contratual. </li>
+	    </p>
+	    <p>
+	      <li>3º A forma e as condições de resgate dos encargos gerais, judiciais e extrajudiciais, inclusive eventual remuneração de outro profissional, advogado ou não, para desempenho de serviço auxiliar ou complementar técnico e especializado, ou com incumbência pertinente fora da Comarca, devem integrar as condições gerais do contrato. </li>
+	    </p>
           </Artigo>
         </Capitulo>
         <Artigo id="art36">
-            
-            
-            <Rotulo>Art. 36.</Rotulo>
-            
-            <Caput id="art36_cpt">
+          
+          
+          <Rotulo>Art. 36.</Rotulo>
+          
+          <Caput id="art36_cpt">
             
             
             
             <p>Os honorários profissionais devem ser fixados com moderação, atendidos os elementos seguintes: </p>
             <Inciso id="art36_cpt_inc1">
-            
-            
-            <Rotulo>I –</Rotulo>
-            <p>a relevância, o vulto, a complexidade e a dificuldade das questões versadas; II - o trabalho e o tempo necessários;  <ol><li>- a possibilidade de ficar o advogado impedido de intervir em outros casos, ou de se desavir com outros clientes ou terceiros; </li></ol></p>
-            
-          </Inciso><Inciso id="art36_cpt_inc4">
-            
-            
-            <Rotulo>IV –</Rotulo>
-            <p>o valor da causa, a condição econômica do cliente e o proveito para ele resultante do serviço profissional; </p>
-            
-          </Inciso><Inciso id="art36_cpt_inc5">
-            
-            
-            <Rotulo>V –</Rotulo>
-            <p>o caráter da intervenção, conforme se trate de serviço a cliente avulso, habitual ou permanente; </p>
-            
-          </Inciso><Inciso id="art36_cpt_inc6">
-            
-            
-            <Rotulo>VI –</Rotulo>
-            <p>o lugar da prestação dos serviços, fora ou não do domicílio do advogado; VII - a competência e o renome do profissional; </p>
-            
-          </Inciso><Inciso id="art36_cpt_inc8">
-            
-            
-            <Rotulo>VIII –</Rotulo>
-            <p>a praxe do foro sobre trabalhos análogos. </p>
-            
-          </Inciso>
+              
+              
+              <Rotulo>I –</Rotulo>
+              <p>a relevância, o vulto, a complexidade e a dificuldade das questões versadas; II - o trabalho e o tempo necessários;  <ol>
+	      <li>- a possibilidade de ficar o advogado impedido de intervir em outros casos, ou de se desavir com outros clientes ou terceiros; </li>
+	    </ol>
+	      </p>
+              
+            </Inciso>
+	    <Inciso id="art36_cpt_inc4">
+              
+              
+              <Rotulo>IV –</Rotulo>
+              <p>o valor da causa, a condição econômica do cliente e o proveito para ele resultante do serviço profissional; </p>
+              
+            </Inciso>
+	    <Inciso id="art36_cpt_inc5">
+              
+              
+              <Rotulo>V –</Rotulo>
+              <p>o caráter da intervenção, conforme se trate de serviço a cliente avulso, habitual ou permanente; </p>
+              
+            </Inciso>
+	    <Inciso id="art36_cpt_inc6">
+              
+              
+              <Rotulo>VI –</Rotulo>
+              <p>o lugar da prestação dos serviços, fora ou não do domicílio do advogado; VII - a competência e o renome do profissional; </p>
+              
+            </Inciso>
+	    <Inciso id="art36_cpt_inc8">
+              
+              
+              <Rotulo>VIII –</Rotulo>
+              <p>a praxe do foro sobre trabalhos análogos. </p>
+              
+            </Inciso>
           </Caput>
-          </Artigo><Artigo id="art37">
-            
-            
-            <Rotulo>Art. 37.</Rotulo>
-            
-            <Caput id="art37_cpt">
+        </Artigo>
+	<Artigo id="art37">
+          
+          
+          <Rotulo>Art. 37.</Rotulo>
+          
+          <Caput id="art37_cpt">
             
             
             
             <p>Em face da imprevisibilidade do prazo de tramitação da demanda, devem ser delimitados os serviços profissionais a se prestarem nos procedimentos preliminares, judiciais ou conciliatórios, a fim de que outras medidas, solicitadas ou necessárias, incidentais ou não, diretas ou indiretas, decorrentes da causa, possam ter novos honorários estimados, e da mesma forma receber do constituinte ou cliente a concordância hábil. </p>
             
           </Caput>
-          </Artigo><Artigo id="art38">
-            
-            
-            <Rotulo>Art. 38.</Rotulo>
-            
-            <Caput id="art38_cpt">
+        </Artigo>
+	<Artigo id="art38">
+          
+          
+          <Rotulo>Art. 38.</Rotulo>
+          
+          <Caput id="art38_cpt">
             
             
             
             <p>Na hipótese da adoção de cláusula<i>quota litis</i>, os honorários devem ser necessariamente representados por pecúnia e, quando acrescidos dos de honorários da sucumbência, não podem ser superiores às vantagens advindas em favor do constituinte ou do cliente. </p>
             
-          </Caput><Paragrafo id="art38_par1u">
+          </Caput>
+	  <Paragrafo id="art38_par1u">
             
             
             <Rotulo>Parágrafo único.</Rotulo>
             <p>A participação do advogado em bens particulares de cliente, comprovadamente sem condições pecuniárias, só é tolerada em caráter excepcional, e desde que contratada por escrito. </p>
             
           </Paragrafo>
-          </Artigo><Artigo id="art39">
-            
-            
-            <Rotulo>Art. 39.</Rotulo>
-            
-            <Caput id="art39_cpt">
+        </Artigo>
+	<Artigo id="art39">
+          
+          
+          <Rotulo>Art. 39.</Rotulo>
+          
+          <Caput id="art39_cpt">
             <!--Link: urn:lex:br:federal:lei:1994;8906-->
             
             
             <p>A celebração de convênios para prestação de serviços jurídicos com redução dos valores estabelecidos na Tabela de Honorários implica captação de clientes ou causa, salvo se as condições peculiares da necessidade e dos carentes puderem ser demonstradas com a devida antecedência ao respectivo Tribunal de Ética e Disciplina, que deve analisar a sua oportunidade. </p>
             
           </Caput>
-          </Artigo><Artigo id="art40">
-            
-            
-            <Rotulo>Art. 40.</Rotulo>
-            
-            <Caput id="art40_cpt">
+        </Artigo>
+	<Artigo id="art40">
+          
+          
+          <Rotulo>Art. 40.</Rotulo>
+          
+          <Caput id="art40_cpt">
             
             
             
             <p>Os honorários advocatícios devidos ou fixados em tabelas no regime da assistência judiciária não podem ser alterados no<i>quantum</i> estabelecido; mas a verba honorária decorrente da sucumbência pertence ao advogado. </p>
             
           </Caput>
-          </Artigo><Artigo id="art41">
-            
-            
-            <Rotulo>Art. 41.</Rotulo>
-            
-            <Caput id="art41_cpt">
+        </Artigo>
+	<Artigo id="art41">
+          
+          
+          <Rotulo>Art. 41.</Rotulo>
+          
+          <Caput id="art41_cpt">
             
             
             
             <p>O advogado deve evitar o aviltamento de valores dos serviços profissionais, não os fixando de forma irrisória ou inferior ao mínimo fixado pela Tabela de Honorários, salvo motivo plenamente justificável. </p>
             
           </Caput>
-          </Artigo><Artigo id="art42">
-            
-            
-            <Rotulo>Art. 42.</Rotulo>
-            
-            <Caput id="art42_cpt">
+        </Artigo>
+	<Artigo id="art42">
+          
+          
+          <Rotulo>Art. 42.</Rotulo>
+          
+          <Caput id="art42_cpt">
             
             
             
             <p>O crédito por honorários advocatícios, seja do advogado autônomo, seja de sociedade de advogados, não autoriza o saque de duplicatas ou qualquer outro título de crédito de natureza mercantil, exceto a emissão de fatura, desde que constitua exigência do constituinte ou assistido, decorrente de contrato escrito, vedada a tiragem de protesto. </p>
             
           </Caput>
-          </Artigo><Artigo id="art43">
-            
-            
-            <Rotulo>Art. 43.</Rotulo>
-            
-            <Caput id="art43_cpt">
+        </Artigo>
+	<Artigo id="art43">
+          
+          
+          <Rotulo>Art. 43.</Rotulo>
+          
+          <Caput id="art43_cpt">
             
             
             
             <p>Havendo necessidade de arbitramento e cobrança judicial dos honorários advocatícios, deve o advogado renunciar ao patrocínio da causa, fazendo-se representar por um colega. </p>
             
           </Caput>
-          </Artigo><Capitulo id="cap6">
-            
-            
-            <Rotulo>CAPÍTULO VI</Rotulo>
-            <NomeAgrupador>DO DEVER DE URBANIDADE </NomeAgrupador>
-            <Artigo id="art44">
+        </Artigo>
+	<Capitulo id="cap6">
+          
+          
+          <Rotulo>CAPÍTULO VI</Rotulo>
+          <NomeAgrupador>DO DEVER DE URBANIDADE </NomeAgrupador>
+          <Artigo id="art44">
             
             
             <Rotulo>Art. 44.</Rotulo>
             
             <Caput id="art44_cpt">
-            
-            
-            
-            <p>Deve o advogado tratar o público, os colegas, as autoridades e os funcionários do Juízo com respeito, discrição e independência, exigindo igual tratamento e zelando pelas prerrogativas a que tem direito. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art45">
+              
+              
+              
+              <p>Deve o advogado tratar o público, os colegas, as autoridades e os funcionários do Juízo com respeito, discrição e independência, exigindo igual tratamento e zelando pelas prerrogativas a que tem direito. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art45">
             
             
             <Rotulo>Art. 45.</Rotulo>
             
             <Caput id="art45_cpt">
-            
-            
-            
-            <p>Impõe-se ao advogado lhaneza, emprego de linguagem escorreita e polida, esmero e disciplina na execução dos serviços. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art46">
+              
+              
+              
+              <p>Impõe-se ao advogado lhaneza, emprego de linguagem escorreita e polida, esmero e disciplina na execução dos serviços. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art46">
             
             
             <Rotulo>Art. 46.</Rotulo>
             
             <Caput id="art46_cpt">
-            
-            
-            
-            <p>O advogado, na condição de defensor nomeado, conveniado ou dativo, deve comportar-se com zelo, empenhando-se para que o cliente se sinta amparado e tenha a expectativa de regular desenvolvimento da demanda. </p>
-            
-          </Caput>
+              
+              
+              
+              <p>O advogado, na condição de defensor nomeado, conveniado ou dativo, deve comportar-se com zelo, empenhando-se para que o cliente se sinta amparado e tenha a expectativa de regular desenvolvimento da demanda. </p>
+              
+            </Caput>
           </Artigo>
-          </Capitulo><Capitulo id="cap7">
-            
-            
-            <Rotulo>CAPÍTULO VII</Rotulo>
-            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS </NomeAgrupador>
-            <Artigo id="art47">
+        </Capitulo>
+	<Capitulo id="cap7">
+          
+          
+          <Rotulo>CAPÍTULO VII</Rotulo>
+          <NomeAgrupador>DAS DISPOSIÇÕES GERAIS </NomeAgrupador>
+          <Artigo id="art47">
             
             
             <Rotulo>Art. 47.</Rotulo>
             
             <Caput id="art47_cpt">
-            
-            
-            
-            <p>A falta ou inexistência, neste Código, de definição ou orientação sobre questão de ética profissional, que seja relevante para o exercício da advocacia ou dele advenha, enseja consulta e manifestação do Tribunal de Ética e Disciplina ou do Conselho Federal. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art48">
+              
+              
+              
+              <p>A falta ou inexistência, neste Código, de definição ou orientação sobre questão de ética profissional, que seja relevante para o exercício da advocacia ou dele advenha, enseja consulta e manifestação do Tribunal de Ética e Disciplina ou do Conselho Federal. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art48">
             
             
             <Rotulo>Art. 48.</Rotulo>
             
             <Caput id="art48_cpt">
-            
-            
-            
-            <p>Sempre que tenha conhecimento de transgressão das normas deste Código, do Estatuto, do Regulamento Geral e dos Provimentos, o Presidente do Conselho Seccional, da Subseção, ou do Tribunal de Ética e Disciplina deve chamar a atenção do responsável para o dispositivo violado, sem prejuízo da instauração do competente procedimento para apuração das infrações e aplicação das penalidades cominadas. </p>
-            
-          </Caput>
+              
+              
+              
+              <p>Sempre que tenha conhecimento de transgressão das normas deste Código, do Estatuto, do Regulamento Geral e dos Provimentos, o Presidente do Conselho Seccional, da Subseção, ou do Tribunal de Ética e Disciplina deve chamar a atenção do responsável para o dispositivo violado, sem prejuízo da instauração do competente procedimento para apuração das infrações e aplicação das penalidades cominadas. </p>
+              
+            </Caput>
           </Artigo>
-          </Capitulo><Titulo id="tit2">
-            
-            
-            <Rotulo>TÍTULO II</Rotulo>
-            <NomeAgrupador>DO PROCESSO DISCIPLINAR</NomeAgrupador>
-            <Capitulo id="tit2_cap1">
+        </Capitulo>
+	<Titulo id="tit2">
+          
+          
+          <Rotulo>TÍTULO II</Rotulo>
+          <NomeAgrupador>DO PROCESSO DISCIPLINAR</NomeAgrupador>
+          <Capitulo id="tit2_cap1">
             
             
             <Rotulo>CAPÍTULO I</Rotulo>
             <NomeAgrupador>DA COMPETÊNCIA DO TRIBUNAL DE ÉTICA E DISCIPLINA </NomeAgrupador>
             <Artigo id="art49">
-            
-            
-            <Rotulo>Art. 49.</Rotulo>
-            
-            <Caput id="art49_cpt">
-            
-            
-            
-            <p>O Tribunal de Ética e Disciplina é competente para orientar e aconselhar sobre ética profissional, respondendo às consultas em tese, e julgar os processos disciplinares. </p>
-            
-          </Caput><Paragrafo id="art49_par1u">
-            
-            
-            <Rotulo>Parágrafo único.</Rotulo>
-            <p>O Tribunal reunir-se-á mensalmente ou em menor período, se necessário, e todas as sessões serão plenárias. </p>
-            
-          </Paragrafo>
-          </Artigo><Artigo id="art50">
-            
-            
-            <Rotulo>Art. 50.</Rotulo>
-            
-            <Caput id="art50_cpt">
-            
-            
-            
-            <p>Compete também ao Tribunal de Ética e Disciplina: </p>
-            <Inciso id="art50_cpt_inc1">
-            
-            
-            <Rotulo>I –</Rotulo>
-            <p>instaurar, de ofício, processo competente sobre ato ou matéria que considere passível de configurar, em tese, infração a princípio ou norma de ética profissional;  <ol><li>- organizar, promover e desenvolver cursos, palestras, seminários e discussões a respeito de ética profissional, inclusive junto aos Cursos Jurídicos, visando à formação da consciência dos futuros profissionais para os problemas fundamentais da ética; </li></ol></p>
-            
-          </Inciso><Inciso id="art50_cpt_inc3">
-            
-            
-            <Rotulo>III –</Rotulo>
-            <p>expedir provisões ou resoluções sobre o modo de proceder em casos previstos nos regulamentos e costumes do foro; </p>
-            
-          </Inciso><Inciso id="art50_cpt_inc4">
-            
-            
-            <Rotulo>IV –</Rotulo>
-            <p>mediar e conciliar nas questões que envolvam: a) dúvidas e pendências entre advogados; </p>
-            <Alinea id="art50_cpt_inc4_ali2">
-            
-            
-            <Rotulo>b)</Rotulo>
-            <p>partilha de honorários contratados em conjunto ou mediante substabelecimento, ou decorrente de sucumbência; </p>
-            
-          </Alinea><Alinea id="art50_cpt_inc4_ali3">
-            
-            
-            <Rotulo>c)</Rotulo>
-            <p>controvérsias surgidas quando da dissolução de sociedade de advogados. </p>
-            
-          </Alinea>
-          </Inciso>
-          </Caput>
-          </Artigo>
-          </Capitulo><Capitulo id="tit2_cap2">
+              
+              
+              <Rotulo>Art. 49.</Rotulo>
+              
+              <Caput id="art49_cpt">
+		
+		
+		
+		<p>O Tribunal de Ética e Disciplina é competente para orientar e aconselhar sobre ética profissional, respondendo às consultas em tese, e julgar os processos disciplinares. </p>
+		
+              </Caput>
+	      <Paragrafo id="art49_par1u">
+		
+		
+		<Rotulo>Parágrafo único.</Rotulo>
+		<p>O Tribunal reunir-se-á mensalmente ou em menor período, se necessário, e todas as sessões serão plenárias. </p>
+		
+              </Paragrafo>
+            </Artigo>
+	    <Artigo id="art50">
+              
+              
+              <Rotulo>Art. 50.</Rotulo>
+              
+              <Caput id="art50_cpt">
+		
+		
+		
+		<p>Compete também ao Tribunal de Ética e Disciplina: </p>
+		<Inciso id="art50_cpt_inc1">
+		  
+		  
+		  <Rotulo>I –</Rotulo>
+		  <p>instaurar, de ofício, processo competente sobre ato ou matéria que considere passível de configurar, em tese, infração a princípio ou norma de ética profissional;  <ol>
+		  <li>- organizar, promover e desenvolver cursos, palestras, seminários e discussões a respeito de ética profissional, inclusive junto aos Cursos Jurídicos, visando à formação da consciência dos futuros profissionais para os problemas fundamentais da ética; </li>
+		</ol>
+		  </p>
+		  
+		</Inciso>
+		<Inciso id="art50_cpt_inc3">
+		  
+		  
+		  <Rotulo>III –</Rotulo>
+		  <p>expedir provisões ou resoluções sobre o modo de proceder em casos previstos nos regulamentos e costumes do foro; </p>
+		  
+		</Inciso>
+		<Inciso id="art50_cpt_inc4">
+		  
+		  
+		  <Rotulo>IV –</Rotulo>
+		  <p>mediar e conciliar nas questões que envolvam: a) dúvidas e pendências entre advogados; </p>
+		  <Alinea id="art50_cpt_inc4_ali2">
+		    
+		    
+		    <Rotulo>b)</Rotulo>
+		    <p>partilha de honorários contratados em conjunto ou mediante substabelecimento, ou decorrente de sucumbência; </p>
+		    
+		  </Alinea>
+		  <Alinea id="art50_cpt_inc4_ali3">
+		    
+		    
+		    <Rotulo>c)</Rotulo>
+		    <p>controvérsias surgidas quando da dissolução de sociedade de advogados. </p>
+		    
+		  </Alinea>
+		</Inciso>
+              </Caput>
+            </Artigo>
+          </Capitulo>
+	  <Capitulo id="tit2_cap2">
             
             
             <Rotulo>CAPÍTULO II</Rotulo>
             <NomeAgrupador>DOS PROCEDIMENTOS</NomeAgrupador>
             <Artigo id="art51">
-            
-            
-            <Rotulo>Art. 51.</Rotulo>
-            
-            <Caput id="art51_cpt">
-            
-            
-            
-            <p>O processo disciplinar instaura-se de ofício ou mediante representação dos interessados, que não pode ser anônima. </p>
-            
-          </Caput>
-          <p><li>1º Recebida a representação, o Presidente do Conselho Seccional ou da Subseção, quando esta dispuser de Conselho, designa relator um de seus integrantes, para presidir a instrução processual. </li></p><p><li>2º O relator pode propor ao Presidente do Conselho Seccional ou da Subseção o arquivamento da representação, quando estiver desconstituída dos pressupostos de admissibilidade. </li></p><p><li>3º A representação contra membros do Conselho Federal e Presidentes dos Conselhos Seccionais é processada e julgada pelo Conselho Federal. </li></p>
-          </Artigo>
+              
+              
+              <Rotulo>Art. 51.</Rotulo>
+              
+              <Caput id="art51_cpt">
+		
+		
+		
+		<p>O processo disciplinar instaura-se de ofício ou mediante representação dos interessados, que não pode ser anônima. </p>
+		
+              </Caput>
+              <p>
+		<li>1º Recebida a representação, o Presidente do Conselho Seccional ou da Subseção, quando esta dispuser de Conselho, designa relator um de seus integrantes, para presidir a instrução processual. </li>
+	      </p>
+	      <p>
+		<li>2º O relator pode propor ao Presidente do Conselho Seccional ou da Subseção o arquivamento da representação, quando estiver desconstituída dos pressupostos de admissibilidade. </li>
+	      </p>
+	      <p>
+		<li>3º A representação contra membros do Conselho Federal e Presidentes dos Conselhos Seccionais é processada e julgada pelo Conselho Federal. </li>
+	      </p>
+            </Artigo>
           </Capitulo>
         </Titulo>
         <Artigo id="art52">
-            
-            
-            <Rotulo>Art. 52.</Rotulo>
-            
-            <Caput id="art52_cpt">
+          
+          
+          <Rotulo>Art. 52.</Rotulo>
+          
+          <Caput id="art52_cpt">
             
             
             
             <p>Compete ao relator do processo disciplinar determinar a notificação dos interessados para esclarecimentos, ou do representado para a defesa prévia, em qualquer caso no prazo de 15 (quinze) dias. </p>
             
           </Caput>
-          <p><li>1º Se o representado não for encontrado ou for revel, o Presidente do Conselho ou da Subseção deve designar-lhe defensor dativo. </li></p><p><li>2º Oferecida a defesa prévia, que deve estar acompanhada de todos os documentos e o </li></p><p>rol de testemunhas, até o máximo de cinco, é proferido o despacho saneador e, ressalvada a hipótese do § 2º do art. 73 do Estatuto, designada, se reputada necessária, a audiência para oitiva do interessado, do representado e das testemunhas. O interessado e o representado deverão incumbir-se do comparecimento de suas testemunhas, a não ser que prefiram suas intimações pessoais, o que deverá ser requerido na representação e na defesa prévia. As intimações pessoais não serão renovadas em caso de não-comparecimento, facultada a substituição de testemunhas, se presente a substituta na audiência. </p><p><li>3º O relator pode determinar a realização de diligências que julgar convenientes. </li></p><p><li>4º Concluída a instrução, será aberto o prazo sucessivo de 15 (quinze) dias para a apresentação de razões finais pelo interessado e pelo representado, após a juntada da última intimação. </li></p><p><li>5º Extinto o prazo das razões finais, o relator profere parecer preliminar, a ser submetido ao Tribunal. </li></p>
+          <p>
+	    <li>1º Se o representado não for encontrado ou for revel, o Presidente do Conselho ou da Subseção deve designar-lhe defensor dativo. </li>
+	  </p>
+	  <p>
+	    <li>2º Oferecida a defesa prévia, que deve estar acompanhada de todos os documentos e o </li>
+	  </p>
+	  <p>rol de testemunhas, até o máximo de cinco, é proferido o despacho saneador e, ressalvada a hipótese do § 2º do art. 73 do Estatuto, designada, se reputada necessária, a audiência para oitiva do interessado, do representado e das testemunhas. O interessado e o representado deverão incumbir-se do comparecimento de suas testemunhas, a não ser que prefiram suas intimações pessoais, o que deverá ser requerido na representação e na defesa prévia. As intimações pessoais não serão renovadas em caso de não-comparecimento, facultada a substituição de testemunhas, se presente a substituta na audiência. </p>
+	  <p>
+	    <li>3º O relator pode determinar a realização de diligências que julgar convenientes. </li>
+	  </p>
+	  <p>
+	    <li>4º Concluída a instrução, será aberto o prazo sucessivo de 15 (quinze) dias para a apresentação de razões finais pelo interessado e pelo representado, após a juntada da última intimação. </li>
+	  </p>
+	  <p>
+	    <li>5º Extinto o prazo das razões finais, o relator profere parecer preliminar, a ser submetido ao Tribunal. </li>
+	  </p>
         </Artigo>
         <Artigo id="art53">
-            
-            
-            <Rotulo>Art. 53.</Rotulo>
-            
-            <Caput id="art53_cpt">
+          
+          
+          <Rotulo>Art. 53.</Rotulo>
+          
+          <Caput id="art53_cpt">
             
             
             
             <p>O Presidente do Tribunal, após o recebimento do processo devidamente instruído, designa relator para proferir o voto. </p>
             
           </Caput>
-          <p><li>1º O processo é inserido automaticamente na pauta da primeira sessão de julgamento, após o prazo de 20 (vinte) dias de seu recebimento pelo Tribunal, salvo se o relator determinar diligências. </li></p><p><li>2º O representado é intimado pela Secretaria do Tribunal para a defesa oral na sessão, com 15 (quinze) dias de antecedência. </li></p><p><li>3º A defesa oral é produzida na sessão de julgamento perante o Tribunal, após o voto do relator, no prazo de 15 (quinze) minutos, pelo representado ou por seu advogado. </li></p>
+          <p>
+	    <li>1º O processo é inserido automaticamente na pauta da primeira sessão de julgamento, após o prazo de 20 (vinte) dias de seu recebimento pelo Tribunal, salvo se o relator determinar diligências. </li>
+	  </p>
+	  <p>
+	    <li>2º O representado é intimado pela Secretaria do Tribunal para a defesa oral na sessão, com 15 (quinze) dias de antecedência. </li>
+	  </p>
+	  <p>
+	    <li>3º A defesa oral é produzida na sessão de julgamento perante o Tribunal, após o voto do relator, no prazo de 15 (quinze) minutos, pelo representado ou por seu advogado. </li>
+	  </p>
         </Artigo>
         <Artigo id="art54">
-            
-            
-            <Rotulo>Art. 54.</Rotulo>
-            
-            <Caput id="art54_cpt">
+          
+          
+          <Rotulo>Art. 54.</Rotulo>
+          
+          <Caput id="art54_cpt">
             
             
             
             <p>Ocorrendo a hipótese do art. 70, § 3º, do Estatuto, na sessão especial designada pelo Presidente do Tribunal, são facultadas ao representado ou ao seu defensor a apresentação de defesa, a produção de prova e a sustentação oral, restritas, entretanto, à questão do cabimento, ou não, da suspensão preventiva. </p>
             
           </Caput>
-          </Artigo><Artigo id="art55">
-            
-            
-            <Rotulo>Art. 55.</Rotulo>
-            
-            <Caput id="art55_cpt">
+        </Artigo>
+	<Artigo id="art55">
+          
+          
+          <Rotulo>Art. 55.</Rotulo>
+          
+          <Caput id="art55_cpt">
             
             
             
             <p>O expediente submetido à apreciação do Tribunal é autuado pela Secretaria, registrado em livro próprio e distribuído às Seções ou Turmas julgadoras, quando houver. </p>
             
           </Caput>
-          </Artigo><Artigo id="art56">
-            
-            
-            <Rotulo>Art. 56.</Rotulo>
-            
-            <Caput id="art56_cpt">
+        </Artigo>
+	<Artigo id="art56">
+          
+          
+          <Rotulo>Art. 56.</Rotulo>
+          
+          <Caput id="art56_cpt">
             
             
             
             <p>As consultas formuladas recebem autuação em apartado, e a esse processo são designados relator e revisor, pelo Presidente. </p>
             
           </Caput>
-          <p><li>1º O relator e o revisor têm prazo de dez (10) dias, cada um, para elaboração de seus pareceres, apresentando-os na primeira sessão seguinte, para julgamento. </li></p><p><li>2º Qualquer dos membros pode pedir vista do processo pelo prazo de uma sessão e desde que a matéria não seja urgente, caso em que o exame deve ser procedido durante a mesma sessão. Sendo vários os pedidos, a Secretaria providencia a distribuição do prazo, proporcionalmente, entre os interessados. </li></p><p><li>3º Durante o julgamento e para dirimir dúvidas, o relator e o revisor, nessa ordem, têm preferência na manifestação. </li></p><p><li>4º O relator permitirá aos interessados produzir provas, alegações e arrazoados, respeitado o rito sumário atribuído por este Código. </li></p><p><li>5º Após o julgamento, os autos vão ao relator designado ou ao membro que tiver parecer vencedor para lavratura de acórdão, contendo ementa a ser publicada no órgão oficial do Conselho Seccional. </li></p>
+          <p>
+	    <li>1º O relator e o revisor têm prazo de dez (10) dias, cada um, para elaboração de seus pareceres, apresentando-os na primeira sessão seguinte, para julgamento. </li>
+	  </p>
+	  <p>
+	    <li>2º Qualquer dos membros pode pedir vista do processo pelo prazo de uma sessão e desde que a matéria não seja urgente, caso em que o exame deve ser procedido durante a mesma sessão. Sendo vários os pedidos, a Secretaria providencia a distribuição do prazo, proporcionalmente, entre os interessados. </li>
+	  </p>
+	  <p>
+	    <li>3º Durante o julgamento e para dirimir dúvidas, o relator e o revisor, nessa ordem, têm preferência na manifestação. </li>
+	  </p>
+	  <p>
+	    <li>4º O relator permitirá aos interessados produzir provas, alegações e arrazoados, respeitado o rito sumário atribuído por este Código. </li>
+	  </p>
+	  <p>
+	    <li>5º Após o julgamento, os autos vão ao relator designado ou ao membro que tiver parecer vencedor para lavratura de acórdão, contendo ementa a ser publicada no órgão oficial do Conselho Seccional. </li>
+	  </p>
         </Artigo>
         <Artigo id="art57">
-            
-            
-            <Rotulo>Art. 57.</Rotulo>
-            
-            <Caput id="art57_cpt">
+          
+          
+          <Rotulo>Art. 57.</Rotulo>
+          
+          <Caput id="art57_cpt">
             
             
             
             <p>Aplica-se ao funcionamento das sessões do Tribunal o procedimento adotado no Regimento Interno do Conselho Seccional. </p>
             
           </Caput>
-          </Artigo><Artigo id="art58">
-            
-            
-            <Rotulo>Art. 58.</Rotulo>
-            
-            <Caput id="art58_cpt">
+        </Artigo>
+	<Artigo id="art58">
+          
+          
+          <Rotulo>Art. 58.</Rotulo>
+          
+          <Caput id="art58_cpt">
             
             
             
             <p>Comprovado que os interessados no processo nele tenham intervindo de modo temerário, com sentido de emulação ou procrastinação, tal fato caracteriza falta de ética passível de punição. </p>
             
           </Caput>
-          </Artigo><Artigo id="art59">
-            
-            
-            <Rotulo>Art. 59.</Rotulo>
-            
-            <Caput id="art59_cpt">
+        </Artigo>
+	<Artigo id="art59">
+          
+          
+          <Rotulo>Art. 59.</Rotulo>
+          
+          <Caput id="art59_cpt">
             
             
             
             <p>Considerada a natureza da infração ética cometida, o Tribunal pode suspender temporariamente a aplicação das penas de advertência e censura impostas, desde que o infrator primário, dentro do prazo de 120 dias, passe a freqüentar e conclua, comprovadamente, curso, simpósio, seminário ou atividade equivalente, sobre Ética Profissional do Advogado, realizado por entidade de notória idoneidade. </p>
             
           </Caput>
-          </Artigo><Artigo id="art60">
-            
-            
-            <Rotulo>Art. 60.</Rotulo>
-            
-            <Caput id="art60_cpt">
+        </Artigo>
+	<Artigo id="art60">
+          
+          
+          <Rotulo>Art. 60.</Rotulo>
+          
+          <Caput id="art60_cpt">
             
             
             
             <p>Os recursos contra decisões do Tribunal de Ética e Disciplina, ao Conselho Seccional, regem-se pelas disposições do Estatuto, do Regulamento Geral e do Regimento Interno do Conselho Seccional. </p>
             
-          </Caput><Paragrafo id="art60_par1u">
+          </Caput>
+	  <Paragrafo id="art60_par1u">
             
             
             <Rotulo>Parágrafo único.</Rotulo>
             <p>O Tribunal dará conhecimento de todas as suas decisões ao Conselho Seccional, para que determine periodicamente a publicação de seus julgados. </p>
             
           </Paragrafo>
-          </Artigo><Artigo id="art61">
-            
-            
-            <Rotulo>Art. 61.</Rotulo>
-            
-            <Caput id="art61_cpt">
+        </Artigo>
+	<Artigo id="art61">
+          
+          
+          <Rotulo>Art. 61.</Rotulo>
+          
+          <Caput id="art61_cpt">
             
             
             
@@ -1006,72 +1198,74 @@
           </Caput>
         </Artigo>
         <Capitulo id="cap3">
-            
-            
-            <Rotulo>CAPÍTULO III</Rotulo>
-            <NomeAgrupador>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS </NomeAgrupador>
-            <Artigo id="art62">
+          
+          
+          <Rotulo>CAPÍTULO III</Rotulo>
+          <NomeAgrupador>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS </NomeAgrupador>
+          <Artigo id="art62">
             
             
             <Rotulo>Art. 62.</Rotulo>
             
             <Caput id="art62_cpt">
-            
-            
-            
-            <p>O Conselho Seccional deve oferecer os meios e suporte imprescindíveis para o desenvolvimento das atividades do Tribunal. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art63">
+              
+              
+              
+              <p>O Conselho Seccional deve oferecer os meios e suporte imprescindíveis para o desenvolvimento das atividades do Tribunal. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art63">
             
             
             <Rotulo>Art. 63.</Rotulo>
             
             <Caput id="art63_cpt">
-            
-            
-            
-            <p>O Tribunal de Ética e Disciplina deve organizar seu Regimento Interno, a ser submetido ao Conselho Seccional e, após, ao Conselho Federal. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art64">
+              
+              
+              
+              <p>O Tribunal de Ética e Disciplina deve organizar seu Regimento Interno, a ser submetido ao Conselho Seccional e, após, ao Conselho Federal. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art64">
             
             
             <Rotulo>Art. 64.</Rotulo>
             
             <Caput id="art64_cpt">
-            
-            
-            
-            <p>A pauta de julgamentos do Tribunal é publicada em órgão oficial e no quadro de avisos gerais, na sede do Conselho Seccional, com antecedência de 07 (sete) dias, devendo ser dada prioridade nos julgamentos para os interessados que estiverem presentes. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art65">
+              
+              
+              
+              <p>A pauta de julgamentos do Tribunal é publicada em órgão oficial e no quadro de avisos gerais, na sede do Conselho Seccional, com antecedência de 07 (sete) dias, devendo ser dada prioridade nos julgamentos para os interessados que estiverem presentes. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art65">
             
             
             <Rotulo>Art. 65.</Rotulo>
             
             <Caput id="art65_cpt">
-            
-            
-            
-            <p>As regras deste Código obrigam igualmente as sociedades de advogados e os estagiários, no que lhes forem aplicáveis. </p>
-            
-          </Caput>
-          </Artigo><Artigo id="art66">
+              
+              <p>As regras deste Código obrigam igualmente as sociedades de advogados e os estagiários, no que lhes forem aplicáveis. </p>
+              
+            </Caput>
+          </Artigo>
+	  <Artigo id="art66">
             
             
             <Rotulo>Art. 66.</Rotulo>
             
             <Caput id="art66_cpt">
-            
-            
-            
-            <p>Este Código entra em vigor, em todo o território nacional, na data de sua publicação, cabendo aos Conselhos Federal e Seccionais e às Subseções da OAB promover a sua ampla divulgação, revogadas as disposições em contrário.  Brasília-DF, 13 de fevereiro de 1995.  José Roberto Batochio, Presidente  Modesto Carvalhosa, Relator </p>
-            
-          </Caput>
+              
+              <p>Este Código entra em vigor, em todo o território nacional, na data de sua publicação, cabendo aos Conselhos Federal e Seccionais e às Subseções da OAB promover a sua ampla divulgação, revogadas as disposições em contrário.  Brasília-DF, 13 de fevereiro de 1995.  José Roberto Batochio, Presidente  Modesto Carvalhosa, Relator </p>
+              
+            </Caput>
           </Artigo>
-          </Capitulo><p>(Comissão Revisora: Licínio Leal Barbosa, Presidente; Robison Baroni, Secretário e Sub-relator; Nilzardo Carneiro Leão, José Cid Campelo e Sergio Ferraz, Membros)</p></Articulacao>
+        </Capitulo>
+	<p>(Comissão Revisora: Licínio Leal Barbosa, Presidente; Robison Baroni, Secretário e Sub-relator; Nilzardo Carneiro Leão, José Cid Campelo e Sergio Ferraz, Membros)</p>
+</Articulacao>
         </Norma>
       </ProjetoNorma>
     </LexML>
