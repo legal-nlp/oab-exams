@@ -1,7 +1,5 @@
-
 (ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
-(ql:quickload :cxml)
 (ql:quickload :yason)
 
 (defpackage :oab-parser
@@ -9,19 +7,7 @@
 
 (in-package :oab-parser)
 
-(defclass question ()
-  ((filename :accessor question-filename :initarg :filename)
-   (number   :accessor question-number)
-   (valid    :accessor question-valid)
-   (enum     :accessor question-enum)
-   (areas    :accessor question-areas    :initform nil)
-   (options  :accessor question-options  :initform nil)))
-
-(defclass option ()
-  ((letter  :accessor option-letter  :initarg :letter)
-   (correct :accessor option-correct :initarg :correct)
-   (text    :accessor option-text    :initarg :text :initform nil)))
-
+;; utils
 
 (defun join-lines (lines)
   (string-trim '(#\Space) (format nil "~{~a~^ ~}" lines)))
@@ -40,6 +26,50 @@
 		  (cons (car lines) paragraph)
 		  paragraphs))))
 
+
+;; data
+
+(defclass question ()
+  ((filename :accessor question-filename :initarg :filename)
+   (number   :accessor question-number)
+   (valid    :accessor question-valid)
+   (enum     :accessor question-enum)
+   (areas    :accessor question-areas    :initform nil)
+   (options  :accessor question-options  :initform nil)))
+
+(defclass option ()
+  ((letter  :accessor option-letter  :initarg :letter)
+   (correct :accessor option-correct :initarg :correct)
+   (text    :accessor option-text    :initarg :text :initform nil)))
+
+
+;; JSON encoding
+
+(defmethod yason:encode ((q question) &optional (stream *standard-output*))
+  (yason:with-output (stream)
+    (yason:with-object ()
+      (yason:encode-object-element "filename" (question-filename q))
+      (yason:encode-object-element "number" (question-number q))
+      (yason:encode-object-element "valid"  (question-valid q))
+      (yason:encode-object-element "enum"   (question-enum q))
+      (yason:with-object-element ("areas")
+	(yason:with-array ()
+	  (dolist (quest (question-areas q))
+	    (yason:encode-array-element quest))))
+      (yason:with-object-element ("options")
+	(yason:with-array ()
+	  (dolist (opt (question-options q))
+	    (yason:encode-array-element opt)))))))
+
+(defmethod yason:encode ((opt option) &optional (stream *standard-output*))
+  (yason:with-output (stream)
+    (yason:with-object ()
+      (yason:encode-object-element "letter" (option-letter opt))
+      (yason:encode-object-element "correct" (option-correct opt))
+      (yason:encode-object-element "text"  (option-text opt)))))
+
+
+;; parser
 
 (defun naive-parser (inputs filename)
   (macrolet ((flush-line ()
@@ -97,7 +127,7 @@
 	  (go label-5))
 	 (a (setf item (make-instance 'option
 				      :letter  (aref b 0)
-				      :correct (aref b 1)))
+				      :correct (if (aref b 1) t nil)))
 	    (push (aref b 2) (option-text item))
 	    (go label-4))
 	 ((and (null a) (not (equal "" line)))
@@ -113,7 +143,7 @@
 
      label-5
      (setf (question-options q) (reverse items))
-     (assert (or (member ":CORRECT" (mapcar #'option-correct items) :test #'equal)
+     (assert (or (some #'option-correct items)
 		 (not (question-valid q))))
      (return q))))
 
@@ -123,65 +153,34 @@
     (mapcar (lambda (txt)
 	      (funcall parser
 		       (cl-ppcre:split "\\n" txt)
-		       (pathname-name filename)))
+		       (format nil "~a.txt" (pathname-name filename))))
 	    questions)))
 
 
-;; JSON ES
-
-(defun question-to-json (question)
-  "...")
-
-
-;; XML
-
-(defun item-to-tree (item)
-  (destructuring-bind (i-letter i-correct? i-text) item
-    (list "item" (list (list "letter" i-letter)
-                       (list "correct" (if i-correct? "true" "false")))
-          i-text)))
+(defun answer-sheet (questions)
+  (mapcar (lambda (q)
+	    (list (question-number q)
+		  (and (question-valid q)
+		       (option-letter (car (member-if #'option-correct
+						      (question-options q)))))))
+	  questions))
 
 
-(defun question-to-tree (question)
-  (destructuring-bind (q-number q-null? q-enum items) question
-    (list "question" (list (list "number" q-number)
-                           (list "valid" (if q-null? "false" "true")))
-          (list "statement" nil q-enum)
-          (append (list "items" nil)
-                  (reverse (mapcar #'item-to-tree items))))))
+
+(defun file-to-es (fn stream)
+  (let ((questions (parse-oab-file fn))
+	(head "{ \"index\" : { \"_index\" : \"oab\", \"_type\" : \"doc\" }}"))
+    (loop for q in questions
+	  do (progn
+	       (write-line head stream)
+	       (yason:encode q stream)
+	       (format stream "~%")))))
+
+(defun files-es ()
+  (dolist (path (directory "../official/raw/*.txt"))
+    (with-open-file (ss (format nil "~a.json" (pathname-name path))
+			:direction :output :if-exists :supersede)
+      (file-to-es path ss))))
 
 
-(defun questions-to-tree (questions year edition)
-  (list "OAB-exam" (list (list "year" year) (list "edition" edition))
-        (append (list "questions" nil)
-                (mapcar #'question-to-tree questions))))
 
-
-(defun tree-to-xml (tree path)
-  (with-open-file (out path :direction :output
-                       :element-type '(unsigned-byte 8)
-                       :if-exists :supersede)
-    (cxml-xmls:map-node (cxml:make-octet-stream-sink out)
-                        tree :include-namespace-uri nil)))
-
-
-(defun oab-to-xml (txt-path xml-path &key year edition)
-  (let* ((questions (parse-oab-file txt-path))
-         (tree (questions-to-tree questions year edition)))
-    (tree-to-xml tree xml-path)))
-
-(defun get-year-edition-from-path (filepath &key (sep "-"))
-  (let ((name (pathname-name filepath)))
-    (cl-ppcre:split sep name)))
-
-(defun mirror-oab-to-xml (txt-path)
-  ;; will create a xml version in the same path as txt-path
-  ;; filename-name must be YYYY-ed, as in doc/README
-  (destructuring-bind (year edition)
-      (get-year-edition-from-path txt-path)
-    (let ((xml-path (make-pathname :type "xml" :defaults txt-path)))
-      (oab-to-xml txt-path xml-path :year year :edition edition))))
-
-
-; (oab-parser:oab-to-xml #P"../OAB/raw/2010-official-1.txt" #P"2010-01.xml" :year "2010" :edition "01")
-; (mapc #'oab-parser:mirror-oab-to-xml (directory #p"/*.txt"))
