@@ -3,18 +3,18 @@
 
 OAB Exams are the Brazilian version of the BAR exam (USA).
 
+## Official reports about the exams 
+
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol2
+  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol3
+
 ## Data
 
 This repository has a corpus with raw text files from:
 
 + the official OAB Exams made by FGV PROJETOS; and,
 + simulation exams provided by FGV DIREITO RIO.
-
-## Official reports about the exams 
-
-  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros
-  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol2
-  - http://fgvprojetos.fgv.br/publicacao/exame-de-ordem-em-numeros-vol3
 
 ## Research published
 
