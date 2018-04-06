@@ -4,8 +4,10 @@
 		xmlns:lexml="http://www.lexml.gov.br/1.0">
 
 
-  <xsl:template match="*|/">
-    <xsl:apply-templates />
+  <xsl:template match="//lexml:Articulacao">
+    <artigos>
+      <xsl:apply-templates />
+    </artigos>
   </xsl:template>
 
   <xsl:template match="//lexml:Artigo">
