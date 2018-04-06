@@ -1,0 +1,12 @@
+http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+
+IR and PMI solvers from:
+
+https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11963
+
+
+To obtain a list of articles:
+
+cd lexml/law-8906/
+xsltproc ../../src/extract-articles.xslt 8906.xml | tidy -xml -i > 8906-simple.xml
+
