@@ -1,12 +1,32 @@
 http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+http://www.aclweb.org/anthology/P89-1010.pdf
 
 IR and PMI solvers from:
 
 https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11963
 
+Preparation:
 
-To obtain a list of articles:
+1. Have an Elastic Search server running on ELASTICSEARCH_URL (e.g., http://localhost:9200)
 
-cd lexml/law-8906/
-xsltproc ../../src/extract-articles.xslt 8906.xml | tidy -xml -i > 8906-simple.xml
+2. Use src/load-es.sh to index all OAB questions (via src/load-es.sh),
+   in index "oab"
 
+3. Make sure your "oab" index is correct:
+
+$ curl http://localhost:9200/oab/_stats?pretty
+
+4. Convert all Laws to text using scripts/preprocess.sh.  You'll end
+   up with a number of *.xml.txt documents.
+
+5. Use index-corpus.py to import these documents generated in step 4:
+
+$ for f in *.xml.txt; do
+    python3 index-corpus.py $f corpus localhost
+  done
+
+5. Check the "corpus" index:
+
+$ curl http://localhost:9200/corpus/_stats?pretty
+
+See READMEs in IR/ and PMI/ on how to run each experiment.
