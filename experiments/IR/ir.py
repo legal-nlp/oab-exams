@@ -29,9 +29,11 @@ sw = load_stopwords()
 
 for r in res['hits']['hits']:
     enum = r['_source']['enum'].replace('\n', ' ')
+    oab_filename = r['_source']['filename']
+    oab_number = r['_source']['number']
     options = r['_source']['options']
     max_score = 0
-    selected_option = { 'text': 'N/A', 'correct': None }
+    selected_option = { 'letter': '?', 'text': 'N/A', 'correct': None }
     justification = "N/A"
     for o in options:
         enum_plus_option = enum + ' ' + o['text']
@@ -50,7 +52,9 @@ for r in res['hits']['hits']:
             if score > max_score:
                 max_score = score
                 selected_option = o
-                justification = text
-    row = [enum, selected_option['text'], justification, str(selected_option['correct'])]
+                justification = "[{}] {}".format(r['hits']['hits'][0]['_source']['filename'], text)
+
+    row = [oab_filename, oab_number,
+           enum, selected_option['letter'], selected_option['text'], justification, str(selected_option['correct'])]
     print("\t".join(row))
     

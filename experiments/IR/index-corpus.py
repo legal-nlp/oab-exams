@@ -62,7 +62,7 @@ if __name__ == "__main__":
     }'''
 
     # Function that constructs a json body to add each line of the file to index
-    def make_documents(f):
+    def make_documents(f, filename):
         doc_id = 0
         for l in f:
             doc = {
@@ -70,7 +70,7 @@ if __name__ == "__main__":
                 '_index': index_name,
                 '_type': TYPE,
                 '_id': doc_id,
-                '_source': {'text': l.strip()}
+                '_source': {'filename': filename, 'text': l.strip()}
             }
             doc_id += 1
             yield (doc)
@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
         # Bulk-insert documents into index
         with open(args.file, "r") as f:
-            res = bulk(es, make_documents(f))
+            res = bulk(es, make_documents(f, args.file))
             doc_count = res[0]
 
     except Exception as inst:

@@ -10,8 +10,9 @@ $ curl http://localhost:9200/oab/_stats?pretty
 
 4. Use index-corpus.py to import the Articles corpus:
 
-$ cat *.txt > corpus.txt
-$ python3 index-corpus.py corpus.txt corpus localhost
+$ for f in *.txt; do
+    python3 index-corpus.py $f corpus localhost
+  done
 
 5. Check the "corpus" index:
 
