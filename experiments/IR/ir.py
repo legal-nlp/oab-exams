@@ -1,6 +1,19 @@
-import argparse, elasticsearch, json
+import argparse, elasticsearch, json, re
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
+
+def overlap(a,b,stopwords):
+    filtered_a = set([ x.lower() for x in re.sub(r'\W+', ' ', a).split() ]) - stopwords
+    filtered_b = set([ x.lower() for x in re.sub(r'\W+', ' ', b).split() ]) - stopwords
+
+    return filtered_a & filtered_b
+
+def load_stopwords():
+    sw = []
+    with open('stopwords-pt.txt', 'r') as f:
+        for l in f:
+            sw.append(l.strip())
+    return set(sw)
 
 es = Elasticsearch(['http://localhost:9200/'])
 doc = {
@@ -12,11 +25,14 @@ doc = {
 
 res = es.search(index="oab", doc_type='doc', body=doc)
 
+sw = load_stopwords()
+
 for r in res['hits']['hits']:
     enum = r['_source']['enum'].replace('\n', ' ')
     options = r['_source']['options']
     max_score = 0
-    selected_option = {}
+    selected_option = { 'text': 'N/A', 'correct': None }
+    justification = "N/A"
     for o in options:
         enum_plus_option = enum + ' ' + o['text']
         query = {
@@ -29,8 +45,12 @@ for r in res['hits']['hits']:
 
         r = es.search(index="corpus", doc_type="sentence", body=query)
         score = r['hits']['hits'][0]['_score']
-        if score > max_score:
-            max_score = score
-            selected_option = o
-    print (selected_option['correct'])
+        text =  r['hits']['hits'][0]['_source']['text']
+        if len(overlap(enum_plus_option, text, sw)) > 0:
+            if score > max_score:
+                max_score = score
+                selected_option = o
+                justification = text
+    row = [enum, selected_option['text'], justification, str(selected_option['correct'])]
+    print("\t".join(row))
     
