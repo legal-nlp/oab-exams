@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# from: http://www.aclweb.org/anthology/P89-1010.pdf
+### from: http://www.aclweb.org/anthology/P89-1010.pdf
 # How to calculate PMI:
 
 # What is "mutual information"? According to [Fano (1961), p. 28], if
@@ -29,13 +29,100 @@
 # that x is followed by y in a window of w words fw(x,y), and
 # normalizing by N.
 
-#The window size parameter allows us to look at different
-#scales. Smaller window sizes will identify fixed expressions (idioms)
-#and other relations that hold over short ranges; larger window sizes
-#will highlight semantic concepts and other relationships that hold
-#over larger scales. For the remainder of this paper, the window size,
-#w, will be set to 5 words as a compromise; thissettingislargeenough
-#to show some of the constraints between verbs and arguments, but not
-#so large that it would wash out constraints that make
-#use of strict adjacency.
+# The window size parameter allows us to look at different
+# scales. Smaller window sizes will identify fixed expressions
+# (idioms) and other relations that hold over short ranges; larger
+# window sizes will highlight semantic concepts and other
+# relationships that hold over larger scales. For the remainder of
+# this paper, the window size, w, will be set to 5 words as a
+# compromise; thissettingislargeenough to show some of the constraints
+# between verbs and arguments, but not so large that it would wash out
+# constraints that make use of strict adjacency.
 
+### from: https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11963
+
+# The PMI solver formalizes a way of computing and applying such
+# associational knowledge. Given a question q and an answer option ai,
+# it uses pointwise mutual information (Church and Hanks 1989) to
+# measure the strength of the associations between parts of q and
+# parts of ai. Given a large corpus C, PMI for two n-grams x and y is
+# defined as:
+
+# PMI (x, y) = log p(x, y) p(x)p(y)
+
+# Here p(x, y) is the joint probability that x and y occur together in
+# the corpus C, within a certain window of text (we use a 10 word
+# window). The term p(x)p(y), on the other hand, represents the
+# probability with which x and y would occur together if they were
+# statistically independent. The ratio of p(x, y) to p(x)p(y) is thus
+# the ratio of the observed co-occurrence to the expected
+# co-occurrence. The larger this ratio, the stronger the association
+# between x and y.
+
+# We extract unigrams, bigrams, trigrams, and skip-bigrams from the
+# question q and each answer option ai. We use the SMART stop word
+# list (Salton 1971) to filter the extracted n-grams, but allow
+# trigrams to have a stop word as their middle word. The answer with
+# the largest average PMI, calculated over all pairs of question
+# n-grams and answer option n-grams, is the best guess for the PMI
+# solver.
+
+import nltk
+import argparse, elasticsearch, json, re
+from elasticsearch import Elasticsearch
+from elasticsearch.helpers import bulk
+
+# need to remove stopwords
+def split(s, stopwords):
+    return [ x.lower() for x in re.sub(r'\W+', ' ', s).split() ]
+
+def load_stopwords():
+    sw = []
+    with open('../stopwords-pt.txt', 'r') as f:
+        for l in f:
+            sw.append(l.strip())
+    return set(sw)
+
+es = Elasticsearch(['http://localhost:9200/'])
+
+doc = {
+    'size' : 5000,
+    'query': {
+        'match_all' : {}
+    }
+}
+
+res = es.search(index="oab", doc_type='doc', body=doc)
+
+oab = []
+
+for r in res['hits']['hits']:
+    oab.append(r['_source'])
+
+corpus = []
+res = es.search(index="corpus", doc_type="sentence", body=doc)
+
+for r in res['hits']['hits']:
+    corpus.append(r['_source'])
+
+sw = load_stopwords()
+
+
+# def ngramise(sequence):
+#     '''
+#     Iterate over bigrams and 1,2-skip-grams.
+#     '''
+#     for bigram in nltk.ngrams(sequence, 2):
+#         yield bigram
+#     for trigram in nltk.ngrams(sequence, 3):
+#         yield trigram[0], trigram[2]
+
+# generate pairs, x from question n-grams, y from option n-grams
+
+for q in oab:
+    enum = nltk.ngrams(split(q['enum'], sw), 1)
+    
+    for o in q['options']:
+        option_text = split(o['text'], sw)
+        print(enum,option_text)
+        

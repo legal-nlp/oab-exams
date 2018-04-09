@@ -10,7 +10,7 @@ def overlap(a,b,stopwords):
 
 def load_stopwords():
     sw = []
-    with open('stopwords-pt.txt', 'r') as f:
+    with open('../stopwords-pt.txt', 'r') as f:
         for l in f:
             sw.append(l.strip())
     return set(sw)
