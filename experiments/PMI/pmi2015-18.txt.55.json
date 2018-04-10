@@ -1,1 +1,55 @@
-[{"enum": "X contratou um plano de sa\u00fade com cobertura integral e sem car\u00eancia junto \u00e0 operadora Sa\u00fade 100%, em 19 de outubro de 2012. Seis meses depois, precisou se submeter a uma cirurgia na coluna, mas o plano se negou a cobri-la, sob alega\u00e7\u00e3o de que tal procedimento n\u00e3o estava previsto em contrato. Inconformado, X ajuizou a\u00e7\u00e3o visando ao cumprimento for\u00e7ado da obriga\u00e7\u00e3o, demanda essa distribu\u00edda perante a 10\u00aa Vara C\u00edvel da comarca do Rio de Janeiro, de titularidade do magistrado Y. Ap\u00f3s regular tramita\u00e7\u00e3o, o pedido autoral foi julgado procedente, tendo em senten\u00e7a sido fixado o prazo de 10 dias para a efetiva\u00e7\u00e3o da cirurgia, sob pena de multa de R$ 1.000,00 por dia de atraso. Tr\u00eas meses depois do tr\u00e2nsito em julgado, e ainda n\u00e3o tendo sido cumprida a obriga\u00e7\u00e3o, X requereu a majora\u00e7\u00e3o da multa di\u00e1ria, pedido este indeferido pelo juiz Y, sob alega\u00e7\u00e3o de estar impedido de atuar por for\u00e7a da coisa julgada material.\n\n Sobre os fatos, assinale a afirmativa correta.", "number": "55", "areas": [], "filename": "2015-18.txt", "valid": true, "options": [{"letter": "A", "pmi": [-0.11938007263232019, 0.0, 0.0, 0.0], "correct": null, "text": "O magistrado agiu corretamente, cabendo ao autor apenas cobrar a multa vencida."}, {"letter": "B", "pmi": [-0.18697164409288594, 0.0, 0.0, 0.0], "correct": true, "text": "A multa poderia ser aumentada, ou at\u00e9 mesmo substitu\u00edda por outra medida de apoio mais efetiva, a fim de concretizar o direito do autor."}, {"letter": "C", "pmi": [-0.14021991756316007, 0.0, 0.0, 0.0], "correct": null, "text": "A multa somente poderia ser aumentada se o autor conseguisse modificar a senten\u00e7a por meio de uma a\u00e7\u00e3o rescis\u00f3ria."}, {"letter": "D", "pmi": [-0.1371606387701149, 0.0, 0.0, 0.0], "correct": null, "text": "A multa n\u00e3o poderia ser aumentada, mas o juiz poderia condenar a empresa r\u00e9 a pagar danos morais ao autor."}]}]
+[
+    {
+        "enum": "X contratou um plano de sa\u00fade com cobertura integral e sem car\u00eancia junto \u00e0 operadora Sa\u00fade 100%, em 19 de outubro de 2012. Seis meses depois, precisou se submeter a uma cirurgia na coluna, mas o plano se negou a cobri-la, sob alega\u00e7\u00e3o de que tal procedimento n\u00e3o estava previsto em contrato. Inconformado, X ajuizou a\u00e7\u00e3o visando ao cumprimento for\u00e7ado da obriga\u00e7\u00e3o, demanda essa distribu\u00edda perante a 10\u00aa Vara C\u00edvel da comarca do Rio de Janeiro, de titularidade do magistrado Y. Ap\u00f3s regular tramita\u00e7\u00e3o, o pedido autoral foi julgado procedente, tendo em senten\u00e7a sido fixado o prazo de 10 dias para a efetiva\u00e7\u00e3o da cirurgia, sob pena de multa de R$ 1.000,00 por dia de atraso. Tr\u00eas meses depois do tr\u00e2nsito em julgado, e ainda n\u00e3o tendo sido cumprida a obriga\u00e7\u00e3o, X requereu a majora\u00e7\u00e3o da multa di\u00e1ria, pedido este indeferido pelo juiz Y, sob alega\u00e7\u00e3o de estar impedido de atuar por for\u00e7a da coisa julgada material.\n\n Sobre os fatos, assinale a afirmativa correta.",
+        "number": "55",
+        "areas": [],
+        "filename": "2015-18.txt",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.11938007263232019,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O magistrado agiu corretamente, cabendo ao autor apenas cobrar a multa vencida."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.18697164409288594,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "A multa poderia ser aumentada, ou at\u00e9 mesmo substitu\u00edda por outra medida de apoio mais efetiva, a fim de concretizar o direito do autor."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.14021991756316007,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A multa somente poderia ser aumentada se o autor conseguisse modificar a senten\u00e7a por meio de uma a\u00e7\u00e3o rescis\u00f3ria."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.1371606387701149,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A multa n\u00e3o poderia ser aumentada, mas o juiz poderia condenar a empresa r\u00e9 a pagar danos morais ao autor."
+            }
+        ]
+    }
+]

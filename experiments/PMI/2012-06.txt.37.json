@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Jos\u00e9, solteiro, possui tr\u00eas irm\u00e3os: Raul, Ralph e Randolph. Raul era pai de Mauro e M\u00e1rio. M\u00e1rio era pai de Augusto e Alberto. Faleceram, em virtude de acidente automobil\u00edstico, Raul e M\u00e1rio, na data de 15/4/2005. Posteriormente, Jos\u00e9 veio a falecer em 1\u00ba/5/2006. Sabendo-se que a heran\u00e7a de Jos\u00e9 \u00e9 de R$ 90.000,00, como ficar\u00e1 a partilha de seus bens?", "filename": "2012-06.txt", "number": "37", "options": [{"correct": null, "letter": "A", "text": "Como Jos\u00e9 n\u00e3o possui descendente, a partilha dever\u00e1 ser feita entre os irm\u00e3os. E, como n\u00e3o h\u00e1 direito de representa\u00e7\u00e3o entre os filhos de irm\u00e3o, Ralph e Randolph receber\u00e3o cada um R$ 45.000,00."}, {"correct": null, "letter": "B", "text": "Ralph e Randolph devem receber R$ 30.000,00 cada. A parte que caber\u00e1 a Raul deve ser repartida entre Mauro e M\u00e1rio. Sendo M\u00e1rio pr\u00e9-morto, seus filhos Alberto e Augusto devem receber a quantia que lhe caberia. Assim, Mauro deve receber R$ 15.0000,00, e Alberto e Augusto devem receber R$ 7.500,00 cada um."}, {"correct": true, "letter": "C", "text": "Ralph e Randolph receber\u00e3o R$ 30.000,00 cada um. O restante (R$ 30.000,00) ser\u00e1 entregue a Mauro, por direito de representa\u00e7\u00e3o de seu pai pr\u00e9-morto."}, {"correct": null, "letter": "D", "text": "Ralph e Randolph receber\u00e3o R$ 30.000,00 cada um. O restante, na falta de outro colateral vivo, ser\u00e1 entregue ao Munic\u00edpio, Distrito Federal ou Uni\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Jos\u00e9, solteiro, possui tr\u00eas irm\u00e3os: Raul, Ralph e Randolph. Raul era pai de Mauro e M\u00e1rio. M\u00e1rio era pai de Augusto e Alberto. Faleceram, em virtude de acidente automobil\u00edstico, Raul e M\u00e1rio, na data de 15/4/2005. Posteriormente, Jos\u00e9 veio a falecer em 1\u00ba/5/2006. Sabendo-se que a heran\u00e7a de Jos\u00e9 \u00e9 de R$ 90.000,00, como ficar\u00e1 a partilha de seus bens?",
+        "filename": "2012-06.txt",
+        "number": "37",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Como Jos\u00e9 n\u00e3o possui descendente, a partilha dever\u00e1 ser feita entre os irm\u00e3os. E, como n\u00e3o h\u00e1 direito de representa\u00e7\u00e3o entre os filhos de irm\u00e3o, Ralph e Randolph receber\u00e3o cada um R$ 45.000,00."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ralph e Randolph devem receber R$ 30.000,00 cada. A parte que caber\u00e1 a Raul deve ser repartida entre Mauro e M\u00e1rio. Sendo M\u00e1rio pr\u00e9-morto, seus filhos Alberto e Augusto devem receber a quantia que lhe caberia. Assim, Mauro deve receber R$ 15.0000,00, e Alberto e Augusto devem receber R$ 7.500,00 cada um."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Ralph e Randolph receber\u00e3o R$ 30.000,00 cada um. O restante (R$ 30.000,00) ser\u00e1 entregue a Mauro, por direito de representa\u00e7\u00e3o de seu pai pr\u00e9-morto."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Ralph e Randolph receber\u00e3o R$ 30.000,00 cada um. O restante, na falta de outro colateral vivo, ser\u00e1 entregue ao Munic\u00edpio, Distrito Federal ou Uni\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

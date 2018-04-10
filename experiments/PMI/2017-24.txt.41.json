@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Andr\u00e9, Mariana e Renata pegaram um autom\u00f3vel emprestado com Fl\u00e1vio, comprometendo-se solidariamente a devolv\u00ea-lo em quinze dias. Ocorre que Renata, dirigindo acima do limite de velocidade, causou um acidente que levou \u00e0 destrui\u00e7\u00e3o total do ve\u00edculo.\n\n Assinale a op\u00e7\u00e3o que apresenta os direitos que Fl\u00e1vio tem diante dos tr\u00eas.", "filename": "2017-24.txt", "number": "41", "options": [{"correct": null, "letter": "A", "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mais perdas e danos."}, {"correct": true, "letter": "B", "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."}, {"correct": null, "letter": "C", "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro e das perdas e danos."}, {"correct": null, "letter": "D", "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Andr\u00e9, Mariana e Renata pegaram um autom\u00f3vel emprestado com Fl\u00e1vio, comprometendo-se solidariamente a devolv\u00ea-lo em quinze dias. Ocorre que Renata, dirigindo acima do limite de velocidade, causou um acidente que levou \u00e0 destrui\u00e7\u00e3o total do ve\u00edculo.\n\n Assinale a op\u00e7\u00e3o que apresenta os direitos que Fl\u00e1vio tem diante dos tr\u00eas.",
+        "filename": "2017-24.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mais perdas e danos."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro e das perdas e danos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"areas": [], "valid": true, "number": "5", "filename": "2016-19.txt", "enum": "Daniel contratou a advogada Beatriz para ajuizar a\u00e7\u00e3o em face de seu vizinho Th\u00e9o, buscando o ressarcimento de danos causados em raz\u00e3o de uma obra indevida no condom\u00ednio. No curso do processo, Beatriz substabeleceu o mandato a Ana, com reserva de poderes. Sentenciado o feito e julgado procedente o pedido de Daniel, o juiz condenou Th\u00e9o ao pagamento de honor\u00e1rios sucumbenciais.\n\n Com base na hip\u00f3tese apresentada, assinale a afirmativa correta.", "options": [{"text": "Ana poder\u00e1 promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais nos mesmos autos judiciais, se assim lhe convier, independentemente da interven\u00e7\u00e3o de Beatriz.", "letter": "A", "correct": null, "pmi": [-0.07115736286484178, 0.0, 0.0, 0.0]}, {"text": "Ana e Beatriz poder\u00e3o promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais, isoladamente ou em conjunto, mas devem faz\u00ea-lo em processo aut\u00f4nomo.", "letter": "B", "correct": null, "pmi": [-0.11244273949786547, 0.0, 0.0, 0.0]}, {"text": "Ana poder\u00e1 promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais nos mesmos autos, se assim lhe convier, mas depender\u00e1 da interven\u00e7\u00e3o de Beatriz.", "letter": "C", "correct": true, "pmi": [-0.07019615290661461, 0.0, 0.0, 0.0]}, {"text": "Ana n\u00e3o ter\u00e1 direito ao recebimento de honor\u00e1rios sucumbenciais, cabendo-lhe executar Beatriz pelos valores que lhe sejam devidos, caso n\u00e3o haja o adimplemento volunt\u00e1rio.", "letter": "D", "correct": null, "pmi": [-0.12220143029425794, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [],
+        "valid": true,
+        "number": "5",
+        "filename": "2016-19.txt",
+        "enum": "Daniel contratou a advogada Beatriz para ajuizar a\u00e7\u00e3o em face de seu vizinho Th\u00e9o, buscando o ressarcimento de danos causados em raz\u00e3o de uma obra indevida no condom\u00ednio. No curso do processo, Beatriz substabeleceu o mandato a Ana, com reserva de poderes. Sentenciado o feito e julgado procedente o pedido de Daniel, o juiz condenou Th\u00e9o ao pagamento de honor\u00e1rios sucumbenciais.\n\n Com base na hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "Ana poder\u00e1 promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais nos mesmos autos judiciais, se assim lhe convier, independentemente da interven\u00e7\u00e3o de Beatriz.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.07115736286484178,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Ana e Beatriz poder\u00e3o promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais, isoladamente ou em conjunto, mas devem faz\u00ea-lo em processo aut\u00f4nomo.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.11244273949786547,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Ana poder\u00e1 promover a execu\u00e7\u00e3o dos honor\u00e1rios sucumbenciais nos mesmos autos, se assim lhe convier, mas depender\u00e1 da interven\u00e7\u00e3o de Beatriz.",
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    -0.07019615290661461,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Ana n\u00e3o ter\u00e1 direito ao recebimento de honor\u00e1rios sucumbenciais, cabendo-lhe executar Beatriz pelos valores que lhe sejam devidos, caso n\u00e3o haja o adimplemento volunt\u00e1rio.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.12220143029425794,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

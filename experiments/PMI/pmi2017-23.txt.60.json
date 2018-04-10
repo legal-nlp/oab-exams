@@ -1,1 +1,57 @@
-[{"filename": "2017-23.txt", "areas": [null], "valid": true, "number": "60", "enum": "Rafael e Francisca combinam praticar um crime de furto em uma resid\u00eancia onde ela exercia a fun\u00e7\u00e3o de passadeira. Decidem, ent\u00e3o, subtrair bens do im\u00f3vel em data sobre a qual Francisca tinha conhecimento de que os propriet\u00e1rios estariam viajando, pois assim ela tinha certeza de que os patr\u00f5es, de quem gostava, n\u00e3o sofreriam qualquer amea\u00e7a ou viol\u00eancia.  No dia do crime, enquanto Francisca aguarda do lado de fora, Rafael entra no im\u00f3vel para subtrair bens. Ela, por\u00e9m, percebe que o carro dos patr\u00f5es est\u00e1 na garagem e tenta avisar o fato ao comparsa para que este sa\u00edsse r\u00e1pido da casa. Todavia, Rafael, ao perceber que a casa estava ocupada, decide empregar viol\u00eancia contra os propriet\u00e1rios para continuar subtraindo mais bens. Descobertos os fatos, Francisca e Rafael s\u00e3o denunciados pela pr\u00e1tica do crime de roubo majorado.\n\n Considerando as informa\u00e7\u00f5es narradas, o(a) advogado(a) de Francisca dever\u00e1 buscar", "options": [{"text": "sua absolvi\u00e7\u00e3o, tendo em vista que n\u00e3o desejava participar do crime efetivamente praticado.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "o reconhecimento da participa\u00e7\u00e3o de menor import\u00e2ncia, com aplica\u00e7\u00e3o de causa de redu\u00e7\u00e3o de pena.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "o reconhecimento de que o agente quis participar de crime menos grave, aplicando-se a pena do furto qualificado.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "correct": true}, {"text": "o reconhecimento de que o agente quis participar de crime menos grave, aplicando-se causa de diminui\u00e7\u00e3o de pena sobre a pena do crime de roubo majorado.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null}]}]
+[
+    {
+        "filename": "2017-23.txt",
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "number": "60",
+        "enum": "Rafael e Francisca combinam praticar um crime de furto em uma resid\u00eancia onde ela exercia a fun\u00e7\u00e3o de passadeira. Decidem, ent\u00e3o, subtrair bens do im\u00f3vel em data sobre a qual Francisca tinha conhecimento de que os propriet\u00e1rios estariam viajando, pois assim ela tinha certeza de que os patr\u00f5es, de quem gostava, n\u00e3o sofreriam qualquer amea\u00e7a ou viol\u00eancia.  No dia do crime, enquanto Francisca aguarda do lado de fora, Rafael entra no im\u00f3vel para subtrair bens. Ela, por\u00e9m, percebe que o carro dos patr\u00f5es est\u00e1 na garagem e tenta avisar o fato ao comparsa para que este sa\u00edsse r\u00e1pido da casa. Todavia, Rafael, ao perceber que a casa estava ocupada, decide empregar viol\u00eancia contra os propriet\u00e1rios para continuar subtraindo mais bens. Descobertos os fatos, Francisca e Rafael s\u00e3o denunciados pela pr\u00e1tica do crime de roubo majorado.\n\n Considerando as informa\u00e7\u00f5es narradas, o(a) advogado(a) de Francisca dever\u00e1 buscar",
+        "options": [
+            {
+                "text": "sua absolvi\u00e7\u00e3o, tendo em vista que n\u00e3o desejava participar do crime efetivamente praticado.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "o reconhecimento da participa\u00e7\u00e3o de menor import\u00e2ncia, com aplica\u00e7\u00e3o de causa de redu\u00e7\u00e3o de pena.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "o reconhecimento de que o agente quis participar de crime menos grave, aplicando-se a pena do furto qualificado.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "text": "o reconhecimento de que o agente quis participar de crime menos grave, aplicando-se causa de diminui\u00e7\u00e3o de pena sobre a pena do crime de roubo majorado.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ]
+    }
+]

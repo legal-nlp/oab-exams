@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Ao ouvir, em mat\u00e9ria telejornal\u00edstica, refer\u00eancia ao Conselho Nacional de Justi\u00e7a (CNJ), Jo\u00e3o, estudante do primeiro ano de curso jur\u00eddico, interessado em melhor compreender a estrutura e as atribui\u00e7\u00f5es dos \u00f3rg\u00e3os estatais, procura o seu professor de Direito Constitucional para obter maiores informa\u00e7\u00f5es sobre o tema. Narra o conte\u00fado da mat\u00e9ria, informando-lhe n\u00e3o ter conseguido entender adequadamente o papel desempenhado pelo referido Conselho na estrutura do Estado. O referido professor, ent\u00e3o, plenamente alicer\u00e7ado na ordem constitucional, esclarece que o Conselho Nacional de Justi\u00e7a", "filename": "2016-20.txt", "number": "13", "options": [{"correct": null, "letter": "A", "text": "\u00e9 um \u00f3rg\u00e3o at\u00edpico, que n\u00e3o se encontra na estrutura de nenhum dos Poderes da Rep\u00fablica, mas que, sem preju\u00edzo das suas atribui\u00e7\u00f5es administrativas, excepcionalmente possui atribui\u00e7\u00f5es jurisdicionais."}, {"correct": null, "letter": "B", "text": "\u00e9 um \u00f3rg\u00e3o pertencente \u00e0 estrutura do Poder Judici\u00e1rio e, como tal, possui todas as atribui\u00e7\u00f5es jurisdicionais recursais, sem preju\u00edzo das atribui\u00e7\u00f5es administrativas de sua compet\u00eancia."}, {"correct": true, "letter": "C", "text": "embora seja um \u00f3rg\u00e3o pertencente \u00e0 estrutura do Poder Judici\u00e1rio, possui atribui\u00e7\u00f5es exclusivamente administrativas, n\u00e3o sendo, portanto, \u00f3rg\u00e3o com compet\u00eancia jurisdicional."}, {"correct": null, "letter": "D", "text": "\u00e9 um \u00f3rg\u00e3o auxiliar da Presid\u00eancia da Rep\u00fablica, com atribui\u00e7\u00f5es de controle da atividade administrativa, financeira e disciplinar de toda a magistratura, inclu\u00eddo neste rol o Supremo Tribunal Federal."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Ao ouvir, em mat\u00e9ria telejornal\u00edstica, refer\u00eancia ao Conselho Nacional de Justi\u00e7a (CNJ), Jo\u00e3o, estudante do primeiro ano de curso jur\u00eddico, interessado em melhor compreender a estrutura e as atribui\u00e7\u00f5es dos \u00f3rg\u00e3os estatais, procura o seu professor de Direito Constitucional para obter maiores informa\u00e7\u00f5es sobre o tema. Narra o conte\u00fado da mat\u00e9ria, informando-lhe n\u00e3o ter conseguido entender adequadamente o papel desempenhado pelo referido Conselho na estrutura do Estado. O referido professor, ent\u00e3o, plenamente alicer\u00e7ado na ordem constitucional, esclarece que o Conselho Nacional de Justi\u00e7a",
+        "filename": "2016-20.txt",
+        "number": "13",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00e9 um \u00f3rg\u00e3o at\u00edpico, que n\u00e3o se encontra na estrutura de nenhum dos Poderes da Rep\u00fablica, mas que, sem preju\u00edzo das suas atribui\u00e7\u00f5es administrativas, excepcionalmente possui atribui\u00e7\u00f5es jurisdicionais."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00e9 um \u00f3rg\u00e3o pertencente \u00e0 estrutura do Poder Judici\u00e1rio e, como tal, possui todas as atribui\u00e7\u00f5es jurisdicionais recursais, sem preju\u00edzo das atribui\u00e7\u00f5es administrativas de sua compet\u00eancia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "embora seja um \u00f3rg\u00e3o pertencente \u00e0 estrutura do Poder Judici\u00e1rio, possui atribui\u00e7\u00f5es exclusivamente administrativas, n\u00e3o sendo, portanto, \u00f3rg\u00e3o com compet\u00eancia jurisdicional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "\u00e9 um \u00f3rg\u00e3o auxiliar da Presid\u00eancia da Rep\u00fablica, com atribui\u00e7\u00f5es de controle da atividade administrativa, financeira e disciplinar de toda a magistratura, inclu\u00eddo neste rol o Supremo Tribunal Federal."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"filename": "2016-19.txt", "number": "6", "enum": "Victor nasceu no Estado do Rio de Janeiro e formou-se em Direito no Estado de S\u00e3o Paulo. Posteriormente, passou a residir, e pretende atuar profissionalmente como advogado, em Fortaleza, Cear\u00e1. Por\u00e9m, em raz\u00e3o de seus contatos no Rio de Janeiro, foi convidado a intervir tamb\u00e9m em feitos judiciais em favor de clientes nesse Estado, cabendo-lhe patrocinar seis causas no ano de 2015.\n\n Diante do exposto, assinale a op\u00e7\u00e3o correta.", "options": [{"correct": null, "pmi": [-0.06047733861697319, 0.0, 0.0, 0.0], "letter": "A", "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional de S\u00e3o Paulo, j\u00e1 que a inscri\u00e7\u00e3o principal do advogado \u00e9 feita no Conselho Seccional em cujo territ\u00f3rio se localize seu curso jur\u00eddico. Al\u00e9m da principal, Victor ter\u00e1 a faculdade de promover sua inscri\u00e7\u00e3o suplementar nos Conselhos Seccionais do Cear\u00e1 e do Rio de Janeiro, onde pretende exercer a profiss\u00e3o."}, {"correct": null, "pmi": [-0.060309232583782686, 0.0, 0.0, 0.0], "letter": "B", "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Rio de Janeiro, pois o Estatuto da OAB determina que esta seja promovida no Conselho Seccional em cujo territ\u00f3rio o advogado exercer interven\u00e7\u00e3o judicial que exceda tr\u00eas causas por ano. Al\u00e9m da principal, Victor poder\u00e1 promover sua inscri\u00e7\u00e3o suplementar nos Conselhos Seccionais do Cear\u00e1 e de S\u00e3o Paulo."}, {"correct": null, "pmi": [-0.05386187801055522, 0.0, 0.0, 0.0], "letter": "C", "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Cear\u00e1. Isso porque a inscri\u00e7\u00e3o principal do advogado deve ser feita no Conselho Seccional em cujo territ\u00f3rio pretende estabelecer o seu domic\u00edlio profissional. A promo\u00e7\u00e3o de inscri\u00e7\u00e3o suplementar no Conselho Seccional do Rio de Janeiro ser\u00e1 facultativa, pois as interven\u00e7\u00f5es judiciais pontuais, como as causas em que Victor atuar\u00e1, n\u00e3o configuram habitualidade no exerc\u00edcio da profiss\u00e3o."}, {"correct": true, "pmi": [-0.030528509864417477, 0.0, 0.0, 0.0], "letter": "D", "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Cear\u00e1. Afinal, a inscri\u00e7\u00e3o principal do advogado deve ser feita no Conselho Seccional em cujo territ\u00f3rio ele pretende estabelecer o seu domic\u00edlio profissional. Al\u00e9m da principal, Victor dever\u00e1 promover a inscri\u00e7\u00e3o suplementar no Conselho Seccional do Rio de Janeiro, j\u00e1 que esta \u00e9 exigida diante de interven\u00e7\u00e3o judicial que exceda cinco causas por ano."}], "valid": true, "areas": []}]
+[
+    {
+        "filename": "2016-19.txt",
+        "number": "6",
+        "enum": "Victor nasceu no Estado do Rio de Janeiro e formou-se em Direito no Estado de S\u00e3o Paulo. Posteriormente, passou a residir, e pretende atuar profissionalmente como advogado, em Fortaleza, Cear\u00e1. Por\u00e9m, em raz\u00e3o de seus contatos no Rio de Janeiro, foi convidado a intervir tamb\u00e9m em feitos judiciais em favor de clientes nesse Estado, cabendo-lhe patrocinar seis causas no ano de 2015.\n\n Diante do exposto, assinale a op\u00e7\u00e3o correta.",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.06047733861697319,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional de S\u00e3o Paulo, j\u00e1 que a inscri\u00e7\u00e3o principal do advogado \u00e9 feita no Conselho Seccional em cujo territ\u00f3rio se localize seu curso jur\u00eddico. Al\u00e9m da principal, Victor ter\u00e1 a faculdade de promover sua inscri\u00e7\u00e3o suplementar nos Conselhos Seccionais do Cear\u00e1 e do Rio de Janeiro, onde pretende exercer a profiss\u00e3o."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.060309232583782686,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Rio de Janeiro, pois o Estatuto da OAB determina que esta seja promovida no Conselho Seccional em cujo territ\u00f3rio o advogado exercer interven\u00e7\u00e3o judicial que exceda tr\u00eas causas por ano. Al\u00e9m da principal, Victor poder\u00e1 promover sua inscri\u00e7\u00e3o suplementar nos Conselhos Seccionais do Cear\u00e1 e de S\u00e3o Paulo."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.05386187801055522,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Cear\u00e1. Isso porque a inscri\u00e7\u00e3o principal do advogado deve ser feita no Conselho Seccional em cujo territ\u00f3rio pretende estabelecer o seu domic\u00edlio profissional. A promo\u00e7\u00e3o de inscri\u00e7\u00e3o suplementar no Conselho Seccional do Rio de Janeiro ser\u00e1 facultativa, pois as interven\u00e7\u00f5es judiciais pontuais, como as causas em que Victor atuar\u00e1, n\u00e3o configuram habitualidade no exerc\u00edcio da profiss\u00e3o."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.030528509864417477,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "A inscri\u00e7\u00e3o principal de Victor deve ser realizada no Conselho Seccional do Cear\u00e1. Afinal, a inscri\u00e7\u00e3o principal do advogado deve ser feita no Conselho Seccional em cujo territ\u00f3rio ele pretende estabelecer o seu domic\u00edlio profissional. Al\u00e9m da principal, Victor dever\u00e1 promover a inscri\u00e7\u00e3o suplementar no Conselho Seccional do Rio de Janeiro, j\u00e1 que esta \u00e9 exigida diante de interven\u00e7\u00e3o judicial que exceda cinco causas por ano."
+            }
+        ],
+        "valid": true,
+        "areas": []
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "53", "areas": ["CIVIL-PROCEDURE"], "enum": "O arresto e o sequestro constituem procedimentos cautelares espec\u00edficos. Portanto, constituem medidas concedidas mediante cogni\u00e7\u00e3o sum\u00e1ria, nas quais o juiz, para a sua concess\u00e3o, deve verificar a exist\u00eancia de fumus boni iuris e periculum in mora.\n\n No que tange a estas medidas cautelares, assinale a afirmativa incorreta.", "valid": true, "filename": "2013-11.txt", "options": [{"text": "O arresto busca garantir a efetividade da futura execu\u00e7\u00e3o de pagar quantia certa, consistindo na apreens\u00e3o de bens indeterminados do patrim\u00f4nio do devedor.", "correct": null, "pmi": [0.002144493460703593, 0.0, 0.0, 0.0], "letter": "A"}, {"text": "No sequestro, considerando que o objetivo \u00e9 assegurar a entrega de coisa, sempre haver\u00e1 certeza sobre quem \u00e9 o dono da coisa. Ou seja, no sequestro a coisa n\u00e3o \u00e9 e nunca ser\u00e1 litigiosa.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"text": "A futura execu\u00e7\u00e3o garantida pelo sequestro n\u00e3o precisa ser desenvolvida, necessariamente, por meio de processo aut\u00f4nomo, sendo admitida que esta seja desenvolvida atrav\u00e9s de mera fase procedimental (cumprimento de senten\u00e7a).", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C"}, {"text": "O sequestro tem por objetivo assegurar a efic\u00e1cia de futura execu\u00e7\u00e3o para a entrega de coisa, consistindo na busca e apreens\u00e3o de determinado bem do patrim\u00f4nio do requerido.", "correct": null, "pmi": [-0.00738151500584713, 0.0, 0.0, 0.0], "letter": "D"}]}]
+[
+    {
+        "number": "53",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "O arresto e o sequestro constituem procedimentos cautelares espec\u00edficos. Portanto, constituem medidas concedidas mediante cogni\u00e7\u00e3o sum\u00e1ria, nas quais o juiz, para a sua concess\u00e3o, deve verificar a exist\u00eancia de fumus boni iuris e periculum in mora.\n\n No que tange a estas medidas cautelares, assinale a afirmativa incorreta.",
+        "valid": true,
+        "filename": "2013-11.txt",
+        "options": [
+            {
+                "text": "O arresto busca garantir a efetividade da futura execu\u00e7\u00e3o de pagar quantia certa, consistindo na apreens\u00e3o de bens indeterminados do patrim\u00f4nio do devedor.",
+                "correct": null,
+                "pmi": [
+                    0.002144493460703593,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "text": "No sequestro, considerando que o objetivo \u00e9 assegurar a entrega de coisa, sempre haver\u00e1 certeza sobre quem \u00e9 o dono da coisa. Ou seja, no sequestro a coisa n\u00e3o \u00e9 e nunca ser\u00e1 litigiosa.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "text": "A futura execu\u00e7\u00e3o garantida pelo sequestro n\u00e3o precisa ser desenvolvida, necessariamente, por meio de processo aut\u00f4nomo, sendo admitida que esta seja desenvolvida atrav\u00e9s de mera fase procedimental (cumprimento de senten\u00e7a).",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "text": "O sequestro tem por objetivo assegurar a efic\u00e1cia de futura execu\u00e7\u00e3o para a entrega de coisa, consistindo na busca e apreens\u00e3o de determinado bem do patrim\u00f4nio do requerido.",
+                "correct": null,
+                "pmi": [
+                    -0.00738151500584713,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ]
+    }
+]

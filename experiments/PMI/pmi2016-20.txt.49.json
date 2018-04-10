@@ -1,1 +1,55 @@
-[{"valid": true, "number": "49", "areas": [], "options": [{"letter": "A", "pmi": [-0.13858630848662554, 0.0, 0.0, 0.0], "text": "a remunera\u00e7\u00e3o n\u00e3o exceder\u00e1 5% (cinco por cento) do valor devido aos credores submetidos \u00e0 recupera\u00e7\u00e3o judicial.", "correct": null}, {"letter": "B", "pmi": [-0.06740106355273306, 0.0, 0.0, 0.0], "text": "caber\u00e1 ao devedor arcar com as despesas relativas \u00e0 remunera\u00e7\u00e3o do administrador judicial e das pessoas eventualmente contratadas para auxili\u00e1-lo.", "correct": true}, {"letter": "C", "pmi": [-0.05272918638256313, 0.0, 0.0, 0.0], "text": "a remunera\u00e7\u00e3o dever\u00e1 ser paga at\u00e9 o final do encerramento da verifica\u00e7\u00e3o dos cr\u00e9ditos e publica\u00e7\u00e3o do quadro de credores.", "correct": null}, {"letter": "D", "pmi": [-0.03173331842939423, 0.0, 0.0, 0.0], "text": "ser\u00e1 devida remunera\u00e7\u00e3o proporcional ao trabalho realizado quando o administrador judicial for destitu\u00eddo por descumprimento de deveres legais.", "correct": null}], "filename": "2016-20.txt", "enum": "Mostardas, Tavares & Cia Ltda. EPP requereu sua recupera\u00e7\u00e3o judicial tendo o pedido sido despachado pelo juiz com a nomea\u00e7\u00e3o de Frederico Portela como administrador judicial. Em rela\u00e7\u00e3o \u00e0 remunera\u00e7\u00e3o do administrador judicial, ser\u00e1 observada a seguinte regra:"}]
+[
+    {
+        "valid": true,
+        "number": "49",
+        "areas": [],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.13858630848662554,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a remunera\u00e7\u00e3o n\u00e3o exceder\u00e1 5% (cinco por cento) do valor devido aos credores submetidos \u00e0 recupera\u00e7\u00e3o judicial.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.06740106355273306,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "caber\u00e1 ao devedor arcar com as despesas relativas \u00e0 remunera\u00e7\u00e3o do administrador judicial e das pessoas eventualmente contratadas para auxili\u00e1-lo.",
+                "correct": true
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.05272918638256313,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a remunera\u00e7\u00e3o dever\u00e1 ser paga at\u00e9 o final do encerramento da verifica\u00e7\u00e3o dos cr\u00e9ditos e publica\u00e7\u00e3o do quadro de credores.",
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.03173331842939423,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ser\u00e1 devida remunera\u00e7\u00e3o proporcional ao trabalho realizado quando o administrador judicial for destitu\u00eddo por descumprimento de deveres legais.",
+                "correct": null
+            }
+        ],
+        "filename": "2016-20.txt",
+        "enum": "Mostardas, Tavares & Cia Ltda. EPP requereu sua recupera\u00e7\u00e3o judicial tendo o pedido sido despachado pelo juiz com a nomea\u00e7\u00e3o de Frederico Portela como administrador judicial. Em rela\u00e7\u00e3o \u00e0 remunera\u00e7\u00e3o do administrador judicial, ser\u00e1 observada a seguinte regra:"
+    }
+]

@@ -1,1 +1,55 @@
-[{"enum": "O advogado Jo\u00e3o, inscrito na Seccional do estado X, cometeu grave infra\u00e7\u00e3o \u00e9tica ao atuar em determinada causa no estado Y. Assinale a op\u00e7\u00e3o que indica o Conselho Seccional com poder de punir disciplinarmente o advogado infrator.", "options": [{"correct": null, "text": "Apenas o Conselho Seccional do estado X ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.", "pmi": [-0.10572637894126156, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": true, "text": "Apenas o Conselho Seccional do estado Y ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "Apenas o Conselho Federal ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "Os Conselhos Seccionais dos estados X e Y ter\u00e3o poderes concorrentes para punir Jo\u00e3o disciplinarmente.", "pmi": [-0.05286318947063078, 0.0, 0.0, 0.0], "letter": "D"}], "valid": true, "number": "9", "areas": [], "filename": "2014-15.txt"}]
+[
+    {
+        "enum": "O advogado Jo\u00e3o, inscrito na Seccional do estado X, cometeu grave infra\u00e7\u00e3o \u00e9tica ao atuar em determinada causa no estado Y. Assinale a op\u00e7\u00e3o que indica o Conselho Seccional com poder de punir disciplinarmente o advogado infrator.",
+        "options": [
+            {
+                "correct": null,
+                "text": "Apenas o Conselho Seccional do estado X ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.",
+                "pmi": [
+                    -0.10572637894126156,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "text": "Apenas o Conselho Seccional do estado Y ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "Apenas o Conselho Federal ter\u00e1 poder para punir Jo\u00e3o disciplinarmente.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "Os Conselhos Seccionais dos estados X e Y ter\u00e3o poderes concorrentes para punir Jo\u00e3o disciplinarmente.",
+                "pmi": [
+                    -0.05286318947063078,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "number": "9",
+        "areas": [],
+        "filename": "2014-15.txt"
+    }
+]

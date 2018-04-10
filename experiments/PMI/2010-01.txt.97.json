@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Considerando as disposi\u00e7\u00f5es processuais penais previstas na Lei federal n.\u00ba 9.099/1995 (Lei dos Juizados Especiais), assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "97", "options": [{"correct": null, "letter": "A", "text": "Os processos referentes aos juizados especiais criminais devem orientar-se pelos crit\u00e9rios de oralidade, documenta\u00e7\u00e3o, simplicidade, formalidade, economia processual e celeridade, em busca, sempre que poss\u00edvel, da concilia\u00e7\u00e3o ou da transa\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "O juizado especial criminal, provido por ju\u00edzes togados ou togados e leigos, tem compet\u00eancia apenas para a concilia\u00e7\u00e3o e o julgamento das infra\u00e7\u00f5es penais de menor potencial ofensivo, respeitadas as regras de conex\u00e3o e contin\u00eancia."}, {"correct": null, "letter": "C", "text": "Na reuni\u00e3o de processos, perante o ju\u00edzo comum ou o tribunal do j\u00fari, decorrente da aplica\u00e7\u00e3o das regras de conex\u00e3o e contin\u00eancia, ser\u00e3o observados os institutos da transa\u00e7\u00e3o penal, excluindo-se os da composi\u00e7\u00e3o dos danos civis."}, {"correct": true, "letter": "D", "text": "Os atos processuais ser\u00e3o p\u00fablicos e poder\u00e3o realizar-se em hor\u00e1rio noturno e em qualquer dia da semana, conforme dispuserem as normas de organiza\u00e7\u00e3o judici\u00e1ria."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Considerando as disposi\u00e7\u00f5es processuais penais previstas na Lei federal n.\u00ba 9.099/1995 (Lei dos Juizados Especiais), assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "97",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os processos referentes aos juizados especiais criminais devem orientar-se pelos crit\u00e9rios de oralidade, documenta\u00e7\u00e3o, simplicidade, formalidade, economia processual e celeridade, em busca, sempre que poss\u00edvel, da concilia\u00e7\u00e3o ou da transa\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O juizado especial criminal, provido por ju\u00edzes togados ou togados e leigos, tem compet\u00eancia apenas para a concilia\u00e7\u00e3o e o julgamento das infra\u00e7\u00f5es penais de menor potencial ofensivo, respeitadas as regras de conex\u00e3o e contin\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Na reuni\u00e3o de processos, perante o ju\u00edzo comum ou o tribunal do j\u00fari, decorrente da aplica\u00e7\u00e3o das regras de conex\u00e3o e contin\u00eancia, ser\u00e3o observados os institutos da transa\u00e7\u00e3o penal, excluindo-se os da composi\u00e7\u00e3o dos danos civis."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Os atos processuais ser\u00e3o p\u00fablicos e poder\u00e3o realizar-se em hor\u00e1rio noturno e em qualquer dia da semana, conforme dispuserem as normas de organiza\u00e7\u00e3o judici\u00e1ria."
+            }
+        ],
+        "valid": true
+    }
+]

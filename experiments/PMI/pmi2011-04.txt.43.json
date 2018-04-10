@@ -1,1 +1,57 @@
-[{"options": [{"text": "podem observar o rito comum sum\u00e1rio causas cujo valor corresponda a trezentos vezes o valor do sal\u00e1rio m\u00ednimo e que versem acerca da cobran\u00e7a ao cond\u00f4mino de quantias devidas ao condom\u00ednio.", "pmi": [-0.10924805501182817, 0.0, 0.0, 0.0], "letter": "A", "correct": true}, {"text": "a\u00e7\u00f5es que seguem o rito comum sum\u00e1rio s\u00e3o d\u00faplices, raz\u00e3o pela qual pode o r\u00e9u valer-se da reconven\u00e7\u00e3o para formular pedidos contra o autor em seu favor.", "pmi": [-0.042470107407480535, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "no rito comum sum\u00e1rio, t\u00eam as partes que comparecer pessoalmente \u00e0 audi\u00eancia de concilia\u00e7\u00e3o, jamais podendo se fazer representar por preposto com poderes para transigir.", "pmi": [-0.10799840866799582, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "no rito comum sum\u00e1rio, n\u00e3o \u00e9 admiss\u00edvel a a\u00e7\u00e3o declarat\u00f3ria incidental. Da mesma forma n\u00e3o se admitem nesse rito, em nenhuma hip\u00f3tese, quaisquer das esp\u00e9cies de interven\u00e7\u00e3o de terceiros.", "pmi": [-0.04862661246109544, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "filename": "2011-04.txt", "areas": ["CIVIL-PROCEDURE"], "valid": true, "enum": "O rito comum sum\u00e1rio tem suas hip\u00f3teses de incid\u00eancia expressamente disciplinadas no sistema processual civil p\u00e1trio. Tal rito apresenta tr\u00e2mite mais c\u00e9lere que o observado pelo rito comum ordin\u00e1rio, e, exatamente por isso, as causas que o observam t\u00eam menor complexidade se comparadas \u00e0s que tramitam pelo rito comum ordin\u00e1rio.\n\n Acerca do rito comum sum\u00e1rio, \u00e9 correto afirmar que", "number": "43"}]
+[
+    {
+        "options": [
+            {
+                "text": "podem observar o rito comum sum\u00e1rio causas cujo valor corresponda a trezentos vezes o valor do sal\u00e1rio m\u00ednimo e que versem acerca da cobran\u00e7a ao cond\u00f4mino de quantias devidas ao condom\u00ednio.",
+                "pmi": [
+                    -0.10924805501182817,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "text": "a\u00e7\u00f5es que seguem o rito comum sum\u00e1rio s\u00e3o d\u00faplices, raz\u00e3o pela qual pode o r\u00e9u valer-se da reconven\u00e7\u00e3o para formular pedidos contra o autor em seu favor.",
+                "pmi": [
+                    -0.042470107407480535,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "no rito comum sum\u00e1rio, t\u00eam as partes que comparecer pessoalmente \u00e0 audi\u00eancia de concilia\u00e7\u00e3o, jamais podendo se fazer representar por preposto com poderes para transigir.",
+                "pmi": [
+                    -0.10799840866799582,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "no rito comum sum\u00e1rio, n\u00e3o \u00e9 admiss\u00edvel a a\u00e7\u00e3o declarat\u00f3ria incidental. Da mesma forma n\u00e3o se admitem nesse rito, em nenhuma hip\u00f3tese, quaisquer das esp\u00e9cies de interven\u00e7\u00e3o de terceiros.",
+                "pmi": [
+                    -0.04862661246109544,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "filename": "2011-04.txt",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "valid": true,
+        "enum": "O rito comum sum\u00e1rio tem suas hip\u00f3teses de incid\u00eancia expressamente disciplinadas no sistema processual civil p\u00e1trio. Tal rito apresenta tr\u00e2mite mais c\u00e9lere que o observado pelo rito comum ordin\u00e1rio, e, exatamente por isso, as causas que o observam t\u00eam menor complexidade se comparadas \u00e0s que tramitam pelo rito comum ordin\u00e1rio.\n\n Acerca do rito comum sum\u00e1rio, \u00e9 correto afirmar que",
+        "number": "43"
+    }
+]

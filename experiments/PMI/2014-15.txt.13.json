@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "O senador \u201cX\u201d ausentou-se das atividades do Senado Federal para tratar de assunto de interesse particular por cento e cinquenta dias ininterruptos e, diante desse fato, enfrenta representa\u00e7\u00e3o para a perda do seu mandato, por n\u00e3o ter comparecido \u00e0 ter\u00e7a parte das sess\u00f5es ordin\u00e1rias da Casa, que foram realizadas no per\u00edodo em que esteve ausente.\n\n Nessa hip\u00f3tese, assinale a afirmativa correta", "filename": "2014-15.txt", "number": "13", "options": [{"correct": null, "letter": "A", "text": "A perda do mandato do referido senador ser\u00e1 decidida pelo Senado Federal, por maioria absoluta, mediante provoca\u00e7\u00e3o da respectiva mesa ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."}, {"correct": null, "letter": "B", "text": "N\u00e3o poder\u00e1 o referido parlamentar perder o mandato, j\u00e1 que o afastamento n\u00e3o ultrapassou cento e oitenta dias dentro da mesma sess\u00e3o legislativa."}, {"correct": true, "letter": "C", "text": "A perda do mandato do referido senador poder\u00e1 ser declarada pela Mesa da Casa Legislativa de of\u00edcio ou mediante provoca\u00e7\u00e3o de qualquer dos seus membros, ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."}, {"correct": null, "letter": "D", "text": "Caso o referido senador venha a renunciar ap\u00f3s submetido ao processo que vise ou possa levar \u00e0 perda do seu mandato, haver\u00e1 o arquivamento do processo pela perda do seu objeto."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "O senador \u201cX\u201d ausentou-se das atividades do Senado Federal para tratar de assunto de interesse particular por cento e cinquenta dias ininterruptos e, diante desse fato, enfrenta representa\u00e7\u00e3o para a perda do seu mandato, por n\u00e3o ter comparecido \u00e0 ter\u00e7a parte das sess\u00f5es ordin\u00e1rias da Casa, que foram realizadas no per\u00edodo em que esteve ausente.\n\n Nessa hip\u00f3tese, assinale a afirmativa correta",
+        "filename": "2014-15.txt",
+        "number": "13",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A perda do mandato do referido senador ser\u00e1 decidida pelo Senado Federal, por maioria absoluta, mediante provoca\u00e7\u00e3o da respectiva mesa ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "N\u00e3o poder\u00e1 o referido parlamentar perder o mandato, j\u00e1 que o afastamento n\u00e3o ultrapassou cento e oitenta dias dentro da mesma sess\u00e3o legislativa."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A perda do mandato do referido senador poder\u00e1 ser declarada pela Mesa da Casa Legislativa de of\u00edcio ou mediante provoca\u00e7\u00e3o de qualquer dos seus membros, ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Caso o referido senador venha a renunciar ap\u00f3s submetido ao processo que vise ou possa levar \u00e0 perda do seu mandato, haver\u00e1 o arquivamento do processo pela perda do seu objeto."
+            }
+        ],
+        "valid": true
+    }
+]

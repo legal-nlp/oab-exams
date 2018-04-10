@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Ter\u00eancia, jovem advogada, conhecida pela energia com que defende os seus clientes, obt\u00e9m sucesso em a\u00e7\u00e3o indenizat\u00f3ria, com proveito econ\u00f4mico correspondente a R$ 3.000.000,00 (tr\u00eas milh\u00f5es de reais). Buscando adequa\u00e7\u00e3o dos seus honor\u00e1rios, marca reuni\u00e3o com seu cliente, e este exige detalhada presta\u00e7\u00e3o de contas, o que \u00e9 negado pela advogada. Nesse momento, h\u00e1 amplo desentendimento. O valor da indeniza\u00e7\u00e3o fora levantado pela advogada e depositado em caderneta de poupan\u00e7a, no aguardo do desfecho da discuss\u00e3o sobre os valores que deveriam ser repassados. Ter\u00eancia n\u00e3o apresentou as contas ao cliente nem direta, nem judicialmente.\n\n Analisando-se a solu\u00e7\u00e3o para o caso concreto acima, \u00e9 correto afirmar que", "filename": "2011-03.txt", "number": "50", "options": [{"correct": true, "letter": "A", "text": "a presta\u00e7\u00e3o de contas \u00e9 um dos deveres do advogado."}, {"correct": null, "letter": "B", "text": "enquanto o cliente n\u00e3o apresentar postula\u00e7\u00e3o judicial, a presta\u00e7\u00e3o de contas \u00e9 inexig\u00edvel."}, {"correct": null, "letter": "C", "text": "o advogado, exercendo mandato, n\u00e3o necessita prestar contas."}, {"correct": null, "letter": "D", "text": "essa quest\u00e3o \u00e9 dirimida pelo juiz da causa em que ocorreu a condena\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Ter\u00eancia, jovem advogada, conhecida pela energia com que defende os seus clientes, obt\u00e9m sucesso em a\u00e7\u00e3o indenizat\u00f3ria, com proveito econ\u00f4mico correspondente a R$ 3.000.000,00 (tr\u00eas milh\u00f5es de reais). Buscando adequa\u00e7\u00e3o dos seus honor\u00e1rios, marca reuni\u00e3o com seu cliente, e este exige detalhada presta\u00e7\u00e3o de contas, o que \u00e9 negado pela advogada. Nesse momento, h\u00e1 amplo desentendimento. O valor da indeniza\u00e7\u00e3o fora levantado pela advogada e depositado em caderneta de poupan\u00e7a, no aguardo do desfecho da discuss\u00e3o sobre os valores que deveriam ser repassados. Ter\u00eancia n\u00e3o apresentou as contas ao cliente nem direta, nem judicialmente.\n\n Analisando-se a solu\u00e7\u00e3o para o caso concreto acima, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "50",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "a presta\u00e7\u00e3o de contas \u00e9 um dos deveres do advogado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "enquanto o cliente n\u00e3o apresentar postula\u00e7\u00e3o judicial, a presta\u00e7\u00e3o de contas \u00e9 inexig\u00edvel."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o advogado, exercendo mandato, n\u00e3o necessita prestar contas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "essa quest\u00e3o \u00e9 dirimida pelo juiz da causa em que ocorreu a condena\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

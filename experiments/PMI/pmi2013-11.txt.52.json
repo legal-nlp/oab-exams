@@ -1,1 +1,57 @@
-[{"areas": ["BUSINESS"], "filename": "2013-11.txt", "number": "52", "options": [{"letter": "A", "correct": true, "pmi": [-0.15151921486095113, 0.0, 0.0, 0.0], "text": "O apresentante, diante da devolu\u00e7\u00e3o do cheque, dever\u00e1 levar o t\u00edtulo a protesto por falta de pagamento, requisito essencial \u00e0 propositura da a\u00e7\u00e3o executiva em face do endossante."}, {"letter": "B", "correct": null, "pmi": [-0.11824873980860501, 0.0, 0.0, 0.0], "text": "O emitente do cheque, durante ou ap\u00f3s o prazo de apresenta\u00e7\u00e3o, poder\u00e1 fazer sustar seu pagamento mediante aviso escrito dirigido ao sacado, fundado em relevante raz\u00e3o de direito."}, {"letter": "C", "correct": null, "pmi": [-0.2568268037941362, 0.0, 0.0, 0.0], "text": "O prazo de apresenta\u00e7\u00e3o do cheque ao sacado para pagamento \u00e9 de 30 (trinta) dias, contados da data de emiss\u00e3o, quando o lugar de emiss\u00e3o for o mesmo do de pagamento."}, {"letter": "D", "correct": null, "pmi": [-0.2644725502752315, 0.0, 0.0, 0.0], "text": "O portador, apresentado o cheque e n\u00e3o realizado seu pagamento, dever\u00e1 promover a a\u00e7\u00e3o executiva em face do emitente em at\u00e9 6 (seis) meses ap\u00f3s a expira\u00e7\u00e3o do prazo de apresenta\u00e7\u00e3o."}], "valid": true, "enum": "Um cheque no valor de R$ 3.000,00 (tr\u00eas mil reais) foi sacado em 15 de agosto de 2012, na pra\u00e7a de Santana, Estado do Amap\u00e1, para pagamento no mesmo local de emiss\u00e3o. Dez dias ap\u00f3s o saque, o benefici\u00e1rio endossou o t\u00edtulo para Ferreira Gomes. Este, no mesmo dia, apresentou o cheque ao sacado para pagamento, mas houve devolu\u00e7\u00e3o ao apresentante por insufici\u00eancia de fundos, mediante declara\u00e7\u00e3o do sacado no verso do cheque.\n\n Com base nas informa\u00e7\u00f5es contidas no enunciado e nas disposi\u00e7\u00f5es da Lei n. 7.357/85 (Lei do Cheque), assinale a afirmativa incorreta."}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "filename": "2013-11.txt",
+        "number": "52",
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.15151921486095113,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O apresentante, diante da devolu\u00e7\u00e3o do cheque, dever\u00e1 levar o t\u00edtulo a protesto por falta de pagamento, requisito essencial \u00e0 propositura da a\u00e7\u00e3o executiva em face do endossante."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.11824873980860501,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O emitente do cheque, durante ou ap\u00f3s o prazo de apresenta\u00e7\u00e3o, poder\u00e1 fazer sustar seu pagamento mediante aviso escrito dirigido ao sacado, fundado em relevante raz\u00e3o de direito."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.2568268037941362,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O prazo de apresenta\u00e7\u00e3o do cheque ao sacado para pagamento \u00e9 de 30 (trinta) dias, contados da data de emiss\u00e3o, quando o lugar de emiss\u00e3o for o mesmo do de pagamento."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.2644725502752315,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O portador, apresentado o cheque e n\u00e3o realizado seu pagamento, dever\u00e1 promover a a\u00e7\u00e3o executiva em face do emitente em at\u00e9 6 (seis) meses ap\u00f3s a expira\u00e7\u00e3o do prazo de apresenta\u00e7\u00e3o."
+            }
+        ],
+        "valid": true,
+        "enum": "Um cheque no valor de R$ 3.000,00 (tr\u00eas mil reais) foi sacado em 15 de agosto de 2012, na pra\u00e7a de Santana, Estado do Amap\u00e1, para pagamento no mesmo local de emiss\u00e3o. Dez dias ap\u00f3s o saque, o benefici\u00e1rio endossou o t\u00edtulo para Ferreira Gomes. Este, no mesmo dia, apresentou o cheque ao sacado para pagamento, mas houve devolu\u00e7\u00e3o ao apresentante por insufici\u00eancia de fundos, mediante declara\u00e7\u00e3o do sacado no verso do cheque.\n\n Com base nas informa\u00e7\u00f5es contidas no enunciado e nas disposi\u00e7\u00f5es da Lei n. 7.357/85 (Lei do Cheque), assinale a afirmativa incorreta."
+    }
+]

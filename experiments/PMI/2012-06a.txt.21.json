@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "O Estado X edita norma que determina a gratuidade de pagamento em estacionamentos privados sob administra\u00e7\u00e3o de entidades empresariais. Tal lei, \u00e0 luz das normas constitucionais, est\u00e1 sob a \u00e9gide das compet\u00eancias do(a)", "filename": "2012-06a.txt", "number": "21", "options": [{"correct": null, "letter": "A", "text": "Estado."}, {"correct": null, "letter": "B", "text": "Munic\u00edpio."}, {"correct": null, "letter": "C", "text": "Distrito Federal."}, {"correct": true, "letter": "D", "text": "Uni\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O Estado X edita norma que determina a gratuidade de pagamento em estacionamentos privados sob administra\u00e7\u00e3o de entidades empresariais. Tal lei, \u00e0 luz das normas constitucionais, est\u00e1 sob a \u00e9gide das compet\u00eancias do(a)",
+        "filename": "2012-06a.txt",
+        "number": "21",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Estado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Munic\u00edpio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Distrito Federal."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Uni\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

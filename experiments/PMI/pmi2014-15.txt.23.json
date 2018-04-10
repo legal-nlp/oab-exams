@@ -1,1 +1,55 @@
-[{"enum": "T\u00falio, brasileiro, \u00e9 casado com Alexia, de nacionalidade sueca, estando o casal domiciliado no Brasil. Durante um cruzeiro mar\u00edtimo, na Gr\u00e9cia, ela, ap\u00f3s a ceia, veio a falecer em raz\u00e3o de uma intoxica\u00e7\u00e3o alimentar. Alexia, quando ainda era noiva de T\u00falio, havia realizado um testamento em Lisboa, dispondo sobre os seus bens, entre eles, tr\u00eas apartamentos situados no Rio de Janeiro.\n\n \u00c0 luz das regras de Direito Internacional Privado, assinale a afirmativa correta.", "valid": true, "number": "23", "areas": [], "options": [{"correct": null, "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o brasileira, pois Alexia encontrava se domiciliada no Brasil.", "pmi": [-0.020716482825942743, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": true, "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o portuguesa, local em que foi realizado o ato de disposi\u00e7\u00e3o da \u00faltima vontade de Alexia.", "pmi": [-0.030665965940783666, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "A autoridade judici\u00e1ria brasileira n\u00e3o \u00e9 competente para proceder ao invent\u00e1rio e \u00e0 partilha de bens, porquanto Alexia faleceu na Gr\u00e9cia, e n\u00e3o no Brasil.", "pmi": [-0.04964683998599379, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "Se houver discuss\u00e3o acerca do regime sucess\u00f3rio, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o sueca, em raz\u00e3o da nacionalidade do de cujus.", "pmi": [-0.02182565885670844, 0.0, 0.0, 0.0], "letter": "D"}], "filename": "2014-15.txt"}]
+[
+    {
+        "enum": "T\u00falio, brasileiro, \u00e9 casado com Alexia, de nacionalidade sueca, estando o casal domiciliado no Brasil. Durante um cruzeiro mar\u00edtimo, na Gr\u00e9cia, ela, ap\u00f3s a ceia, veio a falecer em raz\u00e3o de uma intoxica\u00e7\u00e3o alimentar. Alexia, quando ainda era noiva de T\u00falio, havia realizado um testamento em Lisboa, dispondo sobre os seus bens, entre eles, tr\u00eas apartamentos situados no Rio de Janeiro.\n\n \u00c0 luz das regras de Direito Internacional Privado, assinale a afirmativa correta.",
+        "valid": true,
+        "number": "23",
+        "areas": [],
+        "options": [
+            {
+                "correct": null,
+                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o brasileira, pois Alexia encontrava se domiciliada no Brasil.",
+                "pmi": [
+                    -0.020716482825942743,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o portuguesa, local em que foi realizado o ato de disposi\u00e7\u00e3o da \u00faltima vontade de Alexia.",
+                "pmi": [
+                    -0.030665965940783666,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "A autoridade judici\u00e1ria brasileira n\u00e3o \u00e9 competente para proceder ao invent\u00e1rio e \u00e0 partilha de bens, porquanto Alexia faleceu na Gr\u00e9cia, e n\u00e3o no Brasil.",
+                "pmi": [
+                    -0.04964683998599379,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "Se houver discuss\u00e3o acerca do regime sucess\u00f3rio, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o sueca, em raz\u00e3o da nacionalidade do de cujus.",
+                "pmi": [
+                    -0.02182565885670844,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "filename": "2014-15.txt"
+    }
+]

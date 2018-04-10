@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Em processo sujeito ao rito ordin\u00e1rio, ao apresentar resposta escrita, o advogado requer a absolvi\u00e7\u00e3o sum\u00e1ria de seu cliente e n\u00e3o prop\u00f5e provas. O juiz, rejeitando o requerimento de absolvi\u00e7\u00e3o sum\u00e1ria, designa audi\u00eancia de instru\u00e7\u00e3o e julgamento, destinada \u00e0 inquiri\u00e7\u00e3o das testemunhas arroladas pelo Minist\u00e9rio P\u00fablico e ao interrogat\u00f3rio do r\u00e9u. Ao final da audi\u00eancia, o advogado requer a oitiva de duas testemunhas de defesa e que o juiz designe nova data para que sejam inquiridas.\n\n Considerando tal narrativa, assinale a afirmativa correta.", "filename": "2010-02.txt", "number": "66", "options": [{"correct": null, "letter": "A", "text": "O juiz deve deferir o pedido, pois a juntada do rol das testemunhas de defesa pode ser feita at\u00e9 o encerramento da prova de acusa\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "O juiz n\u00e3o deve deferir o pedido, pois o desmembramento da audi\u00eancia una causa nulidade absoluta."}, {"correct": true, "letter": "C", "text": "O juiz s\u00f3 deve deferir a oitiva de testemunhas de defesa arroladas posteriormente ao momento da apresenta\u00e7\u00e3o da resposta escrita se ficar demonstrado que a necessidade da oitiva se originou de circunst\u00e2ncias ou fatos apurados na instru\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "O juiz deve deferir o pedido, pois apesar de a juntada do rol de testemunhas da defesa n\u00e3o ter sido feita no momento correto, em nenhuma hip\u00f3tese do processo penal, o juiz deve indeferir dilig\u00eancias requeridas pela defesa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Em processo sujeito ao rito ordin\u00e1rio, ao apresentar resposta escrita, o advogado requer a absolvi\u00e7\u00e3o sum\u00e1ria de seu cliente e n\u00e3o prop\u00f5e provas. O juiz, rejeitando o requerimento de absolvi\u00e7\u00e3o sum\u00e1ria, designa audi\u00eancia de instru\u00e7\u00e3o e julgamento, destinada \u00e0 inquiri\u00e7\u00e3o das testemunhas arroladas pelo Minist\u00e9rio P\u00fablico e ao interrogat\u00f3rio do r\u00e9u. Ao final da audi\u00eancia, o advogado requer a oitiva de duas testemunhas de defesa e que o juiz designe nova data para que sejam inquiridas.\n\n Considerando tal narrativa, assinale a afirmativa correta.",
+        "filename": "2010-02.txt",
+        "number": "66",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O juiz deve deferir o pedido, pois a juntada do rol das testemunhas de defesa pode ser feita at\u00e9 o encerramento da prova de acusa\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O juiz n\u00e3o deve deferir o pedido, pois o desmembramento da audi\u00eancia una causa nulidade absoluta."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O juiz s\u00f3 deve deferir a oitiva de testemunhas de defesa arroladas posteriormente ao momento da apresenta\u00e7\u00e3o da resposta escrita se ficar demonstrado que a necessidade da oitiva se originou de circunst\u00e2ncias ou fatos apurados na instru\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O juiz deve deferir o pedido, pois apesar de a juntada do rol de testemunhas da defesa n\u00e3o ter sido feita no momento correto, em nenhuma hip\u00f3tese do processo penal, o juiz deve indeferir dilig\u00eancias requeridas pela defesa."
+            }
+        ],
+        "valid": true
+    }
+]

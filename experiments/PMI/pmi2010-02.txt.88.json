@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "correct": null, "text": "o ato deveria ter sido adiado diante da exclusividade da atua\u00e7\u00e3o da Defensoria P\u00fablica.", "pmi": [-0.11804842162571248, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "o advogado deveria ter recusado o encargo, mesmo sem justificativa plaus\u00edvel.", "pmi": [-0.004582943559419088, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": true, "text": "a recusa nesses casos poder\u00e1 ocorrer, com justo motivo.", "pmi": [-0.02048038645965826, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "a recusa poderia ocorrer diante da aus\u00eancia de san\u00e7\u00e3o disciplinar.", "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "88", "areas": ["ETHICS"], "valid": true, "filename": "2010-02.txt", "enum": "Caio, advogado, inscrito na OAB-SP, ap\u00f3s aprova\u00e7\u00e3o em concorrido Exame de Ordem, atua em diversos ramos do Direito. Um dos seus clientes possui causa em curso perante a Comarca de Tombos/MG, tendo o profissional comparecido \u00e0 sede do Ju\u00edzo para praticar ato em prol do seu constituinte. Estando no local, foi surpreendido por designa\u00e7\u00e3o do Juiz Titular da Comarca para representar T\u00edcio, pessoa de parcos recursos financeiros, diante da aus\u00eancia de Defensor P\u00fablico designado para prestar servi\u00e7os no local, por falta de efetivo sufi ciente de profissionais. N\u00e3o tendo argumentos para recusar o encargo, Caio participou do ato.\n\n Diante desse quadro"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "o ato deveria ter sido adiado diante da exclusividade da atua\u00e7\u00e3o da Defensoria P\u00fablica.",
+                "pmi": [
+                    -0.11804842162571248,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "o advogado deveria ter recusado o encargo, mesmo sem justificativa plaus\u00edvel.",
+                "pmi": [
+                    -0.004582943559419088,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "a recusa nesses casos poder\u00e1 ocorrer, com justo motivo.",
+                "pmi": [
+                    -0.02048038645965826,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "a recusa poderia ocorrer diante da aus\u00eancia de san\u00e7\u00e3o disciplinar.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "88",
+        "areas": [
+            "ETHICS"
+        ],
+        "valid": true,
+        "filename": "2010-02.txt",
+        "enum": "Caio, advogado, inscrito na OAB-SP, ap\u00f3s aprova\u00e7\u00e3o em concorrido Exame de Ordem, atua em diversos ramos do Direito. Um dos seus clientes possui causa em curso perante a Comarca de Tombos/MG, tendo o profissional comparecido \u00e0 sede do Ju\u00edzo para praticar ato em prol do seu constituinte. Estando no local, foi surpreendido por designa\u00e7\u00e3o do Juiz Titular da Comarca para representar T\u00edcio, pessoa de parcos recursos financeiros, diante da aus\u00eancia de Defensor P\u00fablico designado para prestar servi\u00e7os no local, por falta de efetivo sufi ciente de profissionais. N\u00e3o tendo argumentos para recusar o encargo, Caio participou do ato.\n\n Diante desse quadro"
+    }
+]

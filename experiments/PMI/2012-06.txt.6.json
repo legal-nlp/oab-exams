@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Raul, advogado, \u00e9 acusado, em processo disciplinar, de ter perdido prazos em diversos processos, de ter atuado contra os interesses dos seus clientes e de ter um n\u00famero exagerado de indeferimento de peti\u00e7\u00f5es iniciais, por ineptas, desconexas, com representa\u00e7\u00f5es sucessivas \u00e0 OAB. Em rela\u00e7\u00e3o a tais circunst\u00e2ncias, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que as condutas imputadas a Raul", "filename": "2012-06.txt", "number": "6", "options": [{"correct": null, "letter": "A", "text": "n\u00e3o caracterizam infra\u00e7\u00e3o disciplinar."}, {"correct": null, "letter": "B", "text": "s\u00e3o consideradas desvios processuais exclusivamente."}, {"correct": null, "letter": "C", "text": "demandam atua\u00e7\u00e3o da OAB no sentido educativo."}, {"correct": true, "letter": "D", "text": "caracterizam in\u00e9pcia da atua\u00e7\u00e3o profissional."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Raul, advogado, \u00e9 acusado, em processo disciplinar, de ter perdido prazos em diversos processos, de ter atuado contra os interesses dos seus clientes e de ter um n\u00famero exagerado de indeferimento de peti\u00e7\u00f5es iniciais, por ineptas, desconexas, com representa\u00e7\u00f5es sucessivas \u00e0 OAB. Em rela\u00e7\u00e3o a tais circunst\u00e2ncias, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que as condutas imputadas a Raul",
+        "filename": "2012-06.txt",
+        "number": "6",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "n\u00e3o caracterizam infra\u00e7\u00e3o disciplinar."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "s\u00e3o consideradas desvios processuais exclusivamente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "demandam atua\u00e7\u00e3o da OAB no sentido educativo."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "caracterizam in\u00e9pcia da atua\u00e7\u00e3o profissional."
+            }
+        ],
+        "valid": true
+    }
+]

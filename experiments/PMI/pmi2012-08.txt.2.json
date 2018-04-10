@@ -1,1 +1,57 @@
-[{"areas": ["ETHICS"], "enum": "O advogado \u201cY\u201d, rec\u00e9m formado, diante da dificuldade em conseguir clientes, passa a distribuir panfletos em locais pr\u00f3ximos aos f\u00f3runs da cidade onde reside, oferecendo seus servi\u00e7os profissionais. Nos panfletos distribu\u00eddos por \u201cY\u201d constam informa\u00e7\u00f5es acerca da sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica, localiza\u00e7\u00e3o e telefones do seu escrit\u00f3rio. Por outro lado, \u201cY\u201d instalou placa na porta de seu escrit\u00f3rio, na qual fez constar os valores cobrados por seus servi\u00e7os profissionais, fixados, ali\u00e1s, em patamares inferiores \u00e0queles estipulados pela tabela de honor\u00e1rios da OAB.\n\n Quanto \u00e0 conduta de \u201cY\u201d, assinale a afirmativa incorreta.", "valid": true, "filename": "2012-08.txt", "options": [{"pmi": [-0.02819130080045103, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "\u201cY\u201d incorre em infra\u00e7\u00e3o disciplinar, consistente na capta\u00e7\u00e3o irregular de causas, ao distribuir panfletos ao p\u00fablico oferecendo seus servi\u00e7os como advogado."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fixar honor\u00e1rios em valores inferiores aos estipulados na tabela de honor\u00e1rios da OAB."}, {"pmi": [-0.03288985093385954, 0.0, 0.0, 0.0], "letter": "C", "correct": true, "text": "\u201cY\u201d pode distribuir panfletos ao p\u00fablico, oferecendo seus servi\u00e7os profissionais, desde que neles n\u00e3o conste sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica."}, {"pmi": [-0.0057773410694339, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fazer constar de sua placa refer\u00eancias aos valores cobrados por seus servi\u00e7os profissionais."}], "number": "2"}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado \u201cY\u201d, rec\u00e9m formado, diante da dificuldade em conseguir clientes, passa a distribuir panfletos em locais pr\u00f3ximos aos f\u00f3runs da cidade onde reside, oferecendo seus servi\u00e7os profissionais. Nos panfletos distribu\u00eddos por \u201cY\u201d constam informa\u00e7\u00f5es acerca da sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica, localiza\u00e7\u00e3o e telefones do seu escrit\u00f3rio. Por outro lado, \u201cY\u201d instalou placa na porta de seu escrit\u00f3rio, na qual fez constar os valores cobrados por seus servi\u00e7os profissionais, fixados, ali\u00e1s, em patamares inferiores \u00e0queles estipulados pela tabela de honor\u00e1rios da OAB.\n\n Quanto \u00e0 conduta de \u201cY\u201d, assinale a afirmativa incorreta.",
+        "valid": true,
+        "filename": "2012-08.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.02819130080045103,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "\u201cY\u201d incorre em infra\u00e7\u00e3o disciplinar, consistente na capta\u00e7\u00e3o irregular de causas, ao distribuir panfletos ao p\u00fablico oferecendo seus servi\u00e7os como advogado."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fixar honor\u00e1rios em valores inferiores aos estipulados na tabela de honor\u00e1rios da OAB."
+            },
+            {
+                "pmi": [
+                    -0.03288985093385954,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "\u201cY\u201d pode distribuir panfletos ao p\u00fablico, oferecendo seus servi\u00e7os profissionais, desde que neles n\u00e3o conste sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica."
+            },
+            {
+                "pmi": [
+                    -0.0057773410694339,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fazer constar de sua placa refer\u00eancias aos valores cobrados por seus servi\u00e7os profissionais."
+            }
+        ],
+        "number": "2"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Determinado servidor p\u00fablico foi acusado de ter recebido vantagens indevidas valendo-se de seu cargo p\u00fablico, sendo denunciado \u00e0 justi\u00e7a criminal e instaurado, no \u00e2mbito administrativo, processo administrativo disciplinar por ter infringindo seu estatuto funcional pela mesma conduta.  Ocorre que o servidor foi absolvido pelo Poder Judici\u00e1rio em raz\u00e3o de ter ficado provada a inexist\u00eancia do ato il\u00edcito que lhe fora atribu\u00eddo.\n\n Nessa situa\u00e7\u00e3o, \u00e9 correto afirmar que", "filename": "2011-03.txt", "number": "6", "options": [{"correct": null, "letter": "A", "text": "a decis\u00e3o absolut\u00f3ria n\u00e3o influir\u00e1 na decis\u00e3o administrativa do processo administrativo disciplinar, por serem independentes."}, {"correct": true, "letter": "B", "text": "haver\u00e1 repercuss\u00e3o no \u00e2mbito do processo administrativo disciplinar, n\u00e3o podendo a administra\u00e7\u00e3o p\u00fablica punir o servidor pelo fato decidido na esfera penal."}, {"correct": null, "letter": "C", "text": "em nenhuma hip\u00f3tese a decis\u00e3o penal surtir\u00e1 efeito na esfera administrativa, mesmo que a conduta praticada pelo servidor seja prevista como il\u00edcito penal e il\u00edcito administrativo."}, {"correct": null, "letter": "D", "text": "a puni\u00e7\u00e3o na inst\u00e2ncia administrativa nunca poder\u00e1 ser anulada, caso tenha sido aplicada."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Determinado servidor p\u00fablico foi acusado de ter recebido vantagens indevidas valendo-se de seu cargo p\u00fablico, sendo denunciado \u00e0 justi\u00e7a criminal e instaurado, no \u00e2mbito administrativo, processo administrativo disciplinar por ter infringindo seu estatuto funcional pela mesma conduta.  Ocorre que o servidor foi absolvido pelo Poder Judici\u00e1rio em raz\u00e3o de ter ficado provada a inexist\u00eancia do ato il\u00edcito que lhe fora atribu\u00eddo.\n\n Nessa situa\u00e7\u00e3o, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "6",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a decis\u00e3o absolut\u00f3ria n\u00e3o influir\u00e1 na decis\u00e3o administrativa do processo administrativo disciplinar, por serem independentes."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "haver\u00e1 repercuss\u00e3o no \u00e2mbito do processo administrativo disciplinar, n\u00e3o podendo a administra\u00e7\u00e3o p\u00fablica punir o servidor pelo fato decidido na esfera penal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "em nenhuma hip\u00f3tese a decis\u00e3o penal surtir\u00e1 efeito na esfera administrativa, mesmo que a conduta praticada pelo servidor seja prevista como il\u00edcito penal e il\u00edcito administrativo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a puni\u00e7\u00e3o na inst\u00e2ncia administrativa nunca poder\u00e1 ser anulada, caso tenha sido aplicada."
+            }
+        ],
+        "valid": true
+    }
+]

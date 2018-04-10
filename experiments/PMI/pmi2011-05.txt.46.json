@@ -1,1 +1,57 @@
-[{"filename": "2011-05.txt", "number": "46", "valid": true, "areas": ["CONSUMER"], "enum": "Quando a contrata\u00e7\u00e3o ocorre por site da internet, o consumidor pode desistir da compra?", "options": [{"text": "Sim. Quando a compra \u00e9 feita pela internet, o consumidor pode desistir da compra em at\u00e9 30 dias depois que recebe o produto.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "N\u00e3o. Quando a compra \u00e9 feita pela internet, o consumidor \u00e9 obrigado a ficar com o produto, a menos que ele apresente v\u00edcio. S\u00f3 nessa hip\u00f3tese o consumidor pode desistir.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "N\u00e3o. O direito de arrependimento s\u00f3 existe para as compras feitas na pr\u00f3pria loja, e n\u00e3o pela internet.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Sim. Quando a compra \u00e9 feita fora do estabelecimento comercial, o consumidor pode desistir do contrato no prazo de sete dias, mesmo sem apresentar seus motivos para a desist\u00eancia.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}]}]
+[
+    {
+        "filename": "2011-05.txt",
+        "number": "46",
+        "valid": true,
+        "areas": [
+            "CONSUMER"
+        ],
+        "enum": "Quando a contrata\u00e7\u00e3o ocorre por site da internet, o consumidor pode desistir da compra?",
+        "options": [
+            {
+                "text": "Sim. Quando a compra \u00e9 feita pela internet, o consumidor pode desistir da compra em at\u00e9 30 dias depois que recebe o produto.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "N\u00e3o. Quando a compra \u00e9 feita pela internet, o consumidor \u00e9 obrigado a ficar com o produto, a menos que ele apresente v\u00edcio. S\u00f3 nessa hip\u00f3tese o consumidor pode desistir.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "N\u00e3o. O direito de arrependimento s\u00f3 existe para as compras feitas na pr\u00f3pria loja, e n\u00e3o pela internet.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Sim. Quando a compra \u00e9 feita fora do estabelecimento comercial, o consumidor pode desistir do contrato no prazo de sete dias, mesmo sem apresentar seus motivos para a desist\u00eancia.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ]
+    }
+]

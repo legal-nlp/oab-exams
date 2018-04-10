@@ -1,1 +1,55 @@
-[{"number": "3", "valid": true, "areas": [], "filename": "2014-15.txt", "enum": "Bernardo recebe comunica\u00e7\u00e3o do seu cliente Eduardo de que este havia desistido da causa que apresentara anteriormente, por motivo de viagem a trabalho, no exterior, em decorr\u00eancia de transfer\u00eancia e promo\u00e7\u00e3o na sua empresa. Houve elabora\u00e7\u00e3o da peti\u00e7\u00e3o inicial, contrato de presta\u00e7\u00e3o de servi\u00e7os e recebimento adiantado de custas e honor\u00e1rios advocat\u00edcios.\n\n Nesse caso, nos termos do C\u00f3digo de \u00c9tica da Advocacia, deve o advogado", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "devolver os honor\u00e1rios antecipados sem abater os custos do escrit\u00f3rio.", "correct": null}, {"pmi": [-0.028239920657150065, 0.0, 0.0, 0.0], "letter": "B", "text": "prestar contas ao cliente de forma pormenorizada.", "correct": true}, {"pmi": [-0.01995772540373154, 0.0, 0.0, 0.0], "letter": "C", "text": "arquivar os documentos no escrit\u00f3rio como forma de garantia.", "correct": null}, {"pmi": [-0.03138979883142784, 0.0, 0.0, 0.0], "letter": "D", "text": "realizar contrato vinculando o cliente ao escrit\u00f3rio.", "correct": null}]}]
+[
+    {
+        "number": "3",
+        "valid": true,
+        "areas": [],
+        "filename": "2014-15.txt",
+        "enum": "Bernardo recebe comunica\u00e7\u00e3o do seu cliente Eduardo de que este havia desistido da causa que apresentara anteriormente, por motivo de viagem a trabalho, no exterior, em decorr\u00eancia de transfer\u00eancia e promo\u00e7\u00e3o na sua empresa. Houve elabora\u00e7\u00e3o da peti\u00e7\u00e3o inicial, contrato de presta\u00e7\u00e3o de servi\u00e7os e recebimento adiantado de custas e honor\u00e1rios advocat\u00edcios.\n\n Nesse caso, nos termos do C\u00f3digo de \u00c9tica da Advocacia, deve o advogado",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "devolver os honor\u00e1rios antecipados sem abater os custos do escrit\u00f3rio.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.028239920657150065,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "prestar contas ao cliente de forma pormenorizada.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.01995772540373154,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "arquivar os documentos no escrit\u00f3rio como forma de garantia.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.03138979883142784,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "realizar contrato vinculando o cliente ao escrit\u00f3rio.",
+                "correct": null
+            }
+        ]
+    }
+]

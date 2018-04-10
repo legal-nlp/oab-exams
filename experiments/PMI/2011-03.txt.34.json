@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Projeto de lei estadual de iniciativa parlamentar concede aumento de remunera\u00e7\u00e3o a servidores p\u00fablicos estaduais da \u00e1rea da sa\u00fade e vem a ser convertido em lei ap\u00f3s a san\u00e7\u00e3o do Governador do Estado. A referida lei \u00e9", "filename": "2011-03.txt", "number": "34", "options": [{"correct": null, "letter": "A", "text": "compat\u00edvel com a Constitui\u00e7\u00e3o da Rep\u00fablica, desde que a Constitui\u00e7\u00e3o do Estado-membro n\u00e3o reserve \u00e0 Chefia do Poder Executivo a iniciativa de leis que disponham sobre aumento de remunera\u00e7\u00e3o de servidores p\u00fablicos estaduais."}, {"correct": null, "letter": "B", "text": "constitucional, em que pese o v\u00edcio de iniciativa, pois a san\u00e7\u00e3o do Governador do Estado ao projeto de lei teve o cond\u00e3o de sanar o defeito de iniciativa."}, {"correct": null, "letter": "C", "text": "inconstitucional, uma vez que os projetos de lei de iniciativa dos Deputados Estaduais n\u00e3o se submetem \u00e0 san\u00e7\u00e3o do Governador do Estado, sob pena de ofensa \u00e0 separa\u00e7\u00e3o de poderes."}, {"correct": true, "letter": "D", "text": "inconstitucional, uma vez que s\u00e3o de iniciativa privativa do Governador do Estado as leis que disponham sobre aumento de remunera\u00e7\u00e3o de servidores p\u00fablicos da administra\u00e7\u00e3o direta e aut\u00e1rquica estadual."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Projeto de lei estadual de iniciativa parlamentar concede aumento de remunera\u00e7\u00e3o a servidores p\u00fablicos estaduais da \u00e1rea da sa\u00fade e vem a ser convertido em lei ap\u00f3s a san\u00e7\u00e3o do Governador do Estado. A referida lei \u00e9",
+        "filename": "2011-03.txt",
+        "number": "34",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "compat\u00edvel com a Constitui\u00e7\u00e3o da Rep\u00fablica, desde que a Constitui\u00e7\u00e3o do Estado-membro n\u00e3o reserve \u00e0 Chefia do Poder Executivo a iniciativa de leis que disponham sobre aumento de remunera\u00e7\u00e3o de servidores p\u00fablicos estaduais."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "constitucional, em que pese o v\u00edcio de iniciativa, pois a san\u00e7\u00e3o do Governador do Estado ao projeto de lei teve o cond\u00e3o de sanar o defeito de iniciativa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "inconstitucional, uma vez que os projetos de lei de iniciativa dos Deputados Estaduais n\u00e3o se submetem \u00e0 san\u00e7\u00e3o do Governador do Estado, sob pena de ofensa \u00e0 separa\u00e7\u00e3o de poderes."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "inconstitucional, uma vez que s\u00e3o de iniciativa privativa do Governador do Estado as leis que disponham sobre aumento de remunera\u00e7\u00e3o de servidores p\u00fablicos da administra\u00e7\u00e3o direta e aut\u00e1rquica estadual."
+            }
+        ],
+        "valid": true
+    }
+]

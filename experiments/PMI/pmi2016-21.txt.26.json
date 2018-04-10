@@ -1,1 +1,55 @@
-[{"valid": true, "enum": "Determinado Estado da Federa\u00e7\u00e3o publicou, em julho de 2015, a Lei n\u00ba 123/2015, que majorou o valor das multas e das al\u00edquotas de ICMS. Em fevereiro de 2016, em procedimento de fiscaliza\u00e7\u00e3o, aquele Estado constatou que determinado contribuinte, em opera\u00e7\u00f5es realizadas em outubro de 2014, n\u00e3o recolheu o ICMS devido. Por conta disso, foi efetuado o lan\u00e7amento tribut\u00e1rio contra o contribuinte, exigindo-lhe o ICMS n\u00e3o pago e a multa decorrente do inadimplemento.\n\n O lan\u00e7amento em quest\u00e3o s\u00f3 estar\u00e1 correto se", "areas": [], "options": [{"letter": "A", "pmi": [-0.08560141164386888, 0.0, 0.0, 0.0], "correct": null, "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015."}, {"letter": "B", "pmi": [-0.07838996197309217, 0.0, 0.0, 0.0], "correct": null, "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador."}, {"letter": "C", "pmi": [-0.04878138031000343, 0.0, 0.0, 0.0], "correct": true, "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador."}, {"letter": "D", "pmi": [-0.07838996197309217, 0.0, 0.0, 0.0], "correct": null, "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador."}], "number": "26", "filename": "2016-21.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "Determinado Estado da Federa\u00e7\u00e3o publicou, em julho de 2015, a Lei n\u00ba 123/2015, que majorou o valor das multas e das al\u00edquotas de ICMS. Em fevereiro de 2016, em procedimento de fiscaliza\u00e7\u00e3o, aquele Estado constatou que determinado contribuinte, em opera\u00e7\u00f5es realizadas em outubro de 2014, n\u00e3o recolheu o ICMS devido. Por conta disso, foi efetuado o lan\u00e7amento tribut\u00e1rio contra o contribuinte, exigindo-lhe o ICMS n\u00e3o pago e a multa decorrente do inadimplemento.\n\n O lan\u00e7amento em quest\u00e3o s\u00f3 estar\u00e1 correto se",
+        "areas": [],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.08560141164386888,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.07838996197309217,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.04878138031000343,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.07838996197309217,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+            }
+        ],
+        "number": "26",
+        "filename": "2016-21.txt"
+    }
+]

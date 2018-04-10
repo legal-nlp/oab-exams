@@ -1,1 +1,57 @@
-[{"options": [{"text": "alegar a incompet\u00eancia, pois a Justi\u00e7a Federal ser\u00e1 competente, devendo ser considerada a cidade de Angra dos Reis para definir o crit\u00e9rio territorial.", "pmi": [-0.1690548012606274, -0.003933391522337307, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "alegar a incompet\u00eancia, pois a Justi\u00e7a Federal ser\u00e1 competente, devendo ser considerada a cidade do Rio de Janeiro para definir o crit\u00e9rio territorial.", "pmi": [-0.21578832532672773, -0.003933391522337307, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "alegar a incompet\u00eancia, pois, apesar de a Justi\u00e7a Estadual ser competente, dever\u00e1 ser considerada a cidade de Angra dos Reis para definir o crit\u00e9rio territorial.", "pmi": [-0.13430782297742241, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "reconhecer a compet\u00eancia do ju\u00edzo perante o qual foi apresentada a den\u00fancia.", "pmi": [-0.028957525556816337, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "number": "66", "valid": true, "enum": "Na cidade de Angra dos Reis, S\u00e9rgio encontra um documento adulterado (logo, falso), que, originariamente, fora expedido por \u00f3rg\u00e3o estadual. Valendo-se de tal documento, comparece a uma ag\u00eancia da Caixa Econ\u00f4mica Federal localizada na cidade do Rio de Janeiro e apresenta o documento falso ao gerente do estabelecimento.\n\n Desconfiando da veracidade da documenta\u00e7\u00e3o, o gerente do estabelecimento banc\u00e1rio chama a Pol\u00edcia, e S\u00e9rgio \u00e9 preso em flagrante, sendo denunciado pela pr\u00e1tica do crime de uso de documento falso (Art. 304 do C\u00f3digo Penal) perante uma das Varas Criminais da Justi\u00e7a Estadual da cidade do Rio de Janeiro.\n\n Considerando as informa\u00e7\u00f5es narradas, de acordo com a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, o advogado de S\u00e9rgio dever\u00e1", "filename": "2017-24.txt", "areas": [null]}]
+[
+    {
+        "options": [
+            {
+                "text": "alegar a incompet\u00eancia, pois a Justi\u00e7a Federal ser\u00e1 competente, devendo ser considerada a cidade de Angra dos Reis para definir o crit\u00e9rio territorial.",
+                "pmi": [
+                    -0.1690548012606274,
+                    -0.003933391522337307,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "alegar a incompet\u00eancia, pois a Justi\u00e7a Federal ser\u00e1 competente, devendo ser considerada a cidade do Rio de Janeiro para definir o crit\u00e9rio territorial.",
+                "pmi": [
+                    -0.21578832532672773,
+                    -0.003933391522337307,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "alegar a incompet\u00eancia, pois, apesar de a Justi\u00e7a Estadual ser competente, dever\u00e1 ser considerada a cidade de Angra dos Reis para definir o crit\u00e9rio territorial.",
+                "pmi": [
+                    -0.13430782297742241,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "reconhecer a compet\u00eancia do ju\u00edzo perante o qual foi apresentada a den\u00fancia.",
+                "pmi": [
+                    -0.028957525556816337,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "number": "66",
+        "valid": true,
+        "enum": "Na cidade de Angra dos Reis, S\u00e9rgio encontra um documento adulterado (logo, falso), que, originariamente, fora expedido por \u00f3rg\u00e3o estadual. Valendo-se de tal documento, comparece a uma ag\u00eancia da Caixa Econ\u00f4mica Federal localizada na cidade do Rio de Janeiro e apresenta o documento falso ao gerente do estabelecimento.\n\n Desconfiando da veracidade da documenta\u00e7\u00e3o, o gerente do estabelecimento banc\u00e1rio chama a Pol\u00edcia, e S\u00e9rgio \u00e9 preso em flagrante, sendo denunciado pela pr\u00e1tica do crime de uso de documento falso (Art. 304 do C\u00f3digo Penal) perante uma das Varas Criminais da Justi\u00e7a Estadual da cidade do Rio de Janeiro.\n\n Considerando as informa\u00e7\u00f5es narradas, de acordo com a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, o advogado de S\u00e9rgio dever\u00e1",
+        "filename": "2017-24.txt",
+        "areas": [
+            null
+        ]
+    }
+]

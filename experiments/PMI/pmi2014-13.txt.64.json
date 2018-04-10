@@ -1,1 +1,57 @@
-[{"valid": true, "number": "64", "enum": "Analise os fragmentos a seguir:\n\n I. Jo\u00e3o constrange Maria, por meios violentos, a ter com ele rela\u00e7\u00e3o sexual. Em virtude da viol\u00eancia empregada para a consuma\u00e7\u00e3o do ato, Maria sofre les\u00f5es corporais de natureza grave que a levam a \u00f3bito.\n\n II. Joaquim constrange Benedita, por meio de grave amea\u00e7a, a ter com ele rela\u00e7\u00e3o sexual. Ap\u00f3s o coito Benedita falece em decorr\u00eancia de ataque card\u00edaco, pois padecia, desde crian\u00e7a, de cardiopatia grave, condi\u00e7\u00e3o desconhecida por Joaquim.\n\n A partir das situa\u00e7\u00f5es apresentadas nos fragmentos I e II, os delitos cometidos s\u00e3o, respectivamente,", "areas": ["CRIMINAL"], "filename": "2014-13.txt", "options": [{"text": "estupro qualificado pelo resultado morte e estupro qualificado pelo resultado morte.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "estupro em concurso com les\u00e3o corporal seguida de morte e estupro simples.", "letter": "B", "pmi": [0.004028222262441835, 0.0, 0.0, 0.0], "correct": null}, {"text": "estupro qualificado pelo resultado morte e estupro em concurso com homic\u00eddio preterdoloso.", "letter": "C", "pmi": [-0.003324718914028753, 0.0, 0.0, 0.0], "correct": null}, {"text": "estupro qualificado pelo resultado morte e estupro simples.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}]}]
+[
+    {
+        "valid": true,
+        "number": "64",
+        "enum": "Analise os fragmentos a seguir:\n\n I. Jo\u00e3o constrange Maria, por meios violentos, a ter com ele rela\u00e7\u00e3o sexual. Em virtude da viol\u00eancia empregada para a consuma\u00e7\u00e3o do ato, Maria sofre les\u00f5es corporais de natureza grave que a levam a \u00f3bito.\n\n II. Joaquim constrange Benedita, por meio de grave amea\u00e7a, a ter com ele rela\u00e7\u00e3o sexual. Ap\u00f3s o coito Benedita falece em decorr\u00eancia de ataque card\u00edaco, pois padecia, desde crian\u00e7a, de cardiopatia grave, condi\u00e7\u00e3o desconhecida por Joaquim.\n\n A partir das situa\u00e7\u00f5es apresentadas nos fragmentos I e II, os delitos cometidos s\u00e3o, respectivamente,",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "filename": "2014-13.txt",
+        "options": [
+            {
+                "text": "estupro qualificado pelo resultado morte e estupro qualificado pelo resultado morte.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "estupro em concurso com les\u00e3o corporal seguida de morte e estupro simples.",
+                "letter": "B",
+                "pmi": [
+                    0.004028222262441835,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "estupro qualificado pelo resultado morte e estupro em concurso com homic\u00eddio preterdoloso.",
+                "letter": "C",
+                "pmi": [
+                    -0.003324718914028753,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "estupro qualificado pelo resultado morte e estupro simples.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ]
+    }
+]

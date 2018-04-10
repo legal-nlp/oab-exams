@@ -1,1 +1,55 @@
-[{"valid": true, "enum": "Por meio de contrato verbal, Jo\u00e3o alugou sua bicicleta a Jos\u00e9, que se comprometeu a pagar o aluguel mensal de R$ 100,00 (cem reais), bem como a restituir a coisa alugada ao final do sexto m\u00eas de loca\u00e7\u00e3o. Antes de esgotado o prazo do contrato de loca\u00e7\u00e3o, Jo\u00e3o deseja celebrar contrato de compra e venda com Ot\u00e1vio, de modo a transmitir imediatamente a propriedade da bicicleta.\n\n N\u00e3o obstante a coisa permanecer na posse direta de Jos\u00e9, entende-se que", "filename": "2015-18.txt", "areas": [], "options": [{"pmi": [-0.049649731939689135, 0.0, 0.0, 0.0], "letter": "A", "text": "o adquirente Ot\u00e1vio, caso venda a bicicleta antes de encerrado o prazo da loca\u00e7\u00e3o, deve obrigatoriamente depositar o pre\u00e7o em favor do locat\u00e1rio Jos\u00e9.", "correct": null}, {"pmi": [-0.05645428844310988, 0.0, 0.0, 0.0], "letter": "B", "text": "Jo\u00e3o n\u00e3o pode celebrar contrato de compra e venda da bicicleta antes de encerrado o prazo da loca\u00e7\u00e3o celebrada com Jos\u00e9.", "correct": null}, {"pmi": [-0.08479682467943536, 0.0, 0.0, 0.0], "letter": "C", "text": "\u00e9 poss\u00edvel transmitir imediatamente a propriedade para Ot\u00e1vio, por meio da estipula\u00e7\u00e3o, no contrato de compra e venda, da cess\u00e3o do direito \u00e0 restitui\u00e7\u00e3o da coisa em favor de Ot\u00e1vio.", "correct": true}, {"pmi": [-0.026565390569217213, 0.0, 0.0, 0.0], "letter": "D", "text": "\u00e9 poss\u00edvel transmitir imediatamente a propriedade para Ot\u00e1vio, por meio da estipula\u00e7\u00e3o, no contrato de compra e venda, do constituto possess\u00f3rio em favor de Ot\u00e1vio.", "correct": null}], "number": "42"}]
+[
+    {
+        "valid": true,
+        "enum": "Por meio de contrato verbal, Jo\u00e3o alugou sua bicicleta a Jos\u00e9, que se comprometeu a pagar o aluguel mensal de R$ 100,00 (cem reais), bem como a restituir a coisa alugada ao final do sexto m\u00eas de loca\u00e7\u00e3o. Antes de esgotado o prazo do contrato de loca\u00e7\u00e3o, Jo\u00e3o deseja celebrar contrato de compra e venda com Ot\u00e1vio, de modo a transmitir imediatamente a propriedade da bicicleta.\n\n N\u00e3o obstante a coisa permanecer na posse direta de Jos\u00e9, entende-se que",
+        "filename": "2015-18.txt",
+        "areas": [],
+        "options": [
+            {
+                "pmi": [
+                    -0.049649731939689135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "o adquirente Ot\u00e1vio, caso venda a bicicleta antes de encerrado o prazo da loca\u00e7\u00e3o, deve obrigatoriamente depositar o pre\u00e7o em favor do locat\u00e1rio Jos\u00e9.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.05645428844310988,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Jo\u00e3o n\u00e3o pode celebrar contrato de compra e venda da bicicleta antes de encerrado o prazo da loca\u00e7\u00e3o celebrada com Jos\u00e9.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.08479682467943536,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "\u00e9 poss\u00edvel transmitir imediatamente a propriedade para Ot\u00e1vio, por meio da estipula\u00e7\u00e3o, no contrato de compra e venda, da cess\u00e3o do direito \u00e0 restitui\u00e7\u00e3o da coisa em favor de Ot\u00e1vio.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.026565390569217213,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "\u00e9 poss\u00edvel transmitir imediatamente a propriedade para Ot\u00e1vio, por meio da estipula\u00e7\u00e3o, no contrato de compra e venda, do constituto possess\u00f3rio em favor de Ot\u00e1vio.",
+                "correct": null
+            }
+        ],
+        "number": "42"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Numa reclama\u00e7\u00e3o trabalhista, o autor teve reconhecido o direito ao pagamento de horas extras, sem qualquer reflexo. Ap\u00f3s liquidado o julgado, foi homologado o valor de R$ 15.000,00, iniciando-se a execu\u00e7\u00e3o. Em seguida, as partes comparecem em ju\u00edzo pleiteando a homologa\u00e7\u00e3o de acordo no valor de R$ 10.000,00.\n\n Com base no narrado acima, \u00e9 correto afirmar que", "filename": "2012-06.txt", "number": "77", "options": [{"correct": null, "letter": "A", "text": "o juiz n\u00e3o pode homologar o acordo porque isso significaria viola\u00e7\u00e3o \u00e0 coisa julgada."}, {"correct": null, "letter": "B", "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, mas o INSS ser\u00e1 recolhido sobre R$ 15.000,00."}, {"correct": null, "letter": "C", "text": "a homologa\u00e7\u00e3o do acordo, no caso, dependeria da concord\u00e2ncia do \u00f3rg\u00e3o previdenci\u00e1rio, pois inferior ao valor homologado."}, {"correct": true, "letter": "D", "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, e o INSS ser\u00e1 recolhido sobre R$ 10.000,00."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Numa reclama\u00e7\u00e3o trabalhista, o autor teve reconhecido o direito ao pagamento de horas extras, sem qualquer reflexo. Ap\u00f3s liquidado o julgado, foi homologado o valor de R$ 15.000,00, iniciando-se a execu\u00e7\u00e3o. Em seguida, as partes comparecem em ju\u00edzo pleiteando a homologa\u00e7\u00e3o de acordo no valor de R$ 10.000,00.\n\n Com base no narrado acima, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "77",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o juiz n\u00e3o pode homologar o acordo porque isso significaria viola\u00e7\u00e3o \u00e0 coisa julgada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, mas o INSS ser\u00e1 recolhido sobre R$ 15.000,00."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a homologa\u00e7\u00e3o do acordo, no caso, dependeria da concord\u00e2ncia do \u00f3rg\u00e3o previdenci\u00e1rio, pois inferior ao valor homologado."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, e o INSS ser\u00e1 recolhido sobre R$ 10.000,00."
+            }
+        ],
+        "valid": true
+    }
+]

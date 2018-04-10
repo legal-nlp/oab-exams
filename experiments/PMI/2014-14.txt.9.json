@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "A advogada Ana integrou o departamento jur\u00eddico da empresa XYZ Ltda. e, portanto, participava de reuni\u00f5es internas, com s\u00f3cios e diretores, e externas, com clientes e fornecedores, tendo acesso a todos os documentos da sociedade, inclusive aos de natureza cont\u00e1bil, conhecendo assim, diversos fatos e informa\u00e7\u00f5es relevantes sobre a empresa. Alguns anos ap\u00f3s ter deixado os quadros da XYZ Ltda., Ana recebeu intima\u00e7\u00e3o para comparecer a determinada audi\u00eancia e a prestar depoimento, como testemunha arrolada pela defesa, no \u00e2mbito de a\u00e7\u00e3o penal em que um dos s\u00f3cios da empresa figurava como acusado do crime de sonega\u00e7\u00e3o fiscal. Ao comparecer \u00e0 audi\u00eancia, Ana afirmou que n\u00e3o prestaria depoimento sobre os fatos dos quais tomou conhecimento enquanto integrava o jur\u00eddico da XYZ Ltda. O magistrado que presidia o ato ressaltou que seu depoimento havia sido solicitado pelo pr\u00f3prio s\u00f3cio da empresa, que a estaria, portanto, desobrigando do dever de guardar sigilo.\n\n Sobre a quest\u00e3o apresentada, observadas as regras do Estatuto da OAB e do C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a op\u00e7\u00e3o correta.", "filename": "2014-14.txt", "number": "9", "options": [{"correct": null, "letter": "A", "text": "Ana ter\u00e1 o dever de depor, pois o bem jur\u00eddico administra\u00e7\u00e3o da justi\u00e7a \u00e9 mais relevante do que o bem jur\u00eddico inviolabilidade dos segredos."}, {"correct": null, "letter": "B", "text": "Ana ter\u00e1 o dever de depor, pois foi desobrigada por seu ex-cliente do dever de guardar sigilo sobre os fatos de que tomou conhecimento quando atuou como advogada da XYZ Ltda."}, {"correct": null, "letter": "C", "text": "Ana ter\u00e1 o dever de depor, pois n\u00e3o integra mais o departamento jur\u00eddico da empresa XYZ Ltda., tendo cessado, portanto, seu dever de guardar sigilo."}, {"correct": true, "letter": "D", "text": "Ana n\u00e3o ter\u00e1 o dever de depor, pois o advogado tem o direito de se recusar a depor, como testemunha, sobre fato relacionado \u00e0 pessoa de quem foi ou seja advogado, mesmo quando solicitado pelo cliente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A advogada Ana integrou o departamento jur\u00eddico da empresa XYZ Ltda. e, portanto, participava de reuni\u00f5es internas, com s\u00f3cios e diretores, e externas, com clientes e fornecedores, tendo acesso a todos os documentos da sociedade, inclusive aos de natureza cont\u00e1bil, conhecendo assim, diversos fatos e informa\u00e7\u00f5es relevantes sobre a empresa. Alguns anos ap\u00f3s ter deixado os quadros da XYZ Ltda., Ana recebeu intima\u00e7\u00e3o para comparecer a determinada audi\u00eancia e a prestar depoimento, como testemunha arrolada pela defesa, no \u00e2mbito de a\u00e7\u00e3o penal em que um dos s\u00f3cios da empresa figurava como acusado do crime de sonega\u00e7\u00e3o fiscal. Ao comparecer \u00e0 audi\u00eancia, Ana afirmou que n\u00e3o prestaria depoimento sobre os fatos dos quais tomou conhecimento enquanto integrava o jur\u00eddico da XYZ Ltda. O magistrado que presidia o ato ressaltou que seu depoimento havia sido solicitado pelo pr\u00f3prio s\u00f3cio da empresa, que a estaria, portanto, desobrigando do dever de guardar sigilo.\n\n Sobre a quest\u00e3o apresentada, observadas as regras do Estatuto da OAB e do C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "9",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Ana ter\u00e1 o dever de depor, pois o bem jur\u00eddico administra\u00e7\u00e3o da justi\u00e7a \u00e9 mais relevante do que o bem jur\u00eddico inviolabilidade dos segredos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ana ter\u00e1 o dever de depor, pois foi desobrigada por seu ex-cliente do dever de guardar sigilo sobre os fatos de que tomou conhecimento quando atuou como advogada da XYZ Ltda."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Ana ter\u00e1 o dever de depor, pois n\u00e3o integra mais o departamento jur\u00eddico da empresa XYZ Ltda., tendo cessado, portanto, seu dever de guardar sigilo."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Ana n\u00e3o ter\u00e1 o dever de depor, pois o advogado tem o direito de se recusar a depor, como testemunha, sobre fato relacionado \u00e0 pessoa de quem foi ou seja advogado, mesmo quando solicitado pelo cliente."
+            }
+        ],
+        "valid": true
+    }
+]

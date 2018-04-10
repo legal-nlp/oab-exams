@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A respeito da recupera\u00e7\u00e3o judicial, assinale a afirmativa correta.", "filename": "2012-08.txt", "number": "51", "options": [{"correct": null, "letter": "A", "text": "O juiz somente poder\u00e1 conceder a recupera\u00e7\u00e3o judicial do devedor cujo plano de recupera\u00e7\u00e3o tenha sido aprovado pela assembleia geral de credores."}, {"correct": null, "letter": "B", "text": "O devedor poder\u00e1 desistir do pedido de recupera\u00e7\u00e3o judicial a qualquer tempo, desde que antes da concess\u00e3o da recupera\u00e7\u00e3o judicial pelo juiz, bastando, para tanto, comunicar sua desist\u00eancia ao ju\u00edzo da recupera\u00e7\u00e3o."}, {"correct": true, "letter": "C", "text": "O juiz decretar\u00e1 fal\u00eancia, caso o devedor n\u00e3o apresente o plano de recupera\u00e7\u00e3o no prazo de 60 (sessenta) dias da publica\u00e7\u00e3o da decis\u00e3o que deferir o processamento da recupera\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "O plano de recupera\u00e7\u00e3o apresentado pelo devedor, em hip\u00f3tese alguma, poder\u00e1 sofrer altera\u00e7\u00f5es."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A respeito da recupera\u00e7\u00e3o judicial, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O juiz somente poder\u00e1 conceder a recupera\u00e7\u00e3o judicial do devedor cujo plano de recupera\u00e7\u00e3o tenha sido aprovado pela assembleia geral de credores."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O devedor poder\u00e1 desistir do pedido de recupera\u00e7\u00e3o judicial a qualquer tempo, desde que antes da concess\u00e3o da recupera\u00e7\u00e3o judicial pelo juiz, bastando, para tanto, comunicar sua desist\u00eancia ao ju\u00edzo da recupera\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O juiz decretar\u00e1 fal\u00eancia, caso o devedor n\u00e3o apresente o plano de recupera\u00e7\u00e3o no prazo de 60 (sessenta) dias da publica\u00e7\u00e3o da decis\u00e3o que deferir o processamento da recupera\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O plano de recupera\u00e7\u00e3o apresentado pelo devedor, em hip\u00f3tese alguma, poder\u00e1 sofrer altera\u00e7\u00f5es."
+            }
+        ],
+        "valid": true
+    }
+]

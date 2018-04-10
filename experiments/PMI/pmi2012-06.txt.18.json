@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "letter": "A", "text": "ap\u00f3s reiteradas decis\u00f5es no mesmo sentido, o STF poder\u00e1 editar s\u00famula vinculante."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "o STF dever\u00e1 encaminhar a decis\u00e3o ao Senado."}, {"pmi": [-0.08253073893647206, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "os \u00f3rg\u00e3os fracion\u00e1rios dos tribunais, a partir de ent\u00e3o, ficam dispensados de encaminhar a quest\u00e3o ao pleno."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "a efic\u00e1cia da decis\u00e3o \u00e9 erga omnes."}], "valid": true, "areas": ["CONSTITUTIONAL"], "number": "18", "enum": "Suponha que o STF, no exame de um caso concreto (controle difuso), tenha reconhecido a incompatibilidade entre uma lei em vigor desde 1987 e a Constitui\u00e7\u00e3o de 1988. Nesse caso, \u00e9 correto afirmar que", "filename": "2012-06.txt"}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A",
+                "text": "ap\u00f3s reiteradas decis\u00f5es no mesmo sentido, o STF poder\u00e1 editar s\u00famula vinculante."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "o STF dever\u00e1 encaminhar a decis\u00e3o ao Senado."
+            },
+            {
+                "pmi": [
+                    -0.08253073893647206,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "os \u00f3rg\u00e3os fracion\u00e1rios dos tribunais, a partir de ent\u00e3o, ficam dispensados de encaminhar a quest\u00e3o ao pleno."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "a efic\u00e1cia da decis\u00e3o \u00e9 erga omnes."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "18",
+        "enum": "Suponha que o STF, no exame de um caso concreto (controle difuso), tenha reconhecido a incompatibilidade entre uma lei em vigor desde 1987 e a Constitui\u00e7\u00e3o de 1988. Nesse caso, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt"
+    }
+]

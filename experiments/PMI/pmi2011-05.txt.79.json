@@ -1,1 +1,57 @@
-[{"areas": ["LABOUR-PROCEDURE"], "valid": true, "number": "79", "enum": "Caio, metal\u00fargico, ajuizou a\u00e7\u00e3o trabalhista em face da empresa \u00d4mega postulando sua reintegra\u00e7\u00e3o ao emprego, pois, segundo suas alega\u00e7\u00f5es, teria sido dispensado no curso de estabilidade sindical. Postulou ainda a concess\u00e3o de medida liminar visando a tal reintegra\u00e7\u00e3o at\u00e9 o final do processo, com base no art. 659, X, da CLT. O juiz, ao apreciar o pedido de medida liminar antes da cita\u00e7\u00e3o da r\u00e9, decidiu pela sua denega\u00e7\u00e3o, dando prosseguimento ao feito. A esse respeito, assinale a alternativa correta.", "options": [{"correct": true, "pmi": [-0.1367339077246181, 0.0, 0.0, 0.0], "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o interlocut\u00f3ria, n\u00e3o cabendo interposi\u00e7\u00e3o de recurso imediato, devendo ser deferida a liminar.", "letter": "A"}, {"correct": null, "pmi": [-0.12263579942794041, 0.0, 0.0, 0.0], "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o interlocut\u00f3ria, n\u00e3o cabendo interposi\u00e7\u00e3o de recurso imediato, raz\u00e3o pela qual \u00e9 cab\u00edvel a impetra\u00e7\u00e3o de mandado de seguran\u00e7a.", "letter": "B"}, {"correct": null, "pmi": [-0.14230853195958715, 0.0, 0.0, 0.0], "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o terminativa, cabendo interposi\u00e7\u00e3o de recurso ordin\u00e1rio, raz\u00e3o pela qual \u00e9 incab\u00edvel a impetra\u00e7\u00e3o de mandado de seguran\u00e7a por haver recurso pr\u00f3prio.", "letter": "C"}, {"correct": null, "pmi": [-0.16376046355827198, 0.0, 0.0, 0.0], "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o definitiva, cabendo impetra\u00e7\u00e3o de mandado de seguran\u00e7a, pois n\u00e3o h\u00e1 recurso pr\u00f3prio no caso.", "letter": "D"}], "filename": "2011-05.txt"}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "valid": true,
+        "number": "79",
+        "enum": "Caio, metal\u00fargico, ajuizou a\u00e7\u00e3o trabalhista em face da empresa \u00d4mega postulando sua reintegra\u00e7\u00e3o ao emprego, pois, segundo suas alega\u00e7\u00f5es, teria sido dispensado no curso de estabilidade sindical. Postulou ainda a concess\u00e3o de medida liminar visando a tal reintegra\u00e7\u00e3o at\u00e9 o final do processo, com base no art. 659, X, da CLT. O juiz, ao apreciar o pedido de medida liminar antes da cita\u00e7\u00e3o da r\u00e9, decidiu pela sua denega\u00e7\u00e3o, dando prosseguimento ao feito. A esse respeito, assinale a alternativa correta.",
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    -0.1367339077246181,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o interlocut\u00f3ria, n\u00e3o cabendo interposi\u00e7\u00e3o de recurso imediato, devendo ser deferida a liminar.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.12263579942794041,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o interlocut\u00f3ria, n\u00e3o cabendo interposi\u00e7\u00e3o de recurso imediato, raz\u00e3o pela qual \u00e9 cab\u00edvel a impetra\u00e7\u00e3o de mandado de seguran\u00e7a.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.14230853195958715,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o terminativa, cabendo interposi\u00e7\u00e3o de recurso ordin\u00e1rio, raz\u00e3o pela qual \u00e9 incab\u00edvel a impetra\u00e7\u00e3o de mandado de seguran\u00e7a por haver recurso pr\u00f3prio.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.16376046355827198,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A natureza jur\u00eddica da decis\u00e3o denegat\u00f3ria da liminar \u00e9 de decis\u00e3o definitiva, cabendo impetra\u00e7\u00e3o de mandado de seguran\u00e7a, pois n\u00e3o h\u00e1 recurso pr\u00f3prio no caso.",
+                "letter": "D"
+            }
+        ],
+        "filename": "2011-05.txt"
+    }
+]

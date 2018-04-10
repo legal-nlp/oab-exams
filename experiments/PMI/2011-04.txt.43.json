@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "O rito comum sum\u00e1rio tem suas hip\u00f3teses de incid\u00eancia expressamente disciplinadas no sistema processual civil p\u00e1trio. Tal rito apresenta tr\u00e2mite mais c\u00e9lere que o observado pelo rito comum ordin\u00e1rio, e, exatamente por isso, as causas que o observam t\u00eam menor complexidade se comparadas \u00e0s que tramitam pelo rito comum ordin\u00e1rio.\n\n Acerca do rito comum sum\u00e1rio, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "43", "options": [{"correct": true, "letter": "A", "text": "podem observar o rito comum sum\u00e1rio causas cujo valor corresponda a trezentos vezes o valor do sal\u00e1rio m\u00ednimo e que versem acerca da cobran\u00e7a ao cond\u00f4mino de quantias devidas ao condom\u00ednio."}, {"correct": null, "letter": "B", "text": "a\u00e7\u00f5es que seguem o rito comum sum\u00e1rio s\u00e3o d\u00faplices, raz\u00e3o pela qual pode o r\u00e9u valer-se da reconven\u00e7\u00e3o para formular pedidos contra o autor em seu favor."}, {"correct": null, "letter": "C", "text": "no rito comum sum\u00e1rio, t\u00eam as partes que comparecer pessoalmente \u00e0 audi\u00eancia de concilia\u00e7\u00e3o, jamais podendo se fazer representar por preposto com poderes para transigir."}, {"correct": null, "letter": "D", "text": "no rito comum sum\u00e1rio, n\u00e3o \u00e9 admiss\u00edvel a a\u00e7\u00e3o declarat\u00f3ria incidental. Da mesma forma n\u00e3o se admitem nesse rito, em nenhuma hip\u00f3tese, quaisquer das esp\u00e9cies de interven\u00e7\u00e3o de terceiros."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "O rito comum sum\u00e1rio tem suas hip\u00f3teses de incid\u00eancia expressamente disciplinadas no sistema processual civil p\u00e1trio. Tal rito apresenta tr\u00e2mite mais c\u00e9lere que o observado pelo rito comum ordin\u00e1rio, e, exatamente por isso, as causas que o observam t\u00eam menor complexidade se comparadas \u00e0s que tramitam pelo rito comum ordin\u00e1rio.\n\n Acerca do rito comum sum\u00e1rio, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "43",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "podem observar o rito comum sum\u00e1rio causas cujo valor corresponda a trezentos vezes o valor do sal\u00e1rio m\u00ednimo e que versem acerca da cobran\u00e7a ao cond\u00f4mino de quantias devidas ao condom\u00ednio."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a\u00e7\u00f5es que seguem o rito comum sum\u00e1rio s\u00e3o d\u00faplices, raz\u00e3o pela qual pode o r\u00e9u valer-se da reconven\u00e7\u00e3o para formular pedidos contra o autor em seu favor."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "no rito comum sum\u00e1rio, t\u00eam as partes que comparecer pessoalmente \u00e0 audi\u00eancia de concilia\u00e7\u00e3o, jamais podendo se fazer representar por preposto com poderes para transigir."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "no rito comum sum\u00e1rio, n\u00e3o \u00e9 admiss\u00edvel a a\u00e7\u00e3o declarat\u00f3ria incidental. Da mesma forma n\u00e3o se admitem nesse rito, em nenhuma hip\u00f3tese, quaisquer das esp\u00e9cies de interven\u00e7\u00e3o de terceiros."
+            }
+        ],
+        "valid": true
+    }
+]

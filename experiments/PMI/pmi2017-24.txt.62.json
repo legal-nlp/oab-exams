@@ -1,1 +1,57 @@
-[{"enum": "No dia 28 de agosto de 2011, ap\u00f3s uma discuss\u00e3o no trabalho quando todos comemoravam os 20 anos de Jo\u00e3o, este desfere uma facada no bra\u00e7o de Paulo, que fica revoltado e liga para a Pol\u00edcia, sendo Jo\u00e3o preso em flagrante pela pr\u00e1tica do injusto de homic\u00eddio tentado, obtendo liberdade provis\u00f3ria logo em seguida. O laudo de exame de delito constatou a exist\u00eancia de les\u00e3o leve.\n\n A den\u00fancia foi oferecida em 23 de agosto de 2013 e recebida pelo juiz em 28 de agosto de 2013. Finda a primeira fase do procedimento do Tribunal do J\u00fari, ocasi\u00e3o em que a v\u00edtima compareceu, confirmou os fatos, inclusive dizendo acreditar que a inten\u00e7\u00e3o do agente era efetivamente mat\u00e1-la, e demonstrou todo seu inconformismo com a conduta do r\u00e9u, Jo\u00e3o foi pronunciado, sendo a decis\u00e3o publicada em 23 de agosto de 2015, n\u00e3o havendo impugna\u00e7\u00e3o pelas partes.\n\n Submetido a julgamento em sess\u00e3o plen\u00e1ria em 18 de julho de 2017, os jurados afastaram a inten\u00e7\u00e3o de matar, ocorrendo em senten\u00e7a, ent\u00e3o, a desclassifica\u00e7\u00e3o para o crime de les\u00e3o corporal simples, que tem a pena m\u00e1xima prevista de 01 ano, sendo certo que o C\u00f3digo Penal prev\u00ea que a pena de 01 a 02 anos prescreve em 04 anos.\n\n Na ocasi\u00e3o, voc\u00ea, como advogado(a) de Jo\u00e3o, considerando apenas as informa\u00e7\u00f5es narradas, dever\u00e1 requerer que seja declarada a extin\u00e7\u00e3o da punibilidade pela", "valid": true, "filename": "2017-24.txt", "areas": [null], "options": [{"pmi": [0.011766016419476933, 0.0, 0.0, 0.0], "letter": "A", "text": "decad\u00eancia, por aus\u00eancia de representa\u00e7\u00e3o da v\u00edtima.", "correct": null}, {"pmi": [-0.004376502874165441, 0.0, 0.0, 0.0], "letter": "B", "text": "prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque j\u00e1 foi ultrapassado o prazo prescricional entre a data do fato e a do recebimento da den\u00fancia.", "correct": true}, {"pmi": [-0.008572983654555198, 0.0, 0.0, 0.0], "letter": "C", "text": "(prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque j\u00e1 foi ultrapassado o prazo prescricional entre a data do oferecimento da den\u00fancia e a da publica\u00e7\u00e3o da decis\u00e3o de pron\u00fancia.", "correct": null}, {"pmi": [-0.003719901827852336, 0.0, 0.0, 0.0], "letter": "D", "text": "prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque entre a data do recebimento da den\u00fancia e a do julgamento pelo j\u00fari decorreu o prazo prescricional.", "correct": null}], "number": "62"}]
+[
+    {
+        "enum": "No dia 28 de agosto de 2011, ap\u00f3s uma discuss\u00e3o no trabalho quando todos comemoravam os 20 anos de Jo\u00e3o, este desfere uma facada no bra\u00e7o de Paulo, que fica revoltado e liga para a Pol\u00edcia, sendo Jo\u00e3o preso em flagrante pela pr\u00e1tica do injusto de homic\u00eddio tentado, obtendo liberdade provis\u00f3ria logo em seguida. O laudo de exame de delito constatou a exist\u00eancia de les\u00e3o leve.\n\n A den\u00fancia foi oferecida em 23 de agosto de 2013 e recebida pelo juiz em 28 de agosto de 2013. Finda a primeira fase do procedimento do Tribunal do J\u00fari, ocasi\u00e3o em que a v\u00edtima compareceu, confirmou os fatos, inclusive dizendo acreditar que a inten\u00e7\u00e3o do agente era efetivamente mat\u00e1-la, e demonstrou todo seu inconformismo com a conduta do r\u00e9u, Jo\u00e3o foi pronunciado, sendo a decis\u00e3o publicada em 23 de agosto de 2015, n\u00e3o havendo impugna\u00e7\u00e3o pelas partes.\n\n Submetido a julgamento em sess\u00e3o plen\u00e1ria em 18 de julho de 2017, os jurados afastaram a inten\u00e7\u00e3o de matar, ocorrendo em senten\u00e7a, ent\u00e3o, a desclassifica\u00e7\u00e3o para o crime de les\u00e3o corporal simples, que tem a pena m\u00e1xima prevista de 01 ano, sendo certo que o C\u00f3digo Penal prev\u00ea que a pena de 01 a 02 anos prescreve em 04 anos.\n\n Na ocasi\u00e3o, voc\u00ea, como advogado(a) de Jo\u00e3o, considerando apenas as informa\u00e7\u00f5es narradas, dever\u00e1 requerer que seja declarada a extin\u00e7\u00e3o da punibilidade pela",
+        "valid": true,
+        "filename": "2017-24.txt",
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "pmi": [
+                    0.011766016419476933,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "decad\u00eancia, por aus\u00eancia de representa\u00e7\u00e3o da v\u00edtima.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.004376502874165441,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque j\u00e1 foi ultrapassado o prazo prescricional entre a data do fato e a do recebimento da den\u00fancia.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.008572983654555198,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "(prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque j\u00e1 foi ultrapassado o prazo prescricional entre a data do oferecimento da den\u00fancia e a da publica\u00e7\u00e3o da decis\u00e3o de pron\u00fancia.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.003719901827852336,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "prescri\u00e7\u00e3o da pretens\u00e3o punitiva, porque entre a data do recebimento da den\u00fancia e a do julgamento pelo j\u00fari decorreu o prazo prescricional.",
+                "correct": null
+            }
+        ],
+        "number": "62"
+    }
+]

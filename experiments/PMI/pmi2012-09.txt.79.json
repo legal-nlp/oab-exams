@@ -1,1 +1,57 @@
-[{"number": "79", "valid": true, "enum": "A liquida\u00e7\u00e3o tem por objetivo a apura\u00e7\u00e3o do quantum debeatur nas senten\u00e7as proferidas de forma il\u00edquida e que tenham deferido, ao menos em parte, a pretens\u00e3o deduzida. De acordo com a CLT, assinale a alternativa que indica as formas poss\u00edveis de liquida\u00e7\u00e3o da senten\u00e7a nas obriga\u00e7\u00f5es de dar (pagar) e, caso o juiz conceda prazo \u00e0s partes para manifesta\u00e7\u00e3o, o n\u00famero de dias para a impugna\u00e7\u00e3o.", "filename": "2012-09.txt", "areas": ["LABOUR-PROCEDURE"], "options": [{"correct": null, "text": "Artigos, c\u00e1lculo ou arbitramento. Prazo de 8 dias.", "pmi": [-0.056225160405739695, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": true, "text": "C\u00e1lculo, arbitramento ou artigos. Prazo de 10 dias.", "pmi": [-0.08983268009144645, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "Artigos ou arbitramento. Prazo de 15 dias.", "pmi": [-0.06747019248688763, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "C\u00e1lculo ou arbitramento. Prazo de 5 dias.", "pmi": [-0.06747019248688763, 0.0, 0.0, 0.0], "letter": "D"}]}]
+[
+    {
+        "number": "79",
+        "valid": true,
+        "enum": "A liquida\u00e7\u00e3o tem por objetivo a apura\u00e7\u00e3o do quantum debeatur nas senten\u00e7as proferidas de forma il\u00edquida e que tenham deferido, ao menos em parte, a pretens\u00e3o deduzida. De acordo com a CLT, assinale a alternativa que indica as formas poss\u00edveis de liquida\u00e7\u00e3o da senten\u00e7a nas obriga\u00e7\u00f5es de dar (pagar) e, caso o juiz conceda prazo \u00e0s partes para manifesta\u00e7\u00e3o, o n\u00famero de dias para a impugna\u00e7\u00e3o.",
+        "filename": "2012-09.txt",
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "text": "Artigos, c\u00e1lculo ou arbitramento. Prazo de 8 dias.",
+                "pmi": [
+                    -0.056225160405739695,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "text": "C\u00e1lculo, arbitramento ou artigos. Prazo de 10 dias.",
+                "pmi": [
+                    -0.08983268009144645,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "Artigos ou arbitramento. Prazo de 15 dias.",
+                "pmi": [
+                    -0.06747019248688763,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "C\u00e1lculo ou arbitramento. Prazo de 5 dias.",
+                "pmi": [
+                    -0.06747019248688763,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ]
+    }
+]

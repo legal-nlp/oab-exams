@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"text": "A\u00e7\u00e3o de Execu\u00e7\u00e3o, fundada em t\u00edtulo extrajudicial consubstanciado no acerto verbal havido entre as partes.", "letter": "A", "correct": null, "pmi": [-0.0007847854090954368, 0.0, 0.0, 0.0]}, {"text": "A\u00e7\u00e3o de Reintegra\u00e7\u00e3o de Posse dos im\u00f3veis administrados por Jorge.", "letter": "B", "correct": null, "pmi": [-0.007207168360611267, 0.0, 0.0, 0.0]}, {"text": "A\u00e7\u00e3o de Exigir Contas, para que Jorge forne\u00e7a os relat\u00f3rios.", "letter": "C", "correct": true, "pmi": [-0.02046095060139404, 0.0, 0.0, 0.0]}, {"text": "A\u00e7\u00e3o de Consigna\u00e7\u00e3o de Pagamento, objetivando que Jorge consigne os relat\u00f3rios em Ju\u00edzo.", "letter": "D", "correct": null, "pmi": [-0.011681695273347769, 0.0, 0.0, 0.0]}], "filename": "2017-23.txt", "number": "54", "areas": [null], "enum": "Jorge administra cinco apartamentos de Marina. Ele recebe os valores relativos \u00e0 loca\u00e7\u00e3o dos referidos bens, realiza os pagamentos inerentes aos im\u00f3veis (condom\u00ednio, IPTU), abate o valor pela presta\u00e7\u00e3o de servi\u00e7os e repassa o saldo residual a Marina, mediante dep\u00f3sito em conta corrente, titularizada pela contratante.  Contudo, nos \u00faltimos dez meses, Jorge tem deixado de fornecer os relat\u00f3rios mensais acerca da despesa e receita. Incomodada, Marina o questiona acerca da omiss\u00e3o, que nada faz.\n\n Diante desse cen\u00e1rio, Marina procura um advogado, que, com o objetivo de obter os relat\u00f3rios, deve ajuizar"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "text": "A\u00e7\u00e3o de Execu\u00e7\u00e3o, fundada em t\u00edtulo extrajudicial consubstanciado no acerto verbal havido entre as partes.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.0007847854090954368,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A\u00e7\u00e3o de Reintegra\u00e7\u00e3o de Posse dos im\u00f3veis administrados por Jorge.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.007207168360611267,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A\u00e7\u00e3o de Exigir Contas, para que Jorge forne\u00e7a os relat\u00f3rios.",
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    -0.02046095060139404,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A\u00e7\u00e3o de Consigna\u00e7\u00e3o de Pagamento, objetivando que Jorge consigne os relat\u00f3rios em Ju\u00edzo.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.011681695273347769,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2017-23.txt",
+        "number": "54",
+        "areas": [
+            null
+        ],
+        "enum": "Jorge administra cinco apartamentos de Marina. Ele recebe os valores relativos \u00e0 loca\u00e7\u00e3o dos referidos bens, realiza os pagamentos inerentes aos im\u00f3veis (condom\u00ednio, IPTU), abate o valor pela presta\u00e7\u00e3o de servi\u00e7os e repassa o saldo residual a Marina, mediante dep\u00f3sito em conta corrente, titularizada pela contratante.  Contudo, nos \u00faltimos dez meses, Jorge tem deixado de fornecer os relat\u00f3rios mensais acerca da despesa e receita. Incomodada, Marina o questiona acerca da omiss\u00e3o, que nada faz.\n\n Diante desse cen\u00e1rio, Marina procura um advogado, que, com o objetivo de obter os relat\u00f3rios, deve ajuizar"
+    }
+]

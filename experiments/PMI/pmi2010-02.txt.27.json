@@ -1,1 +1,57 @@
-[{"options": [{"text": "Por se tratar de bem adquirido a t\u00edtulo oneroso na vig\u00eancia da uni\u00e3o est\u00e1vel, Carlos tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005.", "letter": "A", "pmi": [-0.18604403300400546, 0.0, 0.0, 0.0], "correct": null}, {"text": "Carlos n\u00e3o tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, salvo contrato escrito entre os companheiros, aplica-se \u00e0s rela\u00e7\u00f5es patrimoniais entre os mesmos o regime da separa\u00e7\u00e3o total de bens.", "letter": "B", "pmi": [-0.18415727248732075, 0.0, 0.0, 0.0], "correct": null}, {"text": "Carlos n\u00e3o tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, em virtude da aus\u00eancia de contrato escrito entre os companheiros, aplica-se \u00e0s rela\u00e7\u00f5es patrimoniais entre os mesmos o regime da comunh\u00e3o parcial de bens, que exclui dos bens comuns entre os consortes aqueles doados e os sub-rogados em seu lugar.", "letter": "C", "pmi": [-0.1279268512823594, 0.0, 0.0, 0.0], "correct": true}, {"text": "Carlos tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, muito embora o referido bem tenha sido adquirido com o produto de uma doa\u00e7\u00e3o, n\u00e3o se aplica a sub-roga\u00e7\u00e3o de bens na uni\u00e3o est\u00e1vel.", "letter": "D", "pmi": [-0.1841101583595295, 0.0, 0.0, 0.0], "correct": null}], "areas": ["CIVIL"], "valid": true, "enum": "Jane e Carlos constitu\u00edram uma uni\u00e3o est\u00e1vel em julho de 2003 e n\u00e3o celebraram contrato para regular as rela\u00e7\u00f5es patrimoniais decorrentes da aludida entidade familiar. Em mar\u00e7o de 2005, Jane recebeu R$ 100.000,00 (cem mil reais) a t\u00edtulo de doa\u00e7\u00e3o de seu ti o T\u00falio. Com os R$ 100.000,00 (cem mil reais), Jane adquiriu em maio de 2005 um im\u00f3vel na Barra da Tijuca. Em 2010, Jane e Carlos se separaram. Carlos procura um advogado, indagando se tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005.\n\n Assinale a alternativa que indique a orienta\u00e7\u00e3o correta a ser exposta a Carlos.", "filename": "2010-02.txt", "number": "27"}]
+[
+    {
+        "options": [
+            {
+                "text": "Por se tratar de bem adquirido a t\u00edtulo oneroso na vig\u00eancia da uni\u00e3o est\u00e1vel, Carlos tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005.",
+                "letter": "A",
+                "pmi": [
+                    -0.18604403300400546,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Carlos n\u00e3o tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, salvo contrato escrito entre os companheiros, aplica-se \u00e0s rela\u00e7\u00f5es patrimoniais entre os mesmos o regime da separa\u00e7\u00e3o total de bens.",
+                "letter": "B",
+                "pmi": [
+                    -0.18415727248732075,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Carlos n\u00e3o tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, em virtude da aus\u00eancia de contrato escrito entre os companheiros, aplica-se \u00e0s rela\u00e7\u00f5es patrimoniais entre os mesmos o regime da comunh\u00e3o parcial de bens, que exclui dos bens comuns entre os consortes aqueles doados e os sub-rogados em seu lugar.",
+                "letter": "C",
+                "pmi": [
+                    -0.1279268512823594,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "Carlos tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, muito embora o referido bem tenha sido adquirido com o produto de uma doa\u00e7\u00e3o, n\u00e3o se aplica a sub-roga\u00e7\u00e3o de bens na uni\u00e3o est\u00e1vel.",
+                "letter": "D",
+                "pmi": [
+                    -0.1841101583595295,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true,
+        "enum": "Jane e Carlos constitu\u00edram uma uni\u00e3o est\u00e1vel em julho de 2003 e n\u00e3o celebraram contrato para regular as rela\u00e7\u00f5es patrimoniais decorrentes da aludida entidade familiar. Em mar\u00e7o de 2005, Jane recebeu R$ 100.000,00 (cem mil reais) a t\u00edtulo de doa\u00e7\u00e3o de seu ti o T\u00falio. Com os R$ 100.000,00 (cem mil reais), Jane adquiriu em maio de 2005 um im\u00f3vel na Barra da Tijuca. Em 2010, Jane e Carlos se separaram. Carlos procura um advogado, indagando se tem direito a partilhar o im\u00f3vel adquirido por Jane na Barra da Tijuca em maio de 2005.\n\n Assinale a alternativa que indique a orienta\u00e7\u00e3o correta a ser exposta a Carlos.",
+        "filename": "2010-02.txt",
+        "number": "27"
+    }
+]

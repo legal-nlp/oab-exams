@@ -1,1 +1,57 @@
-[{"filename": "2017-23.txt", "valid": true, "areas": [null], "options": [{"correct": null, "pmi": [-0.1032988087788093, 0.0, 0.0, 0.0], "letter": "A", "text": "ao Ju\u00edzo de Direito no qual tramita a demanda por ele ajuizada, requerendo a instaura\u00e7\u00e3o de incidente de assun\u00e7\u00e3o de compet\u00eancia."}, {"correct": true, "pmi": [-0.18059107056826515, 0.0, 0.0, 0.0], "letter": "B", "text": "ao Presidente do Tribunal ao qual est\u00e1 vinculado o Ju\u00edzo de Direito, requerendo a instaura\u00e7\u00e3o de incidente de resolu\u00e7\u00e3o de demandas repetitivas."}, {"correct": null, "pmi": [-0.19865017762509166, 0.0, 0.0, 0.0], "letter": "C", "text": "ao Presidente do Tribunal ao qual est\u00e1 vinculado o Ju\u00edzo de Direito, requerendo a instaura\u00e7\u00e3o de incidente de argui\u00e7\u00e3o de inconstitucionalidade."}, {"correct": null, "pmi": [-0.10718387323534564, 0.0, 0.0, 0.0], "letter": "D", "text": "ao Ju\u00edzo de Direito no qual tramita a demanda por ele ajuizada, requerendo a intima\u00e7\u00e3o do Minist\u00e9rio P\u00fablico para convers\u00e3o da demanda individual em coletiva."}], "number": "52", "enum": "Nos Ju\u00edzos de Direito da capital do Estado X tramitavam centenas de demandas semelhantes, ajuizadas por servidores p\u00fablicos vinculados ao Munic\u00edpio Y discutindo a constitucionalidade de lei ordin\u00e1ria municipal que tratava do plano de cargos e sal\u00e1rios da categoria. Antevendo risco de ofensa \u00e0 isonomia, com a possibilidade de decis\u00f5es contradit\u00f3rias, o advogado de uma das partes resolve adotar medida judicial para uniformizar o entendimento da quest\u00e3o jur\u00eddica.\n\n Nessa hip\u00f3tese, o advogado deve peticionar"}]
+[
+    {
+        "filename": "2017-23.txt",
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.1032988087788093,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "ao Ju\u00edzo de Direito no qual tramita a demanda por ele ajuizada, requerendo a instaura\u00e7\u00e3o de incidente de assun\u00e7\u00e3o de compet\u00eancia."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.18059107056826515,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "ao Presidente do Tribunal ao qual est\u00e1 vinculado o Ju\u00edzo de Direito, requerendo a instaura\u00e7\u00e3o de incidente de resolu\u00e7\u00e3o de demandas repetitivas."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.19865017762509166,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "ao Presidente do Tribunal ao qual est\u00e1 vinculado o Ju\u00edzo de Direito, requerendo a instaura\u00e7\u00e3o de incidente de argui\u00e7\u00e3o de inconstitucionalidade."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.10718387323534564,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "ao Ju\u00edzo de Direito no qual tramita a demanda por ele ajuizada, requerendo a intima\u00e7\u00e3o do Minist\u00e9rio P\u00fablico para convers\u00e3o da demanda individual em coletiva."
+            }
+        ],
+        "number": "52",
+        "enum": "Nos Ju\u00edzos de Direito da capital do Estado X tramitavam centenas de demandas semelhantes, ajuizadas por servidores p\u00fablicos vinculados ao Munic\u00edpio Y discutindo a constitucionalidade de lei ordin\u00e1ria municipal que tratava do plano de cargos e sal\u00e1rios da categoria. Antevendo risco de ofensa \u00e0 isonomia, com a possibilidade de decis\u00f5es contradit\u00f3rias, o advogado de uma das partes resolve adotar medida judicial para uniformizar o entendimento da quest\u00e3o jur\u00eddica.\n\n Nessa hip\u00f3tese, o advogado deve peticionar"
+    }
+]

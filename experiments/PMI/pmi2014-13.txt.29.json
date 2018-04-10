@@ -1,1 +1,57 @@
-[{"enum": "A Uni\u00e3o licitou, mediante concorr\u00eancia, uma obra de engenharia para construir um hospital p\u00fablico. Depois de realizadas todas as etapas previstas na Lei n. 8.666/93, sagrou-se vencedora a Companhia X. No entanto, antes de se outorgar o contrato para a Companhia X, a Administra\u00e7\u00e3o P\u00fablica resolveu revogar a licita\u00e7\u00e3o.\n\n Acerca do tema, assinale a afirmativa correta.", "filename": "2014-13.txt", "areas": ["ADMINISTRATIVE"], "valid": true, "options": [{"text": "A Administra\u00e7\u00e3o P\u00fablica pode revogar a licita\u00e7\u00e3o, por qualquer motivo, principalmente por ilegalidade, n\u00e3o havendo direito subjetivo da Companhia X ao contrato.", "letter": "A", "pmi": [-0.2881553441309525, 0.0, 0.0, 0.0], "correct": null}, {"text": "A revoga\u00e7\u00e3o depende da constata\u00e7\u00e3o de ilegalidade no curso do procedimento e, nesse caso, n\u00e3o pode ser decretada em preju\u00edzo da Companhia X, que j\u00e1 se sagrou vencedora.", "letter": "B", "pmi": [-0.323398614644422, 0.0, 0.0, 0.0], "correct": null}, {"text": "A revoga\u00e7\u00e3o, fundada na conveni\u00eancia e na oportunidade da Administra\u00e7\u00e3o P\u00fablica, dever\u00e1 sempre ser motivada e baseada em fato superveniente ao in\u00edcio da licita\u00e7\u00e3o.", "letter": "C", "pmi": [-0.059744857386202437, 0.0, 0.0, 0.0], "correct": true}, {"text": "Quando a Administra\u00e7\u00e3o lan\u00e7a um edital e a ele se vincula, somente ser\u00e1 poss\u00edvel a anula\u00e7\u00e3o do certame em caso de ilegalidade, sendo-lhe vedado, pois, revogar a licita\u00e7\u00e3o.", "letter": "D", "pmi": [-0.09596276139225725, 0.0, 0.0, 0.0], "correct": null}], "number": "29"}]
+[
+    {
+        "enum": "A Uni\u00e3o licitou, mediante concorr\u00eancia, uma obra de engenharia para construir um hospital p\u00fablico. Depois de realizadas todas as etapas previstas na Lei n. 8.666/93, sagrou-se vencedora a Companhia X. No entanto, antes de se outorgar o contrato para a Companhia X, a Administra\u00e7\u00e3o P\u00fablica resolveu revogar a licita\u00e7\u00e3o.\n\n Acerca do tema, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "text": "A Administra\u00e7\u00e3o P\u00fablica pode revogar a licita\u00e7\u00e3o, por qualquer motivo, principalmente por ilegalidade, n\u00e3o havendo direito subjetivo da Companhia X ao contrato.",
+                "letter": "A",
+                "pmi": [
+                    -0.2881553441309525,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "A revoga\u00e7\u00e3o depende da constata\u00e7\u00e3o de ilegalidade no curso do procedimento e, nesse caso, n\u00e3o pode ser decretada em preju\u00edzo da Companhia X, que j\u00e1 se sagrou vencedora.",
+                "letter": "B",
+                "pmi": [
+                    -0.323398614644422,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "A revoga\u00e7\u00e3o, fundada na conveni\u00eancia e na oportunidade da Administra\u00e7\u00e3o P\u00fablica, dever\u00e1 sempre ser motivada e baseada em fato superveniente ao in\u00edcio da licita\u00e7\u00e3o.",
+                "letter": "C",
+                "pmi": [
+                    -0.059744857386202437,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "Quando a Administra\u00e7\u00e3o lan\u00e7a um edital e a ele se vincula, somente ser\u00e1 poss\u00edvel a anula\u00e7\u00e3o do certame em caso de ilegalidade, sendo-lhe vedado, pois, revogar a licita\u00e7\u00e3o.",
+                "letter": "D",
+                "pmi": [
+                    -0.09596276139225725,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "number": "29"
+    }
+]

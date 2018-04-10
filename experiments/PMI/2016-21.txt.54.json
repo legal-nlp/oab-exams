@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Em execu\u00e7\u00e3o por t\u00edtulo extrajudicial, movida pela distribuidora de bebidas Gelad\u00e3o em face do Supermercado Pre\u00e7o Certo, o executado, citado, n\u00e3o realizou o pagamento da d\u00edvida.\n\n O exequente requereu, ent\u00e3o, a indisponibilidade da quantia em dinheiro existente em aplica\u00e7\u00e3o financeira titularizada pelo executado, o que foi deferido pelo ju\u00edzo sem a oitiva do r\u00e9u. Bloqueado valor superior \u00e0 d\u00edvida, o juiz deu vista do processo ao exequente, que requereu a convers\u00e3o da indisponibilidade em penhora.\n\n Sobre o procedimento adotado, assinale a afirmativa correta.", "filename": "2016-21.txt", "number": "54", "options": [{"correct": null, "letter": "A", "text": "A convers\u00e3o da indisponibilidade em penhora deve ser deferida independentemente de ci\u00eancia pr\u00e9via do ato executado, visto que n\u00e3o houve o pagamento espont\u00e2neo da d\u00edvida."}, {"correct": null, "letter": "B", "text": "A indisponibilidade \u00e9 nula, pois promovida sem a pr\u00e9via oitiva do r\u00e9u, o que viola o contradit\u00f3rio e a ampla defesa."}, {"correct": true, "letter": "C", "text": "O juiz, considerando o excesso do bloqueio, n\u00e3o deveria ter dado vista do processo ao exequente, mas promovido o cancelamento da indisponibilidade excessiva no prazo m\u00e1ximo de vinte e quatro horas."}, {"correct": null, "letter": "D", "text": "O juiz, independentemente do excesso da indisponibilidade, deveria ter dado vista do processo ao executado, a fim de que este comprovasse a impenhorabilidade da quantia bloqueada."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Em execu\u00e7\u00e3o por t\u00edtulo extrajudicial, movida pela distribuidora de bebidas Gelad\u00e3o em face do Supermercado Pre\u00e7o Certo, o executado, citado, n\u00e3o realizou o pagamento da d\u00edvida.\n\n O exequente requereu, ent\u00e3o, a indisponibilidade da quantia em dinheiro existente em aplica\u00e7\u00e3o financeira titularizada pelo executado, o que foi deferido pelo ju\u00edzo sem a oitiva do r\u00e9u. Bloqueado valor superior \u00e0 d\u00edvida, o juiz deu vista do processo ao exequente, que requereu a convers\u00e3o da indisponibilidade em penhora.\n\n Sobre o procedimento adotado, assinale a afirmativa correta.",
+        "filename": "2016-21.txt",
+        "number": "54",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A convers\u00e3o da indisponibilidade em penhora deve ser deferida independentemente de ci\u00eancia pr\u00e9via do ato executado, visto que n\u00e3o houve o pagamento espont\u00e2neo da d\u00edvida."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A indisponibilidade \u00e9 nula, pois promovida sem a pr\u00e9via oitiva do r\u00e9u, o que viola o contradit\u00f3rio e a ampla defesa."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O juiz, considerando o excesso do bloqueio, n\u00e3o deveria ter dado vista do processo ao exequente, mas promovido o cancelamento da indisponibilidade excessiva no prazo m\u00e1ximo de vinte e quatro horas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O juiz, independentemente do excesso da indisponibilidade, deveria ter dado vista do processo ao executado, a fim de que este comprovasse a impenhorabilidade da quantia bloqueada."
+            }
+        ],
+        "valid": true
+    }
+]

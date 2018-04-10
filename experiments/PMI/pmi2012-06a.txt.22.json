@@ -1,1 +1,57 @@
-[{"number": "22", "enum": "Suponha que a Comiss\u00e3o de Assuntos Econ\u00f4micos do Senado tenha convocado o Ministro da Fazenda para prestar pessoalmente informa\u00e7\u00f5es sobre assunto relativo \u00e0 pol\u00edtica econ\u00f4mica adotada pelo governo federal. Nesse caso,", "options": [{"text": "a convoca\u00e7\u00e3o s\u00f3 poderia ser feita pelo Senado, e n\u00e3o por uma de suas comiss\u00f5es.", "correct": null, "letter": "A", "pmi": [-0.06285285192661301, 0.0, 0.0, 0.0]}, {"text": "a convoca\u00e7\u00e3o \u00e9 inconstitucional, pois a Comiss\u00e3o s\u00f3 poderia encaminhar pedido escrito de informa\u00e7\u00f5es ao Ministro, mas n\u00e3o sua presen\u00e7a pessoal.", "correct": null, "letter": "B", "pmi": [-0.15376711383642866, 0.0, 0.0, 0.0]}, {"text": "a convoca\u00e7\u00e3o \u00e9 constitucional, e a aus\u00eancia injustificada do Ministro importaria crime de responsabilidade.", "correct": true, "letter": "C", "pmi": [-0.2907030012811487, 0.0, 0.0, 0.0]}, {"text": "a convoca\u00e7\u00e3o \u00e9 constitucional, mas a aus\u00eancia (mesmo que injustificada) do Ministro n\u00e3o importa crime de responsabilidade.", "correct": null, "letter": "D", "pmi": [-0.32893236778006146, 0.0, 0.0, 0.0]}], "filename": "2012-06a.txt", "areas": ["CONSTITUTIONAL"], "valid": true}]
+[
+    {
+        "number": "22",
+        "enum": "Suponha que a Comiss\u00e3o de Assuntos Econ\u00f4micos do Senado tenha convocado o Ministro da Fazenda para prestar pessoalmente informa\u00e7\u00f5es sobre assunto relativo \u00e0 pol\u00edtica econ\u00f4mica adotada pelo governo federal. Nesse caso,",
+        "options": [
+            {
+                "text": "a convoca\u00e7\u00e3o s\u00f3 poderia ser feita pelo Senado, e n\u00e3o por uma de suas comiss\u00f5es.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.06285285192661301,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "a convoca\u00e7\u00e3o \u00e9 inconstitucional, pois a Comiss\u00e3o s\u00f3 poderia encaminhar pedido escrito de informa\u00e7\u00f5es ao Ministro, mas n\u00e3o sua presen\u00e7a pessoal.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.15376711383642866,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, e a aus\u00eancia injustificada do Ministro importaria crime de responsabilidade.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.2907030012811487,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, mas a aus\u00eancia (mesmo que injustificada) do Ministro n\u00e3o importa crime de responsabilidade.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.32893236778006146,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2012-06a.txt",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "valid": true
+    }
+]

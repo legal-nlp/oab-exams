@@ -1,1 +1,33 @@
-[{"areas": ["INTERNATIONAL"], "enum": "Com rela\u00e7\u00e3o \u00e0 chamada \u201cnorma imperativa de Direito Internacional geral\u201d, ou jus cogens, \u00e9 correto afirmar que \u00e9 a norma", "filename": "2011-04.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "prevista no corpo de um tratado que tenha sido ratificado por todos os signat\u00e1rios, segundo o direito interno de cada um."}, {"correct": true, "letter": "B", "text": "reconhecida pela comunidade internacional como aplic\u00e1vel a todos os Estados, da qual nenhuma derroga\u00e7\u00e3o \u00e9 permitida."}, {"correct": null, "letter": "C", "text": "aprovada pela Assembleia Geral das Na\u00e7\u00f5es Unidas e aplic\u00e1vel a todos os Estados membros, salvo os que apresentarem reserva expressa."}, {"correct": null, "letter": "D", "text": "de direito humanit\u00e1rio, expressamente reconhecida pela Corte Internacional de Justi\u00e7a, aplic\u00e1vel a todo e qualquer Estado em situa\u00e7\u00e3o de conflito."}], "valid": true}]
+[
+    {
+        "areas": [
+            "INTERNATIONAL"
+        ],
+        "enum": "Com rela\u00e7\u00e3o \u00e0 chamada \u201cnorma imperativa de Direito Internacional geral\u201d, ou jus cogens, \u00e9 correto afirmar que \u00e9 a norma",
+        "filename": "2011-04.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "prevista no corpo de um tratado que tenha sido ratificado por todos os signat\u00e1rios, segundo o direito interno de cada um."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "reconhecida pela comunidade internacional como aplic\u00e1vel a todos os Estados, da qual nenhuma derroga\u00e7\u00e3o \u00e9 permitida."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "aprovada pela Assembleia Geral das Na\u00e7\u00f5es Unidas e aplic\u00e1vel a todos os Estados membros, salvo os que apresentarem reserva expressa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "de direito humanit\u00e1rio, expressamente reconhecida pela Corte Internacional de Justi\u00e7a, aplic\u00e1vel a todo e qualquer Estado em situa\u00e7\u00e3o de conflito."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"enum": "A sociedade empres\u00e1ria \u201cV\u201d Ltda., executada em a\u00e7\u00e3o trabalhista, apresentou embargos \u00e0 execu\u00e7\u00e3o arrolando testemunhas, o que foi indeferido pelo juiz, ao argumento de que n\u00e3o se tratava de processo de conhecimento.\n\n Sobre o caso apresentado, assinale a afirmativa correta.", "filename": "2014-15.txt", "options": [{"pmi": [-0.3274116720018214, 0.0, 0.0, 0.0], "text": "Correta a decis\u00e3o do juiz, pois j\u00e1 fora ultrapassada a fase de conhecimento.", "letter": "A", "correct": null}, {"pmi": [-0.24786108803113152, 0.0, 0.0, 0.0], "text": "Errada a decis\u00e3o do juiz, pois era cab\u00edvel a prova testemunhal em sede de embargos \u00e0 execu\u00e7\u00e3o, podendo o juiz indeferir as testemunhas se desnecess\u00e1rios os depoimentos.", "letter": "B", "correct": true}, {"pmi": [-0.28918811140535566, 0.0, 0.0, 0.0], "text": "Errada a decis\u00e3o do juiz, sendo cab\u00edvel a prova testemunhal, n\u00e3o podendo indeferir as testemunhas, cabendo, nesse caso, argui\u00e7\u00e3o de nulidade da decis\u00e3o.", "letter": "C", "correct": null}, {"pmi": [-0.354079716923048, 0.0, 0.0, 0.0], "text": "Correta a decis\u00e3o do juiz, j\u00e1 que a mat\u00e9ria da execu\u00e7\u00e3o est\u00e1 restrita a valores.", "letter": "D", "correct": null}], "valid": true, "areas": [], "number": "77"}]
+[
+    {
+        "enum": "A sociedade empres\u00e1ria \u201cV\u201d Ltda., executada em a\u00e7\u00e3o trabalhista, apresentou embargos \u00e0 execu\u00e7\u00e3o arrolando testemunhas, o que foi indeferido pelo juiz, ao argumento de que n\u00e3o se tratava de processo de conhecimento.\n\n Sobre o caso apresentado, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.3274116720018214,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Correta a decis\u00e3o do juiz, pois j\u00e1 fora ultrapassada a fase de conhecimento.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.24786108803113152,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Errada a decis\u00e3o do juiz, pois era cab\u00edvel a prova testemunhal em sede de embargos \u00e0 execu\u00e7\u00e3o, podendo o juiz indeferir as testemunhas se desnecess\u00e1rios os depoimentos.",
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.28918811140535566,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Errada a decis\u00e3o do juiz, sendo cab\u00edvel a prova testemunhal, n\u00e3o podendo indeferir as testemunhas, cabendo, nesse caso, argui\u00e7\u00e3o de nulidade da decis\u00e3o.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.354079716923048,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Correta a decis\u00e3o do juiz, j\u00e1 que a mat\u00e9ria da execu\u00e7\u00e3o est\u00e1 restrita a valores.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "areas": [],
+        "number": "77"
+    }
+]

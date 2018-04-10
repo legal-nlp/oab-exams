@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Acerca da desapropria\u00e7\u00e3o e dos institutos a ela relacionados, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "51", "options": [{"correct": null, "letter": "A", "text": "Tratando-se de desapropria\u00e7\u00e3o por utilidade p\u00fablica para a realiza\u00e7\u00e3o de obra, as \u00e1reas cont\u00edguas necess\u00e1rias \u00e0 execu\u00e7\u00e3o da obra poder\u00e3o ser abrangidas pela desapropria\u00e7\u00e3o, independentemente da inclus\u00e3o dessas \u00e1reas na declara\u00e7\u00e3o de utilidade p\u00fablica."}, {"correct": null, "letter": "B", "text": "A fase declarat\u00f3ria, durante a qual o poder p\u00fablico manifesta sua vontade na futura desapropria\u00e7\u00e3o, \u00e9 iniciada com a declara\u00e7\u00e3o expropriat\u00f3ria e formalizada por meio de ato exclusivo do chefe do Poder Executivo federal, estadual ou municipal; por isso, n\u00e3o pode o dirigente m\u00e1ximo de autarquia ou de ag\u00eancia reguladora, por exemplo, expedir declara\u00e7\u00e3o expropriat\u00f3ria."}, {"correct": null, "letter": "C", "text": "O decreto expropriat\u00f3rio caduca no prazo de cinco anos caso a desapropria\u00e7\u00e3o por utilidade p\u00fablica n\u00e3o seja efetivada mediante acordo ou judicialmente, sendo o termo final desse prazo, para as desapropria\u00e7\u00f5es que correrem na via judicial, o do tr\u00e2nsito em julgado da a\u00e7\u00e3o de desapropria\u00e7\u00e3o."}, {"correct": true, "letter": "D", "text": "No caso de imiss\u00e3o pr\u00e9via na posse, na desapropria\u00e7\u00e3o por necessidade ou utilidade p\u00fablica e interesse social, havendo diverg\u00eancia entre o pre\u00e7o ofertado em ju\u00edzo e o valor do bem, os juros morat\u00f3rios destinam-se a recompor a perda decorrente do atraso no efetivo pagamento da indeniza\u00e7\u00e3o fixada na senten\u00e7a; desse modo, s\u00f3 ser\u00e3o devidos esses juros se o pagamento n\u00e3o for feito at\u00e9 1.\u00ba de janeiro do exerc\u00edcio seguinte \u00e0quele em que o pagamento deveria ter sido feito."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Acerca da desapropria\u00e7\u00e3o e dos institutos a ela relacionados, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Tratando-se de desapropria\u00e7\u00e3o por utilidade p\u00fablica para a realiza\u00e7\u00e3o de obra, as \u00e1reas cont\u00edguas necess\u00e1rias \u00e0 execu\u00e7\u00e3o da obra poder\u00e3o ser abrangidas pela desapropria\u00e7\u00e3o, independentemente da inclus\u00e3o dessas \u00e1reas na declara\u00e7\u00e3o de utilidade p\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A fase declarat\u00f3ria, durante a qual o poder p\u00fablico manifesta sua vontade na futura desapropria\u00e7\u00e3o, \u00e9 iniciada com a declara\u00e7\u00e3o expropriat\u00f3ria e formalizada por meio de ato exclusivo do chefe do Poder Executivo federal, estadual ou municipal; por isso, n\u00e3o pode o dirigente m\u00e1ximo de autarquia ou de ag\u00eancia reguladora, por exemplo, expedir declara\u00e7\u00e3o expropriat\u00f3ria."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O decreto expropriat\u00f3rio caduca no prazo de cinco anos caso a desapropria\u00e7\u00e3o por utilidade p\u00fablica n\u00e3o seja efetivada mediante acordo ou judicialmente, sendo o termo final desse prazo, para as desapropria\u00e7\u00f5es que correrem na via judicial, o do tr\u00e2nsito em julgado da a\u00e7\u00e3o de desapropria\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "No caso de imiss\u00e3o pr\u00e9via na posse, na desapropria\u00e7\u00e3o por necessidade ou utilidade p\u00fablica e interesse social, havendo diverg\u00eancia entre o pre\u00e7o ofertado em ju\u00edzo e o valor do bem, os juros morat\u00f3rios destinam-se a recompor a perda decorrente do atraso no efetivo pagamento da indeniza\u00e7\u00e3o fixada na senten\u00e7a; desse modo, s\u00f3 ser\u00e3o devidos esses juros se o pagamento n\u00e3o for feito at\u00e9 1.\u00ba de janeiro do exerc\u00edcio seguinte \u00e0quele em que o pagamento deveria ter sido feito."
+            }
+        ],
+        "valid": true
+    }
+]

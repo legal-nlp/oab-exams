@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Marcelo foi denunciado pela pr\u00e1tica de um crime de furto. Entendendo que n\u00e3o haveria justa causa, antes mesmo de citar o acusado, o magistrado n\u00e3o recebeu a den\u00fancia. Diante disso, o Minist\u00e9rio P\u00fablico interp\u00f4s o recurso adequado. Analisando a hip\u00f3tese, \u00e9 correto afirmar que", "filename": "2015-17.txt", "number": "69", "options": [{"correct": null, "letter": "A", "text": "o recurso apresentado pelo Minist\u00e9rio P\u00fablico foi de apela\u00e7\u00e3o."}, {"correct": true, "letter": "B", "text": "apesar de ainda n\u00e3o ter sido citado, Marcelo deve ser intimado para apresentar contrarraz\u00f5es ao recurso, sob pena de nulidade."}, {"correct": null, "letter": "C", "text": "mantida a decis\u00e3o do magistrado pelo Tribunal, n\u00e3o poder\u00e1 o Minist\u00e9rio P\u00fablico oferecer nova den\u00fancia pelo mesmo fato, ainda que surjam provas novas."}, {"correct": null, "letter": "D", "text": "antes da rejei\u00e7\u00e3o da den\u00fancia, deveria o magistrado ter citado o r\u00e9u para apresentar resposta \u00e0 acusa\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Marcelo foi denunciado pela pr\u00e1tica de um crime de furto. Entendendo que n\u00e3o haveria justa causa, antes mesmo de citar o acusado, o magistrado n\u00e3o recebeu a den\u00fancia. Diante disso, o Minist\u00e9rio P\u00fablico interp\u00f4s o recurso adequado. Analisando a hip\u00f3tese, \u00e9 correto afirmar que",
+        "filename": "2015-17.txt",
+        "number": "69",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o recurso apresentado pelo Minist\u00e9rio P\u00fablico foi de apela\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "apesar de ainda n\u00e3o ter sido citado, Marcelo deve ser intimado para apresentar contrarraz\u00f5es ao recurso, sob pena de nulidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "mantida a decis\u00e3o do magistrado pelo Tribunal, n\u00e3o poder\u00e1 o Minist\u00e9rio P\u00fablico oferecer nova den\u00fancia pelo mesmo fato, ainda que surjam provas novas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "antes da rejei\u00e7\u00e3o da den\u00fancia, deveria o magistrado ter citado o r\u00e9u para apresentar resposta \u00e0 acusa\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"filename": "2012-08.txt", "valid": true, "number": "7", "options": [{"letter": "A", "correct": null, "pmi": [-0.7267565878802825, 0.0, 0.0, 0.0], "text": "do tr\u00e2nsito em julgado da decis\u00e3o judicial."}, {"letter": "B", "correct": true, "pmi": [-0.2822568564702836, 0.0, 0.0, 0.0], "text": "da desist\u00eancia judicial formulada."}, {"letter": "C", "correct": null, "pmi": [-0.8808742566032122, 0.0, 0.0, 0.0], "text": "do t\u00e9rmino do mandato judicial."}, {"letter": "D", "correct": null, "pmi": [-0.6596860740550392, 0.0, 0.0, 0.0], "text": "da ultima\u00e7\u00e3o do servi\u00e7o judicial."}], "enum": "Jo\u00e3o \u00e9 contratado para propor a\u00e7\u00e3o de cobran\u00e7a pela sociedade M e P Ltda., em face da sociedade C e L Ltda., sendo o valor da causa, correspondente ao d\u00e9bito, de R$ 200.000,00 (duzentos mil reais). Ap\u00f3s iniciada a a\u00e7\u00e3o, mas antes do ato citat\u00f3rio, a sociedade autora vem a desistir da mesma. Houve contrato de honor\u00e1rios subscrito pelas partes aventando que, nesse caso, seriam devidos honor\u00e1rios fixos de R$ 10.000,00 (dez mil reais). A sociedade notificada regularmente n\u00e3o pagou os honor\u00e1rios contratuais.\n\n Nesse caso, o prazo para a prescri\u00e7\u00e3o da a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios passa a contar da data", "areas": ["ETHICS"]}]
+[
+    {
+        "filename": "2012-08.txt",
+        "valid": true,
+        "number": "7",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.7267565878802825,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "do tr\u00e2nsito em julgado da decis\u00e3o judicial."
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    -0.2822568564702836,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "da desist\u00eancia judicial formulada."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.8808742566032122,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "do t\u00e9rmino do mandato judicial."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.6596860740550392,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "da ultima\u00e7\u00e3o do servi\u00e7o judicial."
+            }
+        ],
+        "enum": "Jo\u00e3o \u00e9 contratado para propor a\u00e7\u00e3o de cobran\u00e7a pela sociedade M e P Ltda., em face da sociedade C e L Ltda., sendo o valor da causa, correspondente ao d\u00e9bito, de R$ 200.000,00 (duzentos mil reais). Ap\u00f3s iniciada a a\u00e7\u00e3o, mas antes do ato citat\u00f3rio, a sociedade autora vem a desistir da mesma. Houve contrato de honor\u00e1rios subscrito pelas partes aventando que, nesse caso, seriam devidos honor\u00e1rios fixos de R$ 10.000,00 (dez mil reais). A sociedade notificada regularmente n\u00e3o pagou os honor\u00e1rios contratuais.\n\n Nesse caso, o prazo para a prescri\u00e7\u00e3o da a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios passa a contar da data",
+        "areas": [
+            "ETHICS"
+        ]
+    }
+]

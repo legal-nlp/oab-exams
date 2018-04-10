@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Walter \u00e9 advogado com atua\u00e7\u00e3o no Estado W e foi surpreendido pela acusa\u00e7\u00e3o de participar de evento criminoso, tendo sido decretada sua pris\u00e3o cautelar, por ordem judicial.\n\n Com rela\u00e7\u00e3o ao caso relatado, nos termos do Estatuto da Advocacia, assinale a afirmativa correta.", "filename": "2013-11.txt", "number": "8", "options": [{"correct": null, "letter": "A", "text": "O advogado deve ser apresentado ao Presidente da Seccional da OAB ou ao seu representante."}, {"correct": true, "letter": "B", "text": "O advogado ficar\u00e1 preso em sala de Estado-Maior ou equivalente at\u00e9 o final do processo."}, {"correct": null, "letter": "C", "text": "O advogado ficar\u00e1 restrito \u00e0 sua resid\u00eancia, em pris\u00e3o domiciliar, at\u00e9 reuni\u00e3o da seccional da OAB."}, {"correct": null, "letter": "D", "text": "O advogado sofrer\u00e1 puni\u00e7\u00e3o disciplinar pelo fato de estar respondendo a processo criminal."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Walter \u00e9 advogado com atua\u00e7\u00e3o no Estado W e foi surpreendido pela acusa\u00e7\u00e3o de participar de evento criminoso, tendo sido decretada sua pris\u00e3o cautelar, por ordem judicial.\n\n Com rela\u00e7\u00e3o ao caso relatado, nos termos do Estatuto da Advocacia, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "8",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O advogado deve ser apresentado ao Presidente da Seccional da OAB ou ao seu representante."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O advogado ficar\u00e1 preso em sala de Estado-Maior ou equivalente at\u00e9 o final do processo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O advogado ficar\u00e1 restrito \u00e0 sua resid\u00eancia, em pris\u00e3o domiciliar, at\u00e9 reuni\u00e3o da seccional da OAB."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O advogado sofrer\u00e1 puni\u00e7\u00e3o disciplinar pelo fato de estar respondendo a processo criminal."
+            }
+        ],
+        "valid": true
+    }
+]

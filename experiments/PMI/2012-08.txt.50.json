@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A Assembleia Geral de S.A. Empreendimentos Tur\u00edsticos, companhia aberta sediada em \u201cX\u201d, delegou ao Conselho de Administra\u00e7\u00e3o a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, \u00e9poca e condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es. Petrossian Participa\u00e7\u00f5es Ltda., acionista minorit\u00e1rio, consultou seu advogado sobre a legalidade da delibera\u00e7\u00e3o.\n\n Com rela\u00e7\u00e3o ao fato acima, assinale a alternativa que apresenta a resposta correta \u00e0 consulta.", "filename": "2012-08.txt", "number": "50", "options": [{"correct": true, "letter": "A", "text": "A delibera\u00e7\u00e3o \u00e9 v\u00e1lida, porque a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, a \u00e9poca e as condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es pode ser delegada ao Conselho de Administra\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "A delibera\u00e7\u00e3o \u00e9 anul\u00e1vel, porque a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, a \u00e9poca e as condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es \u00e9 privativa da assembleia geral nas companhias abertas."}, {"correct": null, "letter": "C", "text": "A delibera\u00e7\u00e3o \u00e9 nula, porque a emiss\u00e3o de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es depende da autoriza\u00e7\u00e3o pr\u00e9via dos titulares de a\u00e7\u00f5es preferenciais reunidos em assembleia especial convocada para esse fim."}, {"correct": null, "letter": "D", "text": "A delibera\u00e7\u00e3o \u00e9 ineficaz em rela\u00e7\u00e3o aos acionistas minorit\u00e1rios, pois a emiss\u00e3o de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es acarretar\u00e1 aumento de capital com dilui\u00e7\u00e3o injustificada de participa\u00e7\u00e3o desses acionistas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A Assembleia Geral de S.A. Empreendimentos Tur\u00edsticos, companhia aberta sediada em \u201cX\u201d, delegou ao Conselho de Administra\u00e7\u00e3o a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, \u00e9poca e condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es. Petrossian Participa\u00e7\u00f5es Ltda., acionista minorit\u00e1rio, consultou seu advogado sobre a legalidade da delibera\u00e7\u00e3o.\n\n Com rela\u00e7\u00e3o ao fato acima, assinale a alternativa que apresenta a resposta correta \u00e0 consulta.",
+        "filename": "2012-08.txt",
+        "number": "50",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "A delibera\u00e7\u00e3o \u00e9 v\u00e1lida, porque a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, a \u00e9poca e as condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es pode ser delegada ao Conselho de Administra\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A delibera\u00e7\u00e3o \u00e9 anul\u00e1vel, porque a delibera\u00e7\u00e3o sobre a oportunidade de emiss\u00e3o, a \u00e9poca e as condi\u00e7\u00f5es de vencimento de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es \u00e9 privativa da assembleia geral nas companhias abertas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A delibera\u00e7\u00e3o \u00e9 nula, porque a emiss\u00e3o de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es depende da autoriza\u00e7\u00e3o pr\u00e9via dos titulares de a\u00e7\u00f5es preferenciais reunidos em assembleia especial convocada para esse fim."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A delibera\u00e7\u00e3o \u00e9 ineficaz em rela\u00e7\u00e3o aos acionistas minorit\u00e1rios, pois a emiss\u00e3o de deb\u00eantures convers\u00edveis em a\u00e7\u00f5es acarretar\u00e1 aumento de capital com dilui\u00e7\u00e3o injustificada de participa\u00e7\u00e3o desses acionistas."
+            }
+        ],
+        "valid": true
+    }
+]

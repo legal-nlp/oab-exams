@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Marcus, visando roubar Maria, a agride, causando-lhe les\u00f5es corporais de natureza leve. Antes, contudo, de subtrair qualquer pertence, Marcus decide abandonar a empreitada criminosa, pedindo desculpas \u00e0 v\u00edtima e se evadindo do local. Maria, ent\u00e3o, comparece \u00e0 delegacia mais pr\u00f3xima e narra os fatos \u00e0 autoridade policial.\n\n No caso acima, o delegado de pol\u00edcia", "filename": "2011-03.txt", "number": "57", "options": [{"correct": null, "letter": "A", "text": "dever\u00e1 instaurar inqu\u00e9rito policial para apurar o crime de roubo tentado, uma vez que o resultado pretendido por Marcus n\u00e3o se concretizou."}, {"correct": null, "letter": "B", "text": "nada poder\u00e1 fazer, uma vez que houve a desist\u00eancia volunt\u00e1ria por parte de Marcus."}, {"correct": true, "letter": "C", "text": "dever\u00e1 lavrar termo circunstanciado pelo crime de les\u00f5es corporais de natureza leve."}, {"correct": null, "letter": "D", "text": "nada poder\u00e1 fazer, uma vez que houve arrependimento posterior por parte de Marcus."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Marcus, visando roubar Maria, a agride, causando-lhe les\u00f5es corporais de natureza leve. Antes, contudo, de subtrair qualquer pertence, Marcus decide abandonar a empreitada criminosa, pedindo desculpas \u00e0 v\u00edtima e se evadindo do local. Maria, ent\u00e3o, comparece \u00e0 delegacia mais pr\u00f3xima e narra os fatos \u00e0 autoridade policial.\n\n No caso acima, o delegado de pol\u00edcia",
+        "filename": "2011-03.txt",
+        "number": "57",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "dever\u00e1 instaurar inqu\u00e9rito policial para apurar o crime de roubo tentado, uma vez que o resultado pretendido por Marcus n\u00e3o se concretizou."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "nada poder\u00e1 fazer, uma vez que houve a desist\u00eancia volunt\u00e1ria por parte de Marcus."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "dever\u00e1 lavrar termo circunstanciado pelo crime de les\u00f5es corporais de natureza leve."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "nada poder\u00e1 fazer, uma vez que houve arrependimento posterior por parte de Marcus."
+            }
+        ],
+        "valid": true
+    }
+]

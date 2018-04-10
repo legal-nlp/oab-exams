@@ -1,1 +1,55 @@
-[{"areas": [], "options": [{"letter": "A", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Fabiana, em raz\u00e3o do regime de bens que rege o casamento, n\u00e3o poder\u00e1 ser nomeada curadora de Mauro."}, {"letter": "B", "correct": null, "pmi": [-0.07793845598362192, 0.0, 0.0, 0.0], "text": "Como Mauro possui ascendente vivo e capaz, este ser\u00e1 nomeado seu curador, na forma da lei."}, {"letter": "C", "correct": null, "pmi": [-0.1039179413114959, 0.0, 0.0, 0.0], "text": "A filha de Mauro, por ser maior e capaz, ser\u00e1 nomeada sua curadora, na forma da lei."}, {"letter": "D", "correct": true, "pmi": [-0.12470152957379509, 0.0, 0.0, 0.0], "text": "Fabiana ser\u00e1 nomeada curadora de Mauro, na forma da lei."}], "number": "43", "enum": "Fabiana e Mauro s\u00e3o casados pelo regime da separa\u00e7\u00e3o convencional de bens e possuem dois filhos: Amanda e Pedro, de 19 e 16 anos, respectivamente. Mauro \u00e9 filho de Jos\u00e9, que se encontra com 65 anos. Mauro sofreu um acidente automobil\u00edstico e, em raz\u00e3o da viol\u00eancia do acidente, est\u00e1 em estado de coma, impossibilitado de exercer os atos da vida civil, raz\u00e3o pela qual sua interdi\u00e7\u00e3o tornou-se necess\u00e1ria.\n\n Diante dos fatos narrados, assinale a afirmativa correta.", "filename": "2015-18.txt", "valid": true}]
+[
+    {
+        "areas": [],
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Fabiana, em raz\u00e3o do regime de bens que rege o casamento, n\u00e3o poder\u00e1 ser nomeada curadora de Mauro."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.07793845598362192,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Como Mauro possui ascendente vivo e capaz, este ser\u00e1 nomeado seu curador, na forma da lei."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.1039179413114959,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A filha de Mauro, por ser maior e capaz, ser\u00e1 nomeada sua curadora, na forma da lei."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.12470152957379509,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Fabiana ser\u00e1 nomeada curadora de Mauro, na forma da lei."
+            }
+        ],
+        "number": "43",
+        "enum": "Fabiana e Mauro s\u00e3o casados pelo regime da separa\u00e7\u00e3o convencional de bens e possuem dois filhos: Amanda e Pedro, de 19 e 16 anos, respectivamente. Mauro \u00e9 filho de Jos\u00e9, que se encontra com 65 anos. Mauro sofreu um acidente automobil\u00edstico e, em raz\u00e3o da viol\u00eancia do acidente, est\u00e1 em estado de coma, impossibilitado de exercer os atos da vida civil, raz\u00e3o pela qual sua interdi\u00e7\u00e3o tornou-se necess\u00e1ria.\n\n Diante dos fatos narrados, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "valid": true
+    }
+]

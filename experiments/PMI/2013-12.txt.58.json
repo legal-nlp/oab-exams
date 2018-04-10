@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "A cita\u00e7\u00e3o \u00e9 capaz de gerar efeitos processuais e materiais, consoante o que preceitua o Art. 219 do C\u00f3digo de Processo Civil.\n\n Sobre os efeitos da cita\u00e7\u00e3o, assinale afirmativa correta.", "filename": "2013-12.txt", "number": "58", "options": [{"correct": null, "letter": "A", "text": "Realizada a cita\u00e7\u00e3o, induz-se a litispend\u00eancia. Todavia, continua sendo poss\u00edvel a propositura de nova a\u00e7\u00e3o id\u00eantica, pois a inafastabilidade da tutela jurisdicional \u00e9 corol\u00e1rio do Estado Democr\u00e1tico de Direito, devendo-se viabilizar o acesso \u00e0 justi\u00e7a."}, {"correct": null, "letter": "B", "text": "A cita\u00e7\u00e3o v\u00e1lida, por si s\u00f3, n\u00e3o \u00e9 capaz de tornar a coisa ou o direito litigioso, ou seja, estes n\u00e3o passam a estar vinculados ao resultado do processo. Sendo assim, em caso de aliena\u00e7\u00e3o do bem, ser\u00e1 poss\u00edvel, a qualquer tempo, a altera\u00e7\u00e3o da legitimidade das partes."}, {"correct": null, "letter": "C", "text": "A cita\u00e7\u00e3o v\u00e1lida n\u00e3o \u00e9 capaz de interromper a prescri\u00e7\u00e3o. Sendo assim, somente poder\u00e1  falar-se em interrup\u00e7\u00e3o se a parte assim o requerer ao juiz, devendo este, antes de decidir, possibilitar o contradit\u00f3rio por parte do r\u00e9u."}, {"correct": true, "letter": "D", "text": "Em regra, a cita\u00e7\u00e3o constitui o devedor em mora. Nada obstante, nos casos em que as obriga\u00e7\u00f5es n\u00e3o possuam termo certo, \u00e9 poss\u00edvel constituir o devedor em mora por interm\u00e9dio do envio de notifica\u00e7\u00e3o judicial ou extrajudicial."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "A cita\u00e7\u00e3o \u00e9 capaz de gerar efeitos processuais e materiais, consoante o que preceitua o Art. 219 do C\u00f3digo de Processo Civil.\n\n Sobre os efeitos da cita\u00e7\u00e3o, assinale afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "58",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Realizada a cita\u00e7\u00e3o, induz-se a litispend\u00eancia. Todavia, continua sendo poss\u00edvel a propositura de nova a\u00e7\u00e3o id\u00eantica, pois a inafastabilidade da tutela jurisdicional \u00e9 corol\u00e1rio do Estado Democr\u00e1tico de Direito, devendo-se viabilizar o acesso \u00e0 justi\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A cita\u00e7\u00e3o v\u00e1lida, por si s\u00f3, n\u00e3o \u00e9 capaz de tornar a coisa ou o direito litigioso, ou seja, estes n\u00e3o passam a estar vinculados ao resultado do processo. Sendo assim, em caso de aliena\u00e7\u00e3o do bem, ser\u00e1 poss\u00edvel, a qualquer tempo, a altera\u00e7\u00e3o da legitimidade das partes."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A cita\u00e7\u00e3o v\u00e1lida n\u00e3o \u00e9 capaz de interromper a prescri\u00e7\u00e3o. Sendo assim, somente poder\u00e1  falar-se em interrup\u00e7\u00e3o se a parte assim o requerer ao juiz, devendo este, antes de decidir, possibilitar o contradit\u00f3rio por parte do r\u00e9u."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Em regra, a cita\u00e7\u00e3o constitui o devedor em mora. Nada obstante, nos casos em que as obriga\u00e7\u00f5es n\u00e3o possuam termo certo, \u00e9 poss\u00edvel constituir o devedor em mora por interm\u00e9dio do envio de notifica\u00e7\u00e3o judicial ou extrajudicial."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "38", "options": [{"letter": "A", "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa subsiste em rela\u00e7\u00e3o a Jo\u00e3o ainda que Mauro tenha feito a reserva mental de n\u00e3o querer o que manifestou originariamente.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa n\u00e3o subsiste em rela\u00e7\u00e3o a Jo\u00e3o, pois este tomou conhecimento da altera\u00e7\u00e3o da vontade original de Mauro.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}, {"letter": "C", "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa n\u00e3o mais ter\u00e1 validade em rela\u00e7\u00e3o a qualquer pessoa, pois ela foi alterada a partir do momento em que foi feita a reserva mental por parte de Mauro.", "pmi": [-0.014415809823862097, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa subsiste em rela\u00e7\u00e3o a toda e qualquer pessoa, pois a reserva mental n\u00e3o tem o cond\u00e3o de modificar a vontade originalmente tornada p\u00fablica.", "pmi": [-0.02286770171401459, 0.0, 0.0, 0.0], "correct": null}], "enum": "Mauro, entristecido com a fuga das cadelinhas Lila e Gopi de sua resid\u00eancia, \u00e0s quais dedicava grande carinho e afei\u00e7\u00e3o, promete uma vultosa recompensa para quem eventualmente viesse a encontr\u00e1-las. Ocorre que, no mesmo dia em que coloca os avisos p\u00fablicos da recompensa, ao conversar privadamente com seu vizinho Jo\u00e3o, afirma que n\u00e3o ir\u00e1, na realidade, dar a recompensa anunciada, embora assim o tenha prometido. Por coincid\u00eancia, no dia seguinte, Jo\u00e3o encontra as cadelinhas passeando tranquilamente em seu quintal e as devolve imediatamente a Mauro. Neste caso, \u00e9 correto afirmar que", "filename": "2012-07.txt", "areas": ["CIVIL"], "valid": true}]
+[
+    {
+        "number": "38",
+        "options": [
+            {
+                "letter": "A",
+                "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa subsiste em rela\u00e7\u00e3o a Jo\u00e3o ainda que Mauro tenha feito a reserva mental de n\u00e3o querer o que manifestou originariamente.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa n\u00e3o subsiste em rela\u00e7\u00e3o a Jo\u00e3o, pois este tomou conhecimento da altera\u00e7\u00e3o da vontade original de Mauro.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "C",
+                "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa n\u00e3o mais ter\u00e1 validade em rela\u00e7\u00e3o a qualquer pessoa, pois ela foi alterada a partir do momento em que foi feita a reserva mental por parte de Mauro.",
+                "pmi": [
+                    -0.014415809823862097,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "a manifesta\u00e7\u00e3o de vontade no sentido da recompensa subsiste em rela\u00e7\u00e3o a toda e qualquer pessoa, pois a reserva mental n\u00e3o tem o cond\u00e3o de modificar a vontade originalmente tornada p\u00fablica.",
+                "pmi": [
+                    -0.02286770171401459,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "enum": "Mauro, entristecido com a fuga das cadelinhas Lila e Gopi de sua resid\u00eancia, \u00e0s quais dedicava grande carinho e afei\u00e7\u00e3o, promete uma vultosa recompensa para quem eventualmente viesse a encontr\u00e1-las. Ocorre que, no mesmo dia em que coloca os avisos p\u00fablicos da recompensa, ao conversar privadamente com seu vizinho Jo\u00e3o, afirma que n\u00e3o ir\u00e1, na realidade, dar a recompensa anunciada, embora assim o tenha prometido. Por coincid\u00eancia, no dia seguinte, Jo\u00e3o encontra as cadelinhas passeando tranquilamente em seu quintal e as devolve imediatamente a Mauro. Neste caso, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true
+    }
+]

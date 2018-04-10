@@ -1,1 +1,55 @@
-[{"areas": [], "options": [{"correct": null, "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica.", "letter": "A", "pmi": [-0.07311775217236816, 0.0, 0.0, 0.0]}, {"correct": null, "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica e a contribuinte.", "letter": "B", "pmi": [-0.07554607247434207, 0.0, 0.0, 0.0]}, {"correct": true, "text": "poder\u00e1 decretar a prescri\u00e7\u00e3o de of\u00edcio, independentemente da pr\u00e9via oitiva da Fazenda P\u00fablica.", "letter": "C", "pmi": [-0.10268374691590026, 0.0, 0.0, 0.0]}, {"correct": null, "text": "s\u00f3 poder\u00e1 decretar a prescri\u00e7\u00e3o se esta vier a ser suscitada pela contribuinte.", "letter": "D", "pmi": [-0.05029553127697504, 0.0, 0.0, 0.0]}], "enum": "Em 2007, a pessoa jur\u00eddica Y recebeu notifica\u00e7\u00e3o para pagamento de d\u00e9bitos de Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU). Em 2014, diante da constata\u00e7\u00e3o de que a contribuinte n\u00e3o havia apresentado qualquer impugna\u00e7\u00e3o e nem realizado o pagamento, o Munic\u00edpio X ajuizou execu\u00e7\u00e3o fiscal para a cobran\u00e7a destes cr\u00e9ditos.\n\n Considerando os fatos narrados e as disposi\u00e7\u00f5es da Lei n\u00ba 6.830/80, o juiz, ao analisar a inicial da execu\u00e7\u00e3o fiscal proposta pelo Fisco,", "valid": true, "number": "28", "filename": "2015-16.txt"}]
+[
+    {
+        "areas": [],
+        "options": [
+            {
+                "correct": null,
+                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica.",
+                "letter": "A",
+                "pmi": [
+                    -0.07311775217236816,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica e a contribuinte.",
+                "letter": "B",
+                "pmi": [
+                    -0.07554607247434207,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "poder\u00e1 decretar a prescri\u00e7\u00e3o de of\u00edcio, independentemente da pr\u00e9via oitiva da Fazenda P\u00fablica.",
+                "letter": "C",
+                "pmi": [
+                    -0.10268374691590026,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "s\u00f3 poder\u00e1 decretar a prescri\u00e7\u00e3o se esta vier a ser suscitada pela contribuinte.",
+                "letter": "D",
+                "pmi": [
+                    -0.05029553127697504,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Em 2007, a pessoa jur\u00eddica Y recebeu notifica\u00e7\u00e3o para pagamento de d\u00e9bitos de Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU). Em 2014, diante da constata\u00e7\u00e3o de que a contribuinte n\u00e3o havia apresentado qualquer impugna\u00e7\u00e3o e nem realizado o pagamento, o Munic\u00edpio X ajuizou execu\u00e7\u00e3o fiscal para a cobran\u00e7a destes cr\u00e9ditos.\n\n Considerando os fatos narrados e as disposi\u00e7\u00f5es da Lei n\u00ba 6.830/80, o juiz, ao analisar a inicial da execu\u00e7\u00e3o fiscal proposta pelo Fisco,",
+        "valid": true,
+        "number": "28",
+        "filename": "2015-16.txt"
+    }
+]

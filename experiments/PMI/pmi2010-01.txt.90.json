@@ -1,1 +1,57 @@
-[{"enum": "Assinale a op\u00e7\u00e3o correta acerca da pena cumprida no estrangeiro e da efic\u00e1cia da senten\u00e7a estrangeira.", "filename": "2010-01.txt", "areas": ["CRIMINAL"], "options": [{"letter": "A", "pmi": [-0.06094233792611203, 0.0, 0.0, 0.0], "correct": true, "text": "\u00c9 poss\u00edvel a homologa\u00e7\u00e3o, pelo STJ, de senten\u00e7a penal condenat\u00f3ria proferida pela justi\u00e7a de outro pa\u00eds, para obrigar o condenado residente no Brasil \u00e0 repara\u00e7\u00e3o do dano causado pelo crime que cometeu."}, {"letter": "B", "pmi": [-0.08627272900405587, 0.0, 0.0, 0.0], "correct": null, "text": "A compet\u00eancia para a homologa\u00e7\u00e3o de senten\u00e7a estrangeira \u00e9 do STF, restringindo-se a referida homologa\u00e7\u00e3o a casos que envolvam cumprimento de pena privativa de liberdade no Brasil."}, {"letter": "C", "pmi": [-0.07976784226586482, 0.0, 0.0, 0.0], "correct": null, "text": "Apenas nas hip\u00f3teses de infra\u00e7\u00e3o penal de menor potencial ofensivo, admite-se que a pena cumprida no estrangeiro atenue a pena imposta, no Brasil, pelo mesmo crime."}, {"letter": "D", "pmi": [-0.09776775422675023, 0.0, 0.0, 0.0], "correct": null, "text": "A pena cumprida no estrangeiro n\u00e3o atenua nem compensa a pena imposta, no Brasil, pelo mesmo crime, dado o car\u00e1ter independente das justi\u00e7as nacional e estrangeira."}], "number": "90", "valid": true}]
+[
+    {
+        "enum": "Assinale a op\u00e7\u00e3o correta acerca da pena cumprida no estrangeiro e da efic\u00e1cia da senten\u00e7a estrangeira.",
+        "filename": "2010-01.txt",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.06094233792611203,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "\u00c9 poss\u00edvel a homologa\u00e7\u00e3o, pelo STJ, de senten\u00e7a penal condenat\u00f3ria proferida pela justi\u00e7a de outro pa\u00eds, para obrigar o condenado residente no Brasil \u00e0 repara\u00e7\u00e3o do dano causado pelo crime que cometeu."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.08627272900405587,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A compet\u00eancia para a homologa\u00e7\u00e3o de senten\u00e7a estrangeira \u00e9 do STF, restringindo-se a referida homologa\u00e7\u00e3o a casos que envolvam cumprimento de pena privativa de liberdade no Brasil."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.07976784226586482,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Apenas nas hip\u00f3teses de infra\u00e7\u00e3o penal de menor potencial ofensivo, admite-se que a pena cumprida no estrangeiro atenue a pena imposta, no Brasil, pelo mesmo crime."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.09776775422675023,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A pena cumprida no estrangeiro n\u00e3o atenua nem compensa a pena imposta, no Brasil, pelo mesmo crime, dado o car\u00e1ter independente das justi\u00e7as nacional e estrangeira."
+            }
+        ],
+        "number": "90",
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"options": [{"correct": null, "text": "N\u00e3o \u00e9 poss\u00edvel a cria\u00e7\u00e3o de autarquia para a gest\u00e3o da previd\u00eancia dos servidores, uma vez que se trata de atividade t\u00edpica da Administra\u00e7\u00e3o P\u00fablica.", "pmi": [-0.3549581337692622, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": null, "text": "N\u00e3o cabe recurso hier\u00e1rquico impr\u00f3prio em face das decis\u00f5es da autarquia, uma vez que ela goza de autonomia t\u00e9cnica, administrativa e financeira.", "pmi": [-0.21351924426337443, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "A previs\u00e3o de recurso dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada) configura exemplo de recurso hier\u00e1rquico pr\u00f3prio.", "pmi": [-0.2542024505735838, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": true, "text": "S\u00e3o v\u00e1lidas tanto a constitui\u00e7\u00e3o da autarquia para a gest\u00e3o do regime previdenci\u00e1rio quanto a previs\u00e3o de cabimento do recurso ao \u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada.", "pmi": [-0.26886097365448836, 0.0, 0.0, 0.0], "letter": "D"}], "areas": [], "number": "32", "enum": "No Estado X, foi constitu\u00edda autarquia para a gest\u00e3o do regime pr\u00f3prio de previd\u00eancia dos servidores estaduais. A lei de constitui\u00e7\u00e3o da entidade prev\u00ea a possibilidade de apresenta\u00e7\u00e3o de recurso em face das decis\u00f5es da autarquia, a ser dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada).\n\n Sobre a situa\u00e7\u00e3o descrita, assinale a op\u00e7\u00e3o correta.", "filename": "2014-15.txt", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "text": "N\u00e3o \u00e9 poss\u00edvel a cria\u00e7\u00e3o de autarquia para a gest\u00e3o da previd\u00eancia dos servidores, uma vez que se trata de atividade t\u00edpica da Administra\u00e7\u00e3o P\u00fablica.",
+                "pmi": [
+                    -0.3549581337692622,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "N\u00e3o cabe recurso hier\u00e1rquico impr\u00f3prio em face das decis\u00f5es da autarquia, uma vez que ela goza de autonomia t\u00e9cnica, administrativa e financeira.",
+                "pmi": [
+                    -0.21351924426337443,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "A previs\u00e3o de recurso dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada) configura exemplo de recurso hier\u00e1rquico pr\u00f3prio.",
+                "pmi": [
+                    -0.2542024505735838,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "text": "S\u00e3o v\u00e1lidas tanto a constitui\u00e7\u00e3o da autarquia para a gest\u00e3o do regime previdenci\u00e1rio quanto a previs\u00e3o de cabimento do recurso ao \u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada.",
+                "pmi": [
+                    -0.26886097365448836,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "areas": [],
+        "number": "32",
+        "enum": "No Estado X, foi constitu\u00edda autarquia para a gest\u00e3o do regime pr\u00f3prio de previd\u00eancia dos servidores estaduais. A lei de constitui\u00e7\u00e3o da entidade prev\u00ea a possibilidade de apresenta\u00e7\u00e3o de recurso em face das decis\u00f5es da autarquia, a ser dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada).\n\n Sobre a situa\u00e7\u00e3o descrita, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-15.txt",
+        "valid": true
+    }
+]

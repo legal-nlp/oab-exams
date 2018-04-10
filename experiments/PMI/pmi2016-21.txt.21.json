@@ -1,1 +1,55 @@
-[{"filename": "2016-21.txt", "enum": "Maria deu entrada em uma maternidade p\u00fablica j\u00e1 em trabalho de parto. Contudo, a falta de pronto atendimento levou a \u00f3bito tanto Maria quanto o beb\u00ea. Voc\u00ea foi contratado(a) pela fam\u00edlia de Maria para advogar neste caso de grave viola\u00e7\u00e3o de Direitos Humanos. Ap\u00f3s algumas r\u00e1pidas pesquisas na Internet, o pai e a m\u00e3e de Maria pedem que o caso seja imediatamente encaminhado para julgamento na Corte Interamericana de Direitos Humanos.\n\n Voc\u00ea, como advogado(a) da fam\u00edlia, deve esclarecer que", "areas": [], "valid": true, "options": [{"pmi": [-0.05353523890172823, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "\u00e9 uma \u00f3tima ideia e vai peticionar para que o caso seja submetido \u00e0 decis\u00e3o da Corte, bem como tomar todas as provid\u00eancias para que o caso seja julgado o mais cedo poss\u00edvel."}, {"pmi": [-0.026487420192326045, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "apesar de ser uma boa ideia, \u00e9 necess\u00e1rio aguardar que hajam sido interpostos e esgotados os recursos de jurisdi\u00e7\u00e3o interna para que a fam\u00edlia possa submeter o caso \u00e0 decis\u00e3o da Corte."}, {"pmi": [-0.13972066500834412, 0.010115297130518414, 0.0, 0.0], "letter": "C", "correct": true, "text": "n\u00e3o \u00e9 poss\u00edvel a fam\u00edlia encaminhar o caso \u00e0 Corte, pois somente os Estados Partes da Conven\u00e7\u00e3o Americana de Direitos Humanos e a Comiss\u00e3o Interamericana de Direitos Humanos t\u00eam direito de submeter um caso \u00e0 decis\u00e3o da Corte."}, {"pmi": [-0.07478698722029811, 0.007002898013435826, 0.0, 0.0], "letter": "D", "correct": null, "text": "n\u00e3o \u00e9 poss\u00edvel que o caso seja encaminhado para decis\u00e3o da Corte porque, embora o Brasil seja signat\u00e1rio da Conven\u00e7\u00e3o Americana dos Direitos Humanos, o pa\u00eds n\u00e3o reconheceu a jurisdi\u00e7\u00e3o da Corte."}], "number": "21"}]
+[
+    {
+        "filename": "2016-21.txt",
+        "enum": "Maria deu entrada em uma maternidade p\u00fablica j\u00e1 em trabalho de parto. Contudo, a falta de pronto atendimento levou a \u00f3bito tanto Maria quanto o beb\u00ea. Voc\u00ea foi contratado(a) pela fam\u00edlia de Maria para advogar neste caso de grave viola\u00e7\u00e3o de Direitos Humanos. Ap\u00f3s algumas r\u00e1pidas pesquisas na Internet, o pai e a m\u00e3e de Maria pedem que o caso seja imediatamente encaminhado para julgamento na Corte Interamericana de Direitos Humanos.\n\n Voc\u00ea, como advogado(a) da fam\u00edlia, deve esclarecer que",
+        "areas": [],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.05353523890172823,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "\u00e9 uma \u00f3tima ideia e vai peticionar para que o caso seja submetido \u00e0 decis\u00e3o da Corte, bem como tomar todas as provid\u00eancias para que o caso seja julgado o mais cedo poss\u00edvel."
+            },
+            {
+                "pmi": [
+                    -0.026487420192326045,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "apesar de ser uma boa ideia, \u00e9 necess\u00e1rio aguardar que hajam sido interpostos e esgotados os recursos de jurisdi\u00e7\u00e3o interna para que a fam\u00edlia possa submeter o caso \u00e0 decis\u00e3o da Corte."
+            },
+            {
+                "pmi": [
+                    -0.13972066500834412,
+                    0.010115297130518414,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "n\u00e3o \u00e9 poss\u00edvel a fam\u00edlia encaminhar o caso \u00e0 Corte, pois somente os Estados Partes da Conven\u00e7\u00e3o Americana de Direitos Humanos e a Comiss\u00e3o Interamericana de Direitos Humanos t\u00eam direito de submeter um caso \u00e0 decis\u00e3o da Corte."
+            },
+            {
+                "pmi": [
+                    -0.07478698722029811,
+                    0.007002898013435826,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "n\u00e3o \u00e9 poss\u00edvel que o caso seja encaminhado para decis\u00e3o da Corte porque, embora o Brasil seja signat\u00e1rio da Conven\u00e7\u00e3o Americana dos Direitos Humanos, o pa\u00eds n\u00e3o reconheceu a jurisdi\u00e7\u00e3o da Corte."
+            }
+        ],
+        "number": "21"
+    }
+]

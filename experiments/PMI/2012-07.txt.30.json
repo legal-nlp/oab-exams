@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Em rela\u00e7\u00e3o \u00e0s entidades que comp\u00f5em a administra\u00e7\u00e3o indireta, assinale a alternativa correta.", "filename": "2012-07.txt", "number": "30", "options": [{"correct": null, "letter": "A", "text": "Para a cria\u00e7\u00e3o de autarquias, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei autorizativa e posterior registro de seus atos constitutivos no respectivo registro como condi\u00e7\u00e3o de sua exist\u00eancia."}, {"correct": null, "letter": "B", "text": "Para cria\u00e7\u00e3o de uma empresa p\u00fablica, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei espec\u00edfica sem a exig\u00eancia de registro de seus atos constitutivos no respectivo registro por se tratar de uma pessoa jur\u00eddica de direito p\u00fablico."}, {"correct": true, "letter": "C", "text": "Para cria\u00e7\u00e3o de uma sociedade de economia mista, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei autorizativa e registro de seus atos constitutivos no respectivo registro por se tratar de uma pessoa jur\u00eddica de direito privado."}, {"correct": null, "letter": "D", "text": "Por  serem  pessoas  jur\u00eddicas,  todas  necessitam  ter  seus respectivos  atos  constitutivos  registrados  no  respectivo registro como condi\u00e7\u00e3o de sua exist\u00eancia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Em rela\u00e7\u00e3o \u00e0s entidades que comp\u00f5em a administra\u00e7\u00e3o indireta, assinale a alternativa correta.",
+        "filename": "2012-07.txt",
+        "number": "30",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Para a cria\u00e7\u00e3o de autarquias, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei autorizativa e posterior registro de seus atos constitutivos no respectivo registro como condi\u00e7\u00e3o de sua exist\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Para cria\u00e7\u00e3o de uma empresa p\u00fablica, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei espec\u00edfica sem a exig\u00eancia de registro de seus atos constitutivos no respectivo registro por se tratar de uma pessoa jur\u00eddica de direito p\u00fablico."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Para cria\u00e7\u00e3o de uma sociedade de economia mista, \u00e9 necess\u00e1ria a edi\u00e7\u00e3o de uma lei autorizativa e registro de seus atos constitutivos no respectivo registro por se tratar de uma pessoa jur\u00eddica de direito privado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Por  serem  pessoas  jur\u00eddicas,  todas  necessitam  ter  seus respectivos  atos  constitutivos  registrados  no  respectivo registro como condi\u00e7\u00e3o de sua exist\u00eancia."
+            }
+        ],
+        "valid": true
+    }
+]

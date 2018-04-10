@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Manoel, em processo judicial, conseguiu impedir que fosse penhorado seu \u00fanico im\u00f3vel, sob a alega\u00e7\u00e3o de que este seria bem de fam\u00edlia. O exequente, ent\u00e3o, pugna pela penhora da vaga de garagem de Manoel.\n\n A esse respeito, assinale a afirmativa correta.", "filename": "2016-20a.txt", "number": "41", "options": [{"correct": null, "letter": "A", "text": "A vaga de garagem n\u00e3o \u00e9 considerada bem de fam\u00edlia em nenhuma hip\u00f3tese; portanto, sempre pode ser penhorada."}, {"correct": null, "letter": "B", "text": "A vaga de garagem que possui matr\u00edcula pr\u00f3pria no registro de im\u00f3veis n\u00e3o pode ser penhorada, por ser acess\u00f3ria ao bem principal impenhor\u00e1vel."}, {"correct": true, "letter": "C", "text": "A vaga de garagem s\u00f3 poder\u00e1 ser penhorada se existir matr\u00edcula pr\u00f3pria no Registro de Im\u00f3veis."}, {"correct": null, "letter": "D", "text": "A vaga de garagem que n\u00e3o possui matr\u00edcula pr\u00f3pria no registro de im\u00f3veis n\u00e3o constitui bem de fam\u00edlia para efeito de penhora."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Manoel, em processo judicial, conseguiu impedir que fosse penhorado seu \u00fanico im\u00f3vel, sob a alega\u00e7\u00e3o de que este seria bem de fam\u00edlia. O exequente, ent\u00e3o, pugna pela penhora da vaga de garagem de Manoel.\n\n A esse respeito, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A vaga de garagem n\u00e3o \u00e9 considerada bem de fam\u00edlia em nenhuma hip\u00f3tese; portanto, sempre pode ser penhorada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A vaga de garagem que possui matr\u00edcula pr\u00f3pria no registro de im\u00f3veis n\u00e3o pode ser penhorada, por ser acess\u00f3ria ao bem principal impenhor\u00e1vel."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A vaga de garagem s\u00f3 poder\u00e1 ser penhorada se existir matr\u00edcula pr\u00f3pria no Registro de Im\u00f3veis."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A vaga de garagem que n\u00e3o possui matr\u00edcula pr\u00f3pria no registro de im\u00f3veis n\u00e3o constitui bem de fam\u00edlia para efeito de penhora."
+            }
+        ],
+        "valid": true
+    }
+]

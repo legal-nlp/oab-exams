@@ -1,1 +1,57 @@
-[{"options": [{"text": "Capacidade, legitimidade e interesse.", "letter": "A", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Preparo, interesse e representa\u00e7\u00e3o processual.", "letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Representa\u00e7\u00e3o processual, preparo e tempestividade.", "letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Legitimidade, tempestividade e preparo.", "letter": "D", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "52", "filename": "2010-02.txt", "valid": true, "areas": ["LABOUR-PROCEDURE"], "enum": "Assinale a alternativa que apresente requisitos intr\u00ednsecos gen\u00e9ricos de admissibilidade recursal."}]
+[
+    {
+        "options": [
+            {
+                "text": "Capacidade, legitimidade e interesse.",
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Preparo, interesse e representa\u00e7\u00e3o processual.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Representa\u00e7\u00e3o processual, preparo e tempestividade.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Legitimidade, tempestividade e preparo.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "52",
+        "filename": "2010-02.txt",
+        "valid": true,
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Assinale a alternativa que apresente requisitos intr\u00ednsecos gen\u00e9ricos de admissibilidade recursal."
+    }
+]

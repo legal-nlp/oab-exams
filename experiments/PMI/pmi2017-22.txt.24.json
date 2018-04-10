@@ -1,1 +1,57 @@
-[{"valid": true, "areas": [null], "enum": "Luca nasceu em N\u00e1poles, na It\u00e1lia, em 1997. \u00c9 filho de Marta, uma ilustre pintora italiana, e Jorge, um escritor brasileiro. Quando de seu nascimento, seus pais o registraram apenas perante o registro civil italiano.  Luca nunca procurou se informar sobre seu direito \u00e0 nacionalidade brasileira, mas, agora, vislumbrando seu futuro, ele entra em contato com um escrit\u00f3rio especializado, a fim de saber se e como poderia obter a nacionalidade brasileira.\n\n Assinale a op\u00e7\u00e3o que apresenta, em conformidade com a legisla\u00e7\u00e3o brasileira, o procedimento indicado pelo escrit\u00f3rio.", "options": [{"pmi": [-0.09045441000898492, 0.0, 0.0, 0.0], "text": "Luca n\u00e3o tem direito \u00e0 nacionalidade brasileira, eis que seu pai n\u00e3o estava ou est\u00e1 a servi\u00e7o do Brasil.", "correct": null, "letter": "A"}, {"pmi": [-0.0035519133150788054, 0.0, 0.0, 0.0], "text": "Luca n\u00e3o poder\u00e1 mais obter a nacionalidade brasileira, tendo em vista que j\u00e1 \u00e9 maior de idade.", "correct": null, "letter": "B"}, {"pmi": [-0.052643141886577614, 0.0, 0.0, 0.0], "text": "Luca tem direito \u00e0 nacionalidade brasileira, mas, ainda que a obtenha, n\u00e3o ser\u00e1 considerado brasileiro nato.", "correct": null, "letter": "C"}, {"pmi": [-0.021533716167032636, 0.0, 0.0, 0.0], "text": "Luca dever\u00e1 ir residir no Brasil e fazer a op\u00e7\u00e3o pela nacionalidade brasileira.", "correct": true, "letter": "D"}], "number": "24", "filename": "2017-22.txt"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "enum": "Luca nasceu em N\u00e1poles, na It\u00e1lia, em 1997. \u00c9 filho de Marta, uma ilustre pintora italiana, e Jorge, um escritor brasileiro. Quando de seu nascimento, seus pais o registraram apenas perante o registro civil italiano.  Luca nunca procurou se informar sobre seu direito \u00e0 nacionalidade brasileira, mas, agora, vislumbrando seu futuro, ele entra em contato com um escrit\u00f3rio especializado, a fim de saber se e como poderia obter a nacionalidade brasileira.\n\n Assinale a op\u00e7\u00e3o que apresenta, em conformidade com a legisla\u00e7\u00e3o brasileira, o procedimento indicado pelo escrit\u00f3rio.",
+        "options": [
+            {
+                "pmi": [
+                    -0.09045441000898492,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Luca n\u00e3o tem direito \u00e0 nacionalidade brasileira, eis que seu pai n\u00e3o estava ou est\u00e1 a servi\u00e7o do Brasil.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.0035519133150788054,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Luca n\u00e3o poder\u00e1 mais obter a nacionalidade brasileira, tendo em vista que j\u00e1 \u00e9 maior de idade.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.052643141886577614,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Luca tem direito \u00e0 nacionalidade brasileira, mas, ainda que a obtenha, n\u00e3o ser\u00e1 considerado brasileiro nato.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.021533716167032636,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Luca dever\u00e1 ir residir no Brasil e fazer a op\u00e7\u00e3o pela nacionalidade brasileira.",
+                "correct": true,
+                "letter": "D"
+            }
+        ],
+        "number": "24",
+        "filename": "2017-22.txt"
+    }
+]

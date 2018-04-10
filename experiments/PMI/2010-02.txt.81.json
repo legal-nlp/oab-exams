@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Renato, advogado em in\u00edcio de carreira, \u00e9 contactado para defender os interesses de Rodrigo que est\u00e1 detido em cadeia p\u00fablica. Dirige-se ao local onde seu cliente est\u00e1 retido e busca informa\u00e7\u00f5es sobre sua situa\u00e7\u00e3o, recebendo como resposta do servidor p\u00fablico que estava de plant\u00e3o que os autos do inqu\u00e9rito estariam conclusos com a autoridade policial e, por isso, indispon\u00edveis para consulta e que deveria o advogado retornar quando a autoridade tivesse liberado os autos para realiza\u00e7\u00e3o de dilig\u00eancias.\n\n \u00c0 luz das normas aplic\u00e1veis,", "filename": "2010-02.txt", "number": "81", "options": [{"correct": null, "letter": "A", "text": "o advogado, diante do seu dever de urbanidade, deve aguardar os atos cab\u00edveis da autoridade policial."}, {"correct": null, "letter": "B", "text": "o acesso aos autos, no caso, depende de procura\u00e7\u00e3o e de pr\u00e9via autoriza\u00e7\u00e3o da autoridade policial."}, {"correct": null, "letter": "C", "text": "no caso de r\u00e9u preso, somente com autoriza\u00e7\u00e3o do juiz pode o advogado acessar os autos do inqu\u00e9rito policial."}, {"correct": true, "letter": "D", "text": "o acesso aos autos de inqu\u00e9rito policial \u00e9 direito do advogado, mesmo sem procura\u00e7\u00e3o ou conclusos \u00e0 autoridade policial."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Renato, advogado em in\u00edcio de carreira, \u00e9 contactado para defender os interesses de Rodrigo que est\u00e1 detido em cadeia p\u00fablica. Dirige-se ao local onde seu cliente est\u00e1 retido e busca informa\u00e7\u00f5es sobre sua situa\u00e7\u00e3o, recebendo como resposta do servidor p\u00fablico que estava de plant\u00e3o que os autos do inqu\u00e9rito estariam conclusos com a autoridade policial e, por isso, indispon\u00edveis para consulta e que deveria o advogado retornar quando a autoridade tivesse liberado os autos para realiza\u00e7\u00e3o de dilig\u00eancias.\n\n \u00c0 luz das normas aplic\u00e1veis,",
+        "filename": "2010-02.txt",
+        "number": "81",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o advogado, diante do seu dever de urbanidade, deve aguardar os atos cab\u00edveis da autoridade policial."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o acesso aos autos, no caso, depende de procura\u00e7\u00e3o e de pr\u00e9via autoriza\u00e7\u00e3o da autoridade policial."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "no caso de r\u00e9u preso, somente com autoriza\u00e7\u00e3o do juiz pode o advogado acessar os autos do inqu\u00e9rito policial."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "o acesso aos autos de inqu\u00e9rito policial \u00e9 direito do advogado, mesmo sem procura\u00e7\u00e3o ou conclusos \u00e0 autoridade policial."
+            }
+        ],
+        "valid": true
+    }
+]

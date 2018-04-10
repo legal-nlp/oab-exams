@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Os requisitos necess\u00e1rios \u00e0 caracteriza\u00e7\u00e3o do v\u00ednculo de emprego abrangem", "filename": "2010-01.txt", "number": "72", "options": [{"correct": null, "letter": "A", "text": "onerosidade, exclusividade, subordina\u00e7\u00e3o jur\u00eddica e alteridade."}, {"correct": null, "letter": "B", "text": "eventualidade, pessoalidade, onerosidade e subordina\u00e7\u00e3o jur\u00eddica."}, {"correct": true, "letter": "C", "text": "subordina\u00e7\u00e3o, n\u00e3o eventualidade, onerosidade e pessoalidade."}, {"correct": null, "letter": "D", "text": "depend\u00eancia econ\u00f4mica, continuidade, subordina\u00e7\u00e3o e alteridade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Os requisitos necess\u00e1rios \u00e0 caracteriza\u00e7\u00e3o do v\u00ednculo de emprego abrangem",
+        "filename": "2010-01.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "onerosidade, exclusividade, subordina\u00e7\u00e3o jur\u00eddica e alteridade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "eventualidade, pessoalidade, onerosidade e subordina\u00e7\u00e3o jur\u00eddica."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "subordina\u00e7\u00e3o, n\u00e3o eventualidade, onerosidade e pessoalidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "depend\u00eancia econ\u00f4mica, continuidade, subordina\u00e7\u00e3o e alteridade."
+            }
+        ],
+        "valid": true
+    }
+]

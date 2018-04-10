@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Prefeito de um determinado munic\u00edpio resolveu conceder isen\u00e7\u00e3o de IPTU, por 10 (dez) anos, a propriet\u00e1rios de im\u00f3veis que sejam portadores de defici\u00eancia e que realizem investimento nas condi\u00e7\u00f5es de acessibilidade de suas propriedades.\n\n Com base na situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.", "filename": "2015-18.txt", "number": "28", "options": [{"correct": null, "letter": "A", "text": "\u00c9 poss\u00edvel que o munic\u00edpio institua a isen\u00e7\u00e3o por meio de decreto."}, {"correct": null, "letter": "B", "text": "Tal isen\u00e7\u00e3o constitui caso de suspens\u00e3o da exigibilidade daqueles cr\u00e9ditos tribut\u00e1rios."}, {"correct": true, "letter": "C", "text": "Somente por meio de lei espec\u00edfica municipal pode ser concedida isen\u00e7\u00e3o de IPTU."}, {"correct": null, "letter": "D", "text": "A isen\u00e7\u00e3o concedida em fun\u00e7\u00e3o de determinadas condi\u00e7\u00f5es, como \u00e9 o caso, pode ser revogada a qualquer tempo."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Prefeito de um determinado munic\u00edpio resolveu conceder isen\u00e7\u00e3o de IPTU, por 10 (dez) anos, a propriet\u00e1rios de im\u00f3veis que sejam portadores de defici\u00eancia e que realizem investimento nas condi\u00e7\u00f5es de acessibilidade de suas propriedades.\n\n Com base na situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "number": "28",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00c9 poss\u00edvel que o munic\u00edpio institua a isen\u00e7\u00e3o por meio de decreto."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Tal isen\u00e7\u00e3o constitui caso de suspens\u00e3o da exigibilidade daqueles cr\u00e9ditos tribut\u00e1rios."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Somente por meio de lei espec\u00edfica municipal pode ser concedida isen\u00e7\u00e3o de IPTU."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A isen\u00e7\u00e3o concedida em fun\u00e7\u00e3o de determinadas condi\u00e7\u00f5es, como \u00e9 o caso, pode ser revogada a qualquer tempo."
+            }
+        ],
+        "valid": true
+    }
+]

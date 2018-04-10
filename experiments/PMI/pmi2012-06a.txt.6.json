@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"correct": null, "pmi": [-0.06596420404750986, 0.0, 0.0, 0.0], "letter": "A", "text": "pode se organizar de forma mercantil, com registro na Junta Comercial."}, {"correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "text": "est\u00e1 vinculada \u00e0s regras de \u00e9tica e disciplina dos advogados."}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "text": "seus s\u00f3cios est\u00e3o imunes ao controle disciplinar da OAB."}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "text": "seus componentes podem, isoladamente, representar clientes com interesses conflitantes."}], "enum": "No concernente \u00e0 Sociedade de Advogados, \u00e9 correto afirmar, \u00e0 luz do Estatuto e do C\u00f3digo de \u00c9tica e Disciplina da OAB, que", "number": "6", "areas": ["ETHICS"], "filename": "2012-06a.txt"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.06596420404750986,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "pode se organizar de forma mercantil, com registro na Junta Comercial."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "est\u00e1 vinculada \u00e0s regras de \u00e9tica e disciplina dos advogados."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "seus s\u00f3cios est\u00e3o imunes ao controle disciplinar da OAB."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "seus componentes podem, isoladamente, representar clientes com interesses conflitantes."
+            }
+        ],
+        "enum": "No concernente \u00e0 Sociedade de Advogados, \u00e9 correto afirmar, \u00e0 luz do Estatuto e do C\u00f3digo de \u00c9tica e Disciplina da OAB, que",
+        "number": "6",
+        "areas": [
+            "ETHICS"
+        ],
+        "filename": "2012-06a.txt"
+    }
+]

@@ -1,1 +1,55 @@
-[{"valid": true, "areas": [], "options": [{"text": "O juiz poder\u00e1 fixar multa peri\u00f3dica (astreintes) para a efetiva\u00e7\u00e3o da obriga\u00e7\u00e3o de se realizar os servi\u00e7os de i\u00e7amento, mesmo que n\u00e3o tenha havido pedido espec\u00edfico do autor nesse sentido.", "correct": true, "letter": "A", "pmi": [-0.1387707225183029, 0.0, 0.0, 0.0]}, {"text": "Fixado o valor da multa peri\u00f3dica por decis\u00e3o judicial irrecorrida, seu montante n\u00e3o poder\u00e1 ser alterado por for\u00e7a da preclus\u00e3o temporal.", "correct": null, "letter": "B", "pmi": [-0.20275230649126594, 0.0, 0.0, 0.0]}, {"text": "O montante da multa peri\u00f3dica n\u00e3o poder\u00e1 ultrapassar o do valor da causa, sob pena de enriquecimento il\u00edcito de Felipe.", "correct": null, "letter": "C", "pmi": [-0.19626868834793343, 0.0, 0.0, 0.0]}, {"text": "Fixadas as astreintes pelo juiz, fica vedada a posterior comina\u00e7\u00e3o de multa por litig\u00e2ncia de m\u00e1-f\u00e9 no mesmo processo, por se tratarem, ambas, de san\u00e7\u00f5es de natureza processual.", "correct": null, "letter": "D", "pmi": [-0.2159531224957069, 0.0, 0.0, 0.0]}], "number": "57", "filename": "2015-17.txt", "enum": "Em 21/08/2012, Felipe, empres\u00e1rio do ramo de restaurantes, contratou, por R$ 20 mil, mediante pagamento \u00e0 vista, os servi\u00e7os de i\u00e7amento por guindaste da empresa J\u00fanior e J\u00fanior Ltda., a fim de que uma grande piscina fosse levada \u00e0 cobertura de seu pr\u00e9dio. No contrato, restou definido que todos os servi\u00e7os deveriam ser executados at\u00e9 o dia 05/11/2012, vez que Felipe havia programado uma festa de inaugura\u00e7\u00e3o de seu mais novo empreendimento para 10/11/2012. Em 07/11/2012, sem que os servi\u00e7os fossem executados, Felipe procura seu advogado, que aju\u00edza uma a\u00e7\u00e3o judicial.\n\n Sobre os fatos narrados, assinale a afirmativa correta."}]
+[
+    {
+        "valid": true,
+        "areas": [],
+        "options": [
+            {
+                "text": "O juiz poder\u00e1 fixar multa peri\u00f3dica (astreintes) para a efetiva\u00e7\u00e3o da obriga\u00e7\u00e3o de se realizar os servi\u00e7os de i\u00e7amento, mesmo que n\u00e3o tenha havido pedido espec\u00edfico do autor nesse sentido.",
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    -0.1387707225183029,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Fixado o valor da multa peri\u00f3dica por decis\u00e3o judicial irrecorrida, seu montante n\u00e3o poder\u00e1 ser alterado por for\u00e7a da preclus\u00e3o temporal.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.20275230649126594,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "O montante da multa peri\u00f3dica n\u00e3o poder\u00e1 ultrapassar o do valor da causa, sob pena de enriquecimento il\u00edcito de Felipe.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.19626868834793343,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Fixadas as astreintes pelo juiz, fica vedada a posterior comina\u00e7\u00e3o de multa por litig\u00e2ncia de m\u00e1-f\u00e9 no mesmo processo, por se tratarem, ambas, de san\u00e7\u00f5es de natureza processual.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.2159531224957069,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "57",
+        "filename": "2015-17.txt",
+        "enum": "Em 21/08/2012, Felipe, empres\u00e1rio do ramo de restaurantes, contratou, por R$ 20 mil, mediante pagamento \u00e0 vista, os servi\u00e7os de i\u00e7amento por guindaste da empresa J\u00fanior e J\u00fanior Ltda., a fim de que uma grande piscina fosse levada \u00e0 cobertura de seu pr\u00e9dio. No contrato, restou definido que todos os servi\u00e7os deveriam ser executados at\u00e9 o dia 05/11/2012, vez que Felipe havia programado uma festa de inaugura\u00e7\u00e3o de seu mais novo empreendimento para 10/11/2012. Em 07/11/2012, sem que os servi\u00e7os fossem executados, Felipe procura seu advogado, que aju\u00edza uma a\u00e7\u00e3o judicial.\n\n Sobre os fatos narrados, assinale a afirmativa correta."
+    }
+]

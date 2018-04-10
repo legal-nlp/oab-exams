@@ -1,1 +1,57 @@
-[{"enum": "Ant\u00f4nio, muito necessitado de dinheiro, decide empenhar uma vaca leiteira para iniciar um neg\u00f3cio, acreditando que, com o sucesso do empreendimento, ter\u00e1 o animal de volta o quanto antes.\n\n Sobre a hip\u00f3tese de penhor apresentada, assinale a afirmativa correta.", "valid": true, "number": "43", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Se a vaca leiteira morrer, ainda que por descuido do credor, Ant\u00f4nio poder\u00e1 ter a d\u00edvida executada judicialmente pelo credor pignorat\u00edcio.", "letter": "A"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "As despesas advindas da alimenta\u00e7\u00e3o e outras necessidades da vaca leiteira, devidamente justificadas, consistem em \u00f4nus do credor pignorat\u00edcio, sendo vedada a reten\u00e7\u00e3o do animal para obrigar Ant\u00f4nio a indeniz\u00e1-lo.", "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Se Ant\u00f4nio n\u00e3o quitar sua d\u00edvida com o credor pignorat\u00edcio, o penhor estar\u00e1 automaticamente extinto e, declarada sua extin\u00e7\u00e3o, poder-se-\u00e1 proceder \u00e0 adjudica\u00e7\u00e3o judicial da vaca leiteira.", "letter": "C"}, {"pmi": [-0.0023625205439184835, 0.0, 0.0, 0.0], "correct": true, "text": "Caso o credor pignorat\u00edcio perceba que, devido a uma doen\u00e7a que subitamente atingiu a vaca leiteira, sua morte est\u00e1 pr\u00f3xima, o CC/02 permite a sua venda antecipada, mediante pr\u00e9via autoriza\u00e7\u00e3o judicial, situa\u00e7\u00e3o que pode ser impedida por Ant\u00f4nio por meio da sua substitui\u00e7\u00e3o.", "letter": "D"}], "filename": "2014-13.txt", "areas": ["CIVIL"]}]
+[
+    {
+        "enum": "Ant\u00f4nio, muito necessitado de dinheiro, decide empenhar uma vaca leiteira para iniciar um neg\u00f3cio, acreditando que, com o sucesso do empreendimento, ter\u00e1 o animal de volta o quanto antes.\n\n Sobre a hip\u00f3tese de penhor apresentada, assinale a afirmativa correta.",
+        "valid": true,
+        "number": "43",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Se a vaca leiteira morrer, ainda que por descuido do credor, Ant\u00f4nio poder\u00e1 ter a d\u00edvida executada judicialmente pelo credor pignorat\u00edcio.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "As despesas advindas da alimenta\u00e7\u00e3o e outras necessidades da vaca leiteira, devidamente justificadas, consistem em \u00f4nus do credor pignorat\u00edcio, sendo vedada a reten\u00e7\u00e3o do animal para obrigar Ant\u00f4nio a indeniz\u00e1-lo.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Se Ant\u00f4nio n\u00e3o quitar sua d\u00edvida com o credor pignorat\u00edcio, o penhor estar\u00e1 automaticamente extinto e, declarada sua extin\u00e7\u00e3o, poder-se-\u00e1 proceder \u00e0 adjudica\u00e7\u00e3o judicial da vaca leiteira.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.0023625205439184835,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Caso o credor pignorat\u00edcio perceba que, devido a uma doen\u00e7a que subitamente atingiu a vaca leiteira, sua morte est\u00e1 pr\u00f3xima, o CC/02 permite a sua venda antecipada, mediante pr\u00e9via autoriza\u00e7\u00e3o judicial, situa\u00e7\u00e3o que pode ser impedida por Ant\u00f4nio por meio da sua substitui\u00e7\u00e3o.",
+                "letter": "D"
+            }
+        ],
+        "filename": "2014-13.txt",
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

@@ -1,1 +1,55 @@
-[{"filename": "2014-15.txt", "enum": "Devido \u00e0 indica\u00e7\u00e3o de luz vermelha do sinal de tr\u00e2nsito, Ricardo parou seu ve\u00edculo pouco antes da faixa de pedestres. Sandro, que vinha logo atr\u00e1s de Ricardo, tamb\u00e9m parou, guardando razo\u00e1vel dist\u00e2ncia entre eles. Entretanto, Tatiana, que trafegava na mesma faixa de rolamento, mais atr\u00e1s, distraiu-se ao redigir mensagem no celular enquanto conduzia seu ve\u00edculo, vindo a colidir com o ve\u00edculo de Sandro, o qual, em seguida, atingiu o carro de Ricardo.\n\n Diante disso, \u00e0 luz das normas que disciplinam a responsabilidade civil, assinale a afirmativa correta.", "options": [{"text": "Cada um arcar\u00e1 com seu pr\u00f3prio preju\u00edzo, visto que a responsabilidade pelos danos causados deve ser repartida entre todos os envolvidos.", "correct": null, "letter": "A", "pmi": [-0.003369427009261662, 0.0, 0.0, 0.0]}, {"text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados ao ve\u00edculo de Sandro, e este dever\u00e1 indenizar os preju\u00edzos causados ao ve\u00edculo de Ricardo.", "correct": null, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados aos ve\u00edculos de Sandro e Ricardo.", "correct": true, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Tatiana e Sandro t\u00eam o dever de indenizar Ricardo, na medida de sua culpa.", "correct": null, "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "38", "areas": [], "valid": true}]
+[
+    {
+        "filename": "2014-15.txt",
+        "enum": "Devido \u00e0 indica\u00e7\u00e3o de luz vermelha do sinal de tr\u00e2nsito, Ricardo parou seu ve\u00edculo pouco antes da faixa de pedestres. Sandro, que vinha logo atr\u00e1s de Ricardo, tamb\u00e9m parou, guardando razo\u00e1vel dist\u00e2ncia entre eles. Entretanto, Tatiana, que trafegava na mesma faixa de rolamento, mais atr\u00e1s, distraiu-se ao redigir mensagem no celular enquanto conduzia seu ve\u00edculo, vindo a colidir com o ve\u00edculo de Sandro, o qual, em seguida, atingiu o carro de Ricardo.\n\n Diante disso, \u00e0 luz das normas que disciplinam a responsabilidade civil, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "Cada um arcar\u00e1 com seu pr\u00f3prio preju\u00edzo, visto que a responsabilidade pelos danos causados deve ser repartida entre todos os envolvidos.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.003369427009261662,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados ao ve\u00edculo de Sandro, e este dever\u00e1 indenizar os preju\u00edzos causados ao ve\u00edculo de Ricardo.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados aos ve\u00edculos de Sandro e Ricardo.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Tatiana e Sandro t\u00eam o dever de indenizar Ricardo, na medida de sua culpa.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "38",
+        "areas": [],
+        "valid": true
+    }
+]

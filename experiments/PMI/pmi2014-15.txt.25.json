@@ -1,1 +1,55 @@
-[{"enum": "O Fisco do estado \u201cX\u201d lavrou auto de infra\u00e7\u00e3o contra a pessoa jur\u00eddica \u201cY\u201d para cobrar ICMS sobre a remessa de mercadorias entre a matriz e a filial dessa empresa, ambas localizadas no referido estado. A empresa \u201cY\u201d impetrou, ent\u00e3o, mandado de seguran\u00e7a objetivando ver reconhecido seu direito l\u00edquido e certo ao n\u00e3o recolhimento do ICMS naquela opera\u00e7\u00e3o. Pleiteou tamb\u00e9m medida liminar.\n\n Assinale a op\u00e7\u00e3o que pode, validamente, ser objeto do pedido de liminar formulado pela pessoa jur\u00eddica Y.", "number": "25", "valid": true, "areas": [], "filename": "2014-15.txt", "options": [{"text": "Extin\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.", "pmi": [-0.03162579218969561, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Exclus\u00e3o de cr\u00e9dito tribut\u00e1rio.", "pmi": [-0.03162579218969561, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "Constitui\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.", "pmi": [-0.03162579218969561, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "Suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio.", "pmi": [-0.023719344142271708, 0.0, 0.0, 0.0], "correct": true, "letter": "D"}]}]
+[
+    {
+        "enum": "O Fisco do estado \u201cX\u201d lavrou auto de infra\u00e7\u00e3o contra a pessoa jur\u00eddica \u201cY\u201d para cobrar ICMS sobre a remessa de mercadorias entre a matriz e a filial dessa empresa, ambas localizadas no referido estado. A empresa \u201cY\u201d impetrou, ent\u00e3o, mandado de seguran\u00e7a objetivando ver reconhecido seu direito l\u00edquido e certo ao n\u00e3o recolhimento do ICMS naquela opera\u00e7\u00e3o. Pleiteou tamb\u00e9m medida liminar.\n\n Assinale a op\u00e7\u00e3o que pode, validamente, ser objeto do pedido de liminar formulado pela pessoa jur\u00eddica Y.",
+        "number": "25",
+        "valid": true,
+        "areas": [],
+        "filename": "2014-15.txt",
+        "options": [
+            {
+                "text": "Extin\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    -0.03162579218969561,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Exclus\u00e3o de cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    -0.03162579218969561,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "Constitui\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    -0.03162579218969561,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "Suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    -0.023719344142271708,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "D"
+            }
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Geraldo requereu na sua peti\u00e7\u00e3o inicial, e teve deferida, a concess\u00e3o de tutela antecipada para sua imediata reintegra\u00e7\u00e3o, haja vista ser dirigente sindical. O ex-empregador, cientificado, impetrou Mandado de Seguran\u00e7a, no qual obteve liminar revogando a tutela antecipada concedida. Logo depois, a reclama\u00e7\u00e3o trabalhista de Geraldo foi instru\u00edda na Vara do Trabalho e encaminhada para senten\u00e7a, que julgou procedente o pedido, tendo o juiz concedido novamente a tutela antecipada, agora na senten\u00e7a.\n\n Diante do quadro retratado, de acordo com o entendimento sumulado pelo TST, assinale a op\u00e7\u00e3o correta.", "filename": "2014-14.txt", "number": "79", "options": [{"correct": true, "letter": "A", "text": "O juiz poderia conceder a tutela na senten\u00e7a, e, nesse caso, o Mandado de Seguran\u00e7a perde o objeto."}, {"correct": null, "letter": "B", "text": "O Juiz n\u00e3o poderia conceder novamente a tutela antecipada, haja vista que ela havia sido revogada pelo Tribunal."}, {"correct": null, "letter": "C", "text": "Se a tutela antecipada foi revogada, somente havendo autoriza\u00e7\u00e3o do TRT ela poderia ser revigorada, de modo que o juiz subverteu a ordem processual vigente, cabendo reclama\u00e7\u00e3o correicional."}, {"correct": null, "letter": "D", "text": "Poder\u00e1 a parte r\u00e9 impetrar novo mandado de seguran\u00e7a, agora contra a tutela antecipada concedida na senten\u00e7a."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Geraldo requereu na sua peti\u00e7\u00e3o inicial, e teve deferida, a concess\u00e3o de tutela antecipada para sua imediata reintegra\u00e7\u00e3o, haja vista ser dirigente sindical. O ex-empregador, cientificado, impetrou Mandado de Seguran\u00e7a, no qual obteve liminar revogando a tutela antecipada concedida. Logo depois, a reclama\u00e7\u00e3o trabalhista de Geraldo foi instru\u00edda na Vara do Trabalho e encaminhada para senten\u00e7a, que julgou procedente o pedido, tendo o juiz concedido novamente a tutela antecipada, agora na senten\u00e7a.\n\n Diante do quadro retratado, de acordo com o entendimento sumulado pelo TST, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "79",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "O juiz poderia conceder a tutela na senten\u00e7a, e, nesse caso, o Mandado de Seguran\u00e7a perde o objeto."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O Juiz n\u00e3o poderia conceder novamente a tutela antecipada, haja vista que ela havia sido revogada pelo Tribunal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Se a tutela antecipada foi revogada, somente havendo autoriza\u00e7\u00e3o do TRT ela poderia ser revigorada, de modo que o juiz subverteu a ordem processual vigente, cabendo reclama\u00e7\u00e3o correicional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Poder\u00e1 a parte r\u00e9 impetrar novo mandado de seguran\u00e7a, agora contra a tutela antecipada concedida na senten\u00e7a."
+            }
+        ],
+        "valid": true
+    }
+]

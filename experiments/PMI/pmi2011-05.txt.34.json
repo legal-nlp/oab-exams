@@ -1,1 +1,57 @@
-[{"number": "34", "options": [{"letter": "A", "text": "Jos\u00e9 n\u00e3o poder\u00e1 receber a indeniza\u00e7\u00e3o na forma pleiteada, j\u00e1 que o dano moral e o dano est\u00e9tico s\u00e3o inacumul\u00e1veis. Assim, ter\u00e1 direito apenas ao dano moral, em raz\u00e3o do sofrimento e das cicatrizes, e ao dano material, em raz\u00e3o do tempo que ficou sem trabalhar.", "correct": null, "pmi": [-0.060600005612063294, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Jos\u00e9 ter\u00e1 direito apenas ao dano moral, j\u00e1 que o tempo que ficou sem trabalhar \u00e9 considerado lucros cessantes, os quais n\u00e3o foram expressamente requeridos, e n\u00e3o podem ser concedidos. Quanto ao dano est\u00e9tico, esse \u00e9 inacumul\u00e1vel com o dano moral, j\u00e1 estando inclu\u00eddo neste.", "correct": null, "pmi": [-0.06607514663851666, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Jos\u00e9 ter\u00e1 direito a receber a indeniza\u00e7\u00e3o na forma pleiteada: o dano moral em raz\u00e3o das les\u00f5es e do sofrimento por ele sentido, o dano material em virtude do tempo que ficou sem trabalhar e o dano est\u00e9tico em raz\u00e3o das cicatrizes com que ficou.", "correct": true, "pmi": [-0.048212384899516084, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "Jos\u00e9 ter\u00e1 direito apenas ao dano moral, em raz\u00e3o do sofrimento, e ao dano est\u00e9tico, em raz\u00e3o das cicatrizes. Quanto ao tempo em que ficou sem trabalhar, isso se traduz em lucros cessantes, que n\u00e3o foram pedidos, n\u00e3o podendo ser concedidos.", "correct": null, "pmi": [-0.04177136177265087, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2011-05.txt", "enum": "Jo\u00e3o trafegava com seu ve\u00edculo com velocidade incompat\u00edvel para o local e avan\u00e7ou o sinal vermelho. Jos\u00e9, que atravessava normalmente na faixa de pedestre, foi atropelado por Jo\u00e3o, sofrendo v\u00e1rios ferimentos. Para se recuperar, Jos\u00e9, trabalhador aut\u00f4nomo, teve que ficar internado por 10 dias, sem possibilidade de trabalhar, al\u00e9m de ter ficado com v\u00e1rias cicatrizes no corpo. Em virtude do ocorrido, Jos\u00e9 ajuizou a\u00e7\u00e3o, pleiteando danos morais, est\u00e9ticos e materiais. Com base na situa\u00e7\u00e3o acima, assinale a alternativa correta.", "areas": ["CIVIL"]}]
+[
+    {
+        "number": "34",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Jos\u00e9 n\u00e3o poder\u00e1 receber a indeniza\u00e7\u00e3o na forma pleiteada, j\u00e1 que o dano moral e o dano est\u00e9tico s\u00e3o inacumul\u00e1veis. Assim, ter\u00e1 direito apenas ao dano moral, em raz\u00e3o do sofrimento e das cicatrizes, e ao dano material, em raz\u00e3o do tempo que ficou sem trabalhar.",
+                "correct": null,
+                "pmi": [
+                    -0.060600005612063294,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Jos\u00e9 ter\u00e1 direito apenas ao dano moral, j\u00e1 que o tempo que ficou sem trabalhar \u00e9 considerado lucros cessantes, os quais n\u00e3o foram expressamente requeridos, e n\u00e3o podem ser concedidos. Quanto ao dano est\u00e9tico, esse \u00e9 inacumul\u00e1vel com o dano moral, j\u00e1 estando inclu\u00eddo neste.",
+                "correct": null,
+                "pmi": [
+                    -0.06607514663851666,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Jos\u00e9 ter\u00e1 direito a receber a indeniza\u00e7\u00e3o na forma pleiteada: o dano moral em raz\u00e3o das les\u00f5es e do sofrimento por ele sentido, o dano material em virtude do tempo que ficou sem trabalhar e o dano est\u00e9tico em raz\u00e3o das cicatrizes com que ficou.",
+                "correct": true,
+                "pmi": [
+                    -0.048212384899516084,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "Jos\u00e9 ter\u00e1 direito apenas ao dano moral, em raz\u00e3o do sofrimento, e ao dano est\u00e9tico, em raz\u00e3o das cicatrizes. Quanto ao tempo em que ficou sem trabalhar, isso se traduz em lucros cessantes, que n\u00e3o foram pedidos, n\u00e3o podendo ser concedidos.",
+                "correct": null,
+                "pmi": [
+                    -0.04177136177265087,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2011-05.txt",
+        "enum": "Jo\u00e3o trafegava com seu ve\u00edculo com velocidade incompat\u00edvel para o local e avan\u00e7ou o sinal vermelho. Jos\u00e9, que atravessava normalmente na faixa de pedestre, foi atropelado por Jo\u00e3o, sofrendo v\u00e1rios ferimentos. Para se recuperar, Jos\u00e9, trabalhador aut\u00f4nomo, teve que ficar internado por 10 dias, sem possibilidade de trabalhar, al\u00e9m de ter ficado com v\u00e1rias cicatrizes no corpo. Em virtude do ocorrido, Jos\u00e9 ajuizou a\u00e7\u00e3o, pleiteando danos morais, est\u00e9ticos e materiais. Com base na situa\u00e7\u00e3o acima, assinale a alternativa correta.",
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

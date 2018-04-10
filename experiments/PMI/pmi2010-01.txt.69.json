@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "number": "69", "areas": ["LABOUR"], "valid": true, "options": [{"text": "Constitui motivo para altera\u00e7\u00e3o do contrato de trabalho pelo empregador o afastamento do empregado em virtude das exig\u00eancias do servi\u00e7o militar.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "O empregado poder\u00e1 deixar de comparecer ao servi\u00e7o sem preju\u00edzo do sal\u00e1rio nos dias em que estiver comprovadamente realizando prova de exame vestibular para ingresso em estabelecimento de ensino superior.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}, {"text": "A suspens\u00e3o do empregado por mais de quinze dias consecutivos importa na rescis\u00e3o injusta do contrato de trabalho.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Constitui justa causa para rescis\u00e3o do contrato de trabalho pelo empregador a condena\u00e7\u00e3o criminal do empregado proferida pelo juiz de primeiro grau.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}], "enum": "Com rela\u00e7\u00e3o ao contrato de trabalho, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "filename": "2010-01.txt",
+        "number": "69",
+        "areas": [
+            "LABOUR"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "text": "Constitui motivo para altera\u00e7\u00e3o do contrato de trabalho pelo empregador o afastamento do empregado em virtude das exig\u00eancias do servi\u00e7o militar.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "O empregado poder\u00e1 deixar de comparecer ao servi\u00e7o sem preju\u00edzo do sal\u00e1rio nos dias em que estiver comprovadamente realizando prova de exame vestibular para ingresso em estabelecimento de ensino superior.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "A suspens\u00e3o do empregado por mais de quinze dias consecutivos importa na rescis\u00e3o injusta do contrato de trabalho.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Constitui justa causa para rescis\u00e3o do contrato de trabalho pelo empregador a condena\u00e7\u00e3o criminal do empregado proferida pelo juiz de primeiro grau.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao contrato de trabalho, assinale a op\u00e7\u00e3o correta."
+    }
+]

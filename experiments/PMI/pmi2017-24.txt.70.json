@@ -1,1 +1,57 @@
-[{"number": "70", "filename": "2017-24.txt", "options": [{"letter": "A", "text": "Solange n\u00e3o tem direito ao adicional de periculosidade e Iracema perder\u00e1 o direito ao adicional de insalubridade.", "pmi": [-0.07980144410285864, 0.0, 0.0, 0.0], "correct": true}, {"letter": "B", "text": "Solange tem direito ao adicional de periculosidade e Iracema manter\u00e1 o adicional de insalubridade por ter direito adquirido.", "pmi": [-0.07182129969257277, 0.0, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "Solange n\u00e3o tem direito ao adicional de periculosidade e Iracema manter\u00e1 o direito ao adicional de insalubridade.", "pmi": [-0.07980144410285864, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "Solange tem direito ao adicional de periculosidade e Iracema perder\u00e1 o direito ao adicional de insalubridade.", "pmi": [-0.07980144410285864, 0.0, 0.0, 0.0], "correct": null}], "areas": [null], "valid": true, "enum": "Solange \u00e9 comiss\u00e1ria de bordo em uma grande empresa de transporte a\u00e9reo e ajuizou reclama\u00e7\u00e3o trabalhista postulando adicional de periculosidade, alegando que permanecia em \u00e1rea de risco durante o abastecimento das aeronaves porque ele era feito com a tripula\u00e7\u00e3o a bordo.\n\n Iracema, vizinha de Solange, trabalha em uma unidade fabril recebendo adicional de insalubridade, mas, ap\u00f3s cinco anos, sua atividade foi retirada da lista de atividades insalubres, por ato da autoridade competente.\n\n Sobre as duas situa\u00e7\u00f5es, segundo a norma de reg\u00eancia e o entendimento consolidado do TST, assinale a afirmativa correta."}]
+[
+    {
+        "number": "70",
+        "filename": "2017-24.txt",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Solange n\u00e3o tem direito ao adicional de periculosidade e Iracema perder\u00e1 o direito ao adicional de insalubridade.",
+                "pmi": [
+                    -0.07980144410285864,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "text": "Solange tem direito ao adicional de periculosidade e Iracema manter\u00e1 o adicional de insalubridade por ter direito adquirido.",
+                "pmi": [
+                    -0.07182129969257277,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "Solange n\u00e3o tem direito ao adicional de periculosidade e Iracema manter\u00e1 o direito ao adicional de insalubridade.",
+                "pmi": [
+                    -0.07980144410285864,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "Solange tem direito ao adicional de periculosidade e Iracema perder\u00e1 o direito ao adicional de insalubridade.",
+                "pmi": [
+                    -0.07980144410285864,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "enum": "Solange \u00e9 comiss\u00e1ria de bordo em uma grande empresa de transporte a\u00e9reo e ajuizou reclama\u00e7\u00e3o trabalhista postulando adicional de periculosidade, alegando que permanecia em \u00e1rea de risco durante o abastecimento das aeronaves porque ele era feito com a tripula\u00e7\u00e3o a bordo.\n\n Iracema, vizinha de Solange, trabalha em uma unidade fabril recebendo adicional de insalubridade, mas, ap\u00f3s cinco anos, sua atividade foi retirada da lista de atividades insalubres, por ato da autoridade competente.\n\n Sobre as duas situa\u00e7\u00f5es, segundo a norma de reg\u00eancia e o entendimento consolidado do TST, assinale a afirmativa correta."
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["BUSINESS"], "filename": "2014-13.txt", "valid": true, "number": "52", "enum": "Ol\u00edmpio Noronha \u00e9 servidor p\u00fablico militar ativo e, concomitantemente, exerce pessoalmente atividade econ\u00f4mica organizada sem ter sua firma inscrita na Junta Comercial.\n\n Em rela\u00e7\u00e3o \u00e0s obriga\u00e7\u00f5es assumidas por Ol\u00edmpio Noronha, assinale a alternativa correta.", "options": [{"pmi": [-0.12802927742608688, 0.0, 0.0, 0.0], "letter": "A", "correct": true, "text": "S\u00e3o v\u00e1lidas tanto as obriga\u00e7\u00f5es assumidas no exerc\u00edcio da empresa quanto estranhas a essa atividade e por elas Ol\u00edmpio Noronha responder\u00e1 ilimitadamente."}, {"pmi": [-0.22231381476525688, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "S\u00e3o nulas todas as obriga\u00e7\u00f5es assumidas, porque Ol\u00edmpio Noronha n\u00e3o pode ser empres\u00e1rio concomitantemente com o servi\u00e7o p\u00fablico militar."}, {"pmi": [-0.07831196964965764, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "S\u00e3o v\u00e1lidas apenas as obriga\u00e7\u00f5es estranhas ao exerc\u00edcio da empresa, pelas quais Ol\u00edmpio Noronha responder\u00e1 ilimitadamente; as demais s\u00e3o nulas."}, {"pmi": [-0.07831196964965764, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "S\u00e3o v\u00e1lidas apenas as obriga\u00e7\u00f5es relacionadas ao exerc\u00edcio da empresa e por elas Ol\u00edmpio Noronha responder\u00e1 limitadamente; as demais s\u00e3o anul\u00e1veis."}]}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "filename": "2014-13.txt",
+        "valid": true,
+        "number": "52",
+        "enum": "Ol\u00edmpio Noronha \u00e9 servidor p\u00fablico militar ativo e, concomitantemente, exerce pessoalmente atividade econ\u00f4mica organizada sem ter sua firma inscrita na Junta Comercial.\n\n Em rela\u00e7\u00e3o \u00e0s obriga\u00e7\u00f5es assumidas por Ol\u00edmpio Noronha, assinale a alternativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.12802927742608688,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true,
+                "text": "S\u00e3o v\u00e1lidas tanto as obriga\u00e7\u00f5es assumidas no exerc\u00edcio da empresa quanto estranhas a essa atividade e por elas Ol\u00edmpio Noronha responder\u00e1 ilimitadamente."
+            },
+            {
+                "pmi": [
+                    -0.22231381476525688,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "S\u00e3o nulas todas as obriga\u00e7\u00f5es assumidas, porque Ol\u00edmpio Noronha n\u00e3o pode ser empres\u00e1rio concomitantemente com o servi\u00e7o p\u00fablico militar."
+            },
+            {
+                "pmi": [
+                    -0.07831196964965764,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "S\u00e3o v\u00e1lidas apenas as obriga\u00e7\u00f5es estranhas ao exerc\u00edcio da empresa, pelas quais Ol\u00edmpio Noronha responder\u00e1 ilimitadamente; as demais s\u00e3o nulas."
+            },
+            {
+                "pmi": [
+                    -0.07831196964965764,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "S\u00e3o v\u00e1lidas apenas as obriga\u00e7\u00f5es relacionadas ao exerc\u00edcio da empresa e por elas Ol\u00edmpio Noronha responder\u00e1 limitadamente; as demais s\u00e3o anul\u00e1veis."
+            }
+        ]
+    }
+]

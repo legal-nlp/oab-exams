@@ -1,1 +1,57 @@
-[{"valid": true, "number": "77", "options": [{"correct": null, "text": "O juiz dever\u00e1 manter a audi\u00eancia e aplicar a revelia por aus\u00eancia de defesa.", "pmi": [-0.13373618691718678, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": true, "text": "O juiz dever\u00e1 adiar a audi\u00eancia pela exiguidade de tempo entre a cita\u00e7\u00e3o e a realiza\u00e7\u00e3o da audi\u00eancia.", "pmi": [-0.08381449025735532, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "O juiz dever\u00e1 manter a audi\u00eancia, podendo o preposto apresentar defesa oral no prazo legal de 20 minutos, j\u00e1 que vigora o jus postulandi.", "pmi": [-0.15559494107832197, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "Face aos princ\u00edpios da celeridade e economia processual, o juiz dever\u00e1 manter a audi\u00eancia, mas em raz\u00e3o da presen\u00e7a da r\u00e9, evidente o \u00e2nimo de defesa, n\u00e3o aplicar\u00e1 a revelia.", "pmi": [-0.058509581776269214, 0.0, 0.0, 0.0], "letter": "D"}], "enum": "Em 10/04/2013 a empresa AlfaBeta Ltda. recebeu c\u00f3pia da peti\u00e7\u00e3o inicial de a\u00e7\u00e3o em face dela ajuizada, com notifica\u00e7\u00e3o citat\u00f3ria para audi\u00eancia no dia 14/04/2013. Nesta data, compareceu apenas o preposto da r\u00e9, munido da respectiva carta e carteira de trabalho, sem portar defesa, requerendo oralmente o adiamento da audi\u00eancia.\n\n A partir do caso apresentado, assinale a afirmativa correta.", "areas": ["LABOUR-PROCEDURE"], "filename": "2013-12.txt"}]
+[
+    {
+        "valid": true,
+        "number": "77",
+        "options": [
+            {
+                "correct": null,
+                "text": "O juiz dever\u00e1 manter a audi\u00eancia e aplicar a revelia por aus\u00eancia de defesa.",
+                "pmi": [
+                    -0.13373618691718678,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "text": "O juiz dever\u00e1 adiar a audi\u00eancia pela exiguidade de tempo entre a cita\u00e7\u00e3o e a realiza\u00e7\u00e3o da audi\u00eancia.",
+                "pmi": [
+                    -0.08381449025735532,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "O juiz dever\u00e1 manter a audi\u00eancia, podendo o preposto apresentar defesa oral no prazo legal de 20 minutos, j\u00e1 que vigora o jus postulandi.",
+                "pmi": [
+                    -0.15559494107832197,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "Face aos princ\u00edpios da celeridade e economia processual, o juiz dever\u00e1 manter a audi\u00eancia, mas em raz\u00e3o da presen\u00e7a da r\u00e9, evidente o \u00e2nimo de defesa, n\u00e3o aplicar\u00e1 a revelia.",
+                "pmi": [
+                    -0.058509581776269214,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "enum": "Em 10/04/2013 a empresa AlfaBeta Ltda. recebeu c\u00f3pia da peti\u00e7\u00e3o inicial de a\u00e7\u00e3o em face dela ajuizada, com notifica\u00e7\u00e3o citat\u00f3ria para audi\u00eancia no dia 14/04/2013. Nesta data, compareceu apenas o preposto da r\u00e9, munido da respectiva carta e carteira de trabalho, sem portar defesa, requerendo oralmente o adiamento da audi\u00eancia.\n\n A partir do caso apresentado, assinale a afirmativa correta.",
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "filename": "2013-12.txt"
+    }
+]

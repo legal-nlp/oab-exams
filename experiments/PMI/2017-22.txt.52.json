@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Luiz emitiu uma nota promiss\u00f3ria em favor de Jer\u00f4nimo. No momento da emiss\u00e3o, ele n\u00e3o inseriu a quantia nem o lugar de pagamento. Na data do vencimento, o subscritor foi procurado por um procurador do benefici\u00e1rio, que lhe exibiu a c\u00e1rtula com endosso-mandato e exigiu o pagamento.  Luiz verificou, ent\u00e3o, que o t\u00edtulo havia sido preenchido abusivamente, pois constava o valor de R$ 000,00 (quinze mil reais), quando o correto seria R$ 1.500,00 (mil e quinhentos reais), e o lugar de pagamento era diverso de seu domic\u00edlio, em Cachoeiro de Itapemirim, ES.\n\n Procurado pelo devedor para analisar o caso e ciente de que o pagamento n\u00e3o foi realizado por ele, voc\u00ea, como advogado(a), responde que", "filename": "2017-22.txt", "number": "52", "options": [{"correct": null, "letter": "A", "text": "\u00e9 poss\u00edvel alegar em ju\u00edzo, com \u00eaxito, a nulidade do t\u00edtulo, em raz\u00e3o de o lugar de pagamento ser domic\u00edlio diverso do subscritor, caracterizando m\u00e1-f\u00e9 do portador atual."}, {"correct": null, "letter": "B", "text": "n\u00e3o \u00e9 poss\u00edvel ao subscritor se recusar validamente ao pagamento diante da autonomia das obriga\u00e7\u00f5es cambi\u00e1rias e do endosso-mandato realizado na c\u00e1rtula."}, {"correct": true, "letter": "C", "text": "\u00e9 poss\u00edvel ao subscritor da nota promiss\u00f3ria opor exce\u00e7\u00e3o pessoal ao benefici\u00e1rio Jer\u00f4nimo quanto ao conte\u00fado literal do t\u00edtulo, diante do preenchimento abusivo."}, {"correct": null, "letter": "D", "text": "n\u00e3o \u00e9 poss\u00edvel a oposi\u00e7\u00e3o de exce\u00e7\u00e3o ao pagamento, porque o subscritor da nota promiss\u00f3ria \u00e9 equiparado ao aceitante da letra de c\u00e2mbio e, como tal, obriga-se a pagar na data do vencimento."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Luiz emitiu uma nota promiss\u00f3ria em favor de Jer\u00f4nimo. No momento da emiss\u00e3o, ele n\u00e3o inseriu a quantia nem o lugar de pagamento. Na data do vencimento, o subscritor foi procurado por um procurador do benefici\u00e1rio, que lhe exibiu a c\u00e1rtula com endosso-mandato e exigiu o pagamento.  Luiz verificou, ent\u00e3o, que o t\u00edtulo havia sido preenchido abusivamente, pois constava o valor de R$ 000,00 (quinze mil reais), quando o correto seria R$ 1.500,00 (mil e quinhentos reais), e o lugar de pagamento era diverso de seu domic\u00edlio, em Cachoeiro de Itapemirim, ES.\n\n Procurado pelo devedor para analisar o caso e ciente de que o pagamento n\u00e3o foi realizado por ele, voc\u00ea, como advogado(a), responde que",
+        "filename": "2017-22.txt",
+        "number": "52",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00e9 poss\u00edvel alegar em ju\u00edzo, com \u00eaxito, a nulidade do t\u00edtulo, em raz\u00e3o de o lugar de pagamento ser domic\u00edlio diverso do subscritor, caracterizando m\u00e1-f\u00e9 do portador atual."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "n\u00e3o \u00e9 poss\u00edvel ao subscritor se recusar validamente ao pagamento diante da autonomia das obriga\u00e7\u00f5es cambi\u00e1rias e do endosso-mandato realizado na c\u00e1rtula."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "\u00e9 poss\u00edvel ao subscritor da nota promiss\u00f3ria opor exce\u00e7\u00e3o pessoal ao benefici\u00e1rio Jer\u00f4nimo quanto ao conte\u00fado literal do t\u00edtulo, diante do preenchimento abusivo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "n\u00e3o \u00e9 poss\u00edvel a oposi\u00e7\u00e3o de exce\u00e7\u00e3o ao pagamento, porque o subscritor da nota promiss\u00f3ria \u00e9 equiparado ao aceitante da letra de c\u00e2mbio e, como tal, obriga-se a pagar na data do vencimento."
+            }
+        ],
+        "valid": true
+    }
+]

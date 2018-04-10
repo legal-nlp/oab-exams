@@ -1,1 +1,57 @@
-[{"areas": ["TAXES"], "options": [{"letter": "A", "text": "por cr\u00e9dito tribut\u00e1rio ainda n\u00e3o inscrito em d\u00edvida ativa, desde que n\u00e3o tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida.", "pmi": [-0.02662922867256587, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "por cr\u00e9dito tribut\u00e1rio regularmente inscrito em d\u00edvida ativa, desde que n\u00e3o tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida inscrita.", "pmi": [-0.023300575088495135, 0.0, 0.0, 0.0], "correct": true}, {"letter": "C", "text": "por cr\u00e9dito tribut\u00e1rio regularmente inscrito em d\u00edvida ativa, mesmo  que  tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida inscrita.", "pmi": [-0.023300575088495135, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "por cr\u00e9dito tribut\u00e1rio ainda n\u00e3o inscrito em d\u00edvida ativa, objeto de impugna\u00e7\u00e3o administrativa oferecida pelo contribuinte.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}], "number": "28", "valid": true, "filename": "2014-14.txt", "enum": "Presume-se fraudulenta a aliena\u00e7\u00e3o ou onera\u00e7\u00e3o de bens ou rendas por sujeito passivo em d\u00e9bito para com a Fazenda P\u00fablica"}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "text": "por cr\u00e9dito tribut\u00e1rio ainda n\u00e3o inscrito em d\u00edvida ativa, desde que n\u00e3o tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida.",
+                "pmi": [
+                    -0.02662922867256587,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "por cr\u00e9dito tribut\u00e1rio regularmente inscrito em d\u00edvida ativa, desde que n\u00e3o tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida inscrita.",
+                "pmi": [
+                    -0.023300575088495135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "C",
+                "text": "por cr\u00e9dito tribut\u00e1rio regularmente inscrito em d\u00edvida ativa, mesmo  que  tenham sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da d\u00edvida inscrita.",
+                "pmi": [
+                    -0.023300575088495135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "por cr\u00e9dito tribut\u00e1rio ainda n\u00e3o inscrito em d\u00edvida ativa, objeto de impugna\u00e7\u00e3o administrativa oferecida pelo contribuinte.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "number": "28",
+        "valid": true,
+        "filename": "2014-14.txt",
+        "enum": "Presume-se fraudulenta a aliena\u00e7\u00e3o ou onera\u00e7\u00e3o de bens ou rendas por sujeito passivo em d\u00e9bito para com a Fazenda P\u00fablica"
+    }
+]

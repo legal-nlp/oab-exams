@@ -1,1 +1,57 @@
-[{"number": "69", "filename": "2012-06a.txt", "enum": "Em rela\u00e7\u00e3o \u00e0 conex\u00e3o intersubjetiva por simultaneidade, assinale a alternativa correta.", "valid": true, "areas": ["CRIMINAL-PROCEDURE"], "options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Ocorre quando duas ou mais pessoas forem acusadas pela mesma infra\u00e7\u00e3o.", "correct": null}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Ocorre quando duas ou mais infra\u00e7\u00f5es s\u00e3o praticadas, por v\u00e1rias pessoas, umas contra as outras.", "correct": null}, {"letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Ocorre quando duas ou mais infra\u00e7\u00f5es s\u00e3o praticadas, ao mesmo tempo, por v\u00e1rias pessoas reunidas.", "correct": true}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Ocorre quando a prova de uma infra\u00e7\u00e3o influir na prova de outra infra\u00e7\u00e3o.", "correct": null}]}]
+[
+    {
+        "number": "69",
+        "filename": "2012-06a.txt",
+        "enum": "Em rela\u00e7\u00e3o \u00e0 conex\u00e3o intersubjetiva por simultaneidade, assinale a alternativa correta.",
+        "valid": true,
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ocorre quando duas ou mais pessoas forem acusadas pela mesma infra\u00e7\u00e3o.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ocorre quando duas ou mais infra\u00e7\u00f5es s\u00e3o praticadas, por v\u00e1rias pessoas, umas contra as outras.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ocorre quando duas ou mais infra\u00e7\u00f5es s\u00e3o praticadas, ao mesmo tempo, por v\u00e1rias pessoas reunidas.",
+                "correct": true
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ocorre quando a prova de uma infra\u00e7\u00e3o influir na prova de outra infra\u00e7\u00e3o.",
+                "correct": null
+            }
+        ]
+    }
+]

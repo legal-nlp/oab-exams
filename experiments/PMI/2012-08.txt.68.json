@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Paulo reside na cidade \u201cY\u201d e l\u00e1 resolveu falsificar seu passaporte. Ap\u00f3s a falsifica\u00e7\u00e3o, pegou sua moto e viajou at\u00e9 a cidade \u201cZ\u201d, com o intuito de chegar ao Paraguai. Passou pela cidade \u201cW\u201d e pela cidade \u201cK\u201d, onde foi parado pela Pol\u00edcia Militar. Paulo se identificou ao policial usando o documento falsificado e este, percebendo a fraude, encaminhou Paulo \u00e0 delegacia. O Parquet denunciou Paulo pela pr\u00e1tica do crime de uso de documento falso.\n\n Assinale a afirmativa que indica o \u00f3rg\u00e3o competente para julgamento.", "filename": "2012-08.txt", "number": "68", "options": [{"correct": null, "letter": "A", "text": "Justi\u00e7a Estadual da cidade \u201cY\u201d."}, {"correct": true, "letter": "B", "text": "Justi\u00e7a Federal da cidade \u201cK\u201d."}, {"correct": null, "letter": "C", "text": "Justi\u00e7a Federal da cidade \u201cY\u201d."}, {"correct": null, "letter": "D", "text": "Justi\u00e7a Estadual da cidade \u201cK\u201d."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Paulo reside na cidade \u201cY\u201d e l\u00e1 resolveu falsificar seu passaporte. Ap\u00f3s a falsifica\u00e7\u00e3o, pegou sua moto e viajou at\u00e9 a cidade \u201cZ\u201d, com o intuito de chegar ao Paraguai. Passou pela cidade \u201cW\u201d e pela cidade \u201cK\u201d, onde foi parado pela Pol\u00edcia Militar. Paulo se identificou ao policial usando o documento falsificado e este, percebendo a fraude, encaminhou Paulo \u00e0 delegacia. O Parquet denunciou Paulo pela pr\u00e1tica do crime de uso de documento falso.\n\n Assinale a afirmativa que indica o \u00f3rg\u00e3o competente para julgamento.",
+        "filename": "2012-08.txt",
+        "number": "68",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Justi\u00e7a Estadual da cidade \u201cY\u201d."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Justi\u00e7a Federal da cidade \u201cK\u201d."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Justi\u00e7a Federal da cidade \u201cY\u201d."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Justi\u00e7a Estadual da cidade \u201cK\u201d."
+            }
+        ],
+        "valid": true
+    }
+]

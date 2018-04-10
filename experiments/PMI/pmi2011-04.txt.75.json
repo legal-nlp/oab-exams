@@ -1,1 +1,57 @@
-[{"options": [{"text": "8 horas, pois a CRFB prev\u00ea jornada de 8 horas por dia e 44 horas semanais, n\u00e3o podendo ser derrogada por norma hierarquicamente inferior.", "correct": null, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "7 horas e 30 minutos, porque o acordo coletivo, por ser mais espec\u00edfico, prevalece sobre a conven\u00e7\u00e3o coletiva, sendo aplicada a redu\u00e7\u00e3o de 30 minutos sobre a jornada de 8 horas por dia prevista na CRFB.", "correct": null, "letter": "B", "pmi": [-0.00894614549861284, 0.0, 0.0, 0.0]}, {"text": "7 horas, pois as condi\u00e7\u00f5es estabelecidas na conven\u00e7\u00e3o coletiva, por serem mais abrangentes, prevalecem sobre as estipuladas no acordo coletivo.", "correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "6 horas e 30 minutos, pela aplica\u00e7\u00e3o do princ\u00edpio da preval\u00eancia da norma mais favor\u00e1vel ao trabalhador.", "correct": true, "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0]}], "filename": "2011-04.txt", "number": "75", "valid": true, "areas": ["LABOUR"], "enum": "Foi celebrada conven\u00e7\u00e3o coletiva que fixa jornada em sete horas di\u00e1rias. Posteriormente, na mesma vig\u00eancia dessa conven\u00e7\u00e3o, foi celebrado acordo coletivo prevendo redu\u00e7\u00e3o da referida jornada em 30 minutos. Assim, os empregados das empresas que subscrevem o acordo coletivo e a conven\u00e7\u00e3o coletiva dever\u00e3o trabalhar, por dia,"}]
+[
+    {
+        "options": [
+            {
+                "text": "8 horas, pois a CRFB prev\u00ea jornada de 8 horas por dia e 44 horas semanais, n\u00e3o podendo ser derrogada por norma hierarquicamente inferior.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "7 horas e 30 minutos, porque o acordo coletivo, por ser mais espec\u00edfico, prevalece sobre a conven\u00e7\u00e3o coletiva, sendo aplicada a redu\u00e7\u00e3o de 30 minutos sobre a jornada de 8 horas por dia prevista na CRFB.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.00894614549861284,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "7 horas, pois as condi\u00e7\u00f5es estabelecidas na conven\u00e7\u00e3o coletiva, por serem mais abrangentes, prevalecem sobre as estipuladas no acordo coletivo.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "6 horas e 30 minutos, pela aplica\u00e7\u00e3o do princ\u00edpio da preval\u00eancia da norma mais favor\u00e1vel ao trabalhador.",
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2011-04.txt",
+        "number": "75",
+        "valid": true,
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Foi celebrada conven\u00e7\u00e3o coletiva que fixa jornada em sete horas di\u00e1rias. Posteriormente, na mesma vig\u00eancia dessa conven\u00e7\u00e3o, foi celebrado acordo coletivo prevendo redu\u00e7\u00e3o da referida jornada em 30 minutos. Assim, os empregados das empresas que subscrevem o acordo coletivo e a conven\u00e7\u00e3o coletiva dever\u00e3o trabalhar, por dia,"
+    }
+]

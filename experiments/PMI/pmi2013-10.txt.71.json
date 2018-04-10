@@ -1,1 +1,57 @@
-[{"number": "71", "options": [{"text": "Fernanda pode ter o contrato extinto porque o pacto foi feito a termo, de modo que no seu implemento a ruptura se imp\u00f5e.", "pmi": [-0.0642671635202454, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Fernanda n\u00e3o poder\u00e1 ser dispensada, pois, em raz\u00e3o da gravidez, possui garantia no emprego, mesmo sendo o contrato a termo.", "pmi": [-0.09644994177343505, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "Fernanda poder\u00e1 ser desligada porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade do contrato.", "pmi": [-0.026747604946923395, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "Fernanda n\u00e3o pode ter o contrato rompido, pois em raz\u00e3o da gravidez tem garantia no emprego durante 12 meses.", "pmi": [-0.08548127145561035, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true, "filename": "2013-10.txt", "enum": "Fernanda \u00e9 contratada pela empresa Master, a t\u00edtulo tempor\u00e1rio, com base na Lei n. 6.019/74, pelo prazo certo de 3 meses. Quando do t\u00e9rmino deste per\u00edodo e ciente de que o empregador n\u00e3o pretende renovar o contrato, ela informa que se encontra gr\u00e1vida de 6 semanas.\n\n A respeito do caso proposto, de acordo com o entendimento do TST, assinale a afirmativa correta.", "areas": ["LABOUR"]}]
+[
+    {
+        "number": "71",
+        "options": [
+            {
+                "text": "Fernanda pode ter o contrato extinto porque o pacto foi feito a termo, de modo que no seu implemento a ruptura se imp\u00f5e.",
+                "pmi": [
+                    -0.0642671635202454,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Fernanda n\u00e3o poder\u00e1 ser dispensada, pois, em raz\u00e3o da gravidez, possui garantia no emprego, mesmo sendo o contrato a termo.",
+                "pmi": [
+                    -0.09644994177343505,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "Fernanda poder\u00e1 ser desligada porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade do contrato.",
+                "pmi": [
+                    -0.026747604946923395,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "Fernanda n\u00e3o pode ter o contrato rompido, pois em raz\u00e3o da gravidez tem garantia no emprego durante 12 meses.",
+                "pmi": [
+                    -0.08548127145561035,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "filename": "2013-10.txt",
+        "enum": "Fernanda \u00e9 contratada pela empresa Master, a t\u00edtulo tempor\u00e1rio, com base na Lei n. 6.019/74, pelo prazo certo de 3 meses. Quando do t\u00e9rmino deste per\u00edodo e ciente de que o empregador n\u00e3o pretende renovar o contrato, ela informa que se encontra gr\u00e1vida de 6 semanas.\n\n A respeito do caso proposto, de acordo com o entendimento do TST, assinale a afirmativa correta.",
+        "areas": [
+            "LABOUR"
+        ]
+    }
+]

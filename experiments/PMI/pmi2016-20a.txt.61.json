@@ -1,1 +1,55 @@
-[{"enum": "Hugo estava dentro de seu autom\u00f3vel esperando a namorada, quando foi abordado por dois policiais militares. Os policiais exigiram a sa\u00edda de Hugo do autom\u00f3vel e sua identifica\u00e7\u00e3o, que atendeu \u00e0 determina\u00e7\u00e3o. Ap\u00f3s revista pessoal e no carro, e nada de ilegal ter sido encontrado, os agentes da lei afirmaram que Hugo deveria acompanh\u00e1-los \u00e0 Delegacia para que fosse feita uma averigua\u00e7\u00e3o, inclusive para ver se havia mandado de pris\u00e3o contra ele. Ap\u00f3s recusa de Hugo, os policiais tentaram algem\u00e1-lo, mas ele n\u00e3o aceitou.\n\n Considerando apenas as informa\u00e7\u00f5es expostas, \u00e9 correto afirmar que a conduta de Hugo", "filename": "2016-20a.txt", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "text": "configura situa\u00e7\u00e3o at\u00edpica.", "correct": true, "letter": "A"}, {"pmi": [-0.05448829451430545, 0.0, 0.0, 0.0], "text": "configura o crime de resist\u00eancia.", "correct": null, "letter": "B"}, {"pmi": [-0.05448829451430545, 0.0, 0.0, 0.0], "text": "configura o crime de desobedi\u00eancia.", "correct": null, "letter": "C"}, {"pmi": [-0.05448829451430545, 0.0, 0.0, 0.0], "text": "configura o crime de desacato.", "correct": null, "letter": "D"}], "valid": true, "areas": [], "number": "61"}]
+[
+    {
+        "enum": "Hugo estava dentro de seu autom\u00f3vel esperando a namorada, quando foi abordado por dois policiais militares. Os policiais exigiram a sa\u00edda de Hugo do autom\u00f3vel e sua identifica\u00e7\u00e3o, que atendeu \u00e0 determina\u00e7\u00e3o. Ap\u00f3s revista pessoal e no carro, e nada de ilegal ter sido encontrado, os agentes da lei afirmaram que Hugo deveria acompanh\u00e1-los \u00e0 Delegacia para que fosse feita uma averigua\u00e7\u00e3o, inclusive para ver se havia mandado de pris\u00e3o contra ele. Ap\u00f3s recusa de Hugo, os policiais tentaram algem\u00e1-lo, mas ele n\u00e3o aceitou.\n\n Considerando apenas as informa\u00e7\u00f5es expostas, \u00e9 correto afirmar que a conduta de Hugo",
+        "filename": "2016-20a.txt",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "configura situa\u00e7\u00e3o at\u00edpica.",
+                "correct": true,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.05448829451430545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "configura o crime de resist\u00eancia.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.05448829451430545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "configura o crime de desobedi\u00eancia.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.05448829451430545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "configura o crime de desacato.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [],
+        "number": "61"
+    }
+]

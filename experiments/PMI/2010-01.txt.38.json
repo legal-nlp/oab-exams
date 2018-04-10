@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Considere que Laura, menor absolutamente incapaz, representada por sua m\u00e3e, aju\u00edze a\u00e7\u00e3o de investiga\u00e7\u00e3o de paternidade no foro de seu domic\u00edlio. Nessa situa\u00e7\u00e3o hipot\u00e9tica, caso more em outro estado da Federa\u00e7\u00e3o, o r\u00e9u poder\u00e1", "filename": "2010-01.txt", "number": "38", "options": [{"correct": null, "letter": "A", "text": "apenas contestar a a\u00e7\u00e3o, visto que a compet\u00eancia para o conhecimento da a\u00e7\u00e3o, nessa hip\u00f3tese, \u00e9 do foro do domic\u00edlio de Laura, haja vista ser absolutamente incapaz."}, {"correct": null, "letter": "B", "text": "alegar a incompet\u00eancia do ju\u00edzo, mediante simples peti\u00e7\u00e3o, a qualquer tempo, independentemente de exce\u00e7\u00e3o, haja vista tratar-se de incompet\u00eancia absoluta."}, {"correct": true, "letter": "C", "text": "apresentar exce\u00e7\u00e3o de incompet\u00eancia de ju\u00edzo, no prazo da resposta, uma vez que a compet\u00eancia para o conhecimento da a\u00e7\u00e3o, nesse caso, \u00e9 do foro do domic\u00edlio do r\u00e9u."}, {"correct": null, "letter": "D", "text": "apresentar exce\u00e7\u00e3o de incompet\u00eancia de ju\u00edzo, a qualquer tempo, desde que o fa\u00e7a antes da senten\u00e7a, visto que a compet\u00eancia, na referida hip\u00f3tese, \u00e9 do foro do domic\u00edlio do r\u00e9u."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Considere que Laura, menor absolutamente incapaz, representada por sua m\u00e3e, aju\u00edze a\u00e7\u00e3o de investiga\u00e7\u00e3o de paternidade no foro de seu domic\u00edlio. Nessa situa\u00e7\u00e3o hipot\u00e9tica, caso more em outro estado da Federa\u00e7\u00e3o, o r\u00e9u poder\u00e1",
+        "filename": "2010-01.txt",
+        "number": "38",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "apenas contestar a a\u00e7\u00e3o, visto que a compet\u00eancia para o conhecimento da a\u00e7\u00e3o, nessa hip\u00f3tese, \u00e9 do foro do domic\u00edlio de Laura, haja vista ser absolutamente incapaz."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "alegar a incompet\u00eancia do ju\u00edzo, mediante simples peti\u00e7\u00e3o, a qualquer tempo, independentemente de exce\u00e7\u00e3o, haja vista tratar-se de incompet\u00eancia absoluta."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "apresentar exce\u00e7\u00e3o de incompet\u00eancia de ju\u00edzo, no prazo da resposta, uma vez que a compet\u00eancia para o conhecimento da a\u00e7\u00e3o, nesse caso, \u00e9 do foro do domic\u00edlio do r\u00e9u."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "apresentar exce\u00e7\u00e3o de incompet\u00eancia de ju\u00edzo, a qualquer tempo, desde que o fa\u00e7a antes da senten\u00e7a, visto que a compet\u00eancia, na referida hip\u00f3tese, \u00e9 do foro do domic\u00edlio do r\u00e9u."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "areas": ["CONSTITUTIONAL"], "valid": true, "options": [{"pmi": [-0.09581104532740944, 0.0, 0.0, 0.0], "correct": null, "text": "Os deputados federais e os senadores, todos eles eleitos pelo sistema majorit\u00e1rio, representam o povo dos seus respectivos estados.", "letter": "A"}, {"pmi": [-0.236617144921473, 0.0, 0.0, 0.0], "correct": null, "text": "A cria\u00e7\u00e3o de cargos p\u00fablicos no \u00e2mbito das casas do Congresso Nacional deve ser feita por meio de lei ordin\u00e1ria.", "letter": "B"}, {"pmi": [-0.11635666929980547, 0.0, 0.0, 0.0], "correct": true, "text": "Os deputados federais e os senadores n\u00e3o podem assumir cargo de confian\u00e7a na dire\u00e7\u00e3o de empresas p\u00fablicas ou sociedades de economia mista da Uni\u00e3o.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Desde a expedi\u00e7\u00e3o do diploma, deputados federais e senadores est\u00e3o sujeitos a julgamento perante o STF, o qual, ao receber a den\u00fancia contra congressista, dever\u00e1 solicitar autoriza\u00e7\u00e3o \u00e0 respectiva Casa para prosseguir com a a\u00e7\u00e3o penal.", "letter": "D"}], "enum": "Com rela\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o do Poder Legislativo e ao regime jur\u00eddico constitucional dos congressistas, assinale a op\u00e7\u00e3o correta.", "number": "16"}]
+[
+    {
+        "filename": "2010-01.txt",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.09581104532740944,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Os deputados federais e os senadores, todos eles eleitos pelo sistema majorit\u00e1rio, representam o povo dos seus respectivos estados.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.236617144921473,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A cria\u00e7\u00e3o de cargos p\u00fablicos no \u00e2mbito das casas do Congresso Nacional deve ser feita por meio de lei ordin\u00e1ria.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.11635666929980547,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Os deputados federais e os senadores n\u00e3o podem assumir cargo de confian\u00e7a na dire\u00e7\u00e3o de empresas p\u00fablicas ou sociedades de economia mista da Uni\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Desde a expedi\u00e7\u00e3o do diploma, deputados federais e senadores est\u00e3o sujeitos a julgamento perante o STF, o qual, ao receber a den\u00fancia contra congressista, dever\u00e1 solicitar autoriza\u00e7\u00e3o \u00e0 respectiva Casa para prosseguir com a a\u00e7\u00e3o penal.",
+                "letter": "D"
+            }
+        ],
+        "enum": "Com rela\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o do Poder Legislativo e ao regime jur\u00eddico constitucional dos congressistas, assinale a op\u00e7\u00e3o correta.",
+        "number": "16"
+    }
+]

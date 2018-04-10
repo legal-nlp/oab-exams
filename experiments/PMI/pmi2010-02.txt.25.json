@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "text": "Trata-se de modo origin\u00e1rio de aquisi\u00e7\u00e3o da propriedade.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Trata-se de modo origin\u00e1rio de aquisi\u00e7\u00e3o da posse.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Representa uma tradi\u00e7\u00e3o ficta.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "\u00c9 imprescind\u00edvel para que se opere a transfer\u00eancia da posse aos herdeiros na sucess\u00e3o universal.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}], "filename": "2010-02.txt", "number": "25", "valid": true, "enum": "Sobre o constituto possess\u00f3rio, assinale a alternativa correta.", "areas": ["CIVIL"]}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "text": "Trata-se de modo origin\u00e1rio de aquisi\u00e7\u00e3o da propriedade.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Trata-se de modo origin\u00e1rio de aquisi\u00e7\u00e3o da posse.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Representa uma tradi\u00e7\u00e3o ficta.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "\u00c9 imprescind\u00edvel para que se opere a transfer\u00eancia da posse aos herdeiros na sucess\u00e3o universal.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2010-02.txt",
+        "number": "25",
+        "valid": true,
+        "enum": "Sobre o constituto possess\u00f3rio, assinale a alternativa correta.",
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

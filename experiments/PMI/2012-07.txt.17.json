@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Em caso de vac\u00e2ncia dos cargos de Presidente da Rep\u00fablica e Vice-Presidente da Rep\u00fablica no pen\u00faltimo ano de mandato,", "filename": "2012-07.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo."}, {"correct": null, "letter": "B", "text": "o Presidente do Senado Federal assume definitivamente o cargo."}, {"correct": null, "letter": "C", "text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta."}, {"correct": true, "letter": "D", "text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Em caso de vac\u00e2ncia dos cargos de Presidente da Rep\u00fablica e Vice-Presidente da Rep\u00fablica no pen\u00faltimo ano de mandato,",
+        "filename": "2012-07.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o Presidente do Senado Federal assume definitivamente o cargo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional."
+            }
+        ],
+        "valid": true
+    }
+]

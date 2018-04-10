@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "pmi": [-0.15523893327213004, 0.0, 0.0, 0.0], "letter": "A", "text": "equivocado, pois h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta somente na eventualidade de vac\u00e2ncia do cargo de Presidente da Rep\u00fablica nos \u00faltimos seis meses do seu mandato."}, {"correct": null, "pmi": [-0.12829288194031951, 0.0, 0.0, 0.0], "letter": "B", "text": "correto, pois, sendo o voto direto cl\u00e1usula p\u00e9trea prevista na Constitui\u00e7\u00e3o, n\u00e3o pode haver situa\u00e7\u00e3o constitucional que possibilite o uso do voto indireto."}, {"correct": true, "pmi": [-0.22938315160363204, 0.00015535693485772535, 0.0, 0.0], "letter": "C", "text": "equivocado, pois h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta no caso de vac\u00e2ncia dos cargos de Presidente e Vice-presidente da Rep\u00fablica nos \u00faltimos dois anos do mandato."}, {"correct": null, "pmi": [-0.2478353393626102, 0.0, 0.0, 0.0], "letter": "D", "text": "correto, pois n\u00e3o h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta em caso de vac\u00e2ncia, j\u00e1 que o cargo de Presidente da Rep\u00fablica viria a ser ocupado pelo Presidente da C\u00e2mara dos Deputados."}], "valid": true, "areas": ["CONSTITUTIONAL"], "filename": "2015-18.txt", "number": "15", "enum": "Ao proferir um discurso em sua cidade natal, Jos\u00e9, deputado federal pelo Estado E, afirma, de forma contundente, que um pa\u00eds democr\u00e1tico tem por regra inviol\u00e1vel escolher o chefe do Poder Executivo por meio de elei\u00e7\u00f5es diretas. Complementa sua fala afirmando que o Brasil poderia ser considerado um pa\u00eds democr\u00e1tico, j\u00e1 que a Constitui\u00e7\u00e3o Cidad\u00e3 de 1988 n\u00e3o prev\u00ea elei\u00e7\u00e3o de Presidente pela via indireta.\n\n Segundo a Constitui\u00e7\u00e3o da Rep\u00fablica, o deputado est\u00e1"}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.15523893327213004,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "equivocado, pois h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta somente na eventualidade de vac\u00e2ncia do cargo de Presidente da Rep\u00fablica nos \u00faltimos seis meses do seu mandato."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.12829288194031951,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "correto, pois, sendo o voto direto cl\u00e1usula p\u00e9trea prevista na Constitui\u00e7\u00e3o, n\u00e3o pode haver situa\u00e7\u00e3o constitucional que possibilite o uso do voto indireto."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.22938315160363204,
+                    0.00015535693485772535,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "equivocado, pois h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta no caso de vac\u00e2ncia dos cargos de Presidente e Vice-presidente da Rep\u00fablica nos \u00faltimos dois anos do mandato."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.2478353393626102,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "correto, pois n\u00e3o h\u00e1 previs\u00e3o de elei\u00e7\u00e3o indireta em caso de vac\u00e2ncia, j\u00e1 que o cargo de Presidente da Rep\u00fablica viria a ser ocupado pelo Presidente da C\u00e2mara dos Deputados."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2015-18.txt",
+        "number": "15",
+        "enum": "Ao proferir um discurso em sua cidade natal, Jos\u00e9, deputado federal pelo Estado E, afirma, de forma contundente, que um pa\u00eds democr\u00e1tico tem por regra inviol\u00e1vel escolher o chefe do Poder Executivo por meio de elei\u00e7\u00f5es diretas. Complementa sua fala afirmando que o Brasil poderia ser considerado um pa\u00eds democr\u00e1tico, j\u00e1 que a Constitui\u00e7\u00e3o Cidad\u00e3 de 1988 n\u00e3o prev\u00ea elei\u00e7\u00e3o de Presidente pela via indireta.\n\n Segundo a Constitui\u00e7\u00e3o da Rep\u00fablica, o deputado est\u00e1"
+    }
+]

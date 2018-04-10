@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "J\u00falia, que est\u00e1 desempregada, n\u00e3o conseguiu pagar a tarifa de energia el\u00e9trica de sua resid\u00eancia, referente ao m\u00eas de janeiro de 2010. Por esse motivo, o fornecimento de energia foi suspenso por ordem da diretoria da concession\u00e1ria de energia el\u00e9trica, sociedade de economia mista.\n\n Considerando essa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "57", "options": [{"correct": null, "letter": "A", "text": "O fornecimento de energia el\u00e9trica \u00e0 resid\u00eancia de J\u00falia n\u00e3o poderia ter sido suspenso em raz\u00e3o do inadimplemento, visto que, conforme entendimento do STJ, constitui servi\u00e7o p\u00fablico essencial."}, {"correct": true, "letter": "B", "text": "A lei de reg\u00eancia autoriza a suspens\u00e3o do servi\u00e7o desde que haja pr\u00e9via notifica\u00e7\u00e3o do usu\u00e1rio."}, {"correct": null, "letter": "C", "text": "Lei estadual poderia, de forma constitucional, criar isen\u00e7\u00e3o dessa tarifa, nos casos de impossibilidade material de seu pagamento, como no caso do desemprego do usu\u00e1rio."}, {"correct": null, "letter": "D", "text": "N\u00e3o caberia mandado de seguran\u00e7a contra o ato da diretoria da concession\u00e1ria, porque ela n\u00e3o \u00e9 autoridade p\u00fablica."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "J\u00falia, que est\u00e1 desempregada, n\u00e3o conseguiu pagar a tarifa de energia el\u00e9trica de sua resid\u00eancia, referente ao m\u00eas de janeiro de 2010. Por esse motivo, o fornecimento de energia foi suspenso por ordem da diretoria da concession\u00e1ria de energia el\u00e9trica, sociedade de economia mista.\n\n Considerando essa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "57",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O fornecimento de energia el\u00e9trica \u00e0 resid\u00eancia de J\u00falia n\u00e3o poderia ter sido suspenso em raz\u00e3o do inadimplemento, visto que, conforme entendimento do STJ, constitui servi\u00e7o p\u00fablico essencial."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "A lei de reg\u00eancia autoriza a suspens\u00e3o do servi\u00e7o desde que haja pr\u00e9via notifica\u00e7\u00e3o do usu\u00e1rio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Lei estadual poderia, de forma constitucional, criar isen\u00e7\u00e3o dessa tarifa, nos casos de impossibilidade material de seu pagamento, como no caso do desemprego do usu\u00e1rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "N\u00e3o caberia mandado de seguran\u00e7a contra o ato da diretoria da concession\u00e1ria, porque ela n\u00e3o \u00e9 autoridade p\u00fablica."
+            }
+        ],
+        "valid": true
+    }
+]

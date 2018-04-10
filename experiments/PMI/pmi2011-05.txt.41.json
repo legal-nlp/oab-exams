@@ -1,1 +1,57 @@
-[{"valid": true, "number": "41", "options": [{"correct": null, "pmi": [-0.784795982936537, 0.0, 0.0, 0.0], "text": "caso a peti\u00e7\u00e3o inicial se ache desacompanhada do t\u00edtulo executivo, dever\u00e1 ser indeferida de plano, n\u00e3o se admitindo prazo para corre\u00e7\u00e3o, dada a natureza sum\u00e1ria das a\u00e7\u00f5es executivas.", "letter": "A"}, {"correct": null, "pmi": [-0.3837703117341225, 0.0, 0.0, 0.0], "text": "caber\u00e1 ao devedor indicar a esp\u00e9cie de execu\u00e7\u00e3o que prefere, quando de mais de um modo puder ser efetuada.", "letter": "B"}, {"correct": true, "pmi": [-0.2258865799188944, 0.0, 0.0, 0.0], "text": "dever\u00e1 ser extinta se o t\u00edtulo n\u00e3o corresponder a obriga\u00e7\u00e3o certa, l\u00edquida e exig\u00edvel.", "letter": "C"}, {"correct": null, "pmi": [-0.1453762765988271, 0.0, 0.0, 0.0], "text": "cabe ao devedor provar que o credor n\u00e3o adimpliu a contrapresta\u00e7\u00e3o, quando a satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o do executado estiver condicionada \u00e0 realiza\u00e7\u00e3o daquela.", "letter": "D"}], "enum": "Considerando a a\u00e7\u00e3o de execu\u00e7\u00e3o de t\u00edtulo extrajudicial, \u00e9 correto afirmar que", "areas": ["CIVIL-PROCEDURE"], "filename": "2011-05.txt"}]
+[
+    {
+        "valid": true,
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.784795982936537,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "caso a peti\u00e7\u00e3o inicial se ache desacompanhada do t\u00edtulo executivo, dever\u00e1 ser indeferida de plano, n\u00e3o se admitindo prazo para corre\u00e7\u00e3o, dada a natureza sum\u00e1ria das a\u00e7\u00f5es executivas.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.3837703117341225,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "caber\u00e1 ao devedor indicar a esp\u00e9cie de execu\u00e7\u00e3o que prefere, quando de mais de um modo puder ser efetuada.",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.2258865799188944,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "dever\u00e1 ser extinta se o t\u00edtulo n\u00e3o corresponder a obriga\u00e7\u00e3o certa, l\u00edquida e exig\u00edvel.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.1453762765988271,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "cabe ao devedor provar que o credor n\u00e3o adimpliu a contrapresta\u00e7\u00e3o, quando a satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o do executado estiver condicionada \u00e0 realiza\u00e7\u00e3o daquela.",
+                "letter": "D"
+            }
+        ],
+        "enum": "Considerando a a\u00e7\u00e3o de execu\u00e7\u00e3o de t\u00edtulo extrajudicial, \u00e9 correto afirmar que",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "filename": "2011-05.txt"
+    }
+]

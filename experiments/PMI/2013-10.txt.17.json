@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Preocupado com a concorr\u00eancia de eletrodom\u00e9sticos produzidos na China e com o saldo da balan\u00e7a comercial, o Presidente da Rep\u00fablica, no dia 1\u00ba de abril, editou medida provis\u00f3ria determinando o aumento da al\u00edquota do imposto sobre produtos industrializados (IPI) para os produtos provenientes daquele pa\u00eds. Entretanto, passados 30 (trinta) dias, o Congresso Nacional rejeitou a medida provis\u00f3ria, n\u00e3o a convertendo em lei.\n\n Com base no caso acima, assinale a afirmativa correta.", "filename": "2013-10.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, perfazendo o total de 60 (sessenta) dias."}, {"correct": null, "letter": "B", "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, per\u00edodo no qual poder\u00e1 haver nova tentativa de convers\u00e3o em lei."}, {"correct": null, "letter": "C", "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, cabendo ao Presidente da Rep\u00fablica, caso haja interesse, reedit\u00e1-la imediatamente."}, {"correct": true, "letter": "D", "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, devendo o Congresso Nacional disciplinar, por decreto legislativo, as rela\u00e7\u00f5es jur\u00eddicas dela decorrentes."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Preocupado com a concorr\u00eancia de eletrodom\u00e9sticos produzidos na China e com o saldo da balan\u00e7a comercial, o Presidente da Rep\u00fablica, no dia 1\u00ba de abril, editou medida provis\u00f3ria determinando o aumento da al\u00edquota do imposto sobre produtos industrializados (IPI) para os produtos provenientes daquele pa\u00eds. Entretanto, passados 30 (trinta) dias, o Congresso Nacional rejeitou a medida provis\u00f3ria, n\u00e3o a convertendo em lei.\n\n Com base no caso acima, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, perfazendo o total de 60 (sessenta) dias."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, per\u00edodo no qual poder\u00e1 haver nova tentativa de convers\u00e3o em lei."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, cabendo ao Presidente da Rep\u00fablica, caso haja interesse, reedit\u00e1-la imediatamente."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, devendo o Congresso Nacional disciplinar, por decreto legislativo, as rela\u00e7\u00f5es jur\u00eddicas dela decorrentes."
+            }
+        ],
+        "valid": true
+    }
+]

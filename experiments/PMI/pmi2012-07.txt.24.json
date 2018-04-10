@@ -1,1 +1,57 @@
-[{"areas": ["INTERNATIONAL"], "number": "24", "options": [{"letter": "A", "pmi": [-0.17361886644534616, 0.0, 0.0, 0.0], "text": "tem compet\u00eancia concorrente porque o acidente ocorreu em territ\u00f3rio brasileiro.", "correct": true}, {"letter": "B", "pmi": [-0.20711799789513508, 0.0, 0.0, 0.0], "text": "n\u00e3o tem compet\u00eancia concorrente porque o r\u00e9u \u00e9 empresa estrangeira que n\u00e3o opera no Brasil.", "correct": null}, {"letter": "C", "pmi": [-0.1528063739944268, 0.0, 0.0, 0.0], "text": "n\u00e3o tem compet\u00eancia, absoluta ou relativa, e dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a americana.", "correct": null}, {"letter": "D", "pmi": [-0.11858898242066178, 0.0, 0.0, 0.0], "text": "tem compet\u00eancia concorrente porque a v\u00edtima tinha nacionalidade brasileira.", "correct": null}], "filename": "2012-07.txt", "valid": true, "enum": "Um jato privado, pertencente a uma empresa norte-americana, se envolve em um incidente que resulta na queda de uma aeronave comercial brasileira em territ\u00f3rio brasileiro, provocando dezenas de mortes. A fam\u00edlia de uma das v\u00edtimas brasileiras inicia uma a\u00e7\u00e3o no Brasil contra a empresa norte-americana, pedindo danos materiais e morais.  A empresa norte-americana alega que a compet\u00eancia para julgar o caso \u00e9 da justi\u00e7a americana.\n\n Segundo o direito brasileiro, o juiz brasileiro"}]
+[
+    {
+        "areas": [
+            "INTERNATIONAL"
+        ],
+        "number": "24",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.17361886644534616,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "tem compet\u00eancia concorrente porque o acidente ocorreu em territ\u00f3rio brasileiro.",
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.20711799789513508,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o tem compet\u00eancia concorrente porque o r\u00e9u \u00e9 empresa estrangeira que n\u00e3o opera no Brasil.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.1528063739944268,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o tem compet\u00eancia, absoluta ou relativa, e dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a americana.",
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.11858898242066178,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "tem compet\u00eancia concorrente porque a v\u00edtima tinha nacionalidade brasileira.",
+                "correct": null
+            }
+        ],
+        "filename": "2012-07.txt",
+        "valid": true,
+        "enum": "Um jato privado, pertencente a uma empresa norte-americana, se envolve em um incidente que resulta na queda de uma aeronave comercial brasileira em territ\u00f3rio brasileiro, provocando dezenas de mortes. A fam\u00edlia de uma das v\u00edtimas brasileiras inicia uma a\u00e7\u00e3o no Brasil contra a empresa norte-americana, pedindo danos materiais e morais.  A empresa norte-americana alega que a compet\u00eancia para julgar o caso \u00e9 da justi\u00e7a americana.\n\n Segundo o direito brasileiro, o juiz brasileiro"
+    }
+]

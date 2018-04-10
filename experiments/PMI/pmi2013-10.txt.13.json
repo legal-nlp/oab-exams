@@ -1,1 +1,57 @@
-[{"enum": "A Constitui\u00e7\u00e3o brasileira n\u00e3o pode ser emendada", "valid": true, "options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "na implanta\u00e7\u00e3o do estado de emerg\u00eancia e durante a interven\u00e7\u00e3o da Uni\u00e3o nos Estados.", "correct": null}, {"letter": "B", "pmi": [0.03828596821977477, 0.0, 0.0, 0.0], "text": "na vig\u00eancia do estado de s\u00edtio e na implanta\u00e7\u00e3o do estado de emerg\u00eancia.", "correct": null}, {"letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "quando em estado de s\u00edtio e durante a interven\u00e7\u00e3o da Uni\u00e3o nos Munic\u00edpios.", "correct": null}, {"letter": "D", "pmi": [-0.421678412677337, 0.0, 0.0, 0.0], "text": "na vig\u00eancia de estado de defesa, de estado de s\u00edtio e de interven\u00e7\u00e3o federal.", "correct": true}], "areas": ["CONSTITUTIONAL"], "filename": "2013-10.txt", "number": "13"}]
+[
+    {
+        "enum": "A Constitui\u00e7\u00e3o brasileira n\u00e3o pode ser emendada",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "na implanta\u00e7\u00e3o do estado de emerg\u00eancia e durante a interven\u00e7\u00e3o da Uni\u00e3o nos Estados.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.03828596821977477,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "na vig\u00eancia do estado de s\u00edtio e na implanta\u00e7\u00e3o do estado de emerg\u00eancia.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "quando em estado de s\u00edtio e durante a interven\u00e7\u00e3o da Uni\u00e3o nos Munic\u00edpios.",
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.421678412677337,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "na vig\u00eancia de estado de defesa, de estado de s\u00edtio e de interven\u00e7\u00e3o federal.",
+                "correct": true
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2013-10.txt",
+        "number": "13"
+    }
+]

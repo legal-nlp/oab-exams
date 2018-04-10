@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.14733693109195456, 0.0, 0.0, 0.0], "text": "n\u00e3o merece reforma, na medida em que Jos\u00e9 deve responder com todo o seu patrim\u00f4nio, independentemente do preju\u00edzo causado pelos atos de improbidade que lhe s\u00e3o imputados.", "correct": null, "letter": "A"}, {"pmi": [-0.13685377399690585, 0.0, 0.0, 0.0], "text": "deve ser reformada, considerando que somente podem ser objeto da cautelar os bens adquiridos depois da pr\u00e1tica dos atos de improbidade imputados a Jos\u00e9.", "correct": null, "letter": "B"}, {"pmi": [-0.17462111851692458, 0.0, 0.0, 0.0], "text": "deve ser reformada, pois n\u00e3o \u00e9 poss\u00edvel, por aus\u00eancia de previs\u00e3o legal, a determina\u00e7\u00e3o de tal medida cautelar em a\u00e7\u00f5es civis p\u00fablicas por ato de improbidade.", "correct": null, "letter": "C"}, {"pmi": [-0.054850123659317206, 0.0, 0.0, 0.0], "text": "deve ser reformada, porquanto a cautelar somente pode atingir tantos bens quantos bastassem para garantir as consequ\u00eancias financeiras dos atos de improbidade imputados a Jos\u00e9.", "correct": true, "letter": "D"}], "filename": "2017-24.txt", "enum": "Em a\u00e7\u00e3o civil p\u00fablica por atos de improbidade que causaram preju\u00edzo ao er\u00e1rio, ajuizada em desfavor de Jos\u00e9, servidor p\u00fablico estadual est\u00e1vel, o Ju\u00edzo de 1\u00ba grau, ap\u00f3s os devidos tr\u00e2mites, determinou a indisponibilidade de todos os bens do demandado, cujo patrim\u00f4nio \u00e9 superior aos danos e \u00e0s demais imputa\u00e7\u00f5es que constam na inicial.\n\n Apresentado o recurso pertinente, observa-se que a aludida decis\u00e3o", "number": "29", "areas": [null], "valid": true}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.14733693109195456,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o merece reforma, na medida em que Jos\u00e9 deve responder com todo o seu patrim\u00f4nio, independentemente do preju\u00edzo causado pelos atos de improbidade que lhe s\u00e3o imputados.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.13685377399690585,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deve ser reformada, considerando que somente podem ser objeto da cautelar os bens adquiridos depois da pr\u00e1tica dos atos de improbidade imputados a Jos\u00e9.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.17462111851692458,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deve ser reformada, pois n\u00e3o \u00e9 poss\u00edvel, por aus\u00eancia de previs\u00e3o legal, a determina\u00e7\u00e3o de tal medida cautelar em a\u00e7\u00f5es civis p\u00fablicas por ato de improbidade.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.054850123659317206,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deve ser reformada, porquanto a cautelar somente pode atingir tantos bens quantos bastassem para garantir as consequ\u00eancias financeiras dos atos de improbidade imputados a Jos\u00e9.",
+                "correct": true,
+                "letter": "D"
+            }
+        ],
+        "filename": "2017-24.txt",
+        "enum": "Em a\u00e7\u00e3o civil p\u00fablica por atos de improbidade que causaram preju\u00edzo ao er\u00e1rio, ajuizada em desfavor de Jos\u00e9, servidor p\u00fablico estadual est\u00e1vel, o Ju\u00edzo de 1\u00ba grau, ap\u00f3s os devidos tr\u00e2mites, determinou a indisponibilidade de todos os bens do demandado, cujo patrim\u00f4nio \u00e9 superior aos danos e \u00e0s demais imputa\u00e7\u00f5es que constam na inicial.\n\n Apresentado o recurso pertinente, observa-se que a aludida decis\u00e3o",
+        "number": "29",
+        "areas": [
+            null
+        ],
+        "valid": true
+    }
+]

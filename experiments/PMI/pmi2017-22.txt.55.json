@@ -1,1 +1,57 @@
-[{"filename": "2017-22.txt", "valid": true, "areas": [null], "number": "55", "enum": "Jo\u00e3o ajuizou a\u00e7\u00e3o indenizat\u00f3ria contra Maria, postulando a condena\u00e7\u00e3o ao pagamento de R$ 100.000,00 a t\u00edtulo de repara\u00e7\u00e3o por danos materiais e R$ 000,00 por indeniza\u00e7\u00e3o de danos morais, em raz\u00e3o do descumprimento de um contrato firmado entre eles, referente \u00e0 compra e venda de dois im\u00f3veis, cujos valores eram R$ 500.000,00 e R$ 200.000,00.  Maria, citada, apresentou contesta\u00e7\u00e3o e reconven\u00e7\u00e3o, pedindo a declara\u00e7\u00e3o de invalidade parcial do contrato relativo ao im\u00f3vel de R$ 200.000,00, bem como a condena\u00e7\u00e3o de Jo\u00e3o ao pagamento de indeniza\u00e7\u00e3o por danos morais, no valor de R$ 20.000,00.\n\n Diante de tal situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o que apresenta o valor da causa da reconven\u00e7\u00e3o.", "options": [{"letter": "A", "pmi": [-1.4596652545786475, 0.0, 0.0, 0.0], "correct": null, "text": "O valor deve ser o mesmo da a\u00e7\u00e3o principal, qual seja, R$ 150.000,00, por ser a\u00e7\u00e3o acess\u00f3ria."}, {"letter": "B", "pmi": [-0.4127640239158882, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o \u00e9 necess\u00e1rio dar valor \u00e0 causa na reconven\u00e7\u00e3o."}, {"letter": "C", "pmi": [-0.8277169979541282, 0.0, 0.0, 0.0], "correct": true, "text": "O valor deve ser de R$ 220.000,00, referente \u00e0 soma do pedido de declara\u00e7\u00e3o de invalidade parcial do contrato e do pleito de indeniza\u00e7\u00e3o por danos morais."}, {"letter": "D", "pmi": [-0.7635731623525853, 0.0, 0.0, 0.0], "correct": null, "text": "O valor deve ser de R$ 200.000,00, referente ao pedido de declara\u00e7\u00e3o de invalidade parcial do contrato, sendo o pleito de indeniza\u00e7\u00e3o por danos morais meramente estimado, dispensando a indica\u00e7\u00e3o como valor da causa."}]}]
+[
+    {
+        "filename": "2017-22.txt",
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "number": "55",
+        "enum": "Jo\u00e3o ajuizou a\u00e7\u00e3o indenizat\u00f3ria contra Maria, postulando a condena\u00e7\u00e3o ao pagamento de R$ 100.000,00 a t\u00edtulo de repara\u00e7\u00e3o por danos materiais e R$ 000,00 por indeniza\u00e7\u00e3o de danos morais, em raz\u00e3o do descumprimento de um contrato firmado entre eles, referente \u00e0 compra e venda de dois im\u00f3veis, cujos valores eram R$ 500.000,00 e R$ 200.000,00.  Maria, citada, apresentou contesta\u00e7\u00e3o e reconven\u00e7\u00e3o, pedindo a declara\u00e7\u00e3o de invalidade parcial do contrato relativo ao im\u00f3vel de R$ 200.000,00, bem como a condena\u00e7\u00e3o de Jo\u00e3o ao pagamento de indeniza\u00e7\u00e3o por danos morais, no valor de R$ 20.000,00.\n\n Diante de tal situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o que apresenta o valor da causa da reconven\u00e7\u00e3o.",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -1.4596652545786475,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O valor deve ser o mesmo da a\u00e7\u00e3o principal, qual seja, R$ 150.000,00, por ser a\u00e7\u00e3o acess\u00f3ria."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.4127640239158882,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o \u00e9 necess\u00e1rio dar valor \u00e0 causa na reconven\u00e7\u00e3o."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.8277169979541282,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O valor deve ser de R$ 220.000,00, referente \u00e0 soma do pedido de declara\u00e7\u00e3o de invalidade parcial do contrato e do pleito de indeniza\u00e7\u00e3o por danos morais."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.7635731623525853,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O valor deve ser de R$ 200.000,00, referente ao pedido de declara\u00e7\u00e3o de invalidade parcial do contrato, sendo o pleito de indeniza\u00e7\u00e3o por danos morais meramente estimado, dispensando a indica\u00e7\u00e3o como valor da causa."
+            }
+        ]
+    }
+]

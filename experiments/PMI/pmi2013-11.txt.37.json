@@ -1,1 +1,57 @@
-[{"filename": "2013-11.txt", "valid": true, "enum": "Visando ampliar sua linha de com\u00e9rcio, Mac Geral & Companhia adquiriu de AC Industrial S.A. mil unidades do equipamento destinado \u00e0 fabrica\u00e7\u00e3o de churros. Dentre as cl\u00e1usulas contratuais firmadas pelas partes, fez-se inserir a obriga\u00e7\u00e3o de Mac Geral & Companhia  realizar o transporte dos equipamentos, exclusivamente e ao pre\u00e7o de R$100,00 por equipamento, por meio de Rota Transportes Ltda., pessoa estranha ao instrumento contratual assinado.\n\n Com rela\u00e7\u00e3o aos contratos civis, assinale a afirmativa incorreta.", "areas": ["CIVIL"], "number": "37", "options": [{"correct": null, "pmi": [-0.32473792083847103, 0.0, 0.0, 0.0], "letter": "A", "text": "AC Industrial S.A. poder\u00e1 exigir de Mac Geral & Companhia o cumprimento da obriga\u00e7\u00e3o firmada em favor de Rota Transportes Ltda."}, {"correct": null, "pmi": [-0.18014575755434215, 0.0, 0.0, 0.0], "letter": "B", "text": "Ao exigir o cumprimento da obriga\u00e7\u00e3o, Rota Transportes Ltda. dever\u00e1 efetuar o transporte ao pre\u00e7o previamente ajustado pelas partes contratantes."}, {"correct": true, "pmi": [-0.15908683565159776, 0.0, 0.0, 0.0], "letter": "C", "text": "Somente Rota Transportes Ltda. poder\u00e1 exigir o cumprimento da obriga\u00e7\u00e3o."}, {"correct": null, "pmi": [-0.30197675380505185, 0.0, 0.0, 0.0], "letter": "D", "text": "AC Industrial S/A poder\u00e1 reservar-se o direito de substituir Rota Transportes Ltda., independentemente de sua anu\u00eancia ou de Mac Geral & Companhia."}]}]
+[
+    {
+        "filename": "2013-11.txt",
+        "valid": true,
+        "enum": "Visando ampliar sua linha de com\u00e9rcio, Mac Geral & Companhia adquiriu de AC Industrial S.A. mil unidades do equipamento destinado \u00e0 fabrica\u00e7\u00e3o de churros. Dentre as cl\u00e1usulas contratuais firmadas pelas partes, fez-se inserir a obriga\u00e7\u00e3o de Mac Geral & Companhia  realizar o transporte dos equipamentos, exclusivamente e ao pre\u00e7o de R$100,00 por equipamento, por meio de Rota Transportes Ltda., pessoa estranha ao instrumento contratual assinado.\n\n Com rela\u00e7\u00e3o aos contratos civis, assinale a afirmativa incorreta.",
+        "areas": [
+            "CIVIL"
+        ],
+        "number": "37",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.32473792083847103,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "AC Industrial S.A. poder\u00e1 exigir de Mac Geral & Companhia o cumprimento da obriga\u00e7\u00e3o firmada em favor de Rota Transportes Ltda."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.18014575755434215,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Ao exigir o cumprimento da obriga\u00e7\u00e3o, Rota Transportes Ltda. dever\u00e1 efetuar o transporte ao pre\u00e7o previamente ajustado pelas partes contratantes."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.15908683565159776,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Somente Rota Transportes Ltda. poder\u00e1 exigir o cumprimento da obriga\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.30197675380505185,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "AC Industrial S/A poder\u00e1 reservar-se o direito de substituir Rota Transportes Ltda., independentemente de sua anu\u00eancia ou de Mac Geral & Companhia."
+            }
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Jo\u00e3o e Jos\u00e9, m\u00fasicos da famosa banda NXY, se desentenderam por causa de uma namorada. Jo\u00e3o se descontrolou e partiu para cima de Jos\u00e9, agredindo-o com socos e pontap\u00e9s, vindo a ser separado de sua v\u00edtima por policiais militares que passavam no local, e lhe deram voz de pris\u00e3o em flagrante. O exame de corpo de delito revelou que dois dedos da m\u00e3o esquerda do guitarrista Jos\u00e9 foram quebrados e o bra\u00e7o direito, luxado, ficando impossibilitado de tocar seu instrumento por 40 dias.\n\n Na hip\u00f3tese, trata-se de crime de a\u00e7\u00e3o penal", "filename": "2013-12.txt", "number": "68", "options": [{"correct": null, "letter": "A", "text": "privada propriamente dita."}, {"correct": null, "letter": "B", "text": "p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "privada subsidi\u00e1ria da p\u00fablica."}, {"correct": true, "letter": "D", "text": "p\u00fablica incondicionada."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Jo\u00e3o e Jos\u00e9, m\u00fasicos da famosa banda NXY, se desentenderam por causa de uma namorada. Jo\u00e3o se descontrolou e partiu para cima de Jos\u00e9, agredindo-o com socos e pontap\u00e9s, vindo a ser separado de sua v\u00edtima por policiais militares que passavam no local, e lhe deram voz de pris\u00e3o em flagrante. O exame de corpo de delito revelou que dois dedos da m\u00e3o esquerda do guitarrista Jos\u00e9 foram quebrados e o bra\u00e7o direito, luxado, ficando impossibilitado de tocar seu instrumento por 40 dias.\n\n Na hip\u00f3tese, trata-se de crime de a\u00e7\u00e3o penal",
+        "filename": "2013-12.txt",
+        "number": "68",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "privada propriamente dita."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "privada subsidi\u00e1ria da p\u00fablica."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "p\u00fablica incondicionada."
+            }
+        ],
+        "valid": true
+    }
+]

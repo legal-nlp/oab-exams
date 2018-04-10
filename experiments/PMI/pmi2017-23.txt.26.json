@@ -1,1 +1,57 @@
-[{"enum": "O Estado E publicou a Lei n\u00ba 123, instituindo anistia relativa \u00e0s infra\u00e7\u00f5es cometidas em determinada regi\u00e3o de seu territ\u00f3rio, em fun\u00e7\u00e3o de condi\u00e7\u00f5es a ela peculiares. Diante desse fato, o contribuinte C apresentou requerimento para a concess\u00e3o da anistia, comprovando o preenchimento das condi\u00e7\u00f5es e o cumprimento dos requisitos previstos em lei.  Efetivada a anistia por despacho da autoridade administrativa, verificou-se o descumprimento, por parte do contribuinte, das condi\u00e7\u00f5es estabelecidas em lei, gerando a revoga\u00e7\u00e3o da anistia de of\u00edcio.  Diante da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.", "options": [{"text": "A anistia institu\u00edda pela Lei n\u00ba 123 \u00e9 invi\u00e1vel, pois a anistia deve abranger todo o territ\u00f3rio da entidade tributante.", "correct": null, "letter": "A", "pmi": [-0.19084066125505694, 0.0, 0.0, 0.0]}, {"text": "N\u00e3o \u00e9 poss\u00edvel a revoga\u00e7\u00e3o da anistia, pois o preenchimento das condi\u00e7\u00f5es e o cumprimento dos requisitos previstos em lei, por parte do contribuinte, geram direito adquirido.", "correct": null, "letter": "B", "pmi": [-0.19114388258823697, 0.0, 0.0, 0.0]}, {"text": "A anistia institu\u00edda pela Lei n\u00ba 123 \u00e9 invi\u00e1vel, pois a anistia somente pode ser concedida em car\u00e1ter geral.", "correct": null, "letter": "C", "pmi": [-0.1631633648139636, 0.0, 0.0, 0.0]}, {"text": "\u00c9 poss\u00edvel a revoga\u00e7\u00e3o da anistia, pois o despacho da autoridade administrativa efetivando a anistia n\u00e3o gera direito adquirido.", "correct": true, "letter": "D", "pmi": [-0.03479848096172024, 0.0, 0.0, 0.0]}], "number": "26", "valid": true, "filename": "2017-23.txt", "areas": [null]}]
+[
+    {
+        "enum": "O Estado E publicou a Lei n\u00ba 123, instituindo anistia relativa \u00e0s infra\u00e7\u00f5es cometidas em determinada regi\u00e3o de seu territ\u00f3rio, em fun\u00e7\u00e3o de condi\u00e7\u00f5es a ela peculiares. Diante desse fato, o contribuinte C apresentou requerimento para a concess\u00e3o da anistia, comprovando o preenchimento das condi\u00e7\u00f5es e o cumprimento dos requisitos previstos em lei.  Efetivada a anistia por despacho da autoridade administrativa, verificou-se o descumprimento, por parte do contribuinte, das condi\u00e7\u00f5es estabelecidas em lei, gerando a revoga\u00e7\u00e3o da anistia de of\u00edcio.  Diante da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "A anistia institu\u00edda pela Lei n\u00ba 123 \u00e9 invi\u00e1vel, pois a anistia deve abranger todo o territ\u00f3rio da entidade tributante.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.19084066125505694,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "N\u00e3o \u00e9 poss\u00edvel a revoga\u00e7\u00e3o da anistia, pois o preenchimento das condi\u00e7\u00f5es e o cumprimento dos requisitos previstos em lei, por parte do contribuinte, geram direito adquirido.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.19114388258823697,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A anistia institu\u00edda pela Lei n\u00ba 123 \u00e9 invi\u00e1vel, pois a anistia somente pode ser concedida em car\u00e1ter geral.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.1631633648139636,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "\u00c9 poss\u00edvel a revoga\u00e7\u00e3o da anistia, pois o despacho da autoridade administrativa efetivando a anistia n\u00e3o gera direito adquirido.",
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.03479848096172024,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "26",
+        "valid": true,
+        "filename": "2017-23.txt",
+        "areas": [
+            null
+        ]
+    }
+]

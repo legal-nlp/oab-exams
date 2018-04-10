@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Marcelo, com 17 anos, e seu irm\u00e3o Caio, com 20 anos de idade, permanecem sozinhos na casa da fam\u00edlia, enquanto os pais viajam por 30 dias em f\u00e9rias no exterior. Durante tal per\u00edodo, Marcelo, que acabou de terminar o ensino m\u00e9dio, recebe uma excelente proposta de trabalho. Ao comparecer \u00e0 empresa para assinar o contrato de trabalho, Marcelo \u00e9 impedido pela falta de um respons\u00e1vel. Marcelo, ent\u00e3o, procura orienta\u00e7\u00e3o de um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a a\u00e7\u00e3o que dever\u00e1 ser ajuizada, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, para que o adolescente n\u00e3o perca a oportunidade de emprego.", "filename": "2016-19.txt", "number": "45", "options": [{"correct": null, "letter": "A", "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela."}, {"correct": null, "letter": "B", "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria."}, {"correct": true, "letter": "C", "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato."}, {"correct": null, "letter": "D", "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Marcelo, com 17 anos, e seu irm\u00e3o Caio, com 20 anos de idade, permanecem sozinhos na casa da fam\u00edlia, enquanto os pais viajam por 30 dias em f\u00e9rias no exterior. Durante tal per\u00edodo, Marcelo, que acabou de terminar o ensino m\u00e9dio, recebe uma excelente proposta de trabalho. Ao comparecer \u00e0 empresa para assinar o contrato de trabalho, Marcelo \u00e9 impedido pela falta de um respons\u00e1vel. Marcelo, ent\u00e3o, procura orienta\u00e7\u00e3o de um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a a\u00e7\u00e3o que dever\u00e1 ser ajuizada, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, para que o adolescente n\u00e3o perca a oportunidade de emprego.",
+        "filename": "2016-19.txt",
+        "number": "45",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar."
+            }
+        ],
+        "valid": true
+    }
+]

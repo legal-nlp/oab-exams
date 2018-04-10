@@ -1,1 +1,33 @@
-[{"areas": ["INTERNATIONAL"], "enum": "A respeito da autoriza\u00e7\u00e3o de trabalho a estrangeiro com v\u00ednculo empregat\u00edcio no Brasil, assinale a afirmativa correta.", "filename": "2012-08.txt", "number": "23", "options": [{"correct": true, "letter": "A", "text": "Trata-se de ato administrativo de compet\u00eancia do Minist\u00e9rio do Trabalho, para efeito de requerimento de visto permanente e/ou tempor\u00e1rio, a estrangeiros que desejem trabalhar no Brasil."}, {"correct": null, "letter": "B", "text": "O empregador deve se comprometer com o treinamento profissional, mas n\u00e3o \u00e9 necess\u00e1rio haver correla\u00e7\u00e3o entre a atividade que o estrangeiro exercer\u00e1 e sua qualifica\u00e7\u00e3o/experi\u00eancia anterior."}, {"correct": null, "letter": "C", "text": "O empregador que pretender importar m\u00e3o de obra dever\u00e1 manter pelo menos metade das vagas da empresa ocupadas por brasileiros, que tamb\u00e9m devem responder por, pelo menos, metade da folha de sal\u00e1rios."}, {"correct": null, "letter": "D", "text": "Trata-se de ato administrativo de compet\u00eancia do Minist\u00e9rio da Educa\u00e7\u00e3o, que dispensa a autoriza\u00e7\u00e3o para o estrangeiro que haja conclu\u00eddo curso de p\u00f3s-gradua\u00e7\u00e3o stricto sensu no Brasil ou tiver seu diploma estrangeiro revalidado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "INTERNATIONAL"
+        ],
+        "enum": "A respeito da autoriza\u00e7\u00e3o de trabalho a estrangeiro com v\u00ednculo empregat\u00edcio no Brasil, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "23",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Trata-se de ato administrativo de compet\u00eancia do Minist\u00e9rio do Trabalho, para efeito de requerimento de visto permanente e/ou tempor\u00e1rio, a estrangeiros que desejem trabalhar no Brasil."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O empregador deve se comprometer com o treinamento profissional, mas n\u00e3o \u00e9 necess\u00e1rio haver correla\u00e7\u00e3o entre a atividade que o estrangeiro exercer\u00e1 e sua qualifica\u00e7\u00e3o/experi\u00eancia anterior."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O empregador que pretender importar m\u00e3o de obra dever\u00e1 manter pelo menos metade das vagas da empresa ocupadas por brasileiros, que tamb\u00e9m devem responder por, pelo menos, metade da folha de sal\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Trata-se de ato administrativo de compet\u00eancia do Minist\u00e9rio da Educa\u00e7\u00e3o, que dispensa a autoriza\u00e7\u00e3o para o estrangeiro que haja conclu\u00eddo curso de p\u00f3s-gradua\u00e7\u00e3o stricto sensu no Brasil ou tiver seu diploma estrangeiro revalidado."
+            }
+        ],
+        "valid": true
+    }
+]

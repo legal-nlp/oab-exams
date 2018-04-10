@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Segundo a legisla\u00e7\u00e3o e a jurisprud\u00eancia sobre a a\u00e7\u00e3o rescis\u00f3ria no Processo do Trabalho, assinale a afirmativa correta.", "filename": "2010-02.txt", "number": "54", "options": [{"correct": null, "letter": "A", "text": "A decis\u00e3o que extingue o processo sem resolu\u00e7\u00e3o de m\u00e9rito, uma vez transitada em julgado, \u00e9 pass\u00edvel de corte rescis\u00f3rio."}, {"correct": null, "letter": "B", "text": "\u00c9 ajuizada independente de dep\u00f3sito pr\u00e9vio, em raz\u00e3o da previs\u00e3o espec\u00edfica do Processo do Trabalho."}, {"correct": null, "letter": "C", "text": "Quando for de compet\u00eancia origin\u00e1ria de Tribunal Regional do Trabalho, admitir\u00e1 o recurso de revista para o Tribunal Superior do Trabalho."}, {"correct": true, "letter": "D", "text": "A senten\u00e7a de m\u00e9rito proferida por prevarica\u00e7\u00e3o, concuss\u00e3o ou corrup\u00e7\u00e3o do juiz, uma vez transitada em julgado, \u00e9 pass\u00edvel de corte rescis\u00f3rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Segundo a legisla\u00e7\u00e3o e a jurisprud\u00eancia sobre a a\u00e7\u00e3o rescis\u00f3ria no Processo do Trabalho, assinale a afirmativa correta.",
+        "filename": "2010-02.txt",
+        "number": "54",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A decis\u00e3o que extingue o processo sem resolu\u00e7\u00e3o de m\u00e9rito, uma vez transitada em julgado, \u00e9 pass\u00edvel de corte rescis\u00f3rio."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00c9 ajuizada independente de dep\u00f3sito pr\u00e9vio, em raz\u00e3o da previs\u00e3o espec\u00edfica do Processo do Trabalho."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Quando for de compet\u00eancia origin\u00e1ria de Tribunal Regional do Trabalho, admitir\u00e1 o recurso de revista para o Tribunal Superior do Trabalho."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "A senten\u00e7a de m\u00e9rito proferida por prevarica\u00e7\u00e3o, concuss\u00e3o ou corrup\u00e7\u00e3o do juiz, uma vez transitada em julgado, \u00e9 pass\u00edvel de corte rescis\u00f3rio."
+            }
+        ],
+        "valid": true
+    }
+]

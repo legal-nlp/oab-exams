@@ -1,1 +1,57 @@
-[{"number": "42", "valid": true, "options": [{"pmi": [0.0016758784022921378, 0.0, 0.0, 0.0], "text": "N\u00e3o \u00e9 poss\u00edvel rever o valor dos alimentos fixados, pois o mesmo j\u00e1 foi decidido em senten\u00e7a com tr\u00e2nsito em julgado formal.", "correct": null, "letter": "A"}, {"pmi": [-0.028982916210543365, 0.0, 0.0, 0.0], "text": "N\u00e3o \u00e9 poss\u00edvel rever o valor dos alimentos fixados, pois o mesmo \u00e9 fruto de acordo celebrado entre as partes e homologado por juiz de direito.", "correct": null, "letter": "B"}, {"pmi": [-0.05963565980802574, 0.0, 0.0, 0.0], "text": "\u00c9 poss\u00edvel rever o valor dos alimentos, pois no caso concreto houve mudan\u00e7a do bin\u00f4mio \u201cnecessidade x possibilidade\u201d.", "correct": true, "letter": "C"}, {"pmi": [-0.11260647681682184, 0.0, 0.0, 0.0], "text": "\u00c9 poss\u00edvel rever o valor dos alimentos, pois o acordo celebrado entre as partes e homologado pelo juiz de direito est\u00e1 abaixo do limite m\u00ednimo de 30% (trinta por cento) de 01 (um) sal\u00e1rio m\u00ednimo, fixado em lei, como m\u00ednimo indispens\u00e1vel que uma pessoa deve receber de alimentos.", "correct": null, "letter": "D"}], "filename": "2013-11.txt", "areas": ["CIVIL"], "enum": "Fernanda, m\u00e3e da menor Joana, celebrou um acordo na presen\u00e7a do Juiz de Direito para que Arnaldo, pai de Joana, pague, mensalmente, 20% (vinte por cento) de 01 (um) sal\u00e1rio m\u00ednimo a t\u00edtulo de alimentos para a menor. O Juiz homologou por senten\u00e7a tal acordo, apesar de a necessidade de Joana ser maior do que a verba fixada, pois n\u00e3o existiam condi\u00e7\u00f5es materiais para a majora\u00e7\u00e3o da pens\u00e3o em face das possibilidades do devedor.\n\n Ap\u00f3s um m\u00eas, Fernanda tomou conhecimento que Arnaldo trocou seu emprego por outro com sal\u00e1rio maior e procurou seu advogado para saber da possibilidade de rever o valor dos alimentos fixados em senten\u00e7a transitada em julgado.\n\n Analisando o caso concreto, assinale a afirmativa correta."}]
+[
+    {
+        "number": "42",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    0.0016758784022921378,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o \u00e9 poss\u00edvel rever o valor dos alimentos fixados, pois o mesmo j\u00e1 foi decidido em senten\u00e7a com tr\u00e2nsito em julgado formal.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.028982916210543365,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o \u00e9 poss\u00edvel rever o valor dos alimentos fixados, pois o mesmo \u00e9 fruto de acordo celebrado entre as partes e homologado por juiz de direito.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.05963565980802574,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 poss\u00edvel rever o valor dos alimentos, pois no caso concreto houve mudan\u00e7a do bin\u00f4mio \u201cnecessidade x possibilidade\u201d.",
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.11260647681682184,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 poss\u00edvel rever o valor dos alimentos, pois o acordo celebrado entre as partes e homologado pelo juiz de direito est\u00e1 abaixo do limite m\u00ednimo de 30% (trinta por cento) de 01 (um) sal\u00e1rio m\u00ednimo, fixado em lei, como m\u00ednimo indispens\u00e1vel que uma pessoa deve receber de alimentos.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "filename": "2013-11.txt",
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Fernanda, m\u00e3e da menor Joana, celebrou um acordo na presen\u00e7a do Juiz de Direito para que Arnaldo, pai de Joana, pague, mensalmente, 20% (vinte por cento) de 01 (um) sal\u00e1rio m\u00ednimo a t\u00edtulo de alimentos para a menor. O Juiz homologou por senten\u00e7a tal acordo, apesar de a necessidade de Joana ser maior do que a verba fixada, pois n\u00e3o existiam condi\u00e7\u00f5es materiais para a majora\u00e7\u00e3o da pens\u00e3o em face das possibilidades do devedor.\n\n Ap\u00f3s um m\u00eas, Fernanda tomou conhecimento que Arnaldo trocou seu emprego por outro com sal\u00e1rio maior e procurou seu advogado para saber da possibilidade de rever o valor dos alimentos fixados em senten\u00e7a transitada em julgado.\n\n Analisando o caso concreto, assinale a afirmativa correta."
+    }
+]

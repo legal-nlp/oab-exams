@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"correct": null, "letter": "A", "text": "A soma das vontades particulares.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "A vontade de todos.", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "letter": "C", "text": "O interesse particular do soberano, ap\u00f3s o contrato social.", "pmi": [-0.05769395293078226, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "O interesse em comum ou o substrato em comum das diferen\u00e7as.", "pmi": [-0.05769395293078226, 0.0, 0.0, 0.0]}], "filename": "2017-23.txt", "areas": [null], "enum": "... s\u00f3 a vontade geral pode dirigir as for\u00e7as do Estado de acordo com a finalidade de suas institui\u00e7\u00f5es, que \u00e9 o bem comum...  Jean-Jacques Rousseau A ideia de vontade geral, apresentada por Rousseau em seu livro Do Contrato Social, foi fundamental para o amadurecimento do conceito moderno de lei e de democracia.  Assinale a op\u00e7\u00e3o que melhor expressa essa ideia conforme concebida por Rousseau no livro citado.", "number": "9"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A soma das vontades particulares.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A vontade de todos.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O interesse particular do soberano, ap\u00f3s o contrato social.",
+                "pmi": [
+                    -0.05769395293078226,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "O interesse em comum ou o substrato em comum das diferen\u00e7as.",
+                "pmi": [
+                    -0.05769395293078226,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2017-23.txt",
+        "areas": [
+            null
+        ],
+        "enum": "... s\u00f3 a vontade geral pode dirigir as for\u00e7as do Estado de acordo com a finalidade de suas institui\u00e7\u00f5es, que \u00e9 o bem comum...  Jean-Jacques Rousseau A ideia de vontade geral, apresentada por Rousseau em seu livro Do Contrato Social, foi fundamental para o amadurecimento do conceito moderno de lei e de democracia.  Assinale a op\u00e7\u00e3o que melhor expressa essa ideia conforme concebida por Rousseau no livro citado.",
+        "number": "9"
+    }
+]

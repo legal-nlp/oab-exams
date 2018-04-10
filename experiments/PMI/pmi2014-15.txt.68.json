@@ -1,1 +1,55 @@
-[{"filename": "2014-15.txt", "enum": "Tiago e Andrea agiram em concurso de agentes em determinado crime. O processo segue seu curso natural, culminando com senten\u00e7a condenat\u00f3ria, na qual os dois s\u00e3o condenados. Quando da interposi\u00e7\u00e3o do recurso, apenas Andrea apela. O recurso \u00e9 julgado. Na decis\u00e3o, fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal, os julgadores decidem pela absolvi\u00e7\u00e3o de Andrea.\n\n Nesse sentido, diante apenas das informa\u00e7\u00f5es apresentadas pelo enunciado, assinale a afirmativa correta.", "areas": [], "options": [{"correct": null, "letter": "A", "pmi": [-0.008443332887837735, 0.0, 0.0, 0.0], "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."}, {"correct": true, "letter": "B", "pmi": [-0.007880444028648553, 0.0, 0.0, 0.0], "text": "Andrea e Tiago ser\u00e3o absolvidos, pois os efeitos da decis\u00e3o ser\u00e3o estendidos a este, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."}, {"correct": null, "letter": "C", "pmi": [-0.11998125559920622, 0.0, 0.0, 0.0], "text": "Andrea e Tiago ser\u00e3o absolvidos, por\u00e9m ser\u00e1 necess\u00e1rio interpor Recurso Especial."}, {"correct": null, "letter": "D", "pmi": [-0.02183216136111881, 0.0, 0.0, 0.0], "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, pois n\u00e3o interp\u00f4s recurso."}], "number": "68", "valid": true}]
+[
+    {
+        "filename": "2014-15.txt",
+        "enum": "Tiago e Andrea agiram em concurso de agentes em determinado crime. O processo segue seu curso natural, culminando com senten\u00e7a condenat\u00f3ria, na qual os dois s\u00e3o condenados. Quando da interposi\u00e7\u00e3o do recurso, apenas Andrea apela. O recurso \u00e9 julgado. Na decis\u00e3o, fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal, os julgadores decidem pela absolvi\u00e7\u00e3o de Andrea.\n\n Nesse sentido, diante apenas das informa\u00e7\u00f5es apresentadas pelo enunciado, assinale a afirmativa correta.",
+        "areas": [],
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.008443332887837735,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.007880444028648553,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Andrea e Tiago ser\u00e3o absolvidos, pois os efeitos da decis\u00e3o ser\u00e3o estendidos a este, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.11998125559920622,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Andrea e Tiago ser\u00e3o absolvidos, por\u00e9m ser\u00e1 necess\u00e1rio interpor Recurso Especial."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.02183216136111881,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, pois n\u00e3o interp\u00f4s recurso."
+            }
+        ],
+        "number": "68",
+        "valid": true
+    }
+]

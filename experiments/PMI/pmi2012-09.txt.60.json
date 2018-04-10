@@ -1,1 +1,57 @@
-[{"filename": "2012-09.txt", "valid": true, "number": "60", "options": [{"pmi": [-0.5190570365585583, 0.0, 0.0, 0.0], "letter": "A", "text": "Na a\u00e7\u00e3o penal privada vigora o princ\u00edpio da oportunidade ou conveni\u00eancia.", "correct": true}, {"pmi": [-1.0886671519754445, 0.0, 0.0, 0.0], "letter": "B", "text": "A a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica fere dispositivo constitucional que atribui ao Minist\u00e9rio P\u00fablico o direito exclusivo de iniciar a a\u00e7\u00e3o p\u00fablica.", "correct": null}, {"pmi": [-0.5959664271064015, 0.0, 0.0, 0.0], "letter": "C", "text": "Como o C\u00f3digo Penal \u00e9 silente no tocante \u00e0 natureza da a\u00e7\u00e3o penal no crime de les\u00e3o corporal culposa, verifica-se que a referida infra\u00e7\u00e3o ser\u00e1 de a\u00e7\u00e3o penal p\u00fablica incondicionada.", "correct": null}, {"pmi": [-0.23729282650810515, 0.0, 0.0, 0.0], "letter": "D", "text": "A legitimidade para ajuizamento da queixa-crime na a\u00e7\u00e3o penal exclusivamente privada (ou propriamente dita) \u00e9 unicamente do ofendido.", "correct": null}], "areas": ["CRIMINAL-PROCEDURE"], "enum": "Tendo como base o instituto da a\u00e7\u00e3o penal, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2012-09.txt",
+        "valid": true,
+        "number": "60",
+        "options": [
+            {
+                "pmi": [
+                    -0.5190570365585583,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Na a\u00e7\u00e3o penal privada vigora o princ\u00edpio da oportunidade ou conveni\u00eancia.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -1.0886671519754445,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "A a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica fere dispositivo constitucional que atribui ao Minist\u00e9rio P\u00fablico o direito exclusivo de iniciar a a\u00e7\u00e3o p\u00fablica.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.5959664271064015,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Como o C\u00f3digo Penal \u00e9 silente no tocante \u00e0 natureza da a\u00e7\u00e3o penal no crime de les\u00e3o corporal culposa, verifica-se que a referida infra\u00e7\u00e3o ser\u00e1 de a\u00e7\u00e3o penal p\u00fablica incondicionada.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.23729282650810515,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "A legitimidade para ajuizamento da queixa-crime na a\u00e7\u00e3o penal exclusivamente privada (ou propriamente dita) \u00e9 unicamente do ofendido.",
+                "correct": null
+            }
+        ],
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Tendo como base o instituto da a\u00e7\u00e3o penal, assinale a afirmativa correta."
+    }
+]

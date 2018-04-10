@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "letter": "A", "pmi": [-0.06579286080398468, 0.0, 0.0, 0.0], "text": "O contrato particular de assun\u00e7\u00e3o de d\u00edvida assinado por L\u00facia \u00e9 anul\u00e1vel por erro substancial, pois L\u00facia manifestou sua vontade de forma distorcida da realidade, por entendimento equivocado do neg\u00f3cio praticado."}, {"correct": null, "letter": "B", "pmi": [-0.2045853609761985, 0.0, 0.0, 0.0], "text": "O ato negocial celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel por v\u00edcio de consentimento, em raz\u00e3o de conduta dolosa praticada pelo banco, que ardilosamente falseou a realidade e forjou uma situa\u00e7\u00e3o inexistente, induzindo L\u00facia \u00e0 pr\u00e1tica do ato."}, {"correct": null, "letter": "C", "pmi": [-0.21441254852637015, 0.0, 0.0, 0.0], "text": "O instrumento particular firmado entre L\u00facia e o Banco FDC S.A. pode ser anulado sob fundamento de les\u00e3o, uma vez que L\u00facia assumiu obriga\u00e7\u00e3o excessiva sobre premente necessidade."}, {"correct": true, "letter": "D", "pmi": [-0.21439298656825542, 0.0, 0.0, 0.0], "text": "O neg\u00f3cio jur\u00eddico celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel pelo v\u00edcio da coa\u00e7\u00e3o, uma vez que a amea\u00e7a praticada pelo banco foi iminente e atual, grave, s\u00e9ria e determinante para a celebra\u00e7\u00e3o da aven\u00e7a."}], "number": "39", "filename": "2014-13.txt", "enum": "L\u00facia, pessoa doente, idosa, com baixo grau de escolaridade, foi obrigada a celebrar contrato particular de assun\u00e7\u00e3o de d\u00edvida com o Banco FDC S.A., reconhecendo e confessando d\u00edvidas firmadas pelo seu marido, esse j\u00e1 falecido, e que n\u00e3o deixara bens ou patrim\u00f4nio a inventariar. O gerente do banco amea\u00e7ou L\u00facia de n\u00e3o efetuar o pagamento da pens\u00e3o deixada pelo seu falecido marido, caso n\u00e3o fosse assinado o contrato de assun\u00e7\u00e3o de d\u00edvida.\n\n Considerando a hip\u00f3tese acima e as regras de Direito Civil, assinale a afirmativa correta.", "areas": ["CIVIL"], "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.06579286080398468,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O contrato particular de assun\u00e7\u00e3o de d\u00edvida assinado por L\u00facia \u00e9 anul\u00e1vel por erro substancial, pois L\u00facia manifestou sua vontade de forma distorcida da realidade, por entendimento equivocado do neg\u00f3cio praticado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.2045853609761985,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O ato negocial celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel por v\u00edcio de consentimento, em raz\u00e3o de conduta dolosa praticada pelo banco, que ardilosamente falseou a realidade e forjou uma situa\u00e7\u00e3o inexistente, induzindo L\u00facia \u00e0 pr\u00e1tica do ato."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.21441254852637015,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O instrumento particular firmado entre L\u00facia e o Banco FDC S.A. pode ser anulado sob fundamento de les\u00e3o, uma vez que L\u00facia assumiu obriga\u00e7\u00e3o excessiva sobre premente necessidade."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.21439298656825542,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O neg\u00f3cio jur\u00eddico celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel pelo v\u00edcio da coa\u00e7\u00e3o, uma vez que a amea\u00e7a praticada pelo banco foi iminente e atual, grave, s\u00e9ria e determinante para a celebra\u00e7\u00e3o da aven\u00e7a."
+            }
+        ],
+        "number": "39",
+        "filename": "2014-13.txt",
+        "enum": "L\u00facia, pessoa doente, idosa, com baixo grau de escolaridade, foi obrigada a celebrar contrato particular de assun\u00e7\u00e3o de d\u00edvida com o Banco FDC S.A., reconhecendo e confessando d\u00edvidas firmadas pelo seu marido, esse j\u00e1 falecido, e que n\u00e3o deixara bens ou patrim\u00f4nio a inventariar. O gerente do banco amea\u00e7ou L\u00facia de n\u00e3o efetuar o pagamento da pens\u00e3o deixada pelo seu falecido marido, caso n\u00e3o fosse assinado o contrato de assun\u00e7\u00e3o de d\u00edvida.\n\n Considerando a hip\u00f3tese acima e as regras de Direito Civil, assinale a afirmativa correta.",
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true
+    }
+]

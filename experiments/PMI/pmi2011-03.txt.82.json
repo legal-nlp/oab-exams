@@ -1,1 +1,57 @@
-[{"areas": ["TAXES"], "number": "82", "filename": "2011-03.txt", "valid": true, "enum": "Segundo o C\u00f3digo Tribut\u00e1rio Nacional, remiss\u00e3o \u00e9", "options": [{"pmi": [-0.23643392594235824, 0.0, 0.0, 0.0], "correct": true, "letter": "A", "text": "uma modalidade de extin\u00e7\u00e3o dos cr\u00e9ditos tribut\u00e1rios e consiste na libera\u00e7\u00e3o da d\u00edvida por parte do credor, respaldada em lei autorizativa."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "a perda do direito de constituir o cr\u00e9dito tribut\u00e1rio pelo decurso do prazo."}, {"pmi": [-0.3445608042557396, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "uma modalidade de exclus\u00e3o dos cr\u00e9ditos tribut\u00e1rios com a libera\u00e7\u00e3o das penalidades aplicadas ao sujeito passivo, respaldada em lei autorizativa."}, {"pmi": [-0.4049061511979864, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "uma modalidade de extin\u00e7\u00e3o dos cr\u00e9ditos tribut\u00e1rios em raz\u00e3o da compensa\u00e7\u00e3o de cr\u00e9ditos entre o sujeito ativo e o sujeito passivo, respaldada em lei autorizativa."}]}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "number": "82",
+        "filename": "2011-03.txt",
+        "valid": true,
+        "enum": "Segundo o C\u00f3digo Tribut\u00e1rio Nacional, remiss\u00e3o \u00e9",
+        "options": [
+            {
+                "pmi": [
+                    -0.23643392594235824,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A",
+                "text": "uma modalidade de extin\u00e7\u00e3o dos cr\u00e9ditos tribut\u00e1rios e consiste na libera\u00e7\u00e3o da d\u00edvida por parte do credor, respaldada em lei autorizativa."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "a perda do direito de constituir o cr\u00e9dito tribut\u00e1rio pelo decurso do prazo."
+            },
+            {
+                "pmi": [
+                    -0.3445608042557396,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "uma modalidade de exclus\u00e3o dos cr\u00e9ditos tribut\u00e1rios com a libera\u00e7\u00e3o das penalidades aplicadas ao sujeito passivo, respaldada em lei autorizativa."
+            },
+            {
+                "pmi": [
+                    -0.4049061511979864,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "uma modalidade de extin\u00e7\u00e3o dos cr\u00e9ditos tribut\u00e1rios em raz\u00e3o da compensa\u00e7\u00e3o de cr\u00e9ditos entre o sujeito ativo e o sujeito passivo, respaldada em lei autorizativa."
+            }
+        ]
+    }
+]

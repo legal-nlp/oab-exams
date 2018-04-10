@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Em 2013, uma empresa de consultoria brasileira assina, na cidade de Londres, Reino Unido, contrato de presta\u00e7\u00e3o de servi\u00e7os com uma empresa local. As contratantes elegem o foro da comarca do Rio de Janeiro para dirimir eventuais d\u00favidas, com a exclus\u00e3o de qualquer outro. Dois anos depois, as partes se desentendem quanto aos crit\u00e9rios t\u00e9cnicos previstos no contrato e n\u00e3o conseguem chegar a uma solu\u00e7\u00e3o amig\u00e1vel. A empresa de consultoria brasileira decide, ent\u00e3o, ajuizar uma a\u00e7\u00e3o no Tribunal de Justi\u00e7a do Estado do Rio de Janeiro para rescindir o contrato.\n\n Com rela\u00e7\u00e3o ao caso narrado acima, assinale a afirmativa correta.", "filename": "2016-20.txt", "number": "23", "options": [{"correct": null, "letter": "A", "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 basear sua decis\u00e3o na legisla\u00e7\u00e3o brasileira, pois um juiz brasileiro n\u00e3o pode ser obrigado a aplicar leis estrangeiras."}, {"correct": null, "letter": "B", "text": "O Poder Judici\u00e1rio brasileiro n\u00e3o \u00e9 competente para conhecer e julgar a lide, pois o foro para dirimir quest\u00f5es em mat\u00e9ria contratual \u00e9 necessariamente o do local em que o contrato foi assinado."}, {"correct": true, "letter": "C", "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 basear sua decis\u00e3o na legisla\u00e7\u00e3o do Reino Unido, pois os contratos se regem pela lei do local de sua assinatura."}, {"correct": null, "letter": "D", "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 se basear na legisla\u00e7\u00e3o brasileira, pois, a lit\u00edgios envolvendo brasileiros e estrangeiros, aplica-se a lex fori."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Em 2013, uma empresa de consultoria brasileira assina, na cidade de Londres, Reino Unido, contrato de presta\u00e7\u00e3o de servi\u00e7os com uma empresa local. As contratantes elegem o foro da comarca do Rio de Janeiro para dirimir eventuais d\u00favidas, com a exclus\u00e3o de qualquer outro. Dois anos depois, as partes se desentendem quanto aos crit\u00e9rios t\u00e9cnicos previstos no contrato e n\u00e3o conseguem chegar a uma solu\u00e7\u00e3o amig\u00e1vel. A empresa de consultoria brasileira decide, ent\u00e3o, ajuizar uma a\u00e7\u00e3o no Tribunal de Justi\u00e7a do Estado do Rio de Janeiro para rescindir o contrato.\n\n Com rela\u00e7\u00e3o ao caso narrado acima, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "number": "23",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 basear sua decis\u00e3o na legisla\u00e7\u00e3o brasileira, pois um juiz brasileiro n\u00e3o pode ser obrigado a aplicar leis estrangeiras."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O Poder Judici\u00e1rio brasileiro n\u00e3o \u00e9 competente para conhecer e julgar a lide, pois o foro para dirimir quest\u00f5es em mat\u00e9ria contratual \u00e9 necessariamente o do local em que o contrato foi assinado."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 basear sua decis\u00e3o na legisla\u00e7\u00e3o do Reino Unido, pois os contratos se regem pela lei do local de sua assinatura."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O juiz brasileiro poder\u00e1 conhecer e julgar a lide, mas dever\u00e1 se basear na legisla\u00e7\u00e3o brasileira, pois, a lit\u00edgios envolvendo brasileiros e estrangeiros, aplica-se a lex fori."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "number": "12", "options": [{"letter": "A", "text": "Os segredos advindos da pr\u00e1tica profissional, ap\u00f3s determinado per\u00edodo de recesso, podem ser livremente utilizados pelo advogado.", "correct": null, "pmi": [-0.004991456463731123, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "O advogado, ao atuar contra antigos clientes, n\u00e3o pode lan\u00e7ar m\u00e3o de informa\u00e7\u00f5es reservadas que lhe tenham sido confiadas.", "correct": true, "pmi": [-0.028983898672231403, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "O advogado n\u00e3o pode ser contratado por concorrentes de antigos clientes, pois o impedimento de com eles contratar n\u00e3o tem prazo.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "O advogado, diante do conflito de interesses entre o antigo e o novo cliente, deve renunciar ao mandato.", "correct": null, "pmi": [-0.025703603148823136, 0.0, 0.0, 0.0]}], "areas": ["ETHICS"], "filename": "2012-09.txt", "enum": "M\u00e1rio advogou, por muitos anos, para a empresa \u201cX\u201d, especializada no ramo de cosm\u00e9ticos. Por problemas pessoais, afastou-se da advocacia empresarial por um per\u00edodo de dois anos. No retorno, passou a representar os interesses da empresa \u201cY\u201d, tamb\u00e9m do ramo de cosm\u00e9ticos, e concorrente direta da empresa para quem anteriormente prestara servi\u00e7os.\n\n Quando da presta\u00e7\u00e3o de seus servi\u00e7os \u00e0 empresa \u201cX\u201d, M\u00e1rio atuou em v\u00e1rios contratos em que constavam informa\u00e7\u00f5es submetidas a segredo industrial, a que teve acesso exclusivamente em decorr\u00eancia da sua atua\u00e7\u00e3o como advogado.\n\n Observado tal relato, em conson\u00e2ncia com as normas do C\u00f3digo de \u00c9tica da Advocacia, assinale a afirmativa correta."}]
+[
+    {
+        "valid": true,
+        "number": "12",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Os segredos advindos da pr\u00e1tica profissional, ap\u00f3s determinado per\u00edodo de recesso, podem ser livremente utilizados pelo advogado.",
+                "correct": null,
+                "pmi": [
+                    -0.004991456463731123,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "O advogado, ao atuar contra antigos clientes, n\u00e3o pode lan\u00e7ar m\u00e3o de informa\u00e7\u00f5es reservadas que lhe tenham sido confiadas.",
+                "correct": true,
+                "pmi": [
+                    -0.028983898672231403,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "O advogado n\u00e3o pode ser contratado por concorrentes de antigos clientes, pois o impedimento de com eles contratar n\u00e3o tem prazo.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "O advogado, diante do conflito de interesses entre o antigo e o novo cliente, deve renunciar ao mandato.",
+                "correct": null,
+                "pmi": [
+                    -0.025703603148823136,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "filename": "2012-09.txt",
+        "enum": "M\u00e1rio advogou, por muitos anos, para a empresa \u201cX\u201d, especializada no ramo de cosm\u00e9ticos. Por problemas pessoais, afastou-se da advocacia empresarial por um per\u00edodo de dois anos. No retorno, passou a representar os interesses da empresa \u201cY\u201d, tamb\u00e9m do ramo de cosm\u00e9ticos, e concorrente direta da empresa para quem anteriormente prestara servi\u00e7os.\n\n Quando da presta\u00e7\u00e3o de seus servi\u00e7os \u00e0 empresa \u201cX\u201d, M\u00e1rio atuou em v\u00e1rios contratos em que constavam informa\u00e7\u00f5es submetidas a segredo industrial, a que teve acesso exclusivamente em decorr\u00eancia da sua atua\u00e7\u00e3o como advogado.\n\n Observado tal relato, em conson\u00e2ncia com as normas do C\u00f3digo de \u00c9tica da Advocacia, assinale a afirmativa correta."
+    }
+]

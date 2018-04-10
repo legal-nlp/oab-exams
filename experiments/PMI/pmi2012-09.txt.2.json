@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "O advogado Carlos \u00e9 Presidente da empresa XYZ, com sede no Munic\u00edpio Q. Em determinada data, a empresa \u00e9 notificada para apresentar defesa em processo trabalhista ajuizado por antigo empregado da empresa. No dia da audi\u00eancia designada, Carlos apresenta-se como preposto, vez que dirigente da empresa e advogado, por possuir habilita\u00e7\u00e3o profissional regular.\n\n Observados tais fatos, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.", "areas": ["ETHICS"], "options": [{"letter": "A", "pmi": [-0.013259297881266742, 0.0, 0.0, 0.0], "correct": null, "text": "Por economia processual admite-se a atua\u00e7\u00e3o do advogado como preposto e advogado no mesmo processo."}, {"letter": "B", "pmi": [-0.04741364209769021, 0.0, 0.0, 0.0], "correct": null, "text": "Essa \u00e9 uma situa\u00e7\u00e3o excepcional que permite a atua\u00e7\u00e3o do advogado como preposto da empresa e seu representante judicial."}, {"letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "\u00c9 vedada a atua\u00e7\u00e3o como preposto e como advogado da empresa ao mesmo tempo."}, {"letter": "D", "pmi": [-0.03041346439527033, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o havendo oposi\u00e7\u00e3o da parte adversa, pode ocorrer a atua\u00e7\u00e3o do advogado nas duas fun\u00e7\u00f5es: preposto e representante judicial."}], "filename": "2012-09.txt", "number": "2"}]
+[
+    {
+        "valid": true,
+        "enum": "O advogado Carlos \u00e9 Presidente da empresa XYZ, com sede no Munic\u00edpio Q. Em determinada data, a empresa \u00e9 notificada para apresentar defesa em processo trabalhista ajuizado por antigo empregado da empresa. No dia da audi\u00eancia designada, Carlos apresenta-se como preposto, vez que dirigente da empresa e advogado, por possuir habilita\u00e7\u00e3o profissional regular.\n\n Observados tais fatos, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+        "areas": [
+            "ETHICS"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.013259297881266742,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Por economia processual admite-se a atua\u00e7\u00e3o do advogado como preposto e advogado no mesmo processo."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.04741364209769021,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Essa \u00e9 uma situa\u00e7\u00e3o excepcional que permite a atua\u00e7\u00e3o do advogado como preposto da empresa e seu representante judicial."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "\u00c9 vedada a atua\u00e7\u00e3o como preposto e como advogado da empresa ao mesmo tempo."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.03041346439527033,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o havendo oposi\u00e7\u00e3o da parte adversa, pode ocorrer a atua\u00e7\u00e3o do advogado nas duas fun\u00e7\u00f5es: preposto e representante judicial."
+            }
+        ],
+        "filename": "2012-09.txt",
+        "number": "2"
+    }
+]

@@ -1,1 +1,57 @@
-[{"options": [{"correct": true, "text": "A medida \u00e9 inv\u00e1lida, porque o provimento origin\u00e1rio de cargo efetivo em uma determinada carreira exige concurso p\u00fablico espec\u00edfico.", "letter": "A", "pmi": [-0.24562156239419425, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A medida \u00e9 v\u00e1lida, porque os servidores reenquadrados s\u00e3o concursados, configurando-se na esp\u00e9cie mera transforma\u00e7\u00e3o de cargos, expressamente prevista na CRFB/88.", "letter": "B", "pmi": [-0.05937490643382409, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A medida \u00e9 inv\u00e1lida, porque o provimento de todo e qualquer cargo faz-se exclusivamente mediante concurso p\u00fablico.", "letter": "C", "pmi": [-0.2166236718155634, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A medida \u00e9 v\u00e1lida, porque os servidores reenquadrados s\u00e3o concursados e n\u00e3o h\u00e1 aumento de despesa, uma vez que os cargos preenchidos j\u00e1 existiam.", "letter": "D", "pmi": [-0.06931542055639715, 0.0, 0.0, 0.0]}], "number": "33", "filename": "2017-22.txt", "valid": true, "enum": "O Munic\u00edpio Beta procedeu ao recadastramento de seus servidores efetivos e constatou que 6 (seis) bachar\u00e9is em contabilidade exerciam variados cargos na estrutura administrativa, todos providos mediante concurso p\u00fablico. Verificou tamb\u00e9m que existiam 10 (dez) cargos vagos de auditores fiscais de tributos, decorrentes de aposentadorias havidas nos \u00faltimos anos.  O Munic\u00edpio, considerando a necessidade de incrementar receitas, editou lei reorganizando sua estrutura funcional de modo a reenquadrar aqueles servidores como auditores fiscais de tributos.\n\n Com base na hip\u00f3tese apresentada, acerca do provimento de cargo p\u00fablico, assinale a afirmativa correta.", "areas": [null]}]
+[
+    {
+        "options": [
+            {
+                "correct": true,
+                "text": "A medida \u00e9 inv\u00e1lida, porque o provimento origin\u00e1rio de cargo efetivo em uma determinada carreira exige concurso p\u00fablico espec\u00edfico.",
+                "letter": "A",
+                "pmi": [
+                    -0.24562156239419425,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A medida \u00e9 v\u00e1lida, porque os servidores reenquadrados s\u00e3o concursados, configurando-se na esp\u00e9cie mera transforma\u00e7\u00e3o de cargos, expressamente prevista na CRFB/88.",
+                "letter": "B",
+                "pmi": [
+                    -0.05937490643382409,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A medida \u00e9 inv\u00e1lida, porque o provimento de todo e qualquer cargo faz-se exclusivamente mediante concurso p\u00fablico.",
+                "letter": "C",
+                "pmi": [
+                    -0.2166236718155634,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A medida \u00e9 v\u00e1lida, porque os servidores reenquadrados s\u00e3o concursados e n\u00e3o h\u00e1 aumento de despesa, uma vez que os cargos preenchidos j\u00e1 existiam.",
+                "letter": "D",
+                "pmi": [
+                    -0.06931542055639715,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "33",
+        "filename": "2017-22.txt",
+        "valid": true,
+        "enum": "O Munic\u00edpio Beta procedeu ao recadastramento de seus servidores efetivos e constatou que 6 (seis) bachar\u00e9is em contabilidade exerciam variados cargos na estrutura administrativa, todos providos mediante concurso p\u00fablico. Verificou tamb\u00e9m que existiam 10 (dez) cargos vagos de auditores fiscais de tributos, decorrentes de aposentadorias havidas nos \u00faltimos anos.  O Munic\u00edpio, considerando a necessidade de incrementar receitas, editou lei reorganizando sua estrutura funcional de modo a reenquadrar aqueles servidores como auditores fiscais de tributos.\n\n Com base na hip\u00f3tese apresentada, acerca do provimento de cargo p\u00fablico, assinale a afirmativa correta.",
+        "areas": [
+            null
+        ]
+    }
+]

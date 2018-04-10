@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Quando a senten\u00e7a que reconhece obriga\u00e7\u00e3o de pagar n\u00e3o determina o valor devido, procede-se \u00e0 sua liquida\u00e7\u00e3o, para que, ent\u00e3o, possa dar-se o seu cumprimento. Em rela\u00e7\u00e3o \u00e0 sistem\u00e1tica da liquida\u00e7\u00e3o no direito brasileiro, assinale a alternativa correta.", "filename": "2011-04.txt", "number": "40", "options": [{"correct": null, "letter": "A", "text": "A liquida\u00e7\u00e3o de senten\u00e7a tem natureza jur\u00eddica de a\u00e7\u00e3o aut\u00f4noma."}, {"correct": true, "letter": "B", "text": "A liquida\u00e7\u00e3o pode ser requerida mesmo na pend\u00eancia de recurso ainda n\u00e3o julgado pelo tribunal, hip\u00f3tese em que deve ser processada em autos apartados no ju\u00edzo de origem."}, {"correct": null, "letter": "C", "text": "Requerida a liquida\u00e7\u00e3o, deve a parte contr\u00e1ria ser pessoalmente intimada."}, {"correct": null, "letter": "D", "text": "Sempre que o pedido for gen\u00e9rico, o juiz pode proferir senten\u00e7a il\u00edquida."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Quando a senten\u00e7a que reconhece obriga\u00e7\u00e3o de pagar n\u00e3o determina o valor devido, procede-se \u00e0 sua liquida\u00e7\u00e3o, para que, ent\u00e3o, possa dar-se o seu cumprimento. Em rela\u00e7\u00e3o \u00e0 sistem\u00e1tica da liquida\u00e7\u00e3o no direito brasileiro, assinale a alternativa correta.",
+        "filename": "2011-04.txt",
+        "number": "40",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A liquida\u00e7\u00e3o de senten\u00e7a tem natureza jur\u00eddica de a\u00e7\u00e3o aut\u00f4noma."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "A liquida\u00e7\u00e3o pode ser requerida mesmo na pend\u00eancia de recurso ainda n\u00e3o julgado pelo tribunal, hip\u00f3tese em que deve ser processada em autos apartados no ju\u00edzo de origem."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Requerida a liquida\u00e7\u00e3o, deve a parte contr\u00e1ria ser pessoalmente intimada."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Sempre que o pedido for gen\u00e9rico, o juiz pode proferir senten\u00e7a il\u00edquida."
+            }
+        ],
+        "valid": true
+    }
+]

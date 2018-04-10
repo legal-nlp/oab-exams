@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "options": [{"text": "A revoga\u00e7\u00e3o do ato administrativo produz efeitos ex tunc.", "correct": null, "letter": "A", "pmi": [-0.2690332721120794, 0.0, 0.0, 0.0]}, {"text": "Atos vinculados n\u00e3o podem ser objeto de revoga\u00e7\u00e3o.", "correct": true, "letter": "B", "pmi": [-0.14813923911115404, 0.0, 0.0, 0.0]}, {"text": "A revoga\u00e7\u00e3o pode atingir certid\u00f5es e atestados.", "correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Atos que gerarem direitos adquiridos poder\u00e3o ser revogados.", "correct": null, "letter": "D", "pmi": [-0.1550844801768808, 0.0, 0.0, 0.0]}], "number": "50", "valid": true, "enum": "Assinale a op\u00e7\u00e3o correta no que se refere \u00e0 revoga\u00e7\u00e3o dos atos administrativos.", "areas": ["ADMINISTRATIVE"]}]
+[
+    {
+        "filename": "2010-01.txt",
+        "options": [
+            {
+                "text": "A revoga\u00e7\u00e3o do ato administrativo produz efeitos ex tunc.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.2690332721120794,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Atos vinculados n\u00e3o podem ser objeto de revoga\u00e7\u00e3o.",
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.14813923911115404,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A revoga\u00e7\u00e3o pode atingir certid\u00f5es e atestados.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Atos que gerarem direitos adquiridos poder\u00e3o ser revogados.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.1550844801768808,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "50",
+        "valid": true,
+        "enum": "Assinale a op\u00e7\u00e3o correta no que se refere \u00e0 revoga\u00e7\u00e3o dos atos administrativos.",
+        "areas": [
+            "ADMINISTRATIVE"
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "C\u00e1ssio, mutuante, celebrou contrato de m\u00fatuo gratuito com Felipe, mutu\u00e1rio, cujo objeto era a quantia de R$ 5.000,00, em 1\u00ba de outubro de 2016, pelo prazo de seis meses. Foi combinado que a entrega do dinheiro seria feita no parque da cidade. No entanto, Felipe, ap\u00f3s receber o dinheiro, foi furtado no caminho de casa.  Em 1\u00ba de abril de 2017, C\u00e1ssio telefonou para Felipe para combinar o pagamento da quantia emprestada, mas este respondeu que n\u00e3o seria poss\u00edvel, em raz\u00e3o da perda do bem por fato alheio \u00e0 sua vontade.  Acerca dos fatos narrados, assinale a afirmativa correta.", "filename": "2017-23.txt", "number": "35", "options": [{"correct": true, "letter": "A", "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."}, {"correct": null, "letter": "B", "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro e ao pagamento de juros, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."}, {"correct": null, "letter": "C", "text": "C\u00e1ssio tem direito somente \u00e0 devolu\u00e7\u00e3o de metade do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."}, {"correct": null, "letter": "D", "text": "C\u00e1ssio n\u00e3o tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "C\u00e1ssio, mutuante, celebrou contrato de m\u00fatuo gratuito com Felipe, mutu\u00e1rio, cujo objeto era a quantia de R$ 5.000,00, em 1\u00ba de outubro de 2016, pelo prazo de seis meses. Foi combinado que a entrega do dinheiro seria feita no parque da cidade. No entanto, Felipe, ap\u00f3s receber o dinheiro, foi furtado no caminho de casa.  Em 1\u00ba de abril de 2017, C\u00e1ssio telefonou para Felipe para combinar o pagamento da quantia emprestada, mas este respondeu que n\u00e3o seria poss\u00edvel, em raz\u00e3o da perda do bem por fato alheio \u00e0 sua vontade.  Acerca dos fatos narrados, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "35",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro e ao pagamento de juros, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "C\u00e1ssio tem direito somente \u00e0 devolu\u00e7\u00e3o de metade do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "C\u00e1ssio n\u00e3o tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."
+            }
+        ],
+        "valid": true
+    }
+]

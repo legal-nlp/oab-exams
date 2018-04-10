@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Ajuizada a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos morais, o autor foi devidamente intimado para apresentar emenda \u00e0 inicial, haja vista n\u00e3o estarem presentes os requisitos exigidos nos arts. 282 e 283 do CPC. O autor, contudo, n\u00e3o apresentou a devida emenda, tendo sido indeferida a peti\u00e7\u00e3o inicial.\n\n Nessa situa\u00e7\u00e3o, caso entenda que sua peti\u00e7\u00e3o inicial preenche os requisitos, o autor poder\u00e1 interpor", "filename": "2010-01.txt", "number": "42", "options": [{"correct": null, "letter": "A", "text": "agravo de instrumento, independentemente da cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o pelo juiz."}, {"correct": null, "letter": "B", "text": "apela\u00e7\u00e3o, processada com a determina\u00e7\u00e3o de cita\u00e7\u00e3o do r\u00e9u e sem possibilidade de retrata\u00e7\u00e3o pelo juiz."}, {"correct": null, "letter": "C", "text": "agravo retido, com a determina\u00e7\u00e3o de cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o pelo juiz."}, {"correct": true, "letter": "D", "text": "apela\u00e7\u00e3o, processada independentemente da cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o da decis\u00e3o pelo juiz."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Ajuizada a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos morais, o autor foi devidamente intimado para apresentar emenda \u00e0 inicial, haja vista n\u00e3o estarem presentes os requisitos exigidos nos arts. 282 e 283 do CPC. O autor, contudo, n\u00e3o apresentou a devida emenda, tendo sido indeferida a peti\u00e7\u00e3o inicial.\n\n Nessa situa\u00e7\u00e3o, caso entenda que sua peti\u00e7\u00e3o inicial preenche os requisitos, o autor poder\u00e1 interpor",
+        "filename": "2010-01.txt",
+        "number": "42",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "agravo de instrumento, independentemente da cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o pelo juiz."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "apela\u00e7\u00e3o, processada com a determina\u00e7\u00e3o de cita\u00e7\u00e3o do r\u00e9u e sem possibilidade de retrata\u00e7\u00e3o pelo juiz."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "agravo retido, com a determina\u00e7\u00e3o de cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o pelo juiz."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "apela\u00e7\u00e3o, processada independentemente da cita\u00e7\u00e3o do r\u00e9u, sendo poss\u00edvel a retrata\u00e7\u00e3o da decis\u00e3o pelo juiz."
+            }
+        ],
+        "valid": true
+    }
+]

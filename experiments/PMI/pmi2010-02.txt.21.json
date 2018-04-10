@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "A respeito das diferen\u00e7as e semelhan\u00e7as entre prescri\u00e7\u00e3o e decad\u00eancia, no C\u00f3digo Civil, \u00e9 correto afirmar que:", "areas": ["CIVIL"], "options": [{"text": "a prescri\u00e7\u00e3o acarreta a extin\u00e7\u00e3o do direito potestativo, enquanto a decad\u00eancia gera a extin\u00e7\u00e3o do direito subjetivo.", "correct": null, "letter": "A", "pmi": [-0.1032220660898188, 0.0, 0.0, 0.0]}, {"text": "os prazos prescricionais podem ser suspensos e interrompidos, enquanto os prazos decadenciais legais n\u00e3o se suspendem ou interrompem, com exce\u00e7\u00e3o da hip\u00f3tese de titular de direito absolutamente incapaz, contra o qual n\u00e3o corre nem prazo prescricional nem prazo decadencial.", "correct": true, "letter": "B", "pmi": [-0.03656793073888843, 0.0, 0.0, 0.0]}, {"text": "n\u00e3o se pode renunciar \u00e0 decad\u00eancia legal nem \u00e0 prescri\u00e7\u00e3o, mesmo ap\u00f3s consumadas.", "correct": null, "letter": "C", "pmi": [0.08609931373146981, 0.0, 0.0, 0.0]}, {"text": "a prescri\u00e7\u00e3o \u00e9 exce\u00e7\u00e3o que deve ser alegada pela parte a quem beneficia, enquanto a decad\u00eancia pode ser declarada de of\u00edcio pelo juiz.", "correct": null, "letter": "D", "pmi": [0.05381207108216863, 0.0, 0.0, 0.0]}], "number": "21", "filename": "2010-02.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "A respeito das diferen\u00e7as e semelhan\u00e7as entre prescri\u00e7\u00e3o e decad\u00eancia, no C\u00f3digo Civil, \u00e9 correto afirmar que:",
+        "areas": [
+            "CIVIL"
+        ],
+        "options": [
+            {
+                "text": "a prescri\u00e7\u00e3o acarreta a extin\u00e7\u00e3o do direito potestativo, enquanto a decad\u00eancia gera a extin\u00e7\u00e3o do direito subjetivo.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.1032220660898188,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "os prazos prescricionais podem ser suspensos e interrompidos, enquanto os prazos decadenciais legais n\u00e3o se suspendem ou interrompem, com exce\u00e7\u00e3o da hip\u00f3tese de titular de direito absolutamente incapaz, contra o qual n\u00e3o corre nem prazo prescricional nem prazo decadencial.",
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.03656793073888843,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "n\u00e3o se pode renunciar \u00e0 decad\u00eancia legal nem \u00e0 prescri\u00e7\u00e3o, mesmo ap\u00f3s consumadas.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.08609931373146981,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "a prescri\u00e7\u00e3o \u00e9 exce\u00e7\u00e3o que deve ser alegada pela parte a quem beneficia, enquanto a decad\u00eancia pode ser declarada de of\u00edcio pelo juiz.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.05381207108216863,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "21",
+        "filename": "2010-02.txt"
+    }
+]

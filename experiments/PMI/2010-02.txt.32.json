@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "A incompet\u00eancia do ju\u00edzo, tal como prevista no CPC, pode assumir duas fei\u00e7\u00f5es, de acordo com a natureza do v\u00edcio e ainda com as consequ\u00eancias advindas de tal reconhecimento. O C\u00f3digo trata, ent\u00e3o, da incompet\u00eancia absoluta e da relativa. A respeito dessas modalidades de incompet\u00eancia, assinale a afirmativa correta.", "filename": "2010-02.txt", "number": "32", "options": [{"correct": null, "letter": "A", "text": "A incompet\u00eancia relativa pode ser alegada a qualquer tempo."}, {"correct": null, "letter": "B", "text": "A incompet\u00eancia relativa sempre pode ser conhecida de of\u00edcio pelo juiz."}, {"correct": null, "letter": "C", "text": "A incompet\u00eancia absoluta gera a nulidade de todos os atos praticados no processo at\u00e9 seu reconhecimento."}, {"correct": true, "letter": "D", "text": "A incompet\u00eancia absoluta \u00e9 alegada como preliminar da contesta\u00e7\u00e3o ou por peti\u00e7\u00e3o nos autos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "A incompet\u00eancia do ju\u00edzo, tal como prevista no CPC, pode assumir duas fei\u00e7\u00f5es, de acordo com a natureza do v\u00edcio e ainda com as consequ\u00eancias advindas de tal reconhecimento. O C\u00f3digo trata, ent\u00e3o, da incompet\u00eancia absoluta e da relativa. A respeito dessas modalidades de incompet\u00eancia, assinale a afirmativa correta.",
+        "filename": "2010-02.txt",
+        "number": "32",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A incompet\u00eancia relativa pode ser alegada a qualquer tempo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A incompet\u00eancia relativa sempre pode ser conhecida de of\u00edcio pelo juiz."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A incompet\u00eancia absoluta gera a nulidade de todos os atos praticados no processo at\u00e9 seu reconhecimento."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "A incompet\u00eancia absoluta \u00e9 alegada como preliminar da contesta\u00e7\u00e3o ou por peti\u00e7\u00e3o nos autos."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A respeito das diferen\u00e7as entre a assembleia geral ordin\u00e1ria e a assembleia geral extraordin\u00e1ria de uma sociedade an\u00f4nima, \u00e9 correto afirmar que", "filename": "2012-06a.txt", "number": "48", "options": [{"correct": null, "letter": "A", "text": "a assembleia geral extraordin\u00e1ria poder\u00e1 ser realizada a qualquer momento, sendo que a assembleia geral ordin\u00e1ria dever\u00e1 ser realizada nos 5 (cinco) primeiros meses seguintes ao t\u00e9rmino do exerc\u00edcio social."}, {"correct": true, "letter": "B", "text": "\u00e9 compet\u00eancia privativa da assembleia geral ordin\u00e1ria deliberar sobre a destina\u00e7\u00e3o do lucro l\u00edquido do exerc\u00edcio e a distribui\u00e7\u00e3o de dividendos."}, {"correct": null, "letter": "C", "text": "a assembleia geral extraordin\u00e1ria n\u00e3o tem compet\u00eancia para deliberar sobre reforma do estatuto social."}, {"correct": null, "letter": "D", "text": "a assembleia geral ordin\u00e1ria jamais ter\u00e1 compet\u00eancia para eleger os administradores da companhia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A respeito das diferen\u00e7as entre a assembleia geral ordin\u00e1ria e a assembleia geral extraordin\u00e1ria de uma sociedade an\u00f4nima, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "48",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a assembleia geral extraordin\u00e1ria poder\u00e1 ser realizada a qualquer momento, sendo que a assembleia geral ordin\u00e1ria dever\u00e1 ser realizada nos 5 (cinco) primeiros meses seguintes ao t\u00e9rmino do exerc\u00edcio social."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "\u00e9 compet\u00eancia privativa da assembleia geral ordin\u00e1ria deliberar sobre a destina\u00e7\u00e3o do lucro l\u00edquido do exerc\u00edcio e a distribui\u00e7\u00e3o de dividendos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a assembleia geral extraordin\u00e1ria n\u00e3o tem compet\u00eancia para deliberar sobre reforma do estatuto social."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a assembleia geral ordin\u00e1ria jamais ter\u00e1 compet\u00eancia para eleger os administradores da companhia."
+            }
+        ],
+        "valid": true
+    }
+]

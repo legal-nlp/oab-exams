@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"letter": "A", "text": "podem incorporar-se entre si mediante aprova\u00e7\u00e3o em referendo.", "pmi": [-0.6605218899835122, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "a subdivis\u00e3o n\u00e3o pode gerar a forma\u00e7\u00e3o de novos territ\u00f3rios.", "pmi": [-0.46358330793233016, 0.0, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "o desmembramento deve ser precedido de autoriza\u00e7\u00e3o por lei ordin\u00e1ria.", "pmi": [-0.4589191606741728, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "se requer lei complementar federal aprovando a cria\u00e7\u00e3o de novos entes estaduais.", "pmi": [-0.5011700287813915, 0.0, 0.0, 0.0], "correct": true}], "areas": ["CONSTITUTIONAL"], "filename": "2011-05.txt", "enum": "Os Estados s\u00e3o aut\u00f4nomos e comp\u00f5em a Federa\u00e7\u00e3o com a Uni\u00e3o, os Munic\u00edpios e o Distrito Federal. \u00c0 luz das normas constitucionais, quanto aos Estados, \u00e9 correto afirmar que", "number": "19"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "text": "podem incorporar-se entre si mediante aprova\u00e7\u00e3o em referendo.",
+                "pmi": [
+                    -0.6605218899835122,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "a subdivis\u00e3o n\u00e3o pode gerar a forma\u00e7\u00e3o de novos territ\u00f3rios.",
+                "pmi": [
+                    -0.46358330793233016,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "o desmembramento deve ser precedido de autoriza\u00e7\u00e3o por lei ordin\u00e1ria.",
+                "pmi": [
+                    -0.4589191606741728,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "se requer lei complementar federal aprovando a cria\u00e7\u00e3o de novos entes estaduais.",
+                "pmi": [
+                    -0.5011700287813915,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2011-05.txt",
+        "enum": "Os Estados s\u00e3o aut\u00f4nomos e comp\u00f5em a Federa\u00e7\u00e3o com a Uni\u00e3o, os Munic\u00edpios e o Distrito Federal. \u00c0 luz das normas constitucionais, quanto aos Estados, \u00e9 correto afirmar que",
+        "number": "19"
+    }
+]

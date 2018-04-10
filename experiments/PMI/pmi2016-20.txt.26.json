@@ -1,1 +1,55 @@
-[{"areas": [], "enum": "Fulano de Tal prometeu adquirir de uma autarquia federal um im\u00f3vel residencial urbano. O sinal e parte substancial do pre\u00e7o s\u00e3o pagos no momento da lavratura da escritura p\u00fablica de promessa de compra e venda, que \u00e9 prontamente registrada no Registro Geral de Im\u00f3veis (RGI) competente. O saldo do pre\u00e7o ser\u00e1 pago em v\u00e1rias parcelas.\n\n Ap\u00f3s o registro da promessa de compra e venda", "options": [{"text": "passa a incidir o IPTU, a ser pago pela autarquia.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "continua a n\u00e3o incidir o IPTU, por for\u00e7a da imunidade da autarquia (cujo nome continua vinculado ao im\u00f3vel no RGI, ainda que agora a autarquia figure como promitente vendedora).", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "passa a incidir o IPTU, a ser pago solidariamente pela autarquia e por Fulano de Tal.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "passa a incidir o IPTU, a ser pago por Fulano de Tal, uma vez que registrada no RGI a promessa de compra e venda do im\u00f3vel.", "letter": "D", "pmi": [-0.006283681504819614, 0.0, 0.0, 0.0], "correct": true}], "filename": "2016-20.txt", "valid": true, "number": "26"}]
+[
+    {
+        "areas": [],
+        "enum": "Fulano de Tal prometeu adquirir de uma autarquia federal um im\u00f3vel residencial urbano. O sinal e parte substancial do pre\u00e7o s\u00e3o pagos no momento da lavratura da escritura p\u00fablica de promessa de compra e venda, que \u00e9 prontamente registrada no Registro Geral de Im\u00f3veis (RGI) competente. O saldo do pre\u00e7o ser\u00e1 pago em v\u00e1rias parcelas.\n\n Ap\u00f3s o registro da promessa de compra e venda",
+        "options": [
+            {
+                "text": "passa a incidir o IPTU, a ser pago pela autarquia.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "continua a n\u00e3o incidir o IPTU, por for\u00e7a da imunidade da autarquia (cujo nome continua vinculado ao im\u00f3vel no RGI, ainda que agora a autarquia figure como promitente vendedora).",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "passa a incidir o IPTU, a ser pago solidariamente pela autarquia e por Fulano de Tal.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "passa a incidir o IPTU, a ser pago por Fulano de Tal, uma vez que registrada no RGI a promessa de compra e venda do im\u00f3vel.",
+                "letter": "D",
+                "pmi": [
+                    -0.006283681504819614,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ],
+        "filename": "2016-20.txt",
+        "valid": true,
+        "number": "26"
+    }
+]

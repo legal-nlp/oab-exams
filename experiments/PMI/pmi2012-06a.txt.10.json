@@ -1,1 +1,57 @@
-[{"areas": ["ETHICS"], "enum": "Nos termos das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, o estagi\u00e1rio poder\u00e1 isoladamente realizar o seguinte ato:", "valid": true, "options": [{"pmi": [0.011356741791118717, 0.0, 0.0, 0.0], "text": "atuar em audi\u00eancias nos Juizados Especiais representando os clientes do escrit\u00f3rio.", "letter": "A", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "obter com os Chefes de Secretarias certid\u00f5es de pe\u00e7as de processos em curso.", "letter": "B", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "sustentar oralmente os recursos nos tribunais, quando cab\u00edvel a defesa oral.", "letter": "C", "correct": null}, {"pmi": [-0.2525948323510278, 0.0, 0.0, 0.0], "text": "assinar peti\u00e7\u00f5es iniciais ou contesta\u00e7\u00f5es quando inclu\u00eddo no instrumento de mandato.", "letter": "D", "correct": null}], "number": "10", "filename": "2012-06a.txt"}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Nos termos das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, o estagi\u00e1rio poder\u00e1 isoladamente realizar o seguinte ato:",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    0.011356741791118717,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "atuar em audi\u00eancias nos Juizados Especiais representando os clientes do escrit\u00f3rio.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "obter com os Chefes de Secretarias certid\u00f5es de pe\u00e7as de processos em curso.",
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "sustentar oralmente os recursos nos tribunais, quando cab\u00edvel a defesa oral.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.2525948323510278,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "assinar peti\u00e7\u00f5es iniciais ou contesta\u00e7\u00f5es quando inclu\u00eddo no instrumento de mandato.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "number": "10",
+        "filename": "2012-06a.txt"
+    }
+]

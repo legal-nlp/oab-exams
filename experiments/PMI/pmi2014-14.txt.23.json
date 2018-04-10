@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Na hip\u00f3tese de inadimpl\u00eancia do Estado brasileiro, condenado ao pagamento de quantia certa pela Corte Interamericana de Direitos Humanos, dever\u00e1 o interessado", "options": [{"letter": "A", "text": "execut\u00e1-la perante a Justi\u00e7a Federal pelo processo interno vigente para a execu\u00e7\u00e3o de senten\u00e7as contra o Estado.", "pmi": [-0.024135718257596993, 0.0, 0.0, 0.0], "correct": true}, {"letter": "B", "text": "pedir que os autos do processo sejam encaminhados ao Conselho de Seguran\u00e7a da ONU para a imposi\u00e7\u00e3o de san\u00e7\u00f5es internacionais.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "reinvindicar pelo processo vigente no pa\u00eds, porque as senten\u00e7as proferidas pela Corte Interamericana de Direitos Humanos s\u00e3o desprovidas de executoriedade.", "pmi": [-0.01071794025673442, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "postular perante a Corte a intima\u00e7\u00e3o do Estado brasileiro para efetuar o pagamento em vinte e quatro horas ou nomear bens \u00e0 penhora.", "pmi": [-0.0514442910532351, 0.0, 0.0, 0.0], "correct": null}], "areas": ["HUMAN-RIGHTS"], "number": "23", "filename": "2014-14.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "Na hip\u00f3tese de inadimpl\u00eancia do Estado brasileiro, condenado ao pagamento de quantia certa pela Corte Interamericana de Direitos Humanos, dever\u00e1 o interessado",
+        "options": [
+            {
+                "letter": "A",
+                "text": "execut\u00e1-la perante a Justi\u00e7a Federal pelo processo interno vigente para a execu\u00e7\u00e3o de senten\u00e7as contra o Estado.",
+                "pmi": [
+                    -0.024135718257596993,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "text": "pedir que os autos do processo sejam encaminhados ao Conselho de Seguran\u00e7a da ONU para a imposi\u00e7\u00e3o de san\u00e7\u00f5es internacionais.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "reinvindicar pelo processo vigente no pa\u00eds, porque as senten\u00e7as proferidas pela Corte Interamericana de Direitos Humanos s\u00e3o desprovidas de executoriedade.",
+                "pmi": [
+                    -0.01071794025673442,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "postular perante a Corte a intima\u00e7\u00e3o do Estado brasileiro para efetuar o pagamento em vinte e quatro horas ou nomear bens \u00e0 penhora.",
+                "pmi": [
+                    -0.0514442910532351,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "number": "23",
+        "filename": "2014-14.txt"
+    }
+]

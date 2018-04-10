@@ -1,1 +1,57 @@
-[{"enum": "Jo\u00e3o foi registrado ao nascer com o g\u00eanero masculino. Em 2008, aos 18 anos, fez cirurgia para corre\u00e7\u00e3o de anomalia gen\u00e9tica e teve seu registro retificado para o g\u00eanero feminino, conforme senten\u00e7a judicial. No registro n\u00e3o constou textualmente a indica\u00e7\u00e3o de retifica\u00e7\u00e3o, apenas foi lavrado um novo termo, passando a adotar o nome de Joana. Em julho de 2010, casou-se com Ant\u00f4nio, homem religioso e de fam\u00edlia tradicional interiorana, que conheceu em janeiro de 2010, por quem teve uma paix\u00e3o fulminante e correspondida. Joana omitiu sua hist\u00f3ria registral por medo de n\u00e3o ser aceita e perd\u00ea-lo. Em dezembro de 2010, na noite de Natal, a tia de Joana revela a Ant\u00f4nio a verdade sobre o registro de Joana/Jo\u00e3o. Ant\u00f4nio, n\u00e3o suportando ter sido enganado, deseja a anula\u00e7\u00e3o do casamento.\n\n Conforme a an\u00e1lise da hip\u00f3tese formulada, \u00e9 correto afirmar que o casamento de Ant\u00f4nio e Joana", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "text": "s\u00f3 pode ser anulado at\u00e9 90 dias da sua celebra\u00e7\u00e3o.", "letter": "A", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "poder\u00e1 ser anulado pela identidade err\u00f4nea de Joana/Jo\u00e3o perante Ant\u00f4nio e a insuportabilidade da vida em comum.", "letter": "B", "correct": true}, {"pmi": [-0.012819984454687584, 0.0, 0.0, 0.0], "text": "\u00e9 inexistente, pois n\u00e3o houve a aceita\u00e7\u00e3o adequada, visto que Ant\u00f4nio foi levado ao erro de pessoa, o que tornou insuport\u00e1vel a vida em comum do casal.", "letter": "C", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "\u00e9 nulo; portanto, n\u00e3o h\u00e1 prazo para a sua argui\u00e7\u00e3o", "letter": "D", "correct": null}], "valid": true, "number": "13", "filename": "2011-03.txt", "areas": ["CIVIL"]}]
+[
+    {
+        "enum": "Jo\u00e3o foi registrado ao nascer com o g\u00eanero masculino. Em 2008, aos 18 anos, fez cirurgia para corre\u00e7\u00e3o de anomalia gen\u00e9tica e teve seu registro retificado para o g\u00eanero feminino, conforme senten\u00e7a judicial. No registro n\u00e3o constou textualmente a indica\u00e7\u00e3o de retifica\u00e7\u00e3o, apenas foi lavrado um novo termo, passando a adotar o nome de Joana. Em julho de 2010, casou-se com Ant\u00f4nio, homem religioso e de fam\u00edlia tradicional interiorana, que conheceu em janeiro de 2010, por quem teve uma paix\u00e3o fulminante e correspondida. Joana omitiu sua hist\u00f3ria registral por medo de n\u00e3o ser aceita e perd\u00ea-lo. Em dezembro de 2010, na noite de Natal, a tia de Joana revela a Ant\u00f4nio a verdade sobre o registro de Joana/Jo\u00e3o. Ant\u00f4nio, n\u00e3o suportando ter sido enganado, deseja a anula\u00e7\u00e3o do casamento.\n\n Conforme a an\u00e1lise da hip\u00f3tese formulada, \u00e9 correto afirmar que o casamento de Ant\u00f4nio e Joana",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00f3 pode ser anulado at\u00e9 90 dias da sua celebra\u00e7\u00e3o.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "poder\u00e1 ser anulado pela identidade err\u00f4nea de Joana/Jo\u00e3o perante Ant\u00f4nio e a insuportabilidade da vida em comum.",
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.012819984454687584,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 inexistente, pois n\u00e3o houve a aceita\u00e7\u00e3o adequada, visto que Ant\u00f4nio foi levado ao erro de pessoa, o que tornou insuport\u00e1vel a vida em comum do casal.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 nulo; portanto, n\u00e3o h\u00e1 prazo para a sua argui\u00e7\u00e3o",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "number": "13",
+        "filename": "2011-03.txt",
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

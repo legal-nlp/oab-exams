@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2015-16.txt", "enum": "Julgado diss\u00eddio coletivo entre uma categoria profissional e a patronal, em que foram concedidas algumas vantagens econ\u00f4micas \u00e0 categoria dos empregados, estas n\u00e3o foram cumpridas de imediato pela empresa Alfa Ltda.. Diante disso, o sindicato profissional decidiu ajuizar a\u00e7\u00e3o de cumprimento em face da empresa.\n\n Sobre o caso apresentado, assinale a afirmativa correta.", "options": [{"pmi": [-0.20325117947873605, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "Dever\u00e1 aguardar o tr\u00e2nsito em julgado da decis\u00e3o, para ajuizar a referida a\u00e7\u00e3o."}, {"pmi": [-0.1683645960397355, 0.0, 0.0, 0.0], "correct": true, "letter": "B", "text": "Poder\u00e1 ajuizar a a\u00e7\u00e3o, pois o tr\u00e2nsito em julgado da senten\u00e7a normativa \u00e9 dispens\u00e1vel."}, {"pmi": [-0.06440989381568274, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "N\u00e3o juntada a certid\u00e3o de tr\u00e2nsito em julgado da senten\u00e7a normativa, o feito ser\u00e1 extinto sem resolu\u00e7\u00e3o de m\u00e9rito."}, {"pmi": [-0.3198981930435513, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "Incab\u00edvel a a\u00e7\u00e3o de cumprimento, no caso."}], "valid": true, "number": "77"}]
+[
+    {
+        "areas": [],
+        "filename": "2015-16.txt",
+        "enum": "Julgado diss\u00eddio coletivo entre uma categoria profissional e a patronal, em que foram concedidas algumas vantagens econ\u00f4micas \u00e0 categoria dos empregados, estas n\u00e3o foram cumpridas de imediato pela empresa Alfa Ltda.. Diante disso, o sindicato profissional decidiu ajuizar a\u00e7\u00e3o de cumprimento em face da empresa.\n\n Sobre o caso apresentado, assinale a afirmativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.20325117947873605,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "Dever\u00e1 aguardar o tr\u00e2nsito em julgado da decis\u00e3o, para ajuizar a referida a\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.1683645960397355,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B",
+                "text": "Poder\u00e1 ajuizar a a\u00e7\u00e3o, pois o tr\u00e2nsito em julgado da senten\u00e7a normativa \u00e9 dispens\u00e1vel."
+            },
+            {
+                "pmi": [
+                    -0.06440989381568274,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o juntada a certid\u00e3o de tr\u00e2nsito em julgado da senten\u00e7a normativa, o feito ser\u00e1 extinto sem resolu\u00e7\u00e3o de m\u00e9rito."
+            },
+            {
+                "pmi": [
+                    -0.3198981930435513,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "Incab\u00edvel a a\u00e7\u00e3o de cumprimento, no caso."
+            }
+        ],
+        "valid": true,
+        "number": "77"
+    }
+]

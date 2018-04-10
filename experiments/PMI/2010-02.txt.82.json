@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Mauro, advogado com larga experi\u00eancia profissional, resolve contratar com emissora de televis\u00e3o, um novo programa, inclu\u00eddo na grade normal de hor\u00e1rios da empresa, cujo titulo \u00e9 \u201co Advogado na TV\u201d, com o fito de proporcionar informa\u00e7\u00f5es sobre a carreira, os seus percal\u00e7os, suas ang\u00fastias, alegrias e comprovar a possibilidade de sucesso profissional.\n\n No curso do programa, inclui refer\u00eancia \u00e0s causas ganhas, bem como \u00e0quelas ainda em curso e que podem ter repercuss\u00e3o no meio jur\u00eddico, todas essas vinculadas ao seu escrit\u00f3rio de advocacia.\n\n Consoante as normas aplic\u00e1veis, \u00e9 correto afirmar que:", "filename": "2010-02.txt", "number": "82", "options": [{"correct": null, "letter": "A", "text": "a participa\u00e7\u00e3o em programa televisivo est\u00e1 vedada aos advogados."}, {"correct": null, "letter": "B", "text": "a publicidade, como narrada, \u00e9 compat\u00edvel com as normas do C\u00f3digo de \u00c9tica."}, {"correct": true, "letter": "C", "text": "o advogado, no caso, deveria se limitar ao aspecto educacional e instrutivo da atividade profissional."}, {"correct": null, "letter": "D", "text": "programas televisivos s\u00e3o franqueados aos advogados, inclusive para realizar propaganda dos seus escrit\u00f3rios."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Mauro, advogado com larga experi\u00eancia profissional, resolve contratar com emissora de televis\u00e3o, um novo programa, inclu\u00eddo na grade normal de hor\u00e1rios da empresa, cujo titulo \u00e9 \u201co Advogado na TV\u201d, com o fito de proporcionar informa\u00e7\u00f5es sobre a carreira, os seus percal\u00e7os, suas ang\u00fastias, alegrias e comprovar a possibilidade de sucesso profissional.\n\n No curso do programa, inclui refer\u00eancia \u00e0s causas ganhas, bem como \u00e0quelas ainda em curso e que podem ter repercuss\u00e3o no meio jur\u00eddico, todas essas vinculadas ao seu escrit\u00f3rio de advocacia.\n\n Consoante as normas aplic\u00e1veis, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
+        "number": "82",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a participa\u00e7\u00e3o em programa televisivo est\u00e1 vedada aos advogados."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a publicidade, como narrada, \u00e9 compat\u00edvel com as normas do C\u00f3digo de \u00c9tica."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o advogado, no caso, deveria se limitar ao aspecto educacional e instrutivo da atividade profissional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "programas televisivos s\u00e3o franqueados aos advogados, inclusive para realizar propaganda dos seus escrit\u00f3rios."
+            }
+        ],
+        "valid": true
+    }
+]

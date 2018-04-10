@@ -1,1 +1,55 @@
-[{"enum": "Jo\u00e3o Henrique residia com sua companheira Nat\u00e1lia em im\u00f3vel alugado a ele por Frederico pelo prazo certo de trinta meses, tendo como fiador Waldemar, pai de Jo\u00e3o Henrique. A uni\u00e3o do casal, por\u00e9m, chegou ao fim, de forma que Jo\u00e3o Henrique deixou o lar quando faltavam seis meses para o fim do prazo da loca\u00e7\u00e3o. O locador e o fiador foram comunicados a respeito da sa\u00edda de Jo\u00e3o Henrique do im\u00f3vel.\n\n Sobre o caso apresentado, assinale a afirmativa correta.", "options": [{"letter": "A", "correct": null, "pmi": [-0.008166451728501552, 0.0, 0.0, 0.0], "text": "Como o locat\u00e1rio era Jo\u00e3o Henrique, sua sa\u00edda do im\u00f3vel implica a extin\u00e7\u00e3o do contrato de loca\u00e7\u00e3o, podendo Frederico exigir, imediatamente, que Nat\u00e1lia o desocupe."}, {"letter": "B", "correct": null, "pmi": [-0.01534030247879472, 0.0, 0.0, 0.0], "text": "Como Jo\u00e3o Henrique era o locat\u00e1rio, sua sa\u00edda permite que Nat\u00e1lia continue residindo no im\u00f3vel apenas at\u00e9 o t\u00e9rmino do prazo contratual, momento em que o contrato se extingue, sem possibilidade de renova\u00e7\u00e3o, salvo nova conven\u00e7\u00e3o entre Nat\u00e1lia e Frederico."}, {"letter": "C", "correct": null, "pmi": [-0.020306106455325792, 0.0, 0.0, 0.0], "text": "Com a sa\u00edda do locat\u00e1rio do im\u00f3vel, a loca\u00e7\u00e3o prossegue automaticamente tendo Nat\u00e1lia como locat\u00e1ria, por\u00e9m a fian\u00e7a prestada por Waldemar caduca, permitindo a Frederico exigir de Nat\u00e1lia o oferecimento de nova garantia, sob pena de resolu\u00e7\u00e3o do contrato."}, {"letter": "D", "correct": true, "pmi": [-0.031229954039894994, 0.0, 0.0, 0.0], "text": "Com a sa\u00edda do locat\u00e1rio, a loca\u00e7\u00e3o prossegue com Nat\u00e1lia, permitido a Waldemar exonerar-se da fian\u00e7a em at\u00e9 trinta dias da data em que for cientificado da sa\u00edda do seu filho do im\u00f3vel; ainda assim, a exonera\u00e7\u00e3o s\u00f3 produzir\u00e1 efeitos cento e vinte dias depois de notificado o locador."}], "areas": [], "filename": "2015-18.txt", "valid": true, "number": "38"}]
+[
+    {
+        "enum": "Jo\u00e3o Henrique residia com sua companheira Nat\u00e1lia em im\u00f3vel alugado a ele por Frederico pelo prazo certo de trinta meses, tendo como fiador Waldemar, pai de Jo\u00e3o Henrique. A uni\u00e3o do casal, por\u00e9m, chegou ao fim, de forma que Jo\u00e3o Henrique deixou o lar quando faltavam seis meses para o fim do prazo da loca\u00e7\u00e3o. O locador e o fiador foram comunicados a respeito da sa\u00edda de Jo\u00e3o Henrique do im\u00f3vel.\n\n Sobre o caso apresentado, assinale a afirmativa correta.",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.008166451728501552,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Como o locat\u00e1rio era Jo\u00e3o Henrique, sua sa\u00edda do im\u00f3vel implica a extin\u00e7\u00e3o do contrato de loca\u00e7\u00e3o, podendo Frederico exigir, imediatamente, que Nat\u00e1lia o desocupe."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.01534030247879472,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Como Jo\u00e3o Henrique era o locat\u00e1rio, sua sa\u00edda permite que Nat\u00e1lia continue residindo no im\u00f3vel apenas at\u00e9 o t\u00e9rmino do prazo contratual, momento em que o contrato se extingue, sem possibilidade de renova\u00e7\u00e3o, salvo nova conven\u00e7\u00e3o entre Nat\u00e1lia e Frederico."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.020306106455325792,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Com a sa\u00edda do locat\u00e1rio do im\u00f3vel, a loca\u00e7\u00e3o prossegue automaticamente tendo Nat\u00e1lia como locat\u00e1ria, por\u00e9m a fian\u00e7a prestada por Waldemar caduca, permitindo a Frederico exigir de Nat\u00e1lia o oferecimento de nova garantia, sob pena de resolu\u00e7\u00e3o do contrato."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.031229954039894994,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Com a sa\u00edda do locat\u00e1rio, a loca\u00e7\u00e3o prossegue com Nat\u00e1lia, permitido a Waldemar exonerar-se da fian\u00e7a em at\u00e9 trinta dias da data em que for cientificado da sa\u00edda do seu filho do im\u00f3vel; ainda assim, a exonera\u00e7\u00e3o s\u00f3 produzir\u00e1 efeitos cento e vinte dias depois de notificado o locador."
+            }
+        ],
+        "areas": [],
+        "filename": "2015-18.txt",
+        "valid": true,
+        "number": "38"
+    }
+]

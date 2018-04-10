@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Segundo a Lei dos Juizados Especiais, assinale a alternativa que apresenta o procedimento correto.", "filename": "2013-12.txt", "number": "67", "options": [{"correct": true, "letter": "A", "text": "Aberta a audi\u00eancia, ser\u00e1 dada a palavra ao defensor para responder \u00e0 acusa\u00e7\u00e3o, ap\u00f3s o que o Juiz receber\u00e1, ou n\u00e3o, a den\u00fancia ou queixa; havendo recebimento, ser\u00e3o ouvidas a v\u00edtima e as testemunhas de acusa\u00e7\u00e3o e defesa, interrogando-se a seguir o acusado, se presente, passando-se imediatamente aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a."}, {"correct": null, "letter": "B", "text": "Da decis\u00e3o de rejei\u00e7\u00e3o da den\u00fancia ou queixa caber\u00e1 recurso em sentido estrito, que dever\u00e1 ser interposto no prazo de cinco dias."}, {"correct": null, "letter": "C", "text": "Os embargos de declara\u00e7\u00e3o s\u00e3o cab\u00edveis quando, em senten\u00e7a ou ac\u00f3rd\u00e3o, houver obscuridade, contradi\u00e7\u00e3o, omiss\u00e3o ou d\u00favida, que dever\u00e3o ser opostos em dois dias."}, {"correct": null, "letter": "D", "text": "Se a complexidade do caso n\u00e3o permitir a formula\u00e7\u00e3o da den\u00fancia oral em audi\u00eancia, o Minist\u00e9rio P\u00fablico poder\u00e1 requerer ao juiz dila\u00e7\u00e3o do prazo para apresentar den\u00fancia escrita nas pr\u00f3ximas 72 horas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Segundo a Lei dos Juizados Especiais, assinale a alternativa que apresenta o procedimento correto.",
+        "filename": "2013-12.txt",
+        "number": "67",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Aberta a audi\u00eancia, ser\u00e1 dada a palavra ao defensor para responder \u00e0 acusa\u00e7\u00e3o, ap\u00f3s o que o Juiz receber\u00e1, ou n\u00e3o, a den\u00fancia ou queixa; havendo recebimento, ser\u00e3o ouvidas a v\u00edtima e as testemunhas de acusa\u00e7\u00e3o e defesa, interrogando-se a seguir o acusado, se presente, passando-se imediatamente aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Da decis\u00e3o de rejei\u00e7\u00e3o da den\u00fancia ou queixa caber\u00e1 recurso em sentido estrito, que dever\u00e1 ser interposto no prazo de cinco dias."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os embargos de declara\u00e7\u00e3o s\u00e3o cab\u00edveis quando, em senten\u00e7a ou ac\u00f3rd\u00e3o, houver obscuridade, contradi\u00e7\u00e3o, omiss\u00e3o ou d\u00favida, que dever\u00e3o ser opostos em dois dias."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Se a complexidade do caso n\u00e3o permitir a formula\u00e7\u00e3o da den\u00fancia oral em audi\u00eancia, o Minist\u00e9rio P\u00fablico poder\u00e1 requerer ao juiz dila\u00e7\u00e3o do prazo para apresentar den\u00fancia escrita nas pr\u00f3ximas 72 horas."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"options": [{"letter": "A", "correct": true, "pmi": [-0.011611723563229481, 0.0, 0.0, 0.0], "text": "Estado ou a condi\u00e7\u00e3o de um indiv\u00edduo sobre o qual se exercem todos ou parte dos poderes atribu\u00eddos ao direito de propriedade."}, {"letter": "B", "correct": null, "pmi": [-0.007185494731659249, 0.0, 0.0, 0.0], "text": "Situa\u00e7\u00e3o em que um indiv\u00edduo trabalha em condi\u00e7\u00f5es prec\u00e1rias e n\u00e3o recebe seus direitos trabalhistas de modo pleno e integral."}, {"letter": "C", "correct": null, "pmi": [-0.03171708893306032, 0.0, 0.0, 0.0], "text": "Rela\u00e7\u00e3o em que uma pessoa possui o controle f\u00edsico sobre o corpo de outra pessoa."}, {"letter": "D", "correct": null, "pmi": [-0.007319328215321613, 0.0, 0.0, 0.0], "text": "Condi\u00e7\u00e3o por meio da qual uma pessoa se encontra psicologicamente constrangida a cumprir as ordens que lhe s\u00e3o dadas por terceiros, ainda que tais ordens sejam contr\u00e1rias aos seus interesses."}], "areas": [], "number": "21", "filename": "2016-19.txt", "valid": true, "enum": "Em dezembro de 2014, a sul-africana Urmila Bhoola, relatora especial das Na\u00e7\u00f5es Unidas sobre as formas contempor\u00e2neas de escravid\u00e3o, declarou que \"pelo menos 20,9 milh\u00f5es de pessoas est\u00e3o sujeitas a formas modernas de escravid\u00e3o, que atingem principalmente mulheres e crian\u00e7as\". A relatora da ONU, para fazer tal afirma\u00e7\u00e3o, considerou o conceito de escravid\u00e3o presente na Conven\u00e7\u00e3o Suplementar sobre a Aboli\u00e7\u00e3o da Escravatura, do Tr\u00e1fico de Escravos e das Institui\u00e7\u00f5es e Pr\u00e1ticas An\u00e1logas \u00e0 Escravatura adotada em Genebra, em 7 de setembro de 1956.\n\n Assinale a op\u00e7\u00e3o que apresenta o conceito de escravid\u00e3o conforme disposto na referida Conven\u00e7\u00e3o:"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.011611723563229481,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Estado ou a condi\u00e7\u00e3o de um indiv\u00edduo sobre o qual se exercem todos ou parte dos poderes atribu\u00eddos ao direito de propriedade."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.007185494731659249,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Situa\u00e7\u00e3o em que um indiv\u00edduo trabalha em condi\u00e7\u00f5es prec\u00e1rias e n\u00e3o recebe seus direitos trabalhistas de modo pleno e integral."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.03171708893306032,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Rela\u00e7\u00e3o em que uma pessoa possui o controle f\u00edsico sobre o corpo de outra pessoa."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.007319328215321613,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Condi\u00e7\u00e3o por meio da qual uma pessoa se encontra psicologicamente constrangida a cumprir as ordens que lhe s\u00e3o dadas por terceiros, ainda que tais ordens sejam contr\u00e1rias aos seus interesses."
+            }
+        ],
+        "areas": [],
+        "number": "21",
+        "filename": "2016-19.txt",
+        "valid": true,
+        "enum": "Em dezembro de 2014, a sul-africana Urmila Bhoola, relatora especial das Na\u00e7\u00f5es Unidas sobre as formas contempor\u00e2neas de escravid\u00e3o, declarou que \"pelo menos 20,9 milh\u00f5es de pessoas est\u00e3o sujeitas a formas modernas de escravid\u00e3o, que atingem principalmente mulheres e crian\u00e7as\". A relatora da ONU, para fazer tal afirma\u00e7\u00e3o, considerou o conceito de escravid\u00e3o presente na Conven\u00e7\u00e3o Suplementar sobre a Aboli\u00e7\u00e3o da Escravatura, do Tr\u00e1fico de Escravos e das Institui\u00e7\u00f5es e Pr\u00e1ticas An\u00e1logas \u00e0 Escravatura adotada em Genebra, em 7 de setembro de 1956.\n\n Assinale a op\u00e7\u00e3o que apresenta o conceito de escravid\u00e3o conforme disposto na referida Conven\u00e7\u00e3o:"
+    }
+]

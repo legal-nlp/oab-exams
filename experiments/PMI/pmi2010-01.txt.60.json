@@ -1,1 +1,57 @@
-[{"enum": "Caso ocorra a fus\u00e3o de duas grandes ind\u00fastrias aliment\u00edcias brasileiras que, juntas, detenham mais de 60% do mercado nacional de certo item de alimenta\u00e7\u00e3o, de acordo com o que disp\u00f5e a CF, para prevenir os desequil\u00edbrios da concorr\u00eancia causados pela citada fus\u00e3o,", "areas": ["TAXES"], "valid": true, "filename": "2010-01.txt", "number": "60", "options": [{"pmi": [-0.1718490179255756, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "a Uni\u00e3o, os estados, o DF e os munic\u00edpios poder\u00e3o estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, al\u00e9m de outras normas com os mesmos objetivos."}, {"pmi": [-0.14934444661873356, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "somente a Uni\u00e3o poder\u00e1 estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, podendo os estados, o DF e os munic\u00edpios estabelecer outras normas com os mesmos objetivos."}, {"pmi": [-0.19189620562472617, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "a Uni\u00e3o, os estados, o DF e os munic\u00edpios poder\u00e3o estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, todavia apenas a Uni\u00e3o det\u00e9m compet\u00eancia para estabelecer outras normas com os mesmos objetivos."}, {"pmi": [-0.1151223042771159, 0.0, 0.0, 0.0], "letter": "D", "correct": true, "text": "somente a Uni\u00e3o poder\u00e1 estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, al\u00e9m de outras normas com os mesmos objetivos."}]}]
+[
+    {
+        "enum": "Caso ocorra a fus\u00e3o de duas grandes ind\u00fastrias aliment\u00edcias brasileiras que, juntas, detenham mais de 60% do mercado nacional de certo item de alimenta\u00e7\u00e3o, de acordo com o que disp\u00f5e a CF, para prevenir os desequil\u00edbrios da concorr\u00eancia causados pela citada fus\u00e3o,",
+        "areas": [
+            "TAXES"
+        ],
+        "valid": true,
+        "filename": "2010-01.txt",
+        "number": "60",
+        "options": [
+            {
+                "pmi": [
+                    -0.1718490179255756,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "a Uni\u00e3o, os estados, o DF e os munic\u00edpios poder\u00e3o estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, al\u00e9m de outras normas com os mesmos objetivos."
+            },
+            {
+                "pmi": [
+                    -0.14934444661873356,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "somente a Uni\u00e3o poder\u00e1 estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, podendo os estados, o DF e os munic\u00edpios estabelecer outras normas com os mesmos objetivos."
+            },
+            {
+                "pmi": [
+                    -0.19189620562472617,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "a Uni\u00e3o, os estados, o DF e os munic\u00edpios poder\u00e3o estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, todavia apenas a Uni\u00e3o det\u00e9m compet\u00eancia para estabelecer outras normas com os mesmos objetivos."
+            },
+            {
+                "pmi": [
+                    -0.1151223042771159,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true,
+                "text": "somente a Uni\u00e3o poder\u00e1 estabelecer crit\u00e9rios especiais de tributa\u00e7\u00e3o, al\u00e9m de outras normas com os mesmos objetivos."
+            }
+        ]
+    }
+]

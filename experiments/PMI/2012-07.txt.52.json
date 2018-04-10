@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "Dentre as alternativas abaixo, indique aquela que corresponde a um cr\u00e9dito que deve ser classificado como extraconcursal:", "filename": "2012-07.txt", "number": "52", "options": [{"correct": null, "letter": "A", "text": "Multas por infra\u00e7\u00e3o do C\u00f3digo de Postura Municipal."}, {"correct": true, "letter": "B", "text": "Custas  judiciais relativas \u00e0s a\u00e7\u00f5es e execu\u00e7\u00f5es em que a massa tenha sido vencida."}, {"correct": null, "letter": "C", "text": "Cr\u00e9ditos quirograf\u00e1rios sujeitos \u00e0 recupera\u00e7\u00e3o judicial pertencentes a fornecedores de bens ou servi\u00e7os que continuaram a prov\u00ea-lo normalmente ap\u00f3s o pedido de recupera\u00e7\u00e3o judicial."}, {"correct": null, "letter": "D", "text": "Os saldos dos cr\u00e9ditos n\u00e3o cobertos pelo produto da aliena\u00e7\u00e3o dos bens vinculados ao seu pagamento."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "Dentre as alternativas abaixo, indique aquela que corresponde a um cr\u00e9dito que deve ser classificado como extraconcursal:",
+        "filename": "2012-07.txt",
+        "number": "52",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Multas por infra\u00e7\u00e3o do C\u00f3digo de Postura Municipal."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Custas  judiciais relativas \u00e0s a\u00e7\u00f5es e execu\u00e7\u00f5es em que a massa tenha sido vencida."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Cr\u00e9ditos quirograf\u00e1rios sujeitos \u00e0 recupera\u00e7\u00e3o judicial pertencentes a fornecedores de bens ou servi\u00e7os que continuaram a prov\u00ea-lo normalmente ap\u00f3s o pedido de recupera\u00e7\u00e3o judicial."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Os saldos dos cr\u00e9ditos n\u00e3o cobertos pelo produto da aliena\u00e7\u00e3o dos bens vinculados ao seu pagamento."
+            }
+        ],
+        "valid": true
+    }
+]

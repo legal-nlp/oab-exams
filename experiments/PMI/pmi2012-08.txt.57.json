@@ -1,1 +1,57 @@
-[{"number": "57", "valid": true, "filename": "2012-08.txt", "options": [{"correct": null, "letter": "A", "text": "Reconven\u00e7\u00e3o.", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "letter": "B", "text": "Denuncia\u00e7\u00e3o \u00e0 lide.", "pmi": [0.0, 0.0, 0, 0]}, {"correct": true, "letter": "C", "text": "Chamamento ao processo.", "pmi": [-0.19810765268434108, 0.0, 0, 0]}, {"correct": null, "letter": "D", "text": "Nomea\u00e7\u00e3o \u00e0 autoria.", "pmi": [0.0, 0.0, 0, 0]}], "areas": ["CIVIL-PROCEDURE"], "enum": "Vin\u00edcius foi demandado em uma a\u00e7\u00e3o de cobran\u00e7a por ter sido fiador de sua sogra, Francisca. Assinale a alternativa que indica a medida a ser adotada por Vin\u00edcius para trazer Francisca para o p\u00f3lo passivo desse processo."}]
+[
+    {
+        "number": "57",
+        "valid": true,
+        "filename": "2012-08.txt",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Reconven\u00e7\u00e3o.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Denuncia\u00e7\u00e3o \u00e0 lide.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Chamamento ao processo.",
+                "pmi": [
+                    -0.19810765268434108,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Nomea\u00e7\u00e3o \u00e0 autoria.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Vin\u00edcius foi demandado em uma a\u00e7\u00e3o de cobran\u00e7a por ter sido fiador de sua sogra, Francisca. Assinale a alternativa que indica a medida a ser adotada por Vin\u00edcius para trazer Francisca para o p\u00f3lo passivo desse processo."
+    }
+]

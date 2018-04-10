@@ -1,1 +1,57 @@
-[{"enum": "\u00c9verdade que nas democracias o povo parece fazer o que quer, mas a liberdade pol\u00edtica n\u00e3o consiste nisso.\n\n Montesquieu\n\n No pre\u00e2mbulo da Constitui\u00e7\u00e3o da Rep\u00fablica, os constituintes afirmaram instituir um Estado Democr\u00e1tico destinado a assegurar, dentre outras coisas, a liberdade. Esse \u00e9 um conceito de fundamental import\u00e2ncia para a Filosofia do Direito, muito debatido por in\u00fameros autores. Uma importante defini\u00e7\u00e3o utilizada no mundo jur\u00eddico \u00e9 a que foi dada por Montesquieu em seu Do Esp\u00edrito das Leis.\n\n Assinale a op\u00e7\u00e3o que apresenta a defini\u00e7\u00e3o desse autor na obra citada.", "options": [{"correct": null, "letter": "A", "pmi": [-0.05240438213709476, 0.0, 0.0, 0.0], "text": "A liberdade consiste na forma de governo dos homens, e n\u00e3o no governo das leis."}, {"correct": null, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "A disposi\u00e7\u00e3o de esp\u00edrito pela qual a alma humana nunca pode ser aprisionada \u00e9 o que chamamos de liberdade."}, {"correct": true, "letter": "C", "pmi": [-0.11514598321471536, 0.0, 0.0, 0.0], "text": "Liberdade \u00e9 o direito de fazer tudo o que as leis permitem."}, {"correct": null, "letter": "D", "pmi": [-0.024359606672715486, 0.0, 0.0, 0.0], "text": "O direito de resist\u00eancia aos governos injustos \u00e9 a express\u00e3o maior da liberdade."}], "areas": [null], "number": "10", "filename": "2017-24.txt", "valid": true}]
+[
+    {
+        "enum": "\u00c9verdade que nas democracias o povo parece fazer o que quer, mas a liberdade pol\u00edtica n\u00e3o consiste nisso.\n\n Montesquieu\n\n No pre\u00e2mbulo da Constitui\u00e7\u00e3o da Rep\u00fablica, os constituintes afirmaram instituir um Estado Democr\u00e1tico destinado a assegurar, dentre outras coisas, a liberdade. Esse \u00e9 um conceito de fundamental import\u00e2ncia para a Filosofia do Direito, muito debatido por in\u00fameros autores. Uma importante defini\u00e7\u00e3o utilizada no mundo jur\u00eddico \u00e9 a que foi dada por Montesquieu em seu Do Esp\u00edrito das Leis.\n\n Assinale a op\u00e7\u00e3o que apresenta a defini\u00e7\u00e3o desse autor na obra citada.",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.05240438213709476,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A liberdade consiste na forma de governo dos homens, e n\u00e3o no governo das leis."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A disposi\u00e7\u00e3o de esp\u00edrito pela qual a alma humana nunca pode ser aprisionada \u00e9 o que chamamos de liberdade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.11514598321471536,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Liberdade \u00e9 o direito de fazer tudo o que as leis permitem."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.024359606672715486,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O direito de resist\u00eancia aos governos injustos \u00e9 a express\u00e3o maior da liberdade."
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "number": "10",
+        "filename": "2017-24.txt",
+        "valid": true
+    }
+]

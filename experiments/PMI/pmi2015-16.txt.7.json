@@ -1,1 +1,55 @@
-[{"enum": "O advogado Ant\u00f4nio participava do julgamento de recurso de apela\u00e7\u00e3o por ele interposto. Ao proferir seu voto, o Relator acusou o advogado Ant\u00f4nio de ter atuado de forma anti\u00e9tica e de ter tentado induzir os julgadores a erro. Em seguida, com o objetivo de se defender das acusa\u00e7\u00f5es que lhe haviam sido dirigidas, Ant\u00f4nio solicitou usar da palavra, pela ordem, por mais cinco minutos, pleito que veio a ser indeferido pelo Presidente do \u00f3rg\u00e3o julgador.\n\n A respeito do direito de Ant\u00f4nio usar a palavra novamente, assinale a afirmativa correta.", "number": "7", "options": [{"pmi": [-0.04329326361340312, 0.0, 0.0, 0.0], "text": "N\u00e3o \u00e9 permitido o uso da palavra por advogado em julgamentos de recursos de apela\u00e7\u00e3o.", "correct": null, "letter": "A"}, {"pmi": [-0.003544143019284095, 0.0, 0.0, 0.0], "text": "\u00c9 direito do advogado usar da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, para replicar acusa\u00e7\u00e3o ou censura que lhe forem feitas.", "correct": true, "letter": "B"}, {"pmi": [0.007236840505518408, 0.0, 0.0, 0.0], "text": "\u00c9 direito do advogado intervir, a qualquer tempo e por qualquer motivo, durante o julgamento de processos em que esteja constitu\u00eddo.", "correct": null, "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "O uso da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, somente \u00e9 permitido para o esclarecimento de quest\u00f5es f\u00e1ticas.", "correct": null, "letter": "D"}], "valid": true, "areas": [], "filename": "2015-16.txt"}]
+[
+    {
+        "enum": "O advogado Ant\u00f4nio participava do julgamento de recurso de apela\u00e7\u00e3o por ele interposto. Ao proferir seu voto, o Relator acusou o advogado Ant\u00f4nio de ter atuado de forma anti\u00e9tica e de ter tentado induzir os julgadores a erro. Em seguida, com o objetivo de se defender das acusa\u00e7\u00f5es que lhe haviam sido dirigidas, Ant\u00f4nio solicitou usar da palavra, pela ordem, por mais cinco minutos, pleito que veio a ser indeferido pelo Presidente do \u00f3rg\u00e3o julgador.\n\n A respeito do direito de Ant\u00f4nio usar a palavra novamente, assinale a afirmativa correta.",
+        "number": "7",
+        "options": [
+            {
+                "pmi": [
+                    -0.04329326361340312,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o \u00e9 permitido o uso da palavra por advogado em julgamentos de recursos de apela\u00e7\u00e3o.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.003544143019284095,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 direito do advogado usar da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, para replicar acusa\u00e7\u00e3o ou censura que lhe forem feitas.",
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.007236840505518408,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 direito do advogado intervir, a qualquer tempo e por qualquer motivo, durante o julgamento de processos em que esteja constitu\u00eddo.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O uso da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, somente \u00e9 permitido para o esclarecimento de quest\u00f5es f\u00e1ticas.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [],
+        "filename": "2015-16.txt"
+    }
+]

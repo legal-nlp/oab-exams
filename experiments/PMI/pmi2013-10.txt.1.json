@@ -1,1 +1,57 @@
-[{"filename": "2013-10.txt", "number": "1", "areas": ["ETHICS"], "options": [{"pmi": [-0.06961808379074927, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "A divulga\u00e7\u00e3o de not\u00edcias, como aventado no enunciado, constitui um direito do advogado em dar publicidade aos seus processos"}, {"pmi": [-0.0346154696357914, 0.0, 0.0, 0.0], "letter": "B", "correct": true, "text": "Nos termos das regras que caracterizam as infra\u00e7\u00f5es disciplinares est\u00e1 delineada a de publica\u00e7\u00e3o desnecess\u00e1ria e habitual de alega\u00e7\u00f5es forenses ou causas pendentes."}, {"pmi": [-0.021888127597837162, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "Diante das novas m\u00eddias que tamb\u00e9m atingem a advocacia, o advogado pode utilizar-se dos meios ofertados para a divulga\u00e7\u00e3o de seu trabalho."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "A situa\u00e7\u00e3o caracteriza o chamado desvio da fun\u00e7\u00e3o de advogado, com o preju\u00edzo \u00e0 imagem dos clientes pela divulga\u00e7\u00e3o."}], "valid": true, "enum": "O advogado Jo\u00e3o, que tamb\u00e9m \u00e9 formado em Comunica\u00e7\u00e3o Social, atua nas duas profiss\u00f5es, possuindo uma coluna onde apresenta noticias jur\u00eddicas, com informa\u00e7\u00f5es sobre atividades policiais, forenses ou vinculadas ao Minist\u00e9rio P\u00fablico. Semanalmente inclui, nos seus coment\u00e1rios, alguns em forma de poesia, suas alega\u00e7\u00f5es forenses e os resultados dos processos sob sua responsabilidade, divulgando, com isso, seu trabalho como advogado.\n\n \u00c0 luz das normas estatut\u00e1rias, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2013-10.txt",
+        "number": "1",
+        "areas": [
+            "ETHICS"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.06961808379074927,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "A divulga\u00e7\u00e3o de not\u00edcias, como aventado no enunciado, constitui um direito do advogado em dar publicidade aos seus processos"
+            },
+            {
+                "pmi": [
+                    -0.0346154696357914,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": true,
+                "text": "Nos termos das regras que caracterizam as infra\u00e7\u00f5es disciplinares est\u00e1 delineada a de publica\u00e7\u00e3o desnecess\u00e1ria e habitual de alega\u00e7\u00f5es forenses ou causas pendentes."
+            },
+            {
+                "pmi": [
+                    -0.021888127597837162,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "Diante das novas m\u00eddias que tamb\u00e9m atingem a advocacia, o advogado pode utilizar-se dos meios ofertados para a divulga\u00e7\u00e3o de seu trabalho."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "A situa\u00e7\u00e3o caracteriza o chamado desvio da fun\u00e7\u00e3o de advogado, com o preju\u00edzo \u00e0 imagem dos clientes pela divulga\u00e7\u00e3o."
+            }
+        ],
+        "valid": true,
+        "enum": "O advogado Jo\u00e3o, que tamb\u00e9m \u00e9 formado em Comunica\u00e7\u00e3o Social, atua nas duas profiss\u00f5es, possuindo uma coluna onde apresenta noticias jur\u00eddicas, com informa\u00e7\u00f5es sobre atividades policiais, forenses ou vinculadas ao Minist\u00e9rio P\u00fablico. Semanalmente inclui, nos seus coment\u00e1rios, alguns em forma de poesia, suas alega\u00e7\u00f5es forenses e os resultados dos processos sob sua responsabilidade, divulgando, com isso, seu trabalho como advogado.\n\n \u00c0 luz das normas estatut\u00e1rias, assinale a afirmativa correta."
+    }
+]

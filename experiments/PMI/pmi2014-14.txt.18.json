@@ -1,1 +1,57 @@
-[{"filename": "2014-14.txt", "options": [{"letter": "A", "pmi": [-0.41223749997843895, 0.0, 0.0, 0.0], "correct": null, "text": "Vetado o projeto de lei, ocorrer\u00e1 o seu arquivamento."}, {"letter": "B", "pmi": [-0.09691602302941128, 0.0, 0.0, 0.0], "correct": null, "text": "Ap\u00f3s o veto, a mat\u00e9ria somente poder\u00e1 ser reapreciada no ano subsequente."}, {"letter": "C", "pmi": [-0.0800446430556884, 0.0, 0.0, 0.0], "correct": true, "text": "O veto poder\u00e1 ser rejeitado, o que acarretar\u00e1 o envio do projeto para promulga\u00e7\u00e3o pelo Presidente da Rep\u00fablica."}, {"letter": "D", "pmi": [-0.12857617622747283, 0.0, 0.0, 0.0], "correct": null, "text": "A aprecia\u00e7\u00e3o do veto dever\u00e1 ocorrer, em separado, por cada Casa Legislativa, podendo ser rejeitado pela maioria absoluta de cada uma delas."}], "enum": "Maria da Silva, deputada federal integrante do partido Alfa, vem a ter projeto de sua iniciativa aprovado, com apoio de outros partidos pol\u00edticos. Para sua surpresa, o texto do seu projeto veio a ser vetado na integralidade por decis\u00e3o do Presidente da Rep\u00fablica. Ap\u00f3s tomar ci\u00eancia do veto presidencial, a deputada, com o intuito de derrub\u00e1-lo, procura as lideran\u00e7as dos partidos que apoiaram seu projeto.\n\n Nos termos da Constitui\u00e7\u00e3o Federal, assinale a op\u00e7\u00e3o que apresenta o procedimento correto.", "number": "18", "valid": true, "areas": ["CONSTITUTIONAL"]}]
+[
+    {
+        "filename": "2014-14.txt",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.41223749997843895,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Vetado o projeto de lei, ocorrer\u00e1 o seu arquivamento."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.09691602302941128,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Ap\u00f3s o veto, a mat\u00e9ria somente poder\u00e1 ser reapreciada no ano subsequente."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.0800446430556884,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O veto poder\u00e1 ser rejeitado, o que acarretar\u00e1 o envio do projeto para promulga\u00e7\u00e3o pelo Presidente da Rep\u00fablica."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.12857617622747283,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A aprecia\u00e7\u00e3o do veto dever\u00e1 ocorrer, em separado, por cada Casa Legislativa, podendo ser rejeitado pela maioria absoluta de cada uma delas."
+            }
+        ],
+        "enum": "Maria da Silva, deputada federal integrante do partido Alfa, vem a ter projeto de sua iniciativa aprovado, com apoio de outros partidos pol\u00edticos. Para sua surpresa, o texto do seu projeto veio a ser vetado na integralidade por decis\u00e3o do Presidente da Rep\u00fablica. Ap\u00f3s tomar ci\u00eancia do veto presidencial, a deputada, com o intuito de derrub\u00e1-lo, procura as lideran\u00e7as dos partidos que apoiaram seu projeto.\n\n Nos termos da Constitui\u00e7\u00e3o Federal, assinale a op\u00e7\u00e3o que apresenta o procedimento correto.",
+        "number": "18",
+        "valid": true,
+        "areas": [
+            "CONSTITUTIONAL"
+        ]
+    }
+]

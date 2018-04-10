@@ -1,1 +1,57 @@
-[{"number": "69", "valid": true, "enum": "Vin\u00edcius, s\u00f3cio de um grande escrit\u00f3rio de advocacia, especializado na \u00e1rea criminal, recebeu, no dia 02 de outubro de 2017, duas intima\u00e7\u00f5es de decis\u00f5es referentes a dois clientes diferentes.\n\n A primeira intima\u00e7\u00e3o tratava de decis\u00e3o proferida pela 1\u00aa C\u00e2mara Criminal de determinado Tribunal de Justi\u00e7a denegando a ordem de habeas corpus que havia sido apresentada perante o \u00f3rg\u00e3o em favor de Gilmar (ap\u00f3s negativa em primeira inst\u00e2ncia), que responde preso a a\u00e7\u00e3o pela suposta pr\u00e1tica de crime de roubo.\n\n A segunda intima\u00e7\u00e3o foi de decis\u00e3o proferida pelo Juiz de Direito da 1\u00aa Vara Criminal de Fortaleza, tamb\u00e9m denegando ordem de habeas corpus, mas, dessa vez, a medida havia sido apresentada em favor de Rubens, que figura como indiciado em inqu\u00e9rito que investiga a suposta pr\u00e1tica do crime de tr\u00e1fico de drogas.\n\n Diante das intima\u00e7\u00f5es realizadas, insatisfeito com as decis\u00f5es proferidas, Vin\u00edcius, para combater as decis\u00f5es prejudiciais a Gilmar e Rubens, dever\u00e1 apresentar", "areas": [null], "options": [{"pmi": [-0.08752169742719874, 0.0, 0.0, 0.0], "text": "Recurso Ordin\u00e1rio Constitucional e Recurso em Sentido Estrito, respectivamente.", "correct": true, "letter": "A"}, {"pmi": [-0.0870079044371794, 0.0, 0.0, 0.0], "text": "Recurso em Sentido Estrito, nos dois casos.", "correct": null, "letter": "B"}, {"pmi": [-0.13106307424106162, 0.0, 0.0, 0.0], "text": "Recurso Ordin\u00e1rio Constitucional, nos dois casos.", "correct": null, "letter": "C"}, {"pmi": [-0.14906249695407003, 0.0, 0.0, 0.0], "text": "Recurso Especial e Recurso Ordin\u00e1rio Constitucional, respectivamente.", "correct": null, "letter": "D"}], "filename": "2017-24.txt"}]
+[
+    {
+        "number": "69",
+        "valid": true,
+        "enum": "Vin\u00edcius, s\u00f3cio de um grande escrit\u00f3rio de advocacia, especializado na \u00e1rea criminal, recebeu, no dia 02 de outubro de 2017, duas intima\u00e7\u00f5es de decis\u00f5es referentes a dois clientes diferentes.\n\n A primeira intima\u00e7\u00e3o tratava de decis\u00e3o proferida pela 1\u00aa C\u00e2mara Criminal de determinado Tribunal de Justi\u00e7a denegando a ordem de habeas corpus que havia sido apresentada perante o \u00f3rg\u00e3o em favor de Gilmar (ap\u00f3s negativa em primeira inst\u00e2ncia), que responde preso a a\u00e7\u00e3o pela suposta pr\u00e1tica de crime de roubo.\n\n A segunda intima\u00e7\u00e3o foi de decis\u00e3o proferida pelo Juiz de Direito da 1\u00aa Vara Criminal de Fortaleza, tamb\u00e9m denegando ordem de habeas corpus, mas, dessa vez, a medida havia sido apresentada em favor de Rubens, que figura como indiciado em inqu\u00e9rito que investiga a suposta pr\u00e1tica do crime de tr\u00e1fico de drogas.\n\n Diante das intima\u00e7\u00f5es realizadas, insatisfeito com as decis\u00f5es proferidas, Vin\u00edcius, para combater as decis\u00f5es prejudiciais a Gilmar e Rubens, dever\u00e1 apresentar",
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.08752169742719874,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Recurso Ordin\u00e1rio Constitucional e Recurso em Sentido Estrito, respectivamente.",
+                "correct": true,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.0870079044371794,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Recurso em Sentido Estrito, nos dois casos.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.13106307424106162,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Recurso Ordin\u00e1rio Constitucional, nos dois casos.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.14906249695407003,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Recurso Especial e Recurso Ordin\u00e1rio Constitucional, respectivamente.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "filename": "2017-24.txt"
+    }
+]

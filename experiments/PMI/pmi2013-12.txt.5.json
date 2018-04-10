@@ -1,1 +1,57 @@
-[{"enum": "O escrit\u00f3rio H\u00e9rcules Advogados Associados foi fundado no in\u00edcio do s\u00e9culo XX, tendo destacada atua\u00e7\u00e3o em v\u00e1rias \u00e1reas do Direito. O s\u00f3cio-fundador faleceu no limiar do s\u00e9culo XXI e os s\u00f3cios remanescentes manifestaram o desejo de manter o nome do advogado falecido na raz\u00e3o social da sociedade.\n\n A partir da hip\u00f3tese sugerida, nos termos do Regulamento Geral da Ordem dos Advogados do Brasil, assinale a afirmativa correta.", "options": [{"correct": null, "pmi": [-0.01665882231708993, 0.0, 0.0, 0.0], "text": "Falecendo o advogado s\u00f3cio, determina-se a sua exclus\u00e3o dos registros da sociedade incluindo a raz\u00e3o social do escrit\u00f3rio.", "letter": "A"}, {"correct": null, "pmi": [-0.012417082840162002, 0.0, 0.0, 0.0], "text": "Permite-se a manuten\u00e7\u00e3o do s\u00f3cio-fundador nos registros do escrit\u00f3rio, mediante autoriza\u00e7\u00e3o especial do plen\u00e1rio da Seccional.", "letter": "B"}, {"correct": true, "pmi": [-0.01590296927371068, 0.0, 0.0, 0.0], "text": "Havendo previs\u00e3o no ato constitutivo da sociedade de advogados, pode permanecer o nome do s\u00f3cio falecido na raz\u00e3o social.", "letter": "C"}, {"correct": null, "pmi": [-0.023518833524797868, 0.0, 0.0, 0.0], "text": "Existindo acordo entre o escrit\u00f3rio de advocacia, os clientes e a Seccional da Ordem dos Advogados do Brasil, \u00e9 permitida a manuten\u00e7\u00e3o do nome do s\u00f3cio falecido.", "letter": "D"}], "number": "5", "valid": true, "filename": "2013-12.txt", "areas": ["ETHICS"]}]
+[
+    {
+        "enum": "O escrit\u00f3rio H\u00e9rcules Advogados Associados foi fundado no in\u00edcio do s\u00e9culo XX, tendo destacada atua\u00e7\u00e3o em v\u00e1rias \u00e1reas do Direito. O s\u00f3cio-fundador faleceu no limiar do s\u00e9culo XXI e os s\u00f3cios remanescentes manifestaram o desejo de manter o nome do advogado falecido na raz\u00e3o social da sociedade.\n\n A partir da hip\u00f3tese sugerida, nos termos do Regulamento Geral da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.01665882231708993,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Falecendo o advogado s\u00f3cio, determina-se a sua exclus\u00e3o dos registros da sociedade incluindo a raz\u00e3o social do escrit\u00f3rio.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.012417082840162002,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Permite-se a manuten\u00e7\u00e3o do s\u00f3cio-fundador nos registros do escrit\u00f3rio, mediante autoriza\u00e7\u00e3o especial do plen\u00e1rio da Seccional.",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.01590296927371068,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Havendo previs\u00e3o no ato constitutivo da sociedade de advogados, pode permanecer o nome do s\u00f3cio falecido na raz\u00e3o social.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.023518833524797868,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Existindo acordo entre o escrit\u00f3rio de advocacia, os clientes e a Seccional da Ordem dos Advogados do Brasil, \u00e9 permitida a manuten\u00e7\u00e3o do nome do s\u00f3cio falecido.",
+                "letter": "D"
+            }
+        ],
+        "number": "5",
+        "valid": true,
+        "filename": "2013-12.txt",
+        "areas": [
+            "ETHICS"
+        ]
+    }
+]

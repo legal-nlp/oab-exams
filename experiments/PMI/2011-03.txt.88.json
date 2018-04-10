@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Uma construtora com sede no Munic\u00edpio do Rio de Janeiro constr\u00f3i um edif\u00edcio sob regime de empreitada na cidade de Nova Igua\u00e7u, onde n\u00e3o possui estabelecimento. A compet\u00eancia para a imposi\u00e7\u00e3o do Imposto Municipal Sobre Servi\u00e7os (ISS) caber\u00e1 \u00e0 municipalidade", "filename": "2011-03.txt", "number": "88", "options": [{"correct": null, "letter": "A", "text": "do Rio de Janeiro, porque \u00e9 o munic\u00edpio onde a construtora tem a sua sede social."}, {"correct": true, "letter": "B", "text": "de Nova Igua\u00e7u, porque \u00e9 o local onde foi constru\u00eddo o edif\u00edcio."}, {"correct": null, "letter": "C", "text": "do Rio de Janeiro, porque constru\u00e7\u00e3o civil n\u00e3o \u00e9 presta\u00e7\u00e3o de servi\u00e7os."}, {"correct": null, "letter": "D", "text": "do Rio de Janeiro, porque a construtora n\u00e3o tem estabelecimento em Nova Igua\u00e7u e, em raz\u00e3o do princ\u00edpio da territorialidade, n\u00e3o pode ser exigido o tributo sobre contribuintes estabelecidos fora do territ\u00f3rio de cada Ente Federado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Uma construtora com sede no Munic\u00edpio do Rio de Janeiro constr\u00f3i um edif\u00edcio sob regime de empreitada na cidade de Nova Igua\u00e7u, onde n\u00e3o possui estabelecimento. A compet\u00eancia para a imposi\u00e7\u00e3o do Imposto Municipal Sobre Servi\u00e7os (ISS) caber\u00e1 \u00e0 municipalidade",
+        "filename": "2011-03.txt",
+        "number": "88",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "do Rio de Janeiro, porque \u00e9 o munic\u00edpio onde a construtora tem a sua sede social."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "de Nova Igua\u00e7u, porque \u00e9 o local onde foi constru\u00eddo o edif\u00edcio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "do Rio de Janeiro, porque constru\u00e7\u00e3o civil n\u00e3o \u00e9 presta\u00e7\u00e3o de servi\u00e7os."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "do Rio de Janeiro, porque a construtora n\u00e3o tem estabelecimento em Nova Igua\u00e7u e, em raz\u00e3o do princ\u00edpio da territorialidade, n\u00e3o pode ser exigido o tributo sobre contribuintes estabelecidos fora do territ\u00f3rio de cada Ente Federado."
+            }
+        ],
+        "valid": true
+    }
+]

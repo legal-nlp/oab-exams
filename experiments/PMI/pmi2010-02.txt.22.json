@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL"], "valid": true, "number": "22", "enum": "Com rela\u00e7\u00e3o ao regime da solidariedade passiva, \u00e9 correto afirmar que:", "options": [{"text": "cada herdeiro pode ser demandado pela d\u00edvida toda do devedor solid\u00e1rio falecido.", "correct": null, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "com a perda do objeto por culpa de um dos devedores solid\u00e1rios, a solidariedade subsiste no pagamento do equivalente pecuni\u00e1rio, mas pelas perdas e danos somente poder\u00e1 ser demandado o culpado.", "correct": true, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "se houver atraso injustificado no cumprimento da obriga\u00e7\u00e3o por culpa de um dos devedores solid\u00e1rios, a solidariedade subsiste no pagamento do valor principal, mas pelos juros da mora somente poder\u00e1 ser demandado o culpado.", "correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "as exce\u00e7\u00f5es podem ser aproveitadas por qualquer dos devedores solid\u00e1rios, ainda que sejam pessoais apenas a um deles.", "correct": null, "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0]}], "filename": "2010-02.txt"}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true,
+        "number": "22",
+        "enum": "Com rela\u00e7\u00e3o ao regime da solidariedade passiva, \u00e9 correto afirmar que:",
+        "options": [
+            {
+                "text": "cada herdeiro pode ser demandado pela d\u00edvida toda do devedor solid\u00e1rio falecido.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "com a perda do objeto por culpa de um dos devedores solid\u00e1rios, a solidariedade subsiste no pagamento do equivalente pecuni\u00e1rio, mas pelas perdas e danos somente poder\u00e1 ser demandado o culpado.",
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "se houver atraso injustificado no cumprimento da obriga\u00e7\u00e3o por culpa de um dos devedores solid\u00e1rios, a solidariedade subsiste no pagamento do valor principal, mas pelos juros da mora somente poder\u00e1 ser demandado o culpado.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "as exce\u00e7\u00f5es podem ser aproveitadas por qualquer dos devedores solid\u00e1rios, ainda que sejam pessoais apenas a um deles.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2010-02.txt"
+    }
+]

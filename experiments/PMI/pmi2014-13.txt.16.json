@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.33701108358947396, 0.0, 0.0, 0.0], "text": "O Presidente do Senado Federal assume o cargo e completa o mandato.", "correct": null, "letter": "A"}, {"pmi": [-0.250375412793636, 0.0, 0.0, 0.0], "text": "O Presidente da C\u00e2mara dos Deputados assume o cargo e convoca elei\u00e7\u00f5es que realizar-se-\u00e3o noventa dias depois de abertas as vagas.", "correct": null, "letter": "B"}, {"pmi": [-0.20219202274739737, -0.07168696052032268, 0.0, 0.0], "text": "O Presidente do Congresso Nacional assume o cargo e completa o mandato.", "correct": null, "letter": "C"}, {"pmi": [-0.26937378867712597, -0.030722983080138294, 0.0, 0.0], "text": "O Presidente da C\u00e2mara dos Deputados assume o cargo e convoca elei\u00e7\u00f5es que ser\u00e3o realizadas trinta dias ap\u00f3s a abertura das vagas, pelo Congresso Nacional, na forma da lei.", "correct": true, "letter": "D"}], "valid": true, "enum": "Imagine a hip\u00f3tese na qual o avi\u00e3o presidencial sofre um acidente, vindo a vitimar o Presidente da Rep\u00fablica e seu Vice, ap\u00f3s a conclus\u00e3o do terceiro ano de mandato.\n\n A partir da hipotese apresentada, assinale a afirmativa correta.", "filename": "2014-13.txt", "areas": ["CONSTITUTIONAL"], "number": "16"}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.33701108358947396,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Presidente do Senado Federal assume o cargo e completa o mandato.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.250375412793636,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Presidente da C\u00e2mara dos Deputados assume o cargo e convoca elei\u00e7\u00f5es que realizar-se-\u00e3o noventa dias depois de abertas as vagas.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.20219202274739737,
+                    -0.07168696052032268,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Presidente do Congresso Nacional assume o cargo e completa o mandato.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.26937378867712597,
+                    -0.030722983080138294,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Presidente da C\u00e2mara dos Deputados assume o cargo e convoca elei\u00e7\u00f5es que ser\u00e3o realizadas trinta dias ap\u00f3s a abertura das vagas, pelo Congresso Nacional, na forma da lei.",
+                "correct": true,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "enum": "Imagine a hip\u00f3tese na qual o avi\u00e3o presidencial sofre um acidente, vindo a vitimar o Presidente da Rep\u00fablica e seu Vice, ap\u00f3s a conclus\u00e3o do terceiro ano de mandato.\n\n A partir da hipotese apresentada, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "16"
+    }
+]

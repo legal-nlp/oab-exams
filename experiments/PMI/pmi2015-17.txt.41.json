@@ -1,1 +1,55 @@
-[{"options": [{"correct": null, "pmi": [-0.1772933193593601, 0.0, 0.0, 0.0], "text": "\u00e9 nula a concess\u00e3o de direito de superf\u00edcie por prazo determinado, haja vista s\u00f3 se admitir, no direito brasileiro, a concess\u00e3o perp\u00e9tua.", "letter": "A"}, {"correct": null, "pmi": [-0.15154660283988677, 0.0, 0.0, 0.0], "text": "\u00e9 nula a cl\u00e1usula que prev\u00ea o pagamento de remunera\u00e7\u00e3o em contrapartida \u00e0 concess\u00e3o do direito de superf\u00edcie, haja vista ser a concess\u00e3o ato essencialmente gratuito.", "letter": "B"}, {"correct": true, "pmi": [-0.11358695465548954, 0.0, 0.0, 0.0], "text": "\u00e9 nula a cl\u00e1usula que estipula em favor de Mateus o pagamento de determinada quantia em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie.", "letter": "C"}, {"correct": null, "pmi": [-0.050981578188744665, 0.0, 0.0, 0.0], "text": "\u00e9 nula a cl\u00e1usula que obriga Francisco a construir um edif\u00edcio no terreno.", "letter": "D"}], "areas": [], "filename": "2015-17.txt", "enum": "Mateus \u00e9 propriet\u00e1rio de um terreno situado em \u00e1rea rural do estado de Minas Gerais. Por meio de escritura p\u00fablica levada ao cart\u00f3rio do registro de im\u00f3veis, Mateus concede, pelo prazo de vinte anos, em favor de Francisco, direito real de superf\u00edcie sobre o aludido terreno. A escritura prev\u00ea que Francisco dever\u00e1 ali construir um edif\u00edcio que servir\u00e1 de escola para a popula\u00e7\u00e3o local. A escritura ainda prev\u00ea que, em contrapartida \u00e0 concess\u00e3o da superf\u00edcie, Francisco dever\u00e1 pagar a Mateus a quantia de R$ 30.000,00 (trinta mil reais). A escritura tamb\u00e9m prev\u00ea que, em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie por Francisco, Mateus ter\u00e1 direito a receber quantia equivalente a 3% do valor da transa\u00e7\u00e3o.\n\n Nesse caso, \u00e9 correto afirmar que", "number": "41", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.1772933193593601,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 nula a concess\u00e3o de direito de superf\u00edcie por prazo determinado, haja vista s\u00f3 se admitir, no direito brasileiro, a concess\u00e3o perp\u00e9tua.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.15154660283988677,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 nula a cl\u00e1usula que prev\u00ea o pagamento de remunera\u00e7\u00e3o em contrapartida \u00e0 concess\u00e3o do direito de superf\u00edcie, haja vista ser a concess\u00e3o ato essencialmente gratuito.",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.11358695465548954,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 nula a cl\u00e1usula que estipula em favor de Mateus o pagamento de determinada quantia em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.050981578188744665,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 nula a cl\u00e1usula que obriga Francisco a construir um edif\u00edcio no terreno.",
+                "letter": "D"
+            }
+        ],
+        "areas": [],
+        "filename": "2015-17.txt",
+        "enum": "Mateus \u00e9 propriet\u00e1rio de um terreno situado em \u00e1rea rural do estado de Minas Gerais. Por meio de escritura p\u00fablica levada ao cart\u00f3rio do registro de im\u00f3veis, Mateus concede, pelo prazo de vinte anos, em favor de Francisco, direito real de superf\u00edcie sobre o aludido terreno. A escritura prev\u00ea que Francisco dever\u00e1 ali construir um edif\u00edcio que servir\u00e1 de escola para a popula\u00e7\u00e3o local. A escritura ainda prev\u00ea que, em contrapartida \u00e0 concess\u00e3o da superf\u00edcie, Francisco dever\u00e1 pagar a Mateus a quantia de R$ 30.000,00 (trinta mil reais). A escritura tamb\u00e9m prev\u00ea que, em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie por Francisco, Mateus ter\u00e1 direito a receber quantia equivalente a 3% do valor da transa\u00e7\u00e3o.\n\n Nesse caso, \u00e9 correto afirmar que",
+        "number": "41",
+        "valid": true
+    }
+]

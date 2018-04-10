@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Se, durante a audi\u00eancia de instru\u00e7\u00e3o e julgamento, um advogado, exercendo seu mister de bem defender os interesses de seu cliente, entende que a testemunha arrolada pela parte contr\u00e1ria mant\u00e9m com essa v\u00ednculo estreito de amizade e que seu depoimento pode ser tendencioso, esse advogado dever\u00e1:", "filename": "2010-02.txt", "number": "38", "options": [{"correct": null, "letter": "A", "text": "contraditar a testemunha, devendo a audi\u00eancia, nesse caso, ser necess\u00e1ria e imediatamente interrompida."}, {"correct": true, "letter": "B", "text": "contraditar a testemunha, que mesmo assim poder\u00e1 ser ouvida como informante do ju\u00edzo, desde que o magistrado fundamente sua decis\u00e3o de ouv\u00ed-la."}, {"correct": null, "letter": "C", "text": "contraditar a testemunha, hip\u00f3tese em que estar\u00e1 o juiz obrigado a dispens\u00e1-la."}, {"correct": null, "letter": "D", "text": "contraditar a testemunha, que ser\u00e1 ouvida ap\u00f3s a audi\u00eancia, sem a presen\u00e7a das partes."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Se, durante a audi\u00eancia de instru\u00e7\u00e3o e julgamento, um advogado, exercendo seu mister de bem defender os interesses de seu cliente, entende que a testemunha arrolada pela parte contr\u00e1ria mant\u00e9m com essa v\u00ednculo estreito de amizade e que seu depoimento pode ser tendencioso, esse advogado dever\u00e1:",
+        "filename": "2010-02.txt",
+        "number": "38",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "contraditar a testemunha, devendo a audi\u00eancia, nesse caso, ser necess\u00e1ria e imediatamente interrompida."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "contraditar a testemunha, que mesmo assim poder\u00e1 ser ouvida como informante do ju\u00edzo, desde que o magistrado fundamente sua decis\u00e3o de ouv\u00ed-la."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "contraditar a testemunha, hip\u00f3tese em que estar\u00e1 o juiz obrigado a dispens\u00e1-la."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "contraditar a testemunha, que ser\u00e1 ouvida ap\u00f3s a audi\u00eancia, sem a presen\u00e7a das partes."
+            }
+        ],
+        "valid": true
+    }
+]

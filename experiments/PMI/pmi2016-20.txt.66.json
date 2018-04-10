@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2016-20.txt", "enum": "Clodoaldo figura como indiciado em inqu\u00e9rito policial que investiga a pr\u00e1tica de um crime de estupro de vulner\u00e1vel. J\u00e1 no curso das investiga\u00e7\u00f5es, Clodoaldo apresenta sinais de que poderia ser portador de doen\u00e7a mental. Conclu\u00eddas as investiga\u00e7\u00f5es, \u00e9 oferecida den\u00fancia contra o indiciado.  Durante a audi\u00eancia, o advogado de Clodoaldo requer a instaura\u00e7\u00e3o de incidente de insanidade mental, sendo o pleito indeferido pelo magistrado, que considerou o ato protelat\u00f3rio.\n\n Sobre o tema incidente de insanidade mental, \u00e9 correto afirmar que", "valid": true, "number": "66", "options": [{"text": "se o perito concluir que o acusado era inimput\u00e1vel ao tempo da infra\u00e7\u00e3o, o processo prosseguir\u00e1, mas se a insanidade surgiu ap\u00f3s o ato criminoso imputado, o processo ficar\u00e1 suspenso.", "letter": "A", "correct": true, "pmi": [-0.054099624590458015, 0.0, 0.0, 0.0]}, {"text": "da decis\u00e3o do magistrado que indeferiu a instaura\u00e7\u00e3o do incidente caber\u00e1 recurso em sentido estrito.", "letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "diante da suspeita da autoridade policial, poderia ela mesmo ter instaurado incidente de insanidade mental.", "letter": "C", "correct": null, "pmi": [-0.03494104213079007, 0.0, 0.0, 0.0]}, {"text": "o incidente de insanidade mental \u00e9 processado em autos em apartado e n\u00e3o gera, de imediato, qualquer suspens\u00e3o do processo.", "letter": "D", "correct": null, "pmi": [-0.037137839984065626, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [],
+        "filename": "2016-20.txt",
+        "enum": "Clodoaldo figura como indiciado em inqu\u00e9rito policial que investiga a pr\u00e1tica de um crime de estupro de vulner\u00e1vel. J\u00e1 no curso das investiga\u00e7\u00f5es, Clodoaldo apresenta sinais de que poderia ser portador de doen\u00e7a mental. Conclu\u00eddas as investiga\u00e7\u00f5es, \u00e9 oferecida den\u00fancia contra o indiciado.  Durante a audi\u00eancia, o advogado de Clodoaldo requer a instaura\u00e7\u00e3o de incidente de insanidade mental, sendo o pleito indeferido pelo magistrado, que considerou o ato protelat\u00f3rio.\n\n Sobre o tema incidente de insanidade mental, \u00e9 correto afirmar que",
+        "valid": true,
+        "number": "66",
+        "options": [
+            {
+                "text": "se o perito concluir que o acusado era inimput\u00e1vel ao tempo da infra\u00e7\u00e3o, o processo prosseguir\u00e1, mas se a insanidade surgiu ap\u00f3s o ato criminoso imputado, o processo ficar\u00e1 suspenso.",
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.054099624590458015,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "da decis\u00e3o do magistrado que indeferiu a instaura\u00e7\u00e3o do incidente caber\u00e1 recurso em sentido estrito.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "diante da suspeita da autoridade policial, poderia ela mesmo ter instaurado incidente de insanidade mental.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.03494104213079007,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o incidente de insanidade mental \u00e9 processado em autos em apartado e n\u00e3o gera, de imediato, qualquer suspens\u00e3o do processo.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.037137839984065626,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

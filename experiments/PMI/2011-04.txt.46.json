@@ -1,1 +1,33 @@
-[{"areas": ["CONSUMER"], "enum": "No \u00e2mbito do C\u00f3digo de Defesa do Consumidor, em rela\u00e7\u00e3o ao princ\u00edpio da boa-f\u00e9 objetiva, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "46", "options": [{"correct": null, "letter": "A", "text": "sua aplica\u00e7\u00e3o se restringe aos contratos de consumo."}, {"correct": null, "letter": "B", "text": "para a caracteriza\u00e7\u00e3o de sua viola\u00e7\u00e3o imprescind\u00edvel se faz a an\u00e1lise do car\u00e1ter volitivo das partes."}, {"correct": null, "letter": "C", "text": "n\u00e3o se aplica \u00e0 fase pr\u00e9-contratual."}, {"correct": true, "letter": "D", "text": "importa em reconhecimento de um direito a cumprir em favor do titular passivo da obriga\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSUMER"
+        ],
+        "enum": "No \u00e2mbito do C\u00f3digo de Defesa do Consumidor, em rela\u00e7\u00e3o ao princ\u00edpio da boa-f\u00e9 objetiva, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "46",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "sua aplica\u00e7\u00e3o se restringe aos contratos de consumo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "para a caracteriza\u00e7\u00e3o de sua viola\u00e7\u00e3o imprescind\u00edvel se faz a an\u00e1lise do car\u00e1ter volitivo das partes."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "n\u00e3o se aplica \u00e0 fase pr\u00e9-contratual."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "importa em reconhecimento de um direito a cumprir em favor do titular passivo da obriga\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

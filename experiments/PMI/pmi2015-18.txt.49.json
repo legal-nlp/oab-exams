@@ -1,1 +1,55 @@
-[{"areas": [], "enum": "S\u00e3o Jo\u00e3o da Baliza Transporte Rodovi\u00e1rio Ltda. sacou duplicata de presta\u00e7\u00e3o de servi\u00e7os no valor de R$ 32.000,00 (trinta e dois mil reais) para recebimento do frete decorrente do transporte de cargas entre ela e Supermercados Caracara\u00ed Ltda. EPP. Diante do inadimplemento do pagamento do frete, a sacadora levou a duplicata a protesto, sem aceite, com vistas a instruir pedido de fal\u00eancia do sacado.\n\n Com base nas informa\u00e7\u00f5es do enunciado, assinale a afirmativa correta.", "filename": "2015-18.txt", "options": [{"correct": null, "text": "Essa duplicata n\u00e3o aceita n\u00e3o \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, ainda que protestada e comprovada a presta\u00e7\u00e3o dos servi\u00e7os.", "letter": "A", "pmi": [-0.09469449904529986, 0.0, 0.0, 0.0]}, {"correct": true, "text": "Essa duplicata n\u00e3o aceita, mas protestada, \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, comprovada a presta\u00e7\u00e3o dos servi\u00e7os.", "letter": "B", "pmi": [-0.09469449904529986, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Essa duplicata de presta\u00e7\u00e3o de servi\u00e7os \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, caso esteja aceita, protestada e tenha o sacador comprovado a presta\u00e7\u00e3o dos servi\u00e7os.", "letter": "C", "pmi": [-0.11456266359157859, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Essa duplicata n\u00e3o \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia do destinat\u00e1rio porque o documento apropriado para a cobran\u00e7a do frete \u00e9 o conhecimento de transporte.", "letter": "D", "pmi": [-0.10436113136708366, 0.0, 0.0, 0.0]}], "number": "49", "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "S\u00e3o Jo\u00e3o da Baliza Transporte Rodovi\u00e1rio Ltda. sacou duplicata de presta\u00e7\u00e3o de servi\u00e7os no valor de R$ 32.000,00 (trinta e dois mil reais) para recebimento do frete decorrente do transporte de cargas entre ela e Supermercados Caracara\u00ed Ltda. EPP. Diante do inadimplemento do pagamento do frete, a sacadora levou a duplicata a protesto, sem aceite, com vistas a instruir pedido de fal\u00eancia do sacado.\n\n Com base nas informa\u00e7\u00f5es do enunciado, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "options": [
+            {
+                "correct": null,
+                "text": "Essa duplicata n\u00e3o aceita n\u00e3o \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, ainda que protestada e comprovada a presta\u00e7\u00e3o dos servi\u00e7os.",
+                "letter": "A",
+                "pmi": [
+                    -0.09469449904529986,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "Essa duplicata n\u00e3o aceita, mas protestada, \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, comprovada a presta\u00e7\u00e3o dos servi\u00e7os.",
+                "letter": "B",
+                "pmi": [
+                    -0.09469449904529986,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Essa duplicata de presta\u00e7\u00e3o de servi\u00e7os \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia, caso esteja aceita, protestada e tenha o sacador comprovado a presta\u00e7\u00e3o dos servi\u00e7os.",
+                "letter": "C",
+                "pmi": [
+                    -0.11456266359157859,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Essa duplicata n\u00e3o \u00e9 t\u00edtulo h\u00e1bil para instruir pedido de fal\u00eancia do destinat\u00e1rio porque o documento apropriado para a cobran\u00e7a do frete \u00e9 o conhecimento de transporte.",
+                "letter": "D",
+                "pmi": [
+                    -0.10436113136708366,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "49",
+        "valid": true
+    }
+]

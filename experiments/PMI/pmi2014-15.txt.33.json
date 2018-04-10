@@ -1,1 +1,55 @@
-[{"number": "33", "areas": [], "enum": "Os munic\u00edpios A, B e C formam o cons\u00f3rcio ABC, com personalidade jur\u00eddica de direito privado, para a realiza\u00e7\u00e3o de objetivos de interesse comum. Para o desempenho das atividades, o cons\u00f3rcio pretende promover desapropria\u00e7\u00f5es, com vistas a obter terrenos, onde, futuramente, construir\u00e1 casas populares com recursos transferidos pelo Governo Federal.\n\n Considerando a disciplina legislativa acerca dos cons\u00f3rcios p\u00fablicos, assinale a afirmativa correta.", "filename": "2014-15.txt", "valid": null, "options": [{"pmi": [-0.8954368333644123, 0.0, 0.0, 0.0], "text": "Os Munic\u00edpios  A, B e C n\u00e3o podem constituir cons\u00f3rcio que n\u00e3o se revista de personalidade jur\u00eddica de direito p\u00fablico.", "letter": "A", "correct": null}, {"pmi": [-0.1696958976313912, 0.0, 0.0, 0.0], "text": "O cons\u00f3rcio p\u00fablico que tenha personalidade jur\u00eddica de direito privado, ainda que constitu\u00eddo por entes p\u00fablicos, n\u00e3o pode promover desapropria\u00e7\u00f5es.", "letter": "B", "correct": null}, {"pmi": [-0.2610600438072496, 0.0, 0.0, 0.0], "text": "A Uni\u00e3o poder\u00e1 firmar conv\u00eanios com o cons\u00f3rcio ABC para fins de transfer\u00eancia volunt\u00e1ria de recursos.", "letter": "C", "correct": null}, {"pmi": [-0.3372923797048419, 0.0, 0.0, 0.0], "text": "Apenas os cons\u00f3rcios constitu\u00eddos sob a forma de pessoas jur\u00eddicas de direito p\u00fablico podem receber recursos transferidos pela Uni\u00e3o.", "letter": "D", "correct": null}]}]
+[
+    {
+        "number": "33",
+        "areas": [],
+        "enum": "Os munic\u00edpios A, B e C formam o cons\u00f3rcio ABC, com personalidade jur\u00eddica de direito privado, para a realiza\u00e7\u00e3o de objetivos de interesse comum. Para o desempenho das atividades, o cons\u00f3rcio pretende promover desapropria\u00e7\u00f5es, com vistas a obter terrenos, onde, futuramente, construir\u00e1 casas populares com recursos transferidos pelo Governo Federal.\n\n Considerando a disciplina legislativa acerca dos cons\u00f3rcios p\u00fablicos, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "valid": null,
+        "options": [
+            {
+                "pmi": [
+                    -0.8954368333644123,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os Munic\u00edpios  A, B e C n\u00e3o podem constituir cons\u00f3rcio que n\u00e3o se revista de personalidade jur\u00eddica de direito p\u00fablico.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.1696958976313912,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O cons\u00f3rcio p\u00fablico que tenha personalidade jur\u00eddica de direito privado, ainda que constitu\u00eddo por entes p\u00fablicos, n\u00e3o pode promover desapropria\u00e7\u00f5es.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.2610600438072496,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Uni\u00e3o poder\u00e1 firmar conv\u00eanios com o cons\u00f3rcio ABC para fins de transfer\u00eancia volunt\u00e1ria de recursos.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.3372923797048419,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas os cons\u00f3rcios constitu\u00eddos sob a forma de pessoas jur\u00eddicas de direito p\u00fablico podem receber recursos transferidos pela Uni\u00e3o.",
+                "letter": "D",
+                "correct": null
+            }
+        ]
+    }
+]

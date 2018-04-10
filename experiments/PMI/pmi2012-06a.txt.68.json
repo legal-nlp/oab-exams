@@ -1,1 +1,57 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "filename": "2012-06a.txt", "enum": "O policial Fernando recebe determina\u00e7\u00e3o para investigar a venda de drogas em uma determinada localidade, pr\u00f3ximo a uma reconhecida Faculdade de Direito. A autoridade judici\u00e1ria autoriza que o policial, nesse primeiro momento, n\u00e3o atue sobre os portadores e vendedores de entorpecentes, com a finalidade de identificar e responsabilizar um maior n\u00famero de integrantes na operacionaliza\u00e7\u00e3o do tr\u00e1fico e de sua distribui\u00e7\u00e3o. A figura do flagrante diferido \u00e9 prevista em quais legisla\u00e7\u00f5es brasileiras?", "options": [{"correct": true, "pmi": [-0.18085813298016537, 0.0, 0.0, 0.0], "letter": "A", "text": "Na Lei de Drogas (11.343/06) e na Lei do Crime Organizado (9.034/95)."}, {"correct": null, "pmi": [-0.17288944083217106, 0.0, 0.0, 0.0], "letter": "B", "text": "Somente na Lei de Drogas (11.343/06)."}, {"correct": null, "pmi": [-0.15158079604585487, 0.0, 0.0, 0.0], "letter": "C", "text": "Na Lei de Drogas (11.343/06) e na Lei de Crimes Hediondos (8.072/90)."}, {"correct": null, "pmi": [-0.16066115091370928, 0.0, 0.0, 0.0], "letter": "D", "text": "Na Lei do Crime Organizado (9.034/95) e na Lei de Crimes Hediondos (8.072/90)."}], "number": "68", "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "filename": "2012-06a.txt",
+        "enum": "O policial Fernando recebe determina\u00e7\u00e3o para investigar a venda de drogas em uma determinada localidade, pr\u00f3ximo a uma reconhecida Faculdade de Direito. A autoridade judici\u00e1ria autoriza que o policial, nesse primeiro momento, n\u00e3o atue sobre os portadores e vendedores de entorpecentes, com a finalidade de identificar e responsabilizar um maior n\u00famero de integrantes na operacionaliza\u00e7\u00e3o do tr\u00e1fico e de sua distribui\u00e7\u00e3o. A figura do flagrante diferido \u00e9 prevista em quais legisla\u00e7\u00f5es brasileiras?",
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    -0.18085813298016537,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Na Lei de Drogas (11.343/06) e na Lei do Crime Organizado (9.034/95)."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.17288944083217106,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Somente na Lei de Drogas (11.343/06)."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.15158079604585487,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Na Lei de Drogas (11.343/06) e na Lei de Crimes Hediondos (8.072/90)."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.16066115091370928,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Na Lei do Crime Organizado (9.034/95) e na Lei de Crimes Hediondos (8.072/90)."
+            }
+        ],
+        "number": "68",
+        "valid": true
+    }
+]

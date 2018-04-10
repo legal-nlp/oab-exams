@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "O Munic\u00edpio Y promove o tombamento de um antigo bonde, j\u00e1 desativado, pertencente a um colecionador particular. Nesse caso,", "filename": "2012-07.txt", "number": "32", "options": [{"correct": null, "letter": "A", "text": "o propriet\u00e1rio pode insurgir-se contra o ato do tombamento, uma vez que se trata de um bem m\u00f3vel."}, {"correct": null, "letter": "B", "text": "o propriet\u00e1rio fica impedido de alienar o bem, mas pode propor a\u00e7\u00e3o visando a compelir o Munic\u00edpio a desapropriar o bem, mediante remunera\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "o propriet\u00e1rio poder\u00e1 alienar livremente o bem tombado, desde que o adquirente se comprometa a conserv\u00e1-lo, de conformidade com o ato de tombamento."}, {"correct": true, "letter": "D", "text": "o propriet\u00e1rio do bem, mesmo diante do tombamento promovido pelo Munic\u00edpio, poder\u00e1 grav\u00e1-lo com o penhor."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "O Munic\u00edpio Y promove o tombamento de um antigo bonde, j\u00e1 desativado, pertencente a um colecionador particular. Nesse caso,",
+        "filename": "2012-07.txt",
+        "number": "32",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o propriet\u00e1rio pode insurgir-se contra o ato do tombamento, uma vez que se trata de um bem m\u00f3vel."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o propriet\u00e1rio fica impedido de alienar o bem, mas pode propor a\u00e7\u00e3o visando a compelir o Munic\u00edpio a desapropriar o bem, mediante remunera\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o propriet\u00e1rio poder\u00e1 alienar livremente o bem tombado, desde que o adquirente se comprometa a conserv\u00e1-lo, de conformidade com o ato de tombamento."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "o propriet\u00e1rio do bem, mesmo diante do tombamento promovido pelo Munic\u00edpio, poder\u00e1 grav\u00e1-lo com o penhor."
+            }
+        ],
+        "valid": true
+    }
+]

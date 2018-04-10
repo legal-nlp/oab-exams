@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Os direitos constitucionais relacionados a seguir j\u00e1 foram regulamentados por Lei, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.", "filename": "2013-10.txt", "number": "74", "options": [{"correct": null, "letter": "A", "text": "Aviso pr\u00e9vio proporcional ao tempo de servi\u00e7o."}, {"correct": null, "letter": "B", "text": "Participa\u00e7\u00e3o nos lucros ou resultados."}, {"correct": true, "letter": "C", "text": "Adicional por atividade penosa."}, {"correct": null, "letter": "D", "text": "Licen\u00e7a-paternidade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Os direitos constitucionais relacionados a seguir j\u00e1 foram regulamentados por Lei, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.",
+        "filename": "2013-10.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Aviso pr\u00e9vio proporcional ao tempo de servi\u00e7o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Participa\u00e7\u00e3o nos lucros ou resultados."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Adicional por atividade penosa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Licen\u00e7a-paternidade."
+            }
+        ],
+        "valid": true
+    }
+]

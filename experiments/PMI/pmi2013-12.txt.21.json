@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"letter": "A", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Direitos Naturais e Direitos Positivos."}, {"letter": "B", "correct": null, "pmi": [-0.1740092022091482, 0.0, 0.0, 0.0], "text": "Direitos Civis e Direitos Pol\u00edticos."}, {"letter": "C", "correct": true, "pmi": [-0.1160061348060988, 0.0, 0.0, 0.0], "text": "Direitos Civis e Pol\u00edticos e Direitos Econ\u00f4micos e Sociais."}, {"letter": "D", "correct": null, "pmi": [-0.14230444997789468, 0.0, 0.0, 0.0], "text": "Direito P\u00fablico e Direito Privado."}], "areas": ["HUMAN-RIGHTS"], "enum": "O processo hist\u00f3rico de afirma\u00e7\u00e3o dos direitos humanos foi inscrito em importantes documentos, tais como a Declara\u00e7\u00e3o Universal dos Direitos do Homem e do Cidad\u00e3o de 1789 ou mesmo a Constitui\u00e7\u00e3o Mexicana de 1917. Desse processo \u00e9 poss\u00edvel inferir que os Direitos Humanos s\u00e3o constitu\u00eddos por, ao menos, duas dimens\u00f5es interdependentes e indivis\u00edveis. S\u00e3o elas:", "number": "21", "filename": "2013-12.txt"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Direitos Naturais e Direitos Positivos."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.1740092022091482,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Direitos Civis e Direitos Pol\u00edticos."
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    -0.1160061348060988,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Direitos Civis e Pol\u00edticos e Direitos Econ\u00f4micos e Sociais."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.14230444997789468,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Direito P\u00fablico e Direito Privado."
+            }
+        ],
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "O processo hist\u00f3rico de afirma\u00e7\u00e3o dos direitos humanos foi inscrito em importantes documentos, tais como a Declara\u00e7\u00e3o Universal dos Direitos do Homem e do Cidad\u00e3o de 1789 ou mesmo a Constitui\u00e7\u00e3o Mexicana de 1917. Desse processo \u00e9 poss\u00edvel inferir que os Direitos Humanos s\u00e3o constitu\u00eddos por, ao menos, duas dimens\u00f5es interdependentes e indivis\u00edveis. S\u00e3o elas:",
+        "number": "21",
+        "filename": "2013-12.txt"
+    }
+]

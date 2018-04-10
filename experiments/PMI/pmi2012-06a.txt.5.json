@@ -1,1 +1,57 @@
-[{"number": "5", "options": [{"pmi": [-0.01189706869253278, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "deve o advogado aguardar pacientemente o retorno da autoridade policial ao recinto da delegacia."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": true, "text": "o advogado pode contatar o seu cliente independentemente da presen\u00e7a do delegado."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "o contato do advogado fora do hor\u00e1rio normal depende de assist\u00eancia da OAB."}, {"pmi": [-0.01172417350783508, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "nesses casos, tendo em vista a seguran\u00e7a p\u00fablica, somente com autoriza\u00e7\u00e3o judicial pode ocorrer o ato."}], "areas": ["ETHICS"], "valid": true, "enum": "Ter\u00eancio \u00e9 convocado, a altas horas da noite, para assistir cliente que se encontra recolhido preso em delegacia de pol\u00edcia, tendo comparecido ao local para ter ci\u00eancia das acusa\u00e7\u00f5es existentes e contatar o seu cliente. Ao adentrar o recinto, encontra presentes dois agentes policiais de plant\u00e3o, estando os demais em dilig\u00eancias para o esclarecimento de crimes ocorridos durante o dia. Os agentes informam que somente poderia ocorrer o contato com o cliente quando o delegado retornasse de uma das dilig\u00eancias, o que estaria na imin\u00eancia de ocorrer. No concernente ao tema, \u00e0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que", "filename": "2012-06a.txt"}]
+[
+    {
+        "number": "5",
+        "options": [
+            {
+                "pmi": [
+                    -0.01189706869253278,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "deve o advogado aguardar pacientemente o retorno da autoridade policial ao recinto da delegacia."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": true,
+                "text": "o advogado pode contatar o seu cliente independentemente da presen\u00e7a do delegado."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "o contato do advogado fora do hor\u00e1rio normal depende de assist\u00eancia da OAB."
+            },
+            {
+                "pmi": [
+                    -0.01172417350783508,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "nesses casos, tendo em vista a seguran\u00e7a p\u00fablica, somente com autoriza\u00e7\u00e3o judicial pode ocorrer o ato."
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "valid": true,
+        "enum": "Ter\u00eancio \u00e9 convocado, a altas horas da noite, para assistir cliente que se encontra recolhido preso em delegacia de pol\u00edcia, tendo comparecido ao local para ter ci\u00eancia das acusa\u00e7\u00f5es existentes e contatar o seu cliente. Ao adentrar o recinto, encontra presentes dois agentes policiais de plant\u00e3o, estando os demais em dilig\u00eancias para o esclarecimento de crimes ocorridos durante o dia. Os agentes informam que somente poderia ocorrer o contato com o cliente quando o delegado retornasse de uma das dilig\u00eancias, o que estaria na imin\u00eancia de ocorrer. No concernente ao tema, \u00e0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt"
+    }
+]

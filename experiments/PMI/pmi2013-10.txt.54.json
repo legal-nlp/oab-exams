@@ -1,1 +1,57 @@
-[{"filename": "2013-10.txt", "valid": true, "options": [{"text": "A penhora n\u00e3o ser\u00e1 realizada quando o bem estiver na posse, deten\u00e7\u00e3o ou guarda de terceiro.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "Havendo mais de uma penhora, lavrar-se-\u00e1 um \u00fanico auto de penhora.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "Se o devedor fechar as portas da casa, a fim de obstar a penhora dos bens, o oficial de justi\u00e7a providenciar\u00e1 o arrombamento, independente de qualquer autoriza\u00e7\u00e3o judicial.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "O juiz autorizar\u00e1 a aliena\u00e7\u00e3o antecipada dos bens penhorados quando houver manifesta vantagem.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": true}], "areas": ["CIVIL-PROCEDURE"], "number": "54", "enum": "A respeito da penhora, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2013-10.txt",
+        "valid": true,
+        "options": [
+            {
+                "text": "A penhora n\u00e3o ser\u00e1 realizada quando o bem estiver na posse, deten\u00e7\u00e3o ou guarda de terceiro.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "Havendo mais de uma penhora, lavrar-se-\u00e1 um \u00fanico auto de penhora.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "Se o devedor fechar as portas da casa, a fim de obstar a penhora dos bens, o oficial de justi\u00e7a providenciar\u00e1 o arrombamento, independente de qualquer autoriza\u00e7\u00e3o judicial.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "O juiz autorizar\u00e1 a aliena\u00e7\u00e3o antecipada dos bens penhorados quando houver manifesta vantagem.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "number": "54",
+        "enum": "A respeito da penhora, assinale a afirmativa correta."
+    }
+]

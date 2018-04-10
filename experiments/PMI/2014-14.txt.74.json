@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Dentre as op\u00e7\u00f5es listadas a seguir, assinale aquela que indica o empregado que j\u00e1 tem os dias de repouso remunerados em seu sal\u00e1rio, sem que haja o acr\u00e9scimo da remunera\u00e7\u00e3o do seu repouso semanal.", "filename": "2014-14.txt", "number": "74", "options": [{"correct": null, "letter": "A", "text": "Germano, que \u00e9 empregado horista."}, {"correct": null, "letter": "B", "text": "Gabriela, que \u00e9 empregada diarista."}, {"correct": true, "letter": "C", "text": "Robson, que \u00e9 empregado mensalista."}, {"correct": null, "letter": "D", "text": "Diego, que \u00e9 empregado comissionista puro."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Dentre as op\u00e7\u00f5es listadas a seguir, assinale aquela que indica o empregado que j\u00e1 tem os dias de repouso remunerados em seu sal\u00e1rio, sem que haja o acr\u00e9scimo da remunera\u00e7\u00e3o do seu repouso semanal.",
+        "filename": "2014-14.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Germano, que \u00e9 empregado horista."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Gabriela, que \u00e9 empregada diarista."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Robson, que \u00e9 empregado mensalista."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Diego, que \u00e9 empregado comissionista puro."
+            }
+        ],
+        "valid": true
+    }
+]

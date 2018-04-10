@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Os advogados M\u00e1rcio, Bruno e Jorge, inscritos nas Seccionais do Paran\u00e1 e de Santa Catarina da Ordem dos Advogados resolveram constituir determinada sociedade civil de advogados, para atua\u00e7\u00e3o na \u00e1rea tribut\u00e1ria. A sede da sociedade estava localizada em Curitiba. Como os tr\u00eas s\u00f3cios estavam inscritos na Seccional de Santa Catarina, eles requereram o registro da sociedade tamb\u00e9m nessa Seccional. M\u00e1rcio, por outro lado, j\u00e1 fazendo parte da sociedade com Bruno e Jorge, requereu, juntamente com seu irm\u00e3o, igualmente advogado, o registro de outra sociedade de advogados tamb\u00e9m na Seccional do Paran\u00e1, esta com especializa\u00e7\u00e3o na \u00e1rea tribut\u00e1ria. As sociedades n\u00e3o s\u00e3o filiais.\n\n Sobre a hip\u00f3tese descrita \u00e9 correto afirmar que a sociedade de advogados de M\u00e1rcio, Bruno e Jorge", "filename": "2015-18.txt", "number": "7", "options": [{"correct": true, "letter": "A", "text": "n\u00e3o poder\u00e1 ser registrada na seccional de Santa Catarina, pois apenas tem sede na Seccional do Paran\u00e1. M\u00e1rcio n\u00e3o poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."}, {"correct": null, "letter": "B", "text": "n\u00e3o poder\u00e1 ser registrada na seccional de Santa Catarina, pois apenas tem sede na Seccional do Paran\u00e1. M\u00e1rcio poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."}, {"correct": null, "letter": "C", "text": "poder\u00e1 ser registrada na seccional de Santa Catarina, pois os tr\u00eas advogados que dela fazem parte est\u00e3o inscritos na Seccional em quest\u00e3o. M\u00e1rcio n\u00e3o poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."}, {"correct": null, "letter": "D", "text": "poder\u00e1 ser registrada na seccional de Santa Catarina, pois os tr\u00eas advogados que dela fazem parte est\u00e3o inscritos na Seccional em quest\u00e3o. M\u00e1rcio poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Os advogados M\u00e1rcio, Bruno e Jorge, inscritos nas Seccionais do Paran\u00e1 e de Santa Catarina da Ordem dos Advogados resolveram constituir determinada sociedade civil de advogados, para atua\u00e7\u00e3o na \u00e1rea tribut\u00e1ria. A sede da sociedade estava localizada em Curitiba. Como os tr\u00eas s\u00f3cios estavam inscritos na Seccional de Santa Catarina, eles requereram o registro da sociedade tamb\u00e9m nessa Seccional. M\u00e1rcio, por outro lado, j\u00e1 fazendo parte da sociedade com Bruno e Jorge, requereu, juntamente com seu irm\u00e3o, igualmente advogado, o registro de outra sociedade de advogados tamb\u00e9m na Seccional do Paran\u00e1, esta com especializa\u00e7\u00e3o na \u00e1rea tribut\u00e1ria. As sociedades n\u00e3o s\u00e3o filiais.\n\n Sobre a hip\u00f3tese descrita \u00e9 correto afirmar que a sociedade de advogados de M\u00e1rcio, Bruno e Jorge",
+        "filename": "2015-18.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "n\u00e3o poder\u00e1 ser registrada na seccional de Santa Catarina, pois apenas tem sede na Seccional do Paran\u00e1. M\u00e1rcio n\u00e3o poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "n\u00e3o poder\u00e1 ser registrada na seccional de Santa Catarina, pois apenas tem sede na Seccional do Paran\u00e1. M\u00e1rcio poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "poder\u00e1 ser registrada na seccional de Santa Catarina, pois os tr\u00eas advogados que dela fazem parte est\u00e3o inscritos na Seccional em quest\u00e3o. M\u00e1rcio n\u00e3o poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "poder\u00e1 ser registrada na seccional de Santa Catarina, pois os tr\u00eas advogados que dela fazem parte est\u00e3o inscritos na Seccional em quest\u00e3o. M\u00e1rcio poder\u00e1 requerer inscri\u00e7\u00e3o em outra sociedade de advogados no Paran\u00e1."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Suponha que um decreto trate integralmente sobre rela\u00e7\u00f5es jur\u00eddicas pertinentes aos tributos e que uma lei disponha parcialmente sobre tributos. Nessa situa\u00e7\u00e3o, de acordo com o CTN,", "filename": "2010-01.txt", "number": "64", "options": [{"correct": null, "letter": "A", "text": "nem o decreto nem a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."}, {"correct": null, "letter": "B", "text": "o decreto insere-se no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; a lei, n\u00e3o."}, {"correct": true, "letter": "C", "text": "tanto o decreto quanto a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."}, {"correct": null, "letter": "D", "text": "a lei se insere no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; o decreto, n\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Suponha que um decreto trate integralmente sobre rela\u00e7\u00f5es jur\u00eddicas pertinentes aos tributos e que uma lei disponha parcialmente sobre tributos. Nessa situa\u00e7\u00e3o, de acordo com o CTN,",
+        "filename": "2010-01.txt",
+        "number": "64",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "nem o decreto nem a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o decreto insere-se no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; a lei, n\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "tanto o decreto quanto a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a lei se insere no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; o decreto, n\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

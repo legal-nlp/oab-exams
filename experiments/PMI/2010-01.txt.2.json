@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "M\u00e1rio, advogado regularmente inscrito na OAB, foi condenado pela pr\u00e1tica de crime hediondo e, ap\u00f3s a senten\u00e7a penal transitada em julgado, respondeu a processo disciplinar, tendo sofrido, como consequ\u00eancia, penalidade de exclus\u00e3o da Ordem.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica apresentada e o Estatuto da Advocacia e da OAB, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "2", "options": [{"correct": null, "letter": "A", "text": "Ainda que se reabilite criminalmente, M\u00e1rio n\u00e3o poder\u00e1 mais se inscrever na OAB, visto que n\u00e3o preenche o requisito de idoneidade moral."}, {"correct": null, "letter": "B", "text": "Ser\u00e3o considerados inexistentes os atos privativos de advogado praticados por M\u00e1rio ap\u00f3s a exclus\u00e3o, dado o impedimento do exerc\u00edcio do mandato em raz\u00e3o da san\u00e7\u00e3o disciplinar aplicada."}, {"correct": null, "letter": "C", "text": "A penalidade de exclus\u00e3o somente poderia ter sido aplicada caso M\u00e1rio tivesse recebido tr\u00eas suspens\u00f5es."}, {"correct": true, "letter": "D", "text": "Supondo-se que o processo disciplinar tenha ficado paralisado por mais de tr\u00eas anos, aguardando o julgamento, a pretens\u00e3o \u00e0 punibilidade de M\u00e1rio estaria prescrita e ele n\u00e3o poderia ser exclu\u00eddo da Ordem."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "M\u00e1rio, advogado regularmente inscrito na OAB, foi condenado pela pr\u00e1tica de crime hediondo e, ap\u00f3s a senten\u00e7a penal transitada em julgado, respondeu a processo disciplinar, tendo sofrido, como consequ\u00eancia, penalidade de exclus\u00e3o da Ordem.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica apresentada e o Estatuto da Advocacia e da OAB, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "2",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Ainda que se reabilite criminalmente, M\u00e1rio n\u00e3o poder\u00e1 mais se inscrever na OAB, visto que n\u00e3o preenche o requisito de idoneidade moral."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ser\u00e3o considerados inexistentes os atos privativos de advogado praticados por M\u00e1rio ap\u00f3s a exclus\u00e3o, dado o impedimento do exerc\u00edcio do mandato em raz\u00e3o da san\u00e7\u00e3o disciplinar aplicada."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A penalidade de exclus\u00e3o somente poderia ter sido aplicada caso M\u00e1rio tivesse recebido tr\u00eas suspens\u00f5es."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Supondo-se que o processo disciplinar tenha ficado paralisado por mais de tr\u00eas anos, aguardando o julgamento, a pretens\u00e3o \u00e0 punibilidade de M\u00e1rio estaria prescrita e ele n\u00e3o poderia ser exclu\u00eddo da Ordem."
+            }
+        ],
+        "valid": true
+    }
+]

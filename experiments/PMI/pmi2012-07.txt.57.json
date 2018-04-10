@@ -1,1 +1,57 @@
-[{"enum": "O Prefeito do Munic\u00edpio de Belas Veredas, ap\u00f3s estudos t\u00e9cnicos e realiza\u00e7\u00e3o de audi\u00eancia p\u00fablica, decide pela cria\u00e7\u00e3o de um parque, em uma \u00e1rea onde podem ser encontrados exemplares exuberantes de Mata Atl\u00e2ntica. Assim, edita decreto que fixa os limites do novo parque municipal. Passados dois anos, recebe pedidos para que o parque seja reavaliado e transformado em uma \u00c1rea de Relevante Interesse Ecol\u00f3gico, com uma pequena redu\u00e7\u00e3o de seus limites. Tendo em vista a situa\u00e7\u00e3o descrita, assinale a alternativa correta.", "filename": "2012-07.txt", "areas": ["ENVIRONMENTAL"], "options": [{"correct": null, "pmi": [-0.046567883958297425, 0.0, 0.0, 0.0], "letter": "A", "text": "Em raz\u00e3o do princ\u00edpio da simetria das formas no direito ambiental, a Unidade de Conserva\u00e7\u00e3o criada por ato do Poder Executivo poder\u00e1 ser reavaliada e ter seus limites reduzidos tamb\u00e9m por decreto."}, {"correct": null, "pmi": [-0.08677783710409769, 0.0, 0.0, 0.0], "letter": "B", "text": "Como a Mata Atl\u00e2ntica \u00e9 considerada patrim\u00f4nio nacional, por for\u00e7a do art. 225, \u00a74\u00ba, da CRFB, apenas a Uni\u00e3o possui compet\u00eancia para a cria\u00e7\u00e3o de unidades de conserva\u00e7\u00e3o que incluam tal bioma em seus limites."}, {"correct": true, "pmi": [-0.11423246912821391, 0.0, 0.0, 0.0], "letter": "C", "text": "A cria\u00e7\u00e3o do parque \u00e9 constitucional e legal, mas, como a \u00e1rea est\u00e1 definida como Unidade de Conserva\u00e7\u00e3o de Prote\u00e7\u00e3o Integral, a altera\u00e7\u00e3o para \u00c1rea de Relevante Interesse Ecol\u00f3gico, que \u00e9 de Unidade de Conserva\u00e7\u00e3o de Uso Sustent\u00e1vel, com redu\u00e7\u00e3o de limites, s\u00f3 pode ser feita por lei."}, {"correct": null, "pmi": [-0.03716357585948918, 0.0, 0.0, 0.0], "letter": "D", "text": "A reavalia\u00e7\u00e3o poder\u00e1 ser feita por decreto, uma vez que a \u00c1rea de Relevante Interesse Ecol\u00f3gico tamb\u00e9m \u00e9 uma Unidade de Conserva\u00e7\u00e3o do grupo de prote\u00e7\u00e3o integral."}], "number": "57", "valid": true}]
+[
+    {
+        "enum": "O Prefeito do Munic\u00edpio de Belas Veredas, ap\u00f3s estudos t\u00e9cnicos e realiza\u00e7\u00e3o de audi\u00eancia p\u00fablica, decide pela cria\u00e7\u00e3o de um parque, em uma \u00e1rea onde podem ser encontrados exemplares exuberantes de Mata Atl\u00e2ntica. Assim, edita decreto que fixa os limites do novo parque municipal. Passados dois anos, recebe pedidos para que o parque seja reavaliado e transformado em uma \u00c1rea de Relevante Interesse Ecol\u00f3gico, com uma pequena redu\u00e7\u00e3o de seus limites. Tendo em vista a situa\u00e7\u00e3o descrita, assinale a alternativa correta.",
+        "filename": "2012-07.txt",
+        "areas": [
+            "ENVIRONMENTAL"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.046567883958297425,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Em raz\u00e3o do princ\u00edpio da simetria das formas no direito ambiental, a Unidade de Conserva\u00e7\u00e3o criada por ato do Poder Executivo poder\u00e1 ser reavaliada e ter seus limites reduzidos tamb\u00e9m por decreto."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.08677783710409769,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Como a Mata Atl\u00e2ntica \u00e9 considerada patrim\u00f4nio nacional, por for\u00e7a do art. 225, \u00a74\u00ba, da CRFB, apenas a Uni\u00e3o possui compet\u00eancia para a cria\u00e7\u00e3o de unidades de conserva\u00e7\u00e3o que incluam tal bioma em seus limites."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.11423246912821391,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "A cria\u00e7\u00e3o do parque \u00e9 constitucional e legal, mas, como a \u00e1rea est\u00e1 definida como Unidade de Conserva\u00e7\u00e3o de Prote\u00e7\u00e3o Integral, a altera\u00e7\u00e3o para \u00c1rea de Relevante Interesse Ecol\u00f3gico, que \u00e9 de Unidade de Conserva\u00e7\u00e3o de Uso Sustent\u00e1vel, com redu\u00e7\u00e3o de limites, s\u00f3 pode ser feita por lei."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.03716357585948918,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "A reavalia\u00e7\u00e3o poder\u00e1 ser feita por decreto, uma vez que a \u00c1rea de Relevante Interesse Ecol\u00f3gico tamb\u00e9m \u00e9 uma Unidade de Conserva\u00e7\u00e3o do grupo de prote\u00e7\u00e3o integral."
+            }
+        ],
+        "number": "57",
+        "valid": true
+    }
+]

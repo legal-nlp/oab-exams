@@ -1,1 +1,55 @@
-[{"filename": "2016-21.txt", "enum": "Tiago celebrou contrato de empreitada com a sociedade Obras J\u00e1 Ltda. para a constru\u00e7\u00e3o de piscina e duas quadras de esporte em sua casa de campo, pelo pre\u00e7o total de R$ 50.000,00. No contrato ficou estabelecido que a empreiteira seria respons\u00e1vel pelo fornecimento dos materiais necess\u00e1rios \u00e0 execu\u00e7\u00e3o da obra.\n\n Durante a obra, ocorreu uma enchente que alagou a regi\u00e3o e parte do material a ser usado na obra foi destru\u00edda. A empreiteira, em raz\u00e3o disso, entrou em contato com Tiago cobrando um adicional de R$ 10.000,00 para adquirir os novos materiais necess\u00e1rios para terminar a obra.\n\n Diante dos fatos narrados, assinale a afirmativa correta.", "number": "40", "areas": [], "valid": true, "options": [{"pmi": [-0.39352686075025745, 0.0, 0.0, 0.0], "text": "Tiago n\u00e3o ter\u00e1 que arcar com o adicional de R$ 10.000,00, ainda que a destrui\u00e7\u00e3o do material n\u00e3o tenha ocorrido por culpa do devedor.", "letter": "A", "correct": true}, {"pmi": [-0.30160419576342495, 0.0, 0.0, 0.0], "text": "Tiago n\u00e3o ter\u00e1 que arcar com o adicional de R$ 10.000,00, por\u00e9m a empreiteira n\u00e3o est\u00e1 mais obrigada a terminar a obra, tendo em vista a ocorr\u00eancia de um fato fortuito ou de for\u00e7a maior.", "letter": "B", "correct": null}, {"pmi": [-0.3217111421476533, 0.0, 0.0, 0.0], "text": "Tiago ter\u00e1 que arcar com o adicional de R$ 10.000,00, tendo em vista que a destrui\u00e7\u00e3o do material n\u00e3o foi causada por um fato fortuito ou de for\u00e7a maior.", "letter": "C", "correct": null}, {"pmi": [-0.3936918743172009, 0.0, 0.0, 0.0], "text": "Tiago ter\u00e1 que arcar com o adicional de R$ 10.000,00 e a empreiteira n\u00e3o est\u00e1 mais obrigada a terminar a obra, ante a ocorr\u00eancia de um caso fortuito ou de for\u00e7a maior.", "letter": "D", "correct": null}]}]
+[
+    {
+        "filename": "2016-21.txt",
+        "enum": "Tiago celebrou contrato de empreitada com a sociedade Obras J\u00e1 Ltda. para a constru\u00e7\u00e3o de piscina e duas quadras de esporte em sua casa de campo, pelo pre\u00e7o total de R$ 50.000,00. No contrato ficou estabelecido que a empreiteira seria respons\u00e1vel pelo fornecimento dos materiais necess\u00e1rios \u00e0 execu\u00e7\u00e3o da obra.\n\n Durante a obra, ocorreu uma enchente que alagou a regi\u00e3o e parte do material a ser usado na obra foi destru\u00edda. A empreiteira, em raz\u00e3o disso, entrou em contato com Tiago cobrando um adicional de R$ 10.000,00 para adquirir os novos materiais necess\u00e1rios para terminar a obra.\n\n Diante dos fatos narrados, assinale a afirmativa correta.",
+        "number": "40",
+        "areas": [],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.39352686075025745,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Tiago n\u00e3o ter\u00e1 que arcar com o adicional de R$ 10.000,00, ainda que a destrui\u00e7\u00e3o do material n\u00e3o tenha ocorrido por culpa do devedor.",
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.30160419576342495,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Tiago n\u00e3o ter\u00e1 que arcar com o adicional de R$ 10.000,00, por\u00e9m a empreiteira n\u00e3o est\u00e1 mais obrigada a terminar a obra, tendo em vista a ocorr\u00eancia de um fato fortuito ou de for\u00e7a maior.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.3217111421476533,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Tiago ter\u00e1 que arcar com o adicional de R$ 10.000,00, tendo em vista que a destrui\u00e7\u00e3o do material n\u00e3o foi causada por um fato fortuito ou de for\u00e7a maior.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.3936918743172009,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Tiago ter\u00e1 que arcar com o adicional de R$ 10.000,00 e a empreiteira n\u00e3o est\u00e1 mais obrigada a terminar a obra, ante a ocorr\u00eancia de um caso fortuito ou de for\u00e7a maior.",
+                "letter": "D",
+                "correct": null
+            }
+        ]
+    }
+]

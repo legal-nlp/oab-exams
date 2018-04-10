@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "O Governador do Estado K, preocupado com o resultado da balan\u00e7a comercial do seu Estado, conhecido pelo setor exportador, pretende regular a importa\u00e7\u00e3o de bens de determinados pa\u00edses, apresentando, nesse sentido, projeto de lei \u00e0 Assembleia Legislativa.  Em termos de compet\u00eancia legislativa, esse tema \u00e9, nos termos da Constitui\u00e7\u00e3o Federal,", "filename": "2012-07.txt", "number": "21", "options": [{"correct": null, "letter": "A", "text": "dos Estados"}, {"correct": true, "letter": "B", "text": "da Uni\u00e3o."}, {"correct": null, "letter": "C", "text": "do Distrito Federal"}, {"correct": null, "letter": "D", "text": "dos Munic\u00edpios."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O Governador do Estado K, preocupado com o resultado da balan\u00e7a comercial do seu Estado, conhecido pelo setor exportador, pretende regular a importa\u00e7\u00e3o de bens de determinados pa\u00edses, apresentando, nesse sentido, projeto de lei \u00e0 Assembleia Legislativa.  Em termos de compet\u00eancia legislativa, esse tema \u00e9, nos termos da Constitui\u00e7\u00e3o Federal,",
+        "filename": "2012-07.txt",
+        "number": "21",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "dos Estados"
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "da Uni\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "do Distrito Federal"
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "dos Munic\u00edpios."
+            }
+        ],
+        "valid": true
+    }
+]

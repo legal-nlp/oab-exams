@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Assinale a alternativa em que h\u00e1, incontroversamente, responsabilidade solid\u00e1ria no \u00e2mbito trabalhista.", "filename": "2012-09.txt", "number": "75", "options": [{"correct": null, "letter": "A", "text": "No contrato de empreitada, em rela\u00e7\u00e3o ao dono da obra, quanto aos cr\u00e9ditos dos empregados do empreiteiro."}, {"correct": null, "letter": "B", "text": "No contrato de terceiriza\u00e7\u00e3o l\u00edcita, em rela\u00e7\u00e3o ao tomador dos servi\u00e7os, quanto aos cr\u00e9ditos dos empregados da prestadora dos servi\u00e7os."}, {"correct": true, "letter": "C", "text": "Das partes vencidas nos diss\u00eddios coletivos, pelo valor das custas."}, {"correct": null, "letter": "D", "text": "No contrato tempor\u00e1rio, em rela\u00e7\u00e3o ao tomador ou cliente, caso a empresa de trabalho tempor\u00e1rio tenha a recupera\u00e7\u00e3o judicial deferida."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Assinale a alternativa em que h\u00e1, incontroversamente, responsabilidade solid\u00e1ria no \u00e2mbito trabalhista.",
+        "filename": "2012-09.txt",
+        "number": "75",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "No contrato de empreitada, em rela\u00e7\u00e3o ao dono da obra, quanto aos cr\u00e9ditos dos empregados do empreiteiro."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "No contrato de terceiriza\u00e7\u00e3o l\u00edcita, em rela\u00e7\u00e3o ao tomador dos servi\u00e7os, quanto aos cr\u00e9ditos dos empregados da prestadora dos servi\u00e7os."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Das partes vencidas nos diss\u00eddios coletivos, pelo valor das custas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "No contrato tempor\u00e1rio, em rela\u00e7\u00e3o ao tomador ou cliente, caso a empresa de trabalho tempor\u00e1rio tenha a recupera\u00e7\u00e3o judicial deferida."
+            }
+        ],
+        "valid": true
+    }
+]

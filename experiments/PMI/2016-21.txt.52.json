@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Bernardino adquiriu de Lorena a\u00e7\u00f5es preferenciais escriturais da companhia Campos Log\u00edstica S/A e recebeu do(a) advogado(a) orienta\u00e7\u00e3o de como se dar\u00e1 a formaliza\u00e7\u00e3o da transfer\u00eancia da propriedade.\n\n A resposta do(a) advogado(a) \u00e9 a de que a transfer\u00eancia das a\u00e7\u00f5es se opera", "filename": "2016-21.txt", "number": "52", "options": [{"correct": null, "letter": "A", "text": "pelo extrato a ser fornecido pela institui\u00e7\u00e3o custodiante, na qualidade de propriet\u00e1ria fiduci\u00e1ria das a\u00e7\u00f5es."}, {"correct": null, "letter": "B", "text": "pela inscri\u00e7\u00e3o do nome de Bernardino no livro de Registro de A\u00e7\u00f5es Nominativas em poder da companhia."}, {"correct": true, "letter": "C", "text": "pelo lan\u00e7amento efetuado pela institui\u00e7\u00e3o deposit\u00e1ria em seus livros, a d\u00e9bito da conta de a\u00e7\u00f5es de Lorena e a cr\u00e9dito da conta de a\u00e7\u00f5es de Bernardino."}, {"correct": null, "letter": "D", "text": "por termo lavrado no livro de Transfer\u00eancia de A\u00e7\u00f5es Nominativas, datado e assinado por Lorena e por Bernardino ou por seus leg\u00edtimos representantes."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Bernardino adquiriu de Lorena a\u00e7\u00f5es preferenciais escriturais da companhia Campos Log\u00edstica S/A e recebeu do(a) advogado(a) orienta\u00e7\u00e3o de como se dar\u00e1 a formaliza\u00e7\u00e3o da transfer\u00eancia da propriedade.\n\n A resposta do(a) advogado(a) \u00e9 a de que a transfer\u00eancia das a\u00e7\u00f5es se opera",
+        "filename": "2016-21.txt",
+        "number": "52",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "pelo extrato a ser fornecido pela institui\u00e7\u00e3o custodiante, na qualidade de propriet\u00e1ria fiduci\u00e1ria das a\u00e7\u00f5es."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "pela inscri\u00e7\u00e3o do nome de Bernardino no livro de Registro de A\u00e7\u00f5es Nominativas em poder da companhia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "pelo lan\u00e7amento efetuado pela institui\u00e7\u00e3o deposit\u00e1ria em seus livros, a d\u00e9bito da conta de a\u00e7\u00f5es de Lorena e a cr\u00e9dito da conta de a\u00e7\u00f5es de Bernardino."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "por termo lavrado no livro de Transfer\u00eancia de A\u00e7\u00f5es Nominativas, datado e assinado por Lorena e por Bernardino ou por seus leg\u00edtimos representantes."
+            }
+        ],
+        "valid": true
+    }
+]

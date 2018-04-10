@@ -1,1 +1,55 @@
-[{"number": "19", "areas": [], "valid": true, "filename": "2015-16.txt", "options": [{"correct": true, "pmi": [-0.4242569437650022, -0.015942204963817833, 0.0, 0.0], "text": "n\u00e3o houve irregularidade no processo legislativo, porque n\u00e3o h\u00e1 necessidade de reaprecia\u00e7\u00e3o, pela C\u00e2mara dos Deputados, do projeto de lei que tenha express\u00e3o suprimida pelo Senado Federal, quando sentido o normativo da reda\u00e7\u00e3o remanescente n\u00e3o foi alterado.", "letter": "A"}, {"correct": null, "pmi": [-0.11151941771841774, 0.0, 0.0, 0.0], "text": "n\u00e3o houve irregularidade no processo legislativo, porque \u00e9 fun\u00e7\u00e3o prec\u00edpua da Casa revisora estabelecer as mudan\u00e7as que lhe parecerem adequadas, sendo desnecess\u00e1rio o retorno \u00e0 Casa iniciadora, mesmo nas situa\u00e7\u00f5es em que a altera\u00e7\u00e3o modifique o sentido normativo inicial.", "letter": "B"}, {"correct": null, "pmi": [-0.27184551237633264, -0.00651302938689057, 0.0, 0.0], "text": "houve irregularidade no processo legislativo, pois qualquer altera\u00e7\u00e3o realizada, pela Casa revisora, no texto do projeto de lei implica a necess\u00e1ria devolu\u00e7\u00e3o \u00e0 Casa iniciadora, a fim de que aprecie tal altera\u00e7\u00e3o.", "letter": "C"}, {"correct": null, "pmi": [-0.6183191103253833, -0.031782509376420416, 0.0, 0.0], "text": "houve irregularidade no processo legislativo, mas, por tratar-se de problema de natureza interna corporis do Congresso Nacional, somente uma ADI proposta pela Mesa da C\u00e2mara dos Deputados teria o cond\u00e3o de suscitar a inconstitucionalidade da Lei \u201cL\u201d.", "letter": "D"}], "enum": "Determinado projeto de lei aprovado pela C\u00e2mara dos Deputados foi devidamente encaminhado ao Senado Federal.  Na Casa revisora, o texto foi aprovado com pequena modifica\u00e7\u00e3o, sendo suprimida certa express\u00e3o sem, contudo, alterar o sentido normativo do texto aprovado na C\u00e2mara.  Assim, o projeto foi enviado ao Presidente da Rep\u00fablica, que promoveu a sua san\u00e7\u00e3o, dando origem \u00e0 Lei \u201cL\u201d.\n\n Neste caso, segundo a jurisprud\u00eancia do Supremo Tribunal Federal,"}]
+[
+    {
+        "number": "19",
+        "areas": [],
+        "valid": true,
+        "filename": "2015-16.txt",
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    -0.4242569437650022,
+                    -0.015942204963817833,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o houve irregularidade no processo legislativo, porque n\u00e3o h\u00e1 necessidade de reaprecia\u00e7\u00e3o, pela C\u00e2mara dos Deputados, do projeto de lei que tenha express\u00e3o suprimida pelo Senado Federal, quando sentido o normativo da reda\u00e7\u00e3o remanescente n\u00e3o foi alterado.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.11151941771841774,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o houve irregularidade no processo legislativo, porque \u00e9 fun\u00e7\u00e3o prec\u00edpua da Casa revisora estabelecer as mudan\u00e7as que lhe parecerem adequadas, sendo desnecess\u00e1rio o retorno \u00e0 Casa iniciadora, mesmo nas situa\u00e7\u00f5es em que a altera\u00e7\u00e3o modifique o sentido normativo inicial.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.27184551237633264,
+                    -0.00651302938689057,
+                    0.0,
+                    0.0
+                ],
+                "text": "houve irregularidade no processo legislativo, pois qualquer altera\u00e7\u00e3o realizada, pela Casa revisora, no texto do projeto de lei implica a necess\u00e1ria devolu\u00e7\u00e3o \u00e0 Casa iniciadora, a fim de que aprecie tal altera\u00e7\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.6183191103253833,
+                    -0.031782509376420416,
+                    0.0,
+                    0.0
+                ],
+                "text": "houve irregularidade no processo legislativo, mas, por tratar-se de problema de natureza interna corporis do Congresso Nacional, somente uma ADI proposta pela Mesa da C\u00e2mara dos Deputados teria o cond\u00e3o de suscitar a inconstitucionalidade da Lei \u201cL\u201d.",
+                "letter": "D"
+            }
+        ],
+        "enum": "Determinado projeto de lei aprovado pela C\u00e2mara dos Deputados foi devidamente encaminhado ao Senado Federal.  Na Casa revisora, o texto foi aprovado com pequena modifica\u00e7\u00e3o, sendo suprimida certa express\u00e3o sem, contudo, alterar o sentido normativo do texto aprovado na C\u00e2mara.  Assim, o projeto foi enviado ao Presidente da Rep\u00fablica, que promoveu a sua san\u00e7\u00e3o, dando origem \u00e0 Lei \u201cL\u201d.\n\n Neste caso, segundo a jurisprud\u00eancia do Supremo Tribunal Federal,"
+    }
+]

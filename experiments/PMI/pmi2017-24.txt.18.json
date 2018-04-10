@@ -1,1 +1,57 @@
-[{"options": [{"text": "caso sejam feitas peti\u00e7\u00f5es individualizadas, uma vez que os casos de viola\u00e7\u00e3o de direitos previstos no Pacto de S\u00e3o Jos\u00e9 da Costa Rica devem ser julgados diretamente pela Corte Interamericana de Justi\u00e7a.", "correct": null, "letter": "A", "pmi": [-0.03862241463194918, 0.0, 0.0, 0.0]}, {"text": "caso sejam feitas peti\u00e7\u00f5es individualizadas relatando a viola\u00e7\u00e3o sofrida por cada uma das v\u00edtimas e as relacionando aos direitos previstos na Conven\u00e7\u00e3o Americana; assim, a CIDH poder\u00e1 adotar as medidas que julgar necess\u00e1rias para a cessa\u00e7\u00e3o da viola\u00e7\u00e3o.", "correct": null, "letter": "B", "pmi": [-0.038312409985808, 0.0, 0.0, 0.0]}, {"text": "caso entenda haver situa\u00e7\u00e3o de gravidade e urg\u00eancia. Assim, a CIDH poder\u00e1 instaurar de of\u00edcio um procedimento no qual solicita que o Estado brasileiro adote medidas cautelares de natureza coletiva para evitar danos irrepar\u00e1veis aos presos.", "correct": true, "letter": "C", "pmi": [-0.021508955162116927, 0.0, 0.0, 0.0]}, {"text": "caso entenda haver situa\u00e7\u00e3o de gravidade e urg\u00eancia. Assim, a CIDH deve encaminhar diretamente o caso \u00e0 Corte Interamericana de Justi\u00e7a, que poder\u00e1 ordenar a medida provis\u00f3ria que julgar necess\u00e1ria \u00e0 cessa\u00e7\u00e3o da viola\u00e7\u00e3o.", "correct": null, "letter": "D", "pmi": [-0.03447965459470896, 0.0, 0.0, 0.0]}], "areas": [null], "number": "18", "filename": "2017-24.txt", "enum": "H\u00e1 cerca de tr\u00eas meses, foi verificado que os presos da Penitenci\u00e1ria Quebrantar estavam sofrendo diversas formas de maus tratos, incluindo viol\u00eancia f\u00edsica. Voc\u00ea foi contratado(a) por familiares dos presos, que lhe disseram ter elementos suficientes para acreditar que qualquer medida judicial no Brasil seria ineficaz no prazo desejado. Por isso, eles o(a) consultaram sobre a possibilidade de submeter o caso \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos (CIDH).\n\n Considerando as regras de funcionamento dessa Comiss\u00e3o, voc\u00ea deve inform\u00e1-los de que a CIDH pode receber a den\u00fancia:", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "text": "caso sejam feitas peti\u00e7\u00f5es individualizadas, uma vez que os casos de viola\u00e7\u00e3o de direitos previstos no Pacto de S\u00e3o Jos\u00e9 da Costa Rica devem ser julgados diretamente pela Corte Interamericana de Justi\u00e7a.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.03862241463194918,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "caso sejam feitas peti\u00e7\u00f5es individualizadas relatando a viola\u00e7\u00e3o sofrida por cada uma das v\u00edtimas e as relacionando aos direitos previstos na Conven\u00e7\u00e3o Americana; assim, a CIDH poder\u00e1 adotar as medidas que julgar necess\u00e1rias para a cessa\u00e7\u00e3o da viola\u00e7\u00e3o.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.038312409985808,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "caso entenda haver situa\u00e7\u00e3o de gravidade e urg\u00eancia. Assim, a CIDH poder\u00e1 instaurar de of\u00edcio um procedimento no qual solicita que o Estado brasileiro adote medidas cautelares de natureza coletiva para evitar danos irrepar\u00e1veis aos presos.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.021508955162116927,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "caso entenda haver situa\u00e7\u00e3o de gravidade e urg\u00eancia. Assim, a CIDH deve encaminhar diretamente o caso \u00e0 Corte Interamericana de Justi\u00e7a, que poder\u00e1 ordenar a medida provis\u00f3ria que julgar necess\u00e1ria \u00e0 cessa\u00e7\u00e3o da viola\u00e7\u00e3o.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.03447965459470896,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "number": "18",
+        "filename": "2017-24.txt",
+        "enum": "H\u00e1 cerca de tr\u00eas meses, foi verificado que os presos da Penitenci\u00e1ria Quebrantar estavam sofrendo diversas formas de maus tratos, incluindo viol\u00eancia f\u00edsica. Voc\u00ea foi contratado(a) por familiares dos presos, que lhe disseram ter elementos suficientes para acreditar que qualquer medida judicial no Brasil seria ineficaz no prazo desejado. Por isso, eles o(a) consultaram sobre a possibilidade de submeter o caso \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos (CIDH).\n\n Considerando as regras de funcionamento dessa Comiss\u00e3o, voc\u00ea deve inform\u00e1-los de que a CIDH pode receber a den\u00fancia:",
+        "valid": true
+    }
+]

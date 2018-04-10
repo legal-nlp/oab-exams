@@ -1,1 +1,57 @@
-[{"areas": [null], "valid": true, "number": "5", "enum": "Miguel, advogado, sempre exerceu a atividade sozinho. N\u00e3o obstante, passou a pesquisar sobre a possibilidade de constituir, individualmente, pessoa jur\u00eddica para a presta\u00e7\u00e3o de seus servi\u00e7os de advocacia.  Sobre o tema, assinale a afirmativa correta.", "filename": "2017-23.txt", "options": [{"text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida, mediante registro dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'Sociedade Individual de Advocacia'.", "pmi": [-0.053214065137135634, 0.0, 0.0, 0.0], "letter": "A", "correct": true}, {"text": "Miguel n\u00e3o poder\u00e1 constituir a pessoa jur\u00eddica pretendida, uma vez que o ordenamento jur\u00eddico brasileiro n\u00e3o admite a figura da sociedade unipessoal, ressalvados apenas os casos de unipessoalidade tempor\u00e1ria e da chamada subsidi\u00e1ria integral.", "pmi": [-0.04161838299835633, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Conselho Seccional da OAB, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.", "pmi": [-0.06984346049249052, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Registro Civil de Pessoas Jur\u00eddicas, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.", "pmi": [-0.06573502163999108, 0.0, 0.0, 0.0], "letter": "D", "correct": null}]}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "number": "5",
+        "enum": "Miguel, advogado, sempre exerceu a atividade sozinho. N\u00e3o obstante, passou a pesquisar sobre a possibilidade de constituir, individualmente, pessoa jur\u00eddica para a presta\u00e7\u00e3o de seus servi\u00e7os de advocacia.  Sobre o tema, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "options": [
+            {
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida, mediante registro dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'Sociedade Individual de Advocacia'.",
+                "pmi": [
+                    -0.053214065137135634,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "text": "Miguel n\u00e3o poder\u00e1 constituir a pessoa jur\u00eddica pretendida, uma vez que o ordenamento jur\u00eddico brasileiro n\u00e3o admite a figura da sociedade unipessoal, ressalvados apenas os casos de unipessoalidade tempor\u00e1ria e da chamada subsidi\u00e1ria integral.",
+                "pmi": [
+                    -0.04161838299835633,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Conselho Seccional da OAB, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.",
+                "pmi": [
+                    -0.06984346049249052,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Registro Civil de Pessoas Jur\u00eddicas, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.",
+                "pmi": [
+                    -0.06573502163999108,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ]
+    }
+]

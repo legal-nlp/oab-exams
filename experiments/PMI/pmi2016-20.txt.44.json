@@ -1,1 +1,55 @@
-[{"options": [{"text": "Marcelo deve ficar com os av\u00f3s maternos, com quem por \u00faltimo residiu, em raz\u00e3o dos benef\u00edcios da inclus\u00e3o da crian\u00e7a como dependente do plano de sa\u00fade.", "correct": null, "letter": "A", "pmi": [-0.0335646225244071, 0.0, 0.0, 0.0]}, {"text": "Marcelo deve ficar na companhia dos av\u00f3s paternos, pois sempre prestaram assist\u00eancia material \u00e0 crian\u00e7a, que com eles residia antes do falecimento de Vitor.", "correct": null, "letter": "B", "pmi": [-0.019504343151812965, 0.0, 0.0, 0.0]}, {"text": "Marcelo deve ficar sob a guarda da m\u00e3e, j\u00e1 que ela nunca abandonou o filho e sempre cumpriu com os deveres inerentes ao exerc\u00edcio do poder familiar, ainda que com o aux\u00edlio dos av\u00f3s.", "correct": true, "letter": "C", "pmi": [-0.020507575330628292, 0.0, 0.0, 0.0]}, {"text": "Em programa de acolhimento familiar, at\u00e9 que esteja cabalmente demonstrado que a genitora n\u00e3o faz mais uso de subst\u00e2ncias entorpecentes.", "correct": null, "letter": "D", "pmi": [-0.03105685867415307, 0.0, 0.0, 0.0]}], "enum": "Vanessa e Vitor vivem com o filho Marcelo, crian\u00e7a com 06 anos de idade, na casa dos av\u00f3s paternos. Em um tr\u00e1gico acidente, Vitor veio a falecer. A vi\u00fava, logo ap\u00f3s o \u00f3bito, decide morar na casa de seus pais com o filho. Ap\u00f3s 10 dias, j\u00e1 residindo com os pais, Vanessa, em depress\u00e3o e fazendo uso de entorpecentes, deixa o filho aos cuidados dos av\u00f3s maternos, e se submete a tratamento de interna\u00e7\u00e3o em cl\u00ednica de reabilita\u00e7\u00e3o. Decorridos 20 dias e com alta m\u00e9dica, Vanessa mant\u00e9m acompanhamento ambulatorial e aluga apartamento para morar sozinha com o filho. Os av\u00f3s paternos inconformados ingressaram com A\u00e7\u00e3o de Guarda de Marcelo. Afirmaram que sempre prestaram assist\u00eancia material ao neto, que com eles residia desde o nascimento at\u00e9 o falecimento de Vitor. Citada, Vanessa contestou o pedido, alegando estar recuperada de sua depress\u00e3o e da depend\u00eancia qu\u00edmica. Ainda, demonstrou possuir atividade laborativa, e que obteve vaga para o filho em escola. Os av\u00f3s maternos, por sua vez, ingressam com oposi\u00e7\u00e3o. Aduziram que Marcelo ficou muito bem aos seus cuidados e que possuem excelente plano de sa\u00fade, que possibilitar\u00e1 a inclus\u00e3o do neto como dependente.\n\n Sobre a guarda de Marcelo, \u00e0 luz da Prote\u00e7\u00e3o Integral da Crian\u00e7a e do Adolescente, assinale a afirmativa correta.", "valid": true, "number": "44", "areas": [], "filename": "2016-20.txt"}]
+[
+    {
+        "options": [
+            {
+                "text": "Marcelo deve ficar com os av\u00f3s maternos, com quem por \u00faltimo residiu, em raz\u00e3o dos benef\u00edcios da inclus\u00e3o da crian\u00e7a como dependente do plano de sa\u00fade.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.0335646225244071,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Marcelo deve ficar na companhia dos av\u00f3s paternos, pois sempre prestaram assist\u00eancia material \u00e0 crian\u00e7a, que com eles residia antes do falecimento de Vitor.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.019504343151812965,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Marcelo deve ficar sob a guarda da m\u00e3e, j\u00e1 que ela nunca abandonou o filho e sempre cumpriu com os deveres inerentes ao exerc\u00edcio do poder familiar, ainda que com o aux\u00edlio dos av\u00f3s.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.020507575330628292,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Em programa de acolhimento familiar, at\u00e9 que esteja cabalmente demonstrado que a genitora n\u00e3o faz mais uso de subst\u00e2ncias entorpecentes.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.03105685867415307,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Vanessa e Vitor vivem com o filho Marcelo, crian\u00e7a com 06 anos de idade, na casa dos av\u00f3s paternos. Em um tr\u00e1gico acidente, Vitor veio a falecer. A vi\u00fava, logo ap\u00f3s o \u00f3bito, decide morar na casa de seus pais com o filho. Ap\u00f3s 10 dias, j\u00e1 residindo com os pais, Vanessa, em depress\u00e3o e fazendo uso de entorpecentes, deixa o filho aos cuidados dos av\u00f3s maternos, e se submete a tratamento de interna\u00e7\u00e3o em cl\u00ednica de reabilita\u00e7\u00e3o. Decorridos 20 dias e com alta m\u00e9dica, Vanessa mant\u00e9m acompanhamento ambulatorial e aluga apartamento para morar sozinha com o filho. Os av\u00f3s paternos inconformados ingressaram com A\u00e7\u00e3o de Guarda de Marcelo. Afirmaram que sempre prestaram assist\u00eancia material ao neto, que com eles residia desde o nascimento at\u00e9 o falecimento de Vitor. Citada, Vanessa contestou o pedido, alegando estar recuperada de sua depress\u00e3o e da depend\u00eancia qu\u00edmica. Ainda, demonstrou possuir atividade laborativa, e que obteve vaga para o filho em escola. Os av\u00f3s maternos, por sua vez, ingressam com oposi\u00e7\u00e3o. Aduziram que Marcelo ficou muito bem aos seus cuidados e que possuem excelente plano de sa\u00fade, que possibilitar\u00e1 a inclus\u00e3o do neto como dependente.\n\n Sobre a guarda de Marcelo, \u00e0 luz da Prote\u00e7\u00e3o Integral da Crian\u00e7a e do Adolescente, assinale a afirmativa correta.",
+        "valid": true,
+        "number": "44",
+        "areas": [],
+        "filename": "2016-20.txt"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Um determinado empregador paga os sal\u00e1rios dos seus empregados no primeiro dia \u00fatil do m\u00eas seguinte ao vencido. Encontrando-se em situa\u00e7\u00e3o financeira delicada, pretende passar a honrar esta obriga\u00e7\u00e3o no 5\u00ba dia \u00fatil do m\u00eas subsequente ao vencido, como normalmente fazem os seus concorrentes.\n\n A partir da hip\u00f3tese apresentada, assinale a afirmativa correta.", "filename": "2012-08.txt", "number": "74", "options": [{"correct": null, "letter": "A", "text": "A altera\u00e7\u00e3o contratual, por ser lesiva \u00e0 classe trabalhadora, \u00e9 inv\u00e1lida diante do princ\u00edpio da prote\u00e7\u00e3o."}, {"correct": true, "letter": "B", "text": "A altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois a nova data pretendida encontra-se no limite legal."}, {"correct": null, "letter": "C", "text": "A altera\u00e7\u00e3o somente pode ser realizada se houver previs\u00e3o em acordo coletivo."}, {"correct": null, "letter": "D", "text": "A altera\u00e7\u00e3o de data somente prevalecer\u00e1 para os admitidos posteriormente \u00e0 mudan\u00e7a pretendida."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Um determinado empregador paga os sal\u00e1rios dos seus empregados no primeiro dia \u00fatil do m\u00eas seguinte ao vencido. Encontrando-se em situa\u00e7\u00e3o financeira delicada, pretende passar a honrar esta obriga\u00e7\u00e3o no 5\u00ba dia \u00fatil do m\u00eas subsequente ao vencido, como normalmente fazem os seus concorrentes.\n\n A partir da hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A altera\u00e7\u00e3o contratual, por ser lesiva \u00e0 classe trabalhadora, \u00e9 inv\u00e1lida diante do princ\u00edpio da prote\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "A altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois a nova data pretendida encontra-se no limite legal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A altera\u00e7\u00e3o somente pode ser realizada se houver previs\u00e3o em acordo coletivo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A altera\u00e7\u00e3o de data somente prevalecer\u00e1 para os admitidos posteriormente \u00e0 mudan\u00e7a pretendida."
+            }
+        ],
+        "valid": true
+    }
+]

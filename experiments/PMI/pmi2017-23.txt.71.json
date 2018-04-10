@@ -1,1 +1,57 @@
-[{"areas": [null], "enum": "A sociedade empres\u00e1ria Gard\u00eania Azul Ltda. aprovou acordo coletivo junto ao sindicato de classe dos seus empregados prevendo um plano de cargos e sal\u00e1rios.  Nele, as promo\u00e7\u00f5es seriam feitas no m\u00e1ximo a cada dois anos, exclusivamente pelo crit\u00e9rio de antiguidade.  No per\u00edodo de vig\u00eancia dessa norma, Walter ajuizou uma a\u00e7\u00e3o requerendo equipara\u00e7\u00e3o salarial a Fernando, referente ao per\u00edodo do acordo coletivo.  Diante da situa\u00e7\u00e3o concreta e da jurisprud\u00eancia consolidada do TST, assinale a afirmativa correta.", "options": [{"text": "O pedido de equipara\u00e7\u00e3o salarial n\u00e3o \u00e9 poss\u00edvel juridicamente porque a sociedade empres\u00e1ria possui plano de cargos e sal\u00e1rios.", "letter": "A", "pmi": [-0.09657940199683564, 0.0, 0.0, 0.0], "correct": null}, {"text": "A equipara\u00e7\u00e3o salarial \u00e9 poss\u00edvel se atendidos os demais requisitos legais, porque o plano de cargos e sal\u00e1rios em quest\u00e3o n\u00e3o tem validade.", "letter": "B", "pmi": [-0.08533539564855472, 0.0, 0.0, 0.0], "correct": true}, {"text": "A observ\u00e2ncia ou n\u00e3o ao acordo ficar\u00e1 a cargo de cada juiz, porque inexiste previs\u00e3o legal ou jurisprudencial a respeito.", "letter": "C", "pmi": [-0.09988400046233488, 0.0, 0.0, 0.0], "correct": null}, {"text": "O plano de cargos e sal\u00e1rios, por ser fruto de negocia\u00e7\u00e3o coletiva e atender aos requisitos legais, precisa ser observado pelo magistrado.", "letter": "D", "pmi": [-0.08369019665929357, 0.0, 0.0, 0.0], "correct": null}], "valid": true, "filename": "2017-23.txt", "number": "71"}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "A sociedade empres\u00e1ria Gard\u00eania Azul Ltda. aprovou acordo coletivo junto ao sindicato de classe dos seus empregados prevendo um plano de cargos e sal\u00e1rios.  Nele, as promo\u00e7\u00f5es seriam feitas no m\u00e1ximo a cada dois anos, exclusivamente pelo crit\u00e9rio de antiguidade.  No per\u00edodo de vig\u00eancia dessa norma, Walter ajuizou uma a\u00e7\u00e3o requerendo equipara\u00e7\u00e3o salarial a Fernando, referente ao per\u00edodo do acordo coletivo.  Diante da situa\u00e7\u00e3o concreta e da jurisprud\u00eancia consolidada do TST, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "O pedido de equipara\u00e7\u00e3o salarial n\u00e3o \u00e9 poss\u00edvel juridicamente porque a sociedade empres\u00e1ria possui plano de cargos e sal\u00e1rios.",
+                "letter": "A",
+                "pmi": [
+                    -0.09657940199683564,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "A equipara\u00e7\u00e3o salarial \u00e9 poss\u00edvel se atendidos os demais requisitos legais, porque o plano de cargos e sal\u00e1rios em quest\u00e3o n\u00e3o tem validade.",
+                "letter": "B",
+                "pmi": [
+                    -0.08533539564855472,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "A observ\u00e2ncia ou n\u00e3o ao acordo ficar\u00e1 a cargo de cada juiz, porque inexiste previs\u00e3o legal ou jurisprudencial a respeito.",
+                "letter": "C",
+                "pmi": [
+                    -0.09988400046233488,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "O plano de cargos e sal\u00e1rios, por ser fruto de negocia\u00e7\u00e3o coletiva e atender aos requisitos legais, precisa ser observado pelo magistrado.",
+                "letter": "D",
+                "pmi": [
+                    -0.08369019665929357,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "filename": "2017-23.txt",
+        "number": "71"
+    }
+]

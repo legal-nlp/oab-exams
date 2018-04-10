@@ -1,1 +1,57 @@
-[{"valid": true, "areas": ["ETHICS"], "enum": "O advogado Francisco \u00e9 conhecido por sua rara habilidade no setor de contratos empresariais, experto nas chamadas cl\u00e1usulas venenosas que dificultam a quebra imotivada de aven\u00e7as. No exerc\u00edcio regular da sua profiss\u00e3o de advogado, apresenta-se, munido dos devidos poderes, em assembleia de sociedade an\u00f4nima, cujo controlador \u00e9 seu cliente. O presidente da assembleia n\u00e3o acolhe a sua presen\u00e7a, aduzindo falta de autoriza\u00e7\u00e3o legal.\n\n Nos termos do Estatuto da Advocacia, \u00e9 direito do advogado", "filename": "2013-10.txt", "options": [{"correct": null, "letter": "A", "pmi": [-0.01772839124595344, 0.0, 0.0, 0.0], "text": "ingressar em assembleia, representando seu cliente, mesmo n\u00e3o munido de mandato."}, {"correct": null, "letter": "B", "pmi": [-0.023699055442937215, 0.0, 0.0, 0.0], "text": "representar seu cliente com procura\u00e7\u00e3o outorgada com poderes gerais."}, {"correct": true, "letter": "C", "pmi": [-0.017774291582202912, 0.0, 0.0, 0.0], "text": "atuar em assembleia a que seu cliente possa comparecer, munido de poderes especiais."}, {"correct": null, "letter": "D", "pmi": [-0.03650063724832142, 0.0, 0.0, 0.0], "text": "atuar excepcionalmente com autoriza\u00e7\u00e3o do presidente da assembleia, que supre o mandato."}], "number": "10"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Francisco \u00e9 conhecido por sua rara habilidade no setor de contratos empresariais, experto nas chamadas cl\u00e1usulas venenosas que dificultam a quebra imotivada de aven\u00e7as. No exerc\u00edcio regular da sua profiss\u00e3o de advogado, apresenta-se, munido dos devidos poderes, em assembleia de sociedade an\u00f4nima, cujo controlador \u00e9 seu cliente. O presidente da assembleia n\u00e3o acolhe a sua presen\u00e7a, aduzindo falta de autoriza\u00e7\u00e3o legal.\n\n Nos termos do Estatuto da Advocacia, \u00e9 direito do advogado",
+        "filename": "2013-10.txt",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.01772839124595344,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ingressar em assembleia, representando seu cliente, mesmo n\u00e3o munido de mandato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.023699055442937215,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "representar seu cliente com procura\u00e7\u00e3o outorgada com poderes gerais."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.017774291582202912,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "atuar em assembleia a que seu cliente possa comparecer, munido de poderes especiais."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.03650063724832142,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "atuar excepcionalmente com autoriza\u00e7\u00e3o do presidente da assembleia, que supre o mandato."
+            }
+        ],
+        "number": "10"
+    }
+]

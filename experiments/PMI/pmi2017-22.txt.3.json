@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.04816478194392493, 0.0, 0.0, 0.0], "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, tampouco se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.", "letter": "A", "correct": null}, {"pmi": [-0.05217851377258534, 0.0, 0.0, 0.0], "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas n\u00e3o pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.", "letter": "B", "correct": true}, {"pmi": [-0.05217851377258534, 0.0, 0.0, 0.0], "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.", "letter": "C", "correct": null}, {"pmi": [-0.052557237370399086, 0.0, 0.0, 0.0], "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas pode repassar as informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa, a fim de que sejam utilizadas por terceiro que patrocine a causa de Cristina.", "letter": "D", "correct": null}], "number": "3", "filename": "2017-22.txt", "enum": "Juliana, advogada, foi empregada da sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e, em raz\u00e3o da sua atua\u00e7\u00e3o na \u00e1rea tribut\u00e1ria, tomou conhecimento de informa\u00e7\u00f5es estrat\u00e9gicas da empresa.  Muitos anos depois de ter deixado de trabalhar na empresa, foi procurada por Cristina, consumidora que pretendia ajuizar a\u00e7\u00e3o c\u00edvel em face da OPQ Cosm\u00e9ticos por danos causados pelo uso de um de seus produtos. Juliana, aceitando a causa, utiliza-se das informa\u00e7\u00f5es estrat\u00e9gicas que adquirira como argumento de refor\u00e7o, com a finalidade de aumentar a probabilidade de \u00eaxito da demanda.\n\n Considerando essa situa\u00e7\u00e3o, segundo o Estatuto da OAB e o C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.", "areas": [null], "valid": true}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.04816478194392493,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, tampouco se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.05217851377258534,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas n\u00e3o pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.05217851377258534,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.052557237370399086,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas pode repassar as informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa, a fim de que sejam utilizadas por terceiro que patrocine a causa de Cristina.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "number": "3",
+        "filename": "2017-22.txt",
+        "enum": "Juliana, advogada, foi empregada da sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e, em raz\u00e3o da sua atua\u00e7\u00e3o na \u00e1rea tribut\u00e1ria, tomou conhecimento de informa\u00e7\u00f5es estrat\u00e9gicas da empresa.  Muitos anos depois de ter deixado de trabalhar na empresa, foi procurada por Cristina, consumidora que pretendia ajuizar a\u00e7\u00e3o c\u00edvel em face da OPQ Cosm\u00e9ticos por danos causados pelo uso de um de seus produtos. Juliana, aceitando a causa, utiliza-se das informa\u00e7\u00f5es estrat\u00e9gicas que adquirira como argumento de refor\u00e7o, com a finalidade de aumentar a probabilidade de \u00eaxito da demanda.\n\n Considerando essa situa\u00e7\u00e3o, segundo o Estatuto da OAB e o C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
+        "areas": [
+            null
+        ],
+        "valid": true
+    }
+]

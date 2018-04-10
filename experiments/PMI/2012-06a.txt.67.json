@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "A Justi\u00e7a Brasileira recebeu Carta Rogat\u00f3ria encaminhada pelo Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores a pedido da Embaixada da Rom\u00eania, com o fim de verificar a poss\u00edvel ocorr\u00eancia de crime de lavagem de dinheiro do empres\u00e1rio brasileiro Z. A quem compete a execu\u00e7\u00e3o da Carta Rogat\u00f3ria?", "filename": "2012-06a.txt", "number": "67", "options": [{"correct": true, "letter": "A", "text": "Aos Ju\u00edzes Federais."}, {"correct": null, "letter": "B", "text": "Ao Superior Tribunal de Justi\u00e7a."}, {"correct": null, "letter": "C", "text": "Aos Ju\u00edzes Estaduais."}, {"correct": null, "letter": "D", "text": "Ao Supremo Tribunal Federal."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "A Justi\u00e7a Brasileira recebeu Carta Rogat\u00f3ria encaminhada pelo Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores a pedido da Embaixada da Rom\u00eania, com o fim de verificar a poss\u00edvel ocorr\u00eancia de crime de lavagem de dinheiro do empres\u00e1rio brasileiro Z. A quem compete a execu\u00e7\u00e3o da Carta Rogat\u00f3ria?",
+        "filename": "2012-06a.txt",
+        "number": "67",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Aos Ju\u00edzes Federais."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ao Superior Tribunal de Justi\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Aos Ju\u00edzes Estaduais."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Ao Supremo Tribunal Federal."
+            }
+        ],
+        "valid": true
+    }
+]

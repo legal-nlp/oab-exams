@@ -1,1 +1,57 @@
-[{"number": "2", "options": [{"letter": "A", "text": "renunciar aos tr\u00eas mandatos, afastando-se do feito.", "correct": null, "pmi": [-0.01982997355238335, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "manter-se no patroc\u00ednio dos tr\u00eas irm\u00e3os, desde que informe o conflito nos autos e atue de forma imparcial, observando-se a disciplina legal.", "correct": null, "pmi": [-0.004854045822710526, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "escolher, de acordo com seus crit\u00e9rios de prud\u00eancia, apenas um dos mandatos, renunciando aos demais.", "correct": true, "pmi": [-0.030087971934670752, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "manter-se no patroc\u00ednio daquele que primeiro lhe conferiu o mandato, isto \u00e9, o inventariante, renunciando aos demais.", "correct": null, "pmi": [-0.02678557471411848, 0.0, 0.0, 0.0]}], "filename": "2017-23.txt", "areas": [null], "enum": "O advogado Ramiro foi procurado por Hugo, inventariante, para atuar no processo de invent\u00e1rio do genitor deste. Em momento posterior, os irm\u00e3os de Hugo, Jos\u00e9 e Luiz, outros herdeiros do de cujus, conferiram procura\u00e7\u00e3o a Ramiro, a fim de ele tamb\u00e9m represent\u00e1-los na demanda. Todavia, no curso do feito, os irm\u00e3os, at\u00e9 ent\u00e3o concordantes, passam a divergir sobre os termos da partilha. Ramiro, ent\u00e3o, marca reuni\u00f5es, em busca de harmoniza\u00e7\u00e3o dos interesses dos tr\u00eas, por\u00e9m n\u00e3o obt\u00e9m sucesso.  Diante do caso narrado, por determina\u00e7\u00e3o do C\u00f3digo de \u00c9tica e Disciplina da OAB, Ramiro dever\u00e1", "valid": true}]
+[
+    {
+        "number": "2",
+        "options": [
+            {
+                "letter": "A",
+                "text": "renunciar aos tr\u00eas mandatos, afastando-se do feito.",
+                "correct": null,
+                "pmi": [
+                    -0.01982997355238335,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "manter-se no patroc\u00ednio dos tr\u00eas irm\u00e3os, desde que informe o conflito nos autos e atue de forma imparcial, observando-se a disciplina legal.",
+                "correct": null,
+                "pmi": [
+                    -0.004854045822710526,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "escolher, de acordo com seus crit\u00e9rios de prud\u00eancia, apenas um dos mandatos, renunciando aos demais.",
+                "correct": true,
+                "pmi": [
+                    -0.030087971934670752,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "manter-se no patroc\u00ednio daquele que primeiro lhe conferiu o mandato, isto \u00e9, o inventariante, renunciando aos demais.",
+                "correct": null,
+                "pmi": [
+                    -0.02678557471411848,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2017-23.txt",
+        "areas": [
+            null
+        ],
+        "enum": "O advogado Ramiro foi procurado por Hugo, inventariante, para atuar no processo de invent\u00e1rio do genitor deste. Em momento posterior, os irm\u00e3os de Hugo, Jos\u00e9 e Luiz, outros herdeiros do de cujus, conferiram procura\u00e7\u00e3o a Ramiro, a fim de ele tamb\u00e9m represent\u00e1-los na demanda. Todavia, no curso do feito, os irm\u00e3os, at\u00e9 ent\u00e3o concordantes, passam a divergir sobre os termos da partilha. Ramiro, ent\u00e3o, marca reuni\u00f5es, em busca de harmoniza\u00e7\u00e3o dos interesses dos tr\u00eas, por\u00e9m n\u00e3o obt\u00e9m sucesso.  Diante do caso narrado, por determina\u00e7\u00e3o do C\u00f3digo de \u00c9tica e Disciplina da OAB, Ramiro dever\u00e1",
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Com rela\u00e7\u00e3o ao processo administrativo federal, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "56", "options": [{"correct": null, "letter": "A", "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos."}, {"correct": null, "letter": "B", "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva."}, {"correct": null, "letter": "C", "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia."}, {"correct": true, "letter": "D", "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao processo administrativo federal, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "56",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2011-05.txt", "number": "42", "areas": ["CIVIL-PROCEDURE"], "options": [{"text": "Litiscons\u00f3rcio ativo necess\u00e1rio e unit\u00e1rio.", "letter": "A", "pmi": [-0.07365265135766608, 0.0, 0.0, 0.0], "correct": null}, {"text": "Litiscons\u00f3rcio passivo necess\u00e1rio e simples.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Litiscons\u00f3rcio ativo facultativo e simples.", "letter": "C", "pmi": [-0.07365265135766608, 0.0, 0.0, 0.0], "correct": null}, {"text": "Litiscons\u00f3rcio passivo necess\u00e1rio e unit\u00e1rio.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}], "enum": "O Minist\u00e9rio P\u00fablico ajuizou a\u00e7\u00e3o rescis\u00f3ria a fim de desconstituir senten\u00e7a transitada em julgado, ao argumento de que teria havido colus\u00e3o entre ambas as partes do processo origin\u00e1rio no intuito de fraudar a lei. Diante disso, requereu o Minist\u00e9rio P\u00fablico, na peti\u00e7\u00e3o inicial da a\u00e7\u00e3o rescis\u00f3ria, a cita\u00e7\u00e3o tanto da parte autora quanto da parte r\u00e9 do processo origin\u00e1rio.\n\n Assinale a modalidade de litiscons\u00f3rcio verificada na hip\u00f3tese acima."}]
+[
+    {
+        "valid": true,
+        "filename": "2011-05.txt",
+        "number": "42",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "text": "Litiscons\u00f3rcio ativo necess\u00e1rio e unit\u00e1rio.",
+                "letter": "A",
+                "pmi": [
+                    -0.07365265135766608,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Litiscons\u00f3rcio passivo necess\u00e1rio e simples.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Litiscons\u00f3rcio ativo facultativo e simples.",
+                "letter": "C",
+                "pmi": [
+                    -0.07365265135766608,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Litiscons\u00f3rcio passivo necess\u00e1rio e unit\u00e1rio.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ],
+        "enum": "O Minist\u00e9rio P\u00fablico ajuizou a\u00e7\u00e3o rescis\u00f3ria a fim de desconstituir senten\u00e7a transitada em julgado, ao argumento de que teria havido colus\u00e3o entre ambas as partes do processo origin\u00e1rio no intuito de fraudar a lei. Diante disso, requereu o Minist\u00e9rio P\u00fablico, na peti\u00e7\u00e3o inicial da a\u00e7\u00e3o rescis\u00f3ria, a cita\u00e7\u00e3o tanto da parte autora quanto da parte r\u00e9 do processo origin\u00e1rio.\n\n Assinale a modalidade de litiscons\u00f3rcio verificada na hip\u00f3tese acima."
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["HUMAN-RIGHTS"], "options": [{"text": "A CRFB n\u00e3o prev\u00ea em seus artigos a pena de morte. Sendo assim, est\u00e1 em conformidade com o Pacto de S\u00e3o Jos\u00e9 da Costa Rica e n\u00e3o poder\u00e1 incluir disposi\u00e7\u00f5es nesse sentido em seu texto constitucional.", "pmi": [-0.039084612134160326, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica, em respeito \u00e0 soberania estatal, disp\u00f5e que o Estado-membro poder\u00e1 adotar a pena de morte. Logo, o Estado-parte poder\u00e1 estender a pena de morte a delitos aos quais n\u00e3o se aplique atualmente.", "pmi": [-0.06514102022360053, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "O pa\u00eds poder\u00e1 adotar a pena de morte, mas essa s\u00f3 poder\u00e1 ser imposta pelos delitos mais graves, em cumprimento de senten\u00e7a final de tribunal competente e em conformidade com a lei que estabele\u00e7a tal pena, promulgada antes de haver o delito sido cometido.", "pmi": [-0.08944585870402151, 0.0, 0.0, 0.0], "correct": true, "letter": "C"}, {"text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica, em respeito \u00e0 soberania estatal e ao fato de ser o Poder Constituinte origin\u00e1rio dos pa\u00edses inicial, aut\u00f4nomo e incondicionado, disp\u00f5e que o Estado-membro poder\u00e1 adotar a pena de morte. Logo, o Estado-parte que j\u00e1 adotou a pena capital em algum momento de sua hist\u00f3ria poder\u00e1 criar novas legisla\u00e7\u00f5es sobre o tema, mesmo que atualmente tenha abolido sua aplica\u00e7\u00e3o. Mas ela s\u00f3 poder\u00e1 ser imposta pelos delitos mais graves, em cumprimento de senten\u00e7a final de tribunal competente e em conformidade com a lei que estabele\u00e7a tal pena, promulgada antes de haver o delito sido cometido.", "pmi": [-0.038234946652982923, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true, "filename": "2012-06a.txt", "enum": "Assinale a alternativa correta sobre a quest\u00e3o do respeito ao direito \u00e0 vida segundo o Pacto de S\u00e3o Jos\u00e9 da Costa Rica e a CRFB.", "number": "14"}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "options": [
+            {
+                "text": "A CRFB n\u00e3o prev\u00ea em seus artigos a pena de morte. Sendo assim, est\u00e1 em conformidade com o Pacto de S\u00e3o Jos\u00e9 da Costa Rica e n\u00e3o poder\u00e1 incluir disposi\u00e7\u00f5es nesse sentido em seu texto constitucional.",
+                "pmi": [
+                    -0.039084612134160326,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica, em respeito \u00e0 soberania estatal, disp\u00f5e que o Estado-membro poder\u00e1 adotar a pena de morte. Logo, o Estado-parte poder\u00e1 estender a pena de morte a delitos aos quais n\u00e3o se aplique atualmente.",
+                "pmi": [
+                    -0.06514102022360053,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "O pa\u00eds poder\u00e1 adotar a pena de morte, mas essa s\u00f3 poder\u00e1 ser imposta pelos delitos mais graves, em cumprimento de senten\u00e7a final de tribunal competente e em conformidade com a lei que estabele\u00e7a tal pena, promulgada antes de haver o delito sido cometido.",
+                "pmi": [
+                    -0.08944585870402151,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica, em respeito \u00e0 soberania estatal e ao fato de ser o Poder Constituinte origin\u00e1rio dos pa\u00edses inicial, aut\u00f4nomo e incondicionado, disp\u00f5e que o Estado-membro poder\u00e1 adotar a pena de morte. Logo, o Estado-parte que j\u00e1 adotou a pena capital em algum momento de sua hist\u00f3ria poder\u00e1 criar novas legisla\u00e7\u00f5es sobre o tema, mesmo que atualmente tenha abolido sua aplica\u00e7\u00e3o. Mas ela s\u00f3 poder\u00e1 ser imposta pelos delitos mais graves, em cumprimento de senten\u00e7a final de tribunal competente e em conformidade com a lei que estabele\u00e7a tal pena, promulgada antes de haver o delito sido cometido.",
+                "pmi": [
+                    -0.038234946652982923,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "filename": "2012-06a.txt",
+        "enum": "Assinale a alternativa correta sobre a quest\u00e3o do respeito ao direito \u00e0 vida segundo o Pacto de S\u00e3o Jos\u00e9 da Costa Rica e a CRFB.",
+        "number": "14"
+    }
+]

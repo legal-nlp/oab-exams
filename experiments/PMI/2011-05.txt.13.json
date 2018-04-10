@@ -1,1 +1,33 @@
-[{"areas": ["HUMAN-RIGHTS"], "enum": "A respeito da internacionaliza\u00e7\u00e3o dos direitos humanos, assinale a alternativa correta.", "filename": "2011-05.txt", "number": "13", "options": [{"correct": null, "letter": "A", "text": "J\u00e1 antes do fim da II Guerra Mundial ocorreu a internacionaliza\u00e7\u00e3o dos direitos humanos, com a limita\u00e7\u00e3o dos poderes do Estado a fim de garantir o respeito integral aos direitos fundamentais da pessoa humana."}, {"correct": null, "letter": "B", "text": "A limita\u00e7\u00e3o do poder, quando previsto na Constitui\u00e7\u00e3o, garante por si s\u00f3 o respeito aos direitos humanos."}, {"correct": true, "letter": "C", "text": "A cria\u00e7\u00e3o de normas de prote\u00e7\u00e3o internacional no \u00e2mbito dos direitos humanos possibilita a responsabiliza\u00e7\u00e3o do Estado quando as normas nacionais forem omissas."}, {"correct": null, "letter": "D", "text": "A internacionaliza\u00e7\u00e3o dos direitos humanos imp\u00f5e que o Estado, e n\u00e3o o indiv\u00edduo, seja sujeito de direitos internacional."}], "valid": true}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "A respeito da internacionaliza\u00e7\u00e3o dos direitos humanos, assinale a alternativa correta.",
+        "filename": "2011-05.txt",
+        "number": "13",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "J\u00e1 antes do fim da II Guerra Mundial ocorreu a internacionaliza\u00e7\u00e3o dos direitos humanos, com a limita\u00e7\u00e3o dos poderes do Estado a fim de garantir o respeito integral aos direitos fundamentais da pessoa humana."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A limita\u00e7\u00e3o do poder, quando previsto na Constitui\u00e7\u00e3o, garante por si s\u00f3 o respeito aos direitos humanos."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A cria\u00e7\u00e3o de normas de prote\u00e7\u00e3o internacional no \u00e2mbito dos direitos humanos possibilita a responsabiliza\u00e7\u00e3o do Estado quando as normas nacionais forem omissas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A internacionaliza\u00e7\u00e3o dos direitos humanos imp\u00f5e que o Estado, e n\u00e3o o indiv\u00edduo, seja sujeito de direitos internacional."
+            }
+        ],
+        "valid": true
+    }
+]

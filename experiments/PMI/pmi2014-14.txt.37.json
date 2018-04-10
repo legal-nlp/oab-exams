@@ -1,1 +1,57 @@
-[{"enum": "Sara e Bernardo doaram o im\u00f3vel que lhes pertencia a Miguel, ficando o im\u00f3vel gravado com usufruto em favor dos doadores.\n\n Dessa forma, quanto aos deveres dos usufrutu\u00e1rios, assinale a afirmativa INCORRETA:", "number": "37", "filename": "2014-14.txt", "valid": true, "options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o devem pagar as deteriora\u00e7\u00f5es resultantes do exerc\u00edcio regular do usufruto."}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Devem arcar com as despesas ordin\u00e1rias de conserva\u00e7\u00e3o do bem no estado em que o receberam."}, {"letter": "C", "pmi": [0.010930863973951765, 0.0, 0.0, 0.0], "correct": null, "text": "Devem arcar com os tributos inerentes \u00e0 posse da coisa usufru\u00edda."}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "N\u00e3o devem comunicar ao dono a ocorr\u00eancia de les\u00e3o produzida contra a posse da coisa."}], "areas": ["CIVIL"]}]
+[
+    {
+        "enum": "Sara e Bernardo doaram o im\u00f3vel que lhes pertencia a Miguel, ficando o im\u00f3vel gravado com usufruto em favor dos doadores.\n\n Dessa forma, quanto aos deveres dos usufrutu\u00e1rios, assinale a afirmativa INCORRETA:",
+        "number": "37",
+        "filename": "2014-14.txt",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o devem pagar as deteriora\u00e7\u00f5es resultantes do exerc\u00edcio regular do usufruto."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Devem arcar com as despesas ordin\u00e1rias de conserva\u00e7\u00e3o do bem no estado em que o receberam."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.010930863973951765,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Devem arcar com os tributos inerentes \u00e0 posse da coisa usufru\u00edda."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "N\u00e3o devem comunicar ao dono a ocorr\u00eancia de les\u00e3o produzida contra a posse da coisa."
+            }
+        ],
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

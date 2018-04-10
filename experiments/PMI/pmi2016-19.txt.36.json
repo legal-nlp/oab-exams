@@ -1,1 +1,55 @@
-[{"valid": true, "filename": "2016-19.txt", "options": [{"letter": "A", "text": "Paulo dever\u00e1 aguardar a elabora\u00e7\u00e3o do plano de manejo do parque para verificar a viabilidade de seu empreendimento.", "pmi": [-0.08713340906406104, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "Paulo poder\u00e1 ajuizar a\u00e7\u00e3o com o objetivo de ser indenizado pelo lucro cessante decorrente da inviabilidade do empreendimento.", "pmi": [-0.06032159679064921, 0.0, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "Caso seu terreno n\u00e3o seja desapropriado, Paulo poder\u00e1 ajuizar a\u00e7\u00e3o de desapropria\u00e7\u00e3o indireta em face da Uni\u00e3o.", "pmi": [-0.21138148843600305, 0.0, 0.0, 0.0], "correct": true}, {"letter": "D", "text": "Paulo n\u00e3o poder\u00e1 implementar seu loteamento, mas poder\u00e1 explorar o ecoturismo na \u00e1rea com cobran\u00e7a de visita\u00e7\u00e3o.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}], "enum": "Paulo \u00e9 propriet\u00e1rio de um grande terreno no qual pretende instalar um loteamento, j\u00e1 devidamente aprovado pelo Poder P\u00fablico. Contudo, antes que Paulo iniciasse a instala\u00e7\u00e3o do projeto, sua propriedade foi integralmente inclu\u00edda nos limites de um Parque Nacional.\n\n Considerando as normas que regem o Sistema Nacional de Unidades de Conserva\u00e7\u00e3o \u2013 SNUC, \u00e9 correto afirmar que", "areas": [], "number": "36"}]
+[
+    {
+        "valid": true,
+        "filename": "2016-19.txt",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Paulo dever\u00e1 aguardar a elabora\u00e7\u00e3o do plano de manejo do parque para verificar a viabilidade de seu empreendimento.",
+                "pmi": [
+                    -0.08713340906406104,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "Paulo poder\u00e1 ajuizar a\u00e7\u00e3o com o objetivo de ser indenizado pelo lucro cessante decorrente da inviabilidade do empreendimento.",
+                "pmi": [
+                    -0.06032159679064921,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "Caso seu terreno n\u00e3o seja desapropriado, Paulo poder\u00e1 ajuizar a\u00e7\u00e3o de desapropria\u00e7\u00e3o indireta em face da Uni\u00e3o.",
+                "pmi": [
+                    -0.21138148843600305,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "D",
+                "text": "Paulo n\u00e3o poder\u00e1 implementar seu loteamento, mas poder\u00e1 explorar o ecoturismo na \u00e1rea com cobran\u00e7a de visita\u00e7\u00e3o.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "enum": "Paulo \u00e9 propriet\u00e1rio de um grande terreno no qual pretende instalar um loteamento, j\u00e1 devidamente aprovado pelo Poder P\u00fablico. Contudo, antes que Paulo iniciasse a instala\u00e7\u00e3o do projeto, sua propriedade foi integralmente inclu\u00edda nos limites de um Parque Nacional.\n\n Considerando as normas que regem o Sistema Nacional de Unidades de Conserva\u00e7\u00e3o \u2013 SNUC, \u00e9 correto afirmar que",
+        "areas": [],
+        "number": "36"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "O advogado Carlos pretende substabelecer os poderes que lhe foram conferidos pelo seu cliente Eduardo, sem reserva de poderes, pois pretende realizar uma longa viagem, sem saber a data do retorno, n\u00e3o pretendendo manter compromissos profissionais.\n\n Nos termos das normas do C\u00f3digo de \u00c9tica, tal ato deve", "filename": "2014-13.txt", "number": "1", "options": [{"correct": null, "letter": "A", "text": "prescindir do conhecimento do cliente por ser ato privativo."}, {"correct": true, "letter": "B", "text": "ser comunicado ao cliente de modo inequ\u00edvoco."}, {"correct": null, "letter": "C", "text": "ser realizado por tempo determinado."}, {"correct": null, "letter": "D", "text": "implicar na devolu\u00e7\u00e3o dos honor\u00e1rios pagos antecipadamente pelo cliente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Carlos pretende substabelecer os poderes que lhe foram conferidos pelo seu cliente Eduardo, sem reserva de poderes, pois pretende realizar uma longa viagem, sem saber a data do retorno, n\u00e3o pretendendo manter compromissos profissionais.\n\n Nos termos das normas do C\u00f3digo de \u00c9tica, tal ato deve",
+        "filename": "2014-13.txt",
+        "number": "1",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "prescindir do conhecimento do cliente por ser ato privativo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "ser comunicado ao cliente de modo inequ\u00edvoco."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "ser realizado por tempo determinado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "implicar na devolu\u00e7\u00e3o dos honor\u00e1rios pagos antecipadamente pelo cliente."
+            }
+        ],
+        "valid": true
+    }
+]

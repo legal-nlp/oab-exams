@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Sempr\u00f4nio reside no Estado W, onde mant\u00e9m o seu escrit\u00f3rio de advocacia, mas requer sua inscri\u00e7\u00e3o principal no Estado K, onde, em alguns anos, pretende estabelecer domic\u00edlio. No concernente ao tema, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "8", "options": [{"correct": null, "letter": "A", "text": "o advogado pode eleger qualquer seccional para inscri\u00e7\u00e3o principal ao seu arb\u00edtrio."}, {"correct": null, "letter": "B", "text": "o Conselho Federal pode autorizar a inscri\u00e7\u00e3o principal fora da sede do escrit\u00f3rio do advogado."}, {"correct": null, "letter": "C", "text": "na d\u00favida entre domic\u00edlios, prevalece o da sede principal do exerc\u00edcio da advocacia."}, {"correct": true, "letter": "D", "text": "a inscri\u00e7\u00e3o principal est\u00e1 subordinada ao domic\u00edlio profissional do advogado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Sempr\u00f4nio reside no Estado W, onde mant\u00e9m o seu escrit\u00f3rio de advocacia, mas requer sua inscri\u00e7\u00e3o principal no Estado K, onde, em alguns anos, pretende estabelecer domic\u00edlio. No concernente ao tema, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "8",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o advogado pode eleger qualquer seccional para inscri\u00e7\u00e3o principal ao seu arb\u00edtrio."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o Conselho Federal pode autorizar a inscri\u00e7\u00e3o principal fora da sede do escrit\u00f3rio do advogado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "na d\u00favida entre domic\u00edlios, prevalece o da sede principal do exerc\u00edcio da advocacia."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "a inscri\u00e7\u00e3o principal est\u00e1 subordinada ao domic\u00edlio profissional do advogado."
+            }
+        ],
+        "valid": true
+    }
+]

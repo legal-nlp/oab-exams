@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Pedro \u00e9 empregado rural na Fazenda Granja Nova. Sua jornada \u00e9 de segunda a sexta-feira, das 21 \u00e0s 5h, com intervalo de uma hora para refei\u00e7\u00e3o.\n\n Considerando o caso retratado, assinale a afirmativa correta.", "filename": "2016-19.txt", "number": "72", "options": [{"correct": true, "letter": "A", "text": "A hora noturna de Pedro ser\u00e1 computada como tendo 60 minutos."}, {"correct": null, "letter": "B", "text": "A hora noturna rural \u00e9 reduzida, sendo de 52 minutos e 30 segundos."}, {"correct": null, "letter": "C", "text": "A hora noturna de Pedro ser\u00e1 acrescida de 20%."}, {"correct": null, "letter": "D", "text": "N\u00e3o h\u00e1 previs\u00e3o de redu\u00e7\u00e3o de hora noturna nem de adicional noturno para o rural."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Pedro \u00e9 empregado rural na Fazenda Granja Nova. Sua jornada \u00e9 de segunda a sexta-feira, das 21 \u00e0s 5h, com intervalo de uma hora para refei\u00e7\u00e3o.\n\n Considerando o caso retratado, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "A hora noturna de Pedro ser\u00e1 computada como tendo 60 minutos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A hora noturna rural \u00e9 reduzida, sendo de 52 minutos e 30 segundos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A hora noturna de Pedro ser\u00e1 acrescida de 20%."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "N\u00e3o h\u00e1 previs\u00e3o de redu\u00e7\u00e3o de hora noturna nem de adicional noturno para o rural."
+            }
+        ],
+        "valid": true
+    }
+]

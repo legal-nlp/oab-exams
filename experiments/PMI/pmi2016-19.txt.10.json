@@ -1,1 +1,55 @@
-[{"options": [{"text": "N\u00e3o se extingue o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em estado da Federa\u00e7\u00e3o distinto do abrangido pelo Conselho Seccional, n\u00e3o configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.", "pmi": [-0.07522153452363602, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Extingue-se automaticamente o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em qualquer circunst\u00e2ncia, configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.", "pmi": [-0.08407112682053437, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "Extingue-se o mandato de Carlos mediante delibera\u00e7\u00e3o de dois ter\u00e7os dos membros do Conselho Seccional, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica pode configurar incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.", "pmi": [-0.10273932287287035, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "N\u00e3o se extingue o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em qualquer circunst\u00e2ncia, n\u00e3o configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.", "pmi": [-0.08932557224681778, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "filename": "2016-19.txt", "enum": "Carlos integrou a chapa de candidatos ao Conselho Seccional que obteve a maioria dos votos v\u00e1lidos e tomou posse em 1\u00ba de janeiro do ano seguinte ao de sua elei\u00e7\u00e3o. Um ano ap\u00f3s o in\u00edcio do mandato, Carlos passou a ocupar um cargo de dire\u00e7\u00e3o no Conselho de Administra\u00e7\u00e3o de uma empresa, controlada pela Administra\u00e7\u00e3o P\u00fablica, sediada em outro estado da Federa\u00e7\u00e3o.\n\n Nesse caso, de acordo com o Estatuto da OAB, assinale a afirmativa correta.", "areas": [], "valid": true, "number": "10"}]
+[
+    {
+        "options": [
+            {
+                "text": "N\u00e3o se extingue o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em estado da Federa\u00e7\u00e3o distinto do abrangido pelo Conselho Seccional, n\u00e3o configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.",
+                "pmi": [
+                    -0.07522153452363602,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Extingue-se automaticamente o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em qualquer circunst\u00e2ncia, configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.",
+                "pmi": [
+                    -0.08407112682053437,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "Extingue-se o mandato de Carlos mediante delibera\u00e7\u00e3o de dois ter\u00e7os dos membros do Conselho Seccional, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica pode configurar incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.",
+                "pmi": [
+                    -0.10273932287287035,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "N\u00e3o se extingue o mandato de Carlos, pois a ocupa\u00e7\u00e3o de cargo de dire\u00e7\u00e3o em empresa controlada pela Administra\u00e7\u00e3o P\u00fablica, em qualquer circunst\u00e2ncia, n\u00e3o configura incompatibilidade a ensejar o cancelamento de sua inscri\u00e7\u00e3o.",
+                "pmi": [
+                    -0.08932557224681778,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "filename": "2016-19.txt",
+        "enum": "Carlos integrou a chapa de candidatos ao Conselho Seccional que obteve a maioria dos votos v\u00e1lidos e tomou posse em 1\u00ba de janeiro do ano seguinte ao de sua elei\u00e7\u00e3o. Um ano ap\u00f3s o in\u00edcio do mandato, Carlos passou a ocupar um cargo de dire\u00e7\u00e3o no Conselho de Administra\u00e7\u00e3o de uma empresa, controlada pela Administra\u00e7\u00e3o P\u00fablica, sediada em outro estado da Federa\u00e7\u00e3o.\n\n Nesse caso, de acordo com o Estatuto da OAB, assinale a afirmativa correta.",
+        "areas": [],
+        "valid": true,
+        "number": "10"
+    }
+]

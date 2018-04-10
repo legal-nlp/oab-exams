@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Jo\u00e3o est\u00e1 sendo processado por um crime doloso contra a vida e, ap\u00f3s o oferecimento das alega\u00e7\u00f5es finais, o magistrado impronuncia o r\u00e9u. Assinale a alternativa que apresenta a situa\u00e7\u00e3o em que seria poss\u00edvel processar Jo\u00e3o novamente pelo mesmo fato delituoso.", "filename": "2013-10.txt", "number": "65", "options": [{"correct": true, "letter": "A", "text": "Desde que haja novas provas e n\u00e3o tenha ocorrido qualquer causa extintiva de punibilidade, pois a decis\u00e3o de impron\u00fancia n\u00e3o transita em julgado."}, {"correct": null, "letter": "B", "text": "A justi\u00e7a j\u00e1 se manifestou em rela\u00e7\u00e3o ao processo de Jo\u00e3o, tendo a decis\u00e3o do magistrado transitado em julgado."}, {"correct": null, "letter": "C", "text": "Ningu\u00e9m pode ser processado duas vezes pelo mesmo fato (non bis in idem)."}, {"correct": null, "letter": "D", "text": "A senten\u00e7a de impron\u00fancia \u00e9 uma decis\u00e3o interlocut\u00f3ria mista n\u00e3o terminativa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Jo\u00e3o est\u00e1 sendo processado por um crime doloso contra a vida e, ap\u00f3s o oferecimento das alega\u00e7\u00f5es finais, o magistrado impronuncia o r\u00e9u. Assinale a alternativa que apresenta a situa\u00e7\u00e3o em que seria poss\u00edvel processar Jo\u00e3o novamente pelo mesmo fato delituoso.",
+        "filename": "2013-10.txt",
+        "number": "65",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Desde que haja novas provas e n\u00e3o tenha ocorrido qualquer causa extintiva de punibilidade, pois a decis\u00e3o de impron\u00fancia n\u00e3o transita em julgado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A justi\u00e7a j\u00e1 se manifestou em rela\u00e7\u00e3o ao processo de Jo\u00e3o, tendo a decis\u00e3o do magistrado transitado em julgado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Ningu\u00e9m pode ser processado duas vezes pelo mesmo fato (non bis in idem)."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A senten\u00e7a de impron\u00fancia \u00e9 uma decis\u00e3o interlocut\u00f3ria mista n\u00e3o terminativa."
+            }
+        ],
+        "valid": true
+    }
+]

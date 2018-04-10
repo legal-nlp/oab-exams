@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2016-20.txt", "valid": true, "enum": "Fabiano \u00e9 conselheiro eleito de certo Conselho Seccional da OAB. No curso do mandato, Fabiano pratica infra\u00e7\u00e3o disciplinar e sofre condena\u00e7\u00e3o, em definitivo, \u00e0 pena de censura.\n\n Considerando a situa\u00e7\u00e3o descrita e o disposto no Estatuto da OAB, o mandato de Fabiano no Conselho Seccional", "options": [{"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o disciplinar aplicada for de exclus\u00e3o.", "letter": "A"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o por infra\u00e7\u00e3o disciplinar aplicada for de exclus\u00e3o ou de suspens\u00e3o.", "letter": "B"}, {"correct": true, "pmi": [-0.0011822087893424847, 0.0, 0.0, 0.0], "text": "ser\u00e1 extinto, independentemente da natureza da san\u00e7\u00e3o disciplinar aplicada.", "letter": "C"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o aplicada for de suspens\u00e3o ou se for reincidente em infra\u00e7\u00e3o disciplinar.", "letter": "D"}], "number": "5"}]
+[
+    {
+        "areas": [],
+        "filename": "2016-20.txt",
+        "valid": true,
+        "enum": "Fabiano \u00e9 conselheiro eleito de certo Conselho Seccional da OAB. No curso do mandato, Fabiano pratica infra\u00e7\u00e3o disciplinar e sofre condena\u00e7\u00e3o, em definitivo, \u00e0 pena de censura.\n\n Considerando a situa\u00e7\u00e3o descrita e o disposto no Estatuto da OAB, o mandato de Fabiano no Conselho Seccional",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o disciplinar aplicada for de exclus\u00e3o.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o por infra\u00e7\u00e3o disciplinar aplicada for de exclus\u00e3o ou de suspens\u00e3o.",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.0011822087893424847,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ser\u00e1 extinto, independentemente da natureza da san\u00e7\u00e3o disciplinar aplicada.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ser\u00e1 extinto, apenas se a san\u00e7\u00e3o aplicada for de suspens\u00e3o ou se for reincidente em infra\u00e7\u00e3o disciplinar.",
+                "letter": "D"
+            }
+        ],
+        "number": "5"
+    }
+]

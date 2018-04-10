@@ -1,1 +1,55 @@
-[{"areas": [], "enum": "A sociedade empres\u00e1ria brasileira do ramo de comunica\u00e7\u00e3o, Personalidades, celebrou contrato internacional de presta\u00e7\u00e3o de servi\u00e7os de inform\u00e1tica, no Brasil, com a sociedade empres\u00e1ria uruguaia Sacramento. O contrato foi celebrado em Caracas, capital venezuelana, tendo sido estabelecido pelas partes, como foro de elei\u00e7\u00e3o, Montevid\u00e9u.\n\n Diante da situa\u00e7\u00e3o exposta, \u00e0 luz das regras do Direito Internacional Privado veiculadas na Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro (LINDB) e no C\u00f3digo de Processo Civil, assinale a afirmativa correta.", "valid": true, "options": [{"correct": null, "pmi": [-0.049574076952163974, 0.0, 0.0, 0.0], "letter": "A", "text": "No tocante \u00e0 reg\u00eancia das obriga\u00e7\u00f5es previstas no contrato, aplica-se a legisla\u00e7\u00e3o uruguaia, j\u00e1 que Montevid\u00e9u foi eleito o foro competente para se dirimir eventual controv\u00e9rsia."}, {"correct": true, "pmi": [-0.014858660085066377, 0.0, 0.0, 0.0], "letter": "B", "text": "Para qualificar e reger as obriga\u00e7\u00f5es do presente contrato, aplicar-se-\u00e1 a lei venezuelana."}, {"correct": null, "pmi": [-0.050876458272822805, 0.0, 0.0, 0.0], "letter": "C", "text": "Como a execu\u00e7\u00e3o da obriga\u00e7\u00e3o aven\u00e7ada entre as partes se dar\u00e1 no Brasil, aplica-se, obrigatoriamente, no tocante ao cumprimento do contrato, a legisla\u00e7\u00e3o brasileira."}, {"correct": null, "pmi": [-0.07093275415865717, 0.0, 0.0, 0.0], "letter": "D", "text": "A Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro veda expressamente o foro de elei\u00e7\u00e3o, raz\u00e3o pela qual \u00e9 nula ipse jure a cl\u00e1usula estabelecida pelas partes nesse sentido."}], "number": "24", "filename": "2015-17.txt"}]
+[
+    {
+        "areas": [],
+        "enum": "A sociedade empres\u00e1ria brasileira do ramo de comunica\u00e7\u00e3o, Personalidades, celebrou contrato internacional de presta\u00e7\u00e3o de servi\u00e7os de inform\u00e1tica, no Brasil, com a sociedade empres\u00e1ria uruguaia Sacramento. O contrato foi celebrado em Caracas, capital venezuelana, tendo sido estabelecido pelas partes, como foro de elei\u00e7\u00e3o, Montevid\u00e9u.\n\n Diante da situa\u00e7\u00e3o exposta, \u00e0 luz das regras do Direito Internacional Privado veiculadas na Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro (LINDB) e no C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.049574076952163974,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "No tocante \u00e0 reg\u00eancia das obriga\u00e7\u00f5es previstas no contrato, aplica-se a legisla\u00e7\u00e3o uruguaia, j\u00e1 que Montevid\u00e9u foi eleito o foro competente para se dirimir eventual controv\u00e9rsia."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.014858660085066377,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Para qualificar e reger as obriga\u00e7\u00f5es do presente contrato, aplicar-se-\u00e1 a lei venezuelana."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.050876458272822805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Como a execu\u00e7\u00e3o da obriga\u00e7\u00e3o aven\u00e7ada entre as partes se dar\u00e1 no Brasil, aplica-se, obrigatoriamente, no tocante ao cumprimento do contrato, a legisla\u00e7\u00e3o brasileira."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.07093275415865717,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "A Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro veda expressamente o foro de elei\u00e7\u00e3o, raz\u00e3o pela qual \u00e9 nula ipse jure a cl\u00e1usula estabelecida pelas partes nesse sentido."
+            }
+        ],
+        "number": "24",
+        "filename": "2015-17.txt"
+    }
+]

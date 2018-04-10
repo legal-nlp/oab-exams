@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "A empresa Consumidor Ltda., composta por contadores, despachantes, arquitetos e engenheiros, divulga, semanalmente, sua agenda de defesa judicial dos direitos dos consumidores, n\u00e3o possuindo advogados nos seus quadros. Notificada pelo \u00f3rg\u00e3o seccional da OAB, alega que as atividades de consultoria jur\u00eddica n\u00e3o seriam privativas dos advogados. Diante desse quadro, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que \u00e9 atividade privativa da advocacia", "filename": "2012-06a.txt", "number": "3", "options": [{"correct": null, "letter": "A", "text": "a postula\u00e7\u00e3o nos Juizados Especiais."}, {"correct": true, "letter": "B", "text": "a consultoria e assessoria jur\u00eddicas."}, {"correct": null, "letter": "C", "text": "a impetra\u00e7\u00e3o de habeas corpus."}, {"correct": null, "letter": "D", "text": "a divulga\u00e7\u00e3o conjunta da advocacia com outras atividades."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A empresa Consumidor Ltda., composta por contadores, despachantes, arquitetos e engenheiros, divulga, semanalmente, sua agenda de defesa judicial dos direitos dos consumidores, n\u00e3o possuindo advogados nos seus quadros. Notificada pelo \u00f3rg\u00e3o seccional da OAB, alega que as atividades de consultoria jur\u00eddica n\u00e3o seriam privativas dos advogados. Diante desse quadro, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que \u00e9 atividade privativa da advocacia",
+        "filename": "2012-06a.txt",
+        "number": "3",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a postula\u00e7\u00e3o nos Juizados Especiais."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "a consultoria e assessoria jur\u00eddicas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a impetra\u00e7\u00e3o de habeas corpus."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a divulga\u00e7\u00e3o conjunta da advocacia com outras atividades."
+            }
+        ],
+        "valid": true
+    }
+]

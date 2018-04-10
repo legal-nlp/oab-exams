@@ -1,1 +1,57 @@
-[{"number": "57", "areas": ["CIVIL-PROCEDURE"], "valid": true, "options": [{"pmi": [-0.103707699365524, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "Lino poderia arguir o incidente de falsidade em qualquer tempo, bem como o grau de jurisdi\u00e7\u00e3o, por n\u00e3o haver preclus\u00e3o."}, {"pmi": [-0.07562907636000471, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "No incidente de falsidade instaurado, Paulo ser\u00e1 dispensado de intima\u00e7\u00e3o para se manifestar, uma vez que o procedimento n\u00e3o est\u00e1 submetido ao contradit\u00f3rio."}, {"pmi": [-0.03344232907640019, 0.0, 0.0, 0.0], "correct": true, "letter": "C", "text": "Ser\u00e1 dispensado o exame pericial dos recibos juntados aos autos se Paulo concordar em retir\u00e1-los e Lino n\u00e3o se opuser ao desentranhamento."}, {"pmi": [-0.1747575851043082, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "O incidente de falsidade suscitado por Lino ser\u00e1 processado em apenso aos autos principais, uma vez que o C\u00f3digo de Processo Civil expressamente determina aplica\u00e7\u00e3o subsidi\u00e1ria do procedimento estabelecido \u00e0s exce\u00e7\u00f5es de impedimento e suspei\u00e7\u00e3o."}], "filename": "2014-14.txt", "enum": "Lino ajuizou a\u00e7\u00e3o de cobran\u00e7a pelo rito ordin\u00e1rio em face de Paulo, pleiteando o pagamento de R$ 100.000,00 (cem mil reais). Em contesta\u00e7\u00e3o, Paulo alegou pagamento integral da d\u00edvida, juntando aos autos diversos recibos. Em resposta \u00e0 pe\u00e7a de defesa, Lino arguiu a falsidade dos recibos apresentados por Paulo.\n\n Considerando as regras sobre a argui\u00e7\u00e3o de falsidade previstas no C\u00f3digo de Processo Civil, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "number": "57",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.103707699365524,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "Lino poderia arguir o incidente de falsidade em qualquer tempo, bem como o grau de jurisdi\u00e7\u00e3o, por n\u00e3o haver preclus\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.07562907636000471,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "No incidente de falsidade instaurado, Paulo ser\u00e1 dispensado de intima\u00e7\u00e3o para se manifestar, uma vez que o procedimento n\u00e3o est\u00e1 submetido ao contradit\u00f3rio."
+            },
+            {
+                "pmi": [
+                    -0.03344232907640019,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C",
+                "text": "Ser\u00e1 dispensado o exame pericial dos recibos juntados aos autos se Paulo concordar em retir\u00e1-los e Lino n\u00e3o se opuser ao desentranhamento."
+            },
+            {
+                "pmi": [
+                    -0.1747575851043082,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "O incidente de falsidade suscitado por Lino ser\u00e1 processado em apenso aos autos principais, uma vez que o C\u00f3digo de Processo Civil expressamente determina aplica\u00e7\u00e3o subsidi\u00e1ria do procedimento estabelecido \u00e0s exce\u00e7\u00f5es de impedimento e suspei\u00e7\u00e3o."
+            }
+        ],
+        "filename": "2014-14.txt",
+        "enum": "Lino ajuizou a\u00e7\u00e3o de cobran\u00e7a pelo rito ordin\u00e1rio em face de Paulo, pleiteando o pagamento de R$ 100.000,00 (cem mil reais). Em contesta\u00e7\u00e3o, Paulo alegou pagamento integral da d\u00edvida, juntando aos autos diversos recibos. Em resposta \u00e0 pe\u00e7a de defesa, Lino arguiu a falsidade dos recibos apresentados por Paulo.\n\n Considerando as regras sobre a argui\u00e7\u00e3o de falsidade previstas no C\u00f3digo de Processo Civil, assinale a op\u00e7\u00e3o correta."
+    }
+]

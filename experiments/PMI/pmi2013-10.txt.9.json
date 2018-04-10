@@ -1,1 +1,57 @@
-[{"filename": "2013-10.txt", "valid": true, "number": "9", "options": [{"correct": null, "letter": "A", "pmi": [-0.1101036987571978, 0.0, 0.0, 0.0], "text": "O advogado deve restringir o exerc\u00edcio profissional ao local em que obteve sua inscri\u00e7\u00e3o."}, {"correct": null, "letter": "B", "pmi": [-0.050167367383214506, 0.0, 0.0, 0.0], "text": "O advogado deve solicitar autoriza\u00e7\u00e3o a cada processo em que atuar fora do local de inscri\u00e7\u00e3o."}, {"correct": null, "letter": "C", "pmi": [-0.0252808657891658, 0.0, 0.0, 0.0], "text": "O advogado deve realizar Exame de Ordem em cada estado em que for atuar."}, {"correct": true, "letter": "D", "pmi": [-0.15756192404401617, 0.0, 0.0, 0.0], "text": "O advogado pode exercer sua profiss\u00e3o em todo o territ\u00f3rio nacional."}], "areas": ["ETHICS"], "enum": "Um jovem advogado inicia sua carreira em seu estado natal, angariando clientes em decorr\u00eancia das suas raras habilidades de negociador. Com o curso do tempo, sua fama de bom profissional se espraia e, em raz\u00e3o disso, surgem convites para atuar em outros estados da federa\u00e7\u00e3o. Ao contatar um cliente no Estado Y, distante mais de mil quil\u00f4metros do seu estado natal, \u00e9 surpreendido pelas autoridades de Y, com determina\u00e7\u00e3o restritiva ao seu exerc\u00edcio profissional, por n\u00e3o ser advogado do local.\n\n A partir do exposto, nos termos do Estatuto da Advocacia, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2013-10.txt",
+        "valid": true,
+        "number": "9",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.1101036987571978,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O advogado deve restringir o exerc\u00edcio profissional ao local em que obteve sua inscri\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.050167367383214506,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O advogado deve solicitar autoriza\u00e7\u00e3o a cada processo em que atuar fora do local de inscri\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.0252808657891658,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O advogado deve realizar Exame de Ordem em cada estado em que for atuar."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.15756192404401617,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O advogado pode exercer sua profiss\u00e3o em todo o territ\u00f3rio nacional."
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Um jovem advogado inicia sua carreira em seu estado natal, angariando clientes em decorr\u00eancia das suas raras habilidades de negociador. Com o curso do tempo, sua fama de bom profissional se espraia e, em raz\u00e3o disso, surgem convites para atuar em outros estados da federa\u00e7\u00e3o. Ao contatar um cliente no Estado Y, distante mais de mil quil\u00f4metros do seu estado natal, \u00e9 surpreendido pelas autoridades de Y, com determina\u00e7\u00e3o restritiva ao seu exerc\u00edcio profissional, por n\u00e3o ser advogado do local.\n\n A partir do exposto, nos termos do Estatuto da Advocacia, assinale a afirmativa correta."
+    }
+]

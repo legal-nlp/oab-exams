@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Na a\u00e7\u00e3o proposta por Jofre em face de Catarina, em tr\u00e2mite sob o rito comum ordin\u00e1rio, devidamente citada, a r\u00e9 oferece contesta\u00e7\u00e3o e reconven\u00e7\u00e3o. Em preliminar de contesta\u00e7\u00e3o, Catarina informa a exist\u00eancia de causa que poder\u00e1 produzir a extin\u00e7\u00e3o do processo sem resolu\u00e7\u00e3o do m\u00e9rito.\n\n Intimado o recovindo para se manifestar, ele dever\u00e1", "filename": "2011-03.txt", "number": "22", "options": [{"correct": true, "letter": "A", "text": "apresentar contesta\u00e7\u00e3o \u00e0 reconven\u00e7\u00e3o no prazo de 15 dias, visto que a extin\u00e7\u00e3o da a\u00e7\u00e3o proposta por Jofre n\u00e3o obsta o prosseguimento da reconven\u00e7\u00e3o aforada por Catarina."}, {"correct": null, "letter": "B", "text": "aguardar a manifesta\u00e7\u00e3o do juiz, j\u00e1 que, se a alegada causa de extin\u00e7\u00e3o assim for reconhecida, a reconven\u00e7\u00e3o obrigatoriamente ser\u00e1 extinta sem resolu\u00e7\u00e3o do m\u00e9rito em raz\u00e3o da conex\u00e3o entre essa e a a\u00e7\u00e3o principal."}, {"correct": null, "letter": "C", "text": "peticionar ao juiz da causa alegando inexist\u00eancia de cita\u00e7\u00e3o do reconvindo, requerendo que ela seja regularizada para que possa responder \u00e0 reconven\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "requerer a extin\u00e7\u00e3o da reconven\u00e7\u00e3o, visto ser medida incompat\u00edvel com o rito processual ordin\u00e1rio, que, por sua pr\u00f3pria natureza, destina-se \u00e0s a\u00e7\u00f5es d\u00faplices, alegando ainda que Catarina deveria ter formulado pedido contraposto."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Na a\u00e7\u00e3o proposta por Jofre em face de Catarina, em tr\u00e2mite sob o rito comum ordin\u00e1rio, devidamente citada, a r\u00e9 oferece contesta\u00e7\u00e3o e reconven\u00e7\u00e3o. Em preliminar de contesta\u00e7\u00e3o, Catarina informa a exist\u00eancia de causa que poder\u00e1 produzir a extin\u00e7\u00e3o do processo sem resolu\u00e7\u00e3o do m\u00e9rito.\n\n Intimado o recovindo para se manifestar, ele dever\u00e1",
+        "filename": "2011-03.txt",
+        "number": "22",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "apresentar contesta\u00e7\u00e3o \u00e0 reconven\u00e7\u00e3o no prazo de 15 dias, visto que a extin\u00e7\u00e3o da a\u00e7\u00e3o proposta por Jofre n\u00e3o obsta o prosseguimento da reconven\u00e7\u00e3o aforada por Catarina."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "aguardar a manifesta\u00e7\u00e3o do juiz, j\u00e1 que, se a alegada causa de extin\u00e7\u00e3o assim for reconhecida, a reconven\u00e7\u00e3o obrigatoriamente ser\u00e1 extinta sem resolu\u00e7\u00e3o do m\u00e9rito em raz\u00e3o da conex\u00e3o entre essa e a a\u00e7\u00e3o principal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "peticionar ao juiz da causa alegando inexist\u00eancia de cita\u00e7\u00e3o do reconvindo, requerendo que ela seja regularizada para que possa responder \u00e0 reconven\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "requerer a extin\u00e7\u00e3o da reconven\u00e7\u00e3o, visto ser medida incompat\u00edvel com o rito processual ordin\u00e1rio, que, por sua pr\u00f3pria natureza, destina-se \u00e0s a\u00e7\u00f5es d\u00faplices, alegando ainda que Catarina deveria ter formulado pedido contraposto."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "6", "enum": "T\u00falio, advogado, \u00e9 surpreendido ao praticar crime inafian\u00e7\u00e1vel, sendo preso em flagrante pela autoridade policial. A OAB \u00e9 comunicada, e, por meio de membro da Comiss\u00e3o de Prerrogativas, acorre advogado ao local onde est\u00e3o sendo realizados os tr\u00e2mites procedimentais. Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que", "valid": true, "areas": ["ETHICS"], "options": [{"pmi": [-0.03571169584885206, 0.0, 0.0, 0.0], "correct": true, "letter": "A", "text": "a pris\u00e3o do advogado que demanda a interven\u00e7\u00e3o da OAB \u00e9 a origin\u00e1ria do exerc\u00edcio profissional."}, {"pmi": [-0.009402091921236639, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "o fato de a pris\u00e3o atingir advogado indica a presen\u00e7a do representante da OAB."}, {"pmi": [-0.01731979127705438, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "s\u00f3 a pris\u00e3o determinada pelo juiz \u00e9 que permite a participa\u00e7\u00e3o dos representantes da OAB."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "a pris\u00e3o preventiva \u00e9 aquela que est\u00e1 circunscrita na atua\u00e7\u00e3o da OAB."}], "filename": "2011-04.txt"}]
+[
+    {
+        "number": "6",
+        "enum": "T\u00falio, advogado, \u00e9 surpreendido ao praticar crime inafian\u00e7\u00e1vel, sendo preso em flagrante pela autoridade policial. A OAB \u00e9 comunicada, e, por meio de membro da Comiss\u00e3o de Prerrogativas, acorre advogado ao local onde est\u00e3o sendo realizados os tr\u00e2mites procedimentais. Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "valid": true,
+        "areas": [
+            "ETHICS"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.03571169584885206,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A",
+                "text": "a pris\u00e3o do advogado que demanda a interven\u00e7\u00e3o da OAB \u00e9 a origin\u00e1ria do exerc\u00edcio profissional."
+            },
+            {
+                "pmi": [
+                    -0.009402091921236639,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "o fato de a pris\u00e3o atingir advogado indica a presen\u00e7a do representante da OAB."
+            },
+            {
+                "pmi": [
+                    -0.01731979127705438,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "s\u00f3 a pris\u00e3o determinada pelo juiz \u00e9 que permite a participa\u00e7\u00e3o dos representantes da OAB."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "a pris\u00e3o preventiva \u00e9 aquela que est\u00e1 circunscrita na atua\u00e7\u00e3o da OAB."
+            }
+        ],
+        "filename": "2011-04.txt"
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "15", "enum": "\u00c2ngela, segurada da Previd\u00eancia Social, residente e domiciliada na comarca X, pretende ajuizar uma demanda contra o Instituto Nacional do Seguro Social (INSS), pleiteando uma revis\u00e3o de seus benef\u00edcios previdenci\u00e1rios. A comarca X possui vara \u00fanica da Justi\u00e7a estadual, mas n\u00e3o \u00e9 sede de vara federal. Contudo, a comarca vizinha Y \u00e9 sede de vara da justi\u00e7a federal, com compet\u00eancia sobre as comarcas X, Y e Z.\n\n Considerando a situa\u00e7\u00e3o exposta, assinale a afirmativa correta.", "areas": ["CONSTITUTIONAL"], "options": [{"pmi": [-0.5330548466573486, 0.0, 0.0, 0.0], "correct": true, "letter": "A", "text": "A a\u00e7\u00e3o poder\u00e1 ser ajuizada na Justi\u00e7a estadual, perante a vara \u00fanica da comarca X, cabendo eventual recurso ao Tribunal Regional Federal na \u00e1rea de jurisdi\u00e7\u00e3o do juiz de primeiro grau."}, {"pmi": [-0.3856054178129805, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "A a\u00e7\u00e3o dever\u00e1 ser ajuizada na Vara Federal da comarca vizinha Y, que \u00e9 sede de vara federal com jurisdi\u00e7\u00e3o sobre a comarca X."}, {"pmi": [-0.511810816557845, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "A a\u00e7\u00e3o poder\u00e1 ser ajuizada na Justi\u00e7a estadual, perante a vara \u00fanica da comarca X, cabendo eventual recurso ao Tribunal de Justi\u00e7a do Estado."}, {"pmi": [-0.46811208361290174, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "A a\u00e7\u00e3o dever\u00e1 ser proposta diretamente no Tribunal Regional Federal que abrange o estado onde se localiza a comarca X, em raz\u00e3o da mat\u00e9ria ser compet\u00eancia origin\u00e1ria desse Tribunal."}], "filename": "2014-13.txt", "valid": true}]
+[
+    {
+        "number": "15",
+        "enum": "\u00c2ngela, segurada da Previd\u00eancia Social, residente e domiciliada na comarca X, pretende ajuizar uma demanda contra o Instituto Nacional do Seguro Social (INSS), pleiteando uma revis\u00e3o de seus benef\u00edcios previdenci\u00e1rios. A comarca X possui vara \u00fanica da Justi\u00e7a estadual, mas n\u00e3o \u00e9 sede de vara federal. Contudo, a comarca vizinha Y \u00e9 sede de vara da justi\u00e7a federal, com compet\u00eancia sobre as comarcas X, Y e Z.\n\n Considerando a situa\u00e7\u00e3o exposta, assinale a afirmativa correta.",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.5330548466573486,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A",
+                "text": "A a\u00e7\u00e3o poder\u00e1 ser ajuizada na Justi\u00e7a estadual, perante a vara \u00fanica da comarca X, cabendo eventual recurso ao Tribunal Regional Federal na \u00e1rea de jurisdi\u00e7\u00e3o do juiz de primeiro grau."
+            },
+            {
+                "pmi": [
+                    -0.3856054178129805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "A a\u00e7\u00e3o dever\u00e1 ser ajuizada na Vara Federal da comarca vizinha Y, que \u00e9 sede de vara federal com jurisdi\u00e7\u00e3o sobre a comarca X."
+            },
+            {
+                "pmi": [
+                    -0.511810816557845,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "A a\u00e7\u00e3o poder\u00e1 ser ajuizada na Justi\u00e7a estadual, perante a vara \u00fanica da comarca X, cabendo eventual recurso ao Tribunal de Justi\u00e7a do Estado."
+            },
+            {
+                "pmi": [
+                    -0.46811208361290174,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "A a\u00e7\u00e3o dever\u00e1 ser proposta diretamente no Tribunal Regional Federal que abrange o estado onde se localiza a comarca X, em raz\u00e3o da mat\u00e9ria ser compet\u00eancia origin\u00e1ria desse Tribunal."
+            }
+        ],
+        "filename": "2014-13.txt",
+        "valid": true
+    }
+]

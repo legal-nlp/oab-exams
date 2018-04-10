@@ -1,1 +1,57 @@
-[{"options": [{"text": "Se um funcion\u00e1rio p\u00fablico a servi\u00e7o do Brasil na It\u00e1lia praticar, naquele pa\u00eds, crime de corrup\u00e7\u00e3o passiva (art. 317 do C\u00f3digo Penal), ficar\u00e1 sujeito \u00e0 lei penal brasileira em face do princ\u00edpio da extraterritorialidade.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}, {"text": "O ordenamento jur\u00eddico-penal brasileiro prev\u00ea a combina\u00e7\u00e3o de leis sucessivas sempre que a fus\u00e3o puder beneficiar o r\u00e9u.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Na ocorr\u00eancia de sucess\u00e3o de leis penais no tempo, n\u00e3o ser\u00e1 poss\u00edvel a aplica\u00e7\u00e3o da lei penal intermedi\u00e1ria mesmo se ela configurar a lei mais favor\u00e1vel.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "As leis penais tempor\u00e1rias e excepcionais s\u00e3o dotadas de ultra-atividade. Por tal motivo, s\u00e3o aplic\u00e1veis a qualquer delito, desde que seus resultados tenham ocorrido durante sua vig\u00eancia.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}], "filename": "2011-05.txt", "valid": true, "areas": ["CRIMINAL"], "enum": "Acerca da aplica\u00e7\u00e3o da lei penal no tempo e no espa\u00e7o, assinale a alternativa correta.", "number": "62"}]
+[
+    {
+        "options": [
+            {
+                "text": "Se um funcion\u00e1rio p\u00fablico a servi\u00e7o do Brasil na It\u00e1lia praticar, naquele pa\u00eds, crime de corrup\u00e7\u00e3o passiva (art. 317 do C\u00f3digo Penal), ficar\u00e1 sujeito \u00e0 lei penal brasileira em face do princ\u00edpio da extraterritorialidade.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "O ordenamento jur\u00eddico-penal brasileiro prev\u00ea a combina\u00e7\u00e3o de leis sucessivas sempre que a fus\u00e3o puder beneficiar o r\u00e9u.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Na ocorr\u00eancia de sucess\u00e3o de leis penais no tempo, n\u00e3o ser\u00e1 poss\u00edvel a aplica\u00e7\u00e3o da lei penal intermedi\u00e1ria mesmo se ela configurar a lei mais favor\u00e1vel.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "As leis penais tempor\u00e1rias e excepcionais s\u00e3o dotadas de ultra-atividade. Por tal motivo, s\u00e3o aplic\u00e1veis a qualquer delito, desde que seus resultados tenham ocorrido durante sua vig\u00eancia.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "filename": "2011-05.txt",
+        "valid": true,
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Acerca da aplica\u00e7\u00e3o da lei penal no tempo e no espa\u00e7o, assinale a alternativa correta.",
+        "number": "62"
+    }
+]

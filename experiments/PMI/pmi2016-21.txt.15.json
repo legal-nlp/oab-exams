@@ -1,1 +1,55 @@
-[{"number": "15", "enum": "A Constitui\u00e7\u00e3o de determinado pa\u00eds veiculou os seguintes artigos:\n\n Art. X. As normas desta Constitui\u00e7\u00e3o poder\u00e3o ser alteradas mediante processo legislativo pr\u00f3prio, com a aprova\u00e7\u00e3o da maioria qualificada de tr\u00eas quintos dos membros das respectivas Casas Legislativas, em dois turnos de vota\u00e7\u00e3o, exceto as normas constitucionais que n\u00e3o versarem sobre a estrutura do Estado ou sobre os direitos e garantias fundamentais, que poder\u00e3o ser alteradas por interm\u00e9dio de lei infraconstitucional.\n\n Art. Y. A presente Constitui\u00e7\u00e3o, concebida diretamente pelo Exmo. Sr. Presidente da Rep\u00fablica, dever\u00e1 ser submetida \u00e0 consulta popular, por meio de plebiscito, visando \u00e0 sua aprova\u00e7\u00e3o definitiva.\n\n Art. Z. A ordem econ\u00f4mica ser\u00e1 fundada na livre iniciativa e na valoriza\u00e7\u00e3o do trabalho humano, devendo seguir os princ\u00edpios reitores da democracia liberal e da social democracia, bem como o respeito aos direitos fundamentais de primeira dimens\u00e3o (direitos civis e pol\u00edticos) e de segunda dimens\u00e3o (direitos sociais, econ\u00f4micos, culturais e trabalhistas).\n\n Com base no fragmento acima, \u00e9 certo afirmar que a classifica\u00e7\u00e3o da Constitui\u00e7\u00e3o do referido pa\u00eds seria", "areas": [], "filename": "2016-21.txt", "valid": true, "options": [{"correct": null, "letter": "A", "text": "semirr\u00edgida, promulgada, heterodoxa.", "pmi": [-0.07716331688143074, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "flex\u00edvel, outorgada, compromiss\u00f3ria.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "r\u00edgida, bonapartista e ortodoxa.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "semiflex\u00edvel, cesarista e compromiss\u00f3ria.", "pmi": [0.0, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "number": "15",
+        "enum": "A Constitui\u00e7\u00e3o de determinado pa\u00eds veiculou os seguintes artigos:\n\n Art. X. As normas desta Constitui\u00e7\u00e3o poder\u00e3o ser alteradas mediante processo legislativo pr\u00f3prio, com a aprova\u00e7\u00e3o da maioria qualificada de tr\u00eas quintos dos membros das respectivas Casas Legislativas, em dois turnos de vota\u00e7\u00e3o, exceto as normas constitucionais que n\u00e3o versarem sobre a estrutura do Estado ou sobre os direitos e garantias fundamentais, que poder\u00e3o ser alteradas por interm\u00e9dio de lei infraconstitucional.\n\n Art. Y. A presente Constitui\u00e7\u00e3o, concebida diretamente pelo Exmo. Sr. Presidente da Rep\u00fablica, dever\u00e1 ser submetida \u00e0 consulta popular, por meio de plebiscito, visando \u00e0 sua aprova\u00e7\u00e3o definitiva.\n\n Art. Z. A ordem econ\u00f4mica ser\u00e1 fundada na livre iniciativa e na valoriza\u00e7\u00e3o do trabalho humano, devendo seguir os princ\u00edpios reitores da democracia liberal e da social democracia, bem como o respeito aos direitos fundamentais de primeira dimens\u00e3o (direitos civis e pol\u00edticos) e de segunda dimens\u00e3o (direitos sociais, econ\u00f4micos, culturais e trabalhistas).\n\n Com base no fragmento acima, \u00e9 certo afirmar que a classifica\u00e7\u00e3o da Constitui\u00e7\u00e3o do referido pa\u00eds seria",
+        "areas": [],
+        "filename": "2016-21.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "semirr\u00edgida, promulgada, heterodoxa.",
+                "pmi": [
+                    -0.07716331688143074,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "flex\u00edvel, outorgada, compromiss\u00f3ria.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "r\u00edgida, bonapartista e ortodoxa.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "semiflex\u00edvel, cesarista e compromiss\u00f3ria.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

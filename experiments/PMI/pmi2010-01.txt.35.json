@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "valid": true, "enum": "Considere que o filho de M\u00e1rio Lins de Souza e de Luna Ferreira de Melo tenha sido registrado com o nome de Paulo de Souza. Nessa situa\u00e7\u00e3o hipot\u00e9tica,", "options": [{"text": "Paulo, se assim o desejar, poder\u00e1, no prazo de at\u00e9 um ano ap\u00f3s atingir a maioridade, introduzir em seu nome um patron\u00edmico materno, sem que precise justificar sua vontade.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A"}, {"text": "\u00e9 obrigat\u00f3ria, em raz\u00e3o da aboli\u00e7\u00e3o do tra\u00e7o patriarcal da legisla\u00e7\u00e3o civil brasileira, a ado\u00e7\u00e3o do sobrenome materno, de modo que o registro de nascimento de Paulo poder\u00e1 ser alterado a qualquer momento e, at\u00e9 mesmo, de of\u00edcio.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"text": "apenas por meio do casamento ser\u00e1 poss\u00edvel a Paulo alterar seu nome, o que ser\u00e1 feito com a inclus\u00e3o de sobrenome da esposa.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C"}, {"text": "Paulo poder\u00e1, se assim o desejar, incluir em seu nome apelido que seja not\u00f3rio, o que dever\u00e1 ocorrer por meio de pedido devidamente instru\u00eddo e dirigido ao oficial do cart\u00f3rio de registro civil.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D"}], "areas": ["CIVIL"], "number": "35"}]
+[
+    {
+        "filename": "2010-01.txt",
+        "valid": true,
+        "enum": "Considere que o filho de M\u00e1rio Lins de Souza e de Luna Ferreira de Melo tenha sido registrado com o nome de Paulo de Souza. Nessa situa\u00e7\u00e3o hipot\u00e9tica,",
+        "options": [
+            {
+                "text": "Paulo, se assim o desejar, poder\u00e1, no prazo de at\u00e9 um ano ap\u00f3s atingir a maioridade, introduzir em seu nome um patron\u00edmico materno, sem que precise justificar sua vontade.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "text": "\u00e9 obrigat\u00f3ria, em raz\u00e3o da aboli\u00e7\u00e3o do tra\u00e7o patriarcal da legisla\u00e7\u00e3o civil brasileira, a ado\u00e7\u00e3o do sobrenome materno, de modo que o registro de nascimento de Paulo poder\u00e1 ser alterado a qualquer momento e, at\u00e9 mesmo, de of\u00edcio.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "text": "apenas por meio do casamento ser\u00e1 poss\u00edvel a Paulo alterar seu nome, o que ser\u00e1 feito com a inclus\u00e3o de sobrenome da esposa.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "text": "Paulo poder\u00e1, se assim o desejar, incluir em seu nome apelido que seja not\u00f3rio, o que dever\u00e1 ocorrer por meio de pedido devidamente instru\u00eddo e dirigido ao oficial do cart\u00f3rio de registro civil.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CIVIL"
+        ],
+        "number": "35"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "O advogado Ant\u00f4nio \u00e9 convocado para prestar depoimento como testemunha em a\u00e7\u00e3o em que um dos seus clientes \u00e9 parte. Inquirido pelo magistrado, passa a tecer considera\u00e7\u00f5es sobre fatos apresentados pelo seu cliente durante as consultas profissionais, mesmo sobre estrat\u00e9gias que havia sugerido para a defesa do seu cliente. N\u00e3o omitiu quaisquer informa\u00e7\u00f5es. Posteriormente \u00e0 audi\u00eancia, foi notificado da abertura de processo disciplinar pelo depoimento prestado. Em rela\u00e7\u00e3o ao caso acima, com base nas normas estatut\u00e1rias, \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "10", "options": [{"correct": null, "letter": "A", "text": "no caso em tela, houve justa causa, capaz de permitir a revela\u00e7\u00e3o de dados sigilosos."}, {"correct": null, "letter": "B", "text": "inquirido pelo magistrado, o advogado n\u00e3o pode se escusar de depor e prestar informa\u00e7\u00f5es."}, {"correct": true, "letter": "C", "text": "a quebra do sigilo profissional, ainda que judicialmente, como no caso, \u00e9 infra\u00e7\u00e3o disciplinar."}, {"correct": null, "letter": "D", "text": "o sigilo profissional \u00e9 uma faculdade do advogado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Ant\u00f4nio \u00e9 convocado para prestar depoimento como testemunha em a\u00e7\u00e3o em que um dos seus clientes \u00e9 parte. Inquirido pelo magistrado, passa a tecer considera\u00e7\u00f5es sobre fatos apresentados pelo seu cliente durante as consultas profissionais, mesmo sobre estrat\u00e9gias que havia sugerido para a defesa do seu cliente. N\u00e3o omitiu quaisquer informa\u00e7\u00f5es. Posteriormente \u00e0 audi\u00eancia, foi notificado da abertura de processo disciplinar pelo depoimento prestado. Em rela\u00e7\u00e3o ao caso acima, com base nas normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "10",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "no caso em tela, houve justa causa, capaz de permitir a revela\u00e7\u00e3o de dados sigilosos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "inquirido pelo magistrado, o advogado n\u00e3o pode se escusar de depor e prestar informa\u00e7\u00f5es."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "a quebra do sigilo profissional, ainda que judicialmente, como no caso, \u00e9 infra\u00e7\u00e3o disciplinar."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o sigilo profissional \u00e9 uma faculdade do advogado."
+            }
+        ],
+        "valid": true
+    }
+]

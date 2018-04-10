@@ -1,1 +1,57 @@
-[{"number": "9", "areas": ["ETHICS"], "enum": "Joel \u00e9 Conselheiro do Tribunal de Contas do Munic\u00edpio J, sendo propriet\u00e1rio de diversos im\u00f3veis. Em um deles, por for\u00e7a de contrato de loca\u00e7\u00e3o residencial, verifica a falta de pagamentos dos alugueres devidos.  O Conselheiro \u00e9 Bacharel em Direito, tendo exercido a advocacia por v\u00e1rios anos na \u00e1rea imobili\u00e1ria.\n\n Nesse caso, nos termos do Estatuto da Advocacia, o Conselheiro", "valid": true, "filename": "2013-12.txt", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "poderia atuar como advogado em causa pr\u00f3pria.", "correct": null}, {"pmi": [-0.03852769954833127, 0.0, 0.0, 0.0], "letter": "B", "text": "dever\u00e1 contratar advogado para a causa diante da situa\u00e7\u00e3o de incompatibilidade.", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "text": "poderia advogar; recomenda-se, contudo, a contrata\u00e7\u00e3o de advogado.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "text": "est\u00e1 com a sua inscri\u00e7\u00e3o como advogado suspensa.", "correct": null}]}]
+[
+    {
+        "number": "9",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Joel \u00e9 Conselheiro do Tribunal de Contas do Munic\u00edpio J, sendo propriet\u00e1rio de diversos im\u00f3veis. Em um deles, por for\u00e7a de contrato de loca\u00e7\u00e3o residencial, verifica a falta de pagamentos dos alugueres devidos.  O Conselheiro \u00e9 Bacharel em Direito, tendo exercido a advocacia por v\u00e1rios anos na \u00e1rea imobili\u00e1ria.\n\n Nesse caso, nos termos do Estatuto da Advocacia, o Conselheiro",
+        "valid": true,
+        "filename": "2013-12.txt",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "poderia atuar como advogado em causa pr\u00f3pria.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.03852769954833127,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "dever\u00e1 contratar advogado para a causa diante da situa\u00e7\u00e3o de incompatibilidade.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "poderia advogar; recomenda-se, contudo, a contrata\u00e7\u00e3o de advogado.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "est\u00e1 com a sua inscri\u00e7\u00e3o como advogado suspensa.",
+                "correct": null
+            }
+        ]
+    }
+]

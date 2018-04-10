@@ -1,1 +1,57 @@
-[{"enum": "Paula, com inten\u00e7\u00e3o de matar Maria, desfere contra ela quinze facadas, todas na regi\u00e3o do t\u00f3rax. Cerca de duas horas ap\u00f3s a a\u00e7\u00e3o de Paula, Maria vem a falecer. Todavia, a causa mortis determinada pelo auto de exame cadav\u00e9rico foi envenenamento. Posteriormente, soube-se que Maria nutria inten\u00e7\u00f5es suicidas e que, na manh\u00e3 dos fatos, havia ingerido veneno.\n\n Com base na situa\u00e7\u00e3o descrita, assinale a afirmativa correta.", "options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Paula responder\u00e1 por homic\u00eddio doloso consumado."}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "Paula responder\u00e1 por tentativa de homic\u00eddio."}, {"letter": "C", "pmi": [-0.05116548272700548, 0.0, 0.0, 0.0], "correct": null, "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa relativamente independente superveniente que por si s\u00f3 gerou o resultado."}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa absolutamente independente concomitante."}], "areas": ["CRIMINAL"], "filename": "2013-12.txt", "valid": true, "number": "61"}]
+[
+    {
+        "enum": "Paula, com inten\u00e7\u00e3o de matar Maria, desfere contra ela quinze facadas, todas na regi\u00e3o do t\u00f3rax. Cerca de duas horas ap\u00f3s a a\u00e7\u00e3o de Paula, Maria vem a falecer. Todavia, a causa mortis determinada pelo auto de exame cadav\u00e9rico foi envenenamento. Posteriormente, soube-se que Maria nutria inten\u00e7\u00f5es suicidas e que, na manh\u00e3 dos fatos, havia ingerido veneno.\n\n Com base na situa\u00e7\u00e3o descrita, assinale a afirmativa correta.",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Paula responder\u00e1 por homic\u00eddio doloso consumado."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Paula responder\u00e1 por tentativa de homic\u00eddio."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.05116548272700548,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa relativamente independente superveniente que por si s\u00f3 gerou o resultado."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa absolutamente independente concomitante."
+            }
+        ],
+        "areas": [
+            "CRIMINAL"
+        ],
+        "filename": "2013-12.txt",
+        "valid": true,
+        "number": "61"
+    }
+]

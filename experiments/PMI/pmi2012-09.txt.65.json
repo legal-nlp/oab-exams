@@ -1,1 +1,57 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "valid": true, "enum": "Com rela\u00e7\u00e3o \u00e0 Lei n. 9.099/95, assinale a afirmativa incorreta.", "number": "65", "options": [{"correct": null, "letter": "A", "pmi": [-0.0365467632042587, 0.0, 0.0, 0.0], "text": "A transa\u00e7\u00e3o penal consiste na aplica\u00e7\u00e3o imediata de pena restritiva de direitos ou multas \u00e0quele a quem se imputa uma infra\u00e7\u00e3o de menor potencial ofensivo."}, {"correct": true, "letter": "B", "pmi": [-0.1288723297186151, 0.0, 0.0, 0.0], "text": "N\u00e3o poder\u00e1 ser oferecida a suspens\u00e3o condicional do processo ao acusado que tiver sido condenado anteriormente por contraven\u00e7\u00e3o penal."}, {"correct": null, "letter": "C", "pmi": [-0.2574998334528425, 0.0, 0.0, 0.0], "text": "Em caso de delito persequ\u00edvel por a\u00e7\u00e3o penal p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o, havendo a representa\u00e7\u00e3o do ofendido, o Minist\u00e9rio P\u00fablico est\u00e1 legitimado para oferecer transa\u00e7\u00e3o penal, mesmo que o ofendido se oponha e deseje a continua\u00e7\u00e3o do processo."}, {"correct": null, "letter": "D", "pmi": [-0.19884435456541286, 0.0, 0.0, 0.0], "text": "Se, no curso da suspens\u00e3o condicional do processo, o acusado vier a ser processado por contraven\u00e7\u00e3o penal, o benef\u00edcio poder\u00e1 ser revogado pelo juiz."}], "filename": "2012-09.txt"}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "valid": true,
+        "enum": "Com rela\u00e7\u00e3o \u00e0 Lei n. 9.099/95, assinale a afirmativa incorreta.",
+        "number": "65",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.0365467632042587,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A transa\u00e7\u00e3o penal consiste na aplica\u00e7\u00e3o imediata de pena restritiva de direitos ou multas \u00e0quele a quem se imputa uma infra\u00e7\u00e3o de menor potencial ofensivo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.1288723297186151,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o poder\u00e1 ser oferecida a suspens\u00e3o condicional do processo ao acusado que tiver sido condenado anteriormente por contraven\u00e7\u00e3o penal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.2574998334528425,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Em caso de delito persequ\u00edvel por a\u00e7\u00e3o penal p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o, havendo a representa\u00e7\u00e3o do ofendido, o Minist\u00e9rio P\u00fablico est\u00e1 legitimado para oferecer transa\u00e7\u00e3o penal, mesmo que o ofendido se oponha e deseje a continua\u00e7\u00e3o do processo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.19884435456541286,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se, no curso da suspens\u00e3o condicional do processo, o acusado vier a ser processado por contraven\u00e7\u00e3o penal, o benef\u00edcio poder\u00e1 ser revogado pelo juiz."
+            }
+        ],
+        "filename": "2012-09.txt"
+    }
+]

@@ -1,1 +1,55 @@
-[{"number": "60", "enum": "Roberto estava dirigindo seu autom\u00f3vel quando perdeu o controle da dire\u00e7\u00e3o e subiu a cal\u00e7ada, atropelando dois pedestres que estavam parados num ponto de \u00f4nibus. Nesse contexto, levando-se em considera\u00e7\u00e3o o concurso de crimes, assinale a op\u00e7\u00e3o correta, que contempla a esp\u00e9cie em an\u00e1lise:", "filename": "2014-15.txt", "valid": true, "options": [{"letter": "A", "correct": null, "pmi": [0.0, 0.0, 0, 0], "text": "concurso material."}, {"letter": "B", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "concurso formal pr\u00f3prio ou perfeito."}, {"letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "concurso formal impr\u00f3prio ou imperfeito."}, {"letter": "D", "correct": null, "pmi": [0.0, 0.0, 0, 0], "text": "crime continuado."}], "areas": []}]
+[
+    {
+        "number": "60",
+        "enum": "Roberto estava dirigindo seu autom\u00f3vel quando perdeu o controle da dire\u00e7\u00e3o e subiu a cal\u00e7ada, atropelando dois pedestres que estavam parados num ponto de \u00f4nibus. Nesse contexto, levando-se em considera\u00e7\u00e3o o concurso de crimes, assinale a op\u00e7\u00e3o correta, que contempla a esp\u00e9cie em an\u00e1lise:",
+        "filename": "2014-15.txt",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "concurso material."
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "concurso formal pr\u00f3prio ou perfeito."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "concurso formal impr\u00f3prio ou imperfeito."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "crime continuado."
+            }
+        ],
+        "areas": []
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Gustavo completou 17 anos de idade em janeiro de 2010. Em mar\u00e7o de 2010 colou grau em curso de ensino m\u00e9dio. Em julho de 2010 contraiu matrim\u00f4nio com Beatriz. Em setembro de 2010, foi aprovado em concurso p\u00fablico e iniciou o exerc\u00edcio de emprego p\u00fablico efetivo. Por fim, em novembro de 2010, estabeleceu-se no com\u00e9rcio, abrindo um restaurante.\n\n Assinale a alternativa que indica o momento em que se deu a cessa\u00e7\u00e3o da incapacidade civil de Gustavo.", "filename": "2013-10.txt", "number": "39", "options": [{"correct": null, "letter": "A", "text": "No momento em que iniciou o exerc\u00edcio de emprego p\u00fablico efetivo."}, {"correct": null, "letter": "B", "text": "No momento em que colou grau em curso de ensino m\u00e9dio."}, {"correct": true, "letter": "C", "text": "No momento em que contraiu matrim\u00f4nio."}, {"correct": null, "letter": "D", "text": "No momento em que se estabeleceu no com\u00e9rcio, abrindo um restaurante."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Gustavo completou 17 anos de idade em janeiro de 2010. Em mar\u00e7o de 2010 colou grau em curso de ensino m\u00e9dio. Em julho de 2010 contraiu matrim\u00f4nio com Beatriz. Em setembro de 2010, foi aprovado em concurso p\u00fablico e iniciou o exerc\u00edcio de emprego p\u00fablico efetivo. Por fim, em novembro de 2010, estabeleceu-se no com\u00e9rcio, abrindo um restaurante.\n\n Assinale a alternativa que indica o momento em que se deu a cessa\u00e7\u00e3o da incapacidade civil de Gustavo.",
+        "filename": "2013-10.txt",
+        "number": "39",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "No momento em que iniciou o exerc\u00edcio de emprego p\u00fablico efetivo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "No momento em que colou grau em curso de ensino m\u00e9dio."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "No momento em que contraiu matrim\u00f4nio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "No momento em que se estabeleceu no com\u00e9rcio, abrindo um restaurante."
+            }
+        ],
+        "valid": true
+    }
+]

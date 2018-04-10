@@ -1,1 +1,55 @@
-[{"options": [{"correct": null, "text": "adjudicar o bem.", "pmi": [0.0, 0, 0, 0], "letter": "A"}, {"correct": null, "text": "vender diretamente o bem para terceiros.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": true, "text": "promover leil\u00e3o p\u00fablico para a aliena\u00e7\u00e3o do im\u00f3vel; n\u00e3o havendo arremate pelo valor de sua avalia\u00e7\u00e3o, realizar um segundo leil\u00e3o em quinze dias.", "pmi": [-0.07944191888708092, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "promover leil\u00e3o p\u00fablico para a aliena\u00e7\u00e3o do im\u00f3vel; n\u00e3o havendo arremate, o fiduci\u00e1rio adjudicar\u00e1 o bem.", "pmi": [-0.05980677937703464, 0.0, 0.0, 0.0], "letter": "D"}], "filename": "2014-15.txt", "enum": "No regime da Aliena\u00e7\u00e3o Fiduci\u00e1ria que recai sobre bens im\u00f3veis, uma vez consolidada a propriedade em seu nome no Registro de Im\u00f3veis, o fiduci\u00e1rio, no prazo de trinta dias, contados da data do referido registro, dever\u00e1", "valid": true, "number": "37", "areas": []}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "text": "adjudicar o bem.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "vender diretamente o bem para terceiros.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "text": "promover leil\u00e3o p\u00fablico para a aliena\u00e7\u00e3o do im\u00f3vel; n\u00e3o havendo arremate pelo valor de sua avalia\u00e7\u00e3o, realizar um segundo leil\u00e3o em quinze dias.",
+                "pmi": [
+                    -0.07944191888708092,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "promover leil\u00e3o p\u00fablico para a aliena\u00e7\u00e3o do im\u00f3vel; n\u00e3o havendo arremate, o fiduci\u00e1rio adjudicar\u00e1 o bem.",
+                "pmi": [
+                    -0.05980677937703464,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "filename": "2014-15.txt",
+        "enum": "No regime da Aliena\u00e7\u00e3o Fiduci\u00e1ria que recai sobre bens im\u00f3veis, uma vez consolidada a propriedade em seu nome no Registro de Im\u00f3veis, o fiduci\u00e1rio, no prazo de trinta dias, contados da data do referido registro, dever\u00e1",
+        "valid": true,
+        "number": "37",
+        "areas": []
+    }
+]

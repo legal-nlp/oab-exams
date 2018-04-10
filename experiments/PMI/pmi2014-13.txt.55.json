@@ -1,1 +1,57 @@
-[{"filename": "2014-13.txt", "enum": "A atividade recursal do Supremo Tribunal Federal e do Superior Tribunal de Justi\u00e7a encontra-se tradicionalmente associada aos recursos extraordin\u00e1rio e especial, respectivamente. Contudo, tal m\u00fanus tamb\u00e9m \u00e9 desempenhado por meio do julgamento do denominado recurso ordin\u00e1rio constitucional.\n\n Acerca dessa esp\u00e9cie recursal, assinale a afirmativa correta.", "number": "55", "valid": true, "areas": ["CIVIL-PROCEDURE"], "options": [{"correct": null, "pmi": [-0.0845803037203309, -0.006860252272031397, 0.0, 0.0], "text": "Exigir-se-\u00e1 a comprova\u00e7\u00e3o do requisito do pr\u00e9-questionamento para a admiss\u00e3o do recurso ordin\u00e1rio constitucional perante os Tribunais Superiores.", "letter": "A"}, {"correct": null, "pmi": [-0.06748642183355298, 0.0, 0.0, 0.0], "text": "Apenas ser\u00e1 acolhido o recurso ordin\u00e1rio que versar sobre quest\u00f5es exclusivamente de direito, n\u00e3o se admitindo a rediscuss\u00e3o de mat\u00e9ria f\u00e1tica por meio desta via recursal.", "letter": "B"}, {"correct": null, "pmi": [-0.28542025237435986, 0.0, 0.0, 0.0], "text": "Compete ao Supremo Tribunal Federal julgar o recurso ordin\u00e1rio interposto contra mandado de seguran\u00e7a decidido em \u00fanica inst\u00e2ncia pelos Tribunais Regionais Federais ou pelos Tribunais dos estados, do Distrito Federal e dos territ\u00f3rios, quando denegat\u00f3ria a decis\u00e3o.", "letter": "C"}, {"correct": true, "pmi": [-0.20842873076090176, -0.0216583123192186, -0.011890584270392414, 0.0], "text": "Ser\u00e3o julgadas em recurso ordin\u00e1rio pelo Superior Tribunal de Justi\u00e7a as causas em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, do outro, munic\u00edpio ou pessoa residente ou domiciliada no pa\u00eds.", "letter": "D"}]}]
+[
+    {
+        "filename": "2014-13.txt",
+        "enum": "A atividade recursal do Supremo Tribunal Federal e do Superior Tribunal de Justi\u00e7a encontra-se tradicionalmente associada aos recursos extraordin\u00e1rio e especial, respectivamente. Contudo, tal m\u00fanus tamb\u00e9m \u00e9 desempenhado por meio do julgamento do denominado recurso ordin\u00e1rio constitucional.\n\n Acerca dessa esp\u00e9cie recursal, assinale a afirmativa correta.",
+        "number": "55",
+        "valid": true,
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.0845803037203309,
+                    -0.006860252272031397,
+                    0.0,
+                    0.0
+                ],
+                "text": "Exigir-se-\u00e1 a comprova\u00e7\u00e3o do requisito do pr\u00e9-questionamento para a admiss\u00e3o do recurso ordin\u00e1rio constitucional perante os Tribunais Superiores.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.06748642183355298,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas ser\u00e1 acolhido o recurso ordin\u00e1rio que versar sobre quest\u00f5es exclusivamente de direito, n\u00e3o se admitindo a rediscuss\u00e3o de mat\u00e9ria f\u00e1tica por meio desta via recursal.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.28542025237435986,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Compete ao Supremo Tribunal Federal julgar o recurso ordin\u00e1rio interposto contra mandado de seguran\u00e7a decidido em \u00fanica inst\u00e2ncia pelos Tribunais Regionais Federais ou pelos Tribunais dos estados, do Distrito Federal e dos territ\u00f3rios, quando denegat\u00f3ria a decis\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.20842873076090176,
+                    -0.0216583123192186,
+                    -0.011890584270392414,
+                    0.0
+                ],
+                "text": "Ser\u00e3o julgadas em recurso ordin\u00e1rio pelo Superior Tribunal de Justi\u00e7a as causas em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, do outro, munic\u00edpio ou pessoa residente ou domiciliada no pa\u00eds.",
+                "letter": "D"
+            }
+        ]
+    }
+]

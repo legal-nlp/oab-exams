@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Caio, professor vinculado \u00e0 Universidade Federal, ministrando aulas no curso de Direito, resolve atuar, em causa pr\u00f3pria, pleiteando benef\u00edcios tribut\u00e1rios em face da Uni\u00e3o Federal. Nos termos do Estatuto, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "11", "options": [{"correct": true, "letter": "A", "text": "\u00e9 situa\u00e7\u00e3o peculiar que permite o exerc\u00edcio da advocacia mesmo contra entidade vinculada."}, {"correct": null, "letter": "B", "text": "a situa\u00e7\u00e3o caracteriza impedimento, uma vez que h\u00e1 v\u00ednculo da Universidade com a Uni\u00e3o Federal."}, {"correct": null, "letter": "C", "text": "o docente em cursos de Direito n\u00e3o pode exercer a advocacia, sendo circunst\u00e2ncia de incompatibilidade."}, {"correct": null, "letter": "D", "text": "enquanto durar o exerc\u00edcio do magist\u00e9rio, a inscri\u00e7\u00e3o na OAB permanecer\u00e1 suspensa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Caio, professor vinculado \u00e0 Universidade Federal, ministrando aulas no curso de Direito, resolve atuar, em causa pr\u00f3pria, pleiteando benef\u00edcios tribut\u00e1rios em face da Uni\u00e3o Federal. Nos termos do Estatuto, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "11",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "\u00e9 situa\u00e7\u00e3o peculiar que permite o exerc\u00edcio da advocacia mesmo contra entidade vinculada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a situa\u00e7\u00e3o caracteriza impedimento, uma vez que h\u00e1 v\u00ednculo da Universidade com a Uni\u00e3o Federal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o docente em cursos de Direito n\u00e3o pode exercer a advocacia, sendo circunst\u00e2ncia de incompatibilidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "enquanto durar o exerc\u00edcio do magist\u00e9rio, a inscri\u00e7\u00e3o na OAB permanecer\u00e1 suspensa."
+            }
+        ],
+        "valid": true
+    }
+]

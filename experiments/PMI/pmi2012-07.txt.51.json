@@ -1,1 +1,57 @@
-[{"filename": "2012-07.txt", "options": [{"letter": "A", "text": "o direito de voto \u00e9 garantido a todo acionista, independente da esp\u00e9cie ou classe de a\u00e7\u00f5es de que seja titular.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "os acionistas dever\u00e3o receber dividendos obrigat\u00f3rios em todos os exerc\u00edcios sociais.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "o acionista ter\u00e1 direito de se retirar da companhia caso cl\u00e1usula compromiss\u00f3ria venha a ser introduzida no estatuto social.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "o acionista tem o direito de fiscalizar as atividades sociais e sendo titular de mais de 5% do capital poder\u00e1 requerer judicialmente a exibi\u00e7\u00e3o dos livros da companhia, caso haja suspeita de irregularidades dos administradores.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}], "enum": "Sobre os direitos dos acionistas, \u00e9 correto afirmar que", "areas": ["BUSINESS"], "number": "51", "valid": true}]
+[
+    {
+        "filename": "2012-07.txt",
+        "options": [
+            {
+                "letter": "A",
+                "text": "o direito de voto \u00e9 garantido a todo acionista, independente da esp\u00e9cie ou classe de a\u00e7\u00f5es de que seja titular.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "os acionistas dever\u00e3o receber dividendos obrigat\u00f3rios em todos os exerc\u00edcios sociais.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "o acionista ter\u00e1 direito de se retirar da companhia caso cl\u00e1usula compromiss\u00f3ria venha a ser introduzida no estatuto social.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "o acionista tem o direito de fiscalizar as atividades sociais e sendo titular de mais de 5% do capital poder\u00e1 requerer judicialmente a exibi\u00e7\u00e3o dos livros da companhia, caso haja suspeita de irregularidades dos administradores.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Sobre os direitos dos acionistas, \u00e9 correto afirmar que",
+        "areas": [
+            "BUSINESS"
+        ],
+        "number": "51",
+        "valid": true
+    }
+]

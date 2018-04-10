@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2013-12.txt", "options": [{"correct": null, "letter": "A", "text": "A Comiss\u00e3o apenas receber\u00e1 a den\u00fancia se ficar comprovado pr\u00e9vio esgotamento dos recursos internos.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "A compet\u00eancia para a an\u00e1lise desse caso n\u00e3o \u00e9 da Comiss\u00e3o Interamericana de Direitos Humanos e, sim, da Corte Interamericana de Direitos Humanos.", "pmi": [-0.03496909067847116, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "A Comiss\u00e3o \u00e9 competente para receber a den\u00fancia, mas apenas por meio de peti\u00e7\u00f5es individualizadas, a fim de proferir decis\u00f5es mediante o devido processo legal.", "pmi": [0.0007780646604415263, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "Por se tratar de caso grave e urgente, a Comiss\u00e3o pode receber a den\u00fancia e expedir medida cautelar para obrigar o Estado a fazer cessar a viola\u00e7\u00e3o ocorrente no pres\u00eddio.", "pmi": [-0.020054286081612766, 0.0, 0.0, 0.0]}], "enum": "Um advogado \u00e9 procurado por um grupo de familiares que narraram a ocorr\u00eancia de tortura e tratamento degradante num pres\u00eddio estadual. Ap\u00f3s constatar a den\u00fancia in loco, o advogado levou a situa\u00e7\u00e3o ao conhecimento das autoridades administrativas competentes que, entretanto, n\u00e3o deram a aten\u00e7\u00e3o devida ao caso. Em raz\u00e3o disso, o advogado admitiu recorrer \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos.\n\n A respeito do caso narrado, assinale a afirmativa correta.", "areas": ["HUMAN-RIGHTS"], "number": "22"}]
+[
+    {
+        "valid": true,
+        "filename": "2013-12.txt",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A Comiss\u00e3o apenas receber\u00e1 a den\u00fancia se ficar comprovado pr\u00e9vio esgotamento dos recursos internos.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A compet\u00eancia para a an\u00e1lise desse caso n\u00e3o \u00e9 da Comiss\u00e3o Interamericana de Direitos Humanos e, sim, da Corte Interamericana de Direitos Humanos.",
+                "pmi": [
+                    -0.03496909067847116,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A Comiss\u00e3o \u00e9 competente para receber a den\u00fancia, mas apenas por meio de peti\u00e7\u00f5es individualizadas, a fim de proferir decis\u00f5es mediante o devido processo legal.",
+                "pmi": [
+                    0.0007780646604415263,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Por se tratar de caso grave e urgente, a Comiss\u00e3o pode receber a den\u00fancia e expedir medida cautelar para obrigar o Estado a fazer cessar a viola\u00e7\u00e3o ocorrente no pres\u00eddio.",
+                "pmi": [
+                    -0.020054286081612766,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Um advogado \u00e9 procurado por um grupo de familiares que narraram a ocorr\u00eancia de tortura e tratamento degradante num pres\u00eddio estadual. Ap\u00f3s constatar a den\u00fancia in loco, o advogado levou a situa\u00e7\u00e3o ao conhecimento das autoridades administrativas competentes que, entretanto, n\u00e3o deram a aten\u00e7\u00e3o devida ao caso. Em raz\u00e3o disso, o advogado admitiu recorrer \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos.\n\n A respeito do caso narrado, assinale a afirmativa correta.",
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "number": "22"
+    }
+]

@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "text": "Compete ao Conselho Federal da OAB representar, em ju\u00edzo ou fora dele, os interesses coletivos ou individuais dos advogados.", "letter": "A", "pmi": [-0.15168227672618081, 0.0, 0.0, 0.0]}, {"correct": true, "text": "Compete ao Conselho Federal da OAB editar seu regimento interno e o regimento interno das Seccionais da OAB.", "letter": "B", "pmi": [-0.13651404905356274, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Compete ao Conselho Federal da OAB julgar, em grau de recurso, as quest\u00f5es decididas pelos Conselhos Seccionais, nos casos previstos no EAOAB e no regulamento geral.", "letter": "C", "pmi": [-0.164407825178559, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Compete ao Conselho Federal da OAB velar pela dignidade, independ\u00eancia, prerrogativas e valoriza\u00e7\u00e3o da advocacia.", "letter": "D", "pmi": [-0.15168227672618081, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2014-13.txt", "areas": ["ETHICS"], "enum": "A respeito da compet\u00eancia do Conselho Federal da OAB, assinale a op\u00e7\u00e3o incorreta.", "number": "7"}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "text": "Compete ao Conselho Federal da OAB representar, em ju\u00edzo ou fora dele, os interesses coletivos ou individuais dos advogados.",
+                "letter": "A",
+                "pmi": [
+                    -0.15168227672618081,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "Compete ao Conselho Federal da OAB editar seu regimento interno e o regimento interno das Seccionais da OAB.",
+                "letter": "B",
+                "pmi": [
+                    -0.13651404905356274,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Compete ao Conselho Federal da OAB julgar, em grau de recurso, as quest\u00f5es decididas pelos Conselhos Seccionais, nos casos previstos no EAOAB e no regulamento geral.",
+                "letter": "C",
+                "pmi": [
+                    -0.164407825178559,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Compete ao Conselho Federal da OAB velar pela dignidade, independ\u00eancia, prerrogativas e valoriza\u00e7\u00e3o da advocacia.",
+                "letter": "D",
+                "pmi": [
+                    -0.15168227672618081,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2014-13.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A respeito da compet\u00eancia do Conselho Federal da OAB, assinale a op\u00e7\u00e3o incorreta.",
+        "number": "7"
+    }
+]

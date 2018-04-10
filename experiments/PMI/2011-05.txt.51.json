@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A respeito da sociedade em comum, \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "51", "options": [{"correct": null, "letter": "A", "text": "os s\u00f3cios respondem individual e ilimitadamente pelas obriga\u00e7\u00f5es sociais."}, {"correct": null, "letter": "B", "text": "s\u00e3o regidas pelas disposi\u00e7\u00f5es das sociedades simples."}, {"correct": null, "letter": "C", "text": "na rela\u00e7\u00e3o com terceiros, os s\u00f3cios podem comprovar a exist\u00eancia da sociedade de qualquer modo."}, {"correct": true, "letter": "D", "text": "os s\u00f3cios s\u00e3o titulares em comum das d\u00edvidas sociais."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A respeito da sociedade em comum, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "os s\u00f3cios respondem individual e ilimitadamente pelas obriga\u00e7\u00f5es sociais."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "s\u00e3o regidas pelas disposi\u00e7\u00f5es das sociedades simples."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "na rela\u00e7\u00e3o com terceiros, os s\u00f3cios podem comprovar a exist\u00eancia da sociedade de qualquer modo."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "os s\u00f3cios s\u00e3o titulares em comum das d\u00edvidas sociais."
+            }
+        ],
+        "valid": true
+    }
+]

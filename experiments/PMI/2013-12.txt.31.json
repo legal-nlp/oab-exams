@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Jo\u00e3o \u00e9 parte em processo administrativo federal regulado pela Lei n. 9.784/1999, no qual foi proferida decis\u00e3o que rejeitou sua pretens\u00e3o. Jo\u00e3o pretende recorrer dessa decis\u00e3o. Acerca do caso apresentado, e observando o disposto na lei citada, assinale a afirmativa correta.", "filename": "2013-12.txt", "number": "31", "options": [{"correct": null, "letter": "A", "text": "O recurso de Jo\u00e3o dever\u00e1 ser dirigido diretamente \u00e0 autoridade hierarquicamente superior \u00e0 autoridade que proferiu a decis\u00e3o."}, {"correct": null, "letter": "B", "text": "O prazo para interposi\u00e7\u00e3o de recurso administrativo, salvo disposi\u00e7\u00e3o legal espec\u00edfica, \u00e9 de trinta dias, contado a partir da ci\u00eancia ou da divulga\u00e7\u00e3o oficial da decis\u00e3o recorrida."}, {"correct": null, "letter": "C", "text": "A interposi\u00e7\u00e3o de recurso administrativo depende do oferecimento de cau\u00e7\u00e3o, salvo expressa dispensa legal."}, {"correct": true, "letter": "D", "text": "O n\u00e3o conhecimento do recurso n\u00e3o impedir\u00e1 a Administra\u00e7\u00e3o de rever de of\u00edcio o ato ilegal, desde que n\u00e3o ocorrida a preclus\u00e3o administrativa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Jo\u00e3o \u00e9 parte em processo administrativo federal regulado pela Lei n. 9.784/1999, no qual foi proferida decis\u00e3o que rejeitou sua pretens\u00e3o. Jo\u00e3o pretende recorrer dessa decis\u00e3o. Acerca do caso apresentado, e observando o disposto na lei citada, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "31",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O recurso de Jo\u00e3o dever\u00e1 ser dirigido diretamente \u00e0 autoridade hierarquicamente superior \u00e0 autoridade que proferiu a decis\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O prazo para interposi\u00e7\u00e3o de recurso administrativo, salvo disposi\u00e7\u00e3o legal espec\u00edfica, \u00e9 de trinta dias, contado a partir da ci\u00eancia ou da divulga\u00e7\u00e3o oficial da decis\u00e3o recorrida."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A interposi\u00e7\u00e3o de recurso administrativo depende do oferecimento de cau\u00e7\u00e3o, salvo expressa dispensa legal."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "O n\u00e3o conhecimento do recurso n\u00e3o impedir\u00e1 a Administra\u00e7\u00e3o de rever de of\u00edcio o ato ilegal, desde que n\u00e3o ocorrida a preclus\u00e3o administrativa."
+            }
+        ],
+        "valid": true
+    }
+]

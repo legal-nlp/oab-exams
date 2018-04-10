@@ -1,1 +1,57 @@
-[{"number": "79", "enum": "O sindicato representante de determinada categoria profissional ajuizou a\u00e7\u00e3o civil p\u00fablica em face da Construtora Beta Ltda., postulando sua condena\u00e7\u00e3o na obriga\u00e7\u00e3o de se abster de coagir seus empregados a deixarem de se filiar ao respectivo ente sindical. A pretens\u00e3o foi julgada procedente, tendo transitado em julgado a decis\u00e3o condenat\u00f3ria. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a alternativa correta.", "options": [{"pmi": [-0.5112289637306711, 0.0, 0.0, 0.0], "correct": true, "letter": "A", "text": "Seria obrigat\u00f3ria a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho como fiscal da lei nesse processo."}, {"pmi": [-0.3409287337164399, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "O ajuizamento dessa a\u00e7\u00e3o civil p\u00fablica visou \u00e0 tutela de interesses ou direitos meramente individuais."}, {"pmi": [-0.16303819768501535, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "A senten\u00e7a far\u00e1 coisa julgada \u00e0s partes entre as quais \u00e9 dada (inter partes), n\u00e3o beneficiando nem prejudicando terceiros."}, {"pmi": [-0.41590663604646533, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "A compet\u00eancia funcional para julgamento dessa a\u00e7\u00e3o civil p\u00fablica \u00e9 do Tribunal Regional do Trabalho que tenha jurisdi\u00e7\u00e3o no local onde se situa a sede da empresa."}], "valid": true, "filename": "2011-03.txt", "areas": ["LABOUR-PROCEDURE"]}]
+[
+    {
+        "number": "79",
+        "enum": "O sindicato representante de determinada categoria profissional ajuizou a\u00e7\u00e3o civil p\u00fablica em face da Construtora Beta Ltda., postulando sua condena\u00e7\u00e3o na obriga\u00e7\u00e3o de se abster de coagir seus empregados a deixarem de se filiar ao respectivo ente sindical. A pretens\u00e3o foi julgada procedente, tendo transitado em julgado a decis\u00e3o condenat\u00f3ria. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a alternativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.5112289637306711,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A",
+                "text": "Seria obrigat\u00f3ria a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho como fiscal da lei nesse processo."
+            },
+            {
+                "pmi": [
+                    -0.3409287337164399,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "O ajuizamento dessa a\u00e7\u00e3o civil p\u00fablica visou \u00e0 tutela de interesses ou direitos meramente individuais."
+            },
+            {
+                "pmi": [
+                    -0.16303819768501535,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "A senten\u00e7a far\u00e1 coisa julgada \u00e0s partes entre as quais \u00e9 dada (inter partes), n\u00e3o beneficiando nem prejudicando terceiros."
+            },
+            {
+                "pmi": [
+                    -0.41590663604646533,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "A compet\u00eancia funcional para julgamento dessa a\u00e7\u00e3o civil p\u00fablica \u00e9 do Tribunal Regional do Trabalho que tenha jurisdi\u00e7\u00e3o no local onde se situa a sede da empresa."
+            }
+        ],
+        "valid": true,
+        "filename": "2011-03.txt",
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ]
+    }
+]

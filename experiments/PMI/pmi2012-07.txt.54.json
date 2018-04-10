@@ -1,1 +1,57 @@
-[{"enum": "A Lei X, promulgada em 20 de outubro de 2008, determinou a majora\u00e7\u00e3o do ISS. J\u00e1 a Lei Y, promulgada em 16 de novembro de 2009, reduziu o ICMS de servi\u00e7os de telecomunica\u00e7\u00e3o. Por fim, o Decreto Z, de 8 de dezembro de 2007, elevou o IOF para compras no exterior.  Diante dessas hip\u00f3teses, \u00e9 correto afirmar que", "filename": "2012-07.txt", "areas": ["TAXES"], "options": [{"correct": true, "letter": "A", "text": "o ISS poder\u00e1 ser cobrado somente quando decorridos 90 dias da publica\u00e7\u00e3o da Lei X, ao passo que os novos valores do ICMS e do IOF poder\u00e3o ser cobrados a partir da publica\u00e7\u00e3o dos diplomas legais que os implementaram.", "pmi": [-0.2350827359081262, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "todos os impostos mencionados no enunciado somente poder\u00e3o ser cobrados no exerc\u00edcio financeiro seguinte \u00e0 publica\u00e7\u00e3o do diploma legal que os alterou por for\u00e7a do princ\u00edpio da anterioridade.", "pmi": [-0.13551671807008914, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "na hip\u00f3tese do enunciado, tanto o ISS como o ICMS est\u00e3o sujeitos ao princ\u00edpio da anterioridade nonagesimal, considerada garantia individual do contribuinte cuja viola\u00e7\u00e3o causa o v\u00edcio da inconstitucionalidade.", "pmi": [-0.014245160738884481, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "D", "text": "o IOF, imposto de cunho nitidamente extrafiscal, em rela\u00e7\u00e3o ao princ\u00edpio da anterioridade, est\u00e1 sujeito apenas \u00e0 anterioridade nonagesimal, o que significa que bastam 90 dias da publica\u00e7\u00e3o do decreto que alterou sua al\u00edquota para que possa ser cobrado.", "pmi": [-0.05467995466476804, 0.0, 0.0, 0.0]}], "valid": true, "number": "54"}]
+[
+    {
+        "enum": "A Lei X, promulgada em 20 de outubro de 2008, determinou a majora\u00e7\u00e3o do ISS. J\u00e1 a Lei Y, promulgada em 16 de novembro de 2009, reduziu o ICMS de servi\u00e7os de telecomunica\u00e7\u00e3o. Por fim, o Decreto Z, de 8 de dezembro de 2007, elevou o IOF para compras no exterior.  Diante dessas hip\u00f3teses, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "areas": [
+            "TAXES"
+        ],
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "o ISS poder\u00e1 ser cobrado somente quando decorridos 90 dias da publica\u00e7\u00e3o da Lei X, ao passo que os novos valores do ICMS e do IOF poder\u00e3o ser cobrados a partir da publica\u00e7\u00e3o dos diplomas legais que os implementaram.",
+                "pmi": [
+                    -0.2350827359081262,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "todos os impostos mencionados no enunciado somente poder\u00e3o ser cobrados no exerc\u00edcio financeiro seguinte \u00e0 publica\u00e7\u00e3o do diploma legal que os alterou por for\u00e7a do princ\u00edpio da anterioridade.",
+                "pmi": [
+                    -0.13551671807008914,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "na hip\u00f3tese do enunciado, tanto o ISS como o ICMS est\u00e3o sujeitos ao princ\u00edpio da anterioridade nonagesimal, considerada garantia individual do contribuinte cuja viola\u00e7\u00e3o causa o v\u00edcio da inconstitucionalidade.",
+                "pmi": [
+                    -0.014245160738884481,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o IOF, imposto de cunho nitidamente extrafiscal, em rela\u00e7\u00e3o ao princ\u00edpio da anterioridade, est\u00e1 sujeito apenas \u00e0 anterioridade nonagesimal, o que significa que bastam 90 dias da publica\u00e7\u00e3o do decreto que alterou sua al\u00edquota para que possa ser cobrado.",
+                "pmi": [
+                    -0.05467995466476804,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "number": "54"
+    }
+]

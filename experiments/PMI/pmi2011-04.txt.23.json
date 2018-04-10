@@ -1,1 +1,57 @@
-[{"enum": "Os direitos pol\u00edticos n\u00e3o podem ser cassados. Podem, no entanto, sofrer perda ou suspens\u00e3o \u00e0 luz das normas constitucionais pelo seguinte fundamento:", "areas": ["CONSTITUTIONAL"], "number": "23", "filename": "2011-04.txt", "valid": true, "options": [{"correct": null, "pmi": [0.044531323411456984, 0.0, 0.0, 0.0], "text": "condena\u00e7\u00e3o c\u00edvel sem tr\u00e2nsito em julgado.", "letter": "A"}, {"correct": null, "pmi": [-0.11403722409242505, 0.0, 0.0, 0.0], "text": "incapacidade civil relativa, declarada judicialmente.", "letter": "B"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "cancelamento de naturaliza\u00e7\u00e3o por decis\u00e3o administrativa.", "letter": "C"}, {"correct": true, "pmi": [0.0, 0.0, 0, 0], "text": "improbidade administrativa.", "letter": "D"}]}]
+[
+    {
+        "enum": "Os direitos pol\u00edticos n\u00e3o podem ser cassados. Podem, no entanto, sofrer perda ou suspens\u00e3o \u00e0 luz das normas constitucionais pelo seguinte fundamento:",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "23",
+        "filename": "2011-04.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    0.044531323411456984,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "condena\u00e7\u00e3o c\u00edvel sem tr\u00e2nsito em julgado.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.11403722409242505,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "incapacidade civil relativa, declarada judicialmente.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "cancelamento de naturaliza\u00e7\u00e3o por decis\u00e3o administrativa.",
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "improbidade administrativa.",
+                "letter": "D"
+            }
+        ]
+    }
+]

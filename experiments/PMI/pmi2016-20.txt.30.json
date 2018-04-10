@@ -1,1 +1,55 @@
-[{"enum": "Paulo \u00e9 servidor concursado da C\u00e2mara de Vereadores do munic\u00edpio Beta h\u00e1 mais de quinze anos. Durante esse tempo, Paulo concluiu cursos de aperfei\u00e7oamento profissional, graduou-se no curso de economia, exerceu cargos em comiss\u00e3o e foi promovido por merecimento. Todos esses fatores contribu\u00edram para majorar sua remunera\u00e7\u00e3o.\n\n Considerando a disciplina constitucional a respeito dos servidores p\u00fablicos, assinale a afirmativa correta.", "filename": "2016-20.txt", "options": [{"correct": true, "letter": "A", "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo, servidor p\u00fablico municipal, corresponde ao subs\u00eddio do prefeito do munic\u00edpio Beta.", "pmi": [-0.16658459063597308, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo, servidor p\u00fablico municipal, corresponde ao subs\u00eddio pago aos vereadores de Beta.", "pmi": [-0.15867842010331504, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "Os acr\u00e9scimos de car\u00e1ter remunerat\u00f3rio, pagos a Paulo, como a gratifica\u00e7\u00e3o por tempo de servi\u00e7o e a gratifica\u00e7\u00e3o adicional de qualifica\u00e7\u00e3o profissional, n\u00e3o se submetem ao teto remunerat\u00f3rio.", "pmi": [-0.06401237904181929, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "D", "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo n\u00e3o est\u00e1 sujeito a qualquer limita\u00e7\u00e3o, tendo em vista a necessidade de edi\u00e7\u00e3o de lei complementar para a institui\u00e7\u00e3o do teto previsto na CRFB/88.", "pmi": [-0.061558242552919994, 0.0, 0.0, 0.0]}], "areas": [], "number": "30", "valid": true}]
+[
+    {
+        "enum": "Paulo \u00e9 servidor concursado da C\u00e2mara de Vereadores do munic\u00edpio Beta h\u00e1 mais de quinze anos. Durante esse tempo, Paulo concluiu cursos de aperfei\u00e7oamento profissional, graduou-se no curso de economia, exerceu cargos em comiss\u00e3o e foi promovido por merecimento. Todos esses fatores contribu\u00edram para majorar sua remunera\u00e7\u00e3o.\n\n Considerando a disciplina constitucional a respeito dos servidores p\u00fablicos, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo, servidor p\u00fablico municipal, corresponde ao subs\u00eddio do prefeito do munic\u00edpio Beta.",
+                "pmi": [
+                    -0.16658459063597308,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo, servidor p\u00fablico municipal, corresponde ao subs\u00eddio pago aos vereadores de Beta.",
+                "pmi": [
+                    -0.15867842010331504,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os acr\u00e9scimos de car\u00e1ter remunerat\u00f3rio, pagos a Paulo, como a gratifica\u00e7\u00e3o por tempo de servi\u00e7o e a gratifica\u00e7\u00e3o adicional de qualifica\u00e7\u00e3o profissional, n\u00e3o se submetem ao teto remunerat\u00f3rio.",
+                "pmi": [
+                    -0.06401237904181929,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O teto remunerat\u00f3rio aplic\u00e1vel a Paulo n\u00e3o est\u00e1 sujeito a qualquer limita\u00e7\u00e3o, tendo em vista a necessidade de edi\u00e7\u00e3o de lei complementar para a institui\u00e7\u00e3o do teto previsto na CRFB/88.",
+                "pmi": [
+                    -0.061558242552919994,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [],
+        "number": "30",
+        "valid": true
+    }
+]

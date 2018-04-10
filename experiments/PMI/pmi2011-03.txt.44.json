@@ -1,1 +1,57 @@
-[{"filename": "2011-03.txt", "enum": "Homero, advogado especializado em Direito P\u00fablico, ap\u00f3s longos anos, obt\u00e9m senten\u00e7a favor\u00e1vel contra a Fazenda P\u00fablica Estadual. Requer a execu\u00e7\u00e3o especial e apresenta, ap\u00f3s o decurso normal do processo, requerimento de expedi\u00e7\u00e3o de precat\u00f3rio, estabelecendo a separa\u00e7\u00e3o do principal, direcionado ao seu cliente, dos honor\u00e1rios de sucumb\u00eancia e postulando o desconto no principal de vinte por cento a t\u00edtulo de honor\u00e1rios contratuais, cujo contrato anexa aos autos. O pedido \u00e9 deferido pelo Juiz, mas h\u00e1 recurso do Minist\u00e9rio P\u00fablico, que n\u00e3o concorda com tal desconto. De acordo com as normas estatut\u00e1rias aplic\u00e1veis, \u00e9 correto afirmar que", "number": "44", "valid": true, "options": [{"letter": "A", "text": "os honor\u00e1rios devidos no processo judicial se resumem aos sucumbenciais, vedado o desconto de quaisquer outros valores a esse t\u00edtulo.", "correct": null, "pmi": [-0.020674067693497524, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "os honor\u00e1rios advocat\u00edcios, que gozam de autonomia, quer sucumbenciais, quer contratuais, devem ser cobrados em via pr\u00f3pria diretamente ao cliente.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "\u00e9 poss\u00edvel o pagamento de honor\u00e1rios advocat\u00edcios contratuais no processo em que houve condena\u00e7\u00e3o, havendo precat\u00f3rio, desde que o contrato seja escrito.", "correct": true, "pmi": [-0.036664248959179434, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "seja o contrato escrito ou verbal, pode o advogado requerer o pagamento dos seus honor\u00e1rios contratuais mediante desconto no valor da condena\u00e7\u00e3o.", "correct": null, "pmi": [-0.039699289939766944, 0.0, 0.0, 0.0]}], "areas": ["ETHICS"]}]
+[
+    {
+        "filename": "2011-03.txt",
+        "enum": "Homero, advogado especializado em Direito P\u00fablico, ap\u00f3s longos anos, obt\u00e9m senten\u00e7a favor\u00e1vel contra a Fazenda P\u00fablica Estadual. Requer a execu\u00e7\u00e3o especial e apresenta, ap\u00f3s o decurso normal do processo, requerimento de expedi\u00e7\u00e3o de precat\u00f3rio, estabelecendo a separa\u00e7\u00e3o do principal, direcionado ao seu cliente, dos honor\u00e1rios de sucumb\u00eancia e postulando o desconto no principal de vinte por cento a t\u00edtulo de honor\u00e1rios contratuais, cujo contrato anexa aos autos. O pedido \u00e9 deferido pelo Juiz, mas h\u00e1 recurso do Minist\u00e9rio P\u00fablico, que n\u00e3o concorda com tal desconto. De acordo com as normas estatut\u00e1rias aplic\u00e1veis, \u00e9 correto afirmar que",
+        "number": "44",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "text": "os honor\u00e1rios devidos no processo judicial se resumem aos sucumbenciais, vedado o desconto de quaisquer outros valores a esse t\u00edtulo.",
+                "correct": null,
+                "pmi": [
+                    -0.020674067693497524,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "os honor\u00e1rios advocat\u00edcios, que gozam de autonomia, quer sucumbenciais, quer contratuais, devem ser cobrados em via pr\u00f3pria diretamente ao cliente.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "\u00e9 poss\u00edvel o pagamento de honor\u00e1rios advocat\u00edcios contratuais no processo em que houve condena\u00e7\u00e3o, havendo precat\u00f3rio, desde que o contrato seja escrito.",
+                "correct": true,
+                "pmi": [
+                    -0.036664248959179434,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "seja o contrato escrito ou verbal, pode o advogado requerer o pagamento dos seus honor\u00e1rios contratuais mediante desconto no valor da condena\u00e7\u00e3o.",
+                "correct": null,
+                "pmi": [
+                    -0.039699289939766944,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ]
+    }
+]

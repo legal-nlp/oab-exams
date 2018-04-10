@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "text": "O controle escrito n\u00e3o \u00e9 necess\u00e1rio, porque menos de 10 empregados trabalham na resid\u00eancia de Rog\u00e9rio.", "correct": null, "pmi": [-0.06464862277955437, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "A lei de reg\u00eancia prev\u00ea que as partes podem acertar, por escrito, a isen\u00e7\u00e3o de marca\u00e7\u00e3o da jornada normal, assinalando apenas a eventual hora extra.", "correct": null, "pmi": [-0.13058263829242733, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "A Lei \u00e9 omissa a respeito, da\u00ed por que a exist\u00eancia de controle deve ser acertado entre as partes envolvidas no momento da contrata\u00e7\u00e3o.", "correct": null, "pmi": [-0.18943579231815416, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "Rog\u00e9rio deve, por for\u00e7a de Lei, manter controle escrito dos hor\u00e1rios de entrada e sa\u00edda da empregada dom\u00e9stica.", "correct": true, "pmi": [-0.1758399983937793, 0.0, 0.0, 0.0]}], "valid": true, "number": "75", "enum": "Suely trabalha na casa de Rog\u00e9rio como cuidadora de seu pai, pessoa de idade avan\u00e7ada e enferma, comparecendo de segunda a sexta-feira, das 8:00 \u00e0s 17:00 h, com intervalo de uma hora para refei\u00e7\u00e3o.  De acordo com o caso narrado e a legisla\u00e7\u00e3o de reg\u00eancia, assinale a afirmativa correta.", "filename": "2017-22.txt", "areas": [null]}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "text": "O controle escrito n\u00e3o \u00e9 necess\u00e1rio, porque menos de 10 empregados trabalham na resid\u00eancia de Rog\u00e9rio.",
+                "correct": null,
+                "pmi": [
+                    -0.06464862277955437,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "A lei de reg\u00eancia prev\u00ea que as partes podem acertar, por escrito, a isen\u00e7\u00e3o de marca\u00e7\u00e3o da jornada normal, assinalando apenas a eventual hora extra.",
+                "correct": null,
+                "pmi": [
+                    -0.13058263829242733,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "A Lei \u00e9 omissa a respeito, da\u00ed por que a exist\u00eancia de controle deve ser acertado entre as partes envolvidas no momento da contrata\u00e7\u00e3o.",
+                "correct": null,
+                "pmi": [
+                    -0.18943579231815416,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "Rog\u00e9rio deve, por for\u00e7a de Lei, manter controle escrito dos hor\u00e1rios de entrada e sa\u00edda da empregada dom\u00e9stica.",
+                "correct": true,
+                "pmi": [
+                    -0.1758399983937793,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "number": "75",
+        "enum": "Suely trabalha na casa de Rog\u00e9rio como cuidadora de seu pai, pessoa de idade avan\u00e7ada e enferma, comparecendo de segunda a sexta-feira, das 8:00 \u00e0s 17:00 h, com intervalo de uma hora para refei\u00e7\u00e3o.  De acordo com o caso narrado e a legisla\u00e7\u00e3o de reg\u00eancia, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ]
+    }
+]

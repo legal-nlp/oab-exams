@@ -1,1 +1,57 @@
-[{"number": "25", "areas": ["CHILDREN"], "valid": true, "options": [{"letter": "A", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Jonas e Marta n\u00e3o podem adotar a crian\u00e7a, tendo em vista n\u00e3o serem casados."}, {"letter": "B", "correct": null, "pmi": [-0.14748811002919526, 0.0, 0.0, 0.0], "text": "Jonas e Marta podem adotar a crian\u00e7a mediante a lavratura de escritura p\u00fablica de ado\u00e7\u00e3o, tendo em vista ser desnecess\u00e1rio o consentimento de Felipe e de seus pais biol\u00f3gicos, bem como que os adotantes s\u00e3o companheiros, com estabilidade familiar."}, {"letter": "C", "correct": null, "pmi": [-0.03066105151054655, 0.0, 0.0, 0.0], "text": "Jonas e Marta n\u00e3o podem adotar a crian\u00e7a, tendo em vista que a diferen\u00e7a de idade entre Marta e Felipe \u00e9 de apenas dezessete anos."}, {"letter": "D", "correct": true, "pmi": [-0.1311984106453774, 0.0, 0.0, 0.0], "text": "Jonas e Marta poder\u00e3o adotar a crian\u00e7a, desde que seja instaurada a\u00e7\u00e3o judicial, sendo desnecess\u00e1rio o consentimento de Felipe e de seus pais biol\u00f3gicos."}], "filename": "2012-06a.txt", "enum": "Companheiros h\u00e1 cinco anos e com estabilidade familiar, Jonas, de trinta anos de idade, e Marta, de vinte e cinco anos de idade, conheceram, em um abrigo, Felipe, de oito anos de idade e filho de pais desconhecidos, e pretendem adot\u00e1-lo. Como advogado consultado pelo casal, assinale a alternativa correta."}]
+[
+    {
+        "number": "25",
+        "areas": [
+            "CHILDREN"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jonas e Marta n\u00e3o podem adotar a crian\u00e7a, tendo em vista n\u00e3o serem casados."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.14748811002919526,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jonas e Marta podem adotar a crian\u00e7a mediante a lavratura de escritura p\u00fablica de ado\u00e7\u00e3o, tendo em vista ser desnecess\u00e1rio o consentimento de Felipe e de seus pais biol\u00f3gicos, bem como que os adotantes s\u00e3o companheiros, com estabilidade familiar."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.03066105151054655,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jonas e Marta n\u00e3o podem adotar a crian\u00e7a, tendo em vista que a diferen\u00e7a de idade entre Marta e Felipe \u00e9 de apenas dezessete anos."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.1311984106453774,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jonas e Marta poder\u00e3o adotar a crian\u00e7a, desde que seja instaurada a\u00e7\u00e3o judicial, sendo desnecess\u00e1rio o consentimento de Felipe e de seus pais biol\u00f3gicos."
+            }
+        ],
+        "filename": "2012-06a.txt",
+        "enum": "Companheiros h\u00e1 cinco anos e com estabilidade familiar, Jonas, de trinta anos de idade, e Marta, de vinte e cinco anos de idade, conheceram, em um abrigo, Felipe, de oito anos de idade e filho de pais desconhecidos, e pretendem adot\u00e1-lo. Como advogado consultado pelo casal, assinale a alternativa correta."
+    }
+]

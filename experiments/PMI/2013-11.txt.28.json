@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Com rela\u00e7\u00e3o ao Imposto sobre a Propriedade de Ve\u00edculos Automotores (IPVA), assinale a afirmativa correta.", "filename": "2013-11.txt", "number": "28", "options": [{"correct": null, "letter": "A", "text": "\u00c9 institu\u00eddo pela Uni\u00e3o e repartido com o Estado em que tenha sido licenciado o ve\u00edculo."}, {"correct": true, "letter": "B", "text": "\u00c9 institu\u00eddo pelo Estado e repartido com o Munic\u00edpio em que tenha sido licenciado o ve\u00edculo."}, {"correct": null, "letter": "C", "text": "\u00c9 institu\u00eddo pelo Estado em que tenha sido licenciado o ve\u00edculo, que ficar\u00e1 com a integralidade do produto da arrecada\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "\u00c9 institu\u00eddo pelo Munic\u00edpio em que tenha sido licenciado o ve\u00edculo, que ficar\u00e1 com a integralidade do produto da arrecada\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao Imposto sobre a Propriedade de Ve\u00edculos Automotores (IPVA), assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "28",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00c9 institu\u00eddo pela Uni\u00e3o e repartido com o Estado em que tenha sido licenciado o ve\u00edculo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "\u00c9 institu\u00eddo pelo Estado e repartido com o Munic\u00edpio em que tenha sido licenciado o ve\u00edculo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "\u00c9 institu\u00eddo pelo Estado em que tenha sido licenciado o ve\u00edculo, que ficar\u00e1 com a integralidade do produto da arrecada\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "\u00c9 institu\u00eddo pelo Munic\u00edpio em que tenha sido licenciado o ve\u00edculo, que ficar\u00e1 com a integralidade do produto da arrecada\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

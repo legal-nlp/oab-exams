@@ -1,1 +1,57 @@
-[{"number": "11", "valid": true, "options": [{"pmi": [-0.08111236677923633, 0.0, 0.0, 0.0], "letter": "A", "text": "produto da legalidade, pois o homem probo \u00e9 o homem justo.", "correct": null}, {"pmi": [-0.20448368024360575, 0.0, 0, 0], "letter": "B", "text": "esp\u00e9cie de meio termo.", "correct": true}, {"pmi": [0.0, 0.0, 0, 0], "letter": "C", "text": "rela\u00e7\u00e3o de igualdade aritm\u00e9tica.", "correct": null}, {"pmi": [-0.15270092403466318, 0.0, 0.0, 0.0], "letter": "D", "text": "a\u00e7\u00e3o natural imut\u00e1vel.", "correct": null}], "areas": ["PHILOSOPHY"], "enum": "Considere a seguinte afirma\u00e7\u00e3o de Arist\u00f3teles:\n\n \u201cTemos pois definido o justo e o injusto. Ap\u00f3s distingui-los assim um do outro, \u00e9 evidente que a a\u00e7\u00e3o justa \u00e9 intermedi\u00e1ria entre o agir injustamente e o ser v\u00edtima da injusti\u00e7a; pois um deles \u00e9 ter demais e o outro \u00e9 ter demasiado pouco.\u201d (Arist\u00f3teles. \u00c9tica a Nic\u00f4maco. Cole\u00e7\u00e3o Os Pensadores. S\u00e3o Paulo: Abril Cultural, 1973, p. 329.)\n\n De efeito, \u00e9 correto concluir que para Arist\u00f3teles a justi\u00e7a deve sempre ser entendida como", "filename": "2013-11.txt"}]
+[
+    {
+        "number": "11",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.08111236677923633,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "produto da legalidade, pois o homem probo \u00e9 o homem justo.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.20448368024360575,
+                    0.0,
+                    0,
+                    0
+                ],
+                "letter": "B",
+                "text": "esp\u00e9cie de meio termo.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "letter": "C",
+                "text": "rela\u00e7\u00e3o de igualdade aritm\u00e9tica.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.15270092403466318,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "a\u00e7\u00e3o natural imut\u00e1vel.",
+                "correct": null
+            }
+        ],
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "enum": "Considere a seguinte afirma\u00e7\u00e3o de Arist\u00f3teles:\n\n \u201cTemos pois definido o justo e o injusto. Ap\u00f3s distingui-los assim um do outro, \u00e9 evidente que a a\u00e7\u00e3o justa \u00e9 intermedi\u00e1ria entre o agir injustamente e o ser v\u00edtima da injusti\u00e7a; pois um deles \u00e9 ter demais e o outro \u00e9 ter demasiado pouco.\u201d (Arist\u00f3teles. \u00c9tica a Nic\u00f4maco. Cole\u00e7\u00e3o Os Pensadores. S\u00e3o Paulo: Abril Cultural, 1973, p. 329.)\n\n De efeito, \u00e9 correto concluir que para Arist\u00f3teles a justi\u00e7a deve sempre ser entendida como",
+        "filename": "2013-11.txt"
+    }
+]

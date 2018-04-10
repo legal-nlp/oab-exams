@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Em rela\u00e7\u00e3o \u00e0 inova\u00e7\u00e3o da ordem constitucional que instituiu a nominada S\u00famula Vinculante, \u00e9 correto afirmar que:", "filename": "2010-02.txt", "number": "7", "options": [{"correct": null, "letter": "A", "text": "somente os Tribunais Superiores podem edit\u00e1-la."}, {"correct": null, "letter": "B", "text": "podem ser canceladas, mas vedada a mera revis\u00e3o."}, {"correct": true, "letter": "C", "text": "a proposta para edi\u00e7\u00e3o da S\u00famula pode ser provocada pelos legitimados para a propositura da a\u00e7\u00e3o direta de inconstitucionalidade."}, {"correct": null, "letter": "D", "text": "desde que haja reiteradas decis\u00f5es sobre mat\u00e9ria constitucional, o Supremo Tribunal Federal poder\u00e1, de of\u00edcio ou por provoca\u00e7\u00e3o, aprovar a S\u00famula mediante decis\u00e3o da maioria absoluta de seus membros."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Em rela\u00e7\u00e3o \u00e0 inova\u00e7\u00e3o da ordem constitucional que instituiu a nominada S\u00famula Vinculante, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "somente os Tribunais Superiores podem edit\u00e1-la."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "podem ser canceladas, mas vedada a mera revis\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "a proposta para edi\u00e7\u00e3o da S\u00famula pode ser provocada pelos legitimados para a propositura da a\u00e7\u00e3o direta de inconstitucionalidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "desde que haja reiteradas decis\u00f5es sobre mat\u00e9ria constitucional, o Supremo Tribunal Federal poder\u00e1, de of\u00edcio ou por provoca\u00e7\u00e3o, aprovar a S\u00famula mediante decis\u00e3o da maioria absoluta de seus membros."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "valid": true, "filename": "2014-14.txt", "number": "34", "options": [{"text": "O ato de improbidade pode estar configurado com a mera comunica\u00e7\u00e3o, antes da divulga\u00e7\u00e3o oficial, da medida a ser adotada pela prefeitura, que valorizar\u00e1 determinados im\u00f3veis, ainda que n\u00e3o tenha havido qualquer vantagem para Caio.", "correct": true, "letter": "A", "pmi": [-0.01332674650201255, 0.0, 0.0, 0.0]}, {"text": "A configura\u00e7\u00e3o da improbidade administrativa depende, sempre, da exist\u00eancia de enriquecimento il\u00edcito por parte de Caio ou de les\u00e3o ao er\u00e1rio, requisitos ausentes no caso concreto.", "correct": null, "letter": "B", "pmi": [-0.03708413633655972, 0.0, 0.0, 0.0]}, {"text": "Caio, caso venha a ser condenado criminalmente pela pr\u00e1tica das condutas acima descritas, n\u00e3o poder\u00e1 responder por improbidade administrativa, sob pena de haver bis in idem.", "correct": null, "letter": "C", "pmi": [-0.10733289902252104, 0.0, 0.0, 0.0]}, {"text": "Caio n\u00e3o responde por ato de improbidade, por n\u00e3o ser servidor de carreira; responde, todavia, por crime de responsabilidade, na qualidade de agente pol\u00edtico, ocupante de cargo em comiss\u00e3o.", "correct": null, "letter": "D", "pmi": [-0.08023371411618645, 0.00524156305854136, 0.0, 0.0]}], "enum": "Caio, chefe de gabinete do prefeito do munic\u00edpio X, ocupante exclusivamente de cargo em comiss\u00e3o, conhecendo os planos concretos da prefeitura para levar asfaltamento, saneamento e outras interven\u00e7\u00f5es urban\u00edsticas a um bairro mais distante, revela a alguns construtores tal fato, levando-os a adquirir numerosos terrenos naquela localidade antes que ocorresse sua valoriza\u00e7\u00e3o imobili\u00e1ria. Caio recusa, expressamente, todos os presentes enviados pelos construtores.\n\n Sobre a situa\u00e7\u00e3o hipot\u00e9tica descrita acima, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "valid": true,
+        "filename": "2014-14.txt",
+        "number": "34",
+        "options": [
+            {
+                "text": "O ato de improbidade pode estar configurado com a mera comunica\u00e7\u00e3o, antes da divulga\u00e7\u00e3o oficial, da medida a ser adotada pela prefeitura, que valorizar\u00e1 determinados im\u00f3veis, ainda que n\u00e3o tenha havido qualquer vantagem para Caio.",
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    -0.01332674650201255,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A configura\u00e7\u00e3o da improbidade administrativa depende, sempre, da exist\u00eancia de enriquecimento il\u00edcito por parte de Caio ou de les\u00e3o ao er\u00e1rio, requisitos ausentes no caso concreto.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.03708413633655972,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Caio, caso venha a ser condenado criminalmente pela pr\u00e1tica das condutas acima descritas, n\u00e3o poder\u00e1 responder por improbidade administrativa, sob pena de haver bis in idem.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.10733289902252104,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Caio n\u00e3o responde por ato de improbidade, por n\u00e3o ser servidor de carreira; responde, todavia, por crime de responsabilidade, na qualidade de agente pol\u00edtico, ocupante de cargo em comiss\u00e3o.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.08023371411618645,
+                    0.00524156305854136,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Caio, chefe de gabinete do prefeito do munic\u00edpio X, ocupante exclusivamente de cargo em comiss\u00e3o, conhecendo os planos concretos da prefeitura para levar asfaltamento, saneamento e outras interven\u00e7\u00f5es urban\u00edsticas a um bairro mais distante, revela a alguns construtores tal fato, levando-os a adquirir numerosos terrenos naquela localidade antes que ocorresse sua valoriza\u00e7\u00e3o imobili\u00e1ria. Caio recusa, expressamente, todos os presentes enviados pelos construtores.\n\n Sobre a situa\u00e7\u00e3o hipot\u00e9tica descrita acima, assinale a op\u00e7\u00e3o correta."
+    }
+]

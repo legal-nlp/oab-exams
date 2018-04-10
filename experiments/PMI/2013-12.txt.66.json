@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "A jurisprud\u00eancia un\u00edssona do Supremo Tribunal Federal admite a proibi\u00e7\u00e3o da reformatio in pejus indireta. Por este instituto entende-se que", "filename": "2013-12.txt", "number": "66", "options": [{"correct": null, "letter": "A", "text": "o Tribunal n\u00e3o poder\u00e1 agravar a pena do r\u00e9u, se somente o r\u00e9u houver recorrido \u2013 n\u00e3o havendo, portanto, recurso por parte da acusa\u00e7\u00e3o."}, {"correct": true, "letter": "B", "text": "o juiz est\u00e1 proibido de prolatar senten\u00e7a com condena\u00e7\u00e3o superior \u00e0 que foi dada no primeiro julgamento quando o Tribunal, ao julgar recurso interposto apenas pela defesa, anula a senten\u00e7a proferida pelo ju\u00edzo a quo."}, {"correct": null, "letter": "C", "text": "o Tribunal n\u00e3o poder\u00e1 tornar pior a situa\u00e7\u00e3o do r\u00e9u, quando n\u00e3o s\u00f3 o r\u00e9u houver recorrido."}, {"correct": null, "letter": "D", "text": "o Tribunal est\u00e1 proibido de exarar ac\u00f3rd\u00e3o com condena\u00e7\u00e3o superior \u00e0 que foi dada no julgamento a quo quando julga recurso da acusa\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "A jurisprud\u00eancia un\u00edssona do Supremo Tribunal Federal admite a proibi\u00e7\u00e3o da reformatio in pejus indireta. Por este instituto entende-se que",
+        "filename": "2013-12.txt",
+        "number": "66",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o Tribunal n\u00e3o poder\u00e1 agravar a pena do r\u00e9u, se somente o r\u00e9u houver recorrido \u2013 n\u00e3o havendo, portanto, recurso por parte da acusa\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "o juiz est\u00e1 proibido de prolatar senten\u00e7a com condena\u00e7\u00e3o superior \u00e0 que foi dada no primeiro julgamento quando o Tribunal, ao julgar recurso interposto apenas pela defesa, anula a senten\u00e7a proferida pelo ju\u00edzo a quo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o Tribunal n\u00e3o poder\u00e1 tornar pior a situa\u00e7\u00e3o do r\u00e9u, quando n\u00e3o s\u00f3 o r\u00e9u houver recorrido."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o Tribunal est\u00e1 proibido de exarar ac\u00f3rd\u00e3o com condena\u00e7\u00e3o superior \u00e0 que foi dada no julgamento a quo quando julga recurso da acusa\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

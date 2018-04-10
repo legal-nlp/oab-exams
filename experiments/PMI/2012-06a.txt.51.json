@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A respeito da classifica\u00e7\u00e3o dos cr\u00e9ditos na fal\u00eancia, \u00e9 correto afirmar que", "filename": "2012-06a.txt", "number": "51", "options": [{"correct": null, "letter": "A", "text": "os cr\u00e9ditos com privil\u00e9gio geral t\u00eam prefer\u00eancia sobre os cr\u00e9ditos tribut\u00e1rios."}, {"correct": null, "letter": "B", "text": "os cr\u00e9ditos quirograf\u00e1rios t\u00eam prefer\u00eancia sobre os cr\u00e9ditos com privil\u00e9gio especial."}, {"correct": null, "letter": "C", "text": "os cr\u00e9ditos com privil\u00e9gio especial t\u00eam prefer\u00eancia sobre os cr\u00e9ditos tribut\u00e1rios."}, {"correct": true, "letter": "D", "text": "os cr\u00e9ditos quirograf\u00e1rios t\u00eam prefer\u00eancia sobre os cr\u00e9ditos subordinados."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A respeito da classifica\u00e7\u00e3o dos cr\u00e9ditos na fal\u00eancia, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "os cr\u00e9ditos com privil\u00e9gio geral t\u00eam prefer\u00eancia sobre os cr\u00e9ditos tribut\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "os cr\u00e9ditos quirograf\u00e1rios t\u00eam prefer\u00eancia sobre os cr\u00e9ditos com privil\u00e9gio especial."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "os cr\u00e9ditos com privil\u00e9gio especial t\u00eam prefer\u00eancia sobre os cr\u00e9ditos tribut\u00e1rios."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "os cr\u00e9ditos quirograf\u00e1rios t\u00eam prefer\u00eancia sobre os cr\u00e9ditos subordinados."
+            }
+        ],
+        "valid": true
+    }
+]

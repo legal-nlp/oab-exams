@@ -1,1 +1,55 @@
-[{"filename": "2016-19.txt", "options": [{"text": "pelo Supremo Tribunal Federal, \u00f3rg\u00e3o competente para processar e julgar os Deputados Federais em qualquer infra\u00e7\u00e3o penal comum.", "correct": true, "letter": "A", "pmi": [-0.2398552664540459, 0.0, 0.0, 0.0]}, {"text": "pelo Tribunal do J\u00fari, \u00f3rg\u00e3o competente para julgar qualquer pessoa pela pr\u00e1tica de crime doloso contra a vida.", "correct": null, "letter": "B", "pmi": [-0.3256458688224523, 0.0, 0.0, 0.0]}, {"text": "pelo Superior Tribunal de Justi\u00e7a, \u00f3rg\u00e3o competente para processar e julgar os Deputados Federais no caso de crime doloso contra a vida.", "correct": null, "letter": "C", "pmi": [-0.36148323636062, 0.0, 0.0, 0.0]}, {"text": "pela C\u00e2mara dos Deputados, \u00f3rg\u00e3o competente para julgar os Deputados Federais por crimes de responsabilidade, considerados como tais aqueles que tenham rela\u00e7\u00e3o com o exerc\u00edcio do mandato.", "correct": null, "letter": "D", "pmi": [-0.27251707979096007, 0.0, 0.0, 0.0]}], "areas": [], "number": "15", "enum": "Ap\u00f3s ampla investiga\u00e7\u00e3o, os \u00f3rg\u00e3os competentes conclu\u00edram que o deputado federal X praticara um crime de homic\u00eddio, figurando como v\u00edtima o tamb\u00e9m deputado federal Y, seu desafeto pol\u00edtico. Esse fato, ocorrido dentro das depend\u00eancias da respectiva Casa Legislativa, despertou intenso debate a respeito de qual seria o \u00f3rg\u00e3o competente para julg\u00e1-lo.\n\n \u00c0 luz da sistem\u00e1tica constitucional, \u00e9 correto afirmar que X deve ser julgado", "valid": true}]
+[
+    {
+        "filename": "2016-19.txt",
+        "options": [
+            {
+                "text": "pelo Supremo Tribunal Federal, \u00f3rg\u00e3o competente para processar e julgar os Deputados Federais em qualquer infra\u00e7\u00e3o penal comum.",
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    -0.2398552664540459,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "pelo Tribunal do J\u00fari, \u00f3rg\u00e3o competente para julgar qualquer pessoa pela pr\u00e1tica de crime doloso contra a vida.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.3256458688224523,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "pelo Superior Tribunal de Justi\u00e7a, \u00f3rg\u00e3o competente para processar e julgar os Deputados Federais no caso de crime doloso contra a vida.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.36148323636062,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "pela C\u00e2mara dos Deputados, \u00f3rg\u00e3o competente para julgar os Deputados Federais por crimes de responsabilidade, considerados como tais aqueles que tenham rela\u00e7\u00e3o com o exerc\u00edcio do mandato.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.27251707979096007,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [],
+        "number": "15",
+        "enum": "Ap\u00f3s ampla investiga\u00e7\u00e3o, os \u00f3rg\u00e3os competentes conclu\u00edram que o deputado federal X praticara um crime de homic\u00eddio, figurando como v\u00edtima o tamb\u00e9m deputado federal Y, seu desafeto pol\u00edtico. Esse fato, ocorrido dentro das depend\u00eancias da respectiva Casa Legislativa, despertou intenso debate a respeito de qual seria o \u00f3rg\u00e3o competente para julg\u00e1-lo.\n\n \u00c0 luz da sistem\u00e1tica constitucional, \u00e9 correto afirmar que X deve ser julgado",
+        "valid": true
+    }
+]

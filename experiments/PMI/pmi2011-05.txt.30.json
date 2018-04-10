@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "valid": true, "number": "30", "filename": "2011-05.txt", "enum": "Tendo o agente p\u00fablico atuado nesta qualidade e dado causa a dano a terceiro, por dolo ou culpa, vindo a administra\u00e7\u00e3o a ser condenada, ter\u00e1 esta o direito de regresso. A respeito da a\u00e7\u00e3o regressiva, \u00e9 correto afirmar que", "options": [{"correct": true, "text": "em regra deve ser exercida, sob pena de afronta ao princ\u00edpio da indisponibilidade.", "letter": "A", "pmi": [-0.30911014316144136, 0.0, 0.0, 0.0]}, {"correct": null, "text": "o prazo prescricional tem in\u00edcio a contar do fato que gerou a a\u00e7\u00e3o indenizat\u00f3ria contra a Administra\u00e7\u00e3o.", "letter": "B", "pmi": [-0.25033442868333816, 0.0, 0.0, 0.0]}, {"correct": null, "text": "a prescri\u00e7\u00e3o ser\u00e1 decenal, com base na regra geral da legisla\u00e7\u00e3o civil.", "letter": "C", "pmi": [-0.3616985925400677, 0.0, 0.0, 0.0]}, {"correct": null, "text": "o prazo prescricional ser\u00e1 o mesmo constante da esfera penal para o tipo criminal correspondente.", "letter": "D", "pmi": [-0.32376649546689185, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "valid": true,
+        "number": "30",
+        "filename": "2011-05.txt",
+        "enum": "Tendo o agente p\u00fablico atuado nesta qualidade e dado causa a dano a terceiro, por dolo ou culpa, vindo a administra\u00e7\u00e3o a ser condenada, ter\u00e1 esta o direito de regresso. A respeito da a\u00e7\u00e3o regressiva, \u00e9 correto afirmar que",
+        "options": [
+            {
+                "correct": true,
+                "text": "em regra deve ser exercida, sob pena de afronta ao princ\u00edpio da indisponibilidade.",
+                "letter": "A",
+                "pmi": [
+                    -0.30911014316144136,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "o prazo prescricional tem in\u00edcio a contar do fato que gerou a a\u00e7\u00e3o indenizat\u00f3ria contra a Administra\u00e7\u00e3o.",
+                "letter": "B",
+                "pmi": [
+                    -0.25033442868333816,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "a prescri\u00e7\u00e3o ser\u00e1 decenal, com base na regra geral da legisla\u00e7\u00e3o civil.",
+                "letter": "C",
+                "pmi": [
+                    -0.3616985925400677,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "o prazo prescricional ser\u00e1 o mesmo constante da esfera penal para o tipo criminal correspondente.",
+                "letter": "D",
+                "pmi": [
+                    -0.32376649546689185,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

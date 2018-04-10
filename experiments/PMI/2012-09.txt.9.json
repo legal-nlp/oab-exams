@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "O advogado Jo\u00e3o, regularmente contratado para defender os interesses de Jos\u00e9 em Ju\u00edzo, realiza a defesa regular em primeiro grau, mas n\u00e3o apresenta recurso de apela\u00e7\u00e3o contra senten\u00e7a que julgou improcedente o pedido, mesmo havendo s\u00f3lida fundamenta\u00e7\u00e3o para modificar o decidido. O preju\u00edzo causado ao cliente foi de R$ 10.000,00, parcialmente coberto por seguro realizado pela sociedade de advogados integrada por Jo\u00e3o.\n\n Consoante as regras estatut\u00e1rias, os preju\u00edzos causados ao cliente acarretam a responsabilidade pessoal do s\u00f3cio advogado de forma", "filename": "2012-09.txt", "number": "9", "options": [{"correct": null, "letter": "A", "text": "limitada \u00e0 responsabilidade decorrente de contrato de seguro."}, {"correct": true, "letter": "B", "text": "ilimitada, mas subsidi\u00e1ria em rela\u00e7\u00e3o \u00e0 sociedade."}, {"correct": null, "letter": "C", "text": "limitada e principal, sendo a da sociedade subsidi\u00e1ria."}, {"correct": null, "letter": "D", "text": "ilimitada e vinculada ao resultado do processo disciplinar instaurado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Jo\u00e3o, regularmente contratado para defender os interesses de Jos\u00e9 em Ju\u00edzo, realiza a defesa regular em primeiro grau, mas n\u00e3o apresenta recurso de apela\u00e7\u00e3o contra senten\u00e7a que julgou improcedente o pedido, mesmo havendo s\u00f3lida fundamenta\u00e7\u00e3o para modificar o decidido. O preju\u00edzo causado ao cliente foi de R$ 10.000,00, parcialmente coberto por seguro realizado pela sociedade de advogados integrada por Jo\u00e3o.\n\n Consoante as regras estatut\u00e1rias, os preju\u00edzos causados ao cliente acarretam a responsabilidade pessoal do s\u00f3cio advogado de forma",
+        "filename": "2012-09.txt",
+        "number": "9",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "limitada \u00e0 responsabilidade decorrente de contrato de seguro."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "ilimitada, mas subsidi\u00e1ria em rela\u00e7\u00e3o \u00e0 sociedade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "limitada e principal, sendo a da sociedade subsidi\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "ilimitada e vinculada ao resultado do processo disciplinar instaurado."
+            }
+        ],
+        "valid": true
+    }
+]

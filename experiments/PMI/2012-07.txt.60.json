@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "John, cidad\u00e3o ingl\u00eas, capit\u00e3o de uma embarca\u00e7\u00e3o particular de bandeira americana, \u00e9 assassinado por Jos\u00e9, cidad\u00e3o brasileiro, dentro do aludido barco, que se encontrava atracado no Porto de Santos, no Estado de S\u00e3o Paulo.\n\n Nesse contexto, \u00e9 correto afirmar que a lei brasileira", "filename": "2012-07.txt", "number": "60", "options": [{"correct": null, "letter": "A", "text": "n\u00e3o \u00e9 aplic\u00e1vel, uma vez que a embarca\u00e7\u00e3o \u00e9 americana, devendo Jos\u00e9 ser processado de acordo com a lei estadunidense."}, {"correct": true, "letter": "B", "text": "\u00e9 aplic\u00e1vel, uma vez que a embarca\u00e7\u00e3o estrangeira de propriedade privada estava atracada em territ\u00f3rio nacional."}, {"correct": null, "letter": "C", "text": "\u00e9 aplic\u00e1vel, uma vez que o crime, apesar de haver sido cometido em territ\u00f3rio estrangeiro, foi praticado por brasileiro."}, {"correct": null, "letter": "D", "text": "n\u00e3o \u00e9 aplic\u00e1vel, uma vez que, de acordo com a Conven\u00e7\u00e3o de Viena, \u00e9 compet\u00eancia do Tribunal Penal Internacional processar e julgar os crimes praticados em embarca\u00e7\u00e3o estrangeira atracada em territ\u00f3rio de pa\u00eds diverso."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "John, cidad\u00e3o ingl\u00eas, capit\u00e3o de uma embarca\u00e7\u00e3o particular de bandeira americana, \u00e9 assassinado por Jos\u00e9, cidad\u00e3o brasileiro, dentro do aludido barco, que se encontrava atracado no Porto de Santos, no Estado de S\u00e3o Paulo.\n\n Nesse contexto, \u00e9 correto afirmar que a lei brasileira",
+        "filename": "2012-07.txt",
+        "number": "60",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "n\u00e3o \u00e9 aplic\u00e1vel, uma vez que a embarca\u00e7\u00e3o \u00e9 americana, devendo Jos\u00e9 ser processado de acordo com a lei estadunidense."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "\u00e9 aplic\u00e1vel, uma vez que a embarca\u00e7\u00e3o estrangeira de propriedade privada estava atracada em territ\u00f3rio nacional."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "\u00e9 aplic\u00e1vel, uma vez que o crime, apesar de haver sido cometido em territ\u00f3rio estrangeiro, foi praticado por brasileiro."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "n\u00e3o \u00e9 aplic\u00e1vel, uma vez que, de acordo com a Conven\u00e7\u00e3o de Viena, \u00e9 compet\u00eancia do Tribunal Penal Internacional processar e julgar os crimes praticados em embarca\u00e7\u00e3o estrangeira atracada em territ\u00f3rio de pa\u00eds diverso."
+            }
+        ],
+        "valid": true
+    }
+]

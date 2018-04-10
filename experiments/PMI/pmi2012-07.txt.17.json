@@ -1,1 +1,57 @@
-[{"number": "17", "areas": ["CONSTITUTIONAL"], "enum": "Em caso de vac\u00e2ncia dos cargos de Presidente da Rep\u00fablica e Vice-Presidente da Rep\u00fablica no pen\u00faltimo ano de mandato,", "filename": "2012-07.txt", "valid": true, "options": [{"text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo.", "letter": "A", "correct": null, "pmi": [-1.0863950324773846, 0.0, 0.0, 0.0]}, {"text": "o Presidente do Senado Federal assume definitivamente o cargo.", "letter": "B", "correct": null, "pmi": [-1.3020931723922071, 0.0, 0.0, 0.0]}, {"text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta.", "letter": "C", "correct": null, "pmi": [-0.30646415084724826, -0.3769918733201077, -0.02334114972046527, 0.0]}, {"text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional.", "letter": "D", "correct": true, "pmi": [-0.45171159277059264, -0.5320594888787747, -0.011670574860232635, 0.0]}]}]
+[
+    {
+        "number": "17",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Em caso de vac\u00e2ncia dos cargos de Presidente da Rep\u00fablica e Vice-Presidente da Rep\u00fablica no pen\u00faltimo ano de mandato,",
+        "filename": "2012-07.txt",
+        "valid": true,
+        "options": [
+            {
+                "text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -1.0863950324773846,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o Presidente do Senado Federal assume definitivamente o cargo.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -1.3020931723922071,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.30646415084724826,
+                    -0.3769918733201077,
+                    -0.02334114972046527,
+                    0.0
+                ]
+            },
+            {
+                "text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional.",
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.45171159277059264,
+                    -0.5320594888787747,
+                    -0.011670574860232635,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

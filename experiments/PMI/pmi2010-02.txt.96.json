@@ -1,1 +1,57 @@
-[{"areas": ["CHILDREN"], "number": "96", "options": [{"text": "A morte dos adotantes n\u00e3o restabelece o poder familiar dos pais naturais.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}, {"text": "Para viabilizar a celeridade no processo de ado\u00e7\u00e3o, a legisla\u00e7\u00e3o espec\u00edfica \u2013 ECA \u2013 admite a representa\u00e7\u00e3o do adotante por procura\u00e7\u00e3o.", "letter": "B", "pmi": [-0.028192289504466304, 0.0, 0.0, 0.0], "correct": null}, {"text": "Uma vez falecido o adotante no curso do procedimento de ado\u00e7\u00e3o e antes de prolatada a senten\u00e7a, n\u00e3o poder\u00e1 o juiz deferir a ado\u00e7\u00e3o, mesmo que tenha havido inequ\u00edvoca manifesta\u00e7\u00e3o de vontade do adotante.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Os cart\u00f3rios de registros p\u00fablicos de pessoas naturais dever\u00e3o fornecer certid\u00e3o a qualquer requisitante, independentemente, de justificativa de seu interesse, em que conste o v\u00ednculo da ado\u00e7\u00e3o constitu\u00eddo por senten\u00e7a judicial.", "letter": "D", "pmi": [-0.03733138130815322, 0.0, 0.0, 0.0], "correct": null}], "valid": true, "enum": "Tendo por substrato legal as altera\u00e7\u00f5es promovidas pela Lei n. 12.010, de 2009 no tocante \u00e0 ado\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2010-02.txt"}]
+[
+    {
+        "areas": [
+            "CHILDREN"
+        ],
+        "number": "96",
+        "options": [
+            {
+                "text": "A morte dos adotantes n\u00e3o restabelece o poder familiar dos pais naturais.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "Para viabilizar a celeridade no processo de ado\u00e7\u00e3o, a legisla\u00e7\u00e3o espec\u00edfica \u2013 ECA \u2013 admite a representa\u00e7\u00e3o do adotante por procura\u00e7\u00e3o.",
+                "letter": "B",
+                "pmi": [
+                    -0.028192289504466304,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Uma vez falecido o adotante no curso do procedimento de ado\u00e7\u00e3o e antes de prolatada a senten\u00e7a, n\u00e3o poder\u00e1 o juiz deferir a ado\u00e7\u00e3o, mesmo que tenha havido inequ\u00edvoca manifesta\u00e7\u00e3o de vontade do adotante.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Os cart\u00f3rios de registros p\u00fablicos de pessoas naturais dever\u00e3o fornecer certid\u00e3o a qualquer requisitante, independentemente, de justificativa de seu interesse, em que conste o v\u00ednculo da ado\u00e7\u00e3o constitu\u00eddo por senten\u00e7a judicial.",
+                "letter": "D",
+                "pmi": [
+                    -0.03733138130815322,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "enum": "Tendo por substrato legal as altera\u00e7\u00f5es promovidas pela Lei n. 12.010, de 2009 no tocante \u00e0 ado\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2010-02.txt"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Em raz\u00e3o de forte enchente que trouxe s\u00e9rios preju\u00edzos \u00e0 localidade, houve o encerramento das atividades da empresa Boa Vida Ltda., que teve seu estabelecimento totalmente destru\u00eddo pela for\u00e7a das \u00e1guas. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, com rela\u00e7\u00e3o aos contratos de trabalho de seus empregados, assinale a alternativa correta.", "filename": "2012-07.txt", "number": "71", "options": [{"correct": null, "letter": "A", "text": "O encerramento da atividade empresarial implicar\u00e1 a resili\u00e7\u00e3o unilateral por vontade do empregador dos contratos de trabalho de seus empregados."}, {"correct": true, "letter": "B", "text": "Os empregados t\u00eam direito \u00e0 indeniza\u00e7\u00e3o compensat\u00f3ria de 20% (vinte por cento) sobre os dep\u00f3sitos do FGTS."}, {"correct": null, "letter": "C", "text": "Os empregados n\u00e3o podem movimentar a conta vinculada do FGTS."}, {"correct": null, "letter": "D", "text": "O empregado detentor de estabilidade provis\u00f3ria por ter sido eleito representante dos empregados na Comiss\u00e3o Interna de Preven\u00e7\u00e3o de Acidentes \u2013 CIPA tem direito ao pagamento dos sal\u00e1rios do per\u00edodo compreendido entre a data da ruptura do contrato de trabalho e o final do per\u00edodo da garantia de emprego."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Em raz\u00e3o de forte enchente que trouxe s\u00e9rios preju\u00edzos \u00e0 localidade, houve o encerramento das atividades da empresa Boa Vida Ltda., que teve seu estabelecimento totalmente destru\u00eddo pela for\u00e7a das \u00e1guas. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, com rela\u00e7\u00e3o aos contratos de trabalho de seus empregados, assinale a alternativa correta.",
+        "filename": "2012-07.txt",
+        "number": "71",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O encerramento da atividade empresarial implicar\u00e1 a resili\u00e7\u00e3o unilateral por vontade do empregador dos contratos de trabalho de seus empregados."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Os empregados t\u00eam direito \u00e0 indeniza\u00e7\u00e3o compensat\u00f3ria de 20% (vinte por cento) sobre os dep\u00f3sitos do FGTS."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os empregados n\u00e3o podem movimentar a conta vinculada do FGTS."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O empregado detentor de estabilidade provis\u00f3ria por ter sido eleito representante dos empregados na Comiss\u00e3o Interna de Preven\u00e7\u00e3o de Acidentes \u2013 CIPA tem direito ao pagamento dos sal\u00e1rios do per\u00edodo compreendido entre a data da ruptura do contrato de trabalho e o final do per\u00edodo da garantia de emprego."
+            }
+        ],
+        "valid": true
+    }
+]

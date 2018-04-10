@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "As Emendas Constitucionais possuem um peculiar sistema de iniciativa. Assim, revela-se correto afirmar que poder\u00e1 surgir projeto dessa esp\u00e9cie normativa por proposta de:", "filename": "2012-07.txt", "number": "19", "areas": ["CONSTITUTIONAL"], "options": [{"correct": null, "text": "mais de dois ter\u00e7os das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a unanimidade de votos.", "letter": "A", "pmi": [-0.01728804061591687, 0.0, 0.0, 0.0]}, {"correct": null, "text": "mais de um ter\u00e7o das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a maioria simples de votos.", "letter": "B", "pmi": [-0.06252090655224887, 0.0, 0.0, 0.0]}, {"correct": true, "text": "mais da metade das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a maioria relativa de votos.", "letter": "C", "pmi": [-0.01728804061591687, 0.0, 0.0, 0.0]}, {"correct": null, "text": "mais de um ter\u00e7o das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a unanimidade de votos.", "letter": "D", "pmi": [-0.06252090655224887, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "valid": true,
+        "enum": "As Emendas Constitucionais possuem um peculiar sistema de iniciativa. Assim, revela-se correto afirmar que poder\u00e1 surgir projeto dessa esp\u00e9cie normativa por proposta de:",
+        "filename": "2012-07.txt",
+        "number": "19",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "text": "mais de dois ter\u00e7os das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a unanimidade de votos.",
+                "letter": "A",
+                "pmi": [
+                    -0.01728804061591687,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "mais de um ter\u00e7o das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a maioria simples de votos.",
+                "letter": "B",
+                "pmi": [
+                    -0.06252090655224887,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "mais da metade das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a maioria relativa de votos.",
+                "letter": "C",
+                "pmi": [
+                    -0.01728804061591687,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "mais de um ter\u00e7o das Assembleias Legislativas das unidades da Federa\u00e7\u00e3o, sendo que, em cada uma delas, deve ocorrer a unanimidade de votos.",
+                "letter": "D",
+                "pmi": [
+                    -0.06252090655224887,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Luiz Fernando, servidor p\u00fablico est\u00e1vel pertencente aos quadros de uma funda\u00e7\u00e3o p\u00fablica federal, inconformado com a pena de demiss\u00e3o que lhe foi aplicada, ajuizou a\u00e7\u00e3o judicial visando \u00e0 invalida\u00e7\u00e3o da decis\u00e3o administrativa que determinou a perda do seu cargo p\u00fablico. A decis\u00e3o judicial acolheu a pretens\u00e3o de Luiz Fernando e invalidou a penalidade disciplinar de demiss\u00e3o. Diante da situa\u00e7\u00e3o hipot\u00e9tica narrada, Luiz Fernando dever\u00e1 ser", "filename": "2012-06.txt", "number": "27", "options": [{"correct": true, "letter": "A", "text": "reintegrado ao cargo anteriormente ocupado, ou no resultante de sua transforma\u00e7\u00e3o, com ressarcimento de todas as vantagens."}, {"correct": null, "letter": "B", "text": "aproveitado no cargo anteriormente ocupado ou em outro cargo de vencimentos e responsabilidades compat\u00edveis com o anterior, sem ressarcimento das vantagens pecuni\u00e1rias."}, {"correct": null, "letter": "C", "text": "readaptado em cargo de atribui\u00e7\u00f5es e responsabilidades compat\u00edveis, com ressarcimento de todas as vantagens."}, {"correct": null, "letter": "D", "text": "reconduzido ao cargo anteriormente ocupado ou em outro de vencimentos e responsabilidades compat\u00edveis com o anterior, com ressarcimento de todas as vantagens pecuni\u00e1rias."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Luiz Fernando, servidor p\u00fablico est\u00e1vel pertencente aos quadros de uma funda\u00e7\u00e3o p\u00fablica federal, inconformado com a pena de demiss\u00e3o que lhe foi aplicada, ajuizou a\u00e7\u00e3o judicial visando \u00e0 invalida\u00e7\u00e3o da decis\u00e3o administrativa que determinou a perda do seu cargo p\u00fablico. A decis\u00e3o judicial acolheu a pretens\u00e3o de Luiz Fernando e invalidou a penalidade disciplinar de demiss\u00e3o. Diante da situa\u00e7\u00e3o hipot\u00e9tica narrada, Luiz Fernando dever\u00e1 ser",
+        "filename": "2012-06.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "reintegrado ao cargo anteriormente ocupado, ou no resultante de sua transforma\u00e7\u00e3o, com ressarcimento de todas as vantagens."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "aproveitado no cargo anteriormente ocupado ou em outro cargo de vencimentos e responsabilidades compat\u00edveis com o anterior, sem ressarcimento das vantagens pecuni\u00e1rias."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "readaptado em cargo de atribui\u00e7\u00f5es e responsabilidades compat\u00edveis, com ressarcimento de todas as vantagens."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "reconduzido ao cargo anteriormente ocupado ou em outro de vencimentos e responsabilidades compat\u00edveis com o anterior, com ressarcimento de todas as vantagens pecuni\u00e1rias."
+            }
+        ],
+        "valid": true
+    }
+]

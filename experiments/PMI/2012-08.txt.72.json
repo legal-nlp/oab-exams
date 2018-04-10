@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Segundo expressa previs\u00e3o em nossa ordem jur\u00eddica, assinale a afirmativa que indica o trabalhador que possui igualdade de direitos com os que t\u00eam v\u00ednculo empregat\u00edcio permanente.", "filename": "2012-08.txt", "number": "72", "options": [{"correct": null, "letter": "A", "text": "Trabalhador dom\u00e9stico."}, {"correct": null, "letter": "B", "text": "Trabalhador volunt\u00e1rio."}, {"correct": true, "letter": "C", "text": "Trabalhador avulso."}, {"correct": null, "letter": "D", "text": "Trabalhador eventual."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Segundo expressa previs\u00e3o em nossa ordem jur\u00eddica, assinale a afirmativa que indica o trabalhador que possui igualdade de direitos com os que t\u00eam v\u00ednculo empregat\u00edcio permanente.",
+        "filename": "2012-08.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Trabalhador dom\u00e9stico."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Trabalhador volunt\u00e1rio."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Trabalhador avulso."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Trabalhador eventual."
+            }
+        ],
+        "valid": true
+    }
+]

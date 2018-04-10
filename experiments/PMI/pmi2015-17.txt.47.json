@@ -1,1 +1,55 @@
-[{"areas": [], "valid": true, "options": [{"correct": null, "text": "A quest\u00e3o versa sobre aliena\u00e7\u00e3o fiduci\u00e1ria em garantia que transfere ao credor o dom\u00ednio resol\u00favel e a posse indireta do bem alienado, n\u00e3o havendo aplicabilidade do C\u00f3digo de Defesa do Consumidor e, portanto, nem o pedido de revis\u00e3o na hip\u00f3tese, haja vista que a quest\u00e3o jur\u00eddica est\u00e1 submetida unicamente \u00e0 leitura da norma geral civil, sem a invers\u00e3o do \u00f4nus da prova.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": null, "text": "A quest\u00e3o comporta aplica\u00e7\u00e3o do CDC, mas para propor a\u00e7\u00e3o revisional, a parte deve ingressar com medida cautelar preparat\u00f3ria de exibi\u00e7\u00e3o de documentos, sob pena de extin\u00e7\u00e3o da medida cognitiva revisional por falta de interesse de agir.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "A quest\u00e3o versa sobre aliena\u00e7\u00e3o fiduci\u00e1ria em garantia, que transfere para o devedor a posse direta do bem, tornando-o deposit\u00e1rio, motivo pelo qual a quest\u00e3o jur\u00eddica rege-se exclusivamente pelas regras impostas pelo Decreto-lei n\u00ba 911, de 1969, que estabelece normas de processo sobre aliena\u00e7\u00e3o fiduci\u00e1ria.", "pmi": [-0.010806677330345852, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": true, "text": "A quest\u00e3o comporta aplica\u00e7\u00e3o do CDC, e a a\u00e7\u00e3o revisional pode ser proposta independentemente de medida cautelar preparat\u00f3ria de exibi\u00e7\u00e3o de documentos, j\u00e1 que o pleito de exibi\u00e7\u00e3o do contrato poder\u00e1 ser formulado incidentalmente e nos pr\u00f3prios autos.", "pmi": [-0.0038461648784339684, 0.0, 0.0, 0.0], "letter": "D"}], "number": "47", "filename": "2015-17.txt", "enum": "Tommy adquiriu determinado ve\u00edculo junto a um revendedor de autom\u00f3veis usados. Para tanto, fez o pagamento de 60% do valor do bem e financiou os 40% restantes com garantia de aliena\u00e7\u00e3o fiduci\u00e1ria, junto ao banco com o qual mant\u00e9m v\u00ednculo de conta-corrente. A negocia\u00e7\u00e3o transcorreu normalmente e o ve\u00edculo foi entregue. Ocorre que Tommy, alguns meses depois, achou que a obriga\u00e7\u00e3o assumida estava lhe sendo excessivamente onerosa. Procurou ent\u00e3o voc\u00ea como advogado(a) a fim de saber se ainda assim seria poss\u00edvel questionar o neg\u00f3cio jur\u00eddico realizado e pedir revis\u00e3o do contrato que Tommy sequer possu\u00eda.\n\n A esse respeito, assinale a afirmativa correta."}]
+[
+    {
+        "areas": [],
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "text": "A quest\u00e3o versa sobre aliena\u00e7\u00e3o fiduci\u00e1ria em garantia que transfere ao credor o dom\u00ednio resol\u00favel e a posse indireta do bem alienado, n\u00e3o havendo aplicabilidade do C\u00f3digo de Defesa do Consumidor e, portanto, nem o pedido de revis\u00e3o na hip\u00f3tese, haja vista que a quest\u00e3o jur\u00eddica est\u00e1 submetida unicamente \u00e0 leitura da norma geral civil, sem a invers\u00e3o do \u00f4nus da prova.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "A quest\u00e3o comporta aplica\u00e7\u00e3o do CDC, mas para propor a\u00e7\u00e3o revisional, a parte deve ingressar com medida cautelar preparat\u00f3ria de exibi\u00e7\u00e3o de documentos, sob pena de extin\u00e7\u00e3o da medida cognitiva revisional por falta de interesse de agir.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "A quest\u00e3o versa sobre aliena\u00e7\u00e3o fiduci\u00e1ria em garantia, que transfere para o devedor a posse direta do bem, tornando-o deposit\u00e1rio, motivo pelo qual a quest\u00e3o jur\u00eddica rege-se exclusivamente pelas regras impostas pelo Decreto-lei n\u00ba 911, de 1969, que estabelece normas de processo sobre aliena\u00e7\u00e3o fiduci\u00e1ria.",
+                "pmi": [
+                    -0.010806677330345852,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "text": "A quest\u00e3o comporta aplica\u00e7\u00e3o do CDC, e a a\u00e7\u00e3o revisional pode ser proposta independentemente de medida cautelar preparat\u00f3ria de exibi\u00e7\u00e3o de documentos, j\u00e1 que o pleito de exibi\u00e7\u00e3o do contrato poder\u00e1 ser formulado incidentalmente e nos pr\u00f3prios autos.",
+                "pmi": [
+                    -0.0038461648784339684,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "number": "47",
+        "filename": "2015-17.txt",
+        "enum": "Tommy adquiriu determinado ve\u00edculo junto a um revendedor de autom\u00f3veis usados. Para tanto, fez o pagamento de 60% do valor do bem e financiou os 40% restantes com garantia de aliena\u00e7\u00e3o fiduci\u00e1ria, junto ao banco com o qual mant\u00e9m v\u00ednculo de conta-corrente. A negocia\u00e7\u00e3o transcorreu normalmente e o ve\u00edculo foi entregue. Ocorre que Tommy, alguns meses depois, achou que a obriga\u00e7\u00e3o assumida estava lhe sendo excessivamente onerosa. Procurou ent\u00e3o voc\u00ea como advogado(a) a fim de saber se ainda assim seria poss\u00edvel questionar o neg\u00f3cio jur\u00eddico realizado e pedir revis\u00e3o do contrato que Tommy sequer possu\u00eda.\n\n A esse respeito, assinale a afirmativa correta."
+    }
+]

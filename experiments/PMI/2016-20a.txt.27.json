@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "XYZ \u00e9 um estabelecimento empresarial que foi alienado e cujo adquirente continuou a explorar a mesma atividade. Considerando que tamb\u00e9m o alienante de XYZ continuou a exercer atividade empresarial no mesmo ramo de neg\u00f3cio, assinale a afirmativa correta.", "filename": "2016-20a.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "O adquirente \u00e9 integralmente respons\u00e1vel pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o do estabelecimento, sem responsabilidade do alienante."}, {"correct": null, "letter": "B", "text": "O adquirente e o alienante s\u00e3o respons\u00e1veis, cada qual, por 50% dos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o do estabelecimento."}, {"correct": null, "letter": "C", "text": "A responsabilidade pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o \u00e9 integralmente do alienante, sem responsabilidade do adquirente."}, {"correct": true, "letter": "D", "text": "Como o alienante continuou a explorar atividade empresarial, a responsabilidade do adquirente pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o \u00e9 subsidi\u00e1ria com o alienante."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "XYZ \u00e9 um estabelecimento empresarial que foi alienado e cujo adquirente continuou a explorar a mesma atividade. Considerando que tamb\u00e9m o alienante de XYZ continuou a exercer atividade empresarial no mesmo ramo de neg\u00f3cio, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O adquirente \u00e9 integralmente respons\u00e1vel pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o do estabelecimento, sem responsabilidade do alienante."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O adquirente e o alienante s\u00e3o respons\u00e1veis, cada qual, por 50% dos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o do estabelecimento."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A responsabilidade pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o \u00e9 integralmente do alienante, sem responsabilidade do adquirente."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Como o alienante continuou a explorar atividade empresarial, a responsabilidade do adquirente pelos tributos devidos at\u00e9 a data da aliena\u00e7\u00e3o \u00e9 subsidi\u00e1ria com o alienante."
+            }
+        ],
+        "valid": true
+    }
+]

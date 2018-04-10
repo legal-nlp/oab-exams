@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "options": [{"pmi": [-0.1252918564606264, 0.0, 0.0, 0.0], "text": "dever\u00e1 o ju\u00edzo criminal, de of\u00edcio, extinguir a punibilidade de M\u00e1rcio, uma vez que o delito de bigamia foi revogado.", "correct": null, "letter": "A"}, {"pmi": [-0.3997530933781366, 0.0, 0.0, 0.0], "text": "considerando-se a independ\u00eancia das inst\u00e2ncias, o processo criminal dever\u00e1 ter seguimento independentemente do desfecho da a\u00e7\u00e3o anulat\u00f3ria civil.", "correct": null, "letter": "B"}, {"pmi": [-0.23242985399715096, 0.0, 0.0, 0.0], "text": "apesar de as inst\u00e2ncias c\u00edvel e criminal serem independentes, o ju\u00edzo criminal poder\u00e1, por cautela, determinar a suspens\u00e3o da a\u00e7\u00e3o penal at\u00e9 que se resolva, no ju\u00edzo c\u00edvel, a controv\u00e9rsia relativa \u00e0 nulidade do primeiro casamento de M\u00e1rcio.", "correct": null, "letter": "C"}, {"pmi": [-0.29668705558795583, 0.0, 0.0, 0.0], "text": "a a\u00e7\u00e3o penal dever\u00e1 ser suspensa at\u00e9 que a nulidade do primeiro casamento de M\u00e1rcio seja resolvida definitivamente no ju\u00edzo c\u00edvel.", "correct": true, "letter": "D"}], "enum": "M\u00e1rcio foi denunciado pelo crime de bigamia. O advogado de defesa peticionou ao ju\u00edzo criminal requerendo a suspens\u00e3o da a\u00e7\u00e3o penal, por entender que o primeiro casamento de M\u00e1rcio padecia de nulidade, fato que gerou a\u00e7\u00e3o civil anulat\u00f3ria, em tr\u00e2mite perante o ju\u00edzo c\u00edvel da mesma comarca.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica,", "number": "95", "areas": ["CRIMINAL-PROCEDURE"], "valid": true}]
+[
+    {
+        "filename": "2010-01.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.1252918564606264,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "dever\u00e1 o ju\u00edzo criminal, de of\u00edcio, extinguir a punibilidade de M\u00e1rcio, uma vez que o delito de bigamia foi revogado.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.3997530933781366,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "considerando-se a independ\u00eancia das inst\u00e2ncias, o processo criminal dever\u00e1 ter seguimento independentemente do desfecho da a\u00e7\u00e3o anulat\u00f3ria civil.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.23242985399715096,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "apesar de as inst\u00e2ncias c\u00edvel e criminal serem independentes, o ju\u00edzo criminal poder\u00e1, por cautela, determinar a suspens\u00e3o da a\u00e7\u00e3o penal at\u00e9 que se resolva, no ju\u00edzo c\u00edvel, a controv\u00e9rsia relativa \u00e0 nulidade do primeiro casamento de M\u00e1rcio.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.29668705558795583,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a a\u00e7\u00e3o penal dever\u00e1 ser suspensa at\u00e9 que a nulidade do primeiro casamento de M\u00e1rcio seja resolvida definitivamente no ju\u00edzo c\u00edvel.",
+                "correct": true,
+                "letter": "D"
+            }
+        ],
+        "enum": "M\u00e1rcio foi denunciado pelo crime de bigamia. O advogado de defesa peticionou ao ju\u00edzo criminal requerendo a suspens\u00e3o da a\u00e7\u00e3o penal, por entender que o primeiro casamento de M\u00e1rcio padecia de nulidade, fato que gerou a\u00e7\u00e3o civil anulat\u00f3ria, em tr\u00e2mite perante o ju\u00edzo c\u00edvel da mesma comarca.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica,",
+        "number": "95",
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "valid": true
+    }
+]

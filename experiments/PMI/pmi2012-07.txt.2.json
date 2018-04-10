@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "text": "Censura, com possibilidade de convers\u00e3o em advert\u00eancia, caso o advogado infrator preste contas ao seu cliente antes do fim do processo disciplinar instaurado na OAB.", "correct": null, "letter": "A"}, {"pmi": [-0.013585355825179309, 0.0, 0.0, 0.0], "text": "Suspens\u00e3o pelo prazo de 30 (trinta) dias a 12 (doze) meses, perdurando a suspens\u00e3o at\u00e9 que o advogado satisfa\u00e7a integralmente a d\u00edvida.", "correct": true, "letter": "B"}, {"pmi": [-0.032604853980430344, 0.0, 0.0, 0.0], "text": "Suspens\u00e3o pelo prazo m\u00e1ximo de 30 (trinta) dias.", "correct": null, "letter": "C"}, {"pmi": [0.0, 0, 0, 0], "text": "Exclus\u00e3o.", "correct": null, "letter": "D"}], "enum": "Determinado advogado, valendo-se dos poderes para receber, que lhe foram outorgados pelo autor de certa demanda, promove o levantamento da quantia depositada pelo r\u00e9u e n\u00e3o presta contas ao seu cliente, apropriando-se dos valores recebidos. Por tal infra\u00e7\u00e3o disciplinar, qual a san\u00e7\u00e3o prevista no Estatuto da Advocacia e da OAB?", "valid": true, "filename": "2012-07.txt", "areas": ["ETHICS"], "number": "2"}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Censura, com possibilidade de convers\u00e3o em advert\u00eancia, caso o advogado infrator preste contas ao seu cliente antes do fim do processo disciplinar instaurado na OAB.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.013585355825179309,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Suspens\u00e3o pelo prazo de 30 (trinta) dias a 12 (doze) meses, perdurando a suspens\u00e3o at\u00e9 que o advogado satisfa\u00e7a integralmente a d\u00edvida.",
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.032604853980430344,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Suspens\u00e3o pelo prazo m\u00e1ximo de 30 (trinta) dias.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Exclus\u00e3o.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "enum": "Determinado advogado, valendo-se dos poderes para receber, que lhe foram outorgados pelo autor de certa demanda, promove o levantamento da quantia depositada pelo r\u00e9u e n\u00e3o presta contas ao seu cliente, apropriando-se dos valores recebidos. Por tal infra\u00e7\u00e3o disciplinar, qual a san\u00e7\u00e3o prevista no Estatuto da Advocacia e da OAB?",
+        "valid": true,
+        "filename": "2012-07.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "number": "2"
+    }
+]

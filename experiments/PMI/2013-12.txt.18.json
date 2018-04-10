@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Acerca do controle de constitucionalidade, assinale a alternativa INCORRETA.", "filename": "2013-12.txt", "number": "18", "options": [{"correct": true, "letter": "A", "text": "\u00c9 imposs\u00edvel o esclarecimento de mat\u00e9ria de fato em sede de A\u00e7\u00e3o Direta de   Inconstitucionalidade."}, {"correct": null, "letter": "B", "text": "A Uni\u00e3o Nacional dos Estudantes n\u00e3o tem legitimidade para propor A\u00e7\u00e3o Direta de Inconstitucionalidade."}, {"correct": null, "letter": "C", "text": "N\u00e3o se admite a desist\u00eancia ap\u00f3s a propositura da A\u00e7\u00e3o Declarat\u00f3ria de Constitucionalidade."}, {"correct": null, "letter": "D", "text": "Os efeitos da decis\u00e3o que afirma a inconstitucionalidade da norma em sede de A\u00e7\u00e3o Direta de Inconstitucionalidade, em regra, s\u00e3o ex tunc."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Acerca do controle de constitucionalidade, assinale a alternativa INCORRETA.",
+        "filename": "2013-12.txt",
+        "number": "18",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "\u00c9 imposs\u00edvel o esclarecimento de mat\u00e9ria de fato em sede de A\u00e7\u00e3o Direta de   Inconstitucionalidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A Uni\u00e3o Nacional dos Estudantes n\u00e3o tem legitimidade para propor A\u00e7\u00e3o Direta de Inconstitucionalidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o se admite a desist\u00eancia ap\u00f3s a propositura da A\u00e7\u00e3o Declarat\u00f3ria de Constitucionalidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Os efeitos da decis\u00e3o que afirma a inconstitucionalidade da norma em sede de A\u00e7\u00e3o Direta de Inconstitucionalidade, em regra, s\u00e3o ex tunc."
+            }
+        ],
+        "valid": true
+    }
+]

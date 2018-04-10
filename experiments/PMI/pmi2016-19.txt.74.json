@@ -1,1 +1,55 @@
-[{"options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Renata \u00e9 est\u00e1vel por ter sido eleita, raz\u00e3o pela qual dever\u00e1 ser reintegrada."}, {"letter": "B", "pmi": [-0.06163815313967905, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o se cogitar\u00e1 de reintegra\u00e7\u00e3o, seja do titular ou do suplente, porque esse caso n\u00e3o \u00e9 previsto na lei como gerador de estabilidade."}, {"letter": "C", "pmi": [-0.021017055390917905, 0.0, 0.0, 0.0], "correct": null, "text": "A condi\u00e7\u00e3o legal para que Renata seja est\u00e1vel \u00e9 que contraia ao menos um empr\u00e9stimo junto \u00e0 cooperativa."}, {"letter": "D", "pmi": [-0.03457313723347381, 0.0, 0.0, 0.0], "correct": true, "text": "Renata n\u00e3o ter\u00e1 garantia no emprego por ser suplente, e a estabilidade alcan\u00e7a apenas o titular."}], "number": "74", "filename": "2016-19.txt", "areas": [], "enum": "Os empregados da sociedade empres\u00e1ria ABC Ltda. criaram uma sociedade cooperativa de cr\u00e9dito que busca dar acesso a empr\u00e9stimos com juros bastante reduzidos para os pr\u00f3prios empregados da empresa ABC. Renata, que trabalha na empresa em quest\u00e3o, foi eleita diretora suplente dessa sociedade cooperativa de cr\u00e9dito e, dois meses depois, foi dispensada sem justa causa.\n\n Com base na hip\u00f3tese apresentada, de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Renata \u00e9 est\u00e1vel por ter sido eleita, raz\u00e3o pela qual dever\u00e1 ser reintegrada."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.06163815313967905,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o se cogitar\u00e1 de reintegra\u00e7\u00e3o, seja do titular ou do suplente, porque esse caso n\u00e3o \u00e9 previsto na lei como gerador de estabilidade."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.021017055390917905,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A condi\u00e7\u00e3o legal para que Renata seja est\u00e1vel \u00e9 que contraia ao menos um empr\u00e9stimo junto \u00e0 cooperativa."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.03457313723347381,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Renata n\u00e3o ter\u00e1 garantia no emprego por ser suplente, e a estabilidade alcan\u00e7a apenas o titular."
+            }
+        ],
+        "number": "74",
+        "filename": "2016-19.txt",
+        "areas": [],
+        "enum": "Os empregados da sociedade empres\u00e1ria ABC Ltda. criaram uma sociedade cooperativa de cr\u00e9dito que busca dar acesso a empr\u00e9stimos com juros bastante reduzidos para os pr\u00f3prios empregados da empresa ABC. Renata, que trabalha na empresa em quest\u00e3o, foi eleita diretora suplente dessa sociedade cooperativa de cr\u00e9dito e, dois meses depois, foi dispensada sem justa causa.\n\n Com base na hip\u00f3tese apresentada, de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.",
+        "valid": true
+    }
+]

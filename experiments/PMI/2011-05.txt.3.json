@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "A empresa Frios e Gelados S.A. promove a\u00e7\u00e3o de responsabilidade civil em face da empresa Calor e Chaud Ltda.  No curso do processo, surge decis\u00e3o judicial, atacada por recurso apresentado pelo representante judicial da empresa autora, o advogado L\u00facio. Tal recurso n\u00e3o tem previs\u00e3o legal de sustenta\u00e7\u00e3o oral. Apesar disso, o advogado comparece \u00e0 sess\u00e3o de julgamento e requer ao tribunal o tempo necess\u00e1rio para a sustenta\u00e7\u00e3o referida.\n\n Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "3", "options": [{"correct": null, "letter": "A", "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos."}, {"correct": true, "letter": "B", "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal."}, {"correct": null, "letter": "C", "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso."}, {"correct": null, "letter": "D", "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A empresa Frios e Gelados S.A. promove a\u00e7\u00e3o de responsabilidade civil em face da empresa Calor e Chaud Ltda.  No curso do processo, surge decis\u00e3o judicial, atacada por recurso apresentado pelo representante judicial da empresa autora, o advogado L\u00facio. Tal recurso n\u00e3o tem previs\u00e3o legal de sustenta\u00e7\u00e3o oral. Apesar disso, o advogado comparece \u00e0 sess\u00e3o de julgamento e requer ao tribunal o tempo necess\u00e1rio para a sustenta\u00e7\u00e3o referida.\n\n Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "3",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos."
+            }
+        ],
+        "valid": true
+    }
+]

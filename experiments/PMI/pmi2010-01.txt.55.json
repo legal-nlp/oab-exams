@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "number": "55", "filename": "2010-01.txt", "enum": "Em cada uma das op\u00e7\u00f5es abaixo, \u00e9 apresentada uma situa\u00e7\u00e3o hipot\u00e9tica, seguida de uma assertiva a ser julgada com rela\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o da administra\u00e7\u00e3o p\u00fablica. Assinale a op\u00e7\u00e3o em que a assertiva est\u00e1 correta.", "options": [{"correct": null, "letter": "A", "text": "H\u00e9lio pretende ingressar com a\u00e7\u00e3o ordin\u00e1ria de repeti\u00e7\u00e3o de ind\u00e9bito, visando \u00e0 devolu\u00e7\u00e3o do imposto de renda que fora pago, conforme alega, indevidamente. Nessa situa\u00e7\u00e3o, a a\u00e7\u00e3o dever\u00e1 ser proposta em face da Receita Federal do Brasil.", "pmi": [-0.07488583898213504, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "A Uni\u00e3o qualificou uma institui\u00e7\u00e3o privada como organiza\u00e7\u00e3o social. Nessa situa\u00e7\u00e3o, essa institui\u00e7\u00e3o passar\u00e1 a integrar a administra\u00e7\u00e3o indireta da Uni\u00e3o.", "pmi": [-0.24423472555412618, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "Jorge ingressou com reclama\u00e7\u00e3o trabalhista contra sociedade de economia mista federal exploradora de atividade econ\u00f4mica, em regime de ampla concorr\u00eancia. Nessa situa\u00e7\u00e3o, conforme o regime constitucional, os bens dessa empresa n\u00e3o podem ser penhorados, j\u00e1 que ela integra a administra\u00e7\u00e3o indireta da Uni\u00e3o.", "pmi": [-0.1347293838891683, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "Mediante previs\u00e3o do contrato de cons\u00f3rcio p\u00fablico, foi firmado contrato de programa entre a Uni\u00e3o e entidade que integra a administra\u00e7\u00e3o indireta de um estado consorciado. Nessa situa\u00e7\u00e3o, esse contrato de programa ser\u00e1 automaticamente extinto caso o contratado deixe de integrar a administra\u00e7\u00e3o indireta do estado consorciado.", "pmi": [-0.08822169297845751, 0.0, 0.0, 0.0]}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "number": "55",
+        "filename": "2010-01.txt",
+        "enum": "Em cada uma das op\u00e7\u00f5es abaixo, \u00e9 apresentada uma situa\u00e7\u00e3o hipot\u00e9tica, seguida de uma assertiva a ser julgada com rela\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o da administra\u00e7\u00e3o p\u00fablica. Assinale a op\u00e7\u00e3o em que a assertiva est\u00e1 correta.",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "H\u00e9lio pretende ingressar com a\u00e7\u00e3o ordin\u00e1ria de repeti\u00e7\u00e3o de ind\u00e9bito, visando \u00e0 devolu\u00e7\u00e3o do imposto de renda que fora pago, conforme alega, indevidamente. Nessa situa\u00e7\u00e3o, a a\u00e7\u00e3o dever\u00e1 ser proposta em face da Receita Federal do Brasil.",
+                "pmi": [
+                    -0.07488583898213504,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A Uni\u00e3o qualificou uma institui\u00e7\u00e3o privada como organiza\u00e7\u00e3o social. Nessa situa\u00e7\u00e3o, essa institui\u00e7\u00e3o passar\u00e1 a integrar a administra\u00e7\u00e3o indireta da Uni\u00e3o.",
+                "pmi": [
+                    -0.24423472555412618,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Jorge ingressou com reclama\u00e7\u00e3o trabalhista contra sociedade de economia mista federal exploradora de atividade econ\u00f4mica, em regime de ampla concorr\u00eancia. Nessa situa\u00e7\u00e3o, conforme o regime constitucional, os bens dessa empresa n\u00e3o podem ser penhorados, j\u00e1 que ela integra a administra\u00e7\u00e3o indireta da Uni\u00e3o.",
+                "pmi": [
+                    -0.1347293838891683,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Mediante previs\u00e3o do contrato de cons\u00f3rcio p\u00fablico, foi firmado contrato de programa entre a Uni\u00e3o e entidade que integra a administra\u00e7\u00e3o indireta de um estado consorciado. Nessa situa\u00e7\u00e3o, esse contrato de programa ser\u00e1 automaticamente extinto caso o contratado deixe de integrar a administra\u00e7\u00e3o indireta do estado consorciado.",
+                "pmi": [
+                    -0.08822169297845751,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true
+    }
+]

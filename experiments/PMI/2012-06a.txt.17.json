@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "A respeito da Advocacia P\u00fablica, assinale a alternativa correta.", "filename": "2012-06a.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "S\u00e3o princ\u00edpios institucionais das Procuradorias dos Estados a unidade e a indivisibilidade. Como consequ\u00eancia, \u00e9 inconstitucional lei estadual que crie Procuradoria-Geral para consultoria, assessoramento jur\u00eddico e representa\u00e7\u00e3o judicial da Assembleia Legislativa."}, {"correct": null, "letter": "B", "text": "A Advocacia-Geral da Uni\u00e3o tem por chefe o Advogado-Geral da Uni\u00e3o, nomeado pelo Presidente da Rep\u00fablica dentre integrantes da carreira, maiores de trinta e cinco anos, ap\u00f3s a aprova\u00e7\u00e3o de seu nome pela maioria absoluta do Senado Federal."}, {"correct": true, "letter": "C", "text": "Aos Procuradores dos Estados e do Distrito Federal, que ingressarem na carreira mediante concurso p\u00fablico, \u00e9 assegurada estabilidade ap\u00f3s tr\u00eas anos de efetivo exerc\u00edcio, mediante avalia\u00e7\u00e3o peri\u00f3dica de desempenho perante os \u00f3rg\u00e3os pr\u00f3prios, ap\u00f3s relat\u00f3rio circunstanciado das corregedorias."}, {"correct": null, "letter": "D", "text": "Na execu\u00e7\u00e3o da d\u00edvida ativa de natureza tribut\u00e1ria, a representa\u00e7\u00e3o da Uni\u00e3o n\u00e3o caber\u00e1 \u00e0 Procuradoria-Geral da Fazenda Nacional."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "A respeito da Advocacia P\u00fablica, assinale a alternativa correta.",
+        "filename": "2012-06a.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "S\u00e3o princ\u00edpios institucionais das Procuradorias dos Estados a unidade e a indivisibilidade. Como consequ\u00eancia, \u00e9 inconstitucional lei estadual que crie Procuradoria-Geral para consultoria, assessoramento jur\u00eddico e representa\u00e7\u00e3o judicial da Assembleia Legislativa."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A Advocacia-Geral da Uni\u00e3o tem por chefe o Advogado-Geral da Uni\u00e3o, nomeado pelo Presidente da Rep\u00fablica dentre integrantes da carreira, maiores de trinta e cinco anos, ap\u00f3s a aprova\u00e7\u00e3o de seu nome pela maioria absoluta do Senado Federal."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Aos Procuradores dos Estados e do Distrito Federal, que ingressarem na carreira mediante concurso p\u00fablico, \u00e9 assegurada estabilidade ap\u00f3s tr\u00eas anos de efetivo exerc\u00edcio, mediante avalia\u00e7\u00e3o peri\u00f3dica de desempenho perante os \u00f3rg\u00e3os pr\u00f3prios, ap\u00f3s relat\u00f3rio circunstanciado das corregedorias."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Na execu\u00e7\u00e3o da d\u00edvida ativa de natureza tribut\u00e1ria, a representa\u00e7\u00e3o da Uni\u00e3o n\u00e3o caber\u00e1 \u00e0 Procuradoria-Geral da Fazenda Nacional."
+            }
+        ],
+        "valid": true
+    }
+]

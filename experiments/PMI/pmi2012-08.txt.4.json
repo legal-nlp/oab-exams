@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "letter": "A", "text": "Militar n\u00e3o pode, enquanto permanecer na ativa, inscrever-se no quadro de advogados, mas se permite a ele a inscri\u00e7\u00e3o no quadro de estagi\u00e1rios.", "pmi": [0.005988477328991961, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "B", "text": "Militar n\u00e3o pode, enquanto na ativa, obter inscri\u00e7\u00e3o no quadro de advogados nem no quadro de estagi\u00e1rios.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "Militar da ativa pode atuar na Justi\u00e7a Militar especializada, porque se inscreve no quadro especial de estagi\u00e1rios.", "pmi": [-0.03660427116479829, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "D", "text": "Militar de alta patente pode obter inscri\u00e7\u00e3o tanto no quadro de estagi\u00e1rios como no de advogados, mediante permiss\u00e3o especial do Presidente da OAB.", "pmi": [-0.03881535039295027, 0.0, 0.0, 0.0]}], "areas": ["ETHICS"], "enum": "Jos\u00e9, general de brigada, entusiasmado com a op\u00e7\u00e3o do seu filho pelo curso de Direito, resolve acompanh\u00e1-lo nos estudos. Presta exame vestibular e matricula-se em outra institui\u00e7\u00e3o de ensino, tamb\u00e9m no curso de Direito. Ambos alcan\u00e7am o per\u00edodo letivo em que h\u00e1 necessidade de realizar o est\u00e1gio forense.\n\n Jos\u00e9, desejando acompanhar seu filho nas atividades forenses nas horas de folga, vez que continua na ativa, agora como General de Divis\u00e3o, requer o seu ingresso no quadro de estagi\u00e1rios da OAB.\n\n A partir do caso apresentado, assinale a afirmativa correta.", "filename": "2012-08.txt", "number": "4", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Militar n\u00e3o pode, enquanto permanecer na ativa, inscrever-se no quadro de advogados, mas se permite a ele a inscri\u00e7\u00e3o no quadro de estagi\u00e1rios.",
+                "pmi": [
+                    0.005988477328991961,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Militar n\u00e3o pode, enquanto na ativa, obter inscri\u00e7\u00e3o no quadro de advogados nem no quadro de estagi\u00e1rios.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Militar da ativa pode atuar na Justi\u00e7a Militar especializada, porque se inscreve no quadro especial de estagi\u00e1rios.",
+                "pmi": [
+                    -0.03660427116479829,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Militar de alta patente pode obter inscri\u00e7\u00e3o tanto no quadro de estagi\u00e1rios como no de advogados, mediante permiss\u00e3o especial do Presidente da OAB.",
+                "pmi": [
+                    -0.03881535039295027,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Jos\u00e9, general de brigada, entusiasmado com a op\u00e7\u00e3o do seu filho pelo curso de Direito, resolve acompanh\u00e1-lo nos estudos. Presta exame vestibular e matricula-se em outra institui\u00e7\u00e3o de ensino, tamb\u00e9m no curso de Direito. Ambos alcan\u00e7am o per\u00edodo letivo em que h\u00e1 necessidade de realizar o est\u00e1gio forense.\n\n Jos\u00e9, desejando acompanhar seu filho nas atividades forenses nas horas de folga, vez que continua na ativa, agora como General de Divis\u00e3o, requer o seu ingresso no quadro de estagi\u00e1rios da OAB.\n\n A partir do caso apresentado, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "4",
+        "valid": true
+    }
+]

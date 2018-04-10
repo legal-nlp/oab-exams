@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "pmi": [-0.05661410893735088, 0.0, 0.0, 0.0], "letter": "A", "text": "pela pr\u00e1tica dos crimes de embriaguez ao volante e dire\u00e7\u00e3o sem habilita\u00e7\u00e3o"}, {"correct": true, "pmi": [-0.03700483369562112, 0.0, 0.0, 0.0], "letter": "B", "text": "apenas pelo crime de embriaguez ao volante, uma vez que o fato de a habilita\u00e7\u00e3o estar vencida constitui mera infra\u00e7\u00e3o administrativa."}, {"correct": null, "pmi": [-0.017181858109130515, 0.0, 0.0, 0.0], "letter": "C", "text": "apenas pelo crime de dire\u00e7\u00e3o sem habilita\u00e7\u00e3o, uma vez que o perigo gerado por tal conduta faz com que o delito de embriaguez ao volante seja absorvido, em raz\u00e3o da aplica\u00e7\u00e3o do Princ\u00edpio da Consun\u00e7\u00e3o."}, {"correct": null, "pmi": [-0.021867819411620654, 0.0, 0.0, 0.0], "letter": "D", "text": "apenas pelo crime de dire\u00e7\u00e3o sem habilita\u00e7\u00e3o, pois o delito de embriaguez ao volante s\u00f3 se configura quando ocorre acidente de tr\u00e2nsito com v\u00edtima."}], "filename": "2011-03.txt", "valid": true, "enum": "Guiando o seu autom\u00f3vel na contram\u00e3o de dire\u00e7\u00e3o, em outubro de 2010, T\u00edcio \u00e9 perseguido por uma viatura da pol\u00edcia militar. Ap\u00f3s ser parado pelos agentes da lei, T\u00edcio realiza, espontaneamente, o exame do etil\u00f4metro e fornece aos militares sua habilita\u00e7\u00e3o e o documento do autom\u00f3vel.\n\n No exame do etil\u00f4metro, fica constatado que T\u00edcio apresentava concentra\u00e7\u00e3o de \u00e1lcool muito superior ao patamar previsto na legisla\u00e7\u00e3o de tr\u00e2nsito. Al\u00e9m disso, os policiais constatam que o motorista estava com a habilita\u00e7\u00e3o vencida desde maio de 2009.\n\n Com rela\u00e7\u00e3o ao relatado acima, \u00e9 correto afirmar que o promotor de justi\u00e7a dever\u00e1 denunciar T\u00edcio", "number": "56", "areas": ["CRIMINAL"]}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.05661410893735088,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "pela pr\u00e1tica dos crimes de embriaguez ao volante e dire\u00e7\u00e3o sem habilita\u00e7\u00e3o"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.03700483369562112,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "apenas pelo crime de embriaguez ao volante, uma vez que o fato de a habilita\u00e7\u00e3o estar vencida constitui mera infra\u00e7\u00e3o administrativa."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.017181858109130515,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "apenas pelo crime de dire\u00e7\u00e3o sem habilita\u00e7\u00e3o, uma vez que o perigo gerado por tal conduta faz com que o delito de embriaguez ao volante seja absorvido, em raz\u00e3o da aplica\u00e7\u00e3o do Princ\u00edpio da Consun\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.021867819411620654,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "apenas pelo crime de dire\u00e7\u00e3o sem habilita\u00e7\u00e3o, pois o delito de embriaguez ao volante s\u00f3 se configura quando ocorre acidente de tr\u00e2nsito com v\u00edtima."
+            }
+        ],
+        "filename": "2011-03.txt",
+        "valid": true,
+        "enum": "Guiando o seu autom\u00f3vel na contram\u00e3o de dire\u00e7\u00e3o, em outubro de 2010, T\u00edcio \u00e9 perseguido por uma viatura da pol\u00edcia militar. Ap\u00f3s ser parado pelos agentes da lei, T\u00edcio realiza, espontaneamente, o exame do etil\u00f4metro e fornece aos militares sua habilita\u00e7\u00e3o e o documento do autom\u00f3vel.\n\n No exame do etil\u00f4metro, fica constatado que T\u00edcio apresentava concentra\u00e7\u00e3o de \u00e1lcool muito superior ao patamar previsto na legisla\u00e7\u00e3o de tr\u00e2nsito. Al\u00e9m disso, os policiais constatam que o motorista estava com a habilita\u00e7\u00e3o vencida desde maio de 2009.\n\n Com rela\u00e7\u00e3o ao relatado acima, \u00e9 correto afirmar que o promotor de justi\u00e7a dever\u00e1 denunciar T\u00edcio",
+        "number": "56",
+        "areas": [
+            "CRIMINAL"
+        ]
+    }
+]

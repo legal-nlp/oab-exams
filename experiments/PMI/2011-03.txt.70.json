@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Em se tratando de sal\u00e1rio e remunera\u00e7\u00e3o, \u00e9 correto afirmar que", "filename": "2011-03.txt", "number": "70", "options": [{"correct": null, "letter": "A", "text": "o sal\u00e1rio-maternidade tem natureza salarial."}, {"correct": null, "letter": "B", "text": "as gorjetas integram a base de c\u00e1lculo do aviso pr\u00e9vio, das horas extraordin\u00e1rias, do adicional noturno e do repouso semanal remunerado."}, {"correct": null, "letter": "C", "text": "o plano de sa\u00fade fornecido pelo empregador ao empregado, em raz\u00e3o de seu car\u00e1ter contraprestativo, consiste em sal\u00e1rio in natura."}, {"correct": true, "letter": "D", "text": "a parcela de participa\u00e7\u00e3o nos lucros ou resultados, habitualmente paga, n\u00e3o integra a remunera\u00e7\u00e3o do empregado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Em se tratando de sal\u00e1rio e remunera\u00e7\u00e3o, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "70",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o sal\u00e1rio-maternidade tem natureza salarial."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "as gorjetas integram a base de c\u00e1lculo do aviso pr\u00e9vio, das horas extraordin\u00e1rias, do adicional noturno e do repouso semanal remunerado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o plano de sa\u00fade fornecido pelo empregador ao empregado, em raz\u00e3o de seu car\u00e1ter contraprestativo, consiste em sal\u00e1rio in natura."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "a parcela de participa\u00e7\u00e3o nos lucros ou resultados, habitualmente paga, n\u00e3o integra a remunera\u00e7\u00e3o do empregado."
+            }
+        ],
+        "valid": true
+    }
+]

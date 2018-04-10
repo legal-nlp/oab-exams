@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "A advogada L\u00facia dirigiu-se ao cart\u00f3rio de determinada Vara C\u00edvel, com o objetivo de retirar os autos dos processos 1, 2 e 3 para consulta. Quanto ao processo 1, j\u00e1 findo, n\u00e3o foi autorizada a retirada porque havia sido decretado segredo de justi\u00e7a e L\u00facia n\u00e3o havia atuado no feito. No que se refere ao processo 2, ainda em tr\u00e2mite, n\u00e3o foi permitida a retirada, pois L\u00facia, advogada do r\u00e9u, j\u00e1 havia deixado anteriormente de devolver os autos no prazo legal, s\u00f3 o fazendo depois de intimada. J\u00e1 quanto ao processo 3, tamb\u00e9m findo, n\u00e3o foi concedida a retirada sob a justificativa de que existiam nos autos documentos originais de dif\u00edcil restaura\u00e7\u00e3o.\n\n Sobre o caso narrado, assinale a op\u00e7\u00e3o correta.", "filename": "2016-20a.txt", "number": "6", "options": [{"correct": null, "letter": "A", "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o dos motivos declinados quanto aos processos 1 e 2. No que se refere ao processo 3, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."}, {"correct": null, "letter": "B", "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o dos motivos declinados quanto aos processos 1 e 3. No que se refere ao processo 2, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."}, {"correct": true, "letter": "C", "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos em raz\u00e3o dos motivos declinados quanto aos processos 1 , 2 e 3. N\u00e3o houve indevida viola\u00e7\u00e3o do direito de L\u00facia."}, {"correct": null, "letter": "D", "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o do motivo declinado quanto ao processo 1. No que se refere aos processos 2 e 3, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "A advogada L\u00facia dirigiu-se ao cart\u00f3rio de determinada Vara C\u00edvel, com o objetivo de retirar os autos dos processos 1, 2 e 3 para consulta. Quanto ao processo 1, j\u00e1 findo, n\u00e3o foi autorizada a retirada porque havia sido decretado segredo de justi\u00e7a e L\u00facia n\u00e3o havia atuado no feito. No que se refere ao processo 2, ainda em tr\u00e2mite, n\u00e3o foi permitida a retirada, pois L\u00facia, advogada do r\u00e9u, j\u00e1 havia deixado anteriormente de devolver os autos no prazo legal, s\u00f3 o fazendo depois de intimada. J\u00e1 quanto ao processo 3, tamb\u00e9m findo, n\u00e3o foi concedida a retirada sob a justificativa de que existiam nos autos documentos originais de dif\u00edcil restaura\u00e7\u00e3o.\n\n Sobre o caso narrado, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2016-20a.txt",
+        "number": "6",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o dos motivos declinados quanto aos processos 1 e 2. No que se refere ao processo 3, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o dos motivos declinados quanto aos processos 1 e 3. No que se refere ao processo 2, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos em raz\u00e3o dos motivos declinados quanto aos processos 1 , 2 e 3. N\u00e3o houve indevida viola\u00e7\u00e3o do direito de L\u00facia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "\u00c9 excepcionado o direito do advogado \u00e0 retirada dos autos apenas em raz\u00e3o do motivo declinado quanto ao processo 1. No que se refere aos processos 2 e 3, houve indevida viola\u00e7\u00e3o do direito de L\u00facia."
+            }
+        ],
+        "valid": true
+    }
+]

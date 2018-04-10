@@ -1,1 +1,57 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "options": [{"pmi": [-0.2733017569781742, 0.0, 0.0, 0.0], "text": "erroneamente, tendo em vista a Lei Processual admite a a\u00e7\u00e3o privada nos crimes de a\u00e7\u00e3o p\u00fablica quando esta n\u00e3o for intentada.", "correct": null, "letter": "A"}, {"pmi": [-0.15989634251784876, 0.0, 0.0, 0.0], "text": "corretamente, pois a v\u00edtima n\u00e3o tem legitimidade para ajuizar a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.", "correct": null, "letter": "B"}, {"pmi": [-0.2574623105674853, 0.0, 0.0, 0.0], "text": "corretamente, j\u00e1 que a Lei Processual n\u00e3o admite a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica nos casos em que o Minist\u00e9rio P\u00fablico n\u00e3o se mant\u00e9m inerte.", "correct": true, "letter": "C"}, {"pmi": [-0.2538547197501758, 0.0, 0.0, 0.0], "text": "erroneamente, j\u00e1 que a Lei Processual admite, implicitamente, a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.", "correct": null, "letter": "D"}], "filename": "2012-06.txt", "number": "65", "valid": true, "enum": "T\u00edcio est\u00e1 sendo investigado pela pr\u00e1tica do delito de roubo simples, tipificado no artigo 157, caput, do C\u00f3digo Penal. Conclu\u00edda a investiga\u00e7\u00e3o, o Delegado Titular da 41\u00aa Delegacia Policial envia os autos ao Minist\u00e9rio P\u00fablico, a fim de que este tome as provid\u00eancias que entender cab\u00edveis. O Parquet, ap\u00f3s a an\u00e1lise dos autos, decide pelo arquivamento do feito, por faltas de provas de autoria. A v\u00edtima ingressou em ju\u00edzo com uma a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica, que foi rejeitada pelo juiz da causa, que, no caso acima, agiu"}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.2733017569781742,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "erroneamente, tendo em vista a Lei Processual admite a a\u00e7\u00e3o privada nos crimes de a\u00e7\u00e3o p\u00fablica quando esta n\u00e3o for intentada.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.15989634251784876,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "corretamente, pois a v\u00edtima n\u00e3o tem legitimidade para ajuizar a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.2574623105674853,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "corretamente, j\u00e1 que a Lei Processual n\u00e3o admite a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica nos casos em que o Minist\u00e9rio P\u00fablico n\u00e3o se mant\u00e9m inerte.",
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.2538547197501758,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "erroneamente, j\u00e1 que a Lei Processual admite, implicitamente, a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "filename": "2012-06.txt",
+        "number": "65",
+        "valid": true,
+        "enum": "T\u00edcio est\u00e1 sendo investigado pela pr\u00e1tica do delito de roubo simples, tipificado no artigo 157, caput, do C\u00f3digo Penal. Conclu\u00edda a investiga\u00e7\u00e3o, o Delegado Titular da 41\u00aa Delegacia Policial envia os autos ao Minist\u00e9rio P\u00fablico, a fim de que este tome as provid\u00eancias que entender cab\u00edveis. O Parquet, ap\u00f3s a an\u00e1lise dos autos, decide pelo arquivamento do feito, por faltas de provas de autoria. A v\u00edtima ingressou em ju\u00edzo com uma a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica, que foi rejeitada pelo juiz da causa, que, no caso acima, agiu"
+    }
+]

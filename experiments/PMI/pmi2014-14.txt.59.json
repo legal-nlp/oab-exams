@@ -1,1 +1,57 @@
-[{"options": [{"text": "Difama\u00e7\u00e3o, previsto no C\u00f3digo Eleitoral.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": true}, {"text": "Difama\u00e7\u00e3o, previsto no C\u00f3digo Penal.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "Inj\u00faria, previsto no C\u00f3digo Eleitoral.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "Inj\u00faria, previsto no C\u00f3digo Penal.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "number": "59", "valid": true, "filename": "2014-14.txt", "areas": ["CRIMINAL"], "enum": "Jaime, candidato \u00e0 prefeitura da cidade X, durante o hor\u00e1rio de propaganda eleitoral em rede televisiva, proferiu as seguintes palavras: \u201cO atual prefeito e candidato \u00e0 reelei\u00e7\u00e3o, que se mostra defensor da fam\u00edlia, posando com esposa e filhos para fotos, foi flagrado na semana passada entrando em um motel com uma prostituta! \u00c9 esse tipo de governante que voc\u00ea quer?\u201d.\n\n A partir do caso exposto, assinale a op\u00e7\u00e3o que indica o delito praticado por Jaime."}]
+[
+    {
+        "options": [
+            {
+                "text": "Difama\u00e7\u00e3o, previsto no C\u00f3digo Eleitoral.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "text": "Difama\u00e7\u00e3o, previsto no C\u00f3digo Penal.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "Inj\u00faria, previsto no C\u00f3digo Eleitoral.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "Inj\u00faria, previsto no C\u00f3digo Penal.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "number": "59",
+        "valid": true,
+        "filename": "2014-14.txt",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Jaime, candidato \u00e0 prefeitura da cidade X, durante o hor\u00e1rio de propaganda eleitoral em rede televisiva, proferiu as seguintes palavras: \u201cO atual prefeito e candidato \u00e0 reelei\u00e7\u00e3o, que se mostra defensor da fam\u00edlia, posando com esposa e filhos para fotos, foi flagrado na semana passada entrando em um motel com uma prostituta! \u00c9 esse tipo de governante que voc\u00ea quer?\u201d.\n\n A partir do caso exposto, assinale a op\u00e7\u00e3o que indica o delito praticado por Jaime."
+    }
+]

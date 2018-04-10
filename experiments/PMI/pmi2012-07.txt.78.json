@@ -1,1 +1,57 @@
-[{"enum": "Com rela\u00e7\u00e3o aos recursos no direito processual do trabalho, \u00e9 correto afirmar que", "filename": "2012-07.txt", "number": "78", "options": [{"pmi": [-0.13434314226172053, 0.0, 0.0, 0.0], "text": "cabe a interposi\u00e7\u00e3o de recurso de revista em face de ac\u00f3rd\u00e3o regional proferido em agravo de instrumento.", "letter": "A", "correct": null}, {"pmi": [-0.2062615348453767, 0.0, 0.0, 0.0], "text": "o recurso adesivo \u00e9 compat\u00edvel com o processo do trabalho e cabe, no prazo de 8 (oito) dias, nas hip\u00f3teses de interposi\u00e7\u00e3o de recurso ordin\u00e1rio, de agravo de peti\u00e7\u00e3o, de revista e de embargos, sendo necess\u00e1rio que a mat\u00e9ria nele veiculada esteja relacionada com a do recurso interposto pela parte contr\u00e1ria.", "letter": "B", "correct": null}, {"pmi": [-0.10334087866286194, 0.0, 0.0, 0.0], "text": "s\u00e3o incab\u00edveis embargos de declara\u00e7\u00e3o opostos em face de decis\u00e3o de admissibilidade do recurso de revista, n\u00e3o interrompendo sua interposi\u00e7\u00e3o qualquer prazo recursal.", "letter": "C", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "na Justi\u00e7a do Trabalho todas as decis\u00f5es interlocut\u00f3rias s\u00e3o irrecorr\u00edveis de imediato.", "letter": "D", "correct": null}], "areas": ["LABOUR-PROCEDURE"], "valid": true}]
+[
+    {
+        "enum": "Com rela\u00e7\u00e3o aos recursos no direito processual do trabalho, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "78",
+        "options": [
+            {
+                "pmi": [
+                    -0.13434314226172053,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "cabe a interposi\u00e7\u00e3o de recurso de revista em face de ac\u00f3rd\u00e3o regional proferido em agravo de instrumento.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.2062615348453767,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o recurso adesivo \u00e9 compat\u00edvel com o processo do trabalho e cabe, no prazo de 8 (oito) dias, nas hip\u00f3teses de interposi\u00e7\u00e3o de recurso ordin\u00e1rio, de agravo de peti\u00e7\u00e3o, de revista e de embargos, sendo necess\u00e1rio que a mat\u00e9ria nele veiculada esteja relacionada com a do recurso interposto pela parte contr\u00e1ria.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.10334087866286194,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00e3o incab\u00edveis embargos de declara\u00e7\u00e3o opostos em face de decis\u00e3o de admissibilidade do recurso de revista, n\u00e3o interrompendo sua interposi\u00e7\u00e3o qualquer prazo recursal.",
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "na Justi\u00e7a do Trabalho todas as decis\u00f5es interlocut\u00f3rias s\u00e3o irrecorr\u00edveis de imediato.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "valid": true
+    }
+]

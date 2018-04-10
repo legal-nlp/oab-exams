@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Em rela\u00e7\u00e3o ao incidente de falsidade, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "67", "options": [{"correct": true, "letter": "A", "text": "se reconhecida a falsidade por decis\u00e3o irrecorr\u00edvel, mandar\u00e1 desentranhar o documento e remet\u00ea-lo, com os autos do processo incidente, ao Minist\u00e9rio P\u00fablico."}, {"correct": null, "letter": "B", "text": "arguida, por escrito, a falsidade de documento constante dos autos, o juiz observar\u00e1 o seguinte processo: mandar\u00e1 autuar em apartado a impugna\u00e7\u00e3o e em seguida ouvir\u00e1 a parte contr\u00e1ria, que, num prazo de 24 (vinte a quatro) horas, oferecer\u00e1 resposta."}, {"correct": null, "letter": "C", "text": "a argui\u00e7\u00e3o de falsidade, feita por procurador, n\u00e3o exige poderes especiais."}, {"correct": null, "letter": "D", "text": "o juiz n\u00e3o poder\u00e1, de of\u00edcio, proceder \u00e0 verifica\u00e7\u00e3o da falsidade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Em rela\u00e7\u00e3o ao incidente de falsidade, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "67",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "se reconhecida a falsidade por decis\u00e3o irrecorr\u00edvel, mandar\u00e1 desentranhar o documento e remet\u00ea-lo, com os autos do processo incidente, ao Minist\u00e9rio P\u00fablico."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "arguida, por escrito, a falsidade de documento constante dos autos, o juiz observar\u00e1 o seguinte processo: mandar\u00e1 autuar em apartado a impugna\u00e7\u00e3o e em seguida ouvir\u00e1 a parte contr\u00e1ria, que, num prazo de 24 (vinte a quatro) horas, oferecer\u00e1 resposta."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a argui\u00e7\u00e3o de falsidade, feita por procurador, n\u00e3o exige poderes especiais."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o juiz n\u00e3o poder\u00e1, de of\u00edcio, proceder \u00e0 verifica\u00e7\u00e3o da falsidade."
+            }
+        ],
+        "valid": true
+    }
+]

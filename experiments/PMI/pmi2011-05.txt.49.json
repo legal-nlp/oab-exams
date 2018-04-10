@@ -1,1 +1,57 @@
-[{"filename": "2011-05.txt", "valid": true, "options": [{"correct": true, "pmi": [-0.012181064210829524, 0.0, 0.0, 0.0], "text": "Valores mobili\u00e1rios s\u00e3o t\u00edtulos que concedem a seu titular certos direitos em rela\u00e7\u00e3o \u00e0 companhia. S\u00e3o exemplos de valores mobili\u00e1rios as a\u00e7\u00f5es, as deb\u00eantures, os b\u00f4nus de subscri\u00e7\u00e3o e o certificado de valores mobili\u00e1rios.", "letter": "A"}, {"correct": null, "pmi": [0.007286322244763569, 0.0, 0.0, 0.0], "text": "O Mercado de Valores Mobili\u00e1rios (MVM) compreende as bolsas de valores, o mercado de balc\u00e3o e o mercado de balc\u00e3o organizado. Para a companhia poder negociar no MVM, dever\u00e1 preencher certos requisitos e obter autoriza\u00e7\u00e3o da Comiss\u00e3o de Valores Mobili\u00e1rios e da Junta Comercial.", "letter": "B"}, {"correct": null, "pmi": [-0.09026663643011669, 0.0, 0.0, 0.0], "text": "As companhias abertas, caso queiram negociar suas a\u00e7\u00f5es, devem sempre faz\u00ea-lo por meio do mercado de valores mobili\u00e1rios, ou seja, suas negocia\u00e7\u00f5es ser\u00e3o sempre por oferta ao p\u00fablico em geral.", "letter": "C"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Partes benefici\u00e1rias s\u00e3o t\u00edtulos emitidos tanto pela companhia aberta quanto pela fechada que d\u00e3o a seu titular direito a percentual no lucro da companhia.", "letter": "D"}], "enum": "Conforme art. 4\u00ba da Lei 6404/76, as companhias podem ser classificadas em abertas ou fechadas, dependendo se seus valores mobili\u00e1rios podem ou n\u00e3o ser negociados no Mercado de Valores Mobili\u00e1rios. Em rela\u00e7\u00e3o aos valores mobili\u00e1rios das companhias abertas e fechadas, assinale a alternativa correta.", "number": "49", "areas": ["BUSINESS"]}]
+[
+    {
+        "filename": "2011-05.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    -0.012181064210829524,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Valores mobili\u00e1rios s\u00e3o t\u00edtulos que concedem a seu titular certos direitos em rela\u00e7\u00e3o \u00e0 companhia. S\u00e3o exemplos de valores mobili\u00e1rios as a\u00e7\u00f5es, as deb\u00eantures, os b\u00f4nus de subscri\u00e7\u00e3o e o certificado de valores mobili\u00e1rios.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.007286322244763569,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Mercado de Valores Mobili\u00e1rios (MVM) compreende as bolsas de valores, o mercado de balc\u00e3o e o mercado de balc\u00e3o organizado. Para a companhia poder negociar no MVM, dever\u00e1 preencher certos requisitos e obter autoriza\u00e7\u00e3o da Comiss\u00e3o de Valores Mobili\u00e1rios e da Junta Comercial.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.09026663643011669,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "As companhias abertas, caso queiram negociar suas a\u00e7\u00f5es, devem sempre faz\u00ea-lo por meio do mercado de valores mobili\u00e1rios, ou seja, suas negocia\u00e7\u00f5es ser\u00e3o sempre por oferta ao p\u00fablico em geral.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Partes benefici\u00e1rias s\u00e3o t\u00edtulos emitidos tanto pela companhia aberta quanto pela fechada que d\u00e3o a seu titular direito a percentual no lucro da companhia.",
+                "letter": "D"
+            }
+        ],
+        "enum": "Conforme art. 4\u00ba da Lei 6404/76, as companhias podem ser classificadas em abertas ou fechadas, dependendo se seus valores mobili\u00e1rios podem ou n\u00e3o ser negociados no Mercado de Valores Mobili\u00e1rios. Em rela\u00e7\u00e3o aos valores mobili\u00e1rios das companhias abertas e fechadas, assinale a alternativa correta.",
+        "number": "49",
+        "areas": [
+            "BUSINESS"
+        ]
+    }
+]

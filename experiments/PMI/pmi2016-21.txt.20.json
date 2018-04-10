@@ -1,1 +1,55 @@
-[{"options": [{"letter": "A", "text": "O problema \u00e9 pol\u00edtico e n\u00e3o jur\u00eddico. Jos\u00e9 deve ser aconselhado a refor\u00e7ar sua campanha, a apresentar suas propostas aos eleitores e mostrar que sempre foi um cidad\u00e3o ativo, de maneira a demonstrar que tem plena condi\u00e7\u00e3o para o exerc\u00edcio de um eventual mandato, apesar de sua defici\u00eancia.", "correct": null, "pmi": [-0.016333815538006384, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "A an\u00e1lise jur\u00eddica revela um problema restrito ao campo do Direito Civil. O fato \u00e9 que o desafeto de Jos\u00e9 n\u00e3o o impediu de candidatar-se, assim n\u00e3o houve discrimina\u00e7\u00e3o. O procedimento deve ser caracterizado apenas como dano moral, uma vez que Jos\u00e9 teve sua dignidade atacada.", "correct": null, "pmi": [-0.0156215847245571, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "O fato evidencia crime de incita\u00e7\u00e3o \u00e0 discrimina\u00e7\u00e3o de pessoa em raz\u00e3o de defici\u00eancia, com o agravante de ter sido cometido em meio de comunica\u00e7\u00e3o, independentemente da caracteriza\u00e7\u00e3o ou n\u00e3o de dano moral.", "correct": true, "pmi": [-0.009177444938604807, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "O caso \u00e9 t\u00edpico de colis\u00e3o de princ\u00edpios em que, de um lado, est\u00e1 o princ\u00edpio da dignidade da pessoa humana e, do outro, o princ\u00edpio da liberdade de express\u00e3o. Mas n\u00e3o h\u00e1 caracteriza\u00e7\u00e3o de il\u00edcito civil nem de il\u00edcito penal.", "correct": null, "pmi": [-0.010006474914818712, 0.0, 0.0, 0.0]}], "valid": true, "areas": [], "number": "20", "filename": "2016-21.txt", "enum": "Voc\u00ea, na condi\u00e7\u00e3o de advogado(a) comprometido com os Direitos Humanos, foi procurado por Jos\u00e9, que \u00e9 parapl\u00e9gico e candidato a vereador. A partir de den\u00fancia feita por ele, voc\u00ea constatou que um outro candidato e desafeto de Jos\u00e9, tem afirmado, em programa de r\u00e1dio local, que n\u00e3o obstante Jos\u00e9 ser boa pessoa, o fato de ser deficiente o impede de exercer o mandato de forma plena, raz\u00e3o pela qual ele nem deveria ter a candidatura homologada pelo TRE.\n\n Com base na hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que apresenta a resposta que, juridicamente, melhor caracteriza a situa\u00e7\u00e3o."}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "text": "O problema \u00e9 pol\u00edtico e n\u00e3o jur\u00eddico. Jos\u00e9 deve ser aconselhado a refor\u00e7ar sua campanha, a apresentar suas propostas aos eleitores e mostrar que sempre foi um cidad\u00e3o ativo, de maneira a demonstrar que tem plena condi\u00e7\u00e3o para o exerc\u00edcio de um eventual mandato, apesar de sua defici\u00eancia.",
+                "correct": null,
+                "pmi": [
+                    -0.016333815538006384,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "A an\u00e1lise jur\u00eddica revela um problema restrito ao campo do Direito Civil. O fato \u00e9 que o desafeto de Jos\u00e9 n\u00e3o o impediu de candidatar-se, assim n\u00e3o houve discrimina\u00e7\u00e3o. O procedimento deve ser caracterizado apenas como dano moral, uma vez que Jos\u00e9 teve sua dignidade atacada.",
+                "correct": null,
+                "pmi": [
+                    -0.0156215847245571,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "O fato evidencia crime de incita\u00e7\u00e3o \u00e0 discrimina\u00e7\u00e3o de pessoa em raz\u00e3o de defici\u00eancia, com o agravante de ter sido cometido em meio de comunica\u00e7\u00e3o, independentemente da caracteriza\u00e7\u00e3o ou n\u00e3o de dano moral.",
+                "correct": true,
+                "pmi": [
+                    -0.009177444938604807,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "O caso \u00e9 t\u00edpico de colis\u00e3o de princ\u00edpios em que, de um lado, est\u00e1 o princ\u00edpio da dignidade da pessoa humana e, do outro, o princ\u00edpio da liberdade de express\u00e3o. Mas n\u00e3o h\u00e1 caracteriza\u00e7\u00e3o de il\u00edcito civil nem de il\u00edcito penal.",
+                "correct": null,
+                "pmi": [
+                    -0.010006474914818712,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "areas": [],
+        "number": "20",
+        "filename": "2016-21.txt",
+        "enum": "Voc\u00ea, na condi\u00e7\u00e3o de advogado(a) comprometido com os Direitos Humanos, foi procurado por Jos\u00e9, que \u00e9 parapl\u00e9gico e candidato a vereador. A partir de den\u00fancia feita por ele, voc\u00ea constatou que um outro candidato e desafeto de Jos\u00e9, tem afirmado, em programa de r\u00e1dio local, que n\u00e3o obstante Jos\u00e9 ser boa pessoa, o fato de ser deficiente o impede de exercer o mandato de forma plena, raz\u00e3o pela qual ele nem deveria ter a candidatura homologada pelo TRE.\n\n Com base na hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que apresenta a resposta que, juridicamente, melhor caracteriza a situa\u00e7\u00e3o."
+    }
+]

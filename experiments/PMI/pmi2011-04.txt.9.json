@@ -1,1 +1,57 @@
-[{"number": "9", "areas": ["ETHICS"], "valid": true, "enum": "A prescri\u00e7\u00e3o para a cobran\u00e7a de honor\u00e1rios advocat\u00edcios tem como termo inicial, consoante as normas estatut\u00e1rias,", "options": [{"letter": "A", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "o in\u00edcio do contrato de presta\u00e7\u00e3o de servi\u00e7os."}, {"letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "a senten\u00e7a que julga procedente o pedido em favor do cliente do advogado."}, {"letter": "C", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "a data da revoga\u00e7\u00e3o do mandato."}, {"letter": "D", "correct": null, "pmi": [0.0, 0.0, 0, 0], "text": "o dia do primeiro ato extrajudicial."}], "filename": "2011-04.txt"}]
+[
+    {
+        "number": "9",
+        "areas": [
+            "ETHICS"
+        ],
+        "valid": true,
+        "enum": "A prescri\u00e7\u00e3o para a cobran\u00e7a de honor\u00e1rios advocat\u00edcios tem como termo inicial, consoante as normas estatut\u00e1rias,",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o in\u00edcio do contrato de presta\u00e7\u00e3o de servi\u00e7os."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a senten\u00e7a que julga procedente o pedido em favor do cliente do advogado."
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a data da revoga\u00e7\u00e3o do mandato."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "o dia do primeiro ato extrajudicial."
+            }
+        ],
+        "filename": "2011-04.txt"
+    }
+]

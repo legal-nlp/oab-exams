@@ -1,1 +1,57 @@
-[{"areas": ["PHILOSOPHY"], "filename": "2015-18.txt", "enum": "Segundo o jusfil\u00f3sofo alem\u00e3o Karl Larenz, os textos jur\u00eddicos s\u00e3o problematiz\u00e1veis porque est\u00e3o redigidos em linguagem corrente ou em linguagem especializada, mas que, de todo modo, cont\u00eam express\u00f5es que apresentam uma margem de variabilidade de significa\u00e7\u00e3o. Nesse sentido, assinale a op\u00e7\u00e3o que exprime o pensamento desse autor acerca da ideia de interpreta\u00e7\u00e3o da lei.", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "text": "Deve-se aceitar que os textos jur\u00eddicos apenas carecem de interpreta\u00e7\u00e3o quando surgem particularmente como obscuros, pouco claros ou contradit\u00f3rios.", "letter": "A", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "Interpretar um texto significa alcan\u00e7ar o \u00fanico sentido poss\u00edvel de uma norma conforme a inten\u00e7\u00e3o que a ela foi dada pelo legislador.", "letter": "B", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "Os textos jur\u00eddicos, em princ\u00edpio, s\u00e3o suscet\u00edveis e carecem de interpreta\u00e7\u00e3o porque toda linguagem \u00e9 pass\u00edvel de adequa\u00e7\u00e3o a cada situa\u00e7\u00e3o.", "letter": "C", "correct": true}, {"pmi": [-0.11323792308305428, 0.0, 0.0, 0.0], "text": "A interpreta\u00e7\u00e3o dada por uma autoridade judicial a uma lei \u00e9 uma conclus\u00e3o logicamente vinculante que, por isso mesmo, deve ser repetida sempre que a mesma lei for aplicada.", "letter": "D", "correct": null}], "valid": true, "number": "12"}]
+[
+    {
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "filename": "2015-18.txt",
+        "enum": "Segundo o jusfil\u00f3sofo alem\u00e3o Karl Larenz, os textos jur\u00eddicos s\u00e3o problematiz\u00e1veis porque est\u00e3o redigidos em linguagem corrente ou em linguagem especializada, mas que, de todo modo, cont\u00eam express\u00f5es que apresentam uma margem de variabilidade de significa\u00e7\u00e3o. Nesse sentido, assinale a op\u00e7\u00e3o que exprime o pensamento desse autor acerca da ideia de interpreta\u00e7\u00e3o da lei.",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve-se aceitar que os textos jur\u00eddicos apenas carecem de interpreta\u00e7\u00e3o quando surgem particularmente como obscuros, pouco claros ou contradit\u00f3rios.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Interpretar um texto significa alcan\u00e7ar o \u00fanico sentido poss\u00edvel de uma norma conforme a inten\u00e7\u00e3o que a ela foi dada pelo legislador.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os textos jur\u00eddicos, em princ\u00edpio, s\u00e3o suscet\u00edveis e carecem de interpreta\u00e7\u00e3o porque toda linguagem \u00e9 pass\u00edvel de adequa\u00e7\u00e3o a cada situa\u00e7\u00e3o.",
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.11323792308305428,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A interpreta\u00e7\u00e3o dada por uma autoridade judicial a uma lei \u00e9 uma conclus\u00e3o logicamente vinculante que, por isso mesmo, deve ser repetida sempre que a mesma lei for aplicada.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "number": "12"
+    }
+]

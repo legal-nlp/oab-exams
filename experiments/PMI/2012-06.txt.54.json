@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Determinado contribuinte, devedor de tributo, obt\u00e9m o seu parcelamento e vem efetuando o pagamento conforme deferido. Apesar disso, sofre processo de execu\u00e7\u00e3o fiscal para a cobran\u00e7a do referido tributo.\n\n Nos embargos de devedor, o contribuinte poder\u00e1 alegar", "filename": "2012-06.txt", "number": "54", "options": [{"correct": null, "letter": "A", "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal, em face da nova\u00e7\u00e3o da d\u00edvida, que teria perdido a sua natureza tribut\u00e1ria pelo seu parcelamento."}, {"correct": null, "letter": "B", "text": "a improced\u00eancia da execu\u00e7\u00e3o fiscal, por iliquidez do t\u00edtulo exequendo, pelo fato de que parte da d\u00edvida j\u00e1 foi paga."}, {"correct": null, "letter": "C", "text": "o reconhecimento do direito apenas parcial \u00e0 execu\u00e7\u00e3o fiscal, por parte do Fisco, em face da exist\u00eancia de saldo devedor do parcelamento."}, {"correct": true, "letter": "D", "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal em face da suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Determinado contribuinte, devedor de tributo, obt\u00e9m o seu parcelamento e vem efetuando o pagamento conforme deferido. Apesar disso, sofre processo de execu\u00e7\u00e3o fiscal para a cobran\u00e7a do referido tributo.\n\n Nos embargos de devedor, o contribuinte poder\u00e1 alegar",
+        "filename": "2012-06.txt",
+        "number": "54",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal, em face da nova\u00e7\u00e3o da d\u00edvida, que teria perdido a sua natureza tribut\u00e1ria pelo seu parcelamento."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a improced\u00eancia da execu\u00e7\u00e3o fiscal, por iliquidez do t\u00edtulo exequendo, pelo fato de que parte da d\u00edvida j\u00e1 foi paga."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o reconhecimento do direito apenas parcial \u00e0 execu\u00e7\u00e3o fiscal, por parte do Fisco, em face da exist\u00eancia de saldo devedor do parcelamento."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal em face da suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["BUSINESS"], "filename": "2011-04.txt", "number": "48", "enum": "Contrato oneroso, em que algu\u00e9m assume, em car\u00e1ter profissional e sem v\u00ednculo de depend\u00eancia, a obriga\u00e7\u00e3o de promover, em nome de outrem, mediante retribui\u00e7\u00e3o, a efetiva\u00e7\u00e3o de certos neg\u00f3cios, em determinado territ\u00f3rio ou zona de mercado.\n\n A defini\u00e7\u00e3o acima corresponde a que tipo de contrato empresarial?", "valid": true, "options": [{"pmi": [0.0, 0, 0, 0], "text": "Ag\u00eancia.", "letter": "A", "correct": true}, {"pmi": [0.0, 0, 0, 0], "text": "Mandato.", "letter": "B", "correct": null}, {"pmi": [0.0, 0.0, 0, 0], "text": "Comiss\u00e3o mercantil.", "letter": "C", "correct": null}, {"pmi": [0.0, 0, 0, 0], "text": "Corretagem.", "letter": "D", "correct": null}]}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "filename": "2011-04.txt",
+        "number": "48",
+        "enum": "Contrato oneroso, em que algu\u00e9m assume, em car\u00e1ter profissional e sem v\u00ednculo de depend\u00eancia, a obriga\u00e7\u00e3o de promover, em nome de outrem, mediante retribui\u00e7\u00e3o, a efetiva\u00e7\u00e3o de certos neg\u00f3cios, em determinado territ\u00f3rio ou zona de mercado.\n\n A defini\u00e7\u00e3o acima corresponde a que tipo de contrato empresarial?",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Ag\u00eancia.",
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Mandato.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Comiss\u00e3o mercantil.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Corretagem.",
+                "letter": "D",
+                "correct": null
+            }
+        ]
+    }
+]

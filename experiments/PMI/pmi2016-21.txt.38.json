@@ -1,1 +1,55 @@
-[{"options": [{"correct": null, "text": "erro.", "pmi": [0.0, 0, 0, 0], "letter": "A"}, {"correct": null, "text": "dolo.", "pmi": [0.0, 0, 0, 0], "letter": "B"}, {"correct": null, "text": "coa\u00e7\u00e3o.", "pmi": [0.0, 0, 0, 0], "letter": "C"}, {"correct": true, "text": "estado de perigo.", "pmi": [0.0, 0, 0, 0], "letter": "D"}], "number": "38", "areas": [], "enum": "Durante uma viagem a\u00e9rea, Eliseu foi acometido de um mal s\u00fabito, que demandava atendimento imediato. O piloto dirigiu o avi\u00e3o para o aeroporto mais pr\u00f3ximo, mas a aterrissagem n\u00e3o ocorreria a tempo de salvar Eliseu. Um passageiro ofereceu seus conhecimentos m\u00e9dicos para atender Eliseu, mas demandou pagamento bastante superior ao valor de mercado, sob a alega\u00e7\u00e3o de que se encontrava de f\u00e9rias.\n\n Os termos do passageiro foram prontamente aceitos por Eliseu. Recuperado do mal que o atingiu, para evitar a cobran\u00e7a dos valores aven\u00e7ados, Eliseu pode pretender a anula\u00e7\u00e3o do acordo firmado com o outro passageiro, alegando", "valid": true, "filename": "2016-21.txt"}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "text": "erro.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "dolo.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "coa\u00e7\u00e3o.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "text": "estado de perigo.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "D"
+            }
+        ],
+        "number": "38",
+        "areas": [],
+        "enum": "Durante uma viagem a\u00e9rea, Eliseu foi acometido de um mal s\u00fabito, que demandava atendimento imediato. O piloto dirigiu o avi\u00e3o para o aeroporto mais pr\u00f3ximo, mas a aterrissagem n\u00e3o ocorreria a tempo de salvar Eliseu. Um passageiro ofereceu seus conhecimentos m\u00e9dicos para atender Eliseu, mas demandou pagamento bastante superior ao valor de mercado, sob a alega\u00e7\u00e3o de que se encontrava de f\u00e9rias.\n\n Os termos do passageiro foram prontamente aceitos por Eliseu. Recuperado do mal que o atingiu, para evitar a cobran\u00e7a dos valores aven\u00e7ados, Eliseu pode pretender a anula\u00e7\u00e3o do acordo firmado com o outro passageiro, alegando",
+        "valid": true,
+        "filename": "2016-21.txt"
+    }
+]

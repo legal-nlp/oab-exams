@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Delta Ltda. teve sua fal\u00eancia decretada em 11/01/2010. Delta possu\u00eda um im\u00f3vel hipotecado ao Banco Junior S/A, em garanti a de d\u00edvida no valor de R$ 1.000.000,00 O im\u00f3vel est\u00e1 avaliado em R$ 1.200.000,00.\n\n A Fazenda P\u00fablica Estadual tem cr\u00e9ditos a receber de Delta Ltda. relacionados ao ICMS n\u00e3o pago de vendas ocorridas em 03/01/2008.\n\n Com base no exposto acima, assinale a afirmativa correta.", "filename": "2010-02.txt", "number": "74", "options": [{"correct": null, "letter": "A", "text": "A Fazenda tem direito de prefer\u00eancia sobre o credor com garanti a real, em virtude de seus privil\u00e9gios."}, {"correct": null, "letter": "B", "text": "A Fazenda n\u00e3o pode executar o bem, em fun\u00e7\u00e3o de ter havido a quebra da empresa, prevalecendo o cr\u00e9dito com garanti a real."}, {"correct": null, "letter": "C", "text": "A Fazenda tem direito de prefer\u00eancia uma vez que a d\u00edvida tribut\u00e1ria \u00e9 anterior \u00e0 hipoteca."}, {"correct": true, "letter": "D", "text": "A Fazenda respeitar\u00e1 a prefer\u00eancia do credor hipotec\u00e1rio, nos limites do valor do cr\u00e9dito garanti do pela hipoteca."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Delta Ltda. teve sua fal\u00eancia decretada em 11/01/2010. Delta possu\u00eda um im\u00f3vel hipotecado ao Banco Junior S/A, em garanti a de d\u00edvida no valor de R$ 1.000.000,00 O im\u00f3vel est\u00e1 avaliado em R$ 1.200.000,00.\n\n A Fazenda P\u00fablica Estadual tem cr\u00e9ditos a receber de Delta Ltda. relacionados ao ICMS n\u00e3o pago de vendas ocorridas em 03/01/2008.\n\n Com base no exposto acima, assinale a afirmativa correta.",
+        "filename": "2010-02.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A Fazenda tem direito de prefer\u00eancia sobre o credor com garanti a real, em virtude de seus privil\u00e9gios."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A Fazenda n\u00e3o pode executar o bem, em fun\u00e7\u00e3o de ter havido a quebra da empresa, prevalecendo o cr\u00e9dito com garanti a real."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A Fazenda tem direito de prefer\u00eancia uma vez que a d\u00edvida tribut\u00e1ria \u00e9 anterior \u00e0 hipoteca."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "A Fazenda respeitar\u00e1 a prefer\u00eancia do credor hipotec\u00e1rio, nos limites do valor do cr\u00e9dito garanti do pela hipoteca."
+            }
+        ],
+        "valid": true
+    }
+]

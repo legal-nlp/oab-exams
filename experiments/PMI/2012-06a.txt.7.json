@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Escul\u00e1pio realiza contrato escrito de honor\u00e1rios com Ter\u00eancio, no valor de R$ 20.000,00. Consoante as normas estatut\u00e1rias aplic\u00e1veis \u00e0 esp\u00e9cie, \u00e9 correto afirmar que", "filename": "2012-06a.txt", "number": "7", "options": [{"correct": null, "letter": "A", "text": "esse documento n\u00e3o se reveste pass\u00edvel de futura execu\u00e7\u00e3o, como t\u00edtulo executivo."}, {"correct": null, "letter": "B", "text": "a aus\u00eancia de pagamento do valor pactuado leva ao arbitramento judicial dos honor\u00e1rios."}, {"correct": true, "letter": "C", "text": "o contrato escrito \u00e9 titulo executivo, podendo o advogado ingressar com a\u00e7\u00e3o de execu\u00e7\u00e3o dos seus honor\u00e1rios."}, {"correct": null, "letter": "D", "text": "esse cr\u00e9dito n\u00e3o possui privil\u00e9gio em eventual insolv\u00eancia do cliente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Escul\u00e1pio realiza contrato escrito de honor\u00e1rios com Ter\u00eancio, no valor de R$ 20.000,00. Consoante as normas estatut\u00e1rias aplic\u00e1veis \u00e0 esp\u00e9cie, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "esse documento n\u00e3o se reveste pass\u00edvel de futura execu\u00e7\u00e3o, como t\u00edtulo executivo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a aus\u00eancia de pagamento do valor pactuado leva ao arbitramento judicial dos honor\u00e1rios."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o contrato escrito \u00e9 titulo executivo, podendo o advogado ingressar com a\u00e7\u00e3o de execu\u00e7\u00e3o dos seus honor\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "esse cr\u00e9dito n\u00e3o possui privil\u00e9gio em eventual insolv\u00eancia do cliente."
+            }
+        ],
+        "valid": true
+    }
+]

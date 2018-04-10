@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "A respeito do pagamento das verbas rescis\u00f3rias, assinale a alternativa correta.", "filename": "2011-05.txt", "number": "70", "options": [{"correct": true, "letter": "A", "text": "No caso de pedido de demiss\u00e3o em contrato por prazo indeterminado, o prazo para pagamento das verbas rescis\u00f3rias \u00e9 de 10 dias contados da data da notifica\u00e7\u00e3o da demiss\u00e3o, quando dispensado o empregado do cumprimento do aviso pr\u00e9vio pelo empregador."}, {"correct": null, "letter": "B", "text": "O empregador que descumpre o prazo de pagamento das verbas rescis\u00f3rias dever\u00e1 pag\u00e1-las posteriormente acrescidas de 50% de multa, nos termos do artigo 467 da Consolida\u00e7\u00e3o das Leis do Trabalho."}, {"correct": null, "letter": "C", "text": "O pagamento das verbas rescis\u00f3rias ocorrer\u00e1 no primeiro dia \u00fatil imediato ao t\u00e9rmino do contrato de trabalho quando o empregador indenizar o aviso pr\u00e9vio."}, {"correct": null, "letter": "D", "text": "As verbas rescis\u00f3rias devidas ap\u00f3s decurso normal de prazo de contrato a termo dever\u00e3o ser pagas at\u00e9 o d\u00e9cimo dia contado do t\u00e9rmino, em face da inexist\u00eancia do aviso pr\u00e9vio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "A respeito do pagamento das verbas rescis\u00f3rias, assinale a alternativa correta.",
+        "filename": "2011-05.txt",
+        "number": "70",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "No caso de pedido de demiss\u00e3o em contrato por prazo indeterminado, o prazo para pagamento das verbas rescis\u00f3rias \u00e9 de 10 dias contados da data da notifica\u00e7\u00e3o da demiss\u00e3o, quando dispensado o empregado do cumprimento do aviso pr\u00e9vio pelo empregador."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O empregador que descumpre o prazo de pagamento das verbas rescis\u00f3rias dever\u00e1 pag\u00e1-las posteriormente acrescidas de 50% de multa, nos termos do artigo 467 da Consolida\u00e7\u00e3o das Leis do Trabalho."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O pagamento das verbas rescis\u00f3rias ocorrer\u00e1 no primeiro dia \u00fatil imediato ao t\u00e9rmino do contrato de trabalho quando o empregador indenizar o aviso pr\u00e9vio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "As verbas rescis\u00f3rias devidas ap\u00f3s decurso normal de prazo de contrato a termo dever\u00e3o ser pagas at\u00e9 o d\u00e9cimo dia contado do t\u00e9rmino, em face da inexist\u00eancia do aviso pr\u00e9vio."
+            }
+        ],
+        "valid": true
+    }
+]

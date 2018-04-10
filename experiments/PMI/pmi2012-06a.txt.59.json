@@ -1,1 +1,57 @@
-[{"number": "59", "areas": ["CRIMINAL"], "enum": "Com rela\u00e7\u00e3o ao Regime Disciplinar Diferenciado, institu\u00eddo pela Lei 10.792/2003, assinale a alternativa correta.", "filename": "2012-06a.txt", "options": [{"correct": null, "pmi": [-0.20183485356152098, 0.0, 0.0, 0.0], "text": "O per\u00edodo de aplica\u00e7\u00e3o do Regime Disciplinar Diferenciado n\u00e3o poder\u00e1 ultrapassar 360 (trezentos e sessenta dias), sendo vedada a repeti\u00e7\u00e3o da san\u00e7\u00e3o por nova falta grave.", "letter": "A"}, {"correct": null, "pmi": [-0.11771032453373288, 0.0, 0.0, 0.0], "text": "O Regime Disciplinar diferenciado n\u00e3o poder\u00e1 ser aplicado a presos provis\u00f3rios, mesmo no caso de crimes hediondos.", "letter": "B"}, {"correct": true, "pmi": [-0.05885516226686644, 0.0, 0.0, 0.0], "text": "A autoriza\u00e7\u00e3o para a inclus\u00e3o do preso em regime disciplinar depender\u00e1 de requerimento circunstanciado elaborado pelo diretor do estabelecimento ou outra autoridade administrativa e despacho fundamentado da autoridade judicial competente.", "letter": "C"}, {"correct": null, "pmi": [-0.21626356674698502, 0.0, 0.0, 0.0], "text": "O preso ter\u00e1 direito a sair de sua cela por um per\u00edodo de 2 (duas) horas semanais para banho de sol, salvo nos casos de crimes inafian\u00e7\u00e1veis.", "letter": "D"}], "valid": true}]
+[
+    {
+        "number": "59",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao Regime Disciplinar Diferenciado, institu\u00eddo pela Lei 10.792/2003, assinale a alternativa correta.",
+        "filename": "2012-06a.txt",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.20183485356152098,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O per\u00edodo de aplica\u00e7\u00e3o do Regime Disciplinar Diferenciado n\u00e3o poder\u00e1 ultrapassar 360 (trezentos e sessenta dias), sendo vedada a repeti\u00e7\u00e3o da san\u00e7\u00e3o por nova falta grave.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.11771032453373288,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Regime Disciplinar diferenciado n\u00e3o poder\u00e1 ser aplicado a presos provis\u00f3rios, mesmo no caso de crimes hediondos.",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.05885516226686644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A autoriza\u00e7\u00e3o para a inclus\u00e3o do preso em regime disciplinar depender\u00e1 de requerimento circunstanciado elaborado pelo diretor do estabelecimento ou outra autoridade administrativa e despacho fundamentado da autoridade judicial competente.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.21626356674698502,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O preso ter\u00e1 direito a sair de sua cela por um per\u00edodo de 2 (duas) horas semanais para banho de sol, salvo nos casos de crimes inafian\u00e7\u00e1veis.",
+                "letter": "D"
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "78", "enum": "Determinada empresa, ao apresentar contesta\u00e7\u00e3o em processo trabalhista, formulou pedido de concess\u00e3o da justi\u00e7a gratuita, alegando dificuldades financeiras, sem a devida comprova\u00e7\u00e3o de incapacidade, e anexou, apenas, declara\u00e7\u00e3o de miserabilidade firmada por seu representante legal.\n\n A respeito dessa situa\u00e7\u00e3o hipot\u00e9tica e do benef\u00edcio da justi\u00e7a gratuita, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "valid": true, "options": [{"correct": null, "pmi": [-0.0834093345284781, 0.0, 0.0, 0.0], "letter": "A", "text": "Os benef\u00edcios da justi\u00e7a gratuita s\u00f3 podem ser concedidos aos reclamantes."}, {"correct": null, "pmi": [-0.018266709638543367, 0.0, 0.0, 0.0], "letter": "B", "text": "A simples alega\u00e7\u00e3o de dificuldades financeiras \u00e9 suficiente para a concess\u00e3o do referido benef\u00edcio."}, {"correct": true, "pmi": [-0.09292887862891461, 0.0, 0.0, 0.0], "letter": "C", "text": "Para que possa usufruir do benef\u00edcio da justi\u00e7a gratuita, a empresa em quest\u00e3o deve comprovar a sua condi\u00e7\u00e3o de miserabilidade."}, {"correct": null, "pmi": [-0.13087041606662944, 0.0, 0.0, 0.0], "letter": "D", "text": "Pessoas jur\u00eddicas n\u00e3o fazem jus aos benef\u00edcios da justi\u00e7a gratuita no processo do trabalho, podendo apenas requerer o pagamento das custas ao final do processo."}], "areas": ["LABOUR-PROCEDURE"]}]
+[
+    {
+        "number": "78",
+        "enum": "Determinada empresa, ao apresentar contesta\u00e7\u00e3o em processo trabalhista, formulou pedido de concess\u00e3o da justi\u00e7a gratuita, alegando dificuldades financeiras, sem a devida comprova\u00e7\u00e3o de incapacidade, e anexou, apenas, declara\u00e7\u00e3o de miserabilidade firmada por seu representante legal.\n\n A respeito dessa situa\u00e7\u00e3o hipot\u00e9tica e do benef\u00edcio da justi\u00e7a gratuita, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.0834093345284781,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Os benef\u00edcios da justi\u00e7a gratuita s\u00f3 podem ser concedidos aos reclamantes."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.018266709638543367,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "A simples alega\u00e7\u00e3o de dificuldades financeiras \u00e9 suficiente para a concess\u00e3o do referido benef\u00edcio."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.09292887862891461,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Para que possa usufruir do benef\u00edcio da justi\u00e7a gratuita, a empresa em quest\u00e3o deve comprovar a sua condi\u00e7\u00e3o de miserabilidade."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.13087041606662944,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Pessoas jur\u00eddicas n\u00e3o fazem jus aos benef\u00edcios da justi\u00e7a gratuita no processo do trabalho, podendo apenas requerer o pagamento das custas ao final do processo."
+            }
+        ],
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "Passa Sete Servi\u00e7os M\u00e9dicos S/A apresentou a seus credores plano de recupera\u00e7\u00e3o extrajudicial, que obteve a aprova\u00e7\u00e3o de mais de quatro quintos dos cr\u00e9ditos de todas as classes por ele abrangidas. O plano estabeleceu a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o judicial, exclusivamente, em rela\u00e7\u00e3o \u00e0 forma de pagamento dos credores signat\u00e1rios que a ele aderiram, alterando o valor dos cr\u00e9ditos com des\u00e1gio de 30% (trinta por cento).\n\n A companhia consultou seu advogado, que se pronunciou corretamente sobre o caso, da seguinte forma:", "filename": "2014-14.txt", "number": "52", "options": [{"correct": null, "letter": "A", "text": "o plano n\u00e3o pode estabelecer a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, devendo o juiz indeferir sua homologa\u00e7\u00e3o, permitindo, contudo, novo pedido, desde que sanada a irregularidade."}, {"correct": null, "letter": "B", "text": "o plano n\u00e3o pode estabelecer a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, devendo o juiz negar liminarmente sua homologa\u00e7\u00e3o e decretar a fal\u00eancia."}, {"correct": true, "letter": "C", "text": "\u00e9 l\u00edcito que o plano estabele\u00e7a a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, desde que exclusivamente em rela\u00e7\u00e3o \u00e0 modifica\u00e7\u00e3o do valor ou da forma de pagamento dos credores signat\u00e1rios."}, {"correct": null, "letter": "D", "text": "\u00e9 l\u00edcito que o plano estabele\u00e7a a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, desde que exclusivamente em rela\u00e7\u00e3o \u00e0 supress\u00e3o da garantia ou sua substitui\u00e7\u00e3o de bem objeto de garantia real."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "Passa Sete Servi\u00e7os M\u00e9dicos S/A apresentou a seus credores plano de recupera\u00e7\u00e3o extrajudicial, que obteve a aprova\u00e7\u00e3o de mais de quatro quintos dos cr\u00e9ditos de todas as classes por ele abrangidas. O plano estabeleceu a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o judicial, exclusivamente, em rela\u00e7\u00e3o \u00e0 forma de pagamento dos credores signat\u00e1rios que a ele aderiram, alterando o valor dos cr\u00e9ditos com des\u00e1gio de 30% (trinta por cento).\n\n A companhia consultou seu advogado, que se pronunciou corretamente sobre o caso, da seguinte forma:",
+        "filename": "2014-14.txt",
+        "number": "52",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o plano n\u00e3o pode estabelecer a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, devendo o juiz indeferir sua homologa\u00e7\u00e3o, permitindo, contudo, novo pedido, desde que sanada a irregularidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o plano n\u00e3o pode estabelecer a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, devendo o juiz negar liminarmente sua homologa\u00e7\u00e3o e decretar a fal\u00eancia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "\u00e9 l\u00edcito que o plano estabele\u00e7a a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, desde que exclusivamente em rela\u00e7\u00e3o \u00e0 modifica\u00e7\u00e3o do valor ou da forma de pagamento dos credores signat\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "\u00e9 l\u00edcito que o plano estabele\u00e7a a produ\u00e7\u00e3o de efeitos anteriores \u00e0 homologa\u00e7\u00e3o, desde que exclusivamente em rela\u00e7\u00e3o \u00e0 supress\u00e3o da garantia ou sua substitui\u00e7\u00e3o de bem objeto de garantia real."
+            }
+        ],
+        "valid": true
+    }
+]

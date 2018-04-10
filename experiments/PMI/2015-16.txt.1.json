@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Bernardo \u00e9 bacharel em Direito, mas n\u00e3o est\u00e1 inscrito nos quadros da Ordem dos Advogados do Brasil, apesar de aprovado no Exame de Ordem.  N\u00e3o obstante, tem atua\u00e7\u00e3o na \u00e1rea de advocacia, realizando consultorias e assessorias jur\u00eddicas.\n\n A partir da hip\u00f3tese apresentada, nos termos do Regulamento Geral da Ordem dos Advogados do Brasil, assinale a afirmativa correta.", "filename": "2015-16.txt", "number": "1", "options": [{"correct": null, "letter": "A", "text": "Tal conduta \u00e9 permitida, por ter o bacharel logrado aprova\u00e7\u00e3o no Exame de Ordem."}, {"correct": null, "letter": "B", "text": "Tal conduta \u00e9 proibida, por ser equiparada \u00e0 capta\u00e7\u00e3o de clientela."}, {"correct": null, "letter": "C", "text": "Tal conduta \u00e9 permitida mediante autoriza\u00e7\u00e3o do Presidente da Seccional da Ordem dos Advogados do Brasil."}, {"correct": true, "letter": "D", "text": "Tal conduta \u00e9 proibida, tendo em vista a aus\u00eancia de inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Bernardo \u00e9 bacharel em Direito, mas n\u00e3o est\u00e1 inscrito nos quadros da Ordem dos Advogados do Brasil, apesar de aprovado no Exame de Ordem.  N\u00e3o obstante, tem atua\u00e7\u00e3o na \u00e1rea de advocacia, realizando consultorias e assessorias jur\u00eddicas.\n\n A partir da hip\u00f3tese apresentada, nos termos do Regulamento Geral da Ordem dos Advogados do Brasil, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "1",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Tal conduta \u00e9 permitida, por ter o bacharel logrado aprova\u00e7\u00e3o no Exame de Ordem."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Tal conduta \u00e9 proibida, por ser equiparada \u00e0 capta\u00e7\u00e3o de clientela."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Tal conduta \u00e9 permitida mediante autoriza\u00e7\u00e3o do Presidente da Seccional da Ordem dos Advogados do Brasil."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Tal conduta \u00e9 proibida, tendo em vista a aus\u00eancia de inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil."
+            }
+        ],
+        "valid": true
+    }
+]

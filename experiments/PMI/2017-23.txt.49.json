@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Pedrinho emitiu quatro cheques em 26 de mar\u00e7o de 2017, mas esqueceu de depositar um deles. Tendo um d\u00e9bito a honrar com Kennedy e sendo benefici\u00e1rio desse quarto cheque, Pedrinho o endossou em preto, datando no verso \u201cdia 20 de maio de 2017\u201d. Sabe-se que o lugar de emiss\u00e3o do quarto cheque \u00e9 o mesmo do de pagamento.  Sobre esse endosso, assinale a afirmativa correta.", "filename": "2017-23.txt", "number": "49", "options": [{"correct": null, "letter": "A", "text": "O endosso produz seus efeitos legais porque a transmiss\u00e3o do cheque se deu dentro do prazo de apresenta\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "No endosso em preto, o endossat\u00e1rio fica dispensado da apresenta\u00e7\u00e3o em tempo h\u00e1bil do cheque ao sacado."}, {"correct": true, "letter": "C", "text": "O endosso do cheque tem efeito de cess\u00e3o de cr\u00e9dito por ter sido realizado ap\u00f3s o decurso do prazo de apresenta\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Pedrinho ficou exonerado de responbabilidade pelo pagamento do cheque em raz\u00e3o do car\u00e1ter p\u00f3stumo do endosso."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Pedrinho emitiu quatro cheques em 26 de mar\u00e7o de 2017, mas esqueceu de depositar um deles. Tendo um d\u00e9bito a honrar com Kennedy e sendo benefici\u00e1rio desse quarto cheque, Pedrinho o endossou em preto, datando no verso \u201cdia 20 de maio de 2017\u201d. Sabe-se que o lugar de emiss\u00e3o do quarto cheque \u00e9 o mesmo do de pagamento.  Sobre esse endosso, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "49",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O endosso produz seus efeitos legais porque a transmiss\u00e3o do cheque se deu dentro do prazo de apresenta\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "No endosso em preto, o endossat\u00e1rio fica dispensado da apresenta\u00e7\u00e3o em tempo h\u00e1bil do cheque ao sacado."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O endosso do cheque tem efeito de cess\u00e3o de cr\u00e9dito por ter sido realizado ap\u00f3s o decurso do prazo de apresenta\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Pedrinho ficou exonerado de responbabilidade pelo pagamento do cheque em raz\u00e3o do car\u00e1ter p\u00f3stumo do endosso."
+            }
+        ],
+        "valid": true
+    }
+]

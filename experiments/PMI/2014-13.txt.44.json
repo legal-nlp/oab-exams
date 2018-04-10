@@ -1,1 +1,33 @@
-[{"areas": ["CHILDREN"], "enum": "Jo\u00e3o e Joana s\u00e3o pais de Mila, 9 anos, e de Let\u00edcia, 8 anos. Jo\u00e3o mudou-se para Maring\u00e1 depois do div\u00f3rcio, e levou sua filha mais nova para morar com ele. Nas f\u00e9rias escolares, Let\u00edcia quer ir ao Rio de Janeiro visitar sua m\u00e3e, enquanto Mila deseja passar seus dias livres com seu pai em Maring\u00e1.\n\n Avalie as situa\u00e7\u00f5es apresentadas a seguir e, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, assinale a afirmativa correta.", "filename": "2014-13.txt", "number": "44", "options": [{"correct": null, "letter": "A", "text": "Let\u00edcia poder\u00e1 viajar sem autoriza\u00e7\u00e3o judicial se a sua prima, Ol\u00edvia, que tem 19 anos, aceitar acompanh\u00e1-la. Mila poder\u00e1 viajar sem autoriza\u00e7\u00e3o, se a sua av\u00f3, Filomena, a acompanhar."}, {"correct": null, "letter": "B", "text": "Se houver pr\u00e9via e expressa autoriza\u00e7\u00e3o dos pais ou respons\u00e1veis, Let\u00edcia e Mila ficam dispensadas da autoriza\u00e7\u00e3o judicial e poder\u00e3o viajar desacompanhadas dentro do territ\u00f3rio nacional."}, {"correct": true, "letter": "C", "text": "Let\u00edcia poder\u00e1 viajar desacompanhada dos pais por todo territ\u00f3rio nacional se houver autoriza\u00e7\u00e3o judicial, que poder\u00e1 ser concedida pelo prazo de dois anos. Mila n\u00e3o precisar\u00e1 de autoriza\u00e7\u00e3o judicial para ir a Maring\u00e1 se seu tio Jos\u00e9 aceitar acompanh\u00e1-la."}, {"correct": null, "letter": "D", "text": "Mila poderia aproveitar a ida de sua vizinha Maria, de 23 anos, para acompanh\u00e1-la, desde que devidamente autorizada por seus pais, enquanto Let\u00edcia n\u00e3o precisaria de autoriza\u00e7\u00e3o judicial se seu padrinho, Ricardo, primo do seu pai, a acompanhasse."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CHILDREN"
+        ],
+        "enum": "Jo\u00e3o e Joana s\u00e3o pais de Mila, 9 anos, e de Let\u00edcia, 8 anos. Jo\u00e3o mudou-se para Maring\u00e1 depois do div\u00f3rcio, e levou sua filha mais nova para morar com ele. Nas f\u00e9rias escolares, Let\u00edcia quer ir ao Rio de Janeiro visitar sua m\u00e3e, enquanto Mila deseja passar seus dias livres com seu pai em Maring\u00e1.\n\n Avalie as situa\u00e7\u00f5es apresentadas a seguir e, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Let\u00edcia poder\u00e1 viajar sem autoriza\u00e7\u00e3o judicial se a sua prima, Ol\u00edvia, que tem 19 anos, aceitar acompanh\u00e1-la. Mila poder\u00e1 viajar sem autoriza\u00e7\u00e3o, se a sua av\u00f3, Filomena, a acompanhar."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Se houver pr\u00e9via e expressa autoriza\u00e7\u00e3o dos pais ou respons\u00e1veis, Let\u00edcia e Mila ficam dispensadas da autoriza\u00e7\u00e3o judicial e poder\u00e3o viajar desacompanhadas dentro do territ\u00f3rio nacional."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Let\u00edcia poder\u00e1 viajar desacompanhada dos pais por todo territ\u00f3rio nacional se houver autoriza\u00e7\u00e3o judicial, que poder\u00e1 ser concedida pelo prazo de dois anos. Mila n\u00e3o precisar\u00e1 de autoriza\u00e7\u00e3o judicial para ir a Maring\u00e1 se seu tio Jos\u00e9 aceitar acompanh\u00e1-la."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Mila poderia aproveitar a ida de sua vizinha Maria, de 23 anos, para acompanh\u00e1-la, desde que devidamente autorizada por seus pais, enquanto Let\u00edcia n\u00e3o precisaria de autoriza\u00e7\u00e3o judicial se seu padrinho, Ricardo, primo do seu pai, a acompanhasse."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"enum": "O Estado W, governado por dirigente progressista, pretende realizar uma ampla reforma agr\u00e1ria no seu territ\u00f3rio para melhor dividir a terra, incluindo diversos desempregados na vida produtiva, apresentando, ainda, amplo programa de financiamento das atividades agr\u00edcolas. Com essa proposta pol\u00edtica, resolve apresentar projeto de lei, criando formas de desapropria\u00e7\u00e3o e inovando nos procedimentos, dando caracter\u00edstica sum\u00e1ria e permitindo o ingresso nos im\u00f3veis sem pagar indeniza\u00e7\u00e3o.\n\n Quanto ao tema em foco, legisla\u00e7\u00e3o sobre desapropria\u00e7\u00e3o, nos termos da Constitui\u00e7\u00e3o Federal, assinale a afirmativa correta.", "areas": ["CONSTITUTIONAL"], "filename": "2012-09.txt", "number": "14", "options": [{"letter": "A", "correct": true, "pmi": [-0.234681014001414, 0.0, 0.0, 0.0], "text": "Trata-se de compet\u00eancia privativa da Uni\u00e3o"}, {"letter": "B", "correct": null, "pmi": [-0.2742024561447868, 0.0, 0.0, 0.0], "text": "Trata-se de compet\u00eancia da Uni\u00e3o em comum com os Estados."}, {"letter": "C", "correct": null, "pmi": [-0.23972084873859537, 0.0, 0.0, 0.0], "text": "Trata-se de compet\u00eancia privativa dos Estados"}, {"letter": "D", "correct": null, "pmi": [-0.2091618764058546, 0.0, 0.0, 0.0], "text": "Trata-se de compet\u00eancia dos Estados em comum com os Munic\u00edpios."}], "valid": true}]
+[
+    {
+        "enum": "O Estado W, governado por dirigente progressista, pretende realizar uma ampla reforma agr\u00e1ria no seu territ\u00f3rio para melhor dividir a terra, incluindo diversos desempregados na vida produtiva, apresentando, ainda, amplo programa de financiamento das atividades agr\u00edcolas. Com essa proposta pol\u00edtica, resolve apresentar projeto de lei, criando formas de desapropria\u00e7\u00e3o e inovando nos procedimentos, dando caracter\u00edstica sum\u00e1ria e permitindo o ingresso nos im\u00f3veis sem pagar indeniza\u00e7\u00e3o.\n\n Quanto ao tema em foco, legisla\u00e7\u00e3o sobre desapropria\u00e7\u00e3o, nos termos da Constitui\u00e7\u00e3o Federal, assinale a afirmativa correta.",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2012-09.txt",
+        "number": "14",
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.234681014001414,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de compet\u00eancia privativa da Uni\u00e3o"
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.2742024561447868,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de compet\u00eancia da Uni\u00e3o em comum com os Estados."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.23972084873859537,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de compet\u00eancia privativa dos Estados"
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.2091618764058546,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de compet\u00eancia dos Estados em comum com os Munic\u00edpios."
+            }
+        ],
+        "valid": true
+    }
+]

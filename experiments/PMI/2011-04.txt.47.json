@@ -1,1 +1,33 @@
-[{"areas": ["CONSUMER"], "enum": "Analisando o artigo 6\u00ba, V, do C\u00f3digo de Defesa do Consumidor, que prescreve: \u201cS\u00e3o direitos b\u00e1sicos do consumidor: V \u2013 a modifica\u00e7\u00e3o das cl\u00e1usulas contratuais que estabele\u00e7am presta\u00e7\u00f5es desproporcionais ou sua revis\u00e3o em raz\u00e3o de fatos supervenientes que as tornem excessivamente onerosas\u201d, assinale a alternativa correta.", "filename": "2011-04.txt", "number": "47", "options": [{"correct": null, "letter": "A", "text": "N\u00e3o traduz a relativiza\u00e7\u00e3o do princ\u00edpio contratual da autonomia da vontade das partes."}, {"correct": null, "letter": "B", "text": "Almeja, em an\u00e1lise sistem\u00e1tica, precipuamente, a resolu\u00e7\u00e3o do contrato firmado entre consumidor e fornecedor."}, {"correct": true, "letter": "C", "text": "Admite a incid\u00eancia da cl\u00e1usula rebus sic stantibus."}, {"correct": null, "letter": "D", "text": "Exige a imprevisibilidade do fato superveniente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSUMER"
+        ],
+        "enum": "Analisando o artigo 6\u00ba, V, do C\u00f3digo de Defesa do Consumidor, que prescreve: \u201cS\u00e3o direitos b\u00e1sicos do consumidor: V \u2013 a modifica\u00e7\u00e3o das cl\u00e1usulas contratuais que estabele\u00e7am presta\u00e7\u00f5es desproporcionais ou sua revis\u00e3o em raz\u00e3o de fatos supervenientes que as tornem excessivamente onerosas\u201d, assinale a alternativa correta.",
+        "filename": "2011-04.txt",
+        "number": "47",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "N\u00e3o traduz a relativiza\u00e7\u00e3o do princ\u00edpio contratual da autonomia da vontade das partes."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Almeja, em an\u00e1lise sistem\u00e1tica, precipuamente, a resolu\u00e7\u00e3o do contrato firmado entre consumidor e fornecedor."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Admite a incid\u00eancia da cl\u00e1usula rebus sic stantibus."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Exige a imprevisibilidade do fato superveniente."
+            }
+        ],
+        "valid": true
+    }
+]

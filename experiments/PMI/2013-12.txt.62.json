@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Wilson, competente professor de uma autoescola, guia seu carro por uma avenida \u00e0 beira-mar. No banco do carona est\u00e1 sua noiva, Ivana. No meio do percurso, Wilson e Ivana come\u00e7am a discutir: a mo\u00e7a reclama da alta velocidade empreendida. Assustada, Ivana grita com Wilson, dizendo que, se ele continuasse naquela velocidade, poderia facilmente perder o controle do carro e atropelar algu\u00e9m. Wilson, por sua vez, responde que Ivana deveria deixar de ser medrosa e que nada aconteceria, pois se sua profiss\u00e3o era ensinar os outros a dirigir, ningu\u00e9m poderia ser mais competente do que ele na condu\u00e7\u00e3o de um ve\u00edculo. Todavia, ao fazer uma curva, o autom\u00f3vel derrapa na areia trazida para o asfalto por conta dos ventos do litoral, o carro fica desgovernado e acaba ocorrendo o atropelamento de uma pessoa que passava pelo local. A v\u00edtima do atropelamento falece instantaneamente. Wilson e Ivana sofrem pequenas escoria\u00e7\u00f5es. Cumpre destacar que a per\u00edcia feita no local constatou excesso de velocidade.\n\n Nesse sentido, com base no caso narrado, \u00e9 correto afirmar que, em rela\u00e7\u00e3o \u00e0 v\u00edtima do atropelamento, Wilson agiu com", "filename": "2013-12.txt", "number": "62", "options": [{"correct": null, "letter": "A", "text": "dolo direto."}, {"correct": null, "letter": "B", "text": "dolo eventual."}, {"correct": true, "letter": "C", "text": "culpa consciente."}, {"correct": null, "letter": "D", "text": "culpa inconsciente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Wilson, competente professor de uma autoescola, guia seu carro por uma avenida \u00e0 beira-mar. No banco do carona est\u00e1 sua noiva, Ivana. No meio do percurso, Wilson e Ivana come\u00e7am a discutir: a mo\u00e7a reclama da alta velocidade empreendida. Assustada, Ivana grita com Wilson, dizendo que, se ele continuasse naquela velocidade, poderia facilmente perder o controle do carro e atropelar algu\u00e9m. Wilson, por sua vez, responde que Ivana deveria deixar de ser medrosa e que nada aconteceria, pois se sua profiss\u00e3o era ensinar os outros a dirigir, ningu\u00e9m poderia ser mais competente do que ele na condu\u00e7\u00e3o de um ve\u00edculo. Todavia, ao fazer uma curva, o autom\u00f3vel derrapa na areia trazida para o asfalto por conta dos ventos do litoral, o carro fica desgovernado e acaba ocorrendo o atropelamento de uma pessoa que passava pelo local. A v\u00edtima do atropelamento falece instantaneamente. Wilson e Ivana sofrem pequenas escoria\u00e7\u00f5es. Cumpre destacar que a per\u00edcia feita no local constatou excesso de velocidade.\n\n Nesse sentido, com base no caso narrado, \u00e9 correto afirmar que, em rela\u00e7\u00e3o \u00e0 v\u00edtima do atropelamento, Wilson agiu com",
+        "filename": "2013-12.txt",
+        "number": "62",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "dolo direto."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "dolo eventual."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "culpa consciente."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "culpa inconsciente."
+            }
+        ],
+        "valid": true
+    }
+]

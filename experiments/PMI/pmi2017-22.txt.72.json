@@ -1,1 +1,57 @@
-[{"enum": "Pedro \u00e9 empregado da sociedade empres\u00e1ria X e, em determinado m\u00eas, recebeu di\u00e1rias na ordem de 70% do seu sal\u00e1rio, sem ter prestado qualquer conta ao empregador.  De acordo com a CLT e o entendimento consolidado do TST, assinale a afirmativa correta.", "valid": true, "number": "72", "options": [{"letter": "A", "pmi": [-0.060221940620253926, 0.0, 0.0, 0.0], "correct": true, "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade."}, {"letter": "B", "pmi": [-0.08692333529064936, 0.0, 0.0, 0.0], "correct": null, "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado."}, {"letter": "C", "pmi": [-0.05161880624593194, 0.0, 0.0, 0.0], "correct": null, "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese."}, {"letter": "D", "pmi": [-0.1506843378926047, 0.0, 0.0, 0.0], "correct": null, "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria."}], "areas": [null], "filename": "2017-22.txt"}]
+[
+    {
+        "enum": "Pedro \u00e9 empregado da sociedade empres\u00e1ria X e, em determinado m\u00eas, recebeu di\u00e1rias na ordem de 70% do seu sal\u00e1rio, sem ter prestado qualquer conta ao empregador.  De acordo com a CLT e o entendimento consolidado do TST, assinale a afirmativa correta.",
+        "valid": true,
+        "number": "72",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.060221940620253926,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.08692333529064936,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.05161880624593194,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.1506843378926047,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria."
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "filename": "2017-22.txt"
+    }
+]

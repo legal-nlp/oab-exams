@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "O Estado X publicou edital de concorr\u00eancia para a concess\u00e3o de uma linha de transporte aquavi\u00e1rio interligando os munic\u00edpios A e B, situados em seu territ\u00f3rio, por meio do Rio Azul\u00e3o. Sobre o tema da concess\u00e3o de servi\u00e7os p\u00fablicos, e considerando os dados acima narrados, assinale a afirmativa correta.", "filename": "2014-13.txt", "number": "34", "options": [{"correct": null, "letter": "A", "text": "A outorga de concess\u00e3o de servi\u00e7o p\u00fablico, em regra, se d\u00e1 em car\u00e1ter de exclusividade."}, {"correct": true, "letter": "B", "text": "O edital de licita\u00e7\u00e3o pode prever a utiliza\u00e7\u00e3o de receitas alternativas, provenientes da explora\u00e7\u00e3o de placas publicit\u00e1rias, com vistas a favorecer a modicidade das tarifas."}, {"correct": null, "letter": "C", "text": "N\u00e3o se admite a inser\u00e7\u00e3o, no contrato, de cl\u00e1usula que preveja a arbitragem para a resolu\u00e7\u00e3o de conflitos."}, {"correct": null, "letter": "D", "text": "Na licita\u00e7\u00e3o para a concess\u00e3o de servi\u00e7os p\u00fablicos, n\u00e3o se admite a invers\u00e3o da ordem das fases de habilita\u00e7\u00e3o e julgamento."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "O Estado X publicou edital de concorr\u00eancia para a concess\u00e3o de uma linha de transporte aquavi\u00e1rio interligando os munic\u00edpios A e B, situados em seu territ\u00f3rio, por meio do Rio Azul\u00e3o. Sobre o tema da concess\u00e3o de servi\u00e7os p\u00fablicos, e considerando os dados acima narrados, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "number": "34",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A outorga de concess\u00e3o de servi\u00e7o p\u00fablico, em regra, se d\u00e1 em car\u00e1ter de exclusividade."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O edital de licita\u00e7\u00e3o pode prever a utiliza\u00e7\u00e3o de receitas alternativas, provenientes da explora\u00e7\u00e3o de placas publicit\u00e1rias, com vistas a favorecer a modicidade das tarifas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o se admite a inser\u00e7\u00e3o, no contrato, de cl\u00e1usula que preveja a arbitragem para a resolu\u00e7\u00e3o de conflitos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Na licita\u00e7\u00e3o para a concess\u00e3o de servi\u00e7os p\u00fablicos, n\u00e3o se admite a invers\u00e3o da ordem das fases de habilita\u00e7\u00e3o e julgamento."
+            }
+        ],
+        "valid": true
+    }
+]

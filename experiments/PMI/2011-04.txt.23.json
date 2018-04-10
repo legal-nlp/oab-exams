@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Os direitos pol\u00edticos n\u00e3o podem ser cassados. Podem, no entanto, sofrer perda ou suspens\u00e3o \u00e0 luz das normas constitucionais pelo seguinte fundamento:", "filename": "2011-04.txt", "number": "23", "options": [{"correct": null, "letter": "A", "text": "condena\u00e7\u00e3o c\u00edvel sem tr\u00e2nsito em julgado."}, {"correct": null, "letter": "B", "text": "incapacidade civil relativa, declarada judicialmente."}, {"correct": null, "letter": "C", "text": "cancelamento de naturaliza\u00e7\u00e3o por decis\u00e3o administrativa."}, {"correct": true, "letter": "D", "text": "improbidade administrativa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Os direitos pol\u00edticos n\u00e3o podem ser cassados. Podem, no entanto, sofrer perda ou suspens\u00e3o \u00e0 luz das normas constitucionais pelo seguinte fundamento:",
+        "filename": "2011-04.txt",
+        "number": "23",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "condena\u00e7\u00e3o c\u00edvel sem tr\u00e2nsito em julgado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "incapacidade civil relativa, declarada judicialmente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "cancelamento de naturaliza\u00e7\u00e3o por decis\u00e3o administrativa."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "improbidade administrativa."
+            }
+        ],
+        "valid": true
+    }
+]

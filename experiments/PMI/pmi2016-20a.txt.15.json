@@ -1,1 +1,55 @@
-[{"filename": "2016-20a.txt", "valid": true, "areas": [], "options": [{"pmi": [-0.06489034546874443, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "A forma federativa de Estado autoriza a secess\u00e3o de um ente federativo por meio de plebiscito popular ou referendum."}, {"pmi": [-0.1889116777414966, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "A forma federativa de Estado \u00e9 estabelecida por um pacto (ou tratado) internacional entre os estados soberanos."}, {"pmi": [-0.06701940580071485, 0.0, 0.0, 0.0], "letter": "C", "correct": true, "text": "A forma federativa de Estado imp\u00f5e a necessidade de exist\u00eancia de uma cl\u00e1usula de garantia ao pacto federativo, tal como a chamada interven\u00e7\u00e3o federal."}, {"pmi": [-0.022694563457207252, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "Um vez que, na forma federativa, todos os entes federativos s\u00e3o aut\u00f4nomos, eles est\u00e3o autorizados a representar a soberania do Estado em suas rela\u00e7\u00f5es internacionais."}], "number": "15", "enum": "O modelo federalista \u00e9 uma forma de organiza\u00e7\u00e3o e distribui\u00e7\u00e3o do poder estatal que pressup\u00f5e a rela\u00e7\u00e3o entre as esferas de governo federal e local, compondo os chamados entes federativos, todos dotados de autonomia. Apresenta-se como oposi\u00e7\u00e3o ao unitarismo, de modo que haja a reparti\u00e7\u00e3o de compet\u00eancias entre os entes que integram o Estado federado.\n\n A ordem jur\u00eddica estabeleceu elementos, no texto constitucional, que caracterizam essa forma de Estado. A partir das caracter\u00edsticas da Federa\u00e7\u00e3o brasileira, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2016-20a.txt",
+        "valid": true,
+        "areas": [],
+        "options": [
+            {
+                "pmi": [
+                    -0.06489034546874443,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "A forma federativa de Estado autoriza a secess\u00e3o de um ente federativo por meio de plebiscito popular ou referendum."
+            },
+            {
+                "pmi": [
+                    -0.1889116777414966,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "A forma federativa de Estado \u00e9 estabelecida por um pacto (ou tratado) internacional entre os estados soberanos."
+            },
+            {
+                "pmi": [
+                    -0.06701940580071485,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "A forma federativa de Estado imp\u00f5e a necessidade de exist\u00eancia de uma cl\u00e1usula de garantia ao pacto federativo, tal como a chamada interven\u00e7\u00e3o federal."
+            },
+            {
+                "pmi": [
+                    -0.022694563457207252,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "Um vez que, na forma federativa, todos os entes federativos s\u00e3o aut\u00f4nomos, eles est\u00e3o autorizados a representar a soberania do Estado em suas rela\u00e7\u00f5es internacionais."
+            }
+        ],
+        "number": "15",
+        "enum": "O modelo federalista \u00e9 uma forma de organiza\u00e7\u00e3o e distribui\u00e7\u00e3o do poder estatal que pressup\u00f5e a rela\u00e7\u00e3o entre as esferas de governo federal e local, compondo os chamados entes federativos, todos dotados de autonomia. Apresenta-se como oposi\u00e7\u00e3o ao unitarismo, de modo que haja a reparti\u00e7\u00e3o de compet\u00eancias entre os entes que integram o Estado federado.\n\n A ordem jur\u00eddica estabeleceu elementos, no texto constitucional, que caracterizam essa forma de Estado. A partir das caracter\u00edsticas da Federa\u00e7\u00e3o brasileira, assinale a afirmativa correta."
+    }
+]

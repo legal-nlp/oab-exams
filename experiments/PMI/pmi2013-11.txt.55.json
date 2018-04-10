@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Na execu\u00e7\u00e3o por quantia certa com devedor solvente, cabe ao executado indicar os bens a serem penhorados.", "correct": null}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "A expropria\u00e7\u00e3o segue, necessariamente, a seguinte ordem legal: aliena\u00e7\u00e3o em hasta p\u00fablica, aliena\u00e7\u00e3o por iniciativa particular e adjudica\u00e7\u00e3o em favor do exequente.", "correct": null}, {"letter": "C", "pmi": [-0.04260628326488453, 0.0, 0.0, 0.0], "text": "O juiz pode determinar de of\u00edcio, e a qualquer momento, a intima\u00e7\u00e3o do executado para indicar bens pass\u00edveis de penhora.", "correct": true}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Se admite, no processo de execu\u00e7\u00e3o, a cita\u00e7\u00e3o pelo correio, por oficial de justi\u00e7a e por edital.", "correct": null}], "filename": "2013-11.txt", "number": "55", "enum": "No processo de execu\u00e7\u00e3o, cabe ao credor instruir a peti\u00e7\u00e3o inicial com o t\u00edtulo extrajudicial, com o demonstrativo do cr\u00e9dito atualizado, comprovando tratar-se de cr\u00e9dito l\u00edquido, e a prova de que se operou a condi\u00e7\u00e3o ou termo, tornando-o exig\u00edvel.\n\n Sobre a tem\u00e1tica, assinale a afirmativa correta.", "areas": ["CIVIL-PROCEDURE"]}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Na execu\u00e7\u00e3o por quantia certa com devedor solvente, cabe ao executado indicar os bens a serem penhorados.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A expropria\u00e7\u00e3o segue, necessariamente, a seguinte ordem legal: aliena\u00e7\u00e3o em hasta p\u00fablica, aliena\u00e7\u00e3o por iniciativa particular e adjudica\u00e7\u00e3o em favor do exequente.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.04260628326488453,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O juiz pode determinar de of\u00edcio, e a qualquer momento, a intima\u00e7\u00e3o do executado para indicar bens pass\u00edveis de penhora.",
+                "correct": true
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se admite, no processo de execu\u00e7\u00e3o, a cita\u00e7\u00e3o pelo correio, por oficial de justi\u00e7a e por edital.",
+                "correct": null
+            }
+        ],
+        "filename": "2013-11.txt",
+        "number": "55",
+        "enum": "No processo de execu\u00e7\u00e3o, cabe ao credor instruir a peti\u00e7\u00e3o inicial com o t\u00edtulo extrajudicial, com o demonstrativo do cr\u00e9dito atualizado, comprovando tratar-se de cr\u00e9dito l\u00edquido, e a prova de que se operou a condi\u00e7\u00e3o ou termo, tornando-o exig\u00edvel.\n\n Sobre a tem\u00e1tica, assinale a afirmativa correta.",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ]
+    }
+]

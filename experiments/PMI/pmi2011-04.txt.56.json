@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2011-04.txt", "number": "56", "options": [{"text": "Venire Contra Factum Proprium.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "Exce\u00e7\u00e3o de contrato n\u00e3o cumprido.", "letter": "B", "pmi": [-0.1325229442596737, 0.0, 0.0, 0.0], "correct": null}, {"text": "Solve et Repete.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}, {"text": "Contradit\u00f3rio e ampla defesa.", "letter": "D", "pmi": [-0.1480031726096634, 0.0, 0.0, 0.0], "correct": null}], "enum": "A reda\u00e7\u00e3o da S\u00famula Vinculante 28 (\"\u00c9 inconstitucional a exig\u00eancia de dep\u00f3sito pr\u00e9vio como requisito de admissibilidade de a\u00e7\u00e3o judicial na qual se pretenda discutir a exigibilidade do cr\u00e9dito tribut\u00e1rio\") tem por escopo impedir a ado\u00e7\u00e3o de que princ\u00edpio jur\u00eddico?", "areas": ["TAXES"]}]
+[
+    {
+        "valid": true,
+        "filename": "2011-04.txt",
+        "number": "56",
+        "options": [
+            {
+                "text": "Venire Contra Factum Proprium.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Exce\u00e7\u00e3o de contrato n\u00e3o cumprido.",
+                "letter": "B",
+                "pmi": [
+                    -0.1325229442596737,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Solve et Repete.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "Contradit\u00f3rio e ampla defesa.",
+                "letter": "D",
+                "pmi": [
+                    -0.1480031726096634,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "enum": "A reda\u00e7\u00e3o da S\u00famula Vinculante 28 (\"\u00c9 inconstitucional a exig\u00eancia de dep\u00f3sito pr\u00e9vio como requisito de admissibilidade de a\u00e7\u00e3o judicial na qual se pretenda discutir a exigibilidade do cr\u00e9dito tribut\u00e1rio\") tem por escopo impedir a ado\u00e7\u00e3o de que princ\u00edpio jur\u00eddico?",
+        "areas": [
+            "TAXES"
+        ]
+    }
+]

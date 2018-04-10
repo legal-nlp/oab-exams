@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "A multiplicidade de op\u00e7\u00f5es para atua\u00e7\u00e3o do advogado desenvolveu o ramo da Advocacia P\u00fablica.  Assim, \u00e0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, nela podem ser integrados o(a), exceto:", "filename": "2012-07.txt", "number": "9", "options": [{"correct": null, "letter": "A", "text": "Advogado-Geral da Uni\u00e3o."}, {"correct": null, "letter": "B", "text": "Defensor P\u00fablico"}, {"correct": null, "letter": "C", "text": "Advogado (Procurador) de Autarquia."}, {"correct": true, "letter": "D", "text": "Advogado de Sociedade de Economia Mista."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A multiplicidade de op\u00e7\u00f5es para atua\u00e7\u00e3o do advogado desenvolveu o ramo da Advocacia P\u00fablica.  Assim, \u00e0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, nela podem ser integrados o(a), exceto:",
+        "filename": "2012-07.txt",
+        "number": "9",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Advogado-Geral da Uni\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Defensor P\u00fablico"
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Advogado (Procurador) de Autarquia."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Advogado de Sociedade de Economia Mista."
+            }
+        ],
+        "valid": true
+    }
+]

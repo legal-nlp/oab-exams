@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Jos\u00e9 da Silva, prefeito do Munic\u00edpio \u201cX\u201d, integrante do Estado \u201cY\u201d, possui familiares que pretendem concorrer a cargos eleg\u00edveis nas pr\u00f3ximas elei\u00e7\u00f5es.\n\n Sobre essa situa\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2012-09.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "Jos\u00e9 da Silva Junior, filho de Jos\u00e9 da Silva, que ter\u00e1 18 anos completos na \u00e9poca da elei\u00e7\u00e3o, poder\u00e1 se candidatar ao cargo de deputado estadual de \u201cY\u201d, desde que Jos\u00e9 da Silva tenha se desincompatibilizado seis meses antes do pleito."}, {"correct": null, "letter": "B", "text": "Maria da Silva, esposa de Jos\u00e9 da Silva, vereadora do munic\u00edpio \u201cX\u201d, s\u00f3 poder\u00e1 concorrer novamente ao cargo de vereadora, se Jos\u00e9 da Silva se desincompatibilizar seis meses antes do pleito."}, {"correct": null, "letter": "C", "text": "Jos\u00e9 da Silva poder\u00e1 concorrer ao cargo de governador do estado \u201cZ\u201d, n\u00e3o sendo necess\u00e1rio que renuncie ao mandato at\u00e9 seis meses antes do pleito."}, {"correct": true, "letter": "D", "text": "Pedro Costa, sobrinho de Jos\u00e9 da Silva, poder\u00e1 concorrer ao cargo de Vereador do Munic\u00edpio \u201cX\u201d mesmo que Jos\u00e9 da Silva n\u00e3o tenha se desincompatibilizado seis meses antes do pleito."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Jos\u00e9 da Silva, prefeito do Munic\u00edpio \u201cX\u201d, integrante do Estado \u201cY\u201d, possui familiares que pretendem concorrer a cargos eleg\u00edveis nas pr\u00f3ximas elei\u00e7\u00f5es.\n\n Sobre essa situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Jos\u00e9 da Silva Junior, filho de Jos\u00e9 da Silva, que ter\u00e1 18 anos completos na \u00e9poca da elei\u00e7\u00e3o, poder\u00e1 se candidatar ao cargo de deputado estadual de \u201cY\u201d, desde que Jos\u00e9 da Silva tenha se desincompatibilizado seis meses antes do pleito."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Maria da Silva, esposa de Jos\u00e9 da Silva, vereadora do munic\u00edpio \u201cX\u201d, s\u00f3 poder\u00e1 concorrer novamente ao cargo de vereadora, se Jos\u00e9 da Silva se desincompatibilizar seis meses antes do pleito."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Jos\u00e9 da Silva poder\u00e1 concorrer ao cargo de governador do estado \u201cZ\u201d, n\u00e3o sendo necess\u00e1rio que renuncie ao mandato at\u00e9 seis meses antes do pleito."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Pedro Costa, sobrinho de Jos\u00e9 da Silva, poder\u00e1 concorrer ao cargo de Vereador do Munic\u00edpio \u201cX\u201d mesmo que Jos\u00e9 da Silva n\u00e3o tenha se desincompatibilizado seis meses antes do pleito."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"correct": null, "text": "Prescreve em dois anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo do vencimento do contrato, se houver.", "pmi": [-0.6190108182579294, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": true, "text": "Prescreve em cinco anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo do tr\u00e2nsito em julgado da decis\u00e3o que os fixar.", "pmi": [-0.6037494670505646, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "Prescreve em dois anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo da ultima\u00e7\u00e3o do servi\u00e7o extrajudicial.", "pmi": [-0.46584285598423153, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "Prescreve em cinco anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo da decis\u00e3o que os fixar, independentemente do seu tr\u00e2nsito em julgado.", "pmi": [-0.5534370114630176, 0.0, 0.0, 0.0], "letter": "D"}], "filename": "2014-13.txt", "areas": ["ETHICS"], "enum": "Sobre o prazo para ajuizamento de a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, assinale a op\u00e7\u00e3o correta.", "number": "2"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "text": "Prescreve em dois anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo do vencimento do contrato, se houver.",
+                "pmi": [
+                    -0.6190108182579294,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "text": "Prescreve em cinco anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo do tr\u00e2nsito em julgado da decis\u00e3o que os fixar.",
+                "pmi": [
+                    -0.6037494670505646,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "Prescreve em dois anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo da ultima\u00e7\u00e3o do servi\u00e7o extrajudicial.",
+                "pmi": [
+                    -0.46584285598423153,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "Prescreve em cinco anos a a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, contando-se o prazo da decis\u00e3o que os fixar, independentemente do seu tr\u00e2nsito em julgado.",
+                "pmi": [
+                    -0.5534370114630176,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "filename": "2014-13.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Sobre o prazo para ajuizamento de a\u00e7\u00e3o de cobran\u00e7a de honor\u00e1rios de advogado, assinale a op\u00e7\u00e3o correta.",
+        "number": "2"
+    }
+]

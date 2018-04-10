@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Matheus \u00e9 estagi\u00e1rio vinculado ao escrit\u00f3rio Renato e Associados. No exerc\u00edcio da sua atividade, por ordem do advogado supervisor, o estagi\u00e1rio acompanha o cliente diretor da sociedade Tamoa\u00ed S/A. Por motivos alheios \u00e0 vontade do estagi\u00e1rio, que se disse inocente de qualquer deslize, o diretor veio a se desentender com Matheus, e, por for\u00e7a desse evento, o escrit\u00f3rio resolve renunciar ao mandato conferido pela pessoa jur\u00eddica.\n\n Nos termos do Estatuto da Advocacia, sobre o caso descrito, assinale a afirmativa correta.", "filename": "2014-14.txt", "number": "1", "options": [{"correct": null, "letter": "A", "text": "O advogado pode afastar-se do processo em que atua sem comunica\u00e7\u00e3o ao cliente."}, {"correct": true, "letter": "B", "text": "A ren\u00fancia deve ser notificada ao cliente pelos advogados mandat\u00e1rios."}, {"correct": null, "letter": "C", "text": "A ren\u00fancia aos poderes conferidos no mandato depender\u00e1 do cliente do escrit\u00f3rio."}, {"correct": null, "letter": "D", "text": "A ren\u00fancia ao mandato, sem respeitar o prazo legal, implica abandono da causa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Matheus \u00e9 estagi\u00e1rio vinculado ao escrit\u00f3rio Renato e Associados. No exerc\u00edcio da sua atividade, por ordem do advogado supervisor, o estagi\u00e1rio acompanha o cliente diretor da sociedade Tamoa\u00ed S/A. Por motivos alheios \u00e0 vontade do estagi\u00e1rio, que se disse inocente de qualquer deslize, o diretor veio a se desentender com Matheus, e, por for\u00e7a desse evento, o escrit\u00f3rio resolve renunciar ao mandato conferido pela pessoa jur\u00eddica.\n\n Nos termos do Estatuto da Advocacia, sobre o caso descrito, assinale a afirmativa correta.",
+        "filename": "2014-14.txt",
+        "number": "1",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O advogado pode afastar-se do processo em que atua sem comunica\u00e7\u00e3o ao cliente."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "A ren\u00fancia deve ser notificada ao cliente pelos advogados mandat\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A ren\u00fancia aos poderes conferidos no mandato depender\u00e1 do cliente do escrit\u00f3rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A ren\u00fancia ao mandato, sem respeitar o prazo legal, implica abandono da causa."
+            }
+        ],
+        "valid": true
+    }
+]

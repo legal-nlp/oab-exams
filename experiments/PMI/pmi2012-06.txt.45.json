@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL-PROCEDURE"], "number": "45", "valid": true, "options": [{"correct": null, "text": "Se o oficial de justi\u00e7a, ap\u00f3s comparecer tr\u00eas vezes ao local, n\u00e3o conseguir cit\u00e1-lo, mas tiver suspeita de que Andr\u00e9 se oculta, ser\u00e1 feita a cita\u00e7\u00e3o por edital.", "letter": "A", "pmi": [-0.06880427114556965, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Se a cita\u00e7\u00e3o ocorrer por meio eletr\u00f4nico e seu conte\u00fado n\u00e3o for acessado no prazo de dez dias, dever\u00e1 ocorrer a cita\u00e7\u00e3o ficta do r\u00e9u.", "letter": "B", "pmi": [-0.029261565188384502, 0.0, 0.0, 0.0]}, {"correct": true, "text": "Se Andr\u00e9 for pessoa absolutamente incapaz, n\u00e3o ser\u00e1 cab\u00edvel a cita\u00e7\u00e3o feita pelo correio.", "letter": "C", "pmi": [-0.03489393976563127, 0.0, 0.0, 0.0]}, {"correct": null, "text": "Se for necess\u00e1rio realizar a cita\u00e7\u00e3o em comarca cont\u00edgua, dever\u00e1 ser expedida carta precat\u00f3ria para que o ju\u00edzo deprecante realize a cita\u00e7\u00e3o.", "letter": "D", "pmi": [-0.026148590091373283, 0.0, 0.0, 0.0]}], "filename": "2012-06.txt", "enum": "Maria ingressou, na vara c\u00edvel da comarca XYZ, com uma a\u00e7\u00e3o de responsabilidade civil em face de Andr\u00e9, observando o rito comum ordin\u00e1rio. Andr\u00e9 \u00e9 regularmente citado para oferecer resposta. Com base nas modalidades de cita\u00e7\u00e3o previstas pelo Direito Processual Civil, assinale a alternativa correta."}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "number": "45",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "text": "Se o oficial de justi\u00e7a, ap\u00f3s comparecer tr\u00eas vezes ao local, n\u00e3o conseguir cit\u00e1-lo, mas tiver suspeita de que Andr\u00e9 se oculta, ser\u00e1 feita a cita\u00e7\u00e3o por edital.",
+                "letter": "A",
+                "pmi": [
+                    -0.06880427114556965,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Se a cita\u00e7\u00e3o ocorrer por meio eletr\u00f4nico e seu conte\u00fado n\u00e3o for acessado no prazo de dez dias, dever\u00e1 ocorrer a cita\u00e7\u00e3o ficta do r\u00e9u.",
+                "letter": "B",
+                "pmi": [
+                    -0.029261565188384502,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "Se Andr\u00e9 for pessoa absolutamente incapaz, n\u00e3o ser\u00e1 cab\u00edvel a cita\u00e7\u00e3o feita pelo correio.",
+                "letter": "C",
+                "pmi": [
+                    -0.03489393976563127,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "Se for necess\u00e1rio realizar a cita\u00e7\u00e3o em comarca cont\u00edgua, dever\u00e1 ser expedida carta precat\u00f3ria para que o ju\u00edzo deprecante realize a cita\u00e7\u00e3o.",
+                "letter": "D",
+                "pmi": [
+                    -0.026148590091373283,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2012-06.txt",
+        "enum": "Maria ingressou, na vara c\u00edvel da comarca XYZ, com uma a\u00e7\u00e3o de responsabilidade civil em face de Andr\u00e9, observando o rito comum ordin\u00e1rio. Andr\u00e9 \u00e9 regularmente citado para oferecer resposta. Com base nas modalidades de cita\u00e7\u00e3o previstas pelo Direito Processual Civil, assinale a alternativa correta."
+    }
+]

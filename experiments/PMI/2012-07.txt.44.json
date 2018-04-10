@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Com base na tutela coletiva, \u00e9 correto afirmar que", "filename": "2012-07.txt", "number": "44", "options": [{"correct": null, "letter": "A", "text": "s\u00e3o direitos individuais homog\u00eaneos os transindividuais, de natureza indivis\u00edvel, de que sejam titulares pessoas indeterminadas e ligadas por circunst\u00e2ncias de fato."}, {"correct": null, "letter": "B", "text": "em uma a\u00e7\u00e3o civil p\u00fablica tratando de direitos coletivos em sentido estrito, a coisa julgada se forma ultra partes, mas limitadamente ao grupo, categoria ou classe, at\u00e9 mesmo no caso de o pedido ser julgado improcedente por insufici\u00eancia de prova."}, {"correct": true, "letter": "C", "text": "o mandado de seguran\u00e7a coletivo, nos termos da Lei n\u00ba. 12.016/2009, n\u00e3o induz litispend\u00eancia para as a\u00e7\u00f5es individuais, mas os efeitos da coisa julgada s\u00f3 beneficiar\u00e3o o impetrante a t\u00edtulo individual se for requerida a desist\u00eancia de seu mandado de seguran\u00e7a individual, no prazo de 30 dias a contar da ci\u00eancia da impetra\u00e7\u00e3o do mandado de seguran\u00e7a coletivo."}, {"correct": null, "letter": "D", "text": "em uma a\u00e7\u00e3o civil p\u00fablica, o Minist\u00e9rio P\u00fablico somente poder\u00e1 atuar como parte, tutelando os interesses transindividuais nas hip\u00f3teses previstas no Par\u00e1grafo \u00fanico do artigo 1o, da Lei n\u00ba. 7.347/85, ou seja, a\u00e7\u00f5es de natureza pevidenci\u00e1ria, tribut\u00e1ria, ou relativas ao FGTS."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Com base na tutela coletiva, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "s\u00e3o direitos individuais homog\u00eaneos os transindividuais, de natureza indivis\u00edvel, de que sejam titulares pessoas indeterminadas e ligadas por circunst\u00e2ncias de fato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "em uma a\u00e7\u00e3o civil p\u00fablica tratando de direitos coletivos em sentido estrito, a coisa julgada se forma ultra partes, mas limitadamente ao grupo, categoria ou classe, at\u00e9 mesmo no caso de o pedido ser julgado improcedente por insufici\u00eancia de prova."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o mandado de seguran\u00e7a coletivo, nos termos da Lei n\u00ba. 12.016/2009, n\u00e3o induz litispend\u00eancia para as a\u00e7\u00f5es individuais, mas os efeitos da coisa julgada s\u00f3 beneficiar\u00e3o o impetrante a t\u00edtulo individual se for requerida a desist\u00eancia de seu mandado de seguran\u00e7a individual, no prazo de 30 dias a contar da ci\u00eancia da impetra\u00e7\u00e3o do mandado de seguran\u00e7a coletivo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "em uma a\u00e7\u00e3o civil p\u00fablica, o Minist\u00e9rio P\u00fablico somente poder\u00e1 atuar como parte, tutelando os interesses transindividuais nas hip\u00f3teses previstas no Par\u00e1grafo \u00fanico do artigo 1o, da Lei n\u00ba. 7.347/85, ou seja, a\u00e7\u00f5es de natureza pevidenci\u00e1ria, tribut\u00e1ria, ou relativas ao FGTS."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Nos processos trabalhistas submetidos ao rito sumar\u00edssimo, \u00e9 correto afirmar que", "filename": "2012-07.txt", "number": "76", "options": [{"correct": null, "letter": "A", "text": "n\u00e3o cabe a produ\u00e7\u00e3o de prova pericial."}, {"correct": null, "letter": "B", "text": "a cita\u00e7\u00e3o por edital somente ser\u00e1 permitida se efetivamente for comprovado pelo autor que o r\u00e9u se encontra em local incerto ou desconhecido."}, {"correct": null, "letter": "C", "text": "o recurso ordin\u00e1rio ter\u00e1 parecer circunstanciado escrito do Minist\u00e9rio P\u00fablico do Trabalho nos casos em que o desembargador relator entender estritamente necess\u00e1rio, diante da exist\u00eancia de interesse p\u00fablico a ser tutelado."}, {"correct": true, "letter": "D", "text": "se submetem ao rito sumar\u00edssimo as causas cujo valor n\u00e3o exceda a quarenta vezes o sal\u00e1rio m\u00ednimo vigente na data do ajuizamento da a\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Nos processos trabalhistas submetidos ao rito sumar\u00edssimo, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "76",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "n\u00e3o cabe a produ\u00e7\u00e3o de prova pericial."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a cita\u00e7\u00e3o por edital somente ser\u00e1 permitida se efetivamente for comprovado pelo autor que o r\u00e9u se encontra em local incerto ou desconhecido."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o recurso ordin\u00e1rio ter\u00e1 parecer circunstanciado escrito do Minist\u00e9rio P\u00fablico do Trabalho nos casos em que o desembargador relator entender estritamente necess\u00e1rio, diante da exist\u00eancia de interesse p\u00fablico a ser tutelado."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "se submetem ao rito sumar\u00edssimo as causas cujo valor n\u00e3o exceda a quarenta vezes o sal\u00e1rio m\u00ednimo vigente na data do ajuizamento da a\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

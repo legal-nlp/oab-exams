@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.08885833683753089, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "O acionista controlador \u00e9 sempre o acionista majorit\u00e1rio, ou seja, aquele com maior n\u00famero de a\u00e7\u00f5es da companhia, devendo usar seu poder de controle para fazer, a qualquer custo, com que a companhia tenha uma maior margem de lucro."}, {"pmi": [-0.016574550157197936, 0.0, 0.0, 0.0], "correct": true, "letter": "B", "text": "Somente nas companhias fechadas \u00e9 que todos os administradores s\u00e3o respons\u00e1veis pelos preju\u00edzos que causarem pelo n\u00e3o cumprimento dos deveres impostos pela lei para assegurar o funcionamento normal da companhia, ainda que, de acordo com o estatuto, tais deveres n\u00e3o sejam de compet\u00eancia de todos eles."}, {"pmi": [-0.09870949288366007, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "A \u00fanica obriga\u00e7\u00e3o do acionista \u00e9 a integraliza\u00e7\u00e3o de suas a\u00e7\u00f5es, n\u00e3o tendo qualquer outra responsabilidade para com a companhia."}, {"pmi": [-0.15104784234832866, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "Para que os administradores sejam responsabilizados pela pr\u00e1tica de seus atos, h\u00e1 necessidade de se causarem preju\u00edzos efetivos \u00e0 companhia, e apenas se seus atos forem comissivos."}], "filename": "2011-03.txt", "areas": ["BUSINESS"], "number": "42", "enum": "A Lei das Sociedades por A\u00e7\u00f5es estabelece responsabilidades para os administradores, membros do Conselho Fiscal e para o acionista controlador. A viola\u00e7\u00e3o a tais deveres pode causar responsabilidade civil, administrativa e penal.\n\n Em rela\u00e7\u00e3o aos deveres e responsabilidades dos administradores, conselheiros e acionistas, assinale a alternativa correta.", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.08885833683753089,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "O acionista controlador \u00e9 sempre o acionista majorit\u00e1rio, ou seja, aquele com maior n\u00famero de a\u00e7\u00f5es da companhia, devendo usar seu poder de controle para fazer, a qualquer custo, com que a companhia tenha uma maior margem de lucro."
+            },
+            {
+                "pmi": [
+                    -0.016574550157197936,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B",
+                "text": "Somente nas companhias fechadas \u00e9 que todos os administradores s\u00e3o respons\u00e1veis pelos preju\u00edzos que causarem pelo n\u00e3o cumprimento dos deveres impostos pela lei para assegurar o funcionamento normal da companhia, ainda que, de acordo com o estatuto, tais deveres n\u00e3o sejam de compet\u00eancia de todos eles."
+            },
+            {
+                "pmi": [
+                    -0.09870949288366007,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "A \u00fanica obriga\u00e7\u00e3o do acionista \u00e9 a integraliza\u00e7\u00e3o de suas a\u00e7\u00f5es, n\u00e3o tendo qualquer outra responsabilidade para com a companhia."
+            },
+            {
+                "pmi": [
+                    -0.15104784234832866,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "Para que os administradores sejam responsabilizados pela pr\u00e1tica de seus atos, h\u00e1 necessidade de se causarem preju\u00edzos efetivos \u00e0 companhia, e apenas se seus atos forem comissivos."
+            }
+        ],
+        "filename": "2011-03.txt",
+        "areas": [
+            "BUSINESS"
+        ],
+        "number": "42",
+        "enum": "A Lei das Sociedades por A\u00e7\u00f5es estabelece responsabilidades para os administradores, membros do Conselho Fiscal e para o acionista controlador. A viola\u00e7\u00e3o a tais deveres pode causar responsabilidade civil, administrativa e penal.\n\n Em rela\u00e7\u00e3o aos deveres e responsabilidades dos administradores, conselheiros e acionistas, assinale a alternativa correta.",
+        "valid": true
+    }
+]

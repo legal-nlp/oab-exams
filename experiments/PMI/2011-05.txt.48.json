@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A respeito da delibera\u00e7\u00e3o dos s\u00f3cios na Sociedade Limitada, \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "48", "options": [{"correct": null, "letter": "A", "text": "a assembleia somente pode ser convocada pelos administradores eleitos no contrato social."}, {"correct": true, "letter": "B", "text": "as formalidades legais de convoca\u00e7\u00e3o s\u00e3o dispensadas quando todos os s\u00f3cios se declararem, por escrito, cientes do local, data, hora e ordem do dia."}, {"correct": null, "letter": "C", "text": "a delibera\u00e7\u00e3o em assembleia ser\u00e1 obrigat\u00f3ria se o n\u00famero dos s\u00f3cios for superior a cinco."}, {"correct": null, "letter": "D", "text": "as delibera\u00e7\u00f5es tomadas de conformidade com a lei e o contrato vinculam os s\u00f3cios ausentes, mas n\u00e3o os dissidentes."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A respeito da delibera\u00e7\u00e3o dos s\u00f3cios na Sociedade Limitada, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "48",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a assembleia somente pode ser convocada pelos administradores eleitos no contrato social."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "as formalidades legais de convoca\u00e7\u00e3o s\u00e3o dispensadas quando todos os s\u00f3cios se declararem, por escrito, cientes do local, data, hora e ordem do dia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a delibera\u00e7\u00e3o em assembleia ser\u00e1 obrigat\u00f3ria se o n\u00famero dos s\u00f3cios for superior a cinco."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "as delibera\u00e7\u00f5es tomadas de conformidade com a lei e o contrato vinculam os s\u00f3cios ausentes, mas n\u00e3o os dissidentes."
+            }
+        ],
+        "valid": true
+    }
+]

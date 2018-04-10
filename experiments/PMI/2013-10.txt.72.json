@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Uma empresa contrata plano de sa\u00fade para os seus empregados, sem custo para os mesmos, com direito de interna\u00e7\u00e3o em quarto particular. Posteriormente, estando em dificuldade financeira, resolve alterar as condi\u00e7\u00f5es do plano para uso de enfermaria coletiva, em substitui\u00e7\u00e3o ao quarto particular. Ap\u00f3s a altera\u00e7\u00e3o, um empregado \u00e9 contratado, passa mal e exige da empresa sua interna\u00e7\u00e3o em quarto particular.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2013-10.txt", "number": "72", "options": [{"correct": null, "letter": "A", "text": "O empregado est\u00e1 correto, pois n\u00e3o pode haver altera\u00e7\u00e3o contratual que traga malef\u00edcio ao trabalhador, como foi o caso."}, {"correct": true, "letter": "B", "text": "O empregado est\u00e1 errado, pois sua contrata\u00e7\u00e3o j\u00e1 ocorreu na vig\u00eancia das novas condi\u00e7\u00f5es, retirando o direito ao quarto particular."}, {"correct": null, "letter": "C", "text": "O empregado est\u00e1 correto, pois as vantagens atribu\u00eddas \u00e0 classe trabalhadora n\u00e3o podem retroceder, sob pena de perda da conquista social."}, {"correct": null, "letter": "D", "text": "O empregado teria direito ao quarto particular se comprovasse que a doen\u00e7a teve origem antes de ser contratado e antes da altera\u00e7\u00e3o das condi\u00e7\u00f5es do plano de sa\u00fade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Uma empresa contrata plano de sa\u00fade para os seus empregados, sem custo para os mesmos, com direito de interna\u00e7\u00e3o em quarto particular. Posteriormente, estando em dificuldade financeira, resolve alterar as condi\u00e7\u00f5es do plano para uso de enfermaria coletiva, em substitui\u00e7\u00e3o ao quarto particular. Ap\u00f3s a altera\u00e7\u00e3o, um empregado \u00e9 contratado, passa mal e exige da empresa sua interna\u00e7\u00e3o em quarto particular.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O empregado est\u00e1 correto, pois n\u00e3o pode haver altera\u00e7\u00e3o contratual que traga malef\u00edcio ao trabalhador, como foi o caso."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O empregado est\u00e1 errado, pois sua contrata\u00e7\u00e3o j\u00e1 ocorreu na vig\u00eancia das novas condi\u00e7\u00f5es, retirando o direito ao quarto particular."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O empregado est\u00e1 correto, pois as vantagens atribu\u00eddas \u00e0 classe trabalhadora n\u00e3o podem retroceder, sob pena de perda da conquista social."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O empregado teria direito ao quarto particular se comprovasse que a doen\u00e7a teve origem antes de ser contratado e antes da altera\u00e7\u00e3o das condi\u00e7\u00f5es do plano de sa\u00fade."
+            }
+        ],
+        "valid": true
+    }
+]

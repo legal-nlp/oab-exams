@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Jo\u00e3o trabalha na \u00e1rea de vendas em uma empresa de cigarros. Recebe do empregador, em raz\u00e3o do seu cargo, moradia e pagamento da conta de luz do apartamento, al\u00e9m de ter ve\u00edculo cedido com combust\u00edvel. Tal se d\u00e1 em raz\u00e3o da necessidade do trabalho, dado que Jo\u00e3o trabalha em local distante de grande centro, sendo respons\u00e1vel pela distribui\u00e7\u00e3o e venda dos produtos na regi\u00e3o. Al\u00e9m disso, Jo\u00e3o recebe uma quota mensal de 10 pacotes de cigarro por m\u00eas, independentemente de sua remunera\u00e7\u00e3o, n\u00e3o sendo necess\u00e1rio prestar contas do que faz com os cigarros.\n\n A partir do caso narrado, assinale a afirmativa correta.", "filename": "2015-16.txt", "number": "74", "options": [{"correct": null, "letter": "A", "text": "Os valores relativos \u00e0 habita\u00e7\u00e3o, \u00e0 energia el\u00e9trica e ao ve\u00edculo integram a remunera\u00e7\u00e3o de Jo\u00e3o, por serem sal\u00e1rio-utilidade, mas n\u00e3o o cigarro, por ser nocivo \u00e0 sa\u00fade."}, {"correct": null, "letter": "B", "text": "Os valores de habita\u00e7\u00e3o e ve\u00edculo integram a remunera\u00e7\u00e3o de Jo\u00e3o. A energia el\u00e9trica e o combust\u00edvel, n\u00e3o, pois j\u00e1 incorporados, respectivamente, na habita\u00e7\u00e3o e no ve\u00edculo.  O valor do cigarro n\u00e3o \u00e9 integrado, face \u00e0 nocividade \u00e0 sa\u00fade."}, {"correct": true, "letter": "C", "text": "Nenhum dos valores da utilidade integram a remunera\u00e7\u00e3o de Jo\u00e3o."}, {"correct": null, "letter": "D", "text": "Tratando-se de sal\u00e1rio in natura, todos os valores integram a remunera\u00e7\u00e3o de Jo\u00e3o, pois s\u00e3o dados com a ideia de contrapresta\u00e7\u00e3o aos servi\u00e7os."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Jo\u00e3o trabalha na \u00e1rea de vendas em uma empresa de cigarros. Recebe do empregador, em raz\u00e3o do seu cargo, moradia e pagamento da conta de luz do apartamento, al\u00e9m de ter ve\u00edculo cedido com combust\u00edvel. Tal se d\u00e1 em raz\u00e3o da necessidade do trabalho, dado que Jo\u00e3o trabalha em local distante de grande centro, sendo respons\u00e1vel pela distribui\u00e7\u00e3o e venda dos produtos na regi\u00e3o. Al\u00e9m disso, Jo\u00e3o recebe uma quota mensal de 10 pacotes de cigarro por m\u00eas, independentemente de sua remunera\u00e7\u00e3o, n\u00e3o sendo necess\u00e1rio prestar contas do que faz com os cigarros.\n\n A partir do caso narrado, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os valores relativos \u00e0 habita\u00e7\u00e3o, \u00e0 energia el\u00e9trica e ao ve\u00edculo integram a remunera\u00e7\u00e3o de Jo\u00e3o, por serem sal\u00e1rio-utilidade, mas n\u00e3o o cigarro, por ser nocivo \u00e0 sa\u00fade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Os valores de habita\u00e7\u00e3o e ve\u00edculo integram a remunera\u00e7\u00e3o de Jo\u00e3o. A energia el\u00e9trica e o combust\u00edvel, n\u00e3o, pois j\u00e1 incorporados, respectivamente, na habita\u00e7\u00e3o e no ve\u00edculo.  O valor do cigarro n\u00e3o \u00e9 integrado, face \u00e0 nocividade \u00e0 sa\u00fade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Nenhum dos valores da utilidade integram a remunera\u00e7\u00e3o de Jo\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Tratando-se de sal\u00e1rio in natura, todos os valores integram a remunera\u00e7\u00e3o de Jo\u00e3o, pois s\u00e3o dados com a ideia de contrapresta\u00e7\u00e3o aos servi\u00e7os."
+            }
+        ],
+        "valid": true
+    }
+]

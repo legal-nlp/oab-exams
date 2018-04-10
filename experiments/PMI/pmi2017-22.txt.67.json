@@ -1,1 +1,57 @@
-[{"enum": "Em 23 de novembro de 2015 (segunda feira), sendo o dia seguinte dia \u00fatil em todo o pa\u00eds, T\u00e9cio, advogado de defesa de r\u00e9u em a\u00e7\u00e3o penal de natureza condenat\u00f3ria, \u00e9 intimado da senten\u00e7a condenat\u00f3ria de seu cliente. No curso do prazo recursal, por\u00e9m, entrou em vigor nova lei de natureza puramente processual, que alterava o C\u00f3digo de Processo Penal e passava a prever que o prazo para apresenta\u00e7\u00e3o de recurso de apela\u00e7\u00e3o seria de 03 dias e n\u00e3o mais de 05 dias. No dia 30 de novembro de 2015, dia \u00fatil, T\u00e9cio apresenta recurso de apela\u00e7\u00e3o acompanhado das respectivas raz\u00f5es.  Considerando a hip\u00f3tese narrada, o recurso do advogado \u00e9", "number": "67", "options": [{"pmi": [-0.17988872035667847, 0.0, 0.0, 0.0], "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado.", "correct": null, "letter": "A"}, {"pmi": [-0.1648979936602886, 0.0, 0.0, 0.0], "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.", "correct": true, "letter": "B"}, {"pmi": [-0.1648979936602886, 0.0, 0.0, 0.0], "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.", "correct": null, "letter": "C"}, {"pmi": [-0.25138443478656697, 0.0, 0.0, 0.0], "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado.", "correct": null, "letter": "D"}], "filename": "2017-22.txt", "areas": [null], "valid": true}]
+[
+    {
+        "enum": "Em 23 de novembro de 2015 (segunda feira), sendo o dia seguinte dia \u00fatil em todo o pa\u00eds, T\u00e9cio, advogado de defesa de r\u00e9u em a\u00e7\u00e3o penal de natureza condenat\u00f3ria, \u00e9 intimado da senten\u00e7a condenat\u00f3ria de seu cliente. No curso do prazo recursal, por\u00e9m, entrou em vigor nova lei de natureza puramente processual, que alterava o C\u00f3digo de Processo Penal e passava a prever que o prazo para apresenta\u00e7\u00e3o de recurso de apela\u00e7\u00e3o seria de 03 dias e n\u00e3o mais de 05 dias. No dia 30 de novembro de 2015, dia \u00fatil, T\u00e9cio apresenta recurso de apela\u00e7\u00e3o acompanhado das respectivas raz\u00f5es.  Considerando a hip\u00f3tese narrada, o recurso do advogado \u00e9",
+        "number": "67",
+        "options": [
+            {
+                "pmi": [
+                    -0.17988872035667847,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.1648979936602886,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.1648979936602886,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.25138443478656697,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ],
+        "valid": true
+    }
+]

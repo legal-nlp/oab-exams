@@ -1,1 +1,57 @@
-[{"enum": "Isabela \u00e9 advogada prestigiada, tendo organizado, com o correr dos anos, um escrit\u00f3rio de advocacia especializado em Direito Ambiental, com v\u00e1rios advogados associados. Por sugest\u00e3o de um deles, edita um atualizado boletim de not\u00edcias, com informa\u00e7\u00f5es jurisprudenciais, doutrin\u00e1rias, legais e internacionais sobre o tema, considerado uma publica\u00e7\u00e3o de alt\u00edssima qualidade, que \u00e9 distribu\u00eddo somente aos profissionais do escrit\u00f3rio. Sabedor da publica\u00e7\u00e3o, Eus\u00e9bio, jovem estudante de Direito, que busca direcionar seus estudos para a \u00e1rea ambiental, solicita acesso ao referido boletim.\n\n Nos termos do C\u00f3digo de \u00c9tica da Advocacia, o boletim de not\u00edcias", "areas": ["ETHICS"], "number": "10", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "deve circular restritivamente entre os profissionais do escrit\u00f3rio."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "pode ser enviado a qualquer pessoa como forma de propaganda."}, {"pmi": [0.0, 0.0, 0, 0], "letter": "C", "correct": true, "text": "pode ser remetido a quem o requerer."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "\u00e9 considerado como publicidade abusiva e vedado ao advogado."}], "valid": true, "filename": "2013-12.txt"}]
+[
+    {
+        "enum": "Isabela \u00e9 advogada prestigiada, tendo organizado, com o correr dos anos, um escrit\u00f3rio de advocacia especializado em Direito Ambiental, com v\u00e1rios advogados associados. Por sugest\u00e3o de um deles, edita um atualizado boletim de not\u00edcias, com informa\u00e7\u00f5es jurisprudenciais, doutrin\u00e1rias, legais e internacionais sobre o tema, considerado uma publica\u00e7\u00e3o de alt\u00edssima qualidade, que \u00e9 distribu\u00eddo somente aos profissionais do escrit\u00f3rio. Sabedor da publica\u00e7\u00e3o, Eus\u00e9bio, jovem estudante de Direito, que busca direcionar seus estudos para a \u00e1rea ambiental, solicita acesso ao referido boletim.\n\n Nos termos do C\u00f3digo de \u00c9tica da Advocacia, o boletim de not\u00edcias",
+        "areas": [
+            "ETHICS"
+        ],
+        "number": "10",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "deve circular restritivamente entre os profissionais do escrit\u00f3rio."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "pode ser enviado a qualquer pessoa como forma de propaganda."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "pode ser remetido a quem o requerer."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "\u00e9 considerado como publicidade abusiva e vedado ao advogado."
+            }
+        ],
+        "valid": true,
+        "filename": "2013-12.txt"
+    }
+]

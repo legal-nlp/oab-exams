@@ -1,1 +1,57 @@
-[{"number": "32", "enum": "Cl\u00e1udio, servidor p\u00fablico federal est\u00e1vel, foi demitido por suposta pr\u00e1tica de ato de insubordina\u00e7\u00e3o grave em servi\u00e7o. Diante da inexist\u00eancia de regular processo administrativo disciplinar, Cl\u00e1udio conseguiu judicialmente a anula\u00e7\u00e3o da demiss\u00e3o e a reinvestidura no cargo anteriormente ocupado. Ocorre que tal cargo j\u00e1 estava ocupado por Jo\u00e3o, que tamb\u00e9m \u00e9 servidor p\u00fablico est\u00e1vel.\n\n Considerando o caso concreto, assinale a afirmativa correta.", "filename": "2013-12.txt", "options": [{"pmi": [-0.3679401564522154, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "Sendo Cl\u00e1udio reinvestido, o ato configura reintegra\u00e7\u00e3o. Caso Jo\u00e3o ocupasse outro cargo originariamente, seria reconduzido a ele, com direito \u00e0 indeniza\u00e7\u00e3o."}, {"pmi": [-0.3679401564522154, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "Sendo Cl\u00e1udio reinvestido, o ato configura revers\u00e3o. Caso Jo\u00e3o ocupasse outro cargo originariamente, seria reconduzido a ele, com direito \u00e0 indeniza\u00e7\u00e3o."}, {"pmi": [-0.26186998137352663, 0.0, 0.0, 0.0], "correct": true, "letter": "C", "text": "Cl\u00e1udio obteve em ju\u00edzo sua reintegra\u00e7\u00e3o. Jo\u00e3o ser\u00e1 reconduzido ao cargo de origem, sem indeniza\u00e7\u00e3o, ou ser\u00e1 aproveitado em outro cargo ou posto em disponibilidade."}, {"pmi": [-0.26186998137352663, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "Cl\u00e1udio obteve em ju\u00edzo sua revers\u00e3o. Jo\u00e3o ser\u00e1 reconduzido ao cargo de origem, sem indeniza\u00e7\u00e3o, ou ser\u00e1 aproveitado em outro cargo ou posto em disponibilidade."}], "valid": true, "areas": ["ADMINISTRATIVE"]}]
+[
+    {
+        "number": "32",
+        "enum": "Cl\u00e1udio, servidor p\u00fablico federal est\u00e1vel, foi demitido por suposta pr\u00e1tica de ato de insubordina\u00e7\u00e3o grave em servi\u00e7o. Diante da inexist\u00eancia de regular processo administrativo disciplinar, Cl\u00e1udio conseguiu judicialmente a anula\u00e7\u00e3o da demiss\u00e3o e a reinvestidura no cargo anteriormente ocupado. Ocorre que tal cargo j\u00e1 estava ocupado por Jo\u00e3o, que tamb\u00e9m \u00e9 servidor p\u00fablico est\u00e1vel.\n\n Considerando o caso concreto, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.3679401564522154,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "Sendo Cl\u00e1udio reinvestido, o ato configura reintegra\u00e7\u00e3o. Caso Jo\u00e3o ocupasse outro cargo originariamente, seria reconduzido a ele, com direito \u00e0 indeniza\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.3679401564522154,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "Sendo Cl\u00e1udio reinvestido, o ato configura revers\u00e3o. Caso Jo\u00e3o ocupasse outro cargo originariamente, seria reconduzido a ele, com direito \u00e0 indeniza\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.26186998137352663,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C",
+                "text": "Cl\u00e1udio obteve em ju\u00edzo sua reintegra\u00e7\u00e3o. Jo\u00e3o ser\u00e1 reconduzido ao cargo de origem, sem indeniza\u00e7\u00e3o, ou ser\u00e1 aproveitado em outro cargo ou posto em disponibilidade."
+            },
+            {
+                "pmi": [
+                    -0.26186998137352663,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "Cl\u00e1udio obteve em ju\u00edzo sua revers\u00e3o. Jo\u00e3o ser\u00e1 reconduzido ao cargo de origem, sem indeniza\u00e7\u00e3o, ou ser\u00e1 aproveitado em outro cargo ou posto em disponibilidade."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "ADMINISTRATIVE"
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "O procedimento sum\u00e1rio deve ser adotado em causas cujo valor n\u00e3o supere sessenta sal\u00e1rios m\u00ednimos ou em situa\u00e7\u00f5es, qualquer que seja o valor da causa, em que se debata um dos assuntos previstos na lei.\n\n Indique, dentre as alternativas abaixo, a que cont\u00e9m esp\u00e9cie de resposta que n\u00e3o pode ser apresentada pelo r\u00e9u no rito comum sum\u00e1rio.", "filename": "2012-08.txt", "number": "54", "options": [{"correct": true, "letter": "A", "text": "Reconven\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "Exce\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "Contesta\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Impugna\u00e7\u00e3o ao valor da causa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "O procedimento sum\u00e1rio deve ser adotado em causas cujo valor n\u00e3o supere sessenta sal\u00e1rios m\u00ednimos ou em situa\u00e7\u00f5es, qualquer que seja o valor da causa, em que se debata um dos assuntos previstos na lei.\n\n Indique, dentre as alternativas abaixo, a que cont\u00e9m esp\u00e9cie de resposta que n\u00e3o pode ser apresentada pelo r\u00e9u no rito comum sum\u00e1rio.",
+        "filename": "2012-08.txt",
+        "number": "54",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Reconven\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Exce\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Contesta\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Impugna\u00e7\u00e3o ao valor da causa."
+            }
+        ],
+        "valid": true
+    }
+]

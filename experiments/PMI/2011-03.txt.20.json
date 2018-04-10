@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Em um processo que observa o rito comum ordin\u00e1rio, o juiz profere decis\u00e3o interlocut\u00f3ria contr\u00e1ria aos interesses do r\u00e9u. \u00c9 certo que, se a decis\u00e3o em quest\u00e3o n\u00e3o for rapidamente apreciada e revertida, sofrer\u00e1 a parte dano grave, de dif\u00edcil ou imposs\u00edvel repara\u00e7\u00e3o. Assim sendo, o advogado do r\u00e9u prepara o recurso de agravo de instrumento, cuja peti\u00e7\u00e3o de interposi\u00e7\u00e3o cont\u00e9m a exposi\u00e7\u00e3o dos fundamentos de fato e de direito, as raz\u00f5es do pedido de reforma da decis\u00e3o agravada, al\u00e9m do nome e endere\u00e7o dos advogados que atuam no processo. A peti\u00e7\u00e3o est\u00e1, ainda, instru\u00edda com todas as pe\u00e7as obrigat\u00f3rias que ir\u00e3o formar o instrumento do agravo. Contudo, o agravante deixou de requerer a juntada, no prazo legal, aos autos do processo, de c\u00f3pia da peti\u00e7\u00e3o do agravo de instrumento e do comprovante de sua interposi\u00e7\u00e3o, assim como a rela\u00e7\u00e3o dos documentos que instru\u00edram o recurso, fato que foi arguido e provado pelo agravado. Com base no relatado acima, assinale a alternativa correta a respeito da consequ\u00eancia processual decorrente.", "filename": "2011-03.txt", "number": "20", "options": [{"correct": null, "letter": "A", "text": "Haver\u00e1 prosseguimento normal do recurso, pois tal juntada caracteriza mera faculdade do agravante."}, {"correct": true, "letter": "B", "text": "N\u00e3o ser\u00e1 admitido o agravo de instrumento."}, {"correct": null, "letter": "C", "text": "O agravo de instrumento ser\u00e1 julgado pelo tribunal, inviabilizando-se, apenas, o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o pelo magistrado."}, {"correct": null, "letter": "D", "text": "Estar\u00e1 caracterizada a litig\u00e2ncia de m\u00e1-f\u00e9, por for\u00e7a de pr\u00e1tica de ato processual manifestamente protelat\u00f3rio, devendo a parte agravante ser sancionada, e o feito, extinto sem resolu\u00e7\u00e3o do m\u00e9rito."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Em um processo que observa o rito comum ordin\u00e1rio, o juiz profere decis\u00e3o interlocut\u00f3ria contr\u00e1ria aos interesses do r\u00e9u. \u00c9 certo que, se a decis\u00e3o em quest\u00e3o n\u00e3o for rapidamente apreciada e revertida, sofrer\u00e1 a parte dano grave, de dif\u00edcil ou imposs\u00edvel repara\u00e7\u00e3o. Assim sendo, o advogado do r\u00e9u prepara o recurso de agravo de instrumento, cuja peti\u00e7\u00e3o de interposi\u00e7\u00e3o cont\u00e9m a exposi\u00e7\u00e3o dos fundamentos de fato e de direito, as raz\u00f5es do pedido de reforma da decis\u00e3o agravada, al\u00e9m do nome e endere\u00e7o dos advogados que atuam no processo. A peti\u00e7\u00e3o est\u00e1, ainda, instru\u00edda com todas as pe\u00e7as obrigat\u00f3rias que ir\u00e3o formar o instrumento do agravo. Contudo, o agravante deixou de requerer a juntada, no prazo legal, aos autos do processo, de c\u00f3pia da peti\u00e7\u00e3o do agravo de instrumento e do comprovante de sua interposi\u00e7\u00e3o, assim como a rela\u00e7\u00e3o dos documentos que instru\u00edram o recurso, fato que foi arguido e provado pelo agravado. Com base no relatado acima, assinale a alternativa correta a respeito da consequ\u00eancia processual decorrente.",
+        "filename": "2011-03.txt",
+        "number": "20",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Haver\u00e1 prosseguimento normal do recurso, pois tal juntada caracteriza mera faculdade do agravante."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "N\u00e3o ser\u00e1 admitido o agravo de instrumento."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O agravo de instrumento ser\u00e1 julgado pelo tribunal, inviabilizando-se, apenas, o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o pelo magistrado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Estar\u00e1 caracterizada a litig\u00e2ncia de m\u00e1-f\u00e9, por for\u00e7a de pr\u00e1tica de ato processual manifestamente protelat\u00f3rio, devendo a parte agravante ser sancionada, e o feito, extinto sem resolu\u00e7\u00e3o do m\u00e9rito."
+            }
+        ],
+        "valid": true
+    }
+]

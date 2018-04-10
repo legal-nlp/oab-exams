@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Concei\u00e7\u00e3o promove a\u00e7\u00e3o possess\u00f3ria em face de v\u00e1rios r\u00e9us que ocuparam im\u00f3vel sem constru\u00e7\u00e3o, de sua propriedade, em \u00e1rea urbana. Houve a designa\u00e7\u00e3o de audi\u00eancia de concilia\u00e7\u00e3o, com a presen\u00e7a dos r\u00e9us e dos seus advogados. Na audi\u00eancia, visando organizar o ato, o magistrado proibiu que os advogados se mantivessem de p\u00e9, bem como sa\u00edssem do local durante a sua realiza\u00e7\u00e3o.\n\n Com base no que disp\u00f5e o Estatuto da Advocacia e as leis regentes, \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "7", "options": [{"correct": null, "letter": "A", "text": "o advogado deve permanecer sentado na sala de audi\u00eancias at\u00e9 o final do ato."}, {"correct": null, "letter": "B", "text": "caso o advogado necessite retirar-se do local, deve postular licen\u00e7a \u00e0 autoridade."}, {"correct": true, "letter": "C", "text": "o advogado pode permanecer sentado ou de p\u00e9 nos recintos do Poder Judici\u00e1rio."}, {"correct": null, "letter": "D", "text": "pode permanecer de p\u00e9, caso autorizado pela autoridade competente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Concei\u00e7\u00e3o promove a\u00e7\u00e3o possess\u00f3ria em face de v\u00e1rios r\u00e9us que ocuparam im\u00f3vel sem constru\u00e7\u00e3o, de sua propriedade, em \u00e1rea urbana. Houve a designa\u00e7\u00e3o de audi\u00eancia de concilia\u00e7\u00e3o, com a presen\u00e7a dos r\u00e9us e dos seus advogados. Na audi\u00eancia, visando organizar o ato, o magistrado proibiu que os advogados se mantivessem de p\u00e9, bem como sa\u00edssem do local durante a sua realiza\u00e7\u00e3o.\n\n Com base no que disp\u00f5e o Estatuto da Advocacia e as leis regentes, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o advogado deve permanecer sentado na sala de audi\u00eancias at\u00e9 o final do ato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "caso o advogado necessite retirar-se do local, deve postular licen\u00e7a \u00e0 autoridade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o advogado pode permanecer sentado ou de p\u00e9 nos recintos do Poder Judici\u00e1rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "pode permanecer de p\u00e9, caso autorizado pela autoridade competente."
+            }
+        ],
+        "valid": true
+    }
+]

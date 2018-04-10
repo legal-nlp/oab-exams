@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "O poder de pol\u00edcia, conferindo a possibilidade de o Estado limitar o exerc\u00edcio da liberdade ou das faculdades de propriet\u00e1rio, em prol do interesse p\u00fablico", "filename": "2010-02.txt", "number": "14", "options": [{"correct": null, "letter": "A", "text": "gera a possibilidade de cobran\u00e7a, como contrapartida, de pre\u00e7o p\u00fablico."}, {"correct": null, "letter": "B", "text": "se instrumentaliza sempre por meio de alvar\u00e1 de autoriza\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "afasta a razoabilidade, para atingir os seus objetivos maiores, em prol da predomin\u00e2ncia do interesse p\u00fablico."}, {"correct": true, "letter": "D", "text": "deve ser exercido nos limites da lei, gerando a possibilidade de cobran\u00e7a de taxa."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "O poder de pol\u00edcia, conferindo a possibilidade de o Estado limitar o exerc\u00edcio da liberdade ou das faculdades de propriet\u00e1rio, em prol do interesse p\u00fablico",
+        "filename": "2010-02.txt",
+        "number": "14",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "gera a possibilidade de cobran\u00e7a, como contrapartida, de pre\u00e7o p\u00fablico."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "se instrumentaliza sempre por meio de alvar\u00e1 de autoriza\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "afasta a razoabilidade, para atingir os seus objetivos maiores, em prol da predomin\u00e2ncia do interesse p\u00fablico."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "deve ser exercido nos limites da lei, gerando a possibilidade de cobran\u00e7a de taxa."
+            }
+        ],
+        "valid": true
+    }
+]

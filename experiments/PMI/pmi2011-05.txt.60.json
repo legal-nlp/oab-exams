@@ -1,1 +1,57 @@
-[{"filename": "2011-05.txt", "areas": ["CRIMINAL"], "number": "60", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "text": "concurso material ben\u00e9fico.", "letter": "A", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "concurso formal imperfeito.", "letter": "B", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "concurso formal heterog\u00eaneo.", "letter": "C", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "exaspera\u00e7\u00e3o sui generis.", "letter": "D", "correct": null}], "valid": true, "enum": "As regras do concurso formal perfeito (em que se adota o sistema da exaspera\u00e7\u00e3o da pena) foram adotadas pelo C\u00f3digo Penal com o objetivo de beneficiar o agente que, mediante uma s\u00f3 conduta, praticou dois ou mais crimes. No entanto, quando o sistema da exaspera\u00e7\u00e3o for prejudicial ao acusado, dever\u00e1 prevalecer o sistema do c\u00famulo material (em que a soma das penas ser\u00e1 mais vantajosa do que o aumento de uma delas com determinado percentual, ainda que no patamar m\u00ednimo).\n\n A essa hip\u00f3tese, a doutrina deu o nome de"}]
+[
+    {
+        "filename": "2011-05.txt",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "number": "60",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "concurso material ben\u00e9fico.",
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "concurso formal imperfeito.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "concurso formal heterog\u00eaneo.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "exaspera\u00e7\u00e3o sui generis.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "enum": "As regras do concurso formal perfeito (em que se adota o sistema da exaspera\u00e7\u00e3o da pena) foram adotadas pelo C\u00f3digo Penal com o objetivo de beneficiar o agente que, mediante uma s\u00f3 conduta, praticou dois ou mais crimes. No entanto, quando o sistema da exaspera\u00e7\u00e3o for prejudicial ao acusado, dever\u00e1 prevalecer o sistema do c\u00famulo material (em que a soma das penas ser\u00e1 mais vantajosa do que o aumento de uma delas com determinado percentual, ainda que no patamar m\u00ednimo).\n\n A essa hip\u00f3tese, a doutrina deu o nome de"
+    }
+]

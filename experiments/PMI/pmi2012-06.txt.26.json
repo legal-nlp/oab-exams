@@ -1,1 +1,57 @@
-[{"enum": "Um famoso casal de artistas residente e domiciliado nos Estados Unidos, em viagem ao Brasil para o lan\u00e7amento do seu mais novo filme, se encantou por Caio, de 4 anos, a quem pretende adotar. Caio teve sua filia\u00e7\u00e3o reconhecida exclusivamente pela m\u00e3e Isabel, que, ap\u00f3s uma longa conversa com o casal, concluiu que o melhor para o filho era ser adotado, tendo em vista que o famoso casal possu\u00eda condi\u00e7\u00f5es infinitamente melhores de bem criar e educar Caio. Al\u00e9m disso, Isabel ficou convencida do amor espont\u00e2neo e sincero que o casal de imediato nutriu pelo menino.  Ante a situa\u00e7\u00e3o hipot\u00e9tica, \u00e9 correto afirmar que", "filename": "2012-06.txt", "areas": ["CHILDREN"], "options": [{"letter": "A", "pmi": [-0.0347064076461777, 0.0, 0.0, 0.0], "correct": null, "text": "a ado\u00e7\u00e3o s\u00f3 \u00e9 concedida quando for imposs\u00edvel manter a crian\u00e7a ou o adolescente em sua fam\u00edlia, raz\u00e3o pela qual o consentimento de Isabel \u00e9 irrelevante para a aprecia\u00e7\u00e3o do pedido do famoso casal, que ser\u00e1 deferido caso represente o melhor interesse de Caio."}, {"letter": "B", "pmi": [0.0009885762774091789, 0.0, 0.0, 0.0], "correct": null, "text": "independentemente da manifesta\u00e7\u00e3o de vontade de Isabel, o famoso casal ter\u00e1 prioridade na ado\u00e7\u00e3o de Caio, depois de esgotadas todas as possibilidades de coloca\u00e7\u00e3o de Caio em uma fam\u00edlia brasileira."}, {"letter": "C", "pmi": [-0.02060057651734941, 0.0, 0.0, 0.0], "correct": null, "text": "tendo em vista o consentimento da m\u00e3e de Caio, o famoso casal ter\u00e1 prioridade em sua ado\u00e7\u00e3o em face de outros casais j\u00e1 previamente inscritos nos cadastros de interessados na ado\u00e7\u00e3o, mantidos pela Justi\u00e7a da Inf\u00e2ncia e da Juventude."}, {"letter": "D", "pmi": [-0.001285392477291135, 0.0, 0.0, 0.0], "correct": true, "text": "a ado\u00e7\u00e3o internacional \u00e9 medida excepcional; entretanto, em virtude do consentimento de Isabel para a ado\u00e7\u00e3o de seu filho pelo famoso casal, este s\u00f3 n\u00e3o ter\u00e1 prioridade se houver casal de brasileiro, residente no Brasil, habilitado para a ado\u00e7\u00e3o."}], "valid": true, "number": "26"}]
+[
+    {
+        "enum": "Um famoso casal de artistas residente e domiciliado nos Estados Unidos, em viagem ao Brasil para o lan\u00e7amento do seu mais novo filme, se encantou por Caio, de 4 anos, a quem pretende adotar. Caio teve sua filia\u00e7\u00e3o reconhecida exclusivamente pela m\u00e3e Isabel, que, ap\u00f3s uma longa conversa com o casal, concluiu que o melhor para o filho era ser adotado, tendo em vista que o famoso casal possu\u00eda condi\u00e7\u00f5es infinitamente melhores de bem criar e educar Caio. Al\u00e9m disso, Isabel ficou convencida do amor espont\u00e2neo e sincero que o casal de imediato nutriu pelo menino.  Ante a situa\u00e7\u00e3o hipot\u00e9tica, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "areas": [
+            "CHILDREN"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.0347064076461777,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "a ado\u00e7\u00e3o s\u00f3 \u00e9 concedida quando for imposs\u00edvel manter a crian\u00e7a ou o adolescente em sua fam\u00edlia, raz\u00e3o pela qual o consentimento de Isabel \u00e9 irrelevante para a aprecia\u00e7\u00e3o do pedido do famoso casal, que ser\u00e1 deferido caso represente o melhor interesse de Caio."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0009885762774091789,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "independentemente da manifesta\u00e7\u00e3o de vontade de Isabel, o famoso casal ter\u00e1 prioridade na ado\u00e7\u00e3o de Caio, depois de esgotadas todas as possibilidades de coloca\u00e7\u00e3o de Caio em uma fam\u00edlia brasileira."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.02060057651734941,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "tendo em vista o consentimento da m\u00e3e de Caio, o famoso casal ter\u00e1 prioridade em sua ado\u00e7\u00e3o em face de outros casais j\u00e1 previamente inscritos nos cadastros de interessados na ado\u00e7\u00e3o, mantidos pela Justi\u00e7a da Inf\u00e2ncia e da Juventude."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.001285392477291135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "a ado\u00e7\u00e3o internacional \u00e9 medida excepcional; entretanto, em virtude do consentimento de Isabel para a ado\u00e7\u00e3o de seu filho pelo famoso casal, este s\u00f3 n\u00e3o ter\u00e1 prioridade se houver casal de brasileiro, residente no Brasil, habilitado para a ado\u00e7\u00e3o."
+            }
+        ],
+        "valid": true,
+        "number": "26"
+    }
+]

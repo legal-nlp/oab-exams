@@ -1,1 +1,33 @@
-[{"areas": ["HUMAM-RIGHTS"], "enum": "\u201cNingu\u00e9m poder\u00e1 ser detido, preso ou despojado dos seus bens, costumes e liberdades, sen\u00e3o em virtude de julgamento de seus pares, segundo as leis do pa\u00eds.\u201d\n\n O texto  transcrito \u00e9 um trecho da Magna Carta, proclamada na Inglaterra, no ano de 1215. Esse importante documento \u00e9 apontado como um marco na afirma\u00e7\u00e3o hist\u00f3rica dos direitos humanos, dentre outras raz\u00f5es, porque", "filename": "2013-11.txt", "number": "22", "options": [{"correct": null, "letter": "A", "text": "consolida os direitos civis e pol\u00edticos e os econ\u00f4micos e sociais."}, {"correct": true, "letter": "B", "text": "\u00e9 origem daquilo que na modernidade ficou conhecido como devido processo legal."}, {"correct": null, "letter": "C", "text": "representa um marco jur\u00eddico pol\u00edtico que estabeleceu uma nova ordem social na Inglaterra, tendo sido respeitada por todos os governos seguintes."}, {"correct": null, "letter": "D", "text": "institui e oficializa o direito ao habeas corpus."}], "valid": true}]
+[
+    {
+        "areas": [
+            "HUMAM-RIGHTS"
+        ],
+        "enum": "\u201cNingu\u00e9m poder\u00e1 ser detido, preso ou despojado dos seus bens, costumes e liberdades, sen\u00e3o em virtude de julgamento de seus pares, segundo as leis do pa\u00eds.\u201d\n\n O texto  transcrito \u00e9 um trecho da Magna Carta, proclamada na Inglaterra, no ano de 1215. Esse importante documento \u00e9 apontado como um marco na afirma\u00e7\u00e3o hist\u00f3rica dos direitos humanos, dentre outras raz\u00f5es, porque",
+        "filename": "2013-11.txt",
+        "number": "22",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "consolida os direitos civis e pol\u00edticos e os econ\u00f4micos e sociais."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "\u00e9 origem daquilo que na modernidade ficou conhecido como devido processo legal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "representa um marco jur\u00eddico pol\u00edtico que estabeleceu uma nova ordem social na Inglaterra, tendo sido respeitada por todos os governos seguintes."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "institui e oficializa o direito ao habeas corpus."
+            }
+        ],
+        "valid": true
+    }
+]

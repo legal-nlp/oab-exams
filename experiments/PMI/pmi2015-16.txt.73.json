@@ -1,1 +1,55 @@
-[{"enum": "Determinado empregado foi contratado para criar e desenvolver programas de software, criando novas solu\u00e7\u00f5es para as demandas dos clientes do seu empregador.  Em sua atividade normal, esse empregado inventou um programa original, muito \u00fatil e pr\u00e1tico, para que os empres\u00e1rios controlassem \u00e0 dist\u00e2ncia seus estoques, o que possibilitou um aumento nas vendas.\n\n Diante da situa\u00e7\u00e3o retratada, assinale a afirmativa correta.", "options": [{"text": "O empregado ter\u00e1 direito, conforme a Lei, a uma participa\u00e7\u00e3o sobre o lucro obtido nessas vendas.", "letter": "A", "correct": null, "pmi": [-0.05951703028373523, 0.0, 0.0, 0.0]}, {"text": "A Lei \u00e9 omissa a esse respeito, de modo que, caso n\u00e3o haja consenso entre as partes, ser\u00e1 necess\u00e1rio o ajuizamento de a\u00e7\u00e3o trabalhista para resolver o impasse.", "letter": "B", "correct": null, "pmi": [-0.016827230948282434, 0.0, 0.0, 0.0]}, {"text": "Todo o lucro obtido pelo invento ser\u00e1 do empregado.", "letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "O empregado ter\u00e1 direito apenas ao seu sal\u00e1rio normal, exceto se o seu contrato de trabalho tiver previs\u00e3o de participa\u00e7\u00e3o no lucro do seu invento.", "letter": "D", "correct": true, "pmi": [-0.025738223994221016, 0.0, 0.0, 0.0]}], "filename": "2015-16.txt", "areas": [], "number": "73", "valid": true}]
+[
+    {
+        "enum": "Determinado empregado foi contratado para criar e desenvolver programas de software, criando novas solu\u00e7\u00f5es para as demandas dos clientes do seu empregador.  Em sua atividade normal, esse empregado inventou um programa original, muito \u00fatil e pr\u00e1tico, para que os empres\u00e1rios controlassem \u00e0 dist\u00e2ncia seus estoques, o que possibilitou um aumento nas vendas.\n\n Diante da situa\u00e7\u00e3o retratada, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "O empregado ter\u00e1 direito, conforme a Lei, a uma participa\u00e7\u00e3o sobre o lucro obtido nessas vendas.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.05951703028373523,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "A Lei \u00e9 omissa a esse respeito, de modo que, caso n\u00e3o haja consenso entre as partes, ser\u00e1 necess\u00e1rio o ajuizamento de a\u00e7\u00e3o trabalhista para resolver o impasse.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.016827230948282434,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Todo o lucro obtido pelo invento ser\u00e1 do empregado.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "O empregado ter\u00e1 direito apenas ao seu sal\u00e1rio normal, exceto se o seu contrato de trabalho tiver previs\u00e3o de participa\u00e7\u00e3o no lucro do seu invento.",
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.025738223994221016,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2015-16.txt",
+        "areas": [],
+        "number": "73",
+        "valid": true
+    }
+]

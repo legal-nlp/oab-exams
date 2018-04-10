@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL"], "valid": true, "number": "38", "filename": "2013-10.txt", "enum": "De acordo com o C\u00f3digo Civil, opera-se o mandato quando algu\u00e9m recebe de outrem poderes para, em nome deste, praticar atos ou administrar interesses. Daniel outorgou a Heron, por instrumento p\u00fablico, poderes especiais e expressos, por prazo indeterminado, para vender sua casa na Rua da Aboli\u00e7\u00e3o, em Salvador, Bahia. Ocorre que, tr\u00eas dias depois de lavrada e assinada a procura\u00e7\u00e3o, em viagem para um congresso realizado no exterior, Daniel sofre um acidente automobil\u00edstico e vem a falecer, quando ainda fora do pa\u00eds. Heron, no mesmo dia da morte de Daniel, ignorando o \u00f3bito, vende a casa para F\u00e1bio, que a compra, estando ambos de boa-f\u00e9.\n\n De acordo com a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.", "options": [{"correct": null, "text": "A compra e venda \u00e9 nula, em raz\u00e3o de ter cessado o mandato automaticamente, com a morte do mandante.", "letter": "A", "pmi": [0.001023224116719961, 0.0, 0.0, 0.0]}, {"correct": true, "text": "A compra e venda \u00e9 v\u00e1lida, em rela\u00e7\u00e3o aos contratantes.", "letter": "B", "pmi": [0.0023022542626199125, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A compra e venda \u00e9 inv\u00e1lida, em raz\u00e3o de ter o mandato sido celebrado por prazo indeterminado, quando deveria, no caso, ter termo certo.", "letter": "C", "pmi": [-0.06381690209003757, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A compra e venda \u00e9 anul\u00e1vel pelos herdeiros de Daniel, que podem escolher entre corroborar o neg\u00f3cio realizado em nome do mandante falecido, revog\u00e1-lo, ou cobrar indeniza\u00e7\u00e3o do mandat\u00e1rio.", "letter": "D", "pmi": [-0.021522165237532365, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true,
+        "number": "38",
+        "filename": "2013-10.txt",
+        "enum": "De acordo com o C\u00f3digo Civil, opera-se o mandato quando algu\u00e9m recebe de outrem poderes para, em nome deste, praticar atos ou administrar interesses. Daniel outorgou a Heron, por instrumento p\u00fablico, poderes especiais e expressos, por prazo indeterminado, para vender sua casa na Rua da Aboli\u00e7\u00e3o, em Salvador, Bahia. Ocorre que, tr\u00eas dias depois de lavrada e assinada a procura\u00e7\u00e3o, em viagem para um congresso realizado no exterior, Daniel sofre um acidente automobil\u00edstico e vem a falecer, quando ainda fora do pa\u00eds. Heron, no mesmo dia da morte de Daniel, ignorando o \u00f3bito, vende a casa para F\u00e1bio, que a compra, estando ambos de boa-f\u00e9.\n\n De acordo com a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": null,
+                "text": "A compra e venda \u00e9 nula, em raz\u00e3o de ter cessado o mandato automaticamente, com a morte do mandante.",
+                "letter": "A",
+                "pmi": [
+                    0.001023224116719961,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "A compra e venda \u00e9 v\u00e1lida, em rela\u00e7\u00e3o aos contratantes.",
+                "letter": "B",
+                "pmi": [
+                    0.0023022542626199125,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A compra e venda \u00e9 inv\u00e1lida, em raz\u00e3o de ter o mandato sido celebrado por prazo indeterminado, quando deveria, no caso, ter termo certo.",
+                "letter": "C",
+                "pmi": [
+                    -0.06381690209003757,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A compra e venda \u00e9 anul\u00e1vel pelos herdeiros de Daniel, que podem escolher entre corroborar o neg\u00f3cio realizado em nome do mandante falecido, revog\u00e1-lo, ou cobrar indeniza\u00e7\u00e3o do mandat\u00e1rio.",
+                "letter": "D",
+                "pmi": [
+                    -0.021522165237532365,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

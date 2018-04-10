@@ -1,1 +1,57 @@
-[{"filename": "2012-09.txt", "number": "61", "options": [{"text": "A coa\u00e7\u00e3o moral irresist\u00edvel exclui a culpabilidade, enquanto que a coa\u00e7\u00e3o f\u00edsica irresist\u00edvel exclui a pr\u00f3pria conduta, de modo que, nesta segunda hip\u00f3tese, sequer chegamos a analisar a tipicidade, pois n\u00e3o h\u00e1 conduta penalmente relevante.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Em um bar, Caio, por notar que T\u00edcio olhava maliciosamente para sua namorada, desfere contra este um soco no rosto. Aturdido, T\u00edcio vai ao ch\u00e3o, levantando-se em seguida, e vai atr\u00e1s de Caio e o interpela quando este j\u00e1 estava saindo do bar. Ao voltar-se para tr\u00e1s, atendendo ao chamado, Caio \u00e9 surpreendido com um soco no ventre. T\u00edcio praticou conduta t\u00edpica, mas amparada por uma causa excludente de ilicitude.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "M\u00e9vio, atendendo a ordem dada por seu l\u00edder religioso e, com o intuito de converter Rufus, permanece na resid\u00eancia deste \u00e0 sua revelia, ou seja, sem o seu consentimento. Neste caso, M\u00e9vio, mesmo cumprindo ordem de seu superior e mesmo sendo tal ordem n\u00e3o manifestamente ilegal, pratica crime de viola\u00e7\u00e3o de domic\u00edlio (Art. 150 do C\u00f3digo Penal), n\u00e3o estando amparado pela obedi\u00eancia hier\u00e1rquica.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "O consentimento do ofendido n\u00e3o foi previsto pelo nosso ordenamento jur\u00eddico-penal como uma causa de exclus\u00e3o da ilicitude. Todavia, sua natureza justificante \u00e9 pacificamente aceita, desde que, entre outros requisitos, o ofendido seja capaz de consentir e que tal consentimento recaia sobre bem dispon\u00edvel.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true, "areas": ["CRIMINAL"], "enum": "Acerca das causas excludentes de ilicitude e extintivas de punibilidade, assinale a afirmativa incorreta."}]
+[
+    {
+        "filename": "2012-09.txt",
+        "number": "61",
+        "options": [
+            {
+                "text": "A coa\u00e7\u00e3o moral irresist\u00edvel exclui a culpabilidade, enquanto que a coa\u00e7\u00e3o f\u00edsica irresist\u00edvel exclui a pr\u00f3pria conduta, de modo que, nesta segunda hip\u00f3tese, sequer chegamos a analisar a tipicidade, pois n\u00e3o h\u00e1 conduta penalmente relevante.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Em um bar, Caio, por notar que T\u00edcio olhava maliciosamente para sua namorada, desfere contra este um soco no rosto. Aturdido, T\u00edcio vai ao ch\u00e3o, levantando-se em seguida, e vai atr\u00e1s de Caio e o interpela quando este j\u00e1 estava saindo do bar. Ao voltar-se para tr\u00e1s, atendendo ao chamado, Caio \u00e9 surpreendido com um soco no ventre. T\u00edcio praticou conduta t\u00edpica, mas amparada por uma causa excludente de ilicitude.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "M\u00e9vio, atendendo a ordem dada por seu l\u00edder religioso e, com o intuito de converter Rufus, permanece na resid\u00eancia deste \u00e0 sua revelia, ou seja, sem o seu consentimento. Neste caso, M\u00e9vio, mesmo cumprindo ordem de seu superior e mesmo sendo tal ordem n\u00e3o manifestamente ilegal, pratica crime de viola\u00e7\u00e3o de domic\u00edlio (Art. 150 do C\u00f3digo Penal), n\u00e3o estando amparado pela obedi\u00eancia hier\u00e1rquica.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "O consentimento do ofendido n\u00e3o foi previsto pelo nosso ordenamento jur\u00eddico-penal como uma causa de exclus\u00e3o da ilicitude. Todavia, sua natureza justificante \u00e9 pacificamente aceita, desde que, entre outros requisitos, o ofendido seja capaz de consentir e que tal consentimento recaia sobre bem dispon\u00edvel.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Acerca das causas excludentes de ilicitude e extintivas de punibilidade, assinale a afirmativa incorreta."
+    }
+]

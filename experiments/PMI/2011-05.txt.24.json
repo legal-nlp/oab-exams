@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "O habeas data n\u00e3o pode ser impetrado em favor de terceiro PORQUE visa tutelar direito \u00e0 informa\u00e7\u00e3o relativa \u00e0 pessoa do impetrante.\n\n A respeito do enunciado acima \u00e9 correto afirmar que", "filename": "2011-05.txt", "number": "24", "options": [{"correct": true, "letter": "A", "text": "ambas as afirmativas s\u00e3o verdadeiras, e a primeira justifica a segunda."}, {"correct": null, "letter": "B", "text": "a primeira afirmativa \u00e9 verdadeira, e a segunda \u00e9 falsa."}, {"correct": null, "letter": "C", "text": "a primeira afirmativa \u00e9 falsa, e a segunda \u00e9 verdadeira."}, {"correct": null, "letter": "D", "text": "ambas as afirmativas s\u00e3o falsas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O habeas data n\u00e3o pode ser impetrado em favor de terceiro PORQUE visa tutelar direito \u00e0 informa\u00e7\u00e3o relativa \u00e0 pessoa do impetrante.\n\n A respeito do enunciado acima \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "24",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "ambas as afirmativas s\u00e3o verdadeiras, e a primeira justifica a segunda."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a primeira afirmativa \u00e9 verdadeira, e a segunda \u00e9 falsa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a primeira afirmativa \u00e9 falsa, e a segunda \u00e9 verdadeira."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "ambas as afirmativas s\u00e3o falsas."
+            }
+        ],
+        "valid": true
+    }
+]

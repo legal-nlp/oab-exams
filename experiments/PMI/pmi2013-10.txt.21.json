@@ -1,1 +1,57 @@
-[{"enum": "Sobre o sistema global de prote\u00e7\u00e3o dos Direitos Humanos, assinale a afirmativa correta.", "number": "21", "filename": "2013-10.txt", "options": [{"text": "O Direito Humanit\u00e1rio, a Organiza\u00e7\u00e3o Internacional do Trabalho e a Liga das Na\u00e7\u00f5es s\u00e3o considerados os principais precedentes do processo de internacionaliza\u00e7\u00e3o dos direitos humanos, uma vez que rompem com o conceito de soberania, j\u00e1 que admitem interven\u00e7\u00f5es nos pa\u00edses em prol da prote\u00e7\u00e3o dos direitos humanos.", "pmi": [-0.019172464558630517, 0.0, 0.0, 0.0], "correct": true, "letter": "A"}, {"text": "A Declara\u00e7\u00e3o Universal dos Direitos Humanos juntamente com a ado\u00e7\u00e3o do Pacto Internacional dos Direitos Civis e Pol\u00edticos formam a Carta Internacional dos Direitos Humanos, podendo um Estado adotar ou n\u00e3o os seus postulados.", "pmi": [-0.06856455491621542, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "O sistema global restringe-se \u00e0 Carta Internacional dos Direitos Humanos. Outros tratados multilaterais sobre Direitos Humanos, que se referem a viola\u00e7\u00f5es espec\u00edficas de direitos, tais como Conven\u00e7\u00e3o Internacional contra a Tortura, s\u00e3o facultativos e, consequentemente, n\u00e3o s\u00e3o considerados como parte do sistema global.", "pmi": [-0.02004394022038645, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "O sistema global \u00e9 composto por mecanismos n\u00e3o-convencionais de prote\u00e7\u00e3o dos direitos humanos. Tais mecanismos s\u00e3o aqueles criados por conven\u00e7\u00f5es espec\u00edficas de Direitos Humanos, de ado\u00e7\u00e3o facultativa para os Estados.", "pmi": [-0.025939216755794227, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true, "areas": ["HUMAN-RIGHTS"]}]
+[
+    {
+        "enum": "Sobre o sistema global de prote\u00e7\u00e3o dos Direitos Humanos, assinale a afirmativa correta.",
+        "number": "21",
+        "filename": "2013-10.txt",
+        "options": [
+            {
+                "text": "O Direito Humanit\u00e1rio, a Organiza\u00e7\u00e3o Internacional do Trabalho e a Liga das Na\u00e7\u00f5es s\u00e3o considerados os principais precedentes do processo de internacionaliza\u00e7\u00e3o dos direitos humanos, uma vez que rompem com o conceito de soberania, j\u00e1 que admitem interven\u00e7\u00f5es nos pa\u00edses em prol da prote\u00e7\u00e3o dos direitos humanos.",
+                "pmi": [
+                    -0.019172464558630517,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "A"
+            },
+            {
+                "text": "A Declara\u00e7\u00e3o Universal dos Direitos Humanos juntamente com a ado\u00e7\u00e3o do Pacto Internacional dos Direitos Civis e Pol\u00edticos formam a Carta Internacional dos Direitos Humanos, podendo um Estado adotar ou n\u00e3o os seus postulados.",
+                "pmi": [
+                    -0.06856455491621542,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "O sistema global restringe-se \u00e0 Carta Internacional dos Direitos Humanos. Outros tratados multilaterais sobre Direitos Humanos, que se referem a viola\u00e7\u00f5es espec\u00edficas de direitos, tais como Conven\u00e7\u00e3o Internacional contra a Tortura, s\u00e3o facultativos e, consequentemente, n\u00e3o s\u00e3o considerados como parte do sistema global.",
+                "pmi": [
+                    -0.02004394022038645,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "O sistema global \u00e9 composto por mecanismos n\u00e3o-convencionais de prote\u00e7\u00e3o dos direitos humanos. Tais mecanismos s\u00e3o aqueles criados por conven\u00e7\u00f5es espec\u00edficas de Direitos Humanos, de ado\u00e7\u00e3o facultativa para os Estados.",
+                "pmi": [
+                    -0.025939216755794227,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "HUMAN-RIGHTS"
+        ]
+    }
+]

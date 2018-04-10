@@ -1,1 +1,57 @@
-[{"filename": "2012-06.txt", "valid": true, "options": [{"correct": true, "text": "\u00e9 dever do magistrado declarar-se impedido ou suspeito de of\u00edcio. Em caso de absten\u00e7\u00e3o por parte do juiz, poder\u00e1 a parte que desejar faz\u00ea-lo arguir o impedimento ou a suspei\u00e7\u00e3o do magistrado por meio de exce\u00e7\u00e3o.", "pmi": [-0.06013204403149583, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": null, "text": "o magistrado tem, entre outros deveres, a obriga\u00e7\u00e3o de sentenciar e de garantir o contradit\u00f3rio. Conforme previsto pelo sistema processual, s\u00f3 pode o magistrado se abster de julgar se alegar e comprovar a exist\u00eancia de lacuna na lei.", "pmi": [-0.030926052387989147, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": null, "text": "o juiz \u00e9 dotado de independ\u00eancia funcional, podendo, como regra geral, decidir conforme seu convencimento, sem que de sua atua\u00e7\u00e3o surja o dever de indenizar qualquer das partes. Tal dever s\u00f3 surgir\u00e1 quando o juiz agir com culpa, dolo ou fraude, gerando preju\u00edzo a uma das partes.", "pmi": [-0.03646786021511712, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "a atua\u00e7\u00e3o do magistrado encontra claros limites no sistema processual, a fim de permitir que a pr\u00f3pria sociedade exer\u00e7a o devido controle sobre sua atua\u00e7\u00e3o. Um desses limites est\u00e1 refletido na regra que veda a produ\u00e7\u00e3o de provas de of\u00edcio pelo juiz.", "pmi": [-0.026326748239263727, 0.0, 0.0, 0.0], "letter": "D"}], "areas": ["CIVIL-PROCEDURE"], "enum": "No curso de um processo, todos os participantes, a qualquer t\u00edtulo, devem agir de forma leal, litigando de boa-f\u00e9 e tendo por paradigma uma atua\u00e7\u00e3o \u00e9tica.\n\n A rela\u00e7\u00e3o entre advogados, partes e o magistrado deve obedecer, de forma bastante acentuada, essas premissas, sob pena de se estabelecer, conforme o caso, uma s\u00e9rie de responsabilidades de ordem processual e/ou pessoal em face daquele que faltou com os deveres que lhe cabiam.\n\n Especificamente acerca da atua\u00e7\u00e3o dos magistrados nos processos judiciais, \u00e9 correto afirmar que", "number": "42"}]
+[
+    {
+        "filename": "2012-06.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": true,
+                "text": "\u00e9 dever do magistrado declarar-se impedido ou suspeito de of\u00edcio. Em caso de absten\u00e7\u00e3o por parte do juiz, poder\u00e1 a parte que desejar faz\u00ea-lo arguir o impedimento ou a suspei\u00e7\u00e3o do magistrado por meio de exce\u00e7\u00e3o.",
+                "pmi": [
+                    -0.06013204403149583,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "o magistrado tem, entre outros deveres, a obriga\u00e7\u00e3o de sentenciar e de garantir o contradit\u00f3rio. Conforme previsto pelo sistema processual, s\u00f3 pode o magistrado se abster de julgar se alegar e comprovar a exist\u00eancia de lacuna na lei.",
+                "pmi": [
+                    -0.030926052387989147,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "text": "o juiz \u00e9 dotado de independ\u00eancia funcional, podendo, como regra geral, decidir conforme seu convencimento, sem que de sua atua\u00e7\u00e3o surja o dever de indenizar qualquer das partes. Tal dever s\u00f3 surgir\u00e1 quando o juiz agir com culpa, dolo ou fraude, gerando preju\u00edzo a uma das partes.",
+                "pmi": [
+                    -0.03646786021511712,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "a atua\u00e7\u00e3o do magistrado encontra claros limites no sistema processual, a fim de permitir que a pr\u00f3pria sociedade exer\u00e7a o devido controle sobre sua atua\u00e7\u00e3o. Um desses limites est\u00e1 refletido na regra que veda a produ\u00e7\u00e3o de provas de of\u00edcio pelo juiz.",
+                "pmi": [
+                    -0.026326748239263727,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "No curso de um processo, todos os participantes, a qualquer t\u00edtulo, devem agir de forma leal, litigando de boa-f\u00e9 e tendo por paradigma uma atua\u00e7\u00e3o \u00e9tica.\n\n A rela\u00e7\u00e3o entre advogados, partes e o magistrado deve obedecer, de forma bastante acentuada, essas premissas, sob pena de se estabelecer, conforme o caso, uma s\u00e9rie de responsabilidades de ordem processual e/ou pessoal em face daquele que faltou com os deveres que lhe cabiam.\n\n Especificamente acerca da atua\u00e7\u00e3o dos magistrados nos processos judiciais, \u00e9 correto afirmar que",
+        "number": "42"
+    }
+]

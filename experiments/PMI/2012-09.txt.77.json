@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Um dos princ\u00edpios norteadores do Processo do Trabalho \u00e9 o da celeridade, dada a natureza salarial do cr\u00e9dito trabalhista. Entretanto, por for\u00e7a de Lei, algumas causas especiais possuem prefer\u00eancia na tramita\u00e7\u00e3o. Das situa\u00e7\u00f5es listadas a seguir, assinale aquela que ter\u00e1 prefer\u00eancia em todas as fases processuais.", "filename": "2012-09.txt", "number": "77", "options": [{"correct": null, "letter": "A", "text": "a que ser\u00e1 executada contra a Uni\u00e3o, Estados ou Munic\u00edpios."}, {"correct": true, "letter": "B", "text": "a que ser\u00e1 executada perante o ju\u00edzo da fal\u00eancia."}, {"correct": null, "letter": "C", "text": "a que ser\u00e1 executada em face de empregador dom\u00e9stico"}, {"correct": null, "letter": "D", "text": "a que ser\u00e1 executada em face de empresa p\u00fablica."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Um dos princ\u00edpios norteadores do Processo do Trabalho \u00e9 o da celeridade, dada a natureza salarial do cr\u00e9dito trabalhista. Entretanto, por for\u00e7a de Lei, algumas causas especiais possuem prefer\u00eancia na tramita\u00e7\u00e3o. Das situa\u00e7\u00f5es listadas a seguir, assinale aquela que ter\u00e1 prefer\u00eancia em todas as fases processuais.",
+        "filename": "2012-09.txt",
+        "number": "77",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a que ser\u00e1 executada contra a Uni\u00e3o, Estados ou Munic\u00edpios."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "a que ser\u00e1 executada perante o ju\u00edzo da fal\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a que ser\u00e1 executada em face de empregador dom\u00e9stico"
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a que ser\u00e1 executada em face de empresa p\u00fablica."
+            }
+        ],
+        "valid": true
+    }
+]

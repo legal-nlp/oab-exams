@@ -1,1 +1,57 @@
-[{"number": "29", "valid": true, "filename": "2012-08.txt", "enum": "Quanto \u00e0s pessoas jur\u00eddicas que comp\u00f5em a Administra\u00e7\u00e3o Indireta, assinale a afirmativa correta.", "areas": ["ADMINISTRATIVE"], "options": [{"letter": "A", "text": "As autarquias s\u00e3o pessoas jur\u00eddicas de direito p\u00fablico, criadas por lei.", "correct": true, "pmi": [-0.10701820694641853, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "As autarquias s\u00e3o pessoas jur\u00eddicas de direito privado, autorizadas por lei.", "correct": null, "pmi": [-0.10701820694641853, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "As empresas p\u00fablicas s\u00e3o pessoas jur\u00eddicas de direito p\u00fablico, criadas por lei.", "correct": null, "pmi": [-0.19949211597725594, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "As empresas p\u00fablicas s\u00e3o pessoas jur\u00eddicas de direito privado, criadas para o exerc\u00edcio de atividades t\u00edpicas do Estado.", "correct": null, "pmi": [-0.15516053464897683, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "number": "29",
+        "valid": true,
+        "filename": "2012-08.txt",
+        "enum": "Quanto \u00e0s pessoas jur\u00eddicas que comp\u00f5em a Administra\u00e7\u00e3o Indireta, assinale a afirmativa correta.",
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "text": "As autarquias s\u00e3o pessoas jur\u00eddicas de direito p\u00fablico, criadas por lei.",
+                "correct": true,
+                "pmi": [
+                    -0.10701820694641853,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "As autarquias s\u00e3o pessoas jur\u00eddicas de direito privado, autorizadas por lei.",
+                "correct": null,
+                "pmi": [
+                    -0.10701820694641853,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "As empresas p\u00fablicas s\u00e3o pessoas jur\u00eddicas de direito p\u00fablico, criadas por lei.",
+                "correct": null,
+                "pmi": [
+                    -0.19949211597725594,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "As empresas p\u00fablicas s\u00e3o pessoas jur\u00eddicas de direito privado, criadas para o exerc\u00edcio de atividades t\u00edpicas do Estado.",
+                "correct": null,
+                "pmi": [
+                    -0.15516053464897683,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

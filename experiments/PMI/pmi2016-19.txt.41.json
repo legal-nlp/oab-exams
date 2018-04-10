@@ -1,1 +1,55 @@
-[{"valid": true, "options": [{"correct": null, "pmi": [-0.16391589702275675, 0.0, 0.0, 0.0], "letter": "A", "text": "A a\u00e7\u00e3o de enriquecimento sem causa \u00e9 cab\u00edvel, uma vez que Ronaldo se enriqueceu indevidamente \u00e0 custa de Joaquim."}, {"correct": null, "pmi": [-0.2100161266354107, 0.0, 0.0, 0.0], "letter": "B", "text": "Como a a\u00e7\u00e3o de enriquecimento sem causa \u00e9 subsidi\u00e1ria, \u00e9 cab\u00edvel seu ajuizamento por n\u00e3o haver, na hip\u00f3tese, outro meio de recuperar o empr\u00e9stimo concedido."}, {"correct": true, "pmi": [-0.2476314462663998, 0.0, 0.0, 0.0], "letter": "C", "text": "N\u00e3o cabe o ajuizamento da a\u00e7\u00e3o de enriquecimento sem causa, pois h\u00e1 t\u00edtulo jur\u00eddico a justificar o enriquecimento de Ronaldo."}, {"correct": null, "pmi": [-0.12974235729694095, 0.0, 0.0, 0.0], "letter": "D", "text": "A pretens\u00e3o de ressarcimento do enriquecimento sem causa prescreve simultaneamente \u00e0 pretens\u00e3o relativa \u00e0 cobran\u00e7a do valor mutuado."}], "enum": "Joaquim celebrou, por instrumento particular, contrato de m\u00fatuo com Ronaldo, pelo qual lhe emprestou R$ 50.000,00 (cinquenta mil reais), a serem pagos 30 dias depois. No dia do vencimento do empr\u00e9stimo, Ronaldo n\u00e3o adimpliu a presta\u00e7\u00e3o. O tempo passou, Joaquim se manteve inerte, e a d\u00edvida prescreveu. Inconformado, Joaquim pretende ajuizar a\u00e7\u00e3o de enriquecimento sem causa contra Ronaldo.\n\n Sobre os fatos narrados, assinale a afirmativa correta.", "number": "41", "areas": [], "filename": "2016-19.txt"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.16391589702275675,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "A a\u00e7\u00e3o de enriquecimento sem causa \u00e9 cab\u00edvel, uma vez que Ronaldo se enriqueceu indevidamente \u00e0 custa de Joaquim."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.2100161266354107,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Como a a\u00e7\u00e3o de enriquecimento sem causa \u00e9 subsidi\u00e1ria, \u00e9 cab\u00edvel seu ajuizamento por n\u00e3o haver, na hip\u00f3tese, outro meio de recuperar o empr\u00e9stimo concedido."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.2476314462663998,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "N\u00e3o cabe o ajuizamento da a\u00e7\u00e3o de enriquecimento sem causa, pois h\u00e1 t\u00edtulo jur\u00eddico a justificar o enriquecimento de Ronaldo."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.12974235729694095,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "A pretens\u00e3o de ressarcimento do enriquecimento sem causa prescreve simultaneamente \u00e0 pretens\u00e3o relativa \u00e0 cobran\u00e7a do valor mutuado."
+            }
+        ],
+        "enum": "Joaquim celebrou, por instrumento particular, contrato de m\u00fatuo com Ronaldo, pelo qual lhe emprestou R$ 50.000,00 (cinquenta mil reais), a serem pagos 30 dias depois. No dia do vencimento do empr\u00e9stimo, Ronaldo n\u00e3o adimpliu a presta\u00e7\u00e3o. O tempo passou, Joaquim se manteve inerte, e a d\u00edvida prescreveu. Inconformado, Joaquim pretende ajuizar a\u00e7\u00e3o de enriquecimento sem causa contra Ronaldo.\n\n Sobre os fatos narrados, assinale a afirmativa correta.",
+        "number": "41",
+        "areas": [],
+        "filename": "2016-19.txt"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "O advogado Ademar \u00e9 surpreendido por mandado de busca e apreens\u00e3o dos documentos guardados no seu escrit\u00f3rio, de forma indiscriminada. Ap\u00f3s pesquisa, verifica que existe processo investigando um dos seus clientes e a ele mesmo. Apesar disso, os documentos de toda a sua clientela foram apreendidos.\n\n Diante do narrado, \u00e9 correto afirmar que", "filename": "2011-03.txt", "number": "49", "options": [{"correct": null, "letter": "A", "text": "a pr\u00e1tica \u00e9 correta, em fun\u00e7\u00e3o de a investiga\u00e7\u00e3o atingir o advogado."}, {"correct": null, "letter": "B", "text": "a inviolabilidade do escrit\u00f3rio de advocacia \u00e9 absoluta."}, {"correct": null, "letter": "C", "text": "a prote\u00e7\u00e3o ao escrit\u00f3rio do advogado n\u00e3o se inclui na hip\u00f3tese versada."}, {"correct": true, "letter": "D", "text": "houve excesso na apreens\u00e3o de todos os documentos da clientela do advogado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Ademar \u00e9 surpreendido por mandado de busca e apreens\u00e3o dos documentos guardados no seu escrit\u00f3rio, de forma indiscriminada. Ap\u00f3s pesquisa, verifica que existe processo investigando um dos seus clientes e a ele mesmo. Apesar disso, os documentos de toda a sua clientela foram apreendidos.\n\n Diante do narrado, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "49",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a pr\u00e1tica \u00e9 correta, em fun\u00e7\u00e3o de a investiga\u00e7\u00e3o atingir o advogado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a inviolabilidade do escrit\u00f3rio de advocacia \u00e9 absoluta."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a prote\u00e7\u00e3o ao escrit\u00f3rio do advogado n\u00e3o se inclui na hip\u00f3tese versada."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "houve excesso na apreens\u00e3o de todos os documentos da clientela do advogado."
+            }
+        ],
+        "valid": true
+    }
+]

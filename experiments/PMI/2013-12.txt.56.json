@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "O sistema de execu\u00e7\u00e3o de decis\u00f5es modernamente utilizado est\u00e1 muito atrelado \u00e0 ideia de sincretismo processual. Por essa sistem\u00e1tica, em regra, tornou-se a execu\u00e7\u00e3o um prolongamento do processo de conhecimento. Passou-se a ter um processo misto que n\u00e3o \u00e9 mais nem puramente cognitivo nem puramente executivo. O novo sistema permitiu que a obten\u00e7\u00e3o da tutela jurisdicional plena fosse mais rapidamente alcan\u00e7ada. Entretanto, em hip\u00f3teses espec\u00edficas, ainda tem cabimento o processo de execu\u00e7\u00e3o aut\u00f4nomo.\n\n Assinale a alternativa que cont\u00e9m t\u00edtulo executivo judicial a ensejar a execu\u00e7\u00e3o sincr\u00e9tica.", "filename": "2013-12.txt", "number": "56", "options": [{"correct": null, "letter": "A", "text": "A certid\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica da Uni\u00e3o, dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios, correspondente aos cr\u00e9ditos inscritos na forma da lei."}, {"correct": null, "letter": "B", "text": "O instrumento de transa\u00e7\u00e3o referendado pelo Minist\u00e9rio P\u00fablico, pela Defensoria P\u00fablica ou pelos advogados dos transatores."}, {"correct": true, "letter": "C", "text": "A senten\u00e7a proferida no processo civil que reconhe\u00e7a a exist\u00eancia de obriga\u00e7\u00e3o de fazer, n\u00e3o fazer, entregar coisa ou pagar quantia."}, {"correct": null, "letter": "D", "text": "O cr\u00e9dito, documentalmente comprovado, decorrente de aluguel de im\u00f3vel, bem como de encargos acess\u00f3rios, tais como taxas e despesas de condom\u00ednio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "O sistema de execu\u00e7\u00e3o de decis\u00f5es modernamente utilizado est\u00e1 muito atrelado \u00e0 ideia de sincretismo processual. Por essa sistem\u00e1tica, em regra, tornou-se a execu\u00e7\u00e3o um prolongamento do processo de conhecimento. Passou-se a ter um processo misto que n\u00e3o \u00e9 mais nem puramente cognitivo nem puramente executivo. O novo sistema permitiu que a obten\u00e7\u00e3o da tutela jurisdicional plena fosse mais rapidamente alcan\u00e7ada. Entretanto, em hip\u00f3teses espec\u00edficas, ainda tem cabimento o processo de execu\u00e7\u00e3o aut\u00f4nomo.\n\n Assinale a alternativa que cont\u00e9m t\u00edtulo executivo judicial a ensejar a execu\u00e7\u00e3o sincr\u00e9tica.",
+        "filename": "2013-12.txt",
+        "number": "56",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A certid\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica da Uni\u00e3o, dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios, correspondente aos cr\u00e9ditos inscritos na forma da lei."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O instrumento de transa\u00e7\u00e3o referendado pelo Minist\u00e9rio P\u00fablico, pela Defensoria P\u00fablica ou pelos advogados dos transatores."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A senten\u00e7a proferida no processo civil que reconhe\u00e7a a exist\u00eancia de obriga\u00e7\u00e3o de fazer, n\u00e3o fazer, entregar coisa ou pagar quantia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O cr\u00e9dito, documentalmente comprovado, decorrente de aluguel de im\u00f3vel, bem como de encargos acess\u00f3rios, tais como taxas e despesas de condom\u00ednio."
+            }
+        ],
+        "valid": true
+    }
+]

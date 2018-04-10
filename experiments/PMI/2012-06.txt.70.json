@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Ap\u00f3s 23 anos de trabalho numa empresa, Renato \u00e9 dispensado sem justa causa, no dia 31 de janeiro de 2012. Na hip\u00f3tese, ele far\u00e1 jus ao aviso pr\u00e9vio de", "filename": "2012-06.txt", "number": "70", "options": [{"correct": true, "letter": "A", "text": "90 dias."}, {"correct": null, "letter": "B", "text": "30 dias."}, {"correct": null, "letter": "C", "text": "96 dias."}, {"correct": null, "letter": "D", "text": "99 dias."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Ap\u00f3s 23 anos de trabalho numa empresa, Renato \u00e9 dispensado sem justa causa, no dia 31 de janeiro de 2012. Na hip\u00f3tese, ele far\u00e1 jus ao aviso pr\u00e9vio de",
+        "filename": "2012-06.txt",
+        "number": "70",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "90 dias."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "30 dias."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "96 dias."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "99 dias."
+            }
+        ],
+        "valid": true
+    }
+]

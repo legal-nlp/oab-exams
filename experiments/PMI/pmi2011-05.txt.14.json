@@ -1,1 +1,57 @@
-[{"valid": true, "areas": ["HUMAN-RIGHTS"], "enum": "As Constitui\u00e7\u00f5es brasileiras se mostraram com avan\u00e7os e retrocessos em rela\u00e7\u00e3o aos direitos humanos. A esse respeito assinale a alternativa correta.", "number": "14", "options": [{"letter": "A", "correct": null, "text": "A Constitui\u00e7\u00e3o de 1946 apresentou diversos retrocessos em rela\u00e7\u00e3o aos direitos humanos, principalmente no tocante aos direitos sociais.", "pmi": [-0.014030758154270514, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": true, "text": "A Constitui\u00e7\u00e3o de 1967 consolidou arbitrariedades decretadas nos Atos Institucionais, caracterizando diversos retrocessos em rela\u00e7\u00e3o aos direitos humanos.", "pmi": [-0.012755234685700468, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "A Constitui\u00e7\u00e3o de 1934 se revelou retr\u00f3grada ao ignorar normas de prote\u00e7\u00e3o social ao trabalhador.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "A Constitui\u00e7\u00e3o de 1969, mesmo incorporando as medidas dos Atos Institucionais, se revelou mais atenta aos direitos humanos que a Constitui\u00e7\u00e3o de 1967.", "pmi": [-0.011692298461892096, 0.0, 0.0, 0.0]}], "filename": "2011-05.txt"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "As Constitui\u00e7\u00f5es brasileiras se mostraram com avan\u00e7os e retrocessos em rela\u00e7\u00e3o aos direitos humanos. A esse respeito assinale a alternativa correta.",
+        "number": "14",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "A Constitui\u00e7\u00e3o de 1946 apresentou diversos retrocessos em rela\u00e7\u00e3o aos direitos humanos, principalmente no tocante aos direitos sociais.",
+                "pmi": [
+                    -0.014030758154270514,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "text": "A Constitui\u00e7\u00e3o de 1967 consolidou arbitrariedades decretadas nos Atos Institucionais, caracterizando diversos retrocessos em rela\u00e7\u00e3o aos direitos humanos.",
+                "pmi": [
+                    -0.012755234685700468,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "A Constitui\u00e7\u00e3o de 1934 se revelou retr\u00f3grada ao ignorar normas de prote\u00e7\u00e3o social ao trabalhador.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "A Constitui\u00e7\u00e3o de 1969, mesmo incorporando as medidas dos Atos Institucionais, se revelou mais atenta aos direitos humanos que a Constitui\u00e7\u00e3o de 1967.",
+                "pmi": [
+                    -0.011692298461892096,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2011-05.txt"
+    }
+]

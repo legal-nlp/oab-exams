@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Um representante da sociedade civil, apresentando ind\u00edcios de que o Presidente da Rep\u00fablica teria ultrapassado os gastos autorizados pela lei or\u00e7ament\u00e1ria e, portanto, cometido crime de responsabilidade, denuncia o Chefe do Poder Executivo Federal \u00e0 C\u00e2mara dos Deputados. Protocolizada a den\u00fancia na C\u00e2mara, foram observados os tr\u00e2mites legais e regimentais de modo que o Plen\u00e1rio pudesse ou n\u00e3o autorizar a instaura\u00e7\u00e3o de processo contra o Presidente da Rep\u00fablica. Do total de 513 deputados da C\u00e2mara, apenas 400 estiveram presentes \u00e0 sess\u00e3o, sendo que 260 votaram a favor da instaura\u00e7\u00e3o do processo.\n\n Diante desse fato,", "filename": "2015-17.txt", "number": "17", "options": [{"correct": null, "letter": "A", "text": "o processo ser\u00e1 enviado ao Senado Federal para que este, sob a presid\u00eancia do Presidente do STF, proceda ao julgamento do Presidente da Rep\u00fablica."}, {"correct": null, "letter": "B", "text": "o processo ser\u00e1 enviado ao Supremo Tribunal Federal, a fim de que a Corte Maior proceda ao julgamento do Presidente da Rep\u00fablica."}, {"correct": true, "letter": "C", "text": "o processo dever\u00e1 ser arquivado, tendo em vista o fato de a decis\u00e3o da C\u00e2mara dos Deputados n\u00e3o ter contado com a manifesta\u00e7\u00e3o favor\u00e1vel de dois ter\u00e7os dos seus membros."}, {"correct": null, "letter": "D", "text": "d\u00e1-se o impeachment do Presidente da Rep\u00fablica, que perde o cargo e fica inabilitado para o exerc\u00edcio de outra fun\u00e7\u00e3o p\u00fablica por oito anos."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Um representante da sociedade civil, apresentando ind\u00edcios de que o Presidente da Rep\u00fablica teria ultrapassado os gastos autorizados pela lei or\u00e7ament\u00e1ria e, portanto, cometido crime de responsabilidade, denuncia o Chefe do Poder Executivo Federal \u00e0 C\u00e2mara dos Deputados. Protocolizada a den\u00fancia na C\u00e2mara, foram observados os tr\u00e2mites legais e regimentais de modo que o Plen\u00e1rio pudesse ou n\u00e3o autorizar a instaura\u00e7\u00e3o de processo contra o Presidente da Rep\u00fablica. Do total de 513 deputados da C\u00e2mara, apenas 400 estiveram presentes \u00e0 sess\u00e3o, sendo que 260 votaram a favor da instaura\u00e7\u00e3o do processo.\n\n Diante desse fato,",
+        "filename": "2015-17.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o processo ser\u00e1 enviado ao Senado Federal para que este, sob a presid\u00eancia do Presidente do STF, proceda ao julgamento do Presidente da Rep\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o processo ser\u00e1 enviado ao Supremo Tribunal Federal, a fim de que a Corte Maior proceda ao julgamento do Presidente da Rep\u00fablica."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o processo dever\u00e1 ser arquivado, tendo em vista o fato de a decis\u00e3o da C\u00e2mara dos Deputados n\u00e3o ter contado com a manifesta\u00e7\u00e3o favor\u00e1vel de dois ter\u00e7os dos seus membros."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "d\u00e1-se o impeachment do Presidente da Rep\u00fablica, que perde o cargo e fica inabilitado para o exerc\u00edcio de outra fun\u00e7\u00e3o p\u00fablica por oito anos."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Carolina, voltando do Paraguai com diversas mercadorias que configurariam o crime de contrabando, entra no pa\u00eds pela cidade de Foz do Igua\u00e7u (PR). Em l\u00e1 chegando, compra uma passagem de \u00f4nibus para a cidade de S\u00e3o Paulo e segue, posteriormente, para o Rio de Janeiro, sua cidade natal, quando \u00e9 surpreendida por policiais federais que participavam de uma opera\u00e7\u00e3o de rotina na rodovi\u00e1ria. Os policiais, ent\u00e3o, apreendem as mercadorias e conduzem Carolina \u00e0 Delegacia Policial.\n\n Na hip\u00f3tese, assinale a alternativa que indica o \u00f3rg\u00e3o competente para proceder ao julgamento de Carolina.", "filename": "2014-13.txt", "number": "66", "options": [{"correct": null, "letter": "A", "text": "A Justi\u00e7a Federal de Foz de Igua\u00e7u."}, {"correct": true, "letter": "B", "text": "A Justi\u00e7a Federal do Rio de Janeiro."}, {"correct": null, "letter": "C", "text": "A Justi\u00e7a Federal de S\u00e3o Paulo."}, {"correct": null, "letter": "D", "text": "Qualquer das anteriores, independentemente da regra da preven\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Carolina, voltando do Paraguai com diversas mercadorias que configurariam o crime de contrabando, entra no pa\u00eds pela cidade de Foz do Igua\u00e7u (PR). Em l\u00e1 chegando, compra uma passagem de \u00f4nibus para a cidade de S\u00e3o Paulo e segue, posteriormente, para o Rio de Janeiro, sua cidade natal, quando \u00e9 surpreendida por policiais federais que participavam de uma opera\u00e7\u00e3o de rotina na rodovi\u00e1ria. Os policiais, ent\u00e3o, apreendem as mercadorias e conduzem Carolina \u00e0 Delegacia Policial.\n\n Na hip\u00f3tese, assinale a alternativa que indica o \u00f3rg\u00e3o competente para proceder ao julgamento de Carolina.",
+        "filename": "2014-13.txt",
+        "number": "66",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A Justi\u00e7a Federal de Foz de Igua\u00e7u."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "A Justi\u00e7a Federal do Rio de Janeiro."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A Justi\u00e7a Federal de S\u00e3o Paulo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Qualquer das anteriores, independentemente da regra da preven\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

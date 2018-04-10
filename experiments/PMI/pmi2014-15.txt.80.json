@@ -1,1 +1,55 @@
-[{"valid": true, "options": [{"text": "requerer o adiamento para data pr\u00f3xima.", "pmi": [-0.12416126442757448, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "dar procura\u00e7\u00e3o com poderes espec\u00edficos ao seu advogado para que este o represente.", "pmi": [-0.24184465952273468, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "fazer-se representar por outro empregado da mesma profiss\u00e3o ou pelo seu sindicato.", "pmi": [-0.18611365639461172, 0.0, 0.0, 0.0], "letter": "C", "correct": true}, {"text": "deixar arquivar a demanda e ajuizar uma nova. Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China.", "pmi": [-0.3593216912088908, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "areas": [], "filename": "2014-15.txt", "number": "80", "enum": "Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China.\n\n Considerando que Jorge tem interesse no desfecho r\u00e1pido de seu processo, dever\u00e1"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "text": "requerer o adiamento para data pr\u00f3xima.",
+                "pmi": [
+                    -0.12416126442757448,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "dar procura\u00e7\u00e3o com poderes espec\u00edficos ao seu advogado para que este o represente.",
+                "pmi": [
+                    -0.24184465952273468,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "fazer-se representar por outro empregado da mesma profiss\u00e3o ou pelo seu sindicato.",
+                "pmi": [
+                    -0.18611365639461172,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "text": "deixar arquivar a demanda e ajuizar uma nova. Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China.",
+                "pmi": [
+                    -0.3593216912088908,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "areas": [],
+        "filename": "2014-15.txt",
+        "number": "80",
+        "enum": "Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China.\n\n Considerando que Jorge tem interesse no desfecho r\u00e1pido de seu processo, dever\u00e1"
+    }
+]

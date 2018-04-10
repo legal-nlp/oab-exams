@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Com rela\u00e7\u00e3o aos atos, termos e prazos processuais na justi\u00e7a trabalhista, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "76", "options": [{"correct": null, "letter": "A", "text": "Os atos processuais devem ser p\u00fablicos, salvo quando o interesse social determinar o contr\u00e1rio, e ter\u00e3o de realizar-se nos dias \u00fateis, no hor\u00e1rio de expediente forense habitual."}, {"correct": null, "letter": "B", "text": "No processo trabalhista, os prazos s\u00e3o contados com a inclus\u00e3o do dia em que se iniciam e do dia em que vencem."}, {"correct": null, "letter": "C", "text": "Os documentos juntados aos autos podem ser desentranhados sempre que a parte assim o requerer."}, {"correct": true, "letter": "D", "text": "Presume-se recebida, 48 horas ap\u00f3s a sua postagem, a notifica\u00e7\u00e3o para a pr\u00e1tica de ato processual, sendo poss\u00edvel a produ\u00e7\u00e3o de prova em contr\u00e1rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Com rela\u00e7\u00e3o aos atos, termos e prazos processuais na justi\u00e7a trabalhista, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "76",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os atos processuais devem ser p\u00fablicos, salvo quando o interesse social determinar o contr\u00e1rio, e ter\u00e3o de realizar-se nos dias \u00fateis, no hor\u00e1rio de expediente forense habitual."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "No processo trabalhista, os prazos s\u00e3o contados com a inclus\u00e3o do dia em que se iniciam e do dia em que vencem."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os documentos juntados aos autos podem ser desentranhados sempre que a parte assim o requerer."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Presume-se recebida, 48 horas ap\u00f3s a sua postagem, a notifica\u00e7\u00e3o para a pr\u00e1tica de ato processual, sendo poss\u00edvel a produ\u00e7\u00e3o de prova em contr\u00e1rio."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["BUSINESS"], "enum": "A sociedade limitada encontra-se regulada nos artigos 1052 a 1087 do C\u00f3digo Civil. Para que ela possa atingir sua finalidade, necessita de patrim\u00f4nio, j\u00e1 que sua personalidade \u00e9 diversa da personalidade dos s\u00f3cios. Em rela\u00e7\u00e3o ao capital e ao patrim\u00f4nio social desse tipo societ\u00e1rio, assinale a afirmativa incorreta.", "filename": "2012-09.txt", "number": "49", "options": [{"correct": null, "letter": "A", "text": "No momento em que a sociedade limitada \u00e9 constitu\u00edda e inicia a atividade que constitui o objeto social, o patrim\u00f4nio \u00e9 igual ao capital social."}, {"correct": true, "letter": "B", "text": "Na constitui\u00e7\u00e3o da sociedade h\u00e1 possibilidade do ingresso de s\u00f3cio cuja contribui\u00e7\u00e3o consista exclusivamente em presta\u00e7\u00e3o de servi\u00e7os."}, {"correct": null, "letter": "C", "text": "A distribui\u00e7\u00e3o dolosa de lucros il\u00edcitos acarreta a responsabilidade solid\u00e1ria dos administradores que a realizarem e dos s\u00f3cios que os receberem."}, {"correct": null, "letter": "D", "text": "O s\u00f3cio remisso \u00e9 aquele que n\u00e3o integraliza sua quota na forma e prazo previstos, podendo, por esse fato, ser exclu\u00eddo da sociedade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "BUSINESS"
+        ],
+        "enum": "A sociedade limitada encontra-se regulada nos artigos 1052 a 1087 do C\u00f3digo Civil. Para que ela possa atingir sua finalidade, necessita de patrim\u00f4nio, j\u00e1 que sua personalidade \u00e9 diversa da personalidade dos s\u00f3cios. Em rela\u00e7\u00e3o ao capital e ao patrim\u00f4nio social desse tipo societ\u00e1rio, assinale a afirmativa incorreta.",
+        "filename": "2012-09.txt",
+        "number": "49",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "No momento em que a sociedade limitada \u00e9 constitu\u00edda e inicia a atividade que constitui o objeto social, o patrim\u00f4nio \u00e9 igual ao capital social."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Na constitui\u00e7\u00e3o da sociedade h\u00e1 possibilidade do ingresso de s\u00f3cio cuja contribui\u00e7\u00e3o consista exclusivamente em presta\u00e7\u00e3o de servi\u00e7os."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A distribui\u00e7\u00e3o dolosa de lucros il\u00edcitos acarreta a responsabilidade solid\u00e1ria dos administradores que a realizarem e dos s\u00f3cios que os receberem."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O s\u00f3cio remisso \u00e9 aquele que n\u00e3o integraliza sua quota na forma e prazo previstos, podendo, por esse fato, ser exclu\u00eddo da sociedade."
+            }
+        ],
+        "valid": true
+    }
+]

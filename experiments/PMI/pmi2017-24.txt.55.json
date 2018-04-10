@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "pmi": [-0.05802809288889381, 0.0, 0.0, 0.0], "text": "Arthur poder\u00e1 opor embargos de declara\u00e7\u00e3o, suspendendo o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.", "correct": null}, {"letter": "B", "pmi": [-0.05505123938844574, 0.0, 0.0, 0.0], "text": "Os embargos n\u00e3o interrompem ou suspendem o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal, de modo que Arthur dever\u00e1 optar entre os embargos ou o recurso, sob pena de preclus\u00e3o.", "correct": null}, {"letter": "C", "pmi": [-0.03247277666657156, 0.0, 0.0, 0.0], "text": "Eventuais embargos de declara\u00e7\u00e3o interpostos por Arthur interromper\u00e3o o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.", "correct": true}, {"letter": "D", "pmi": [-0.014979707151077354, 0.0, 0.0, 0.0], "text": "Arthur n\u00e3o dever\u00e1 interpor embargos de declara\u00e7\u00e3o pois estes n\u00e3o s\u00e3o cab\u00edveis no \u00e2mbito de Juizados Especiais.", "correct": null}], "number": "55", "filename": "2017-24.txt", "areas": [null], "enum": "Arthur ajuizou a\u00e7\u00e3o perante o Juizado Especial C\u00edvel da Comarca do Rio de Janeiro, com o objetivo de obter repara\u00e7\u00e3o por danos materiais, em raz\u00e3o de falha na presta\u00e7\u00e3o de servi\u00e7os pela sociedade empres\u00e1ria Consultex.\n\n A senten\u00e7a de improced\u00eancia dos pedidos iniciais foi publicada, mas n\u00e3o apreciou juridicamente um argumento relevante suscitado na inicial, desconsiderando, em sua fundamenta\u00e7\u00e3o, importante prova do nexo de causalidade.  Arthur pretende opor embargos de declara\u00e7\u00e3o para ver sanada tal omiss\u00e3o.\n\n Diante de tal cen\u00e1rio, assinale a afirmativa correta.", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.05802809288889381,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Arthur poder\u00e1 opor embargos de declara\u00e7\u00e3o, suspendendo o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.05505123938844574,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os embargos n\u00e3o interrompem ou suspendem o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal, de modo que Arthur dever\u00e1 optar entre os embargos ou o recurso, sob pena de preclus\u00e3o.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.03247277666657156,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Eventuais embargos de declara\u00e7\u00e3o interpostos por Arthur interromper\u00e3o o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.",
+                "correct": true
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.014979707151077354,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Arthur n\u00e3o dever\u00e1 interpor embargos de declara\u00e7\u00e3o pois estes n\u00e3o s\u00e3o cab\u00edveis no \u00e2mbito de Juizados Especiais.",
+                "correct": null
+            }
+        ],
+        "number": "55",
+        "filename": "2017-24.txt",
+        "areas": [
+            null
+        ],
+        "enum": "Arthur ajuizou a\u00e7\u00e3o perante o Juizado Especial C\u00edvel da Comarca do Rio de Janeiro, com o objetivo de obter repara\u00e7\u00e3o por danos materiais, em raz\u00e3o de falha na presta\u00e7\u00e3o de servi\u00e7os pela sociedade empres\u00e1ria Consultex.\n\n A senten\u00e7a de improced\u00eancia dos pedidos iniciais foi publicada, mas n\u00e3o apreciou juridicamente um argumento relevante suscitado na inicial, desconsiderando, em sua fundamenta\u00e7\u00e3o, importante prova do nexo de causalidade.  Arthur pretende opor embargos de declara\u00e7\u00e3o para ver sanada tal omiss\u00e3o.\n\n Diante de tal cen\u00e1rio, assinale a afirmativa correta.",
+        "valid": true
+    }
+]

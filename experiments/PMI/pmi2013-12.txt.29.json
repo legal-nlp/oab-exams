@@ -1,1 +1,57 @@
-[{"filename": "2013-12.txt", "areas": ["ADMINISTRATIVE"], "options": [{"correct": null, "text": "a reintegra\u00e7\u00e3o de posse de todo o im\u00f3vel em fun\u00e7\u00e3o da m\u00e1-f\u00e9 do Munic\u00edpio.", "letter": "A", "pmi": [-0.060904262565704186, 0.0, 0.0, 0.0]}, {"correct": true, "text": "o direito de extens\u00e3o da desapropria\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 \u00e1rea inaproveit\u00e1vel.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "a anula\u00e7\u00e3o da desapropria\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 parcela do im\u00f3vel suficiente para tornar a \u00e1rea restante economicamente aproveit\u00e1vel.", "letter": "C", "pmi": [-0.0034556243687271504, 0.0, 0.0, 0.0]}, {"correct": null, "text": "a anula\u00e7\u00e3o integral da desapropria\u00e7\u00e3o, pois a mesma foi ilegal.", "letter": "D", "pmi": [-0.04688073939988365, 0.0, 0.0, 0.0]}], "enum": "O Munic\u00edpio de Barra Alta realizou a desapropria\u00e7\u00e3o de grande parcela do im\u00f3vel de Manoel Silva e deixou uma parcela inaproveit\u00e1vel para o propriet\u00e1rio.\n\n No caso descrito, o propriet\u00e1rio obter\u00e1 \u00eaxito se pleitear", "valid": true, "number": "29"}]
+[
+    {
+        "filename": "2013-12.txt",
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "text": "a reintegra\u00e7\u00e3o de posse de todo o im\u00f3vel em fun\u00e7\u00e3o da m\u00e1-f\u00e9 do Munic\u00edpio.",
+                "letter": "A",
+                "pmi": [
+                    -0.060904262565704186,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "o direito de extens\u00e3o da desapropria\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 \u00e1rea inaproveit\u00e1vel.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "a anula\u00e7\u00e3o da desapropria\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 parcela do im\u00f3vel suficiente para tornar a \u00e1rea restante economicamente aproveit\u00e1vel.",
+                "letter": "C",
+                "pmi": [
+                    -0.0034556243687271504,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "a anula\u00e7\u00e3o integral da desapropria\u00e7\u00e3o, pois a mesma foi ilegal.",
+                "letter": "D",
+                "pmi": [
+                    -0.04688073939988365,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "O Munic\u00edpio de Barra Alta realizou a desapropria\u00e7\u00e3o de grande parcela do im\u00f3vel de Manoel Silva e deixou uma parcela inaproveit\u00e1vel para o propriet\u00e1rio.\n\n No caso descrito, o propriet\u00e1rio obter\u00e1 \u00eaxito se pleitear",
+        "valid": true,
+        "number": "29"
+    }
+]

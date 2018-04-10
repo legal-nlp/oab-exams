@@ -1,1 +1,57 @@
-[{"filename": "2017-22.txt", "number": "2", "areas": [null], "options": [{"correct": true, "letter": "A", "text": "n\u00e3o tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Seccional em cuja base territorial tenha ocorrido a infra\u00e7\u00e3o, salvo se a falta for cometida perante o Conselho Federal.", "pmi": [-0.12900219607814042, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Seccional em que o advogado se encontra inscrito, salvo se a falta for cometida perante o Conselho Federal.", "pmi": [-0.13892544193030507, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 concorrente entre o Conselho Seccional em que o advogado se encontra inscrito e o Conselho Seccional em cuja base territorial tenha ocorrido a infra\u00e7\u00e3o, salvo se a falta for cometida perante o Conselho Federal.", "pmi": [-0.10033504139410922, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "D", "text": "n\u00e3o tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Federal, ainda que a falta n\u00e3o tenha sido cometida perante este, quando o advogado for inscrito em uma Seccional e a infra\u00e7\u00e3o tiver ocorrido na base territorial de outra.", "pmi": [-0.06687147121593655, 0.0, 0.0, 0.0]}], "valid": true, "enum": "Cl\u00e1udio, advogado inscrito na Seccional da OAB do Estado do Rio de Janeiro, praticou infra\u00e7\u00e3o disciplinar em territ\u00f3rio abrangido pela Seccional da OAB do Estado da S\u00e3o Paulo. Ap\u00f3s representa\u00e7\u00e3o do interessado, o Conselho de \u00c9tica e Disciplina da Seccional da OAB do Estado do Rio de Janeiro instaurou processo disciplinar para apura\u00e7\u00e3o da infra\u00e7\u00e3o.\n\n Sobre o caso, de acordo com o Estatuto da OAB, o Conselho de \u00c9tica e Disciplina da Seccional da OAB do Estado do Rio de Janeiro"}]
+[
+    {
+        "filename": "2017-22.txt",
+        "number": "2",
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "n\u00e3o tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Seccional em cuja base territorial tenha ocorrido a infra\u00e7\u00e3o, salvo se a falta for cometida perante o Conselho Federal.",
+                "pmi": [
+                    -0.12900219607814042,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Seccional em que o advogado se encontra inscrito, salvo se a falta for cometida perante o Conselho Federal.",
+                "pmi": [
+                    -0.13892544193030507,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 concorrente entre o Conselho Seccional em que o advogado se encontra inscrito e o Conselho Seccional em cuja base territorial tenha ocorrido a infra\u00e7\u00e3o, salvo se a falta for cometida perante o Conselho Federal.",
+                "pmi": [
+                    -0.10033504139410922,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "n\u00e3o tem compet\u00eancia para punir disciplinarmente Cl\u00e1udio, pois a compet\u00eancia \u00e9 exclusivamente do Conselho Federal, ainda que a falta n\u00e3o tenha sido cometida perante este, quando o advogado for inscrito em uma Seccional e a infra\u00e7\u00e3o tiver ocorrido na base territorial de outra.",
+                "pmi": [
+                    -0.06687147121593655,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "enum": "Cl\u00e1udio, advogado inscrito na Seccional da OAB do Estado do Rio de Janeiro, praticou infra\u00e7\u00e3o disciplinar em territ\u00f3rio abrangido pela Seccional da OAB do Estado da S\u00e3o Paulo. Ap\u00f3s representa\u00e7\u00e3o do interessado, o Conselho de \u00c9tica e Disciplina da Seccional da OAB do Estado do Rio de Janeiro instaurou processo disciplinar para apura\u00e7\u00e3o da infra\u00e7\u00e3o.\n\n Sobre o caso, de acordo com o Estatuto da OAB, o Conselho de \u00c9tica e Disciplina da Seccional da OAB do Estado do Rio de Janeiro"
+    }
+]

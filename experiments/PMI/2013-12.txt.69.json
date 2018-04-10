@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "A Teoria Geral das Nulidades determina que nulidade \u00e9 a san\u00e7\u00e3o aplicada pelo Poder Judici\u00e1rio ao ato imperfeito, defeituoso. Tal teoria \u00e9 regida pelos princ\u00edpios relacionados a seguir, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.", "filename": "2013-12.txt", "number": "69", "options": [{"correct": null, "letter": "A", "text": "Princ\u00edpio do Preju\u00edzo."}, {"correct": null, "letter": "B", "text": "Princ\u00edpio da Causalidade."}, {"correct": null, "letter": "C", "text": "Princ\u00edpio do Interesse."}, {"correct": true, "letter": "D", "text": "Princ\u00edpio da Voluntariedade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "A Teoria Geral das Nulidades determina que nulidade \u00e9 a san\u00e7\u00e3o aplicada pelo Poder Judici\u00e1rio ao ato imperfeito, defeituoso. Tal teoria \u00e9 regida pelos princ\u00edpios relacionados a seguir, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.",
+        "filename": "2013-12.txt",
+        "number": "69",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Princ\u00edpio do Preju\u00edzo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Princ\u00edpio da Causalidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Princ\u00edpio do Interesse."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Princ\u00edpio da Voluntariedade."
+            }
+        ],
+        "valid": true
+    }
+]

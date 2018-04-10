@@ -1,1 +1,55 @@
-[{"options": [{"text": "n\u00e3o podem instituir e cobrar seus impostos, sob pena de viola\u00e7\u00e3o do Art. 146 da Constitui\u00e7\u00e3o.", "letter": "A", "correct": null, "pmi": [-0.8042878630176938, 0.0, 0.0, 0.0]}, {"text": "podem instituir e cobrar seus impostos, desde que celebrem conv\u00eanio para estabelecer normas gerais.", "letter": "B", "correct": null, "pmi": [-0.5653574526072424, 0.0, 0.0, 0.0]}, {"text": "podem instituir e cobrar seus impostos, pois possuem compet\u00eancia legislativa plena at\u00e9 que a lei complementar venha a ser editada.", "letter": "C", "correct": true, "pmi": [-0.5458805154538, -0.006387485338593887, 0.0, 0.0]}, {"text": "podem instituir e cobrar seus impostos, desde que seja publicada Medida Provis\u00f3ria autorizando.", "letter": "D", "correct": null, "pmi": [-0.4188960712322478, 0.0, 0.0, 0.0]}], "enum": "O Art. 146, III, a, da Constitui\u00e7\u00e3o Federal estabelece que lei complementar deve trazer a defini\u00e7\u00e3o dos fatos geradores, da base de c\u00e1lculo e dos contribuintes dos impostos previstos na Constitui\u00e7\u00e3o.\n\n Caso n\u00e3o exista lei complementar prevendo tais defini\u00e7\u00f5es relativamente aos impostos estaduais, os estados", "number": "26", "filename": "2014-15.txt", "areas": [], "valid": true}]
+[
+    {
+        "options": [
+            {
+                "text": "n\u00e3o podem instituir e cobrar seus impostos, sob pena de viola\u00e7\u00e3o do Art. 146 da Constitui\u00e7\u00e3o.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.8042878630176938,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "podem instituir e cobrar seus impostos, desde que celebrem conv\u00eanio para estabelecer normas gerais.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.5653574526072424,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "podem instituir e cobrar seus impostos, pois possuem compet\u00eancia legislativa plena at\u00e9 que a lei complementar venha a ser editada.",
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    -0.5458805154538,
+                    -0.006387485338593887,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "podem instituir e cobrar seus impostos, desde que seja publicada Medida Provis\u00f3ria autorizando.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.4188960712322478,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "O Art. 146, III, a, da Constitui\u00e7\u00e3o Federal estabelece que lei complementar deve trazer a defini\u00e7\u00e3o dos fatos geradores, da base de c\u00e1lculo e dos contribuintes dos impostos previstos na Constitui\u00e7\u00e3o.\n\n Caso n\u00e3o exista lei complementar prevendo tais defini\u00e7\u00f5es relativamente aos impostos estaduais, os estados",
+        "number": "26",
+        "filename": "2014-15.txt",
+        "areas": [],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"filename": "2014-13.txt", "valid": true, "enum": "A a\u00e7\u00e3o de habeas data, como instrumento de prote\u00e7\u00e3o de dimens\u00e3o do direito de personalidade, destina-se a garantir o acesso de uma pessoa a informa\u00e7\u00f5es sobre ela que fa\u00e7am parte de arquivos ou banco de dados de entidades governamentais ou p\u00fablicas, bem como a garantir a corre\u00e7\u00e3o de dados incorretos.\n\n A partir do fragmento acima, assinale a op\u00e7\u00e3o correta.", "number": "19", "areas": ["CONSTITUTIONAL"], "options": [{"letter": "A", "pmi": [-0.17268823663455177, 0.0, 0.0, 0.0], "correct": null, "text": "Conceder-se-\u00e1 habeas data para assegurar o conhecimento de informa\u00e7\u00f5es relativas \u00e0 pessoa do impetrante ou de parente deste at\u00e9 o segundo grau, constantes de registro ou banco de dados de entidades governamentais ou privadas."}, {"letter": "B", "pmi": [-0.1841398084337279, 0.0, 0.0, 0.0], "correct": null, "text": "Al\u00e9m dos requisitos previstos no C\u00f3digo de Processo Civil para peti\u00e7\u00e3o inicial, a a\u00e7\u00e3o de habeas data dever\u00e1 vir instru\u00edda com prova da recusa ao acesso \u00e0s informa\u00e7\u00f5es ou o simples decurso de dez dias sem decis\u00e3o."}, {"letter": "C", "pmi": [-0.05562873635218348, 0.0, 0.0, 0.0], "correct": null, "text": "Do despacho de indeferimento da inicial de habeas data por falta de algum requisito legal para o ajuizamento caber\u00e1 agravo de instrumento."}, {"letter": "D", "pmi": [-0.2011356412437805, 0.0, 0.0, 0.0], "correct": true, "text": "A a\u00e7\u00e3o de habeas data ter\u00e1 prioridade sobre todos os atos judiciais, com exce\u00e7\u00e3o ao habeas corpus e ao mandado de seguran\u00e7a."}]}]
+[
+    {
+        "filename": "2014-13.txt",
+        "valid": true,
+        "enum": "A a\u00e7\u00e3o de habeas data, como instrumento de prote\u00e7\u00e3o de dimens\u00e3o do direito de personalidade, destina-se a garantir o acesso de uma pessoa a informa\u00e7\u00f5es sobre ela que fa\u00e7am parte de arquivos ou banco de dados de entidades governamentais ou p\u00fablicas, bem como a garantir a corre\u00e7\u00e3o de dados incorretos.\n\n A partir do fragmento acima, assinale a op\u00e7\u00e3o correta.",
+        "number": "19",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.17268823663455177,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Conceder-se-\u00e1 habeas data para assegurar o conhecimento de informa\u00e7\u00f5es relativas \u00e0 pessoa do impetrante ou de parente deste at\u00e9 o segundo grau, constantes de registro ou banco de dados de entidades governamentais ou privadas."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.1841398084337279,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Al\u00e9m dos requisitos previstos no C\u00f3digo de Processo Civil para peti\u00e7\u00e3o inicial, a a\u00e7\u00e3o de habeas data dever\u00e1 vir instru\u00edda com prova da recusa ao acesso \u00e0s informa\u00e7\u00f5es ou o simples decurso de dez dias sem decis\u00e3o."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.05562873635218348,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Do despacho de indeferimento da inicial de habeas data por falta de algum requisito legal para o ajuizamento caber\u00e1 agravo de instrumento."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.2011356412437805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "A a\u00e7\u00e3o de habeas data ter\u00e1 prioridade sobre todos os atos judiciais, com exce\u00e7\u00e3o ao habeas corpus e ao mandado de seguran\u00e7a."
+            }
+        ]
+    }
+]

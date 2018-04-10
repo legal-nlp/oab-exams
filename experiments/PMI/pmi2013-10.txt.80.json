@@ -1,1 +1,57 @@
-[{"filename": "2013-10.txt", "valid": true, "areas": ["LABOUR-PROCEDURE"], "number": "80", "enum": "Em reclama\u00e7\u00e3o trabalhista movida contra um munic\u00edpio, este n\u00e3o comparece \u00e0 audi\u00eancia inaugural.\n\n Diante dessa hip\u00f3tese, assinale a afirmativa correta.", "options": [{"text": "N\u00e3o se cogita de revelia porque o direito \u00e9 indispon\u00edvel.", "correct": null, "pmi": [-0.14549216562177492, 0.0, 0.0, 0.0], "letter": "A"}, {"text": "Aplica-se a revelia contra o ente p\u00fablico.", "correct": true, "pmi": [-0.1374402686172352, 0.0, 0.0, 0.0], "letter": "B"}, {"text": "N\u00e3o h\u00e1 revelia, mas se aplica a confiss\u00e3o.", "correct": null, "pmi": [-0.18325369148964696, 0.0, 0.0, 0.0], "letter": "C"}, {"text": "O juiz deve designar audi\u00eancia de instru\u00e7\u00e3o, haja vista tratar-se de ente p\u00fablico.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D"}]}]
+[
+    {
+        "filename": "2013-10.txt",
+        "valid": true,
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "number": "80",
+        "enum": "Em reclama\u00e7\u00e3o trabalhista movida contra um munic\u00edpio, este n\u00e3o comparece \u00e0 audi\u00eancia inaugural.\n\n Diante dessa hip\u00f3tese, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "N\u00e3o se cogita de revelia porque o direito \u00e9 indispon\u00edvel.",
+                "correct": null,
+                "pmi": [
+                    -0.14549216562177492,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "text": "Aplica-se a revelia contra o ente p\u00fablico.",
+                "correct": true,
+                "pmi": [
+                    -0.1374402686172352,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "text": "N\u00e3o h\u00e1 revelia, mas se aplica a confiss\u00e3o.",
+                "correct": null,
+                "pmi": [
+                    -0.18325369148964696,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "text": "O juiz deve designar audi\u00eancia de instru\u00e7\u00e3o, haja vista tratar-se de ente p\u00fablico.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ]
+    }
+]

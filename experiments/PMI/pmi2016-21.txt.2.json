@@ -1,1 +1,57 @@
-[{"number": "2", "enum": "O advogado Roni foi presidente do Conselho Federal da OAB em mandato exercido por certo tri\u00eanio, na d\u00e9cada entre 2000 e 2010. Sobre a participa\u00e7\u00e3o de Roni, na condi\u00e7\u00e3o de ex- presidente do Conselho Federal, nas sess\u00f5es do referido Conselho, assinale a afirmativa correta.", "filename": "2016-21.txt", "options": [{"pmi": [-0.11368026833362252, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB. Logo, apenas pode participar das sess\u00f5es na condi\u00e7\u00e3o de ouvinte, n\u00e3o lhe sendo facultado direito a voto ou direito a voz.", "letter": "A"}, {"pmi": [-0.21035828032085183, 0.0, 0.0, 0.0], "correct": null, "text": "Integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB, na qualidade de membro honor\u00e1rio vital\u00edcio, sendo-lhe conferido direito a voto e direito a voz nas sess\u00f5es.", "letter": "B"}, {"pmi": [-0.10610158377804768, 0.0, 0.0, 0.0], "correct": null, "text": "N\u00e3o integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB. Logo, apenas pode participar das sess\u00f5es na condi\u00e7\u00e3o de convidado honor\u00e1rio, n\u00e3o lhe sendo facultado direito a voto, mas, sim, direito a voz.", "letter": "C"}, {"pmi": [-0.21035828032085183, 0.0, 0.0, 0.0], "correct": true, "text": "Integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB, na qualidade de membro honor\u00e1rio vital\u00edcio, sendo-lhe conferido apenas direito a voz nas sess\u00f5es e n\u00e3o direito a voto.", "letter": "D"}], "valid": true, "areas": ["ETHICS"]}]
+[
+    {
+        "number": "2",
+        "enum": "O advogado Roni foi presidente do Conselho Federal da OAB em mandato exercido por certo tri\u00eanio, na d\u00e9cada entre 2000 e 2010. Sobre a participa\u00e7\u00e3o de Roni, na condi\u00e7\u00e3o de ex- presidente do Conselho Federal, nas sess\u00f5es do referido Conselho, assinale a afirmativa correta.",
+        "filename": "2016-21.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.11368026833362252,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB. Logo, apenas pode participar das sess\u00f5es na condi\u00e7\u00e3o de ouvinte, n\u00e3o lhe sendo facultado direito a voto ou direito a voz.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.21035828032085183,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB, na qualidade de membro honor\u00e1rio vital\u00edcio, sendo-lhe conferido direito a voto e direito a voz nas sess\u00f5es.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.10610158377804768,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "N\u00e3o integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB. Logo, apenas pode participar das sess\u00f5es na condi\u00e7\u00e3o de convidado honor\u00e1rio, n\u00e3o lhe sendo facultado direito a voto, mas, sim, direito a voz.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.21035828032085183,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Integra a atual composi\u00e7\u00e3o do Conselho Federal da OAB, na qualidade de membro honor\u00e1rio vital\u00edcio, sendo-lhe conferido apenas direito a voz nas sess\u00f5es e n\u00e3o direito a voto.",
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "ETHICS"
+        ]
+    }
+]

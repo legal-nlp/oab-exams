@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "O estado de defesa e o estado de s\u00edtio s\u00e3o tidos como legalidades extraordin\u00e1rias, verdadeiras excepcionalidades que possibilitam inclusive a suspens\u00e3o de determinas garantias constitucionais. As hip\u00f3teses de incid\u00eancia e o procedimento s\u00e3o exaustivamente tratados pela CRFB/88.\n\n Com base na previs\u00e3o constitucional dos referidos institutos, assinale a op\u00e7\u00e3o correta.", "filename": "2014-14.txt", "number": "15", "options": [{"correct": null, "letter": "A", "text": "O estado de defesa e o estado de s\u00edtio podem ser decretados pelo Presidente da Rep\u00fablica, bastando a oitiva pr\u00e9via do Conselho da Rep\u00fablica, do Conselho de Defesa Nacional e do Procurador-Geral da Rep\u00fablica."}, {"correct": true, "letter": "B", "text": "No estado de defesa, a oitiva do Congresso Nacional \u00e9 posterior \u00e0 sua decreta\u00e7\u00e3o. Por sua vez, no estado de s\u00edtio, o Congresso Nacional deve ser ouvido previamente \u00e0 decreta\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "Poder\u00e1 o Presidente da Rep\u00fablica, \u00e0 luz da CRFB/88, decretar estado de defesa em resposta a agress\u00e3o armada de pa\u00eds vizinho."}, {"correct": null, "letter": "D", "text": "Em sendo hip\u00f3tese de estado de s\u00edtio, o Congresso Nacional dever\u00e1 ser fechado at\u00e9 o t\u00e9rmino das medidas coercitivas, para sua salvaguarda."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O estado de defesa e o estado de s\u00edtio s\u00e3o tidos como legalidades extraordin\u00e1rias, verdadeiras excepcionalidades que possibilitam inclusive a suspens\u00e3o de determinas garantias constitucionais. As hip\u00f3teses de incid\u00eancia e o procedimento s\u00e3o exaustivamente tratados pela CRFB/88.\n\n Com base na previs\u00e3o constitucional dos referidos institutos, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "15",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O estado de defesa e o estado de s\u00edtio podem ser decretados pelo Presidente da Rep\u00fablica, bastando a oitiva pr\u00e9via do Conselho da Rep\u00fablica, do Conselho de Defesa Nacional e do Procurador-Geral da Rep\u00fablica."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "No estado de defesa, a oitiva do Congresso Nacional \u00e9 posterior \u00e0 sua decreta\u00e7\u00e3o. Por sua vez, no estado de s\u00edtio, o Congresso Nacional deve ser ouvido previamente \u00e0 decreta\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Poder\u00e1 o Presidente da Rep\u00fablica, \u00e0 luz da CRFB/88, decretar estado de defesa em resposta a agress\u00e3o armada de pa\u00eds vizinho."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Em sendo hip\u00f3tese de estado de s\u00edtio, o Congresso Nacional dever\u00e1 ser fechado at\u00e9 o t\u00e9rmino das medidas coercitivas, para sua salvaguarda."
+            }
+        ],
+        "valid": true
+    }
+]

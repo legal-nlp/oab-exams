@@ -1,1 +1,55 @@
-[{"filename": "2016-21.txt", "enum": "Paula e Joyce s\u00e3o empregadas de uma mesma sociedade empres\u00e1ria. O irm\u00e3o de Paula faleceu e o empregador n\u00e3o autorizou sua aus\u00eancia ao trabalho. Vinte dias depois, Joyce se casou e o empregador tamb\u00e9m n\u00e3o autorizou sua aus\u00eancia ao trabalho em nenhum dia.\n\n Como advogado(a) das empregadas, voc\u00ea dever\u00e1 requerer", "number": "73", "areas": [], "options": [{"letter": "A", "text": "em ambos os casos, a aus\u00eancia ao trabalho por tr\u00eas dias consecutivos.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "um dia de aus\u00eancia ao trabalho para Paula e de tr\u00eas dias para Joyce.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "a aus\u00eancia ao trabalho por dois dias consecutivos, no caso de Paula e, de at\u00e9 tr\u00eas dias, para Joyce.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "a aus\u00eancia ao trabalho por dois \u00fateis dias no caso de Paula e, de at\u00e9 tr\u00eas dias \u00fateis, para Joyce.", "correct": null, "pmi": [-0.016649397339169942, 0.0, 0.0, 0.0]}], "valid": true}]
+[
+    {
+        "filename": "2016-21.txt",
+        "enum": "Paula e Joyce s\u00e3o empregadas de uma mesma sociedade empres\u00e1ria. O irm\u00e3o de Paula faleceu e o empregador n\u00e3o autorizou sua aus\u00eancia ao trabalho. Vinte dias depois, Joyce se casou e o empregador tamb\u00e9m n\u00e3o autorizou sua aus\u00eancia ao trabalho em nenhum dia.\n\n Como advogado(a) das empregadas, voc\u00ea dever\u00e1 requerer",
+        "number": "73",
+        "areas": [],
+        "options": [
+            {
+                "letter": "A",
+                "text": "em ambos os casos, a aus\u00eancia ao trabalho por tr\u00eas dias consecutivos.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "um dia de aus\u00eancia ao trabalho para Paula e de tr\u00eas dias para Joyce.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "a aus\u00eancia ao trabalho por dois dias consecutivos, no caso de Paula e, de at\u00e9 tr\u00eas dias, para Joyce.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "a aus\u00eancia ao trabalho por dois \u00fateis dias no caso de Paula e, de at\u00e9 tr\u00eas dias \u00fateis, para Joyce.",
+                "correct": null,
+                "pmi": [
+                    -0.016649397339169942,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true
+    }
+]

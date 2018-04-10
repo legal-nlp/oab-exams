@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Tom\u00e1s e Vin\u00edcius trabalham em uma empresa de assist\u00eancia t\u00e9cnica de inform\u00e1tica. Ap\u00f3s diversas reclama\u00e7\u00f5es de seu chefe, Adilson, os dois funcion\u00e1rios decidem se vingar dele, criando um perfil falso em seu nome, em uma rede social.\n\n Tom\u00e1s cria o referido perfil, inserindo no sistema os dados pessoais, fotografias e informa\u00e7\u00f5es diversas sobre Adilson. Vin\u00edcius, a seu turno, alimenta o perfil durante duas semanas com postagens ofensivas, at\u00e9 que os dois s\u00e3o descobertos por um terceiro colega, que os denuncia ao chefe. Ofendido, Adilson aju\u00edza a\u00e7\u00e3o indenizat\u00f3ria por danos morais em face de Tom\u00e1s e Vin\u00edcius.\n\n A respeito do caso narrado, assinale a afirmativa correta.", "filename": "2016-21.txt", "number": "42", "options": [{"correct": true, "letter": "A", "text": "Tom\u00e1s e Vin\u00edcius s\u00e3o correspons\u00e1veis pelo dano moral sofrido por Adilson e devem responder solidariamente pelo dever de indenizar."}, {"correct": null, "letter": "B", "text": "Tom\u00e1s e Vin\u00edcius devem responder pelo dano moral sofrido por Adilson, sendo a obriga\u00e7\u00e3o de indenizar, nesse caso, fracion\u00e1ria, diante da pluralidade de causadores do dano."}, {"correct": null, "letter": "C", "text": "Tom\u00e1s e Vin\u00edcius apenas poder\u00e3o responder, cada um, por metade do valor fixado a t\u00edtulo de indeniza\u00e7\u00e3o, pois cada um poder\u00e1 alegar a culpa concorrente do outro para limitar sua responsabilidade."}, {"correct": null, "letter": "D", "text": "Adilson sofreu danos morais distintos: um causado por Tom\u00e1s e outro por Vin\u00edcius, devendo, portanto, receber duas indeniza\u00e7\u00f5es aut\u00f4nomas."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Tom\u00e1s e Vin\u00edcius trabalham em uma empresa de assist\u00eancia t\u00e9cnica de inform\u00e1tica. Ap\u00f3s diversas reclama\u00e7\u00f5es de seu chefe, Adilson, os dois funcion\u00e1rios decidem se vingar dele, criando um perfil falso em seu nome, em uma rede social.\n\n Tom\u00e1s cria o referido perfil, inserindo no sistema os dados pessoais, fotografias e informa\u00e7\u00f5es diversas sobre Adilson. Vin\u00edcius, a seu turno, alimenta o perfil durante duas semanas com postagens ofensivas, at\u00e9 que os dois s\u00e3o descobertos por um terceiro colega, que os denuncia ao chefe. Ofendido, Adilson aju\u00edza a\u00e7\u00e3o indenizat\u00f3ria por danos morais em face de Tom\u00e1s e Vin\u00edcius.\n\n A respeito do caso narrado, assinale a afirmativa correta.",
+        "filename": "2016-21.txt",
+        "number": "42",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Tom\u00e1s e Vin\u00edcius s\u00e3o correspons\u00e1veis pelo dano moral sofrido por Adilson e devem responder solidariamente pelo dever de indenizar."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Tom\u00e1s e Vin\u00edcius devem responder pelo dano moral sofrido por Adilson, sendo a obriga\u00e7\u00e3o de indenizar, nesse caso, fracion\u00e1ria, diante da pluralidade de causadores do dano."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Tom\u00e1s e Vin\u00edcius apenas poder\u00e3o responder, cada um, por metade do valor fixado a t\u00edtulo de indeniza\u00e7\u00e3o, pois cada um poder\u00e1 alegar a culpa concorrente do outro para limitar sua responsabilidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Adilson sofreu danos morais distintos: um causado por Tom\u00e1s e outro por Vin\u00edcius, devendo, portanto, receber duas indeniza\u00e7\u00f5es aut\u00f4nomas."
+            }
+        ],
+        "valid": true
+    }
+]

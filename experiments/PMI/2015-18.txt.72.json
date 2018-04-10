@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Jefferson, empregado da sociedade empres\u00e1ria Editora S\u00e9culo XIX, resolve adotar, sozinho, uma crian\u00e7a de 5 anos de idade. Diante da hip\u00f3tese, de acordo com a legisla\u00e7\u00e3o em vigor, assinale a afirmativa correta.", "filename": "2015-18.txt", "number": "72", "options": [{"correct": null, "letter": "A", "text": "Jefferson n\u00e3o ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, por falta de dispositivo legal."}, {"correct": null, "letter": "B", "text": "Jefferson receber\u00e1 sal\u00e1rio-maternidade, mas n\u00e3o ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, porque a regra aplica-se apenas \u00e0s mulheres."}, {"correct": true, "letter": "C", "text": "Jefferson ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, pois este direito aplica-se \u00e0 pessoa que adotar, independentemente do g\u00eanero."}, {"correct": null, "letter": "D", "text": "Jefferson ter\u00e1 direito \u00e0 licen\u00e7a-maternidade de 60 dias."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Jefferson, empregado da sociedade empres\u00e1ria Editora S\u00e9culo XIX, resolve adotar, sozinho, uma crian\u00e7a de 5 anos de idade. Diante da hip\u00f3tese, de acordo com a legisla\u00e7\u00e3o em vigor, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Jefferson n\u00e3o ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, por falta de dispositivo legal."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Jefferson receber\u00e1 sal\u00e1rio-maternidade, mas n\u00e3o ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, porque a regra aplica-se apenas \u00e0s mulheres."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Jefferson ter\u00e1 direito \u00e0 licen\u00e7a-maternidade, pois este direito aplica-se \u00e0 pessoa que adotar, independentemente do g\u00eanero."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Jefferson ter\u00e1 direito \u00e0 licen\u00e7a-maternidade de 60 dias."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Acerca da compet\u00eancia no \u00e2mbito do direito processual penal, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "92", "options": [{"correct": true, "letter": "A", "text": "Caso um policial militar cometa, em uma mesma comarca, dois delitos conexos, um cujo processo e julgamento seja de compet\u00eancia da justi\u00e7a estadual militar e o outro, da justi\u00e7a comum estadual, haver\u00e1 cis\u00e3o processual."}, {"correct": null, "letter": "B", "text": "Os desembargadores dos tribunais de justi\u00e7a dos estados e dos tribunais regionais federais possuem prerrogativa de foro especial, devendo ser processados e julgados criminalmente no STF."}, {"correct": null, "letter": "C", "text": "A compet\u00eancia para processo e julgamento por crime de contrabando ou descaminho define-se pela preven\u00e7\u00e3o do ju\u00edzo federal do local por onde as mercadorias sejam indevidamente introduzidas no Brasil."}, {"correct": null, "letter": "D", "text": "Caso um indiv\u00edduo tenha cometido, em uma mesma comarca, dois delitos conexos, um cujo processo e julgamento seja da compet\u00eancia da justi\u00e7a federal e o outro, da justi\u00e7a comum estadual, a compet\u00eancia para o julgamento unificado dos dois crimes ser\u00e1 determinada pelo delito considerado mais grave."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Acerca da compet\u00eancia no \u00e2mbito do direito processual penal, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "92",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Caso um policial militar cometa, em uma mesma comarca, dois delitos conexos, um cujo processo e julgamento seja de compet\u00eancia da justi\u00e7a estadual militar e o outro, da justi\u00e7a comum estadual, haver\u00e1 cis\u00e3o processual."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Os desembargadores dos tribunais de justi\u00e7a dos estados e dos tribunais regionais federais possuem prerrogativa de foro especial, devendo ser processados e julgados criminalmente no STF."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A compet\u00eancia para processo e julgamento por crime de contrabando ou descaminho define-se pela preven\u00e7\u00e3o do ju\u00edzo federal do local por onde as mercadorias sejam indevidamente introduzidas no Brasil."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Caso um indiv\u00edduo tenha cometido, em uma mesma comarca, dois delitos conexos, um cujo processo e julgamento seja da compet\u00eancia da justi\u00e7a federal e o outro, da justi\u00e7a comum estadual, a compet\u00eancia para o julgamento unificado dos dois crimes ser\u00e1 determinada pelo delito considerado mais grave."
+            }
+        ],
+        "valid": true
+    }
+]

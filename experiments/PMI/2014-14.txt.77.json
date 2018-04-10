@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Em a\u00e7\u00e3o que tramitou sob o procedimento sumar\u00edssimo, o juiz decidiu determinado pedido de forma contr\u00e1ria ao disposto em orienta\u00e7\u00e3o jurisprudencial do TST. Em sede de recurso ordin\u00e1rio, com o mesmo fundamento, o TRT manteve a decis\u00e3o de primeiro grau. Diante disso, a parte entendeu por bem interpor recurso de revista.\n\n A partir do caso apresentado, assinale a op\u00e7\u00e3o correta.", "filename": "2014-14.txt", "number": "77", "options": [{"correct": true, "letter": "A", "text": "O recurso de revista n\u00e3o dever\u00e1 ser admitido, pois o fundamento da decis\u00e3o n\u00e3o \u00e9 contr\u00e1rio \u00e0 Constitui\u00e7\u00e3o Federal ou \u00e0 S\u00famula do TST."}, {"correct": null, "letter": "B", "text": "\u00c9 cab\u00edvel o recurso, pois a decis\u00e3o \u00e9 contr\u00e1ria ao entendimento do TST."}, {"correct": null, "letter": "C", "text": "O recurso de revista \u00e9 incab\u00edvel no procedimento sumar\u00edssimo. Logo, n\u00e3o dever\u00e1 ser admitido."}, {"correct": null, "letter": "D", "text": "Dever\u00e1 ser admitido o recurso de revista, em raz\u00e3o do princ\u00edpio do duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Em a\u00e7\u00e3o que tramitou sob o procedimento sumar\u00edssimo, o juiz decidiu determinado pedido de forma contr\u00e1ria ao disposto em orienta\u00e7\u00e3o jurisprudencial do TST. Em sede de recurso ordin\u00e1rio, com o mesmo fundamento, o TRT manteve a decis\u00e3o de primeiro grau. Diante disso, a parte entendeu por bem interpor recurso de revista.\n\n A partir do caso apresentado, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "77",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "O recurso de revista n\u00e3o dever\u00e1 ser admitido, pois o fundamento da decis\u00e3o n\u00e3o \u00e9 contr\u00e1rio \u00e0 Constitui\u00e7\u00e3o Federal ou \u00e0 S\u00famula do TST."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00c9 cab\u00edvel o recurso, pois a decis\u00e3o \u00e9 contr\u00e1ria ao entendimento do TST."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O recurso de revista \u00e9 incab\u00edvel no procedimento sumar\u00edssimo. Logo, n\u00e3o dever\u00e1 ser admitido."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Dever\u00e1 ser admitido o recurso de revista, em raz\u00e3o do princ\u00edpio do duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio."
+            }
+        ],
+        "valid": true
+    }
+]

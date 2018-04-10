@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "Em determinado procedimento administrativo disciplinar, a Administra\u00e7\u00e3o federal imp\u00f4s, ao servidor, a pena de advert\u00eancia, tendo em vista a comprova\u00e7\u00e3o de ato de improbidade. Inconformado, o servidor recorre, vindo a Administra\u00e7\u00e3o, ap\u00f3s lhe conferir o direito de manifesta\u00e7\u00e3o, a lhe impor a pena de demiss\u00e3o, nos termos da Lei n\u00ba 8112/90 e da Lei 9784/98.\n\n Com base no fragmento acima, \u00e9 correto afirmar que a Administra\u00e7\u00e3o Federal", "filename": "2010-02.txt", "number": "12", "options": [{"correct": null, "letter": "A", "text": "agiu em desrespeito aos princ\u00edpios da efici\u00eancia e da instrumentalidade, autorizativos da reforma em preju\u00edzo do recorrente, desde que n\u00e3o imponha pena grave."}, {"correct": true, "letter": "B", "text": "agiu em respeito aos princ\u00edpios da legalidade e autotutela, autorizativos da reforma em preju\u00edzo do recorrente."}, {"correct": null, "letter": "C", "text": "n\u00e3o observou o princ\u00edpio da dignidade da pessoa humana, trazendo equivocada reforma em preju\u00edzo do recorrente."}, {"correct": null, "letter": "D", "text": "n\u00e3o observou o princ\u00edpio do devido processo legal, trazendo equivocada reforma em preju\u00edzo do recorrente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Em determinado procedimento administrativo disciplinar, a Administra\u00e7\u00e3o federal imp\u00f4s, ao servidor, a pena de advert\u00eancia, tendo em vista a comprova\u00e7\u00e3o de ato de improbidade. Inconformado, o servidor recorre, vindo a Administra\u00e7\u00e3o, ap\u00f3s lhe conferir o direito de manifesta\u00e7\u00e3o, a lhe impor a pena de demiss\u00e3o, nos termos da Lei n\u00ba 8112/90 e da Lei 9784/98.\n\n Com base no fragmento acima, \u00e9 correto afirmar que a Administra\u00e7\u00e3o Federal",
+        "filename": "2010-02.txt",
+        "number": "12",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "agiu em desrespeito aos princ\u00edpios da efici\u00eancia e da instrumentalidade, autorizativos da reforma em preju\u00edzo do recorrente, desde que n\u00e3o imponha pena grave."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "agiu em respeito aos princ\u00edpios da legalidade e autotutela, autorizativos da reforma em preju\u00edzo do recorrente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "n\u00e3o observou o princ\u00edpio da dignidade da pessoa humana, trazendo equivocada reforma em preju\u00edzo do recorrente."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "n\u00e3o observou o princ\u00edpio do devido processo legal, trazendo equivocada reforma em preju\u00edzo do recorrente."
+            }
+        ],
+        "valid": true
+    }
+]

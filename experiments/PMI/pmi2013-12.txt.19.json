@@ -1,1 +1,57 @@
-[{"areas": ["CONSTITUTIONAL"], "filename": "2013-12.txt", "number": "19", "valid": true, "enum": "Ana Beatriz procura um escrit\u00f3rio de advocacia, informando que a Universidade P\u00fablica do Estado XYZ instituiu, mediante decreto do Governador, uma taxa da matr\u00edcula no valor de R$ 100,00 (cem) reais, para estudantes que possuam renda familiar superior a 10 (dez) sal\u00e1rios m\u00ednimos, com a finalidade de utilizar esse recurso para subsidiar a moradia de alunos de baixa renda, procedentes de Munic\u00edpios distantes.\n\n Diante da indaga\u00e7\u00e3o de Ana Beatriz sobre a constitucionalidade da cobran\u00e7a, assinale a afirmativa correta.", "options": [{"correct": null, "pmi": [-0.20045484964890167, 0.0, 0.0, 0.0], "text": "A cobran\u00e7a \u00e9 constitucional, pois se trata de uma pol\u00edtica p\u00fablica de redu\u00e7\u00e3o das desigualdades.", "letter": "A"}, {"correct": null, "pmi": [-0.12820147732127313, 0.0, 0.0, 0.0], "text": "A cobran\u00e7a \u00e9 constitucional em raz\u00e3o do princ\u00edpio da autonomia universit\u00e1ria, previsto na Constitui\u00e7\u00e3o da Rep\u00fablica.", "letter": "B"}, {"correct": null, "pmi": [-0.1915665884004709, 0.0, 0.0, 0.0], "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que a taxa de matr\u00edcula deveria ser institu\u00edda por lei.", "letter": "C"}, {"correct": true, "pmi": [-0.15583260401891644, 0.0, 0.0, 0.0], "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que viola o imperativo de gratuidade do ensino p\u00fablico em estabelecimentos oficiais.", "letter": "D"}]}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2013-12.txt",
+        "number": "19",
+        "valid": true,
+        "enum": "Ana Beatriz procura um escrit\u00f3rio de advocacia, informando que a Universidade P\u00fablica do Estado XYZ instituiu, mediante decreto do Governador, uma taxa da matr\u00edcula no valor de R$ 100,00 (cem) reais, para estudantes que possuam renda familiar superior a 10 (dez) sal\u00e1rios m\u00ednimos, com a finalidade de utilizar esse recurso para subsidiar a moradia de alunos de baixa renda, procedentes de Munic\u00edpios distantes.\n\n Diante da indaga\u00e7\u00e3o de Ana Beatriz sobre a constitucionalidade da cobran\u00e7a, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.20045484964890167,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A cobran\u00e7a \u00e9 constitucional, pois se trata de uma pol\u00edtica p\u00fablica de redu\u00e7\u00e3o das desigualdades.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.12820147732127313,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A cobran\u00e7a \u00e9 constitucional em raz\u00e3o do princ\u00edpio da autonomia universit\u00e1ria, previsto na Constitui\u00e7\u00e3o da Rep\u00fablica.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.1915665884004709,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que a taxa de matr\u00edcula deveria ser institu\u00edda por lei.",
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.15583260401891644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que viola o imperativo de gratuidade do ensino p\u00fablico em estabelecimentos oficiais.",
+                "letter": "D"
+            }
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Alexandre, pai de Bruno, celebrou contrato com Carlos, o qual lhe concedeu o direito de superf\u00edcie para realizar constru\u00e7\u00e3o de um albergue em seu terreno e explor\u00e1-lo por 10 anos, mediante o pagamento da quantia de R$100.000,00. Passados quatro anos, Alexandre veio a falecer. Diante do neg\u00f3cio jur\u00eddico celebrado, assinale a afirmativa INCORRETA.", "filename": "2013-12.txt", "number": "40", "options": [{"correct": true, "letter": "A", "text": "O superfici\u00e1rio pode realizar obra no subsolo, de modo a ampliar sua atividade."}, {"correct": null, "letter": "B", "text": "O superfici\u00e1rio responde pelos encargos e tributos que incidirem sobre o im\u00f3vel."}, {"correct": null, "letter": "C", "text": "O direito de superf\u00edcie ser\u00e1 transferido a Bruno, em raz\u00e3o da morte de Alexandre."}, {"correct": null, "letter": "D", "text": "O superfici\u00e1rio ter\u00e1 direito de prefer\u00eancia, caso Carlos decida vender o im\u00f3vel."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Alexandre, pai de Bruno, celebrou contrato com Carlos, o qual lhe concedeu o direito de superf\u00edcie para realizar constru\u00e7\u00e3o de um albergue em seu terreno e explor\u00e1-lo por 10 anos, mediante o pagamento da quantia de R$100.000,00. Passados quatro anos, Alexandre veio a falecer. Diante do neg\u00f3cio jur\u00eddico celebrado, assinale a afirmativa INCORRETA.",
+        "filename": "2013-12.txt",
+        "number": "40",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "O superfici\u00e1rio pode realizar obra no subsolo, de modo a ampliar sua atividade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O superfici\u00e1rio responde pelos encargos e tributos que incidirem sobre o im\u00f3vel."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O direito de superf\u00edcie ser\u00e1 transferido a Bruno, em raz\u00e3o da morte de Alexandre."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O superfici\u00e1rio ter\u00e1 direito de prefer\u00eancia, caso Carlos decida vender o im\u00f3vel."
+            }
+        ],
+        "valid": true
+    }
+]

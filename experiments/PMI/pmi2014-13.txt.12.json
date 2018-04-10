@@ -1,1 +1,57 @@
-[{"filename": "2014-13.txt", "enum": "Em seu livro Levando os Direitos a S\u00e9rio, Ronald Dworkin cita o caso Riggs contra Palmer, em que um jovem matou o pr\u00f3prio av\u00f4 para ficar com a heran\u00e7a. O Tribunal de Nova Iorque (em 1889) julga o caso considerando que a legisla\u00e7\u00e3o do local e da \u00e9poca n\u00e3o previa o homic\u00eddio como causa de exclus\u00e3o da sucess\u00e3o. Para solucionar o caso, o Tribunal aplica o princ\u00edpio, n\u00e3o legislado, do direito que diz que ningu\u00e9m pode se beneficiar de sua pr\u00f3pria iniquidade ou ilicitude. Assim, o assassino n\u00e3o recebeu sua heran\u00e7a.\n\n Com esse exemplo podemos concluir que a jusfilosofia de Ronald Dworkin, dentre outras coisas, pretende", "options": [{"pmi": [-0.03373800956933461, 0.0, 0.0, 0.0], "correct": null, "text": "revelar que a responsabilidade sobre o maior ou menor grau de justi\u00e7a de um ordenamento jur\u00eddico \u00e9 responsabilidade exclusiva do legislador que deve se esfor\u00e7ar por produzir leis justas.", "letter": "A"}, {"pmi": [-0.08108165689655525, 0.0, 0.0, 0.0], "correct": null, "text": "mostrar como as cortes podem ser ativistas quando decidem com base em princ\u00edpios e n\u00e3o com base na lei e que decidir assim fere o estado de direito.", "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "defender que regras e princ\u00edpios s\u00e3o normas jur\u00eddicas que possuem as mesmas caracter\u00edsticas e, por isso, ambos podem ser aplicados livremente pelos tribunais.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "argumentar que regras e princ\u00edpios s\u00e3o normas com caracter\u00edsticas distintas e em certos casos os princ\u00edpios poder\u00e3o justificar de forma mais razo\u00e1vel a decis\u00e3o judicial, pois a tornam tamb\u00e9m moralmente aceit\u00e1vel.", "letter": "D"}], "valid": true, "areas": ["PHILOSOPHY"], "number": "12"}]
+[
+    {
+        "filename": "2014-13.txt",
+        "enum": "Em seu livro Levando os Direitos a S\u00e9rio, Ronald Dworkin cita o caso Riggs contra Palmer, em que um jovem matou o pr\u00f3prio av\u00f4 para ficar com a heran\u00e7a. O Tribunal de Nova Iorque (em 1889) julga o caso considerando que a legisla\u00e7\u00e3o do local e da \u00e9poca n\u00e3o previa o homic\u00eddio como causa de exclus\u00e3o da sucess\u00e3o. Para solucionar o caso, o Tribunal aplica o princ\u00edpio, n\u00e3o legislado, do direito que diz que ningu\u00e9m pode se beneficiar de sua pr\u00f3pria iniquidade ou ilicitude. Assim, o assassino n\u00e3o recebeu sua heran\u00e7a.\n\n Com esse exemplo podemos concluir que a jusfilosofia de Ronald Dworkin, dentre outras coisas, pretende",
+        "options": [
+            {
+                "pmi": [
+                    -0.03373800956933461,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "revelar que a responsabilidade sobre o maior ou menor grau de justi\u00e7a de um ordenamento jur\u00eddico \u00e9 responsabilidade exclusiva do legislador que deve se esfor\u00e7ar por produzir leis justas.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.08108165689655525,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "mostrar como as cortes podem ser ativistas quando decidem com base em princ\u00edpios e n\u00e3o com base na lei e que decidir assim fere o estado de direito.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "defender que regras e princ\u00edpios s\u00e3o normas jur\u00eddicas que possuem as mesmas caracter\u00edsticas e, por isso, ambos podem ser aplicados livremente pelos tribunais.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "argumentar que regras e princ\u00edpios s\u00e3o normas com caracter\u00edsticas distintas e em certos casos os princ\u00edpios poder\u00e3o justificar de forma mais razo\u00e1vel a decis\u00e3o judicial, pois a tornam tamb\u00e9m moralmente aceit\u00e1vel.",
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "number": "12"
+    }
+]

@@ -1,1 +1,55 @@
-[{"filename": "2016-20a.txt", "valid": true, "enum": "Em execu\u00e7\u00e3o fiscal, que tramita perante a Justi\u00e7a do Trabalho, o juiz, ap\u00f3s realizar tentativas de execu\u00e7\u00e3o sem sucesso, deixou o feito arquivado por 1 ano. Cinco anos depois, e ap\u00f3s intimada a Fazenda P\u00fablica, que nada requereu, o juiz decretou de of\u00edcio a prescri\u00e7\u00e3o intercorrente.\n\n Sobre a atitude judicial, e considerando a legisla\u00e7\u00e3o em vigor, assinale a afirmativa correta.", "options": [{"letter": "A", "correct": null, "pmi": [-0.0643695932438319, 0.0, 0.0, 0.0], "text": "O juiz equivocou-se, pois na seara trabalhista a prescri\u00e7\u00e3o n\u00e3o pode ser decretada de of\u00edcio."}, {"letter": "B", "correct": true, "pmi": [-0.05632339408835292, 0.0, 0.0, 0.0], "text": "Correto o juiz, pois n\u00e3o se trata de reclama\u00e7\u00e3o trabalhista e, assim, a prescri\u00e7\u00e3o pode ser decretada de of\u00edcio."}, {"letter": "C", "correct": null, "pmi": [-0.05279443770427258, 0.0, 0.0, 0.0], "text": "N\u00e3o h\u00e1 dispositivo legal a respeito, da\u00ed porque, em raz\u00e3o do princ\u00edpio da prote\u00e7\u00e3o, n\u00e3o deveria haver decreta\u00e7\u00e3o de of\u00edcio da prescri\u00e7\u00e3o."}, {"letter": "D", "correct": null, "pmi": [-0.0348632193245597, 0.0, 0.0, 0.0], "text": "Uma vez que n\u00e3o existe prescri\u00e7\u00e3o para o cr\u00e9dito fiscal, agiu erroneamente o magistrado ao decretar a prescri\u00e7\u00e3o intercorrente."}], "number": "80", "areas": []}]
+[
+    {
+        "filename": "2016-20a.txt",
+        "valid": true,
+        "enum": "Em execu\u00e7\u00e3o fiscal, que tramita perante a Justi\u00e7a do Trabalho, o juiz, ap\u00f3s realizar tentativas de execu\u00e7\u00e3o sem sucesso, deixou o feito arquivado por 1 ano. Cinco anos depois, e ap\u00f3s intimada a Fazenda P\u00fablica, que nada requereu, o juiz decretou de of\u00edcio a prescri\u00e7\u00e3o intercorrente.\n\n Sobre a atitude judicial, e considerando a legisla\u00e7\u00e3o em vigor, assinale a afirmativa correta.",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.0643695932438319,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O juiz equivocou-se, pois na seara trabalhista a prescri\u00e7\u00e3o n\u00e3o pode ser decretada de of\u00edcio."
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    -0.05632339408835292,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Correto o juiz, pois n\u00e3o se trata de reclama\u00e7\u00e3o trabalhista e, assim, a prescri\u00e7\u00e3o pode ser decretada de of\u00edcio."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.05279443770427258,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o h\u00e1 dispositivo legal a respeito, da\u00ed porque, em raz\u00e3o do princ\u00edpio da prote\u00e7\u00e3o, n\u00e3o deveria haver decreta\u00e7\u00e3o de of\u00edcio da prescri\u00e7\u00e3o."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.0348632193245597,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Uma vez que n\u00e3o existe prescri\u00e7\u00e3o para o cr\u00e9dito fiscal, agiu erroneamente o magistrado ao decretar a prescri\u00e7\u00e3o intercorrente."
+            }
+        ],
+        "number": "80",
+        "areas": []
+    }
+]

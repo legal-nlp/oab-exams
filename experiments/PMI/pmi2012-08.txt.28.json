@@ -1,1 +1,57 @@
-[{"areas": ["TAXES"], "enum": "O imposto cuja al\u00edquota \u00e9 invari\u00e1vel e se aplica sobre base de c\u00e1lculo vari\u00e1vel, \u00e9 classificado como", "valid": true, "options": [{"correct": null, "letter": "A", "text": "progressivo.", "pmi": [0.0, 0, 0, 0]}, {"correct": true, "letter": "B", "text": "proporcional.", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "letter": "C", "text": "indireto.", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "letter": "D", "text": "pessoal.", "pmi": [0.0, 0, 0, 0]}], "number": "28", "filename": "2012-08.txt"}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "O imposto cuja al\u00edquota \u00e9 invari\u00e1vel e se aplica sobre base de c\u00e1lculo vari\u00e1vel, \u00e9 classificado como",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "progressivo.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "proporcional.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "indireto.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "pessoal.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "number": "28",
+        "filename": "2012-08.txt"
+    }
+]

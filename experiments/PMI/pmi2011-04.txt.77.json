@@ -1,1 +1,57 @@
-[{"number": "77", "valid": true, "options": [{"pmi": [-0.00823831553120004, 0.0, 0.0, 0.0], "correct": true, "text": "O mandado de seguran\u00e7a impetrado contra decis\u00e3o liminar que concedeu a tutela antecipada perde o objeto quando da superveni\u00eancia de senten\u00e7a nos autos origin\u00e1rios.", "letter": "A"}, {"pmi": [-0.3143016630765468, 0.0, 0.0, 0.0], "correct": null, "text": "\u00c9 permitido o exerc\u00edcio do jus postulandi das partes quando da impetra\u00e7\u00e3o do mandado de seguran\u00e7a na Justi\u00e7a do Trabalho.", "letter": "B"}, {"pmi": [-0.12928211267628759, 0.0, 0.0, 0.0], "correct": null, "text": "Tratando-se de execu\u00e7\u00e3o provis\u00f3ria, n\u00e3o fere direito l\u00edquido e certo do impetrante a determina\u00e7\u00e3o de penhora em dinheiro, ainda que nomeados outros bens \u00e0 penhora, uma vez que obedece \u00e0 grada\u00e7\u00e3o da lei processual.", "letter": "C"}, {"pmi": [-0.1320778268172476, 0.0, 0.0, 0.0], "correct": null, "text": "Cabe a impetra\u00e7\u00e3o de mandado de seguran\u00e7a da decis\u00e3o que indefere liminar ou homologa\u00e7\u00e3o de acordo.", "letter": "D"}], "areas": ["LABOUR-PROCEDURE"], "filename": "2011-04.txt", "enum": "Quanto ao cabimento do mandado de seguran\u00e7a na Justi\u00e7a do Trabalho, assinale a alternativa correta."}]
+[
+    {
+        "number": "77",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.00823831553120004,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O mandado de seguran\u00e7a impetrado contra decis\u00e3o liminar que concedeu a tutela antecipada perde o objeto quando da superveni\u00eancia de senten\u00e7a nos autos origin\u00e1rios.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.3143016630765468,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "\u00c9 permitido o exerc\u00edcio do jus postulandi das partes quando da impetra\u00e7\u00e3o do mandado de seguran\u00e7a na Justi\u00e7a do Trabalho.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.12928211267628759,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Tratando-se de execu\u00e7\u00e3o provis\u00f3ria, n\u00e3o fere direito l\u00edquido e certo do impetrante a determina\u00e7\u00e3o de penhora em dinheiro, ainda que nomeados outros bens \u00e0 penhora, uma vez que obedece \u00e0 grada\u00e7\u00e3o da lei processual.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.1320778268172476,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Cabe a impetra\u00e7\u00e3o de mandado de seguran\u00e7a da decis\u00e3o que indefere liminar ou homologa\u00e7\u00e3o de acordo.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "filename": "2011-04.txt",
+        "enum": "Quanto ao cabimento do mandado de seguran\u00e7a na Justi\u00e7a do Trabalho, assinale a alternativa correta."
+    }
+]

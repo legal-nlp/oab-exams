@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.03843450250008891, 0.0, 0.0, 0.0], "letter": "A", "correct": true, "text": "Caso Tiago consigne o valor da d\u00e9cima parcela por meio de dep\u00f3sito judicial, poder\u00e1 levant\u00e1-lo enquanto Ronaldo n\u00e3o informar o aceite ou n\u00e3o o impugnar, desde que pague todas as despesas."}, {"pmi": [-0.0019345005270992102, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "Na hip\u00f3tese de Tiago consignar judicialmente duas m\u00e1quinas de costura com a finalidade de afastar a incid\u00eancia dos encargos morat\u00f3rios e da cl\u00e1usula penal, este dep\u00f3sito ser\u00e1 apto a liber\u00e1-lo da obriga\u00e7\u00e3o assumida."}, {"pmi": [-0.0026152127547485232, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "O dep\u00f3sito consignat\u00f3rio realizado por Tiago em seu domic\u00edlio ter\u00e1 o poder liberat\u00f3rio do v\u00ednculo obrigacional, isentando-o do pagamento dos juros morat\u00f3rios e da cl\u00e1usula penal."}, {"pmi": [-0.025863626258389977, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "Tiago poder\u00e1 depositar o valor referente \u00e0 d\u00e9cima parcela sob o fundamento de injusta recusa, por\u00e9m n\u00e3o poder\u00e1 discutir, no \u00e2mbito da a\u00e7\u00e3o consignat\u00f3ria, a abusividade ou ilegalidade das cl\u00e1usulas contratuais."}], "number": "42", "areas": ["CIVIL"], "valid": true, "filename": "2012-09.txt", "enum": "Tiago celebrou com Ronaldo contrato de compra e venda de dez m\u00e1quinas de costura importadas da China. Restou acordado que o pagamento se daria em trinta e seis presta\u00e7\u00f5es mensais e consecutivas com reajuste a cada doze meses conforme taxa Selic, a ser efetuado no domic\u00edlio do credor. O contrato estabeleceu, ainda, a incid\u00eancia de juros morat\u00f3rios, no importe de 2% (dois por cento) do valor da parcela em atraso, e cl\u00e1usula penal, fixada em 10% (dez por cento) do valor do contrato, em caso de inadimpl\u00eancia. Ap\u00f3s o pagamento de nove parcelas, Tiago foi surpreendido com a notifica\u00e7\u00e3o extrajudicial enviada por Ronaldo, em que se comunicava um reajuste de 30% (trinta por cento) sobre o valor da \u00faltima parcela paga sob o argumento de que ocorreu elevada desvaloriza\u00e7\u00e3o no c\u00e2mbio. Tiago n\u00e3o concordou com o reajuste e ao tentar efetuar o pagamento da d\u00e9cima parcela com base no valor inicialmente ajustado teve o pagamento recusado por Ronaldo.\n\n Considerando o caso acima e as regras previstas no C\u00f3digo Civil, assinale a afirmativa correta."}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.03843450250008891,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true,
+                "text": "Caso Tiago consigne o valor da d\u00e9cima parcela por meio de dep\u00f3sito judicial, poder\u00e1 levant\u00e1-lo enquanto Ronaldo n\u00e3o informar o aceite ou n\u00e3o o impugnar, desde que pague todas as despesas."
+            },
+            {
+                "pmi": [
+                    -0.0019345005270992102,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "Na hip\u00f3tese de Tiago consignar judicialmente duas m\u00e1quinas de costura com a finalidade de afastar a incid\u00eancia dos encargos morat\u00f3rios e da cl\u00e1usula penal, este dep\u00f3sito ser\u00e1 apto a liber\u00e1-lo da obriga\u00e7\u00e3o assumida."
+            },
+            {
+                "pmi": [
+                    -0.0026152127547485232,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "O dep\u00f3sito consignat\u00f3rio realizado por Tiago em seu domic\u00edlio ter\u00e1 o poder liberat\u00f3rio do v\u00ednculo obrigacional, isentando-o do pagamento dos juros morat\u00f3rios e da cl\u00e1usula penal."
+            },
+            {
+                "pmi": [
+                    -0.025863626258389977,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "Tiago poder\u00e1 depositar o valor referente \u00e0 d\u00e9cima parcela sob o fundamento de injusta recusa, por\u00e9m n\u00e3o poder\u00e1 discutir, no \u00e2mbito da a\u00e7\u00e3o consignat\u00f3ria, a abusividade ou ilegalidade das cl\u00e1usulas contratuais."
+            }
+        ],
+        "number": "42",
+        "areas": [
+            "CIVIL"
+        ],
+        "valid": true,
+        "filename": "2012-09.txt",
+        "enum": "Tiago celebrou com Ronaldo contrato de compra e venda de dez m\u00e1quinas de costura importadas da China. Restou acordado que o pagamento se daria em trinta e seis presta\u00e7\u00f5es mensais e consecutivas com reajuste a cada doze meses conforme taxa Selic, a ser efetuado no domic\u00edlio do credor. O contrato estabeleceu, ainda, a incid\u00eancia de juros morat\u00f3rios, no importe de 2% (dois por cento) do valor da parcela em atraso, e cl\u00e1usula penal, fixada em 10% (dez por cento) do valor do contrato, em caso de inadimpl\u00eancia. Ap\u00f3s o pagamento de nove parcelas, Tiago foi surpreendido com a notifica\u00e7\u00e3o extrajudicial enviada por Ronaldo, em que se comunicava um reajuste de 30% (trinta por cento) sobre o valor da \u00faltima parcela paga sob o argumento de que ocorreu elevada desvaloriza\u00e7\u00e3o no c\u00e2mbio. Tiago n\u00e3o concordou com o reajuste e ao tentar efetuar o pagamento da d\u00e9cima parcela com base no valor inicialmente ajustado teve o pagamento recusado por Ronaldo.\n\n Considerando o caso acima e as regras previstas no C\u00f3digo Civil, assinale a afirmativa correta."
+    }
+]

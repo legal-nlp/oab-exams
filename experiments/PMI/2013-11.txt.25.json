@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Assinale a alternativa que indica os impostos cujas al\u00edquotas podem ser majoradas por ato do Poder Executivo, observados os par\u00e2metros legais.", "filename": "2013-11.txt", "number": "25", "options": [{"correct": null, "letter": "A", "text": "Imposto de Renda (IR), Imposto sobre Opera\u00e7\u00f5es Financeiras (IOF) e Imposto sobre a Propriedade Territorial Rural (ITR)."}, {"correct": null, "letter": "B", "text": "Imposto sobre a Importa\u00e7\u00e3o (II), Imposto sobre a Exporta\u00e7\u00e3o (IE) e Imposto sobre Grandes Fortunas (IGF)."}, {"correct": null, "letter": "C", "text": "Imposto de Renda (IR) Imposto sobre a Propriedade Territorial Rural (ITR) e Imposto sobre Grandes Fortunas (IGF)."}, {"correct": true, "letter": "D", "text": "Imposto sobre Produtos Industrializados (IPI), Imposto sobre Opera\u00e7\u00f5es Financeiras (IOF) e Imposto sobre a Importa\u00e7\u00e3o (II)."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Assinale a alternativa que indica os impostos cujas al\u00edquotas podem ser majoradas por ato do Poder Executivo, observados os par\u00e2metros legais.",
+        "filename": "2013-11.txt",
+        "number": "25",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Imposto de Renda (IR), Imposto sobre Opera\u00e7\u00f5es Financeiras (IOF) e Imposto sobre a Propriedade Territorial Rural (ITR)."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Imposto sobre a Importa\u00e7\u00e3o (II), Imposto sobre a Exporta\u00e7\u00e3o (IE) e Imposto sobre Grandes Fortunas (IGF)."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Imposto de Renda (IR) Imposto sobre a Propriedade Territorial Rural (ITR) e Imposto sobre Grandes Fortunas (IGF)."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Imposto sobre Produtos Industrializados (IPI), Imposto sobre Opera\u00e7\u00f5es Financeiras (IOF) e Imposto sobre a Importa\u00e7\u00e3o (II)."
+            }
+        ],
+        "valid": true
+    }
+]

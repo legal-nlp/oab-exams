@@ -1,1 +1,57 @@
-[{"filename": "2010-01.txt", "valid": true, "number": "26", "options": [{"letter": "A", "correct": null, "pmi": [-0.057657575309068926, 0.0, 0.0, 0.0], "text": "A lei confere ao consumidor a possibilidade de desistir do contrato, no prazo m\u00e1ximo de quinze dias a contar do recebimento do produto, no caso de contrata\u00e7\u00e3o de fornecimento de produtos ocorrida fora do estabelecimento empresarial."}, {"letter": "B", "correct": true, "pmi": [-0.03999418403638572, 0.0, 0.0, 0.0], "text": "Reputam-se nulas de pleno direito as cl\u00e1usulas contratuais relativas ao fornecimento de produtos e servi\u00e7os que infrinjam normas ambientais ou possibilitem a viola\u00e7\u00e3o dessas normas."}, {"letter": "C", "correct": null, "pmi": [-0.11386472129194095, 0.0, 0.0, 0.0], "text": "A garantia contratual exclui a garantia legal, desde que conferida mediante termo escrito que discipline, de maneira adequada, a constitui\u00e7\u00e3o daquela garantia, bem como a forma, o prazo e o lugar para o seu exerc\u00edcio."}, {"letter": "D", "correct": null, "pmi": [-0.06104919738607298, 0.0, 0.0, 0.0], "text": "A lei limita a 10% do valor da presta\u00e7\u00e3o as multas de mora decorrentes do inadimplemento de obriga\u00e7\u00f5es no seu termo, no caso de fornecimento de produtos que envolva concess\u00e3o de financiamento ao consumidor."}], "areas": ["CONSUMER"], "enum": "Acerca da disciplina jur\u00eddica da prote\u00e7\u00e3o contratual do consumidor, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "filename": "2010-01.txt",
+        "valid": true,
+        "number": "26",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.057657575309068926,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A lei confere ao consumidor a possibilidade de desistir do contrato, no prazo m\u00e1ximo de quinze dias a contar do recebimento do produto, no caso de contrata\u00e7\u00e3o de fornecimento de produtos ocorrida fora do estabelecimento empresarial."
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    -0.03999418403638572,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Reputam-se nulas de pleno direito as cl\u00e1usulas contratuais relativas ao fornecimento de produtos e servi\u00e7os que infrinjam normas ambientais ou possibilitem a viola\u00e7\u00e3o dessas normas."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.11386472129194095,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A garantia contratual exclui a garantia legal, desde que conferida mediante termo escrito que discipline, de maneira adequada, a constitui\u00e7\u00e3o daquela garantia, bem como a forma, o prazo e o lugar para o seu exerc\u00edcio."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.06104919738607298,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A lei limita a 10% do valor da presta\u00e7\u00e3o as multas de mora decorrentes do inadimplemento de obriga\u00e7\u00f5es no seu termo, no caso de fornecimento de produtos que envolva concess\u00e3o de financiamento ao consumidor."
+            }
+        ],
+        "areas": [
+            "CONSUMER"
+        ],
+        "enum": "Acerca da disciplina jur\u00eddica da prote\u00e7\u00e3o contratual do consumidor, assinale a op\u00e7\u00e3o correta."
+    }
+]

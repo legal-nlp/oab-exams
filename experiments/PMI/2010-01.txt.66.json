@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Vera e Mara s\u00e3o contribuintes obrigados, solidariamente, por lei, a pagar, mensalmente, certo tributo. Em determinado m\u00eas, foi publicada lei que isentou do imposto, pessoalmente, as pessoas que sofriam de certa enfermidade, da qual Vera \u00e9 portadora.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica,", "filename": "2010-01.txt", "number": "66", "options": [{"correct": null, "letter": "A", "text": "a isen\u00e7\u00e3o concedida a Vera exonera integralmente Mara de sua obriga\u00e7\u00e3o."}, {"correct": true, "letter": "B", "text": "a isen\u00e7\u00e3o concedida a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o pelo saldo remanescente."}, {"correct": null, "letter": "C", "text": "a isen\u00e7\u00e3o dada a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o integral."}, {"correct": null, "letter": "D", "text": "a referida lei \u00e9 inconstitucional, dada a impossibilidade de concess\u00e3o de isen\u00e7\u00e3o pessoal em caso de solidariedade de obrigados."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Vera e Mara s\u00e3o contribuintes obrigados, solidariamente, por lei, a pagar, mensalmente, certo tributo. Em determinado m\u00eas, foi publicada lei que isentou do imposto, pessoalmente, as pessoas que sofriam de certa enfermidade, da qual Vera \u00e9 portadora.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica,",
+        "filename": "2010-01.txt",
+        "number": "66",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a isen\u00e7\u00e3o concedida a Vera exonera integralmente Mara de sua obriga\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "a isen\u00e7\u00e3o concedida a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o pelo saldo remanescente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a isen\u00e7\u00e3o dada a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o integral."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a referida lei \u00e9 inconstitucional, dada a impossibilidade de concess\u00e3o de isen\u00e7\u00e3o pessoal em caso de solidariedade de obrigados."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["LABOUR"], "number": "71", "options": [{"text": "A estabilidade da gestante dura de 28 dias antes at\u00e9 92 dias ap\u00f3s o parto.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "A estabilidade do membro da CIPA dura da elei\u00e7\u00e3o at\u00e9 1 ano ap\u00f3s o t\u00e9rmino do mandato, servindo para os representantes dos empregados, inclusive suplentes.", "pmi": [-0.12574713197701018, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "A estabilidade do dirigente sindical dura do registro da candidatura at\u00e9 1 ano ap\u00f3s o t\u00e9rmino do mandato, servindo para os representantes dos empregados eleitos e seus suplentes, estando limitada ao n\u00famero de 7 dirigentes sindicais.", "pmi": [-0.08603751135269117, 0.0, 0.0, 0.0], "letter": "C", "correct": true}, {"text": "De acordo com o entendimento uniformizado do Tribunal Superior do Trabalho, o empregado poder\u00e1 adquirir a estabilidade no curso do aviso pr\u00e9vio, pois este integra o contrato de trabalho para todos os efeitos, inclusive pecuni\u00e1rios.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "enum": "A respeito da estabilidade, assinale a afirmativa correta.", "valid": true, "filename": "2012-08.txt"}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "number": "71",
+        "options": [
+            {
+                "text": "A estabilidade da gestante dura de 28 dias antes at\u00e9 92 dias ap\u00f3s o parto.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "A estabilidade do membro da CIPA dura da elei\u00e7\u00e3o at\u00e9 1 ano ap\u00f3s o t\u00e9rmino do mandato, servindo para os representantes dos empregados, inclusive suplentes.",
+                "pmi": [
+                    -0.12574713197701018,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "A estabilidade do dirigente sindical dura do registro da candidatura at\u00e9 1 ano ap\u00f3s o t\u00e9rmino do mandato, servindo para os representantes dos empregados eleitos e seus suplentes, estando limitada ao n\u00famero de 7 dirigentes sindicais.",
+                "pmi": [
+                    -0.08603751135269117,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "text": "De acordo com o entendimento uniformizado do Tribunal Superior do Trabalho, o empregado poder\u00e1 adquirir a estabilidade no curso do aviso pr\u00e9vio, pois este integra o contrato de trabalho para todos os efeitos, inclusive pecuni\u00e1rios.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "enum": "A respeito da estabilidade, assinale a afirmativa correta.",
+        "valid": true,
+        "filename": "2012-08.txt"
+    }
+]

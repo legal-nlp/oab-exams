@@ -1,1 +1,57 @@
-[{"enum": "Carolina, J\u00falia, Bianca e Maria s\u00e3o advogadas. Carolina \u00e9 servidora estadual n\u00e3o enquadrada em hip\u00f3tese de incompatibilidade; J\u00falia est\u00e1 cumprindo suspens\u00e3o por infra\u00e7\u00e3o disciplinar; Bianca est\u00e1 licenciada por requerimento pr\u00f3prio justificado; e Maria \u00e9 servidora federal n\u00e3o enquadrada em hip\u00f3tese de incompatibilidade. As quatro peticionam, como advogadas, isoladamente e em atos distintos, em a\u00e7\u00e3o judicial proposta em face da Uni\u00e3o.  Diante da situa\u00e7\u00e3o narrada, de acordo com o Estatuto da OAB, s\u00e3o v\u00e1lidos os atos praticados", "options": [{"correct": true, "text": "por Carolina, apenas.", "letter": "A", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "text": "por Carolina e Bianca, apenas.", "letter": "B", "pmi": [0.0, 0.0, 0, 0]}, {"correct": null, "text": "por Carolina, Bianca e Maria, apenas.", "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "por Carolina, Julia, Bianca e Maria.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0]}], "filename": "2017-22.txt", "number": "6", "valid": true, "areas": [null]}]
+[
+    {
+        "enum": "Carolina, J\u00falia, Bianca e Maria s\u00e3o advogadas. Carolina \u00e9 servidora estadual n\u00e3o enquadrada em hip\u00f3tese de incompatibilidade; J\u00falia est\u00e1 cumprindo suspens\u00e3o por infra\u00e7\u00e3o disciplinar; Bianca est\u00e1 licenciada por requerimento pr\u00f3prio justificado; e Maria \u00e9 servidora federal n\u00e3o enquadrada em hip\u00f3tese de incompatibilidade. As quatro peticionam, como advogadas, isoladamente e em atos distintos, em a\u00e7\u00e3o judicial proposta em face da Uni\u00e3o.  Diante da situa\u00e7\u00e3o narrada, de acordo com o Estatuto da OAB, s\u00e3o v\u00e1lidos os atos praticados",
+        "options": [
+            {
+                "correct": true,
+                "text": "por Carolina, apenas.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "por Carolina e Bianca, apenas.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "por Carolina, Bianca e Maria, apenas.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "por Carolina, Julia, Bianca e Maria.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2017-22.txt",
+        "number": "6",
+        "valid": true,
+        "areas": [
+            null
+        ]
+    }
+]

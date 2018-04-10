@@ -1,1 +1,57 @@
-[{"options": [{"correct": true, "text": "s\u00f3 poder\u00e1 ser arguida como mat\u00e9ria de defesa.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "poder\u00e1 ser arguida em qualquer fase do processo, mesmo na execu\u00e7\u00e3o definitiva da senten\u00e7a.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a seja proferida pelo juiz de 1\u00aa inst\u00e2ncia.", "letter": "C", "pmi": [-0.22710256104719773, 0.0, 0.0, 0.0]}, {"correct": null, "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a tenha transitado em julgado.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0]}], "areas": ["LABOUR-PROCEDURE"], "valid": true, "enum": "No processo trabalhista, a compensa\u00e7\u00e3o ou reten\u00e7\u00e3o", "number": "76", "filename": "2012-06.txt"}]
+[
+    {
+        "options": [
+            {
+                "correct": true,
+                "text": "s\u00f3 poder\u00e1 ser arguida como mat\u00e9ria de defesa.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "poder\u00e1 ser arguida em qualquer fase do processo, mesmo na execu\u00e7\u00e3o definitiva da senten\u00e7a.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a seja proferida pelo juiz de 1\u00aa inst\u00e2ncia.",
+                "letter": "C",
+                "pmi": [
+                    -0.22710256104719773,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a tenha transitado em julgado.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "valid": true,
+        "enum": "No processo trabalhista, a compensa\u00e7\u00e3o ou reten\u00e7\u00e3o",
+        "number": "76",
+        "filename": "2012-06.txt"
+    }
+]

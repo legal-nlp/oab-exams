@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Assinale a alternativa que contemple exclusivamente obriga\u00e7\u00e3o propter rem:", "filename": "2010-02.txt", "number": "30", "options": [{"correct": null, "letter": "A", "text": "a obriga\u00e7\u00e3o de indenizar decorrente da aluvi\u00e3o e aquela decorrente da avuls\u00e3o."}, {"correct": null, "letter": "B", "text": "a hipoteca e o dever de pagar as cotas condominiais."}, {"correct": null, "letter": "C", "text": "o dever que tem o servidor da posse de exercer o desfor\u00e7o possess\u00f3rio e o dever de pagar as cotas condominiais."}, {"correct": true, "letter": "D", "text": "a obriga\u00e7\u00e3o que tem o propriet\u00e1rio de um terreno de indenizar o terceiro que, de boa-f\u00e9, erigiu benfeitorias sobre o mesmo."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Assinale a alternativa que contemple exclusivamente obriga\u00e7\u00e3o propter rem:",
+        "filename": "2010-02.txt",
+        "number": "30",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a obriga\u00e7\u00e3o de indenizar decorrente da aluvi\u00e3o e aquela decorrente da avuls\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a hipoteca e o dever de pagar as cotas condominiais."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o dever que tem o servidor da posse de exercer o desfor\u00e7o possess\u00f3rio e o dever de pagar as cotas condominiais."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "a obriga\u00e7\u00e3o que tem o propriet\u00e1rio de um terreno de indenizar o terceiro que, de boa-f\u00e9, erigiu benfeitorias sobre o mesmo."
+            }
+        ],
+        "valid": true
+    }
+]

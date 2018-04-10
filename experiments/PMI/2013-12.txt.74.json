@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Uma grande empreiteira vence a licita\u00e7\u00e3o para constru\u00e7\u00e3o de uma hidrel\u00e9trica, mas, tendo dificuldade em arregimentar trabalhadores em raz\u00e3o da dist\u00e2ncia at\u00e9 o canteiro de obras, resolve contratar estrangeiros em situa\u00e7\u00e3o irregular no pa\u00eds, inclusive porque eles concordaram em n\u00e3o ter a carteira profissional assinada e receber valor inferior ao piso da categoria.\n\n A contrata\u00e7\u00e3o, na hip\u00f3tese apresentada, contempla um caso de", "filename": "2013-12.txt", "number": "74", "options": [{"correct": true, "letter": "A", "text": "trabalho proibido."}, {"correct": null, "letter": "B", "text": "trabalho il\u00edcito."}, {"correct": null, "letter": "C", "text": "trabalho escravo."}, {"correct": null, "letter": "D", "text": "trabalho v\u00e1lido."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Uma grande empreiteira vence a licita\u00e7\u00e3o para constru\u00e7\u00e3o de uma hidrel\u00e9trica, mas, tendo dificuldade em arregimentar trabalhadores em raz\u00e3o da dist\u00e2ncia at\u00e9 o canteiro de obras, resolve contratar estrangeiros em situa\u00e7\u00e3o irregular no pa\u00eds, inclusive porque eles concordaram em n\u00e3o ter a carteira profissional assinada e receber valor inferior ao piso da categoria.\n\n A contrata\u00e7\u00e3o, na hip\u00f3tese apresentada, contempla um caso de",
+        "filename": "2013-12.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "trabalho proibido."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "trabalho il\u00edcito."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "trabalho escravo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "trabalho v\u00e1lido."
+            }
+        ],
+        "valid": true
+    }
+]

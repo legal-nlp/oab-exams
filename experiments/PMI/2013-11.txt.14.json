@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Assinale a alternativa que completa corretamente o fragmento a seguir.\n\n A desapropria\u00e7\u00e3o para fins de reforma agr\u00e1ria ocorre mediante pr\u00e9via e justa indeniza\u00e7\u00e3o", "filename": "2013-11.txt", "number": "14", "options": [{"correct": null, "letter": "A", "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."}, {"correct": null, "letter": "B", "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o."}, {"correct": null, "letter": "C", "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."}, {"correct": true, "letter": "D", "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Assinale a alternativa que completa corretamente o fragmento a seguir.\n\n A desapropria\u00e7\u00e3o para fins de reforma agr\u00e1ria ocorre mediante pr\u00e9via e justa indeniza\u00e7\u00e3o",
+        "filename": "2013-11.txt",
+        "number": "14",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro."
+            }
+        ],
+        "valid": true
+    }
+]

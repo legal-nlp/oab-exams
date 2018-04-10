@@ -1,1 +1,57 @@
-[{"enum": "C\u00edntia Maria aju\u00edza reclama\u00e7\u00e3o trabalhista em face da empresa Tictac Ltda., postulando o pagamento de horas extraordin\u00e1rias, aduzindo que sempre labutou no hor\u00e1rio das 8h \u00e0s 19h, de segunda a sexta-feira, sem intervalo intrajornada. A empresa r\u00e9 oferece contesta\u00e7\u00e3o, impugnando o hor\u00e1rio indicado na inicial, afirmando que a autora sempre laborou no hor\u00e1rio das 8h \u00e0s 17h, com 1 hora de pausa alimentar, asseverando ainda que os controles de ponto que acompanham a defesa n\u00e3o indicam a exist\u00eancia de labor extraordin\u00e1rio. \u00c0 vista da defesa ofertada e dos controles carreados \u00e0 resposta do r\u00e9u, a parte autora, por interm\u00e9dio de seu advogado, impugna os registros de frequ\u00eancia porque n\u00e3o apresentam qualquer varia\u00e7\u00e3o no registro de entrada e sa\u00edda, assim como porque n\u00e3o ostentam sequer a pr\u00e9-assinala\u00e7\u00e3o do intervalo intrajornada. Admitindo-se a veracidade das argumenta\u00e7\u00f5es do patrono da parte autora e com base na posi\u00e7\u00e3o do TST acerca da mat\u00e9ria, \u00e9 correto afirmar que", "options": [{"letter": "A", "text": "compete ao empregado o \u00f4nus de comprovar o hor\u00e1rio de trabalho indicado na inicial, inclusive a supress\u00e3o do intervalo intrajornada, a teor do disposto no art. 818 da CLT.", "pmi": [-0.047367872664218914, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "diante da impugna\u00e7\u00e3o apresentada, inverte-se o \u00f4nus probat\u00f3rio, que passa a ser do empregador, prevalecendo o hor\u00e1rio da inicial, se dele n\u00e3o se desincumbir por outro meio probat\u00f3rio, inclusive no que se refere \u00e0 aus\u00eancia de intervalo intrajornada.", "pmi": [0.0006511311376888617, 0.0, 0.0, 0.0], "correct": true}, {"letter": "C", "text": "em se tratando de controles de ponto inv\u00e1lidos, ao passo que n\u00e3o demonstram qualquer varia\u00e7\u00e3o no registro de entrada e sa\u00edda, n\u00e3o poder\u00e1 a r\u00e9 produzir qualquer outra prova capaz de confirmar suas assertivas, porquanto a prova documental \u00e9 a \u00fanica capaz de demonstrar a jornada de trabalho cumprida.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "diante da impugna\u00e7\u00e3o apresentada, inverte-se o \u00f4nus probat\u00f3rio, que passa a ser do empregador, prevalecendo o hor\u00e1rio da inicial, se dele n\u00e3o se desincumbir, exceto quanto ao intervalo intrajornada, cujo \u00f4nus probat\u00f3rio ainda pertence \u00e0 parte autora.", "pmi": [0.000614957185595036, 0.0, 0.0, 0.0], "correct": null}], "number": "79", "filename": "2012-06.txt", "valid": true, "areas": ["LABOUR-PROCEDURE"]}]
+[
+    {
+        "enum": "C\u00edntia Maria aju\u00edza reclama\u00e7\u00e3o trabalhista em face da empresa Tictac Ltda., postulando o pagamento de horas extraordin\u00e1rias, aduzindo que sempre labutou no hor\u00e1rio das 8h \u00e0s 19h, de segunda a sexta-feira, sem intervalo intrajornada. A empresa r\u00e9 oferece contesta\u00e7\u00e3o, impugnando o hor\u00e1rio indicado na inicial, afirmando que a autora sempre laborou no hor\u00e1rio das 8h \u00e0s 17h, com 1 hora de pausa alimentar, asseverando ainda que os controles de ponto que acompanham a defesa n\u00e3o indicam a exist\u00eancia de labor extraordin\u00e1rio. \u00c0 vista da defesa ofertada e dos controles carreados \u00e0 resposta do r\u00e9u, a parte autora, por interm\u00e9dio de seu advogado, impugna os registros de frequ\u00eancia porque n\u00e3o apresentam qualquer varia\u00e7\u00e3o no registro de entrada e sa\u00edda, assim como porque n\u00e3o ostentam sequer a pr\u00e9-assinala\u00e7\u00e3o do intervalo intrajornada. Admitindo-se a veracidade das argumenta\u00e7\u00f5es do patrono da parte autora e com base na posi\u00e7\u00e3o do TST acerca da mat\u00e9ria, \u00e9 correto afirmar que",
+        "options": [
+            {
+                "letter": "A",
+                "text": "compete ao empregado o \u00f4nus de comprovar o hor\u00e1rio de trabalho indicado na inicial, inclusive a supress\u00e3o do intervalo intrajornada, a teor do disposto no art. 818 da CLT.",
+                "pmi": [
+                    -0.047367872664218914,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "diante da impugna\u00e7\u00e3o apresentada, inverte-se o \u00f4nus probat\u00f3rio, que passa a ser do empregador, prevalecendo o hor\u00e1rio da inicial, se dele n\u00e3o se desincumbir por outro meio probat\u00f3rio, inclusive no que se refere \u00e0 aus\u00eancia de intervalo intrajornada.",
+                "pmi": [
+                    0.0006511311376888617,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "C",
+                "text": "em se tratando de controles de ponto inv\u00e1lidos, ao passo que n\u00e3o demonstram qualquer varia\u00e7\u00e3o no registro de entrada e sa\u00edda, n\u00e3o poder\u00e1 a r\u00e9 produzir qualquer outra prova capaz de confirmar suas assertivas, porquanto a prova documental \u00e9 a \u00fanica capaz de demonstrar a jornada de trabalho cumprida.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "diante da impugna\u00e7\u00e3o apresentada, inverte-se o \u00f4nus probat\u00f3rio, que passa a ser do empregador, prevalecendo o hor\u00e1rio da inicial, se dele n\u00e3o se desincumbir, exceto quanto ao intervalo intrajornada, cujo \u00f4nus probat\u00f3rio ainda pertence \u00e0 parte autora.",
+                "pmi": [
+                    0.000614957185595036,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "number": "79",
+        "filename": "2012-06.txt",
+        "valid": true,
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ]
+    }
+]

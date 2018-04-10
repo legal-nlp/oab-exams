@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Lauro emitiu uma nota promiss\u00f3ria com vencimento a dia certo em favor da sociedade empres\u00e1ria W Corretora de Im\u00f3veis Ltda. Embora o t\u00edtulo esteja assinado pelo emitente, nele n\u00e3o constam a data e o lugar de emiss\u00e3o. H\u00e1 cl\u00e1usula de juros remunerat\u00f3rios, com fixa\u00e7\u00e3o de taxa anual de 12%. Antes do vencimento, o t\u00edtulo recebeu aval em branco prestado por Pedro, irm\u00e3o de Lauro.\n\n Sendo certo que os dados omitidos na nota promiss\u00f3ria n\u00e3o foram preenchidos pela sociedade empres\u00e1ria antes da cobran\u00e7a judicial, assinale a afirmativa correta.", "filename": "2015-17.txt", "number": "52", "options": [{"correct": null, "letter": "A", "text": "Por se tratar de nota promiss\u00f3ria com vencimento a dia certo, \u00e9 v\u00e1lida a cl\u00e1usula de juros remunerat\u00f3rios."}, {"correct": true, "letter": "B", "text": "O avalista em branco poder\u00e1 alegar v\u00edcio de forma como exce\u00e7\u00e3o ao pagamento perante a sociedade empres\u00e1ria."}, {"correct": null, "letter": "C", "text": "A aus\u00eancia do lugar de emiss\u00e3o na nota promiss\u00f3ria acarreta sua nulidade, em raz\u00e3o da autonomia das obriga\u00e7\u00f5es cambiais."}, {"correct": null, "letter": "D", "text": "Todos os dados omitidos na nota promiss\u00f3ria deveriam ter sido preenchidos pela sociedade empres\u00e1ria at\u00e9 o dia do vencimento. Portanto, a a\u00e7\u00e3o de cobran\u00e7a dever\u00e1 observar o procedimento da a\u00e7\u00e3o monit\u00f3ria."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Lauro emitiu uma nota promiss\u00f3ria com vencimento a dia certo em favor da sociedade empres\u00e1ria W Corretora de Im\u00f3veis Ltda. Embora o t\u00edtulo esteja assinado pelo emitente, nele n\u00e3o constam a data e o lugar de emiss\u00e3o. H\u00e1 cl\u00e1usula de juros remunerat\u00f3rios, com fixa\u00e7\u00e3o de taxa anual de 12%. Antes do vencimento, o t\u00edtulo recebeu aval em branco prestado por Pedro, irm\u00e3o de Lauro.\n\n Sendo certo que os dados omitidos na nota promiss\u00f3ria n\u00e3o foram preenchidos pela sociedade empres\u00e1ria antes da cobran\u00e7a judicial, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
+        "number": "52",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Por se tratar de nota promiss\u00f3ria com vencimento a dia certo, \u00e9 v\u00e1lida a cl\u00e1usula de juros remunerat\u00f3rios."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O avalista em branco poder\u00e1 alegar v\u00edcio de forma como exce\u00e7\u00e3o ao pagamento perante a sociedade empres\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A aus\u00eancia do lugar de emiss\u00e3o na nota promiss\u00f3ria acarreta sua nulidade, em raz\u00e3o da autonomia das obriga\u00e7\u00f5es cambiais."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Todos os dados omitidos na nota promiss\u00f3ria deveriam ter sido preenchidos pela sociedade empres\u00e1ria at\u00e9 o dia do vencimento. Portanto, a a\u00e7\u00e3o de cobran\u00e7a dever\u00e1 observar o procedimento da a\u00e7\u00e3o monit\u00f3ria."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"valid": true, "number": "49", "areas": [], "enum": "A sociedade Boaventura & Cia. Ltda. obteve concess\u00e3o de recupera\u00e7\u00e3o judicial, mas por insuper\u00e1veis problemas de fluxo de caixa a recupera\u00e7\u00e3o foi convolada em fal\u00eancia. Um dos fornecedores de produtos agr\u00edcolas \u00e0 devedora antes do pedido de recupera\u00e7\u00e3o judicial era Barra do Jacar\u00e9 EIRELI ME. Contudo, com o pedido de recupera\u00e7\u00e3o judicial e inclus\u00e3o do cr\u00e9dito no plano, a fornecedora interrompeu imediatamente a entrega dos produtos e resiliu o contrato. Os cr\u00e9ditos est\u00e3o representados por duplicatas de venda, sendo o valor total de R$ 240.000,00 (duzentos e quarenta mil reais), exig\u00edveis antes da recupera\u00e7\u00e3o judicial e ainda n\u00e3o pagos.\n\n Com base nessas informa\u00e7\u00f5es e na regra estabelecida na Lei n\u00ba 11.101/2005, assinale a afirmativa correta.", "options": [{"text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como quirograf\u00e1rio.", "pmi": [-0.04868444306101616, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como extraconcursal.", "pmi": [-0.04868444306101616, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio geral.", "pmi": [-0.08194914478392168, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio especial.", "pmi": [-0.17950141803796316, 0.0, 0.0, 0.0], "letter": "D", "correct": true}], "filename": "2016-20a.txt"}]
+[
+    {
+        "valid": true,
+        "number": "49",
+        "areas": [],
+        "enum": "A sociedade Boaventura & Cia. Ltda. obteve concess\u00e3o de recupera\u00e7\u00e3o judicial, mas por insuper\u00e1veis problemas de fluxo de caixa a recupera\u00e7\u00e3o foi convolada em fal\u00eancia. Um dos fornecedores de produtos agr\u00edcolas \u00e0 devedora antes do pedido de recupera\u00e7\u00e3o judicial era Barra do Jacar\u00e9 EIRELI ME. Contudo, com o pedido de recupera\u00e7\u00e3o judicial e inclus\u00e3o do cr\u00e9dito no plano, a fornecedora interrompeu imediatamente a entrega dos produtos e resiliu o contrato. Os cr\u00e9ditos est\u00e3o representados por duplicatas de venda, sendo o valor total de R$ 240.000,00 (duzentos e quarenta mil reais), exig\u00edveis antes da recupera\u00e7\u00e3o judicial e ainda n\u00e3o pagos.\n\n Com base nessas informa\u00e7\u00f5es e na regra estabelecida na Lei n\u00ba 11.101/2005, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como quirograf\u00e1rio.",
+                "pmi": [
+                    -0.04868444306101616,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como extraconcursal.",
+                "pmi": [
+                    -0.04868444306101616,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio geral.",
+                "pmi": [
+                    -0.08194914478392168,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio especial.",
+                "pmi": [
+                    -0.17950141803796316,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "filename": "2016-20a.txt"
+    }
+]

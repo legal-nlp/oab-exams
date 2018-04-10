@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Jos\u00e9 dispara cinco tiros de rev\u00f3lver contra Joaquim, jovem de 26 (vinte e seis) anos que acabara de estuprar sua filha. Contudo, em decorr\u00eancia de um problema na mira da arma, Jos\u00e9 erra seu alvo, vindo a atingir Rubem, senhor de 80 oitenta) anos, ceifando-lhe a vida.\n\n A esse respeito, \u00e9 correto afirmar que Jos\u00e9 responder\u00e1", "filename": "2012-06.txt", "number": "60", "options": [{"correct": null, "letter": "A", "text": "pelo homic\u00eddio de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."}, {"correct": null, "letter": "B", "text": "por tentativa de homic\u00eddio privilegiado de Joaquim e homic\u00eddio culposo de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."}, {"correct": null, "letter": "C", "text": "apenas por tentativa de homic\u00eddio privilegiado, uma vez que ocorreu erro quanto \u00e0 pessoa."}, {"correct": true, "letter": "D", "text": "apenas por homic\u00eddio privilegiado consumado, uma vez que ocorreu erro na execu\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Jos\u00e9 dispara cinco tiros de rev\u00f3lver contra Joaquim, jovem de 26 (vinte e seis) anos que acabara de estuprar sua filha. Contudo, em decorr\u00eancia de um problema na mira da arma, Jos\u00e9 erra seu alvo, vindo a atingir Rubem, senhor de 80 oitenta) anos, ceifando-lhe a vida.\n\n A esse respeito, \u00e9 correto afirmar que Jos\u00e9 responder\u00e1",
+        "filename": "2012-06.txt",
+        "number": "60",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "pelo homic\u00eddio de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "por tentativa de homic\u00eddio privilegiado de Joaquim e homic\u00eddio culposo de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "apenas por tentativa de homic\u00eddio privilegiado, uma vez que ocorreu erro quanto \u00e0 pessoa."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "apenas por homic\u00eddio privilegiado consumado, uma vez que ocorreu erro na execu\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

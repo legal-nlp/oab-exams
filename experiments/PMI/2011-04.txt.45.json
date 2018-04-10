@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "A respeito das a\u00e7\u00f5es possess\u00f3rias, assinale a alternativa correta.", "filename": "2011-04.txt", "number": "45", "options": [{"correct": null, "letter": "A", "text": "A propositura da a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse, quando cab\u00edvel manuten\u00e7\u00e3o de posse, torna imposs\u00edvel o acolhimento do pedido, impondo a extin\u00e7\u00e3o sem resolu\u00e7\u00e3o do m\u00e9rito."}, {"correct": true, "letter": "B", "text": "Quando for ordenada a justifica\u00e7\u00e3o pr\u00e9via, o prazo para contestar contar-se-\u00e1 da intima\u00e7\u00e3o do despacho que deferir ou n\u00e3o a medida liminar."}, {"correct": null, "letter": "C", "text": "\u00c9 vedada a cumula\u00e7\u00e3o de pedidos com o pedido possess\u00f3rio."}, {"correct": null, "letter": "D", "text": "O possuidor tem direito a ser mantido na posse em caso de esbulho e reintegrado no de turba\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "A respeito das a\u00e7\u00f5es possess\u00f3rias, assinale a alternativa correta.",
+        "filename": "2011-04.txt",
+        "number": "45",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A propositura da a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse, quando cab\u00edvel manuten\u00e7\u00e3o de posse, torna imposs\u00edvel o acolhimento do pedido, impondo a extin\u00e7\u00e3o sem resolu\u00e7\u00e3o do m\u00e9rito."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Quando for ordenada a justifica\u00e7\u00e3o pr\u00e9via, o prazo para contestar contar-se-\u00e1 da intima\u00e7\u00e3o do despacho que deferir ou n\u00e3o a medida liminar."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "\u00c9 vedada a cumula\u00e7\u00e3o de pedidos com o pedido possess\u00f3rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O possuidor tem direito a ser mantido na posse em caso de esbulho e reintegrado no de turba\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

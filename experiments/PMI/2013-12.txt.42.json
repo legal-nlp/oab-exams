@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Tiago, com 17 anos de idade e relativamente incapaz, sob autoridade de seus pais M\u00e1rio e Fabiana, recebeu, por doa\u00e7\u00e3o de seu tio, um im\u00f3vel localizado na rua Sete de Setembro, com dois pavimentos, contendo tr\u00eas lojas comerciais no primeiro piso e dois apartamentos no segundo piso. Tiago trabalha como cantor nos finais de semana, tendo uma renda mensal de R$ 3.000,00 (tr\u00eas mil reais).\n\n Face aos fatos narrados e considerando as regras de Direito Civil, assinale a op\u00e7\u00e3o correta.", "filename": "2013-12.txt", "number": "42", "options": [{"correct": null, "letter": "A", "text": "M\u00e1rio e Fabiana exercem sobre os bens im\u00f3veis de Tiago o direito de usufruto convencional, inerente \u00e0 rela\u00e7\u00e3o de parentesco que perdurar\u00e1 at\u00e9 a maioridade civil ou emancipa\u00e7\u00e3o de Tiago."}, {"correct": null, "letter": "B", "text": "M\u00e1rio e Fabiana poder\u00e3o alienar ou onerar o bem im\u00f3vel de Tiago, desde que haja pr\u00e9via autoriza\u00e7\u00e3o do Minist\u00e9rio P\u00fablico e seja demonstrado o evidente interesse da prole."}, {"correct": true, "letter": "C", "text": "M\u00e1rio e Fabiana n\u00e3o poder\u00e3o administrar os valores auferidos por Tiago no exerc\u00edcio de atividade de cantor, bem como os bens com tais recursos adquiridos."}, {"correct": null, "letter": "D", "text": "Mario e Fabiana, entrando em colis\u00e3o de interesses com Tiago sobre a administra\u00e7\u00e3o dos bens,  facultam ao juiz, de of\u00edcio, nomear curador especial."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Tiago, com 17 anos de idade e relativamente incapaz, sob autoridade de seus pais M\u00e1rio e Fabiana, recebeu, por doa\u00e7\u00e3o de seu tio, um im\u00f3vel localizado na rua Sete de Setembro, com dois pavimentos, contendo tr\u00eas lojas comerciais no primeiro piso e dois apartamentos no segundo piso. Tiago trabalha como cantor nos finais de semana, tendo uma renda mensal de R$ 3.000,00 (tr\u00eas mil reais).\n\n Face aos fatos narrados e considerando as regras de Direito Civil, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2013-12.txt",
+        "number": "42",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "M\u00e1rio e Fabiana exercem sobre os bens im\u00f3veis de Tiago o direito de usufruto convencional, inerente \u00e0 rela\u00e7\u00e3o de parentesco que perdurar\u00e1 at\u00e9 a maioridade civil ou emancipa\u00e7\u00e3o de Tiago."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "M\u00e1rio e Fabiana poder\u00e3o alienar ou onerar o bem im\u00f3vel de Tiago, desde que haja pr\u00e9via autoriza\u00e7\u00e3o do Minist\u00e9rio P\u00fablico e seja demonstrado o evidente interesse da prole."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "M\u00e1rio e Fabiana n\u00e3o poder\u00e3o administrar os valores auferidos por Tiago no exerc\u00edcio de atividade de cantor, bem como os bens com tais recursos adquiridos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Mario e Fabiana, entrando em colis\u00e3o de interesses com Tiago sobre a administra\u00e7\u00e3o dos bens,  facultam ao juiz, de of\u00edcio, nomear curador especial."
+            }
+        ],
+        "valid": true
+    }
+]

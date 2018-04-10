@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Hugo, Jos\u00e9 e Luiz s\u00e3o colegas de trabalho na mesma empresa.  Hugo trabalha diretamente com o transporte de material inflam\u00e1vel, de modo permanente, nas depend\u00eancias da empresa. Jos\u00e9 faz a rendi\u00e7\u00e3o de Hugo durante o intervalo para alimenta\u00e7\u00e3o e, no restante do tempo, exerce a fun\u00e7\u00e3o de teleoperador. Luiz tamb\u00e9m exerce a fun\u00e7\u00e3o de teleoperador.  Acontece que, no intervalo para a alimenta\u00e7\u00e3o, Luiz pega carona com Jos\u00e9 no transporte de inflam\u00e1veis, cujo trajeto dura cerca de dois minutos.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2015-16.txt", "number": "71", "options": [{"correct": null, "letter": "A", "text": "Como Hugo, Jos\u00e9 e Luiz t\u00eam contato com inflam\u00e1veis, os tr\u00eas t\u00eam direito ao adicional de periculosidade."}, {"correct": null, "letter": "B", "text": "Apenas Hugo, que lida diretamente com os inflam\u00e1veis em toda a jornada, tem direito ao adicional de periculosidade."}, {"correct": null, "letter": "C", "text": "Hugo faz jus ao adicional de periculosidade integral; Jos\u00e9, ao proporcional ao tempo de exposi\u00e7\u00e3o ao inflam\u00e1vel; e Luiz n\u00e3o tem direito ao adicional, sendo certo que a empresa n\u00e3o exerce qualquer atividade na \u00e1rea de eletricidade."}, {"correct": true, "letter": "D", "text": "Hugo e Jos\u00e9 t\u00eam direito ao adicional de periculosidade.  Luiz n\u00e3o faz jus ao direito respectivo."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Hugo, Jos\u00e9 e Luiz s\u00e3o colegas de trabalho na mesma empresa.  Hugo trabalha diretamente com o transporte de material inflam\u00e1vel, de modo permanente, nas depend\u00eancias da empresa. Jos\u00e9 faz a rendi\u00e7\u00e3o de Hugo durante o intervalo para alimenta\u00e7\u00e3o e, no restante do tempo, exerce a fun\u00e7\u00e3o de teleoperador. Luiz tamb\u00e9m exerce a fun\u00e7\u00e3o de teleoperador.  Acontece que, no intervalo para a alimenta\u00e7\u00e3o, Luiz pega carona com Jos\u00e9 no transporte de inflam\u00e1veis, cujo trajeto dura cerca de dois minutos.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "71",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Como Hugo, Jos\u00e9 e Luiz t\u00eam contato com inflam\u00e1veis, os tr\u00eas t\u00eam direito ao adicional de periculosidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Apenas Hugo, que lida diretamente com os inflam\u00e1veis em toda a jornada, tem direito ao adicional de periculosidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Hugo faz jus ao adicional de periculosidade integral; Jos\u00e9, ao proporcional ao tempo de exposi\u00e7\u00e3o ao inflam\u00e1vel; e Luiz n\u00e3o tem direito ao adicional, sendo certo que a empresa n\u00e3o exerce qualquer atividade na \u00e1rea de eletricidade."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Hugo e Jos\u00e9 t\u00eam direito ao adicional de periculosidade.  Luiz n\u00e3o faz jus ao direito respectivo."
+            }
+        ],
+        "valid": true
+    }
+]

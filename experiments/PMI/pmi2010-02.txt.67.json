@@ -1,1 +1,57 @@
-[{"filename": "2010-02.txt", "number": "67", "options": [{"pmi": [-0.01847232696368388, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "N\u00e3o cabe nova apela\u00e7\u00e3o no caso concreto, em respeito ao princ\u00edpio da soberania dos veredictos."}, {"pmi": [-0.12867336399680243, 0.0, 0.0, 0.0], "correct": true, "letter": "B", "text": "A decis\u00e3o do juiz togado foi incorreta, pois violou o princ\u00edpio do ne reformatio in pejus, cabendo apela\u00e7\u00e3o."}, {"pmi": [-0.012836688834796564, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "A decis\u00e3o dos jurados foi incorreta, pois violou o princ\u00edpio do tantum devolutum quantum appelatum."}, {"pmi": [-0.04641584315653451, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "N\u00e3o cabe apela\u00e7\u00e3o por falta de interesse jur\u00eddico, j\u00e1 que a fixa\u00e7\u00e3o do regime inicial fechado \u00e9 mais vantajosa do que uma pena a ser cumprida em regime integralmente fechado."}], "valid": true, "enum": "Ant\u00f4nio Ribeiro foi denunciado pela pr\u00e1tica de homic\u00eddio qualificado, pronunciado nos mesmos moldes da den\u00fancia e submeti do a julgamento pelo Tribunal do J\u00fari em 25/05/2005, tendo sido condenado \u00e0 pena de 15 anos de reclus\u00e3o em regime integralmente fechado. A decis\u00e3o transita em julgado para o Minist\u00e9rio P\u00fablico, mas a defesa de Ant\u00f4nio apela, alegando que a decis\u00e3o dos Jurados \u00e9 manifestamente contr\u00e1ria \u00e0 prova dos autos. A apela\u00e7\u00e3o \u00e9 provida, sendo o r\u00e9u submeti do a novo J\u00fari. Neste segundo J\u00fari, Ant\u00f4nio \u00e9 novamente condenado e sua pena \u00e9 agravada, mas fixado regime mais vantajoso (inicial fechado).\n\n A esse respeito, assinale a afirmativa correta.", "areas": ["CRIMINAL-PROCEDURE"]}]
+[
+    {
+        "filename": "2010-02.txt",
+        "number": "67",
+        "options": [
+            {
+                "pmi": [
+                    -0.01847232696368388,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "N\u00e3o cabe nova apela\u00e7\u00e3o no caso concreto, em respeito ao princ\u00edpio da soberania dos veredictos."
+            },
+            {
+                "pmi": [
+                    -0.12867336399680243,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B",
+                "text": "A decis\u00e3o do juiz togado foi incorreta, pois violou o princ\u00edpio do ne reformatio in pejus, cabendo apela\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.012836688834796564,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "A decis\u00e3o dos jurados foi incorreta, pois violou o princ\u00edpio do tantum devolutum quantum appelatum."
+            },
+            {
+                "pmi": [
+                    -0.04641584315653451,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "N\u00e3o cabe apela\u00e7\u00e3o por falta de interesse jur\u00eddico, j\u00e1 que a fixa\u00e7\u00e3o do regime inicial fechado \u00e9 mais vantajosa do que uma pena a ser cumprida em regime integralmente fechado."
+            }
+        ],
+        "valid": true,
+        "enum": "Ant\u00f4nio Ribeiro foi denunciado pela pr\u00e1tica de homic\u00eddio qualificado, pronunciado nos mesmos moldes da den\u00fancia e submeti do a julgamento pelo Tribunal do J\u00fari em 25/05/2005, tendo sido condenado \u00e0 pena de 15 anos de reclus\u00e3o em regime integralmente fechado. A decis\u00e3o transita em julgado para o Minist\u00e9rio P\u00fablico, mas a defesa de Ant\u00f4nio apela, alegando que a decis\u00e3o dos Jurados \u00e9 manifestamente contr\u00e1ria \u00e0 prova dos autos. A apela\u00e7\u00e3o \u00e9 provida, sendo o r\u00e9u submeti do a novo J\u00fari. Neste segundo J\u00fari, Ant\u00f4nio \u00e9 novamente condenado e sua pena \u00e9 agravada, mas fixado regime mais vantajoso (inicial fechado).\n\n A esse respeito, assinale a afirmativa correta.",
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ]
+    }
+]

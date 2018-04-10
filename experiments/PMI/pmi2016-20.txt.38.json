@@ -1,1 +1,55 @@
-[{"valid": true, "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Pedro n\u00e3o poder\u00e1 regredir contra Paulo para que participe do rateio do quinh\u00e3o de Jo\u00e3o, pois Fernando o exonerou da solidariedade.", "letter": "A"}, {"pmi": [-0.39879778410485783, 0.0, 0.0, 0.0], "correct": true, "text": "Apesar da exonera\u00e7\u00e3o da solidariedade, Pedro pode cobrar de Paulo o valor de R$ 3.000,00 (tr\u00eas mil reais).", "letter": "B"}, {"pmi": [-0.06773924973006551, 0.0, 0.0, 0.0], "correct": null, "text": "Ao pagar integralmente a d\u00edvida, Pedro se sub-roga nos direitos de Fernando, permitindo-se que cobre a integralidade da d\u00edvida dos demais devedores.", "letter": "C"}, {"pmi": [-0.29947061747316756, 0.0, 0.0, 0.0], "correct": null, "text": "Pedro deveria ter pago a Fernando apenas R$ 2.000,00 (dois mil reais), pois a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a Paulo importa, necessariamente, a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a todos os codevedores.", "letter": "D"}], "number": "38", "enum": "Paulo, Jo\u00e3o e Pedro, mutu\u00e1rios, contra\u00edram empr\u00e9stimo com Fernando, mutuante, tornando-se, assim, devedores solid\u00e1rios do valor total de R$ 6.000,00 (seis mil reais). Fernando, muito amigo de Paulo, exonerou-o da solidariedade. Jo\u00e3o, por sua vez, tornou-se insolvente. No dia do vencimento da d\u00edvida, Pedro pagou integralmente o empr\u00e9stimo.\n\n Considerando a hip\u00f3tese narrada, assinale a afirmativa correta.", "areas": [], "filename": "2016-20.txt"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Pedro n\u00e3o poder\u00e1 regredir contra Paulo para que participe do rateio do quinh\u00e3o de Jo\u00e3o, pois Fernando o exonerou da solidariedade.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.39879778410485783,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Apesar da exonera\u00e7\u00e3o da solidariedade, Pedro pode cobrar de Paulo o valor de R$ 3.000,00 (tr\u00eas mil reais).",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.06773924973006551,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Ao pagar integralmente a d\u00edvida, Pedro se sub-roga nos direitos de Fernando, permitindo-se que cobre a integralidade da d\u00edvida dos demais devedores.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.29947061747316756,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Pedro deveria ter pago a Fernando apenas R$ 2.000,00 (dois mil reais), pois a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a Paulo importa, necessariamente, a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a todos os codevedores.",
+                "letter": "D"
+            }
+        ],
+        "number": "38",
+        "enum": "Paulo, Jo\u00e3o e Pedro, mutu\u00e1rios, contra\u00edram empr\u00e9stimo com Fernando, mutuante, tornando-se, assim, devedores solid\u00e1rios do valor total de R$ 6.000,00 (seis mil reais). Fernando, muito amigo de Paulo, exonerou-o da solidariedade. Jo\u00e3o, por sua vez, tornou-se insolvente. No dia do vencimento da d\u00edvida, Pedro pagou integralmente o empr\u00e9stimo.\n\n Considerando a hip\u00f3tese narrada, assinale a afirmativa correta.",
+        "areas": [],
+        "filename": "2016-20.txt"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Analise detidamente as seguintes situa\u00e7\u00f5es:\n\n Casu\u00edstica 1: Amarildo, ao chegar a sua casa, constata que sua filha foi estuprada por Ter\u00eancio. Imbu\u00eddo de relevante valor moral, contrata Ronaldo, pistoleiro profissional, para tirar a vida do estuprador. O servi\u00e7o \u00e9 regularmente executado.\n\n Casu\u00edstica 2: Lucas concorre para um infantic\u00eddio auxiliando Julieta, parturiente, a matar o nascituro \u2013 o que efetivamente acontece. Lucas sabia, desde o in\u00edcio, que Julieta estava sob a influ\u00eancia do estado puerperal.\n\n Levando em considera\u00e7\u00e3o a legisla\u00e7\u00e3o vigente e a doutrina sobre o concurso de pessoas (concursus delinquentium), \u00e9 correto afirmar que", "filename": "2012-08.txt", "number": "61", "options": [{"correct": true, "letter": "A", "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio qualificado por motivo torpe. No exemplo 2, Lucas e Julieta responder\u00e3o pelo crime de infantic\u00eddio."}, {"correct": null, "letter": "B", "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio simples (ou seja, sem privil\u00e9gio pelo fato de n\u00e3o estar imbu\u00eddo de relevante valor moral). No exemplo 2, Lucas, que n\u00e3o est\u00e1 influenciado pelo estado puerperal, responder\u00e1 por homic\u00eddio, e Julieta pelo crime de infantic\u00eddio."}, {"correct": null, "letter": "C", "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio simples (ou seja, sem privil\u00e9gio pelo fato de n\u00e3o estar imbu\u00eddo de relevante valor moral). No exemplo 2, tanto Lucas quanto Julieta responder\u00e3o pelo crime de homic\u00eddio (ele na modalidade simples, ela na modalidade privilegiada em raz\u00e3o da influ\u00eancia do estado puerperal)."}, {"correct": null, "letter": "D", "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio qualificado pelo motivo f\u00fatil. No exemplo 2, Lucas, que n\u00e3o est\u00e1 influenciado pelo estado puerperal, responder\u00e1 por homic\u00eddio e Julieta pelo crime de infantic\u00eddio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Analise detidamente as seguintes situa\u00e7\u00f5es:\n\n Casu\u00edstica 1: Amarildo, ao chegar a sua casa, constata que sua filha foi estuprada por Ter\u00eancio. Imbu\u00eddo de relevante valor moral, contrata Ronaldo, pistoleiro profissional, para tirar a vida do estuprador. O servi\u00e7o \u00e9 regularmente executado.\n\n Casu\u00edstica 2: Lucas concorre para um infantic\u00eddio auxiliando Julieta, parturiente, a matar o nascituro \u2013 o que efetivamente acontece. Lucas sabia, desde o in\u00edcio, que Julieta estava sob a influ\u00eancia do estado puerperal.\n\n Levando em considera\u00e7\u00e3o a legisla\u00e7\u00e3o vigente e a doutrina sobre o concurso de pessoas (concursus delinquentium), \u00e9 correto afirmar que",
+        "filename": "2012-08.txt",
+        "number": "61",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio qualificado por motivo torpe. No exemplo 2, Lucas e Julieta responder\u00e3o pelo crime de infantic\u00eddio."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio simples (ou seja, sem privil\u00e9gio pelo fato de n\u00e3o estar imbu\u00eddo de relevante valor moral). No exemplo 2, Lucas, que n\u00e3o est\u00e1 influenciado pelo estado puerperal, responder\u00e1 por homic\u00eddio, e Julieta pelo crime de infantic\u00eddio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio simples (ou seja, sem privil\u00e9gio pelo fato de n\u00e3o estar imbu\u00eddo de relevante valor moral). No exemplo 2, tanto Lucas quanto Julieta responder\u00e3o pelo crime de homic\u00eddio (ele na modalidade simples, ela na modalidade privilegiada em raz\u00e3o da influ\u00eancia do estado puerperal)."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "no exemplo 1, Amarildo responder\u00e1 pelo homic\u00eddio privilegiado e Ronaldo pelo crime de homic\u00eddio qualificado pelo motivo f\u00fatil. No exemplo 2, Lucas, que n\u00e3o est\u00e1 influenciado pelo estado puerperal, responder\u00e1 por homic\u00eddio e Julieta pelo crime de infantic\u00eddio."
+            }
+        ],
+        "valid": true
+    }
+]

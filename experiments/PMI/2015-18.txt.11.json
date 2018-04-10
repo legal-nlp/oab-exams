@@ -1,1 +1,33 @@
-[{"areas": ["PHILOSOPHY"], "enum": "\u201cA solu\u00e7\u00e3o do conflito aparente de normas d\u00e1-se, na hip\u00f3tese, mediante a incid\u00eancia do crit\u00e9rio da especialidade, segundo o qual prevalece a norma espec\u00edfica sobre a geral.\u201d \u00c9 conhecida a distin\u00e7\u00e3o no \u00e2mbito da Teoria do Direito entre antinomias aparentes (ou antinomias sol\u00faveis) e antinomias reais (ou antinomias insol\u00faveis).\n\n Para o jusfil\u00f3sofo Norberto Bobbio, uma antinomia real se caracteriza quando estamos diante", "filename": "2015-18.txt", "number": "11", "options": [{"correct": null, "letter": "A", "text": "de duas normas colidentes que pertencem a ordenamentos jur\u00eddicos diferentes."}, {"correct": null, "letter": "B", "text": "de normas que colidem entre si, por\u00e9m essa colis\u00e3o \u00e9 sol\u00favel mediante a aplica\u00e7\u00e3o do crit\u00e9rio cronol\u00f3gico, do crit\u00e9rio hier\u00e1rquico ou do crit\u00e9rio de especialidade."}, {"correct": true, "letter": "C", "text": "de normas colidentes e o int\u00e9rprete \u00e9 abandonado a si mesmo pela falta de um crit\u00e9rio ou pela impossibilidade de solu\u00e7\u00e3o do conflito entre os crit\u00e9rios existentes."}, {"correct": null, "letter": "D", "text": "de duas ou mais normas que colidem entre si e que possuem diferentes \u00e2mbitos de validade temporal, espacial, pessoal ou material."}], "valid": true}]
+[
+    {
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "enum": "\u201cA solu\u00e7\u00e3o do conflito aparente de normas d\u00e1-se, na hip\u00f3tese, mediante a incid\u00eancia do crit\u00e9rio da especialidade, segundo o qual prevalece a norma espec\u00edfica sobre a geral.\u201d \u00c9 conhecida a distin\u00e7\u00e3o no \u00e2mbito da Teoria do Direito entre antinomias aparentes (ou antinomias sol\u00faveis) e antinomias reais (ou antinomias insol\u00faveis).\n\n Para o jusfil\u00f3sofo Norberto Bobbio, uma antinomia real se caracteriza quando estamos diante",
+        "filename": "2015-18.txt",
+        "number": "11",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "de duas normas colidentes que pertencem a ordenamentos jur\u00eddicos diferentes."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "de normas que colidem entre si, por\u00e9m essa colis\u00e3o \u00e9 sol\u00favel mediante a aplica\u00e7\u00e3o do crit\u00e9rio cronol\u00f3gico, do crit\u00e9rio hier\u00e1rquico ou do crit\u00e9rio de especialidade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "de normas colidentes e o int\u00e9rprete \u00e9 abandonado a si mesmo pela falta de um crit\u00e9rio ou pela impossibilidade de solu\u00e7\u00e3o do conflito entre os crit\u00e9rios existentes."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "de duas ou mais normas que colidem entre si e que possuem diferentes \u00e2mbitos de validade temporal, espacial, pessoal ou material."
+            }
+        ],
+        "valid": true
+    }
+]

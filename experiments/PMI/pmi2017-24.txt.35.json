@@ -1,1 +1,57 @@
-[{"valid": true, "areas": [null], "enum": "Eduardo comprometeu-se a transferir para Daniela um im\u00f3vel que possui no litoral, mas uma cl\u00e1usula especial no contrato previa que a transfer\u00eancia somente ocorreria caso a cidade em que o im\u00f3vel se localiza viesse a sediar, nos pr\u00f3ximos dez anos, um campeonato mundial de surfe. Depois de realizado o neg\u00f3cio, todavia, o advento de nova legisla\u00e7\u00e3o ambiental imp\u00f4s regras impeditivas para a realiza\u00e7\u00e3o do campeonato naquele local.\n\n Sobre a incid\u00eancia de tais regras, assinale a afirmativa correta.", "number": "35", "options": [{"pmi": [-0.04643232715686573, 0.0, 0.0, 0.0], "correct": null, "text": "Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, pois a cl\u00e1usula especial configura um termo.", "letter": "A"}, {"pmi": [-0.02423359529109069, 0.0, 0.0, 0.0], "correct": null, "text": "Prevista uma condi\u00e7\u00e3o na cl\u00e1usula especial, Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel.", "letter": "B"}, {"pmi": [-0.03799008585561742, 0.0, 0.0, 0.0], "correct": null, "text": "H\u00e1 mera expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel por parte de Daniela, pois a cl\u00e1usula especial tem natureza jur\u00eddica de termo.", "letter": "C"}, {"pmi": [-0.027262794702477028, 0.0, 0.0, 0.0], "correct": true, "text": "Daniela tem somente expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, uma vez que h\u00e1 uma condi\u00e7\u00e3o na cl\u00e1usula especial.", "letter": "D"}], "filename": "2017-24.txt"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "enum": "Eduardo comprometeu-se a transferir para Daniela um im\u00f3vel que possui no litoral, mas uma cl\u00e1usula especial no contrato previa que a transfer\u00eancia somente ocorreria caso a cidade em que o im\u00f3vel se localiza viesse a sediar, nos pr\u00f3ximos dez anos, um campeonato mundial de surfe. Depois de realizado o neg\u00f3cio, todavia, o advento de nova legisla\u00e7\u00e3o ambiental imp\u00f4s regras impeditivas para a realiza\u00e7\u00e3o do campeonato naquele local.\n\n Sobre a incid\u00eancia de tais regras, assinale a afirmativa correta.",
+        "number": "35",
+        "options": [
+            {
+                "pmi": [
+                    -0.04643232715686573,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, pois a cl\u00e1usula especial configura um termo.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.02423359529109069,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Prevista uma condi\u00e7\u00e3o na cl\u00e1usula especial, Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.03799008585561742,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "H\u00e1 mera expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel por parte de Daniela, pois a cl\u00e1usula especial tem natureza jur\u00eddica de termo.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.027262794702477028,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Daniela tem somente expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, uma vez que h\u00e1 uma condi\u00e7\u00e3o na cl\u00e1usula especial.",
+                "letter": "D"
+            }
+        ],
+        "filename": "2017-24.txt"
+    }
+]

@@ -1,1 +1,55 @@
-[{"enum": "A sociedade empres\u00e1ria Cal\u00e7ados Montalv\u00e2nia Ltda. celebrou contrato de faturiza\u00e7\u00e3o com Mirav\u00e2nia Fomento Mercantil Ltda. para que a segunda antecipasse para a primeira cr\u00e9ditos contidos em cheques, notas promiss\u00f3rias, duplicatas de venda e outros documentos de d\u00edvida, al\u00e9m da presta\u00e7\u00e3o de servi\u00e7os de assessoria mercadol\u00f3gica, credit\u00edcia e de gest\u00e3o de riscos.\n\n Sobre este contrato, assinale a afirmativa correta.", "options": [{"text": "Na modalidade tradicional (ou convencional) da faturiza\u00e7\u00e3o, a faturizadora se obriga a efetuar o pagamento das faturas e de outros documentos referentes aos cr\u00e9ditos cedidos apenas na data do vencimento, raz\u00e3o pela qual o contrato em quest\u00e3o n\u00e3o pode ser considerado faturiza\u00e7\u00e3o t\u00edpica.", "correct": null, "pmi": [-0.006655026398149637, 0.0, 0.0, 0.0], "letter": "A"}, {"text": "As sociedades de fomento comercial est\u00e3o obrigadas a arquivar seus contratos e suas altera\u00e7\u00f5es no Registro Civil de Pessoas Jur\u00eddicas, uma vez que o objeto por elas exercido inclui a presta\u00e7\u00e3o de servi\u00e7os ao faturizado, sendo essa atividade estranha ao objeto das sociedades empres\u00e1rias.", "correct": null, "pmi": [-0.03410624941494927, 0.0, 0.0, 0.0], "letter": "B"}, {"text": "As sociedades faturizadoras dependem de autoriza\u00e7\u00e3o do Banco Central do Brasil para funcionamento, podendo realizar opera\u00e7\u00f5es de cr\u00e9dito em favor dos faturizados, n\u00e3o estando tais opera\u00e7\u00f5es sujeitas ao limite m\u00e1ximo de juros previsto no C\u00f3digo Civil.", "correct": null, "pmi": [-0.013434658546414464, 0.0, 0.0, 0.0], "letter": "C"}, {"text": "As sociedades que exercem as atividades de fomento comercial, mesmo n\u00e3o sendo consideradas institui\u00e7\u00f5es financeiras para efeitos legais, est\u00e3o obrigadas a conservar sigilo em suas opera\u00e7\u00f5es ativas e passivas e servi\u00e7os prestados aos faturizados.", "correct": true, "pmi": [-0.03352145539183871, 0.0, 0.0, 0.0], "letter": "D"}], "areas": [], "number": "48", "filename": "2015-16.txt", "valid": true}]
+[
+    {
+        "enum": "A sociedade empres\u00e1ria Cal\u00e7ados Montalv\u00e2nia Ltda. celebrou contrato de faturiza\u00e7\u00e3o com Mirav\u00e2nia Fomento Mercantil Ltda. para que a segunda antecipasse para a primeira cr\u00e9ditos contidos em cheques, notas promiss\u00f3rias, duplicatas de venda e outros documentos de d\u00edvida, al\u00e9m da presta\u00e7\u00e3o de servi\u00e7os de assessoria mercadol\u00f3gica, credit\u00edcia e de gest\u00e3o de riscos.\n\n Sobre este contrato, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "Na modalidade tradicional (ou convencional) da faturiza\u00e7\u00e3o, a faturizadora se obriga a efetuar o pagamento das faturas e de outros documentos referentes aos cr\u00e9ditos cedidos apenas na data do vencimento, raz\u00e3o pela qual o contrato em quest\u00e3o n\u00e3o pode ser considerado faturiza\u00e7\u00e3o t\u00edpica.",
+                "correct": null,
+                "pmi": [
+                    -0.006655026398149637,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "text": "As sociedades de fomento comercial est\u00e3o obrigadas a arquivar seus contratos e suas altera\u00e7\u00f5es no Registro Civil de Pessoas Jur\u00eddicas, uma vez que o objeto por elas exercido inclui a presta\u00e7\u00e3o de servi\u00e7os ao faturizado, sendo essa atividade estranha ao objeto das sociedades empres\u00e1rias.",
+                "correct": null,
+                "pmi": [
+                    -0.03410624941494927,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "text": "As sociedades faturizadoras dependem de autoriza\u00e7\u00e3o do Banco Central do Brasil para funcionamento, podendo realizar opera\u00e7\u00f5es de cr\u00e9dito em favor dos faturizados, n\u00e3o estando tais opera\u00e7\u00f5es sujeitas ao limite m\u00e1ximo de juros previsto no C\u00f3digo Civil.",
+                "correct": null,
+                "pmi": [
+                    -0.013434658546414464,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "text": "As sociedades que exercem as atividades de fomento comercial, mesmo n\u00e3o sendo consideradas institui\u00e7\u00f5es financeiras para efeitos legais, est\u00e3o obrigadas a conservar sigilo em suas opera\u00e7\u00f5es ativas e passivas e servi\u00e7os prestados aos faturizados.",
+                "correct": true,
+                "pmi": [
+                    -0.03352145539183871,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "areas": [],
+        "number": "48",
+        "filename": "2015-16.txt",
+        "valid": true
+    }
+]

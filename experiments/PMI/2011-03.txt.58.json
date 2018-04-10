@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Tom\u00e1s decide matar seu pai, Joaquim. Sabendo da inten\u00e7\u00e3o de Tom\u00e1s de executar o genitor, Pedro oferece, graciosamente, carona ao agente at\u00e9 o local em que ocorre o crime.\n\n A esse respeito, \u00e9 correto afirmar que Pedro \u00e9", "filename": "2011-03.txt", "number": "58", "options": [{"correct": null, "letter": "A", "text": "coautor do delito, respondendo por homic\u00eddio agravado por haver sido praticado contra ascendente."}, {"correct": null, "letter": "B", "text": "part\u00edcipe do delito, respondendo por homic\u00eddio agravado por haver sido praticado contra ascendente."}, {"correct": null, "letter": "C", "text": "coautor do delito, respondendo por homic\u00eddio sem a incid\u00eancia da agravante."}, {"correct": true, "letter": "D", "text": "part\u00edcipe do delito, respondendo por homic\u00eddio sem a incid\u00eancia da agravante."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Tom\u00e1s decide matar seu pai, Joaquim. Sabendo da inten\u00e7\u00e3o de Tom\u00e1s de executar o genitor, Pedro oferece, graciosamente, carona ao agente at\u00e9 o local em que ocorre o crime.\n\n A esse respeito, \u00e9 correto afirmar que Pedro \u00e9",
+        "filename": "2011-03.txt",
+        "number": "58",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "coautor do delito, respondendo por homic\u00eddio agravado por haver sido praticado contra ascendente."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "part\u00edcipe do delito, respondendo por homic\u00eddio agravado por haver sido praticado contra ascendente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "coautor do delito, respondendo por homic\u00eddio sem a incid\u00eancia da agravante."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "part\u00edcipe do delito, respondendo por homic\u00eddio sem a incid\u00eancia da agravante."
+            }
+        ],
+        "valid": true
+    }
+]

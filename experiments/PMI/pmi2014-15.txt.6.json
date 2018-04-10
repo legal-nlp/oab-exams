@@ -1,1 +1,55 @@
-[{"valid": true, "enum": "O advogado Caio atuava representando os interesses do autor em determinada a\u00e7\u00e3o indenizat\u00f3ria h\u00e1 alguns anos. Antes da prola\u00e7\u00e3o da senten\u00e7a, substabeleceu, com reserva, os poderes que lhe haviam sido outorgados pelo cliente, ao advogado T\u00edcio. Ao final, o pedido foi julgado procedente e o cliente de Caio e T\u00edcio recebeu a indeniza\u00e7\u00e3o pleiteada, mas n\u00e3o repassou aos advogados os honor\u00e1rios de \u00eaxito contratados, estipulados em 30%. Caio, para evitar desgaste, preferiu n\u00e3o cobrar judicialmente os valores devidos pelo cliente. T\u00edcio, n\u00e3o concordando com a op\u00e7\u00e3o de Caio, decidiu, \u00e0 revelia deste \u00faltimo, ingressar com a a\u00e7\u00e3o cab\u00edvel, valendo-se, para tanto, do contrato de honor\u00e1rios celebrado entre Caio e o cliente.\n\n A partir do caso apresentado, assinale a afirmativa correta.", "options": [{"correct": null, "text": "T\u00edcio pode ajuizar tal a\u00e7\u00e3o, pois, embora n\u00e3o tivesse celebrado o contrato com o cliente, recebeu poderes de Caio para atuar na causa.", "letter": "A", "pmi": [-0.1338934883652455, 0.0, 0.0, 0.0]}, {"correct": null, "text": "T\u00edcio pode ajuizar tal a\u00e7\u00e3o, pois ingressou na causa antes da prola\u00e7\u00e3o da senten\u00e7a, sendo, assim, igualmente respons\u00e1vel pelo \u00eaxito.", "letter": "B", "pmi": [-0.11119919562960418, 0.0, 0.0, 0.0]}, {"correct": null, "text": "T\u00edcio n\u00e3o pode ajuizar tal a\u00e7\u00e3o porque, como Caio e T\u00edcio n\u00e3o requereram o destaque dos honor\u00e1rios contratuais, ele n\u00e3o tem mais direito a receb\u00ea-los.", "letter": "C", "pmi": [-0.07767137894347816, 0.0, 0.0, 0.0]}, {"correct": true, "text": "T\u00edcio n\u00e3o pode ajuizar tal a\u00e7\u00e3o porque o advogado substabelecido com reserva de poderes n\u00e3o pode cobrar honor\u00e1rios sem a interven\u00e7\u00e3o daquele que lhe conferiu o substabelecimento.", "letter": "D", "pmi": [-0.0870451600808374, 0.0, 0.0, 0.0]}], "number": "6", "areas": [], "filename": "2014-15.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "O advogado Caio atuava representando os interesses do autor em determinada a\u00e7\u00e3o indenizat\u00f3ria h\u00e1 alguns anos. Antes da prola\u00e7\u00e3o da senten\u00e7a, substabeleceu, com reserva, os poderes que lhe haviam sido outorgados pelo cliente, ao advogado T\u00edcio. Ao final, o pedido foi julgado procedente e o cliente de Caio e T\u00edcio recebeu a indeniza\u00e7\u00e3o pleiteada, mas n\u00e3o repassou aos advogados os honor\u00e1rios de \u00eaxito contratados, estipulados em 30%. Caio, para evitar desgaste, preferiu n\u00e3o cobrar judicialmente os valores devidos pelo cliente. T\u00edcio, n\u00e3o concordando com a op\u00e7\u00e3o de Caio, decidiu, \u00e0 revelia deste \u00faltimo, ingressar com a a\u00e7\u00e3o cab\u00edvel, valendo-se, para tanto, do contrato de honor\u00e1rios celebrado entre Caio e o cliente.\n\n A partir do caso apresentado, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": null,
+                "text": "T\u00edcio pode ajuizar tal a\u00e7\u00e3o, pois, embora n\u00e3o tivesse celebrado o contrato com o cliente, recebeu poderes de Caio para atuar na causa.",
+                "letter": "A",
+                "pmi": [
+                    -0.1338934883652455,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "T\u00edcio pode ajuizar tal a\u00e7\u00e3o, pois ingressou na causa antes da prola\u00e7\u00e3o da senten\u00e7a, sendo, assim, igualmente respons\u00e1vel pelo \u00eaxito.",
+                "letter": "B",
+                "pmi": [
+                    -0.11119919562960418,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "T\u00edcio n\u00e3o pode ajuizar tal a\u00e7\u00e3o porque, como Caio e T\u00edcio n\u00e3o requereram o destaque dos honor\u00e1rios contratuais, ele n\u00e3o tem mais direito a receb\u00ea-los.",
+                "letter": "C",
+                "pmi": [
+                    -0.07767137894347816,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "T\u00edcio n\u00e3o pode ajuizar tal a\u00e7\u00e3o porque o advogado substabelecido com reserva de poderes n\u00e3o pode cobrar honor\u00e1rios sem a interven\u00e7\u00e3o daquele que lhe conferiu o substabelecimento.",
+                "letter": "D",
+                "pmi": [
+                    -0.0870451600808374,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "6",
+        "areas": [],
+        "filename": "2014-15.txt"
+    }
+]

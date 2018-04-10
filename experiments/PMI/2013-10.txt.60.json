@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Filipe foi condenado em janeiro de 2011 \u00e0 pena de cinco anos de reclus\u00e3o pela pr\u00e1tica do crime de tr\u00e1fico de drogas, ocorrido em 2006.\n\n Considerando-se que a Lei n. 11.464, que modificou o per\u00edodo para a progress\u00e3o de regime nos crimes hediondos para 2/5 (dois quintos) em caso de r\u00e9u prim\u00e1rio, foi publicada em mar\u00e7o de 2007, \u00e9 correto afirmar que", "filename": "2013-10.txt", "number": "60", "options": [{"correct": true, "letter": "A", "text": "se reputar\u00e1 cumprido o requisito objetivo para a progress\u00e3o de regime quando Felipe completar 1/6 (um sexto) do cumprimento da pena, uma vez que o crime foi praticado antes da Lei n. 11.464."}, {"correct": null, "letter": "B", "text": "se reputar\u00e1 cumprido o requisito objetivo para a progress\u00e3o de regime quando Felipe completar 2/5 (dois quintos) do cumprimento da pena, uma vez que a Lei n. 11.464 tem car\u00e1ter processual e, portanto, deve ser aplicada de imediato."}, {"correct": null, "letter": "C", "text": "se reputar\u00e1 cumprido o requisito subjetivo para a progress\u00e3o de regime quando Felipe completar 1/6 (um sexto) do cumprimento da pena, uma vez que o crime foi praticado antes da Lei n. 11.464."}, {"correct": null, "letter": "D", "text": "se reputar\u00e1 cumprido o requisito subjetivo para a progress\u00e3o de regime quando Felipe completar 2/5 (dois quintos) do cumprimento da pena, uma vez que a Lei n. 11.464 tem car\u00e1ter processual e, portanto, deve ser aplicada de imediato."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Filipe foi condenado em janeiro de 2011 \u00e0 pena de cinco anos de reclus\u00e3o pela pr\u00e1tica do crime de tr\u00e1fico de drogas, ocorrido em 2006.\n\n Considerando-se que a Lei n. 11.464, que modificou o per\u00edodo para a progress\u00e3o de regime nos crimes hediondos para 2/5 (dois quintos) em caso de r\u00e9u prim\u00e1rio, foi publicada em mar\u00e7o de 2007, \u00e9 correto afirmar que",
+        "filename": "2013-10.txt",
+        "number": "60",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "se reputar\u00e1 cumprido o requisito objetivo para a progress\u00e3o de regime quando Felipe completar 1/6 (um sexto) do cumprimento da pena, uma vez que o crime foi praticado antes da Lei n. 11.464."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "se reputar\u00e1 cumprido o requisito objetivo para a progress\u00e3o de regime quando Felipe completar 2/5 (dois quintos) do cumprimento da pena, uma vez que a Lei n. 11.464 tem car\u00e1ter processual e, portanto, deve ser aplicada de imediato."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "se reputar\u00e1 cumprido o requisito subjetivo para a progress\u00e3o de regime quando Felipe completar 1/6 (um sexto) do cumprimento da pena, uma vez que o crime foi praticado antes da Lei n. 11.464."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "se reputar\u00e1 cumprido o requisito subjetivo para a progress\u00e3o de regime quando Felipe completar 2/5 (dois quintos) do cumprimento da pena, uma vez que a Lei n. 11.464 tem car\u00e1ter processual e, portanto, deve ser aplicada de imediato."
+            }
+        ],
+        "valid": true
+    }
+]

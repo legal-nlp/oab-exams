@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "M\u00e1rio inscreveu-se no programa de incentivo \u00e0 aposentadoria mediante indeniza\u00e7\u00e3o, promovido pela empresa em que trabalha. A respeito do caso proposto, assinale a afirmativa correta.", "filename": "2012-08.txt", "number": "26", "options": [{"correct": null, "letter": "A", "text": "M\u00e1rio pagar\u00e1 imposto de renda, j\u00e1 que o valor recebido tem natureza salarial."}, {"correct": null, "letter": "B", "text": "M\u00e1rio n\u00e3o pagar\u00e1 imposto de renda, j\u00e1 que se trata de verba especial."}, {"correct": true, "letter": "C", "text": "Mario n\u00e3o pagar\u00e1 imposto de renda, j\u00e1 que o valor recebido tem car\u00e1ter indenizat\u00f3rio."}, {"correct": null, "letter": "D", "text": "M\u00e1rio pagar\u00e1 imposto de renda, em homenagem ao princ\u00edpio da isonomia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "M\u00e1rio inscreveu-se no programa de incentivo \u00e0 aposentadoria mediante indeniza\u00e7\u00e3o, promovido pela empresa em que trabalha. A respeito do caso proposto, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "26",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "M\u00e1rio pagar\u00e1 imposto de renda, j\u00e1 que o valor recebido tem natureza salarial."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "M\u00e1rio n\u00e3o pagar\u00e1 imposto de renda, j\u00e1 que se trata de verba especial."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Mario n\u00e3o pagar\u00e1 imposto de renda, j\u00e1 que o valor recebido tem car\u00e1ter indenizat\u00f3rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "M\u00e1rio pagar\u00e1 imposto de renda, em homenagem ao princ\u00edpio da isonomia."
+            }
+        ],
+        "valid": true
+    }
+]

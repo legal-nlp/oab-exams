@@ -1,1 +1,55 @@
-[{"filename": "2016-21.txt", "number": "17", "options": [{"letter": "A", "correct": null, "pmi": [-0.08542428990720487, 0.0, 0.0, 0.0], "text": "est\u00e1 juridicamente perfeito, posto que, nestas circunst\u00e2ncias, a solu\u00e7\u00e3o constitucionalmente expressa \u00e9 o afastamento da incid\u00eancia, no caso concreto, do ato normativo inconstitucional."}, {"letter": "B", "correct": null, "pmi": [-0.06484166790705707, 0.0, 0.0, 0.0], "text": "n\u00e3o segue os par\u00e2metros constitucionais, pois deveria ter declarado, expressamente, a inconstitucionalidade do ato normativo que fundamentou a senten\u00e7a proferida pelo ju\u00edzo a quo."}, {"letter": "C", "correct": null, "pmi": [-0.19954630850673663, -0.004749634364507668, 0.0, 0.0], "text": "est\u00e1 correto, posto que a 3\u00aa Turma C\u00edvel, como \u00f3rg\u00e3o especial que \u00e9, pode arrogar para si a compet\u00eancia do \u00d3rg\u00e3o Pleno do Tribunal de Justi\u00e7a do Estado Alfa."}, {"letter": "D", "correct": true, "pmi": [-0.08252575915443629, 0.0, 0.0, 0.0], "text": "est\u00e1 incorreto, posto que violou a cl\u00e1usula de reserva de plen\u00e1rio, ainda que n\u00e3o tenha declarado expressamente a inconstitucionalidade do ato normativo."}], "areas": [], "enum": "A parte autora em um processo judicial, inconformada com a senten\u00e7a de primeiro grau de jurisdi\u00e7\u00e3o que se embasou no ato normativo X, apela da decis\u00e3o porque, no seu entender, esse ato normativo seria inconstitucional.\n\n A 3\u00aa C\u00e2mara C\u00edvel do Tribunal de Justi\u00e7a do Estado Alfa, ao analisar a apela\u00e7\u00e3o interposta, reconhece que assiste raz\u00e3o \u00e0 recorrente, mais especificamente no que se refere \u00e0 inconstitucionalidade do referido ato normativo X. Ciente da exist\u00eancia de cl\u00e1usula de reserva de plen\u00e1rio, a referida Turma d\u00e1 provimento ao recurso sem declarar expressamente a inconstitucionalidade do ato normativo X, embora tenha afastado a sua incid\u00eancia no caso concreto.\n\n De acordo com o sistema jur\u00eddico-constitucional brasileiro, o ac\u00f3rd\u00e3o proferido pela 3\u00aa Turma C\u00edvel", "valid": true}]
+[
+    {
+        "filename": "2016-21.txt",
+        "number": "17",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.08542428990720487,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "est\u00e1 juridicamente perfeito, posto que, nestas circunst\u00e2ncias, a solu\u00e7\u00e3o constitucionalmente expressa \u00e9 o afastamento da incid\u00eancia, no caso concreto, do ato normativo inconstitucional."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.06484166790705707,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o segue os par\u00e2metros constitucionais, pois deveria ter declarado, expressamente, a inconstitucionalidade do ato normativo que fundamentou a senten\u00e7a proferida pelo ju\u00edzo a quo."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.19954630850673663,
+                    -0.004749634364507668,
+                    0.0,
+                    0.0
+                ],
+                "text": "est\u00e1 correto, posto que a 3\u00aa Turma C\u00edvel, como \u00f3rg\u00e3o especial que \u00e9, pode arrogar para si a compet\u00eancia do \u00d3rg\u00e3o Pleno do Tribunal de Justi\u00e7a do Estado Alfa."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.08252575915443629,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "est\u00e1 incorreto, posto que violou a cl\u00e1usula de reserva de plen\u00e1rio, ainda que n\u00e3o tenha declarado expressamente a inconstitucionalidade do ato normativo."
+            }
+        ],
+        "areas": [],
+        "enum": "A parte autora em um processo judicial, inconformada com a senten\u00e7a de primeiro grau de jurisdi\u00e7\u00e3o que se embasou no ato normativo X, apela da decis\u00e3o porque, no seu entender, esse ato normativo seria inconstitucional.\n\n A 3\u00aa C\u00e2mara C\u00edvel do Tribunal de Justi\u00e7a do Estado Alfa, ao analisar a apela\u00e7\u00e3o interposta, reconhece que assiste raz\u00e3o \u00e0 recorrente, mais especificamente no que se refere \u00e0 inconstitucionalidade do referido ato normativo X. Ciente da exist\u00eancia de cl\u00e1usula de reserva de plen\u00e1rio, a referida Turma d\u00e1 provimento ao recurso sem declarar expressamente a inconstitucionalidade do ato normativo X, embora tenha afastado a sua incid\u00eancia no caso concreto.\n\n De acordo com o sistema jur\u00eddico-constitucional brasileiro, o ac\u00f3rd\u00e3o proferido pela 3\u00aa Turma C\u00edvel",
+        "valid": true
+    }
+]

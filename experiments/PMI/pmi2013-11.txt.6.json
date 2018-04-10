@@ -1,1 +1,57 @@
-[{"number": "6", "options": [{"text": "M\u00e1rio n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, uma vez que tendo celebrado contrato de honor\u00e1rios, ele pode cobrar de seu cliente o valor que entender compat\u00edvel com o trabalho desenvolvido.", "letter": "A", "correct": null, "pmi": [-0.022725646212798437, 0.0, 0.0, 0.0]}, {"text": "M\u00e1rio n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois causas trabalhistas s\u00e3o muito complexas, justificando-se, assim, a cobran\u00e7a de honor\u00e1rios elevados.", "letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "M\u00e1rio violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, segundo o qual os honor\u00e1rios profissionais devem ser fixados com modera\u00e7\u00e3o.", "letter": "C", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "M\u00e1rio violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, que veda a cobran\u00e7a de honor\u00e1rios profissionais com base em percentual do valor a ser recebido pela parte.", "letter": "D", "correct": null, "pmi": [-0.00815213946270447, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2013-11.txt", "areas": ["ETHICS"], "enum": "O advogado M\u00e1rio celebrou contrato de honor\u00e1rios com seu cliente, para atuar em reclama\u00e7\u00e3o trabalhista. No contrato restou estabelecido que, em caso de \u00eaxito, ele receberia, a t\u00edtulo de honor\u00e1rios contratuais, o valor de 60% do que fosse recebido pelo cliente, que havia sido dispensado pelo empregador e econtra-se em situa\u00e7\u00e3o econ\u00f4mica desfavor\u00e1vel.\n\n A respeito do caso apresentado, assinale a afirmativa correta."}]
+[
+    {
+        "number": "6",
+        "options": [
+            {
+                "text": "M\u00e1rio n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, uma vez que tendo celebrado contrato de honor\u00e1rios, ele pode cobrar de seu cliente o valor que entender compat\u00edvel com o trabalho desenvolvido.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.022725646212798437,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "M\u00e1rio n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois causas trabalhistas s\u00e3o muito complexas, justificando-se, assim, a cobran\u00e7a de honor\u00e1rios elevados.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "M\u00e1rio violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, segundo o qual os honor\u00e1rios profissionais devem ser fixados com modera\u00e7\u00e3o.",
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "M\u00e1rio violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, que veda a cobran\u00e7a de honor\u00e1rios profissionais com base em percentual do valor a ser recebido pela parte.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.00815213946270447,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2013-11.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado M\u00e1rio celebrou contrato de honor\u00e1rios com seu cliente, para atuar em reclama\u00e7\u00e3o trabalhista. No contrato restou estabelecido que, em caso de \u00eaxito, ele receberia, a t\u00edtulo de honor\u00e1rios contratuais, o valor de 60% do que fosse recebido pelo cliente, que havia sido dispensado pelo empregador e econtra-se em situa\u00e7\u00e3o econ\u00f4mica desfavor\u00e1vel.\n\n A respeito do caso apresentado, assinale a afirmativa correta."
+    }
+]

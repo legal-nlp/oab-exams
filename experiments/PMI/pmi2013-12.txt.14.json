@@ -1,1 +1,57 @@
-[{"options": [{"text": "Os deputados federais n\u00e3o podem ser presos em hip\u00f3tese alguma, pois s\u00e3o inviol\u00e1veis, na forma prevista na Constitui\u00e7\u00e3o da Rep\u00fablica.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "O processo criminal contra o deputado federal dever\u00e1 tramitar perante o Superior Tribunal de Justi\u00e7a e tem procedimento especial previsto em lei.", "pmi": [-0.3489215238315215, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "O tribunal competente, recebida den\u00fancia contra o deputado federal por crime ocorrido ap\u00f3s a diploma\u00e7\u00e3o, dar\u00e1 ci\u00eancia \u00e0 C\u00e2mara dos Deputados, que poder\u00e1 sustar o andamento da a\u00e7\u00e3o por iniciativa de partido pol\u00edtico nela representado e pelo voto da maioria de seus membros, at\u00e9 a decis\u00e3o final.", "pmi": [-0.2058333539185362, 0.0, 0.0, 0.0], "correct": true, "letter": "C"}, {"text": "Os membros do Congresso Nacional, desde a expedi\u00e7\u00e3o do diploma, n\u00e3o poder\u00e3o ser processados criminalmente sem pr\u00e9via licen\u00e7a de sua Casa; n\u00e3o sendo concedida a licen\u00e7a, ficar\u00e1 suspensa a prescri\u00e7\u00e3o, at\u00e9 o fim do mandato.", "pmi": [-0.10007291188068153, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "areas": ["CONSTITUTIONAL"], "valid": true, "enum": "O Deputado Federal \u201cY\u201d foi objeto de extensa investiga\u00e7\u00e3o, e diversas reportagens jornal\u00edsticas indicaram sua participa\u00e7\u00e3o em fraudes contra a previd\u00eancia social. Al\u00e9m disso, inqu\u00e9ritos da pol\u00edcia chegaram a fortes ind\u00edcios de diversas pr\u00e1ticas criminosas por uma quadrilha por ele liderada. O Minist\u00e9rio P\u00fablico ofereceu den\u00fancia contra sete acusados, incluindo o parlamentar.\n\n Com rela\u00e7\u00e3o ao caso apresentado, assinale a afirmativa correta.", "number": "14", "filename": "2013-12.txt"}]
+[
+    {
+        "options": [
+            {
+                "text": "Os deputados federais n\u00e3o podem ser presos em hip\u00f3tese alguma, pois s\u00e3o inviol\u00e1veis, na forma prevista na Constitui\u00e7\u00e3o da Rep\u00fablica.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "O processo criminal contra o deputado federal dever\u00e1 tramitar perante o Superior Tribunal de Justi\u00e7a e tem procedimento especial previsto em lei.",
+                "pmi": [
+                    -0.3489215238315215,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "O tribunal competente, recebida den\u00fancia contra o deputado federal por crime ocorrido ap\u00f3s a diploma\u00e7\u00e3o, dar\u00e1 ci\u00eancia \u00e0 C\u00e2mara dos Deputados, que poder\u00e1 sustar o andamento da a\u00e7\u00e3o por iniciativa de partido pol\u00edtico nela representado e pelo voto da maioria de seus membros, at\u00e9 a decis\u00e3o final.",
+                "pmi": [
+                    -0.2058333539185362,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "text": "Os membros do Congresso Nacional, desde a expedi\u00e7\u00e3o do diploma, n\u00e3o poder\u00e3o ser processados criminalmente sem pr\u00e9via licen\u00e7a de sua Casa; n\u00e3o sendo concedida a licen\u00e7a, ficar\u00e1 suspensa a prescri\u00e7\u00e3o, at\u00e9 o fim do mandato.",
+                "pmi": [
+                    -0.10007291188068153,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "valid": true,
+        "enum": "O Deputado Federal \u201cY\u201d foi objeto de extensa investiga\u00e7\u00e3o, e diversas reportagens jornal\u00edsticas indicaram sua participa\u00e7\u00e3o em fraudes contra a previd\u00eancia social. Al\u00e9m disso, inqu\u00e9ritos da pol\u00edcia chegaram a fortes ind\u00edcios de diversas pr\u00e1ticas criminosas por uma quadrilha por ele liderada. O Minist\u00e9rio P\u00fablico ofereceu den\u00fancia contra sete acusados, incluindo o parlamentar.\n\n Com rela\u00e7\u00e3o ao caso apresentado, assinale a afirmativa correta.",
+        "number": "14",
+        "filename": "2013-12.txt"
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Pedro \u00e9 empregado da sociedade empres\u00e1ria X e, em determinado m\u00eas, recebeu di\u00e1rias na ordem de 70% do seu sal\u00e1rio, sem ter prestado qualquer conta ao empregador.  De acordo com a CLT e o entendimento consolidado do TST, assinale a afirmativa correta.", "filename": "2017-22.txt", "number": "72", "options": [{"correct": true, "letter": "A", "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade."}, {"correct": null, "letter": "B", "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado."}, {"correct": null, "letter": "C", "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese."}, {"correct": null, "letter": "D", "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Pedro \u00e9 empregado da sociedade empres\u00e1ria X e, em determinado m\u00eas, recebeu di\u00e1rias na ordem de 70% do seu sal\u00e1rio, sem ter prestado qualquer conta ao empregador.  De acordo com a CLT e o entendimento consolidado do TST, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "number": "72",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria."
+            }
+        ],
+        "valid": true
+    }
+]

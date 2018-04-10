@@ -1,1 +1,57 @@
-[{"enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria ajuizada por Alfredo em face de Thales, \u00e9 prolatada senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de determinada quantia em dinheiro. Ainda na pend\u00eancia do julgamento da apela\u00e7\u00e3o interposta contra a senten\u00e7a, Alfredo constata que Thales est\u00e1 adotando uma s\u00e9rie de provid\u00eancias destinadas a alienar todos os seus bens, o que poder\u00e1 frustrar o cumprimento da senten\u00e7a, caso esta seja confirmada pelo tribunal.\n\n A medida cautelar espec\u00edfica que dever\u00e1 ser requerida por Alfredo \u00e9 o(a)", "filename": "2011-03.txt", "number": "26", "areas": ["CIVIL-PROCEDURE"], "valid": true, "options": [{"pmi": [-0.1694670395930504, 0, 0, 0], "letter": "A", "correct": null, "text": "justifica\u00e7\u00e3o."}, {"pmi": [0.0, 0, 0, 0], "letter": "B", "correct": null, "text": "sequestro."}, {"pmi": [0.0, 0, 0, 0], "letter": "C", "correct": true, "text": "arresto."}, {"pmi": [-0.140185584568444, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "produ\u00e7\u00e3o antecipada de provas."}]}]
+[
+    {
+        "enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria ajuizada por Alfredo em face de Thales, \u00e9 prolatada senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de determinada quantia em dinheiro. Ainda na pend\u00eancia do julgamento da apela\u00e7\u00e3o interposta contra a senten\u00e7a, Alfredo constata que Thales est\u00e1 adotando uma s\u00e9rie de provid\u00eancias destinadas a alienar todos os seus bens, o que poder\u00e1 frustrar o cumprimento da senten\u00e7a, caso esta seja confirmada pelo tribunal.\n\n A medida cautelar espec\u00edfica que dever\u00e1 ser requerida por Alfredo \u00e9 o(a)",
+        "filename": "2011-03.txt",
+        "number": "26",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.1694670395930504,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "justifica\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "sequestro."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "arresto."
+            },
+            {
+                "pmi": [
+                    -0.140185584568444,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "produ\u00e7\u00e3o antecipada de provas."
+            }
+        ]
+    }
+]

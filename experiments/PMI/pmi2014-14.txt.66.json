@@ -1,1 +1,57 @@
-[{"valid": true, "areas": ["CRIMINAL-PROCEDURE"], "number": "66", "enum": "Eduardo foi denunciado pelo crime de estupro de vulner\u00e1vel. Durante a instru\u00e7\u00e3o, negou a autoria do crime, afirmando estar, na \u00e9poca dos fatos, no munic\u00edpio \u201cC\u201d, distante dois quil\u00f4metros do local dos fatos. Como a afirmativa n\u00e3o foi corroborada por outros elementos de convic\u00e7\u00e3o, o Juiz entendeu que a palavra da v\u00edtima deveria ser considerada, condenando Eduardo. A defesa recorreu, mas ap\u00f3s longo debate nos Tribunais Superiores, a decis\u00e3o transitou em julgado desfavoravelmente ao r\u00e9u. Eduardo dirigiu-se, ent\u00e3o, ao munic\u00edpio \u201cC\u201d, em busca de provas que pudessem apontar a sua inoc\u00eancia, e, depois de muito procurar, conseguiu as filmagens de um estabelecimento comercial, que estavam esquecidas em um galp\u00e3o velho. Nas filmagens, Eduardo aparece comprando lanche em uma padaria. Com a prova em m\u00e3os, procura seu advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a provid\u00eancia a ser adotada pelo advogado de Eduardo.", "filename": "2014-14.txt", "options": [{"text": "O advogado deve ingressar com agravo em execu\u00e7\u00e3o, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.", "correct": null, "pmi": [-0.004386775998814644, 0.0, 0.0, 0.0], "letter": "A"}, {"text": "O advogado deve ingressar com revis\u00e3o criminal, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.", "correct": true, "pmi": [-0.004386775998814644, 0.0, 0.0, 0.0], "letter": "B"}, {"text": "O advogado deve ingressar com reclama\u00e7\u00e3o constitucional, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.", "correct": null, "pmi": [-0.004386775998814644, 0.0, 0.0, 0.0], "letter": "C"}, {"text": "O advogado deve ingressar com a\u00e7\u00e3o de habeas corpus, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.", "correct": null, "pmi": [-0.003987978180740585, 0.0, 0.0, 0.0], "letter": "D"}]}]
+[
+    {
+        "valid": true,
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "number": "66",
+        "enum": "Eduardo foi denunciado pelo crime de estupro de vulner\u00e1vel. Durante a instru\u00e7\u00e3o, negou a autoria do crime, afirmando estar, na \u00e9poca dos fatos, no munic\u00edpio \u201cC\u201d, distante dois quil\u00f4metros do local dos fatos. Como a afirmativa n\u00e3o foi corroborada por outros elementos de convic\u00e7\u00e3o, o Juiz entendeu que a palavra da v\u00edtima deveria ser considerada, condenando Eduardo. A defesa recorreu, mas ap\u00f3s longo debate nos Tribunais Superiores, a decis\u00e3o transitou em julgado desfavoravelmente ao r\u00e9u. Eduardo dirigiu-se, ent\u00e3o, ao munic\u00edpio \u201cC\u201d, em busca de provas que pudessem apontar a sua inoc\u00eancia, e, depois de muito procurar, conseguiu as filmagens de um estabelecimento comercial, que estavam esquecidas em um galp\u00e3o velho. Nas filmagens, Eduardo aparece comprando lanche em uma padaria. Com a prova em m\u00e3os, procura seu advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a provid\u00eancia a ser adotada pelo advogado de Eduardo.",
+        "filename": "2014-14.txt",
+        "options": [
+            {
+                "text": "O advogado deve ingressar com agravo em execu\u00e7\u00e3o, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
+                "correct": null,
+                "pmi": [
+                    -0.004386775998814644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "text": "O advogado deve ingressar com revis\u00e3o criminal, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
+                "correct": true,
+                "pmi": [
+                    -0.004386775998814644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "text": "O advogado deve ingressar com reclama\u00e7\u00e3o constitucional, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
+                "correct": null,
+                "pmi": [
+                    -0.004386775998814644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "text": "O advogado deve ingressar com a\u00e7\u00e3o de habeas corpus, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
+                "correct": null,
+                "pmi": [
+                    -0.003987978180740585,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ]
+    }
+]

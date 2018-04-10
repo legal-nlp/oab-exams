@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2017-22.txt", "areas": [null], "enum": "Festas Ltda., compradora, celebrou, ap\u00f3s negocia\u00e7\u00f5es parit\u00e1rias, contrato de compra e venda com Chocolates S/A, vendedora. O objeto do contrato eram 100 caixas de chocolate, pelo pre\u00e7o total de R$ 1.000,00, a serem entregues no dia 1\u00ba de novembro de 2016, data em que se comemorou o anivers\u00e1rio de 50 anos de exist\u00eancia da sociedade.  No contrato, estava prevista uma multa de R$ 1.000,00 caso houvesse atraso na entrega. Chocolates S/A, devido ao excesso de encomendas, n\u00e3o conseguiu entregar as caixas na data combinada, mas somente dois dias depois. Festas Ltda., dizendo que a comemora\u00e7\u00e3o j\u00e1 havia acontecido, recusou-se a receber e ainda cobrou a multa. Por sua vez, Chocolates S/A n\u00e3o aceitou pagar a multa, afirmando que o atraso de dois dias n\u00e3o justificava sua cobran\u00e7a e que o produto vendido era o melhor do mercado.  Sobre os fatos narrados, assinale a afirmativa correta.", "options": [{"pmi": [-0.24942832200577866, 0.0, 0.0, 0.0], "letter": "A", "correct": true, "text": "Festas Ltda. tem raz\u00e3o, pois houve o inadimplemento absoluto por perda da utilidade da presta\u00e7\u00e3o e a multa \u00e9 uma cl\u00e1usula penal compensat\u00f3ria."}, {"pmi": [-0.5199431111754265, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "Chocolates S/A n\u00e3o deve pagar a multa, pois a cl\u00e1usula penal, quantificada em valor id\u00eantico ao valor da presta\u00e7\u00e3o principal, \u00e9 abusiva."}, {"pmi": [-0.7617090065079589, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "Chocolates S/A adimpliu sua presta\u00e7\u00e3o, ainda que dois dias depois, raz\u00e3o pela qual nada deve a t\u00edtulo de multa."}, {"pmi": [-0.7976143999786977, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "Festas Ltda. s\u00f3 pode exigir 2% de multa (R$ 20,00), teto da cl\u00e1usula penal, segundo o C\u00f3digo de Defesa do Consumidor."}], "number": "40"}]
+[
+    {
+        "valid": true,
+        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ],
+        "enum": "Festas Ltda., compradora, celebrou, ap\u00f3s negocia\u00e7\u00f5es parit\u00e1rias, contrato de compra e venda com Chocolates S/A, vendedora. O objeto do contrato eram 100 caixas de chocolate, pelo pre\u00e7o total de R$ 1.000,00, a serem entregues no dia 1\u00ba de novembro de 2016, data em que se comemorou o anivers\u00e1rio de 50 anos de exist\u00eancia da sociedade.  No contrato, estava prevista uma multa de R$ 1.000,00 caso houvesse atraso na entrega. Chocolates S/A, devido ao excesso de encomendas, n\u00e3o conseguiu entregar as caixas na data combinada, mas somente dois dias depois. Festas Ltda., dizendo que a comemora\u00e7\u00e3o j\u00e1 havia acontecido, recusou-se a receber e ainda cobrou a multa. Por sua vez, Chocolates S/A n\u00e3o aceitou pagar a multa, afirmando que o atraso de dois dias n\u00e3o justificava sua cobran\u00e7a e que o produto vendido era o melhor do mercado.  Sobre os fatos narrados, assinale a afirmativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.24942832200577866,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true,
+                "text": "Festas Ltda. tem raz\u00e3o, pois houve o inadimplemento absoluto por perda da utilidade da presta\u00e7\u00e3o e a multa \u00e9 uma cl\u00e1usula penal compensat\u00f3ria."
+            },
+            {
+                "pmi": [
+                    -0.5199431111754265,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "Chocolates S/A n\u00e3o deve pagar a multa, pois a cl\u00e1usula penal, quantificada em valor id\u00eantico ao valor da presta\u00e7\u00e3o principal, \u00e9 abusiva."
+            },
+            {
+                "pmi": [
+                    -0.7617090065079589,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "Chocolates S/A adimpliu sua presta\u00e7\u00e3o, ainda que dois dias depois, raz\u00e3o pela qual nada deve a t\u00edtulo de multa."
+            },
+            {
+                "pmi": [
+                    -0.7976143999786977,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "Festas Ltda. s\u00f3 pode exigir 2% de multa (R$ 20,00), teto da cl\u00e1usula penal, segundo o C\u00f3digo de Defesa do Consumidor."
+            }
+        ],
+        "number": "40"
+    }
+]

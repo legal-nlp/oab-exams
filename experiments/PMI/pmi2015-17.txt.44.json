@@ -1,1 +1,55 @@
-[{"enum": "O adolescente N. ficou conhecido no bairro onde mora por praticar roubos e furtos e ter a suposta habilidade de nunca ter sido apreendido. Certa noite, N. saiu com o prop\u00f3sito de praticar novos atos de subtra\u00e7\u00e3o de coisa alheia. Diante da rea\u00e7\u00e3o de uma v\u00edtima a quem amea\u00e7ava, N. disparou sua arma de fogo, levando a v\u00edtima a \u00f3bito. N. n\u00e3o conseguiu fugir, sendo apreendido por policiais que passavam pelo local, no momento em que praticava o ato infracional.\n\n Sobre o caso narrado, assinale a op\u00e7\u00e3o correta.", "options": [{"letter": "A", "text": "A medida de interna\u00e7\u00e3o n\u00e3o ter\u00e1 cabimento contra N., uma vez que somente poder\u00e1 ser aplicada em caso de reincid\u00eancia no cometimento de infra\u00e7\u00f5es graves.", "pmi": [-0.31046469635710805, 0.0, 0.0, 0.0], "correct": null}, {"letter": "B", "text": "Mesmo estando privado de liberdade, N. poder\u00e1 entrevistar-se pessoalmente com o representante do Minist\u00e9rio P\u00fablico, mas n\u00e3o ter\u00e1 direito a peticionar diretamente a este ou a qualquer autoridade que seja.", "pmi": [-0.30400552120095203, 0.0, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "A medida de interna\u00e7\u00e3o de N. \u00e9 cab\u00edvel por se tratar de ato infracional praticado com amea\u00e7a e viol\u00eancia contra pessoa, mesmo que n\u00e3o seja caso de reincid\u00eancia.", "pmi": [-0.2839469272466192, 0.0, 0.0, 0.0], "correct": true}, {"letter": "D", "text": "Caso N. seja condenado por senten\u00e7a ao cumprimento de medida de interna\u00e7\u00e3o, e somente nesse caso, tornam-se obrigat\u00f3rias as intima\u00e7\u00f5es do seu defensor e dos pais ou respons\u00e1veis, mesmo que o adolescente tenha sido intimado pessoalmente.", "pmi": [-0.17948905272628551, 0.0, 0.0, 0.0], "correct": null}], "number": "44", "areas": [], "valid": true, "filename": "2015-17.txt"}]
+[
+    {
+        "enum": "O adolescente N. ficou conhecido no bairro onde mora por praticar roubos e furtos e ter a suposta habilidade de nunca ter sido apreendido. Certa noite, N. saiu com o prop\u00f3sito de praticar novos atos de subtra\u00e7\u00e3o de coisa alheia. Diante da rea\u00e7\u00e3o de uma v\u00edtima a quem amea\u00e7ava, N. disparou sua arma de fogo, levando a v\u00edtima a \u00f3bito. N. n\u00e3o conseguiu fugir, sendo apreendido por policiais que passavam pelo local, no momento em que praticava o ato infracional.\n\n Sobre o caso narrado, assinale a op\u00e7\u00e3o correta.",
+        "options": [
+            {
+                "letter": "A",
+                "text": "A medida de interna\u00e7\u00e3o n\u00e3o ter\u00e1 cabimento contra N., uma vez que somente poder\u00e1 ser aplicada em caso de reincid\u00eancia no cometimento de infra\u00e7\u00f5es graves.",
+                "pmi": [
+                    -0.31046469635710805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "text": "Mesmo estando privado de liberdade, N. poder\u00e1 entrevistar-se pessoalmente com o representante do Minist\u00e9rio P\u00fablico, mas n\u00e3o ter\u00e1 direito a peticionar diretamente a este ou a qualquer autoridade que seja.",
+                "pmi": [
+                    -0.30400552120095203,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "A medida de interna\u00e7\u00e3o de N. \u00e9 cab\u00edvel por se tratar de ato infracional praticado com amea\u00e7a e viol\u00eancia contra pessoa, mesmo que n\u00e3o seja caso de reincid\u00eancia.",
+                "pmi": [
+                    -0.2839469272466192,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "D",
+                "text": "Caso N. seja condenado por senten\u00e7a ao cumprimento de medida de interna\u00e7\u00e3o, e somente nesse caso, tornam-se obrigat\u00f3rias as intima\u00e7\u00f5es do seu defensor e dos pais ou respons\u00e1veis, mesmo que o adolescente tenha sido intimado pessoalmente.",
+                "pmi": [
+                    -0.17948905272628551,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "number": "44",
+        "areas": [],
+        "valid": true,
+        "filename": "2015-17.txt"
+    }
+]

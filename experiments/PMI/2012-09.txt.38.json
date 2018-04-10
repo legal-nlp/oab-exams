@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "Marcelo firmou com Augusto contrato de compra e venda de im\u00f3vel, tendo sido instituindo no contrato o pacto de preemp\u00e7\u00e3o. Acerca do instituto da preemp\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2012-09.txt", "number": "38", "options": [{"correct": null, "letter": "A", "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo se reserva ao direito de recobrar o im\u00f3vel vendido a Augusto no prazo m\u00e1ximo de 3 anos, restituindo o pre\u00e7o recebido e reembolsando as despesas do comprador."}, {"correct": true, "letter": "B", "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo imp\u00f5e a Augusto a obriga\u00e7\u00e3o de oferecer a coisa quando vender, ou dar em pagamento, para que use de seu direito de prela\u00e7\u00e3o na compra, tanto por tanto."}, {"correct": null, "letter": "C", "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo reserva para si a propriedade do im\u00f3vel at\u00e9 o momento em que Augusto realize o pagamento integral do pre\u00e7o."}, {"correct": null, "letter": "D", "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo, enquanto constituir faculdade de exerc\u00edcio, poder\u00e1 ceder ou transferir por ato inter vivos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Marcelo firmou com Augusto contrato de compra e venda de im\u00f3vel, tendo sido instituindo no contrato o pacto de preemp\u00e7\u00e3o. Acerca do instituto da preemp\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "38",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo se reserva ao direito de recobrar o im\u00f3vel vendido a Augusto no prazo m\u00e1ximo de 3 anos, restituindo o pre\u00e7o recebido e reembolsando as despesas do comprador."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo imp\u00f5e a Augusto a obriga\u00e7\u00e3o de oferecer a coisa quando vender, ou dar em pagamento, para que use de seu direito de prela\u00e7\u00e3o na compra, tanto por tanto."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo reserva para si a propriedade do im\u00f3vel at\u00e9 o momento em que Augusto realize o pagamento integral do pre\u00e7o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Trata-se de pacto adjeto ao contrato de compra e venda em que Marcelo, enquanto constituir faculdade de exerc\u00edcio, poder\u00e1 ceder ou transferir por ato inter vivos."
+            }
+        ],
+        "valid": true
+    }
+]

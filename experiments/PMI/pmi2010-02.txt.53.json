@@ -1,1 +1,57 @@
-[{"options": [{"text": "ela est\u00e1 correta, uma vez que o referido artigo afirma que nos casos de interposi\u00e7\u00e3o do recurso de agravo por instrumento \u00e9 necess\u00e1ria a comprova\u00e7\u00e3o do dep\u00f3sito recursal de 50% do valor do dep\u00f3sito referente ao recurso que se pretende dar seguimento.", "letter": "A", "correct": null, "pmi": [-0.05977943096642116, 0.0, 0.0, 0.0]}, {"text": "ela est\u00e1 correta, uma vez que o preparo \u00e9 requisito de admissibilidade recursal e, por isso, n\u00e3o pode estar ausente, sob pena de n\u00e3o conhecimento do recurso.", "letter": "B", "correct": null, "pmi": [-0.06370776899111968, 0.0, 0.0, 0.0]}, {"text": "ela est\u00e1 equivocada, pois em que pese haver a necessidade do preparo para a interposi\u00e7\u00e3o do recurso de agravo por instrumento, no problema acima, o pedido foi julgado improcedente sendo recorrente o autor, portanto, dispens\u00e1vel o preparo no que se refere a dep\u00f3sito recursal.", "letter": "C", "correct": true, "pmi": [-0.07453968804395544, 0.0, 0.0, 0.0]}, {"text": "ela est\u00e1 equivocada, pois o recurso de agravo por instrumento, na esfera laboral \u00e9 o \u00fanico, juntamente com os embargos por declara\u00e7\u00e3o, que n\u00e3o necessita de preparo para a sua interposi\u00e7\u00e3o.", "letter": "D", "correct": null, "pmi": [-0.02316215207404848, 0.0, 0.0, 0.0]}], "number": "53", "areas": ["LABOUR-PROCEDURE"], "enum": "Pedro ajuizou a\u00e7\u00e3o em face de seu empregador objetivando a satisfa\u00e7\u00e3o dos pedidos de horas extraordin\u00e1rias, suas integra\u00e7\u00f5es e consect\u00e1rias. O seu pedido foi julgado improcedente. Recorre ordinariamente, pretendendo a substitui\u00e7\u00e3o da decis\u00e3o por outra de diverso teor, tempestivamente.\n\n Na an\u00e1lise da primeira admissibilidade recursal h\u00e1 um equ\u00edvoco, e se nega seguimento ao recurso por intempestivo. Desta decis\u00e3o, tempestivamente, se interp\u00f5e o recurso de agravo por instrumento, que tem seu conhecimento negado pelo Tribunal Regional, por aus\u00eancia do dep\u00f3sito recursal referente \u00e0 metade do valor do recurso principal que se pretendia destrancar, nos termos do artigo 899, \u00a7 7\u00ba da Consolida\u00e7\u00e3o das Leis do Trabalho.\n\n Quanto \u00e0 conduta do Desembargador Relator, \u00e9 corretor afirmar que:", "filename": "2010-02.txt", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "text": "ela est\u00e1 correta, uma vez que o referido artigo afirma que nos casos de interposi\u00e7\u00e3o do recurso de agravo por instrumento \u00e9 necess\u00e1ria a comprova\u00e7\u00e3o do dep\u00f3sito recursal de 50% do valor do dep\u00f3sito referente ao recurso que se pretende dar seguimento.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.05977943096642116,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "ela est\u00e1 correta, uma vez que o preparo \u00e9 requisito de admissibilidade recursal e, por isso, n\u00e3o pode estar ausente, sob pena de n\u00e3o conhecimento do recurso.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.06370776899111968,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "ela est\u00e1 equivocada, pois em que pese haver a necessidade do preparo para a interposi\u00e7\u00e3o do recurso de agravo por instrumento, no problema acima, o pedido foi julgado improcedente sendo recorrente o autor, portanto, dispens\u00e1vel o preparo no que se refere a dep\u00f3sito recursal.",
+                "letter": "C",
+                "correct": true,
+                "pmi": [
+                    -0.07453968804395544,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "ela est\u00e1 equivocada, pois o recurso de agravo por instrumento, na esfera laboral \u00e9 o \u00fanico, juntamente com os embargos por declara\u00e7\u00e3o, que n\u00e3o necessita de preparo para a sua interposi\u00e7\u00e3o.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.02316215207404848,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "53",
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Pedro ajuizou a\u00e7\u00e3o em face de seu empregador objetivando a satisfa\u00e7\u00e3o dos pedidos de horas extraordin\u00e1rias, suas integra\u00e7\u00f5es e consect\u00e1rias. O seu pedido foi julgado improcedente. Recorre ordinariamente, pretendendo a substitui\u00e7\u00e3o da decis\u00e3o por outra de diverso teor, tempestivamente.\n\n Na an\u00e1lise da primeira admissibilidade recursal h\u00e1 um equ\u00edvoco, e se nega seguimento ao recurso por intempestivo. Desta decis\u00e3o, tempestivamente, se interp\u00f5e o recurso de agravo por instrumento, que tem seu conhecimento negado pelo Tribunal Regional, por aus\u00eancia do dep\u00f3sito recursal referente \u00e0 metade do valor do recurso principal que se pretendia destrancar, nos termos do artigo 899, \u00a7 7\u00ba da Consolida\u00e7\u00e3o das Leis do Trabalho.\n\n Quanto \u00e0 conduta do Desembargador Relator, \u00e9 corretor afirmar que:",
+        "filename": "2010-02.txt",
+        "valid": true
+    }
+]

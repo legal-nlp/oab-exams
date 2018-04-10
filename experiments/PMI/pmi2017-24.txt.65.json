@@ -1,1 +1,57 @@
-[{"filename": "2017-24.txt", "options": [{"text": "o n\u00e3o conhecimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar recurso de embargos infringentes em busca da absolvi\u00e7\u00e3o de Jo\u00e3o.", "correct": null, "letter": "A", "pmi": [-0.11432831635080047, 0.0, 0.0, 0.0]}, {"text": "o conhecimento e n\u00e3o provimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar embargos infringentes em busca do reconhecimento do privil\u00e9gio.", "correct": null, "letter": "B", "pmi": [-0.10146104080564991, 0.0, 0.0, 0.0]}, {"text": "o n\u00e3o conhecimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar embargos infringentes em busca do reconhecimento do privil\u00e9gio.", "correct": true, "letter": "C", "pmi": [-0.0963300671290261, 0.0, 0.0, 0.0]}, {"text": "o conhecimento e n\u00e3o provimento dos embargos do Minist\u00e9rio P\u00fablico e n\u00e3o poder\u00e1 apresentar recurso de embargos infringentes.", "correct": null, "letter": "D", "pmi": [-0.16739311068362123, 0.0, 0.0, 0.0]}], "enum": "Jo\u00e3o foi denunciado pela pr\u00e1tica do crime de furto qualificado previsto no Art. 155, \u00a7 4\u00ba, inciso I, do C\u00f3digo Penal. Em primeira inst\u00e2ncia, Jo\u00e3o foi absolvido.\n\n Em sede de recurso de apela\u00e7\u00e3o apresentado pelo Minist\u00e9rio P\u00fablico, houve provimento parcial do recurso, sendo o agente condenado de maneira un\u00e2nime. Apesar da unanimidade na condena\u00e7\u00e3o, o reconhecimento da qualificadora restou afastado por maioria de votos. Ademais, um dos desembargadores ainda votou pelo reconhecimento do privil\u00e9gio do Art. 155, \u00a7 2\u00ba, do CP, mas restou isolado e vencido.\n\n Insatisfeito com a condena\u00e7\u00e3o pelo furto simples, o Minist\u00e9rio P\u00fablico apresenta embargos infringentes em busca do reconhecimento da qualificadora.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, \u00e9 correto afirmar que o advogado de Jo\u00e3o, sob o ponto de vista t\u00e9cnico, dever\u00e1 defender", "number": "65", "areas": [null], "valid": true}]
+[
+    {
+        "filename": "2017-24.txt",
+        "options": [
+            {
+                "text": "o n\u00e3o conhecimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar recurso de embargos infringentes em busca da absolvi\u00e7\u00e3o de Jo\u00e3o.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.11432831635080047,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o conhecimento e n\u00e3o provimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar embargos infringentes em busca do reconhecimento do privil\u00e9gio.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.10146104080564991,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o n\u00e3o conhecimento dos embargos infringentes apresentados pelo Minist\u00e9rio P\u00fablico e apresentar embargos infringentes em busca do reconhecimento do privil\u00e9gio.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.0963300671290261,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o conhecimento e n\u00e3o provimento dos embargos do Minist\u00e9rio P\u00fablico e n\u00e3o poder\u00e1 apresentar recurso de embargos infringentes.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.16739311068362123,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Jo\u00e3o foi denunciado pela pr\u00e1tica do crime de furto qualificado previsto no Art. 155, \u00a7 4\u00ba, inciso I, do C\u00f3digo Penal. Em primeira inst\u00e2ncia, Jo\u00e3o foi absolvido.\n\n Em sede de recurso de apela\u00e7\u00e3o apresentado pelo Minist\u00e9rio P\u00fablico, houve provimento parcial do recurso, sendo o agente condenado de maneira un\u00e2nime. Apesar da unanimidade na condena\u00e7\u00e3o, o reconhecimento da qualificadora restou afastado por maioria de votos. Ademais, um dos desembargadores ainda votou pelo reconhecimento do privil\u00e9gio do Art. 155, \u00a7 2\u00ba, do CP, mas restou isolado e vencido.\n\n Insatisfeito com a condena\u00e7\u00e3o pelo furto simples, o Minist\u00e9rio P\u00fablico apresenta embargos infringentes em busca do reconhecimento da qualificadora.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, \u00e9 correto afirmar que o advogado de Jo\u00e3o, sob o ponto de vista t\u00e9cnico, dever\u00e1 defender",
+        "number": "65",
+        "areas": [
+            null
+        ],
+        "valid": true
+    }
+]

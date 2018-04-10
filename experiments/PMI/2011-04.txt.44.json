@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Em uma a\u00e7\u00e3o fundada na responsabilidade civil por suposto erro m\u00e9dico praticado por Cl\u00e1udio, este foi regularmente citado e, no prazo legal, ofereceu contesta\u00e7\u00e3o. Em raz\u00e3o do seu falecimento, no curso da lide, foi determinada a suspens\u00e3o do processo e a habilita\u00e7\u00e3o de seus herdeiros ou sucessores no polo passivo. Sendo certo que tal irregularidade n\u00e3o foi sanada no prazo fixado pelo ju\u00edzo, \u00e9 correto afirmar, em rela\u00e7\u00e3o ao processo, que", "filename": "2011-04.txt", "number": "44", "options": [{"correct": null, "letter": "A", "text": "deve ser julgado extinto, sem resolu\u00e7\u00e3o do m\u00e9rito, por falta de pressupostos de constitui\u00e7\u00e3o e de desenvolvimento v\u00e1lido e regular."}, {"correct": null, "letter": "B", "text": "deve ter regular prosseguimento, com a declara\u00e7\u00e3o da revelia e a consequente presun\u00e7\u00e3o de veracidade dos fatos alegados na inicial."}, {"correct": true, "letter": "C", "text": "deve prosseguir, com a declara\u00e7\u00e3o da revelia, cuja consequ\u00eancia ficar\u00e1 restrita \u00e0 flu\u00eancia de prazos independentemente de intima\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "deve ser julgado extinto, sem resolu\u00e7\u00e3o do m\u00e9rito, por falta de uma das condi\u00e7\u00f5es da a\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Em uma a\u00e7\u00e3o fundada na responsabilidade civil por suposto erro m\u00e9dico praticado por Cl\u00e1udio, este foi regularmente citado e, no prazo legal, ofereceu contesta\u00e7\u00e3o. Em raz\u00e3o do seu falecimento, no curso da lide, foi determinada a suspens\u00e3o do processo e a habilita\u00e7\u00e3o de seus herdeiros ou sucessores no polo passivo. Sendo certo que tal irregularidade n\u00e3o foi sanada no prazo fixado pelo ju\u00edzo, \u00e9 correto afirmar, em rela\u00e7\u00e3o ao processo, que",
+        "filename": "2011-04.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "deve ser julgado extinto, sem resolu\u00e7\u00e3o do m\u00e9rito, por falta de pressupostos de constitui\u00e7\u00e3o e de desenvolvimento v\u00e1lido e regular."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "deve ter regular prosseguimento, com a declara\u00e7\u00e3o da revelia e a consequente presun\u00e7\u00e3o de veracidade dos fatos alegados na inicial."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "deve prosseguir, com a declara\u00e7\u00e3o da revelia, cuja consequ\u00eancia ficar\u00e1 restrita \u00e0 flu\u00eancia de prazos independentemente de intima\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "deve ser julgado extinto, sem resolu\u00e7\u00e3o do m\u00e9rito, por falta de uma das condi\u00e7\u00f5es da a\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

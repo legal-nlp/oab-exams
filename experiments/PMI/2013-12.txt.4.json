@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Fernanda, advogada regularmente inscrita nos quadros da OAB, atua, individualmente, sem s\u00f3cios, em seu escrit\u00f3rio situado no centro da cidade \u201cZ\u201d, onde recebe os seus clientes para atividades de assessoria e consultoria, atuando tamb\u00e9m no contencioso c\u00edvel, administrativo e trabalhista. Em visita de cortesia, recebe sua prima Giselda que, estudando Economia, tem acesso a v\u00e1rias pessoas de prestigio social, econ\u00f4mico e financeiro, em raz\u00e3o da sua atividade como assessora da diretoria de associa\u00e7\u00e3o empresarial. Por for\u00e7a desses v\u00ednculos, sua prima come\u00e7a a indicar clientes para a advogada, que amplia o seu escrit\u00f3rio e passa a realizar parcerias com outros colegas, diante do aumento das causas a defender. N\u00e3o existe qualquer acordo financeiro entre a advogada e a economista.\n\n Com base na situa\u00e7\u00e3o descrita, nos termos do Estatuto da Advocacia, assinale a afirmativa correta.", "filename": "2013-12.txt", "number": "4", "options": [{"correct": null, "letter": "A", "text": "Constitui atividade infracional disciplinar receber clientes de pessoa com rela\u00e7\u00e3o de parentesco e prest\u00edgio social."}, {"correct": true, "letter": "B", "text": "Constitui atividade corriqueira, n\u00e3o infracional, o relacionamento social com parentes ou n\u00e3o."}, {"correct": null, "letter": "C", "text": "Constitui atividade il\u00edcita por valer-se de parentes para obten\u00e7\u00e3o de clientela, mesmo gratuitamente."}, {"correct": null, "letter": "D", "text": "Constitui atividade vedada, uma vez que a clientela deve ser formada espontaneamente pelo advogado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Fernanda, advogada regularmente inscrita nos quadros da OAB, atua, individualmente, sem s\u00f3cios, em seu escrit\u00f3rio situado no centro da cidade \u201cZ\u201d, onde recebe os seus clientes para atividades de assessoria e consultoria, atuando tamb\u00e9m no contencioso c\u00edvel, administrativo e trabalhista. Em visita de cortesia, recebe sua prima Giselda que, estudando Economia, tem acesso a v\u00e1rias pessoas de prestigio social, econ\u00f4mico e financeiro, em raz\u00e3o da sua atividade como assessora da diretoria de associa\u00e7\u00e3o empresarial. Por for\u00e7a desses v\u00ednculos, sua prima come\u00e7a a indicar clientes para a advogada, que amplia o seu escrit\u00f3rio e passa a realizar parcerias com outros colegas, diante do aumento das causas a defender. N\u00e3o existe qualquer acordo financeiro entre a advogada e a economista.\n\n Com base na situa\u00e7\u00e3o descrita, nos termos do Estatuto da Advocacia, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "4",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Constitui atividade infracional disciplinar receber clientes de pessoa com rela\u00e7\u00e3o de parentesco e prest\u00edgio social."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Constitui atividade corriqueira, n\u00e3o infracional, o relacionamento social com parentes ou n\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Constitui atividade il\u00edcita por valer-se de parentes para obten\u00e7\u00e3o de clientela, mesmo gratuitamente."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Constitui atividade vedada, uma vez que a clientela deve ser formada espontaneamente pelo advogado."
+            }
+        ],
+        "valid": true
+    }
+]

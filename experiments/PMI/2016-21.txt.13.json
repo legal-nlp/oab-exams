@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Carlos pleiteia determinado direito, que fora regulado de forma mais gen\u00e9rica no corpo principal da CRFB/88 e de forma mais espec\u00edfica no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias \u2013 o ADCT. O problema \u00e9 que o corpo principal da Constitui\u00e7\u00e3o da Rep\u00fablica e o ADCT estabelecem solu\u00e7\u00f5es jur\u00eddicas diversas, sendo que ambas as normas poderiam incidir na situa\u00e7\u00e3o concreta.\n\n Carlos, diante do problema, consulta um(a) advogado(a) para saber se a solu\u00e7\u00e3o do seu caso deve ser regida pela norma gen\u00e9rica oferecida pelo corpo principal da Constitui\u00e7\u00e3o da Rep\u00fablica ou pela norma espec\u00edfica oferecida pelo ADCT.\n\n Com base na CRFB/88, assinale a op\u00e7\u00e3o que apresenta a proposta correta dada pelo(a) advogado(a).", "filename": "2016-21.txt", "number": "13", "options": [{"correct": null, "letter": "A", "text": "Como o corpo principal da CRFB/88 possui hierarquia superior a todas as demais normas do sistema jur\u00eddico, deve ser aplic\u00e1vel, afastada a aplica\u00e7\u00e3o das normas do ADCT."}, {"correct": true, "letter": "B", "text": "Como o ADCT possui o mesmo status jur\u00eddico das demais normas do corpo principal da CRFB/88, a norma espec\u00edfica do ADCT deve ser aplicada no caso concreto."}, {"correct": null, "letter": "C", "text": "Como o ADCT possui hierarquia legal, n\u00e3o pode afastar a solu\u00e7\u00e3o normativa presente na CRFB/88."}, {"correct": null, "letter": "D", "text": "Como o ADCT possui car\u00e1ter tempor\u00e1rio, n\u00e3o \u00e9 poss\u00edvel que venha a reger qualquer caso concreto, posto que sua efic\u00e1cia est\u00e1 exaurida."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Carlos pleiteia determinado direito, que fora regulado de forma mais gen\u00e9rica no corpo principal da CRFB/88 e de forma mais espec\u00edfica no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias \u2013 o ADCT. O problema \u00e9 que o corpo principal da Constitui\u00e7\u00e3o da Rep\u00fablica e o ADCT estabelecem solu\u00e7\u00f5es jur\u00eddicas diversas, sendo que ambas as normas poderiam incidir na situa\u00e7\u00e3o concreta.\n\n Carlos, diante do problema, consulta um(a) advogado(a) para saber se a solu\u00e7\u00e3o do seu caso deve ser regida pela norma gen\u00e9rica oferecida pelo corpo principal da Constitui\u00e7\u00e3o da Rep\u00fablica ou pela norma espec\u00edfica oferecida pelo ADCT.\n\n Com base na CRFB/88, assinale a op\u00e7\u00e3o que apresenta a proposta correta dada pelo(a) advogado(a).",
+        "filename": "2016-21.txt",
+        "number": "13",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Como o corpo principal da CRFB/88 possui hierarquia superior a todas as demais normas do sistema jur\u00eddico, deve ser aplic\u00e1vel, afastada a aplica\u00e7\u00e3o das normas do ADCT."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Como o ADCT possui o mesmo status jur\u00eddico das demais normas do corpo principal da CRFB/88, a norma espec\u00edfica do ADCT deve ser aplicada no caso concreto."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Como o ADCT possui hierarquia legal, n\u00e3o pode afastar a solu\u00e7\u00e3o normativa presente na CRFB/88."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Como o ADCT possui car\u00e1ter tempor\u00e1rio, n\u00e3o \u00e9 poss\u00edvel que venha a reger qualquer caso concreto, posto que sua efic\u00e1cia est\u00e1 exaurida."
+            }
+        ],
+        "valid": true
+    }
+]

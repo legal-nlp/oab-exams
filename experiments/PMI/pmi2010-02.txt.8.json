@@ -1,1 +1,57 @@
-[{"enum": "Um determinado Estado-membro editou lei estabelecendo disciplina uniforme para a data de vencimento das mensalidades das institui\u00e7\u00f5es de ensino sediadas no seu territ\u00f3rio.\n\n Examinada a quest\u00e3o \u00e0 luz da parti lha de compet\u00eancia entre os entes federativos, \u00e9 correto afirmar que:", "areas": ["CONSTITUTIONAL"], "number": "8", "options": [{"correct": true, "pmi": [-0.2259136120604905, 0.0, 0.0, 0.0], "text": "mensalidade escolar versa sobre direito obrigacional, portanto, de natureza contratual, logo cabe \u00e0 Uni\u00e3o legislar sobre o assunto.", "letter": "A"}, {"correct": null, "pmi": [-0.16025854955632754, 0.0, 0.0, 0.0], "text": "a mat\u00e9ria legislada tem por objeto presta\u00e7\u00e3o de servi\u00e7o educacional, devendo ser considerada como de interesse t\u00edpico municipal.", "letter": "B"}, {"correct": null, "pmi": [-0.3564343355716319, 0.0, 0.0, 0.0], "text": "por versar o conte\u00fado da lei sobre educa\u00e7\u00e3o, a compet\u00eancia do Estado-membro \u00e9 concorrente com a da Uni\u00e3o.", "letter": "C"}, {"correct": null, "pmi": [-0.164174808080696, 0.0, 0.0, 0.0], "text": "somente competir\u00e1 aos Estados-membros legislar sobre o assunto quando se tratar de mensalidades cobradas por institui\u00e7\u00f5es particulares de Ensino M\u00e9dio.", "letter": "D"}], "valid": true, "filename": "2010-02.txt"}]
+[
+    {
+        "enum": "Um determinado Estado-membro editou lei estabelecendo disciplina uniforme para a data de vencimento das mensalidades das institui\u00e7\u00f5es de ensino sediadas no seu territ\u00f3rio.\n\n Examinada a quest\u00e3o \u00e0 luz da parti lha de compet\u00eancia entre os entes federativos, \u00e9 correto afirmar que:",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "8",
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    -0.2259136120604905,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "mensalidade escolar versa sobre direito obrigacional, portanto, de natureza contratual, logo cabe \u00e0 Uni\u00e3o legislar sobre o assunto.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.16025854955632754,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a mat\u00e9ria legislada tem por objeto presta\u00e7\u00e3o de servi\u00e7o educacional, devendo ser considerada como de interesse t\u00edpico municipal.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.3564343355716319,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "por versar o conte\u00fado da lei sobre educa\u00e7\u00e3o, a compet\u00eancia do Estado-membro \u00e9 concorrente com a da Uni\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.164174808080696,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "somente competir\u00e1 aos Estados-membros legislar sobre o assunto quando se tratar de mensalidades cobradas por institui\u00e7\u00f5es particulares de Ensino M\u00e9dio.",
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "filename": "2010-02.txt"
+    }
+]

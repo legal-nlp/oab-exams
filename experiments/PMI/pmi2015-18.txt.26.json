@@ -1,1 +1,55 @@
-[{"areas": [], "enum": "Ant\u00f4nio, prestador de servi\u00e7o de manuten\u00e7\u00e3o e reparo de instrumentos musicais, sujeito \u00e0 incid\u00eancia do Imposto Sobre Servi\u00e7os (ISS), deixou de recolher o tributo incidente sobre fato gerador consumado em janeiro de 2013 (quando a al\u00edquota do ISS era de 5% sobre o total auferido pelos servi\u00e7os prestados e a multa pelo inadimplemento do tributo era de 25% sobre o ISS devido e n\u00e3o recolhido).\n\n Em 30 de agosto de 2013, o Munic\u00edpio credor aprovou lei que: (a) reduziu para 2% a al\u00edquota do ISS sobre a atividade de manuten\u00e7\u00e3o e reparo de instrumentos musicais; e (b) reduziu a multa pelo inadimplemento do imposto incidente nessa mesma atividade, que passou a ser de 10% sobre o ISS devido e n\u00e3o recolhido.\n\n Em fevereiro de 2014, o Munic\u00edpio X promoveu o lan\u00e7amento do imposto, exigindo do contribuinte o montante de R$ 25.000,00 \u2013 sendo R$ 20.000,00 de imposto (5% sobre R$ 400.000,00, valor dos servi\u00e7os prestados) e R$ 5.000,00 a t\u00edtulo de multa pela falta de pagamento (25% do imposto devido).\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.", "valid": true, "number": "26", "options": [{"text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto e \u00e0 multa.", "pmi": [-0.18457745022037714, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "O lan\u00e7amento est\u00e1 incorreto tanto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%) quanto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).", "pmi": [-0.3413696242584573, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o \u00e0 multa, mas incorreto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%).", "pmi": [-0.4503942985241344, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto, mas incorreto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).", "pmi": [-0.11225662295242425, 0.0, 0.0, 0.0], "letter": "D", "correct": true}], "filename": "2015-18.txt"}]
+[
+    {
+        "areas": [],
+        "enum": "Ant\u00f4nio, prestador de servi\u00e7o de manuten\u00e7\u00e3o e reparo de instrumentos musicais, sujeito \u00e0 incid\u00eancia do Imposto Sobre Servi\u00e7os (ISS), deixou de recolher o tributo incidente sobre fato gerador consumado em janeiro de 2013 (quando a al\u00edquota do ISS era de 5% sobre o total auferido pelos servi\u00e7os prestados e a multa pelo inadimplemento do tributo era de 25% sobre o ISS devido e n\u00e3o recolhido).\n\n Em 30 de agosto de 2013, o Munic\u00edpio credor aprovou lei que: (a) reduziu para 2% a al\u00edquota do ISS sobre a atividade de manuten\u00e7\u00e3o e reparo de instrumentos musicais; e (b) reduziu a multa pelo inadimplemento do imposto incidente nessa mesma atividade, que passou a ser de 10% sobre o ISS devido e n\u00e3o recolhido.\n\n Em fevereiro de 2014, o Munic\u00edpio X promoveu o lan\u00e7amento do imposto, exigindo do contribuinte o montante de R$ 25.000,00 \u2013 sendo R$ 20.000,00 de imposto (5% sobre R$ 400.000,00, valor dos servi\u00e7os prestados) e R$ 5.000,00 a t\u00edtulo de multa pela falta de pagamento (25% do imposto devido).\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "valid": true,
+        "number": "26",
+        "options": [
+            {
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto e \u00e0 multa.",
+                "pmi": [
+                    -0.18457745022037714,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "O lan\u00e7amento est\u00e1 incorreto tanto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%) quanto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).",
+                "pmi": [
+                    -0.3413696242584573,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o \u00e0 multa, mas incorreto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%).",
+                "pmi": [
+                    -0.4503942985241344,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto, mas incorreto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).",
+                "pmi": [
+                    -0.11225662295242425,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "filename": "2015-18.txt"
+    }
+]

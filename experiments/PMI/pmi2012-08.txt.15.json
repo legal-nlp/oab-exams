@@ -1,1 +1,57 @@
-[{"number": "15", "areas": ["CONSTITUTIONAL"], "options": [{"text": "N\u00e3o ter\u00e1 alternativa sen\u00e3o declarar a inconstitucionalidade da lei, por v\u00edcio de iniciativa, com efeitos ex tunc, e julgar de plano inv\u00e1lido o concurso p\u00fablico, determinando a exonera\u00e7\u00e3o de todos os fiscais aprovados e a anula\u00e7\u00e3o dos atos por eles praticados.", "letter": "A", "correct": null, "pmi": [-0.27975681049953505, -0.00020866502121540687, 0.0, 0.0]}, {"text": "N\u00e3o poder\u00e1 acatar os argumentos da a\u00e7\u00e3o direta, uma vez que o Governador foi quem autorizou a realiza\u00e7\u00e3o do concurso e deu posse aos candidatos, de modo que a a\u00e7\u00e3o proposta por ele mesmo viola a seguran\u00e7a jur\u00eddica, denotando conduta contradit\u00f3ria.", "letter": "B", "correct": null, "pmi": [-0.15477263642022437, 0.0, 0.0, 0.0]}, {"text": "Dever\u00e1 realizar uma pondera\u00e7\u00e3o de princ\u00edpios e poder\u00e1, ao final, decidir pela constitucionalidade da lei e pela sua manuten\u00e7\u00e3o no ordenamento jur\u00eddico, apesar da afronta \u00e0 Constitui\u00e7\u00e3o, caso em que julgar\u00e1 improcedente a a\u00e7\u00e3o.", "letter": "C", "correct": null, "pmi": [-0.2145925338210955, 0.0, 0.0, 0.0]}, {"text": "Poder\u00e1, ao declarar a inconstitucionalidade, e pelo voto de dois ter\u00e7os dos ministros, restringir os efeitos da decis\u00e3o ou decidir que ela s\u00f3 tenha efic\u00e1cia a partir de seu tr\u00e2nsito em julgado ou de outro momento que venha a ser fixado, preservando os atos j\u00e1 praticados pelos fiscais.", "letter": "D", "correct": true, "pmi": [-0.11659947874290814, 0.0, 0.0, 0.0]}], "enum": "Lei estadual de iniciativa do Deputado \u201cX\u201d previu a cria\u00e7\u00e3o de 300 cargos de fiscal de rendas e determinou o seu preenchimento no mesmo ano, sem indicar a previs\u00e3o da receita necess\u00e1ria para fazer frente a tal despesa. Realizado o concurso p\u00fablico e depois da posse e exerc\u00edcio dos 100 primeiros aprovados, o Governador aju\u00edza a\u00e7\u00e3o direta de inconstitucionalidade perante o Supremo Tribunal Federal, arguindo a invalidade do diploma legal, por v\u00edcio de iniciativa e por n\u00e3o indicar a fonte de receita necess\u00e1ria.\n\n Considerando as normas existentes a respeito do controle de constitucionalidade, assinale a alternativa que indica o correto posicionamento do STF.", "filename": "2012-08.txt", "valid": true}]
+[
+    {
+        "number": "15",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "text": "N\u00e3o ter\u00e1 alternativa sen\u00e3o declarar a inconstitucionalidade da lei, por v\u00edcio de iniciativa, com efeitos ex tunc, e julgar de plano inv\u00e1lido o concurso p\u00fablico, determinando a exonera\u00e7\u00e3o de todos os fiscais aprovados e a anula\u00e7\u00e3o dos atos por eles praticados.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.27975681049953505,
+                    -0.00020866502121540687,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "N\u00e3o poder\u00e1 acatar os argumentos da a\u00e7\u00e3o direta, uma vez que o Governador foi quem autorizou a realiza\u00e7\u00e3o do concurso e deu posse aos candidatos, de modo que a a\u00e7\u00e3o proposta por ele mesmo viola a seguran\u00e7a jur\u00eddica, denotando conduta contradit\u00f3ria.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.15477263642022437,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Dever\u00e1 realizar uma pondera\u00e7\u00e3o de princ\u00edpios e poder\u00e1, ao final, decidir pela constitucionalidade da lei e pela sua manuten\u00e7\u00e3o no ordenamento jur\u00eddico, apesar da afronta \u00e0 Constitui\u00e7\u00e3o, caso em que julgar\u00e1 improcedente a a\u00e7\u00e3o.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.2145925338210955,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Poder\u00e1, ao declarar a inconstitucionalidade, e pelo voto de dois ter\u00e7os dos ministros, restringir os efeitos da decis\u00e3o ou decidir que ela s\u00f3 tenha efic\u00e1cia a partir de seu tr\u00e2nsito em julgado ou de outro momento que venha a ser fixado, preservando os atos j\u00e1 praticados pelos fiscais.",
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.11659947874290814,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Lei estadual de iniciativa do Deputado \u201cX\u201d previu a cria\u00e7\u00e3o de 300 cargos de fiscal de rendas e determinou o seu preenchimento no mesmo ano, sem indicar a previs\u00e3o da receita necess\u00e1ria para fazer frente a tal despesa. Realizado o concurso p\u00fablico e depois da posse e exerc\u00edcio dos 100 primeiros aprovados, o Governador aju\u00edza a\u00e7\u00e3o direta de inconstitucionalidade perante o Supremo Tribunal Federal, arguindo a invalidade do diploma legal, por v\u00edcio de iniciativa e por n\u00e3o indicar a fonte de receita necess\u00e1ria.\n\n Considerando as normas existentes a respeito do controle de constitucionalidade, assinale a alternativa que indica o correto posicionamento do STF.",
+        "filename": "2012-08.txt",
+        "valid": true
+    }
+]

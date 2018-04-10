@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2016-21.txt", "valid": true, "options": [{"letter": "A", "correct": null, "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de extin\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "(indeferir o pedido, pois a certid\u00e3o somente poder\u00e1 ser emitida ap\u00f3s o pagamento integral do tributo em atraso.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": true, "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de exclus\u00e3o do cr\u00e9dito tribut\u00e1rio.", "pmi": [0.0, 0.0, 0.0, 0.0]}], "enum": "A Pessoa Jur\u00eddica ABC verificou que possu\u00eda d\u00e9bitos de Imposto sobre a Renda (\u201cIRPJ\u201d) e decidiu aderir ao parcelamento por necessitar de certid\u00e3o de regularidade fiscal para participar de licita\u00e7\u00e3o. Ap\u00f3s regular ades\u00e3o ao parcelamento e diante da inexist\u00eancia de quaisquer outros d\u00e9bitos, a contribuinte apresentou requerimento para emiss\u00e3o da certid\u00e3o.\n\n Com base nessas informa\u00e7\u00f5es, o Fisco dever\u00e1", "number": "28"}]
+[
+    {
+        "areas": [],
+        "filename": "2016-21.txt",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de extin\u00e7\u00e3o do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "(indeferir o pedido, pois a certid\u00e3o somente poder\u00e1 ser emitida ap\u00f3s o pagamento integral do tributo em atraso.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "deferir o pedido, j\u00e1 que o parcelamento \u00e9 causa de exclus\u00e3o do cr\u00e9dito tribut\u00e1rio.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "A Pessoa Jur\u00eddica ABC verificou que possu\u00eda d\u00e9bitos de Imposto sobre a Renda (\u201cIRPJ\u201d) e decidiu aderir ao parcelamento por necessitar de certid\u00e3o de regularidade fiscal para participar de licita\u00e7\u00e3o. Ap\u00f3s regular ades\u00e3o ao parcelamento e diante da inexist\u00eancia de quaisquer outros d\u00e9bitos, a contribuinte apresentou requerimento para emiss\u00e3o da certid\u00e3o.\n\n Com base nessas informa\u00e7\u00f5es, o Fisco dever\u00e1",
+        "number": "28"
+    }
+]

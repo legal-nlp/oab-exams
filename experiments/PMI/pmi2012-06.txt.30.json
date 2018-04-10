@@ -1,1 +1,57 @@
-[{"filename": "2012-06.txt", "valid": true, "number": "30", "enum": "Quatro munic\u00edpios celebram um cons\u00f3rcio p\u00fablico para desenvolverem um projeto comum para o tratamento industrial de lixo coletado em suas respectivas \u00e1reas, criando uma pessoa jur\u00eddica para gerenciar as atividades do cons\u00f3rcio.\n\n \u00c0 luz da legisla\u00e7\u00e3o aplic\u00e1vel, assinale a alternativa correta.", "areas": ["ADMINISTRATIVE"], "options": [{"letter": "A", "correct": null, "text": "Como se trata de atividade tipicamente estatal, essa pessoa jur\u00eddica administrativa dever\u00e1 ser obrigatoriamente uma autarquia, criada por lei oriunda do maior munic\u00edpio celebrante do pacto.", "pmi": [-0.2184288915485033, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": true, "text": "O ordenamento jur\u00eddico brasileiro admite, no caso, tanto a cria\u00e7\u00e3o de uma pessoa jur\u00eddica de direito p\u00fablico (a chamada associa\u00e7\u00e3o p\u00fablica) quanto de direito privado.", "pmi": [-0.1617598705993976, -0.000717286010427961, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "O ordenamento jur\u00eddico brasileiro n\u00e3o admite a cria\u00e7\u00e3o de uma entidade desse tipo, pois as pessoas jur\u00eddicas integrantes da Administra\u00e7\u00e3o Indireta s\u00e3o apenas as indicadas no art. 5\u00ba do Decreto-Lei 200/67.", "pmi": [-0.24713156843815828, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "A pessoa jur\u00eddica oriunda de um cons\u00f3rcio p\u00fablico n\u00e3o poder\u00e1 ser, em hip\u00f3tese alguma, uma pessoa jur\u00eddica de direito privado, pois isso n\u00e3o \u00e9 admitido pela legisla\u00e7\u00e3o aplic\u00e1vel.", "pmi": [-0.10471597568816711, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "filename": "2012-06.txt",
+        "valid": true,
+        "number": "30",
+        "enum": "Quatro munic\u00edpios celebram um cons\u00f3rcio p\u00fablico para desenvolverem um projeto comum para o tratamento industrial de lixo coletado em suas respectivas \u00e1reas, criando uma pessoa jur\u00eddica para gerenciar as atividades do cons\u00f3rcio.\n\n \u00c0 luz da legisla\u00e7\u00e3o aplic\u00e1vel, assinale a alternativa correta.",
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "Como se trata de atividade tipicamente estatal, essa pessoa jur\u00eddica administrativa dever\u00e1 ser obrigatoriamente uma autarquia, criada por lei oriunda do maior munic\u00edpio celebrante do pacto.",
+                "pmi": [
+                    -0.2184288915485033,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "text": "O ordenamento jur\u00eddico brasileiro admite, no caso, tanto a cria\u00e7\u00e3o de uma pessoa jur\u00eddica de direito p\u00fablico (a chamada associa\u00e7\u00e3o p\u00fablica) quanto de direito privado.",
+                "pmi": [
+                    -0.1617598705993976,
+                    -0.000717286010427961,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "O ordenamento jur\u00eddico brasileiro n\u00e3o admite a cria\u00e7\u00e3o de uma entidade desse tipo, pois as pessoas jur\u00eddicas integrantes da Administra\u00e7\u00e3o Indireta s\u00e3o apenas as indicadas no art. 5\u00ba do Decreto-Lei 200/67.",
+                "pmi": [
+                    -0.24713156843815828,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "A pessoa jur\u00eddica oriunda de um cons\u00f3rcio p\u00fablico n\u00e3o poder\u00e1 ser, em hip\u00f3tese alguma, uma pessoa jur\u00eddica de direito privado, pois isso n\u00e3o \u00e9 admitido pela legisla\u00e7\u00e3o aplic\u00e1vel.",
+                "pmi": [
+                    -0.10471597568816711,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

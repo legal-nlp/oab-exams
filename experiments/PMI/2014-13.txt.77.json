@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Paulo ajuizou reclama\u00e7\u00e3o trabalhista em face de sua ex-empregadora, empresa Ouropuro Ltda.. No dia da audi\u00eancia, a r\u00e9 apresentou exce\u00e7\u00e3o de incompet\u00eancia em raz\u00e3o do lugar, aduzindo fatos que eram desconhecidos at\u00e9 ent\u00e3o pelo advogado de Paulo.\n\n De modo a possibilitar a melhor defesa de Paulo e para evitar o poss\u00edvel acolhimento da exce\u00e7\u00e3o, de acordo com a legisla\u00e7\u00e3o trabalhista, assinale a op\u00e7\u00e3o que indica o procedimento correto a ser adotado.", "filename": "2014-13.txt", "number": "77", "options": [{"correct": null, "letter": "A", "text": "Dever\u00e1 ser requerido prazo de 10 dias para manifesta\u00e7\u00e3o com o consequente adiamento da audi\u00eancia."}, {"correct": true, "letter": "B", "text": "Dever\u00e1 o Juiz conceder prazo a Paulo por 24 horas para manifesta\u00e7\u00e3o, prolatando a senten\u00e7a da exce\u00e7\u00e3o de incompet\u00eancia na primeira audi\u00eancia."}, {"correct": null, "letter": "C", "text": "O Juiz dever\u00e1 adiar a audi\u00eancia para a decis\u00e3o, n\u00e3o sendo cab\u00edvel a concess\u00e3o de prazo \u00e0 parte contr\u00e1ria, para manifesta\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "O Juiz apreciar\u00e1 imediatamente a argui\u00e7\u00e3o de exce\u00e7\u00e3o de incompet\u00eancia, n\u00e3o havendo previs\u00e3o de concess\u00e3o de prazo a Paulo, j\u00e1 que as audi\u00eancias s\u00e3o unas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Paulo ajuizou reclama\u00e7\u00e3o trabalhista em face de sua ex-empregadora, empresa Ouropuro Ltda.. No dia da audi\u00eancia, a r\u00e9 apresentou exce\u00e7\u00e3o de incompet\u00eancia em raz\u00e3o do lugar, aduzindo fatos que eram desconhecidos at\u00e9 ent\u00e3o pelo advogado de Paulo.\n\n De modo a possibilitar a melhor defesa de Paulo e para evitar o poss\u00edvel acolhimento da exce\u00e7\u00e3o, de acordo com a legisla\u00e7\u00e3o trabalhista, assinale a op\u00e7\u00e3o que indica o procedimento correto a ser adotado.",
+        "filename": "2014-13.txt",
+        "number": "77",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Dever\u00e1 ser requerido prazo de 10 dias para manifesta\u00e7\u00e3o com o consequente adiamento da audi\u00eancia."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Dever\u00e1 o Juiz conceder prazo a Paulo por 24 horas para manifesta\u00e7\u00e3o, prolatando a senten\u00e7a da exce\u00e7\u00e3o de incompet\u00eancia na primeira audi\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O Juiz dever\u00e1 adiar a audi\u00eancia para a decis\u00e3o, n\u00e3o sendo cab\u00edvel a concess\u00e3o de prazo \u00e0 parte contr\u00e1ria, para manifesta\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O Juiz apreciar\u00e1 imediatamente a argui\u00e7\u00e3o de exce\u00e7\u00e3o de incompet\u00eancia, n\u00e3o havendo previs\u00e3o de concess\u00e3o de prazo a Paulo, j\u00e1 que as audi\u00eancias s\u00e3o unas."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Paulo, empregado de uma empresa sider\u00fargica, sofreu acidente do trabalho, entrando em gozo de aux\u00edlio-doen\u00e7a acident\u00e1rio, a partir do d\u00e9cimo sexto dia de seu afastamento. Durante este per\u00edodo de percep\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, ele foi dispensado sem justa causa por seu empregador.\n\n Diante do exposto, assinale a alternativa correta.", "filename": "2010-02.txt", "number": "48", "options": [{"correct": null, "letter": "A", "text": "Paulo tem direito a ser reintegrado, com fundamento na garanti a provis\u00f3ria de emprego assegurada ao empregado acidentado."}, {"correct": null, "letter": "B", "text": "Paulo tem direito a ser readmiti do, com fundamento na garanti a provis\u00f3ria de emprego assegurada ao empregado acidentado."}, {"correct": null, "letter": "C", "text": "Paulo tem direito a ser readmiti do, em raz\u00e3o da interrup\u00e7\u00e3o do contrato de trabalho que se operou a partir do d\u00e9cimo sexto dia de afastamento."}, {"correct": true, "letter": "D", "text": "Paulo tem direito a ser reintegrado, em raz\u00e3o da suspens\u00e3o do contrato de trabalho que se operou a partir do d\u00e9cimo sexto dia de afastamento."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Paulo, empregado de uma empresa sider\u00fargica, sofreu acidente do trabalho, entrando em gozo de aux\u00edlio-doen\u00e7a acident\u00e1rio, a partir do d\u00e9cimo sexto dia de seu afastamento. Durante este per\u00edodo de percep\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, ele foi dispensado sem justa causa por seu empregador.\n\n Diante do exposto, assinale a alternativa correta.",
+        "filename": "2010-02.txt",
+        "number": "48",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Paulo tem direito a ser reintegrado, com fundamento na garanti a provis\u00f3ria de emprego assegurada ao empregado acidentado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Paulo tem direito a ser readmiti do, com fundamento na garanti a provis\u00f3ria de emprego assegurada ao empregado acidentado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Paulo tem direito a ser readmiti do, em raz\u00e3o da interrup\u00e7\u00e3o do contrato de trabalho que se operou a partir do d\u00e9cimo sexto dia de afastamento."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Paulo tem direito a ser reintegrado, em raz\u00e3o da suspens\u00e3o do contrato de trabalho que se operou a partir do d\u00e9cimo sexto dia de afastamento."
+            }
+        ],
+        "valid": true
+    }
+]

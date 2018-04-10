@@ -1,1 +1,55 @@
-[{"number": "30", "options": [{"text": "O cons\u00f3rcio \u00e9 ente desprovido de personalidade e, portanto, n\u00e3o \u00e9 v\u00e1lida a previs\u00e3o contida no protocolo de inten\u00e7\u00f5es.", "pmi": [-0.025199201433122344, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "O cons\u00f3rcio em refer\u00eancia n\u00e3o poder\u00e1 ser constitu\u00eddo sem a obrigat\u00f3ria participa\u00e7\u00e3o da Uni\u00e3o entre os seus consorciados.", "pmi": [-0.1384065643078145, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "Ap\u00f3s a constitui\u00e7\u00e3o do cons\u00f3rcio, poder\u00e1 ele promover desapropria\u00e7\u00e3o, pois prevista no protocolo, mas a declara\u00e7\u00e3o de utilidade p\u00fablica n\u00e3o pode ser feita pelo cons\u00f3rcio.", "pmi": [-0.08047964603854514, 0.0, 0.0, 0.0], "correct": true, "letter": "C"}, {"text": "Com a assinatura do protocolo de inten\u00e7\u00f5es por todos os entes participantes, estar\u00e1 constitu\u00eddo o cons\u00f3rcio em refer\u00eancia.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "enum": "O Estado Alfa e os Munic\u00edpios Beta e Gama, localizados naquele Estado, celebraram protocolo de inten\u00e7\u00f5es para a constitui\u00e7\u00e3o de cons\u00f3rcio p\u00fablico para atua\u00e7\u00e3o na \u00e1rea de saneamento, dispondo que o cons\u00f3rcio teria personalidade jur\u00eddica de direito p\u00fablico. No protocolo de inten\u00e7\u00f5es est\u00e1 prevista a outorga de concess\u00e3o, permiss\u00e3o e autoriza\u00e7\u00e3o de servi\u00e7os p\u00fablicos pelo cons\u00f3rcio, al\u00e9m da possibilidade de promover desapropria\u00e7\u00f5es e instituir servid\u00f5es.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.", "filename": "2016-20a.txt", "valid": true, "areas": []}]
+[
+    {
+        "number": "30",
+        "options": [
+            {
+                "text": "O cons\u00f3rcio \u00e9 ente desprovido de personalidade e, portanto, n\u00e3o \u00e9 v\u00e1lida a previs\u00e3o contida no protocolo de inten\u00e7\u00f5es.",
+                "pmi": [
+                    -0.025199201433122344,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "O cons\u00f3rcio em refer\u00eancia n\u00e3o poder\u00e1 ser constitu\u00eddo sem a obrigat\u00f3ria participa\u00e7\u00e3o da Uni\u00e3o entre os seus consorciados.",
+                "pmi": [
+                    -0.1384065643078145,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "Ap\u00f3s a constitui\u00e7\u00e3o do cons\u00f3rcio, poder\u00e1 ele promover desapropria\u00e7\u00e3o, pois prevista no protocolo, mas a declara\u00e7\u00e3o de utilidade p\u00fablica n\u00e3o pode ser feita pelo cons\u00f3rcio.",
+                "pmi": [
+                    -0.08047964603854514,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "text": "Com a assinatura do protocolo de inten\u00e7\u00f5es por todos os entes participantes, estar\u00e1 constitu\u00eddo o cons\u00f3rcio em refer\u00eancia.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "enum": "O Estado Alfa e os Munic\u00edpios Beta e Gama, localizados naquele Estado, celebraram protocolo de inten\u00e7\u00f5es para a constitui\u00e7\u00e3o de cons\u00f3rcio p\u00fablico para atua\u00e7\u00e3o na \u00e1rea de saneamento, dispondo que o cons\u00f3rcio teria personalidade jur\u00eddica de direito p\u00fablico. No protocolo de inten\u00e7\u00f5es est\u00e1 prevista a outorga de concess\u00e3o, permiss\u00e3o e autoriza\u00e7\u00e3o de servi\u00e7os p\u00fablicos pelo cons\u00f3rcio, al\u00e9m da possibilidade de promover desapropria\u00e7\u00f5es e instituir servid\u00f5es.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "valid": true,
+        "areas": []
+    }
+]

@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "O c\u00f4njuge sobrevivente, mesmo se constituir nova fam\u00edlia, continuar\u00e1 a ter direito real de habita\u00e7\u00e3o sobre o im\u00f3vel em que residiu com seu finado c\u00f4njuge."}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "A exclus\u00e3o por indignidade pode ocorrer a partir da necessidade de que o herdeiro tenha agido sempre com dolo e por uma conduta comissiva."}, {"letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "A deserda\u00e7\u00e3o \u00e9 forma de afastar do processo sucess\u00f3rio tanto o herdeiro leg\u00edtimo quanto o legat\u00e1rio."}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Os efeitos da indignidade n\u00e3o retroagem \u00e0 data da abertura da sucess\u00e3o, tendo, portanto, efeito ex nunc."}], "filename": "2012-08.txt", "areas": ["CIVIL"], "number": "37", "valid": true, "enum": "Com rela\u00e7\u00e3o ao direito sucess\u00f3rio, assinale a afirmativa correta."}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O c\u00f4njuge sobrevivente, mesmo se constituir nova fam\u00edlia, continuar\u00e1 a ter direito real de habita\u00e7\u00e3o sobre o im\u00f3vel em que residiu com seu finado c\u00f4njuge."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A exclus\u00e3o por indignidade pode ocorrer a partir da necessidade de que o herdeiro tenha agido sempre com dolo e por uma conduta comissiva."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A deserda\u00e7\u00e3o \u00e9 forma de afastar do processo sucess\u00f3rio tanto o herdeiro leg\u00edtimo quanto o legat\u00e1rio."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Os efeitos da indignidade n\u00e3o retroagem \u00e0 data da abertura da sucess\u00e3o, tendo, portanto, efeito ex nunc."
+            }
+        ],
+        "filename": "2012-08.txt",
+        "areas": [
+            "CIVIL"
+        ],
+        "number": "37",
+        "valid": true,
+        "enum": "Com rela\u00e7\u00e3o ao direito sucess\u00f3rio, assinale a afirmativa correta."
+    }
+]

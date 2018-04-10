@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "S\u00e3o considerados agentes p\u00fablicos todas as pessoas f\u00edsicas incumbidas, sob remunera\u00e7\u00e3o ou n\u00e3o, definitiva ou transitoriamente, do exerc\u00edcio de fun\u00e7\u00e3o ou atividade p\u00fablica. Assim, \u00e9 correto afirmar que os not\u00e1rios e registradores s\u00e3o", "valid": true, "filename": "2011-03.txt", "options": [{"pmi": [-0.14726175636378458, 0.0, 0.0, 0.0], "text": "agentes p\u00fablicos ocupantes de cargo efetivo e se aposentam aos 70 (setenta) anos de idade.", "correct": null, "letter": "A"}, {"pmi": [-0.16566947590925765, 0.0, 0.0, 0.0], "text": "agentes p\u00fablicos vital\u00edcios, ocupantes de cargo efetivo, e n\u00e3o se aposentam compulsoriamente.", "correct": null, "letter": "B"}, {"pmi": [-0.23931718517377729, 0.0, 0.0, 0.0], "text": "delegat\u00e1rios de servi\u00e7os p\u00fablicos aprovados em concurso p\u00fablico.", "correct": true, "letter": "C"}, {"pmi": [-0.18136322829453677, 0.0, 0.0, 0.0], "text": "os not\u00e1rios e registradores s\u00e3o delegat\u00e1rios de servi\u00e7os p\u00fablicos, investidos em cargos efetivos ap\u00f3s aprova\u00e7\u00e3o em concurso.", "correct": null, "letter": "D"}], "number": "2"}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "S\u00e3o considerados agentes p\u00fablicos todas as pessoas f\u00edsicas incumbidas, sob remunera\u00e7\u00e3o ou n\u00e3o, definitiva ou transitoriamente, do exerc\u00edcio de fun\u00e7\u00e3o ou atividade p\u00fablica. Assim, \u00e9 correto afirmar que os not\u00e1rios e registradores s\u00e3o",
+        "valid": true,
+        "filename": "2011-03.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.14726175636378458,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "agentes p\u00fablicos ocupantes de cargo efetivo e se aposentam aos 70 (setenta) anos de idade.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.16566947590925765,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "agentes p\u00fablicos vital\u00edcios, ocupantes de cargo efetivo, e n\u00e3o se aposentam compulsoriamente.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.23931718517377729,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "delegat\u00e1rios de servi\u00e7os p\u00fablicos aprovados em concurso p\u00fablico.",
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.18136322829453677,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os not\u00e1rios e registradores s\u00e3o delegat\u00e1rios de servi\u00e7os p\u00fablicos, investidos em cargos efetivos ap\u00f3s aprova\u00e7\u00e3o em concurso.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "number": "2"
+    }
+]

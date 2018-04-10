@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Segundo o entendimento do STF, a taxa cobrada exclusivamente em raz\u00e3o dos servi\u00e7os p\u00fablicos de coleta, remo\u00e7\u00e3o e tratamento ou destina\u00e7\u00e3o de lixo ou res\u00edduos provenientes de im\u00f3veis, \u00e9", "filename": "2014-13.txt", "number": "25", "options": [{"correct": true, "letter": "A", "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa."}, {"correct": null, "letter": "B", "text": "inconstitucional, por violar o conceito constitucional de taxa."}, {"correct": null, "letter": "C", "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa, mas ilegal por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."}, {"correct": null, "letter": "D", "text": "inconstitucional, por violar o conceito constitucional de taxa, al\u00e9m de ilegal, por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Segundo o entendimento do STF, a taxa cobrada exclusivamente em raz\u00e3o dos servi\u00e7os p\u00fablicos de coleta, remo\u00e7\u00e3o e tratamento ou destina\u00e7\u00e3o de lixo ou res\u00edduos provenientes de im\u00f3veis, \u00e9",
+        "filename": "2014-13.txt",
+        "number": "25",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "inconstitucional, por violar o conceito constitucional de taxa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa, mas ilegal por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "inconstitucional, por violar o conceito constitucional de taxa, al\u00e9m de ilegal, por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"enum": "Um frentista de posto de gasolina sofreu desconto no seu sal\u00e1rio referente \u00e0 devolu\u00e7\u00e3o de cheque sem provis\u00e3o de fundos, em raz\u00e3o de n\u00e3o ter observado recomenda\u00e7\u00e3o prevista em acordo coletivo de trabalho no tocante \u00e0 verifica\u00e7\u00e3o da situa\u00e7\u00e3o cadastral do cliente no ato da venda do combust\u00edvel. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, e considerando que a norma coletiva autoriza o desconto salarial no caso de neglig\u00eancia do empregado, assinale a alternativa correta.", "filename": "2012-07.txt", "areas": ["LABOUR"], "number": "70", "valid": true, "options": [{"correct": null, "pmi": [-0.03431375029222695, 0.0, 0.0, 0.0], "text": "O empregador n\u00e3o podia ter efetuado o desconto no sal\u00e1rio do empregado, em raz\u00e3o do princ\u00edpio da intangibilidade salarial, sendo inv\u00e1lida a norma coletiva autorizadora.", "letter": "A"}, {"correct": true, "pmi": [-0.017220721346514704, 0.0, 0.0, 0.0], "text": "O desconto foi l\u00edcito, em face da n\u00e3o observ\u00e2ncia das recomenda\u00e7\u00f5es previstas em norma coletiva.", "letter": "B"}, {"correct": null, "pmi": [-0.02743981704922534, 0.0, 0.0, 0.0], "text": "O desconto somente pode ser considerado l\u00edcito se comprovado o dolo do empregado.", "letter": "C"}, {"correct": null, "pmi": [-0.06890566356848213, 0.0, 0.0, 0.0], "text": "O desconto \u00e9 il\u00edcito, pois o empregador n\u00e3o pode transferir ao empregado os riscos da atividade econ\u00f4mica, sendo inv\u00e1lida a norma coletiva que o autoriza.", "letter": "D"}]}]
+[
+    {
+        "enum": "Um frentista de posto de gasolina sofreu desconto no seu sal\u00e1rio referente \u00e0 devolu\u00e7\u00e3o de cheque sem provis\u00e3o de fundos, em raz\u00e3o de n\u00e3o ter observado recomenda\u00e7\u00e3o prevista em acordo coletivo de trabalho no tocante \u00e0 verifica\u00e7\u00e3o da situa\u00e7\u00e3o cadastral do cliente no ato da venda do combust\u00edvel. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, e considerando que a norma coletiva autoriza o desconto salarial no caso de neglig\u00eancia do empregado, assinale a alternativa correta.",
+        "filename": "2012-07.txt",
+        "areas": [
+            "LABOUR"
+        ],
+        "number": "70",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.03431375029222695,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O empregador n\u00e3o podia ter efetuado o desconto no sal\u00e1rio do empregado, em raz\u00e3o do princ\u00edpio da intangibilidade salarial, sendo inv\u00e1lida a norma coletiva autorizadora.",
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.017220721346514704,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O desconto foi l\u00edcito, em face da n\u00e3o observ\u00e2ncia das recomenda\u00e7\u00f5es previstas em norma coletiva.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.02743981704922534,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O desconto somente pode ser considerado l\u00edcito se comprovado o dolo do empregado.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.06890566356848213,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O desconto \u00e9 il\u00edcito, pois o empregador n\u00e3o pode transferir ao empregado os riscos da atividade econ\u00f4mica, sendo inv\u00e1lida a norma coletiva que o autoriza.",
+                "letter": "D"
+            }
+        ]
+    }
+]

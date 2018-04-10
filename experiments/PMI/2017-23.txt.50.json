@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Voc\u00ea participou da elabora\u00e7\u00e3o, apresenta\u00e7\u00e3o e negocia\u00e7\u00e3o do plano de recupera\u00e7\u00e3o extrajudicial de devedor sociedade empres\u00e1ria. Tendo sido o plano assinado por todos os credores por ele atingidos, seu cliente o contratou para requerer a homologa\u00e7\u00e3o judicial.  Assinale a op\u00e7\u00e3o que indica o ju\u00edzo em que dever\u00e1 ser apresentado o pedido de homologa\u00e7\u00e3o do plano de recupera\u00e7\u00e3o extrajudicial.", "filename": "2017-23.txt", "number": "50", "options": [{"correct": null, "letter": "A", "text": "O ju\u00edzo da sede do devedor."}, {"correct": true, "letter": "B", "text": "O ju\u00edzo do principal estabelecimento do devedor."}, {"correct": null, "letter": "C", "text": "O ju\u00edzo da sede ou de qualquer filial do devedor."}, {"correct": null, "letter": "D", "text": "O ju\u00edzo do principal estabelecimento ou da sede do devedor."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Voc\u00ea participou da elabora\u00e7\u00e3o, apresenta\u00e7\u00e3o e negocia\u00e7\u00e3o do plano de recupera\u00e7\u00e3o extrajudicial de devedor sociedade empres\u00e1ria. Tendo sido o plano assinado por todos os credores por ele atingidos, seu cliente o contratou para requerer a homologa\u00e7\u00e3o judicial.  Assinale a op\u00e7\u00e3o que indica o ju\u00edzo em que dever\u00e1 ser apresentado o pedido de homologa\u00e7\u00e3o do plano de recupera\u00e7\u00e3o extrajudicial.",
+        "filename": "2017-23.txt",
+        "number": "50",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O ju\u00edzo da sede do devedor."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O ju\u00edzo do principal estabelecimento do devedor."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O ju\u00edzo da sede ou de qualquer filial do devedor."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O ju\u00edzo do principal estabelecimento ou da sede do devedor."
+            }
+        ],
+        "valid": true
+    }
+]

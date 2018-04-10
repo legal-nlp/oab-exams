@@ -1,1 +1,57 @@
-[{"areas": ["HUMAN-RIGHTS"], "options": [{"pmi": [-0.009428904594561614, 0.0, 0.0, 0.0], "text": "O princ\u00edpio do relativismo cultural determina que o trabalho for\u00e7ado seja combatido apenas nos pa\u00edses onde a legisla\u00e7\u00e3o defina tal conduta como il\u00edcita.", "correct": null, "letter": "A"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "O princ\u00edpio da razoabilidade, pois n\u00e3o \u00e9 razo\u00e1vel que pessoas sejam submetidas ao trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo.", "correct": null, "letter": "B"}, {"pmi": [-0.07593897916927768, 0.0, 0.0, 0.0], "text": "O princ\u00edpio do direito humanit\u00e1rio, pois o trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo \u00e9 desumano.", "correct": null, "letter": "C"}, {"pmi": [-0.0282583300328418, 0.0, 0.0, 0.0], "text": "O princ\u00edpio da indivisibilidade dos direitos humanos, pois o trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo viola a um s\u00f3 tempo os direitos civis e pol\u00edticos e os direitos econ\u00f4micos e sociais.", "correct": true, "letter": "D"}], "enum": "A Companhia Energ\u00e9tica de Minas Gerais (Cemig) foi responsabilizada por fiscais do Minist\u00e9rio do Trabalho e Emprego (MTE) e pelo Minist\u00e9rio P\u00fablico do Trabalho (MPT) pela submiss\u00e3o de 179 trabalhadores a condi\u00e7\u00f5es an\u00e1logas \u00e0s de escravos, em Belo Horizonte. Esse fato grav\u00edssimo comprova, na pr\u00e1tica, viola\u00e7\u00e3o de um princ\u00edpio crucial acerca dos Direitos Humanos.\n\n Assinale a op\u00e7\u00e3o que expressa esse princ\u00edpio.", "valid": true, "number": "20", "filename": "2014-13.txt"}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.009428904594561614,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O princ\u00edpio do relativismo cultural determina que o trabalho for\u00e7ado seja combatido apenas nos pa\u00edses onde a legisla\u00e7\u00e3o defina tal conduta como il\u00edcita.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O princ\u00edpio da razoabilidade, pois n\u00e3o \u00e9 razo\u00e1vel que pessoas sejam submetidas ao trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.07593897916927768,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O princ\u00edpio do direito humanit\u00e1rio, pois o trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo \u00e9 desumano.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.0282583300328418,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O princ\u00edpio da indivisibilidade dos direitos humanos, pois o trabalho na condi\u00e7\u00e3o an\u00e1loga \u00e0 de escravo viola a um s\u00f3 tempo os direitos civis e pol\u00edticos e os direitos econ\u00f4micos e sociais.",
+                "correct": true,
+                "letter": "D"
+            }
+        ],
+        "enum": "A Companhia Energ\u00e9tica de Minas Gerais (Cemig) foi responsabilizada por fiscais do Minist\u00e9rio do Trabalho e Emprego (MTE) e pelo Minist\u00e9rio P\u00fablico do Trabalho (MPT) pela submiss\u00e3o de 179 trabalhadores a condi\u00e7\u00f5es an\u00e1logas \u00e0s de escravos, em Belo Horizonte. Esse fato grav\u00edssimo comprova, na pr\u00e1tica, viola\u00e7\u00e3o de um princ\u00edpio crucial acerca dos Direitos Humanos.\n\n Assinale a op\u00e7\u00e3o que expressa esse princ\u00edpio.",
+        "valid": true,
+        "number": "20",
+        "filename": "2014-13.txt"
+    }
+]

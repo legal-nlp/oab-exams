@@ -1,1 +1,57 @@
-[{"number": "5", "options": [{"letter": "A", "correct": null, "pmi": [-0.10912388248071696, 0.0, 0.0, 0.0], "text": "o advogado exerce fun\u00e7\u00e3o p\u00fablica."}, {"letter": "B", "correct": true, "pmi": [-0.056116386925408115, 0.0, 0.0, 0.0], "text": "exerce minist\u00e9rio privado, exercendo fun\u00e7\u00e3o social."}, {"letter": "C", "correct": null, "pmi": [-0.05375176337690171, 0.0, 0.0, 0.0], "text": "atua na defesa de interesses patrimoniais privados, com fun\u00e7\u00e3o p\u00fablica."}, {"letter": "D", "correct": null, "pmi": [-0.05596586105689942, 0.0, 0.0, 0.0], "text": "no seu minist\u00e9rio privado, deixa de exercer fun\u00e7\u00e3o social."}], "filename": "2012-07.txt", "valid": true, "enum": "M\u00e9vio \u00e9 advogado, especializado em causas c\u00edveis, exercendo a profiss\u00e3o por longos anos, tendo sobressa\u00eddo na defesa dos seus clientes e percebendo, como remunera\u00e7\u00e3o, os seus honor\u00e1rios. Sendo figura conhecida no munic\u00edpio, onde exerce a profiss\u00e3o e possui domic\u00edlio, \u00e9 convidado a ministrar palestra em estabelecimentos de ensino, divulgando a atua\u00e7\u00e3o do advogado e sua posi\u00e7\u00e3o na sociedade. Um dos aspectos abordados est\u00e1 relacionado \u00e0 atividade do advogado como indispens\u00e1vel \u00e0 administra\u00e7\u00e3o da justi\u00e7a. Nesses limites, consoante as normas estatut\u00e1rias, \u00e9 correto afirmar que", "areas": ["ETHICS"]}]
+[
+    {
+        "number": "5",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.10912388248071696,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o advogado exerce fun\u00e7\u00e3o p\u00fablica."
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    -0.056116386925408115,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "exerce minist\u00e9rio privado, exercendo fun\u00e7\u00e3o social."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.05375176337690171,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "atua na defesa de interesses patrimoniais privados, com fun\u00e7\u00e3o p\u00fablica."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.05596586105689942,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "no seu minist\u00e9rio privado, deixa de exercer fun\u00e7\u00e3o social."
+            }
+        ],
+        "filename": "2012-07.txt",
+        "valid": true,
+        "enum": "M\u00e9vio \u00e9 advogado, especializado em causas c\u00edveis, exercendo a profiss\u00e3o por longos anos, tendo sobressa\u00eddo na defesa dos seus clientes e percebendo, como remunera\u00e7\u00e3o, os seus honor\u00e1rios. Sendo figura conhecida no munic\u00edpio, onde exerce a profiss\u00e3o e possui domic\u00edlio, \u00e9 convidado a ministrar palestra em estabelecimentos de ensino, divulgando a atua\u00e7\u00e3o do advogado e sua posi\u00e7\u00e3o na sociedade. Um dos aspectos abordados est\u00e1 relacionado \u00e0 atividade do advogado como indispens\u00e1vel \u00e0 administra\u00e7\u00e3o da justi\u00e7a. Nesses limites, consoante as normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "areas": [
+            "ETHICS"
+        ]
+    }
+]

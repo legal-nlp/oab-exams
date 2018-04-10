@@ -1,1 +1,57 @@
-[{"valid": true, "number": "3", "filename": "2011-05.txt", "areas": ["ETHICS"], "enum": "A empresa Frios e Gelados S.A. promove a\u00e7\u00e3o de responsabilidade civil em face da empresa Calor e Chaud Ltda.  No curso do processo, surge decis\u00e3o judicial, atacada por recurso apresentado pelo representante judicial da empresa autora, o advogado L\u00facio. Tal recurso n\u00e3o tem previs\u00e3o legal de sustenta\u00e7\u00e3o oral. Apesar disso, o advogado comparece \u00e0 sess\u00e3o de julgamento e requer ao tribunal o tempo necess\u00e1rio para a sustenta\u00e7\u00e3o referida.\n\n Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que", "options": [{"letter": "A", "correct": null, "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos.", "pmi": [-0.3782424939710207, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": true, "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal.", "pmi": [-0.219295867035281, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso.", "pmi": [-0.2058725569533311, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos.", "pmi": [-0.2683668945957784, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "valid": true,
+        "number": "3",
+        "filename": "2011-05.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A empresa Frios e Gelados S.A. promove a\u00e7\u00e3o de responsabilidade civil em face da empresa Calor e Chaud Ltda.  No curso do processo, surge decis\u00e3o judicial, atacada por recurso apresentado pelo representante judicial da empresa autora, o advogado L\u00facio. Tal recurso n\u00e3o tem previs\u00e3o legal de sustenta\u00e7\u00e3o oral. Apesar disso, o advogado comparece \u00e0 sess\u00e3o de julgamento e requer ao tribunal o tempo necess\u00e1rio para a sustenta\u00e7\u00e3o referida.\n\n Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos.",
+                "pmi": [
+                    -0.3782424939710207,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal.",
+                "pmi": [
+                    -0.219295867035281,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso.",
+                "pmi": [
+                    -0.2058725569533311,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos.",
+                "pmi": [
+                    -0.2683668945957784,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

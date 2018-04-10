@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Com rela\u00e7\u00e3o ao in\u00edcio da contagem do prazo para apresenta\u00e7\u00e3o de resposta, em a\u00e7\u00e3o ajuizada pelo rito comum ordin\u00e1rio, em face de apenas um r\u00e9u, assinale a afirmativa correta.", "filename": "2013-10.txt", "number": "53", "options": [{"correct": true, "letter": "A", "text": "Em se tratando de cita\u00e7\u00e3o postal, come\u00e7a a correr o prazo a partir da data da juntada aos autos do aviso de recebimento."}, {"correct": null, "letter": "B", "text": "Em se tratando de cita\u00e7\u00e3o por oficial de justi\u00e7a, come\u00e7a a correr o prazo no dia seguinte ao do cumprimento da dilig\u00eancia."}, {"correct": null, "letter": "C", "text": "Em se tratando de cita\u00e7\u00e3o por carta precat\u00f3ria, come\u00e7a a correr o prazo no dia em que a carta \u00e9 devolvida ao ju\u00edzo de origem."}, {"correct": null, "letter": "D", "text": "Em se tratando de cita\u00e7\u00e3o por edital, come\u00e7a a correr o prazo no dia seguinte ao da publica\u00e7\u00e3o do referido edital."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao in\u00edcio da contagem do prazo para apresenta\u00e7\u00e3o de resposta, em a\u00e7\u00e3o ajuizada pelo rito comum ordin\u00e1rio, em face de apenas um r\u00e9u, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
+        "number": "53",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Em se tratando de cita\u00e7\u00e3o postal, come\u00e7a a correr o prazo a partir da data da juntada aos autos do aviso de recebimento."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Em se tratando de cita\u00e7\u00e3o por oficial de justi\u00e7a, come\u00e7a a correr o prazo no dia seguinte ao do cumprimento da dilig\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Em se tratando de cita\u00e7\u00e3o por carta precat\u00f3ria, come\u00e7a a correr o prazo no dia em que a carta \u00e9 devolvida ao ju\u00edzo de origem."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Em se tratando de cita\u00e7\u00e3o por edital, come\u00e7a a correr o prazo no dia seguinte ao da publica\u00e7\u00e3o do referido edital."
+            }
+        ],
+        "valid": true
+    }
+]

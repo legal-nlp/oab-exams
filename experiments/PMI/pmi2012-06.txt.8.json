@@ -1,1 +1,57 @@
-[{"filename": "2012-06.txt", "valid": true, "options": [{"correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "Caracteriza agenciamento de causas com participa\u00e7\u00e3o dos honor\u00e1rios."}, {"correct": null, "pmi": [-0.04965290432607642, 0.0, 0.0, 0.0], "letter": "B", "text": "\u00c9 poss\u00edvel, desde que conste em contrato escrito entre as partes."}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "text": "O agenciamento de clientela \u00e9 admitido em situa\u00e7\u00f5es peculiares como essa."}, {"correct": null, "pmi": [-0.026836418204483372, 0.0, 0.0, 0.0], "letter": "D", "text": "Desde que os servi\u00e7os advocat\u00edcios sejam prestados por M\u00e9vio, inexiste infra\u00e7\u00e3o disciplinar."}], "enum": "M\u00e9vio, advogado rec\u00e9m-formado com dificuldades de iniciar sua atividade profissional, prop\u00f5e a colegas de bairro e de escola a participa\u00e7\u00e3o percentual nos honor\u00e1rios dos clientes que receber para consultas ou que pretendam ajuizar a\u00e7\u00f5es judiciais. Consoante as normas aplic\u00e1veis, assinale a alternativa correta em rela\u00e7\u00e3o \u00e0 conduta de M\u00e9vio.", "areas": ["ETHICS"], "number": "8"}]
+[
+    {
+        "filename": "2012-06.txt",
+        "valid": true,
+        "options": [
+            {
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Caracteriza agenciamento de causas com participa\u00e7\u00e3o dos honor\u00e1rios."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.04965290432607642,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "\u00c9 poss\u00edvel, desde que conste em contrato escrito entre as partes."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "O agenciamento de clientela \u00e9 admitido em situa\u00e7\u00f5es peculiares como essa."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.026836418204483372,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Desde que os servi\u00e7os advocat\u00edcios sejam prestados por M\u00e9vio, inexiste infra\u00e7\u00e3o disciplinar."
+            }
+        ],
+        "enum": "M\u00e9vio, advogado rec\u00e9m-formado com dificuldades de iniciar sua atividade profissional, prop\u00f5e a colegas de bairro e de escola a participa\u00e7\u00e3o percentual nos honor\u00e1rios dos clientes que receber para consultas ou que pretendam ajuizar a\u00e7\u00f5es judiciais. Consoante as normas aplic\u00e1veis, assinale a alternativa correta em rela\u00e7\u00e3o \u00e0 conduta de M\u00e9vio.",
+        "areas": [
+            "ETHICS"
+        ],
+        "number": "8"
+    }
+]

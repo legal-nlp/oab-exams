@@ -1,1 +1,57 @@
-[{"enum": "Ricardo foi denunciado, perante a 1\u00aa Vara Criminal de determinada cidade, pela pr\u00e1tica de crime de associa\u00e7\u00e3o para o tr\u00e1fico com mais 04 outros indiv\u00edduos, destacando a den\u00fancia o local, o per\u00edodo e a exist\u00eancia de outros indiv\u00edduos n\u00e3o identificados, integrantes da mesma associa\u00e7\u00e3o. Foi condenado em primeira inst\u00e2ncia e foi mantida a pris\u00e3o preventiva, apresentando a defesa recurso de apela\u00e7\u00e3o.  No dia seguinte da condena\u00e7\u00e3o, na cadeia, Ricardo vem a ser notificado em raz\u00e3o de den\u00fancia diversa oferecida pelo Minist\u00e9rio P\u00fablico, agora perante a 2\u00aa Vara Criminal da mesma cidade, pela pr\u00e1tica do mesmo crime de associa\u00e7\u00e3o para o tr\u00e1fico, em iguais per\u00edodo e local da primeira den\u00fancia, mas, dessa vez, foram denunciados tamb\u00e9m os indiv\u00edduos n\u00e3o identificados mencionados no primeiro processo.  Ricardo, ent\u00e3o, entra em contato com seu advogado, informando da nova notifica\u00e7\u00e3o.  Considerando a situa\u00e7\u00e3o narrada, caber\u00e1 ao advogado de Ricardo apresentar exce\u00e7\u00e3o de", "number": "69", "areas": [null], "valid": true, "filename": "2017-22.txt", "options": [{"correct": true, "text": "litispend\u00eancia.", "letter": "A", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "text": "coisa julgada.", "letter": "B", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "text": "incompet\u00eancia.", "letter": "C", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "text": "ilegitimidade.", "letter": "D", "pmi": [0.0, 0, 0, 0]}]}]
+[
+    {
+        "enum": "Ricardo foi denunciado, perante a 1\u00aa Vara Criminal de determinada cidade, pela pr\u00e1tica de crime de associa\u00e7\u00e3o para o tr\u00e1fico com mais 04 outros indiv\u00edduos, destacando a den\u00fancia o local, o per\u00edodo e a exist\u00eancia de outros indiv\u00edduos n\u00e3o identificados, integrantes da mesma associa\u00e7\u00e3o. Foi condenado em primeira inst\u00e2ncia e foi mantida a pris\u00e3o preventiva, apresentando a defesa recurso de apela\u00e7\u00e3o.  No dia seguinte da condena\u00e7\u00e3o, na cadeia, Ricardo vem a ser notificado em raz\u00e3o de den\u00fancia diversa oferecida pelo Minist\u00e9rio P\u00fablico, agora perante a 2\u00aa Vara Criminal da mesma cidade, pela pr\u00e1tica do mesmo crime de associa\u00e7\u00e3o para o tr\u00e1fico, em iguais per\u00edodo e local da primeira den\u00fancia, mas, dessa vez, foram denunciados tamb\u00e9m os indiv\u00edduos n\u00e3o identificados mencionados no primeiro processo.  Ricardo, ent\u00e3o, entra em contato com seu advogado, informando da nova notifica\u00e7\u00e3o.  Considerando a situa\u00e7\u00e3o narrada, caber\u00e1 ao advogado de Ricardo apresentar exce\u00e7\u00e3o de",
+        "number": "69",
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "filename": "2017-22.txt",
+        "options": [
+            {
+                "correct": true,
+                "text": "litispend\u00eancia.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "coisa julgada.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "incompet\u00eancia.",
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "ilegitimidade.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    }
+]

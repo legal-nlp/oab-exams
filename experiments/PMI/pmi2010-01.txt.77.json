@@ -1,1 +1,57 @@
-[{"number": "77", "filename": "2010-01.txt", "valid": true, "areas": ["LABOUR-PROCEDURE"], "options": [{"pmi": [-0.2918758457885615, 0.0, 0.0, 0.0], "letter": "A", "text": "Nas execu\u00e7\u00f5es, cabe agravo de instrumento, no prazo de oito dias, contra as decis\u00f5es do juiz ou presidente.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "text": "Nas causas sujeitas ao procedimento sumar\u00edssimo, somente ser\u00e1 admitido recurso de revista por viola\u00e7\u00e3o direta da CF.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "text": "Contra as decis\u00f5es definitivas ou terminativas das varas e ju\u00edzos cabe recurso ordin\u00e1rio para a inst\u00e2ncia superior, no prazo de oito dias.", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "text": "Nas reclama\u00e7\u00f5es sujeitas ao procedimento sumar\u00edssimo, o recurso ordin\u00e1rio ter\u00e1 de ser imediatamente distribu\u00eddo, devendo o relator liber\u00e1-lo no prazo m\u00e1ximo de trinta dias.", "correct": null}], "enum": "Acerca dos recursos no processo do trabalho, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "number": "77",
+        "filename": "2010-01.txt",
+        "valid": true,
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    -0.2918758457885615,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Nas execu\u00e7\u00f5es, cabe agravo de instrumento, no prazo de oito dias, contra as decis\u00f5es do juiz ou presidente.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Nas causas sujeitas ao procedimento sumar\u00edssimo, somente ser\u00e1 admitido recurso de revista por viola\u00e7\u00e3o direta da CF.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Contra as decis\u00f5es definitivas ou terminativas das varas e ju\u00edzos cabe recurso ordin\u00e1rio para a inst\u00e2ncia superior, no prazo de oito dias.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Nas reclama\u00e7\u00f5es sujeitas ao procedimento sumar\u00edssimo, o recurso ordin\u00e1rio ter\u00e1 de ser imediatamente distribu\u00eddo, devendo o relator liber\u00e1-lo no prazo m\u00e1ximo de trinta dias.",
+                "correct": null
+            }
+        ],
+        "enum": "Acerca dos recursos no processo do trabalho, assinale a op\u00e7\u00e3o correta."
+    }
+]

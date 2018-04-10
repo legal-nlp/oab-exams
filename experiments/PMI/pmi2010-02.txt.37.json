@@ -1,1 +1,57 @@
-[{"filename": "2010-02.txt", "number": "37", "valid": true, "areas": ["CIVIL-PROCEDURE"], "enum": "Acerca da revelia, \u00e9 correto afirmar que:", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "a revelia se d\u00e1 com a n\u00e3o apresenta\u00e7\u00e3o de exce\u00e7\u00e3o ou de reconven\u00e7\u00e3o no prazo da resposta."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "ainda que o lit\u00edgio verse sobre direitos indispon\u00edveis, a revelia produz seus efeitos normalmente."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "contra o revel, ainda que tenha patrono constitu\u00eddo nos autos, correr\u00e3o os prazos independentemente de intima\u00e7\u00e3o."}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "letter": "D", "text": "o revel pode intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar."}]}]
+[
+    {
+        "filename": "2010-02.txt",
+        "number": "37",
+        "valid": true,
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Acerca da revelia, \u00e9 correto afirmar que:",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "a revelia se d\u00e1 com a n\u00e3o apresenta\u00e7\u00e3o de exce\u00e7\u00e3o ou de reconven\u00e7\u00e3o no prazo da resposta."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "ainda que o lit\u00edgio verse sobre direitos indispon\u00edveis, a revelia produz seus efeitos normalmente."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "contra o revel, ainda que tenha patrono constitu\u00eddo nos autos, correr\u00e3o os prazos independentemente de intima\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "D",
+                "text": "o revel pode intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar."
+            }
+        ]
+    }
+]

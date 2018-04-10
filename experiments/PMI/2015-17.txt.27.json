@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "A pessoa jur\u00eddica X foi contemplada com isen\u00e7\u00e3o do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) do im\u00f3vel utilizado para suas atividades comerciais. A referida isen\u00e7\u00e3o foi concedida pelo prazo de 5 (cinco) anos e sob a condi\u00e7\u00e3o de que o im\u00f3vel seja utilizado para a produ\u00e7\u00e3o de artesanato regional.\n\n Com base no caso apresentado, sobre a referida isen\u00e7\u00e3o assinale a op\u00e7\u00e3o correta.", "filename": "2015-17.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "Poder\u00e1 ser suprimida por lei, a qualquer tempo, ainda que o contribuinte atenda \u00e0 condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."}, {"correct": true, "letter": "B", "text": "N\u00e3o poder\u00e1 ser suprimida no prazo de 5 (cinco) anos, caso o contribuinte cumpra a condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."}, {"correct": null, "letter": "C", "text": "N\u00e3o poder\u00e1 ser suprimida no prazo de 5 (cinco) anos, ainda que o contribuinte utilize o im\u00f3vel para a realiza\u00e7\u00e3o de atividades comerciais diversas da produ\u00e7\u00e3o de artesanato regional."}, {"correct": null, "letter": "D", "text": "Poder\u00e1 ser suprimida por decreto, a qualquer tempo, ainda que o contribuinte cumpra a condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "A pessoa jur\u00eddica X foi contemplada com isen\u00e7\u00e3o do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) do im\u00f3vel utilizado para suas atividades comerciais. A referida isen\u00e7\u00e3o foi concedida pelo prazo de 5 (cinco) anos e sob a condi\u00e7\u00e3o de que o im\u00f3vel seja utilizado para a produ\u00e7\u00e3o de artesanato regional.\n\n Com base no caso apresentado, sobre a referida isen\u00e7\u00e3o assinale a op\u00e7\u00e3o correta.",
+        "filename": "2015-17.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Poder\u00e1 ser suprimida por lei, a qualquer tempo, ainda que o contribuinte atenda \u00e0 condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "N\u00e3o poder\u00e1 ser suprimida no prazo de 5 (cinco) anos, caso o contribuinte cumpra a condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o poder\u00e1 ser suprimida no prazo de 5 (cinco) anos, ainda que o contribuinte utilize o im\u00f3vel para a realiza\u00e7\u00e3o de atividades comerciais diversas da produ\u00e7\u00e3o de artesanato regional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Poder\u00e1 ser suprimida por decreto, a qualquer tempo, ainda que o contribuinte cumpra a condi\u00e7\u00e3o de utilizar o im\u00f3vel para a produ\u00e7\u00e3o de artesanato regional."
+            }
+        ],
+        "valid": true
+    }
+]

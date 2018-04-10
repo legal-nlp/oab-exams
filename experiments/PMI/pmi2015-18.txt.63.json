@@ -1,1 +1,55 @@
-[{"valid": true, "filename": "2015-18.txt", "number": "63", "options": [{"letter": "A", "pmi": [0.0011402129101067142, 0.0, 0.0, 0.0], "correct": null, "text": "aborto tentado com consentimento da gestante qualificado pelo resultado morte."}, {"letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "aborto tentado com consentimento da gestante."}, {"letter": "C", "pmi": [0.0, 0.0, 0, 0], "correct": true, "text": "homic\u00eddio culposo."}, {"letter": "D", "pmi": [-0.0006166378598049574, 0.0, 0, 0], "correct": null, "text": "homic\u00eddio doloso."}], "enum": "Maria mant\u00e9m relacionamento clandestino com Jo\u00e3o. Acreditando estar gr\u00e1vida, procura o seu amigo Pedro, que \u00e9 auxiliar de enfermagem, e implora para que ele fa\u00e7a o aborto. Pedro, que j\u00e1 auxiliou diversas cirurgias legais de aborto, acreditando ter condi\u00e7\u00f5es t\u00e9cnicas de realizar o ato sozinho, atende ao pedido de sua amiga, preocupado com a situa\u00e7\u00e3o pessoal de Maria, que n\u00e3o poderia assumir a gravidez por ela anunciada. Durante a cirurgia, em raz\u00e3o da imper\u00edcia de Pedro, Maria vem a falecer, ficando apurado que, na verdade, ela n\u00e3o estava gr\u00e1vida.\n\n Em raz\u00e3o do fato narrado, Pedro dever\u00e1 responder pelo crime de", "areas": []}]
+[
+    {
+        "valid": true,
+        "filename": "2015-18.txt",
+        "number": "63",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0011402129101067142,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "aborto tentado com consentimento da gestante qualificado pelo resultado morte."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "aborto tentado com consentimento da gestante."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "correct": true,
+                "text": "homic\u00eddio culposo."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.0006166378598049574,
+                    0.0,
+                    0,
+                    0
+                ],
+                "correct": null,
+                "text": "homic\u00eddio doloso."
+            }
+        ],
+        "enum": "Maria mant\u00e9m relacionamento clandestino com Jo\u00e3o. Acreditando estar gr\u00e1vida, procura o seu amigo Pedro, que \u00e9 auxiliar de enfermagem, e implora para que ele fa\u00e7a o aborto. Pedro, que j\u00e1 auxiliou diversas cirurgias legais de aborto, acreditando ter condi\u00e7\u00f5es t\u00e9cnicas de realizar o ato sozinho, atende ao pedido de sua amiga, preocupado com a situa\u00e7\u00e3o pessoal de Maria, que n\u00e3o poderia assumir a gravidez por ela anunciada. Durante a cirurgia, em raz\u00e3o da imper\u00edcia de Pedro, Maria vem a falecer, ficando apurado que, na verdade, ela n\u00e3o estava gr\u00e1vida.\n\n Em raz\u00e3o do fato narrado, Pedro dever\u00e1 responder pelo crime de",
+        "areas": []
+    }
+]

@@ -1,1 +1,55 @@
-[{"enum": "Mateus n\u00e3o tinha mais parentes, nunca tivera descendentes e jamais havia vivido em uni\u00e3o est\u00e1vel ou em matrim\u00f4nio. H\u00e1 alguns anos, ele decidiu fazer um testamento e deixar todo o seu patrim\u00f4nio para seus amigos da vida toda, Marcos e Lucas. Seis meses depois da lavratura do testamento, por for\u00e7a de um exame de DNA, Mateus descobriu que tinha um filho, Alberto, 29 anos, que n\u00e3o conhecia, fruto de um relacionamento fugaz ocorrido no in\u00edcio de sua faculdade. Mateus reconheceu a paternidade de Alberto no Registro Civil e passou a conviver periodicamente com o filho. No m\u00eas passado, Mateus faleceu.\n\n Sobre sua sucess\u00e3o, assinale a afirmativa correta.", "options": [{"text": "Todo o patrim\u00f4nio de Mateus caber\u00e1 a Alberto.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "correct": true}, {"text": "Todo o patrim\u00f4nio de Mateus caber\u00e1 a Marcos e Lucas, por for\u00e7a do testamento.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "Alberto ter\u00e1 direito \u00e0 leg\u00edtima, cabendo a Marcos e Lucas a divis\u00e3o da quota dispon\u00edvel.", "pmi": [-0.02424599660834234, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "A heran\u00e7a de Mateus caber\u00e1 igualmente aos tr\u00eas herdeiros.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "valid": true, "filename": "2014-15.txt", "areas": [], "number": "42"}]
+[
+    {
+        "enum": "Mateus n\u00e3o tinha mais parentes, nunca tivera descendentes e jamais havia vivido em uni\u00e3o est\u00e1vel ou em matrim\u00f4nio. H\u00e1 alguns anos, ele decidiu fazer um testamento e deixar todo o seu patrim\u00f4nio para seus amigos da vida toda, Marcos e Lucas. Seis meses depois da lavratura do testamento, por for\u00e7a de um exame de DNA, Mateus descobriu que tinha um filho, Alberto, 29 anos, que n\u00e3o conhecia, fruto de um relacionamento fugaz ocorrido no in\u00edcio de sua faculdade. Mateus reconheceu a paternidade de Alberto no Registro Civil e passou a conviver periodicamente com o filho. No m\u00eas passado, Mateus faleceu.\n\n Sobre sua sucess\u00e3o, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "Todo o patrim\u00f4nio de Mateus caber\u00e1 a Alberto.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "text": "Todo o patrim\u00f4nio de Mateus caber\u00e1 a Marcos e Lucas, por for\u00e7a do testamento.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "Alberto ter\u00e1 direito \u00e0 leg\u00edtima, cabendo a Marcos e Lucas a divis\u00e3o da quota dispon\u00edvel.",
+                "pmi": [
+                    -0.02424599660834234,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "A heran\u00e7a de Mateus caber\u00e1 igualmente aos tr\u00eas herdeiros.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "filename": "2014-15.txt",
+        "areas": [],
+        "number": "42"
+    }
+]

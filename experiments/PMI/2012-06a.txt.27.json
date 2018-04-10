@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "S\u00e3o princ\u00edpios pr\u00f3prios ou espec\u00edficos dos servi\u00e7os p\u00fablicos, previstos na Lei 8.987/95,", "filename": "2012-06a.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "moralidade, publicidade e legalidade."}, {"correct": null, "letter": "B", "text": "especificidade, publicidade e moralidade."}, {"correct": true, "letter": "C", "text": "continuidade, atualidade e cortesia."}, {"correct": null, "letter": "D", "text": "atratividade, mutualismo e comutatividade."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "S\u00e3o princ\u00edpios pr\u00f3prios ou espec\u00edficos dos servi\u00e7os p\u00fablicos, previstos na Lei 8.987/95,",
+        "filename": "2012-06a.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "moralidade, publicidade e legalidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "especificidade, publicidade e moralidade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "continuidade, atualidade e cortesia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "atratividade, mutualismo e comutatividade."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2015-16.txt", "valid": true, "options": [{"pmi": [-0.05065926070284516, 0.0, 0.0, 0.0], "correct": true, "text": "O advogado n\u00e3o cometeu infra\u00e7\u00e3o \u00e9tica, porque apenas resta configurada infra\u00e7\u00e3o disciplinar na recusa do advogado a prestar assist\u00eancia jur\u00eddica quando h\u00e1 impossibilidade da Defensoria P\u00fablica.", "letter": "A"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "O advogado cometeu infra\u00e7\u00e3o \u00e9tica, porque ele j\u00e1 estava na sala de audi\u00eancias.", "letter": "B"}, {"pmi": [-0.007284664794596335, 0.0, 0.0, 0.0], "correct": null, "text": "O advogado n\u00e3o cometeu infra\u00e7\u00e3o \u00e9tica, porque \u00e9 vedado ao advogado participar de duas audi\u00eancias sucessivas.", "letter": "C"}, {"pmi": [-0.07677495834032111, 0.0, 0.0, 0.0], "correct": null, "text": "O advogado cometeu infra\u00e7\u00e3o \u00e9tica, porque ele tem o dever de contribuir para a boa administra\u00e7\u00e3o da justi\u00e7a.", "letter": "D"}], "number": "9", "enum": "Ao final de audi\u00eancia de instru\u00e7\u00e3o e julgamento realizada em determinada vara criminal, o juiz solicita que o advogado n\u00e3o deixe o recinto, bem como que ele atue em outras duas audi\u00eancias que ali seriam realizadas em seguida. O advogado recusa-se a participar das outras duas audi\u00eancias mencionadas, at\u00e9 mesmo por haver Defensor P\u00fablico dispon\u00edvel.\n\n Com base no caso exposto, assinale a afirmativa correta."}]
+[
+    {
+        "areas": [],
+        "filename": "2015-16.txt",
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.05065926070284516,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O advogado n\u00e3o cometeu infra\u00e7\u00e3o \u00e9tica, porque apenas resta configurada infra\u00e7\u00e3o disciplinar na recusa do advogado a prestar assist\u00eancia jur\u00eddica quando h\u00e1 impossibilidade da Defensoria P\u00fablica.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O advogado cometeu infra\u00e7\u00e3o \u00e9tica, porque ele j\u00e1 estava na sala de audi\u00eancias.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.007284664794596335,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O advogado n\u00e3o cometeu infra\u00e7\u00e3o \u00e9tica, porque \u00e9 vedado ao advogado participar de duas audi\u00eancias sucessivas.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.07677495834032111,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O advogado cometeu infra\u00e7\u00e3o \u00e9tica, porque ele tem o dever de contribuir para a boa administra\u00e7\u00e3o da justi\u00e7a.",
+                "letter": "D"
+            }
+        ],
+        "number": "9",
+        "enum": "Ao final de audi\u00eancia de instru\u00e7\u00e3o e julgamento realizada em determinada vara criminal, o juiz solicita que o advogado n\u00e3o deixe o recinto, bem como que ele atue em outras duas audi\u00eancias que ali seriam realizadas em seguida. O advogado recusa-se a participar das outras duas audi\u00eancias mencionadas, at\u00e9 mesmo por haver Defensor P\u00fablico dispon\u00edvel.\n\n Com base no caso exposto, assinale a afirmativa correta."
+    }
+]

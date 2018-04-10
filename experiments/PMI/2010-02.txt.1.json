@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "O Congresso Nacional e suas respectivas Casas se re\u00fanem anualmente para a atividade legislativa. Com rela\u00e7\u00e3o ao sistema constitucional brasileiro, assinale a alternativa correta.", "filename": "2010-02.txt", "number": "1", "options": [{"correct": null, "letter": "A", "text": "Legislatura: o per\u00edodo compreendido entre 2 de fevereiro a 17 de julho e 1\u00ba de agosto a 22 de dezembro."}, {"correct": null, "letter": "B", "text": "Sess\u00e3o legislativa: os quatro anos equivalentes ao mandato dos parlamentares."}, {"correct": true, "letter": "C", "text": "Sess\u00e3o conjunta: a reuni\u00e3o da C\u00e2mara dos Deputados e do Senado Federal destinada, por exemplo, a conhecer do veto presidencial e sobre ele deliberar."}, {"correct": null, "letter": "D", "text": "Sess\u00e3o extraordin\u00e1ria: a que ocorre por convoca\u00e7\u00e3o ou do Presidente do Senado Federal ou do Presidente da C\u00e2mara dos Deputados ou do Presidente da Rep\u00fablica e mesmo por requerimento da maioria dos membros de ambas as Casas para, excepcionalmente, inaugurar a sess\u00e3o legislativa e eleger as respectivas mesas diretoras."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O Congresso Nacional e suas respectivas Casas se re\u00fanem anualmente para a atividade legislativa. Com rela\u00e7\u00e3o ao sistema constitucional brasileiro, assinale a alternativa correta.",
+        "filename": "2010-02.txt",
+        "number": "1",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Legislatura: o per\u00edodo compreendido entre 2 de fevereiro a 17 de julho e 1\u00ba de agosto a 22 de dezembro."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Sess\u00e3o legislativa: os quatro anos equivalentes ao mandato dos parlamentares."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Sess\u00e3o conjunta: a reuni\u00e3o da C\u00e2mara dos Deputados e do Senado Federal destinada, por exemplo, a conhecer do veto presidencial e sobre ele deliberar."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Sess\u00e3o extraordin\u00e1ria: a que ocorre por convoca\u00e7\u00e3o ou do Presidente do Senado Federal ou do Presidente da C\u00e2mara dos Deputados ou do Presidente da Rep\u00fablica e mesmo por requerimento da maioria dos membros de ambas as Casas para, excepcionalmente, inaugurar a sess\u00e3o legislativa e eleger as respectivas mesas diretoras."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "areas": ["ETHICS"], "enum": "A advogada K\u00e1tia exerce, de forma eventual e volunt\u00e1ria, a advocacia pro bono em favor de certa institui\u00e7\u00e3o social, a qual possui personalidade jur\u00eddica como associa\u00e7\u00e3o, bem como de pessoas f\u00edsicas economicamente hipossuficientes.\n\n Em raz\u00e3o dessa pr\u00e1tica, sempre que pode, K\u00e1tia faz men\u00e7\u00e3o p\u00fablica \u00e0 sua atua\u00e7\u00e3o pro bono, por entender que isto revela correi\u00e7\u00e3o de car\u00e1ter e gera boa publicidade de seus servi\u00e7os como advogada, para obten\u00e7\u00e3o de clientes em sua atua\u00e7\u00e3o remunerada.\n\n Considerando as informa\u00e7\u00f5es acima, assinale a afirmativa correta.", "options": [{"pmi": [-0.0832191161730101, 0.0, 0.0, 0.0], "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica porque a advocacia pro bono n\u00e3o pode ser destinada a pessoas jur\u00eddicas, sob pena de caracteriza\u00e7\u00e3o de aviltamento de honor\u00e1rios. K\u00e1tia tamb\u00e9m comete infra\u00e7\u00e3o \u00e9tica ao divulgar sua atua\u00e7\u00e3o pro bono como instrumento de publicidade para obten\u00e7\u00e3o de clientela.", "letter": "A", "correct": null}, {"pmi": [-0.11558210579584735, 0.0, 0.0, 0.0], "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica, ao divulgar sua atua\u00e7\u00e3o pro bono como instrumento de publicidade para obten\u00e7\u00e3o de clientela. Quanto \u00e0 atua\u00e7\u00e3o pro bono em favor de pessoas jur\u00eddicas, inexiste veda\u00e7\u00e3o.", "letter": "B", "correct": true}, {"pmi": [-0.09907037639644059, 0.0, 0.0, 0.0], "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica porque a advocacia pro bono n\u00e3o pode ser destinada a pessoas jur\u00eddicas, sob pena de caracteriza\u00e7\u00e3o de aviltamento de honor\u00e1rios. Quanto \u00e0 divulga\u00e7\u00e3o de seus servi\u00e7os pro bono para obten\u00e7\u00e3o de clientela, inexiste veda\u00e7\u00e3o.", "letter": "C", "correct": null}, {"pmi": [-0.11558210579584735, 0.0, 0.0, 0.0], "text": "A situa\u00e7\u00e3o narrada n\u00e3o revela infra\u00e7\u00e3o \u00e9tica. Inexistem \u00f3bices \u00e0 divulga\u00e7\u00e3o por K\u00e1tia de seus servi\u00e7os pro bono para obten\u00e7\u00e3o de clientela, bem como \u00e0 atua\u00e7\u00e3o pro bono em favor de pessoas jur\u00eddicas.", "letter": "D", "correct": null}], "filename": "2016-21.txt", "number": "10"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "A advogada K\u00e1tia exerce, de forma eventual e volunt\u00e1ria, a advocacia pro bono em favor de certa institui\u00e7\u00e3o social, a qual possui personalidade jur\u00eddica como associa\u00e7\u00e3o, bem como de pessoas f\u00edsicas economicamente hipossuficientes.\n\n Em raz\u00e3o dessa pr\u00e1tica, sempre que pode, K\u00e1tia faz men\u00e7\u00e3o p\u00fablica \u00e0 sua atua\u00e7\u00e3o pro bono, por entender que isto revela correi\u00e7\u00e3o de car\u00e1ter e gera boa publicidade de seus servi\u00e7os como advogada, para obten\u00e7\u00e3o de clientes em sua atua\u00e7\u00e3o remunerada.\n\n Considerando as informa\u00e7\u00f5es acima, assinale a afirmativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.0832191161730101,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica porque a advocacia pro bono n\u00e3o pode ser destinada a pessoas jur\u00eddicas, sob pena de caracteriza\u00e7\u00e3o de aviltamento de honor\u00e1rios. K\u00e1tia tamb\u00e9m comete infra\u00e7\u00e3o \u00e9tica ao divulgar sua atua\u00e7\u00e3o pro bono como instrumento de publicidade para obten\u00e7\u00e3o de clientela.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.11558210579584735,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica, ao divulgar sua atua\u00e7\u00e3o pro bono como instrumento de publicidade para obten\u00e7\u00e3o de clientela. Quanto \u00e0 atua\u00e7\u00e3o pro bono em favor de pessoas jur\u00eddicas, inexiste veda\u00e7\u00e3o.",
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.09907037639644059,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "K\u00e1tia comete infra\u00e7\u00e3o \u00e9tica porque a advocacia pro bono n\u00e3o pode ser destinada a pessoas jur\u00eddicas, sob pena de caracteriza\u00e7\u00e3o de aviltamento de honor\u00e1rios. Quanto \u00e0 divulga\u00e7\u00e3o de seus servi\u00e7os pro bono para obten\u00e7\u00e3o de clientela, inexiste veda\u00e7\u00e3o.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.11558210579584735,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A situa\u00e7\u00e3o narrada n\u00e3o revela infra\u00e7\u00e3o \u00e9tica. Inexistem \u00f3bices \u00e0 divulga\u00e7\u00e3o por K\u00e1tia de seus servi\u00e7os pro bono para obten\u00e7\u00e3o de clientela, bem como \u00e0 atua\u00e7\u00e3o pro bono em favor de pessoas jur\u00eddicas.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "filename": "2016-21.txt",
+        "number": "10"
+    }
+]

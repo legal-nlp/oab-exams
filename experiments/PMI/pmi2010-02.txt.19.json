@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "number": "19", "options": [{"letter": "A", "correct": null, "text": "quando estiver diante de conceitos legais e jur\u00eddicos parcialmente indeterminados, que se tornam determinados \u00e0 luz do caso concreto e \u00e0 luz das circunst\u00e2ncias de fato.", "pmi": [-0.13590813750988076, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "quando estiver diante de conceitos legais e jur\u00eddicos t\u00e9cnico-cient\u00edficos, sendo, neste caso, limitado \u00e0s escolhas t\u00e9cnicas, por \u00f3bvio poss\u00edveis.", "pmi": [-0.16061870796622274, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "quando estiver diante de conceitos valorativos estabelecidos pela lei, que dependem de concretiza\u00e7\u00e3o pelas escolhas do agente, considerados o momento hist\u00f3rico e social.", "pmi": [-0.2833751718011868, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": true, "text": "em situa\u00e7\u00f5es em que a reda\u00e7\u00e3o da Lei se encontra insatisfat\u00f3ria ou ultrapassada.", "pmi": [-0.6628464006627195, 0.0, 0.0, 0.0]}], "filename": "2010-02.txt", "enum": "No \u00e2mbito do Poder discricion\u00e1rio da Administra\u00e7\u00e3o P\u00fablica, n\u00e3o se admite que o agente p\u00fablico administrativo exer\u00e7a o Poder discricion\u00e1rio", "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "number": "19",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "quando estiver diante de conceitos legais e jur\u00eddicos parcialmente indeterminados, que se tornam determinados \u00e0 luz do caso concreto e \u00e0 luz das circunst\u00e2ncias de fato.",
+                "pmi": [
+                    -0.13590813750988076,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "quando estiver diante de conceitos legais e jur\u00eddicos t\u00e9cnico-cient\u00edficos, sendo, neste caso, limitado \u00e0s escolhas t\u00e9cnicas, por \u00f3bvio poss\u00edveis.",
+                "pmi": [
+                    -0.16061870796622274,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "quando estiver diante de conceitos valorativos estabelecidos pela lei, que dependem de concretiza\u00e7\u00e3o pelas escolhas do agente, considerados o momento hist\u00f3rico e social.",
+                "pmi": [
+                    -0.2833751718011868,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "text": "em situa\u00e7\u00f5es em que a reda\u00e7\u00e3o da Lei se encontra insatisfat\u00f3ria ou ultrapassada.",
+                "pmi": [
+                    -0.6628464006627195,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2010-02.txt",
+        "enum": "No \u00e2mbito do Poder discricion\u00e1rio da Administra\u00e7\u00e3o P\u00fablica, n\u00e3o se admite que o agente p\u00fablico administrativo exer\u00e7a o Poder discricion\u00e1rio",
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"number": "66", "options": [{"pmi": [-0.1764629388870432, 0.0, 0.0, 0.0], "letter": "A", "text": "quando a den\u00fancia n\u00e3o for intentada no prazo legal, o ofendido poder\u00e1 representar ao Procurador-Geral da Rep\u00fablica, para que este a ofere\u00e7a, designe outro \u00f3rg\u00e3o do Minist\u00e9rio P\u00fablico para oferec\u00ea-la ou determine o arquivamento das pe\u00e7as de informa\u00e7\u00f5es recebidas.", "correct": true}, {"pmi": [-0.4868861176807505, 0.0, 0.0, 0.0], "letter": "B", "text": "nos crimes previstos nessa lei, cometidos em quadrilha ou coautoria, o coautor ou part\u00edcipe que, por meio de confiss\u00e3o espont\u00e2nea, revelar \u00e0 autoridade policial ou judicial toda a trama delituosa ter\u00e1 sua pena reduzida de 1 (um) a 2/5 (dois quintos).", "correct": null}, {"pmi": [-0.15614307630095056, 0.0, 0.0, 0.0], "letter": "C", "text": "a a\u00e7\u00e3o penal ser\u00e1 promovida perante a Justi\u00e7a Federal quando a infra\u00e7\u00e3o for praticada em detrimento de bens e servi\u00e7os de entes federais. Nos demais casos, ser\u00e1 proposta perante a Justi\u00e7a Estadual.", "correct": null}, {"pmi": [-0.2507508256822422, 0.0, 0.0, 0.0], "letter": "D", "text": "os \u00f3rg\u00e3os dos Minist\u00e9rios P\u00fablicos Federal e Estadual, sempre que julgarem necess\u00e1rio, poder\u00e3o requisitar, a qualquer autoridade, informa\u00e7\u00e3o, documento ou dilig\u00eancia relativa \u00e0 prova dos crimes previstos na Lei 7.492/86.", "correct": null}], "enum": "A Lei 7.492/86 define os Crimes contra o Sistema Financeiro Nacional. Acerca do procedimento previsto para tais crimes, \u00e9 correto afirmar que", "areas": ["CRIMINAL-PROCEDURE"], "valid": true, "filename": "2011-04.txt"}]
+[
+    {
+        "number": "66",
+        "options": [
+            {
+                "pmi": [
+                    -0.1764629388870432,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "quando a den\u00fancia n\u00e3o for intentada no prazo legal, o ofendido poder\u00e1 representar ao Procurador-Geral da Rep\u00fablica, para que este a ofere\u00e7a, designe outro \u00f3rg\u00e3o do Minist\u00e9rio P\u00fablico para oferec\u00ea-la ou determine o arquivamento das pe\u00e7as de informa\u00e7\u00f5es recebidas.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.4868861176807505,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "nos crimes previstos nessa lei, cometidos em quadrilha ou coautoria, o coautor ou part\u00edcipe que, por meio de confiss\u00e3o espont\u00e2nea, revelar \u00e0 autoridade policial ou judicial toda a trama delituosa ter\u00e1 sua pena reduzida de 1 (um) a 2/5 (dois quintos).",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.15614307630095056,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "a a\u00e7\u00e3o penal ser\u00e1 promovida perante a Justi\u00e7a Federal quando a infra\u00e7\u00e3o for praticada em detrimento de bens e servi\u00e7os de entes federais. Nos demais casos, ser\u00e1 proposta perante a Justi\u00e7a Estadual.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.2507508256822422,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "os \u00f3rg\u00e3os dos Minist\u00e9rios P\u00fablicos Federal e Estadual, sempre que julgarem necess\u00e1rio, poder\u00e3o requisitar, a qualquer autoridade, informa\u00e7\u00e3o, documento ou dilig\u00eancia relativa \u00e0 prova dos crimes previstos na Lei 7.492/86.",
+                "correct": null
+            }
+        ],
+        "enum": "A Lei 7.492/86 define os Crimes contra o Sistema Financeiro Nacional. Acerca do procedimento previsto para tais crimes, \u00e9 correto afirmar que",
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "valid": true,
+        "filename": "2011-04.txt"
+    }
+]

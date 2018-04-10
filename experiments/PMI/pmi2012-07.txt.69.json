@@ -1,1 +1,57 @@
-[{"filename": "2012-07.txt", "number": "69", "options": [{"pmi": [-0.049798039067046225, 0.0, 0.0, 0.0], "text": "a possibilidade do defeito do ato se estender aos atos que lhes s\u00e3o subsequentes e que deles dependam.", "correct": true, "letter": "A"}, {"pmi": [-0.049798039067046225, 0.0, 0.0, 0.0], "text": "que n\u00e3o h\u00e1 como se declarar a nulidade de um ato se este n\u00e3o resultar preju\u00edzo \u00e0 acusa\u00e7\u00e3o ou \u00e0 defesa.", "correct": null, "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "que nenhuma das partes poder\u00e1 arguir nulidade a que haja dado causa, ou para que tenha concorrido.", "correct": null, "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "text": "que as nulidades poder\u00e3o ser sanadas.", "correct": null, "letter": "D"}], "enum": "O advogado Jos\u00e9, observando determinado acontecimento no processo, entende por bem arguir a nulidade do processo, tendo em vista a viola\u00e7\u00e3o do devido processo legal, ocorrida durante a Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento.  Acerca da Teoria Geral das Nulidades, \u00e9 correto afirmar que o princ\u00edpio da causalidade significa", "areas": ["CRIMINAL-PROCEDURE"], "valid": true}]
+[
+    {
+        "filename": "2012-07.txt",
+        "number": "69",
+        "options": [
+            {
+                "pmi": [
+                    -0.049798039067046225,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a possibilidade do defeito do ato se estender aos atos que lhes s\u00e3o subsequentes e que deles dependam.",
+                "correct": true,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.049798039067046225,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "que n\u00e3o h\u00e1 como se declarar a nulidade de um ato se este n\u00e3o resultar preju\u00edzo \u00e0 acusa\u00e7\u00e3o ou \u00e0 defesa.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "que nenhuma das partes poder\u00e1 arguir nulidade a que haja dado causa, ou para que tenha concorrido.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "que as nulidades poder\u00e3o ser sanadas.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "enum": "O advogado Jos\u00e9, observando determinado acontecimento no processo, entende por bem arguir a nulidade do processo, tendo em vista a viola\u00e7\u00e3o do devido processo legal, ocorrida durante a Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento.  Acerca da Teoria Geral das Nulidades, \u00e9 correto afirmar que o princ\u00edpio da causalidade significa",
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "valid": true
+    }
+]

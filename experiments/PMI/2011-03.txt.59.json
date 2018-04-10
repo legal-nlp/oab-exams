@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Pedro, n\u00e3o observando seu dever objetivo de cuidado na condu\u00e7\u00e3o de uma bicicleta, choca-se com um telefone p\u00fablico e o destr\u00f3i totalmente. Nesse caso, \u00e9 correto afirmar que Pedro", "filename": "2011-03.txt", "number": "59", "options": [{"correct": null, "letter": "A", "text": "dever\u00e1 ser responsabilizado pelo crime de dano simples, somente."}, {"correct": null, "letter": "B", "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, somente."}, {"correct": null, "letter": "C", "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, sem preju\u00edzo da obriga\u00e7\u00e3o de reparar o dano causado."}, {"correct": true, "letter": "D", "text": "n\u00e3o ser\u00e1 responsabilizado penalmente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Pedro, n\u00e3o observando seu dever objetivo de cuidado na condu\u00e7\u00e3o de uma bicicleta, choca-se com um telefone p\u00fablico e o destr\u00f3i totalmente. Nesse caso, \u00e9 correto afirmar que Pedro",
+        "filename": "2011-03.txt",
+        "number": "59",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano simples, somente."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, somente."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, sem preju\u00edzo da obriga\u00e7\u00e3o de reparar o dano causado."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "n\u00e3o ser\u00e1 responsabilizado penalmente."
+            }
+        ],
+        "valid": true
+    }
+]

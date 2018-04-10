@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "correct": true, "text": "O imposto sobre a renda \u00e9 devido face ao princ\u00edpio da interpreta\u00e7\u00e3o objetiva do fato gerador, tamb\u00e9m conhecido como o princ\u00edpio do pecunia non olet.", "pmi": [-0.07524580561980687, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "N\u00e3o caber\u00e1 tributa\u00e7\u00e3o e, sim, confisco da respectiva renda.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "N\u00e3o caber\u00e1 tributo, uma vez que tributo n\u00e3o \u00e9 san\u00e7\u00e3o de ato il\u00edcito.", "pmi": [-0.03326164616669999, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "Caber\u00e1 aplica\u00e7\u00e3o de multa fiscal pela n\u00e3o declara\u00e7\u00e3o de lucro, ficando afastada a incid\u00eancia do tributo, sem preju\u00edzo da puni\u00e7\u00e3o na esfera penal.", "pmi": [-0.05459376300283891, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2013-12.txt", "areas": ["TAXES"], "enum": "Em procedimento de fiscaliza\u00e7\u00e3o, a Secretaria da Receita Federal do Brasil identificou lucro n\u00e3o declarado por tr\u00eas sociedades empres\u00e1rias, que o obtiveram em conluio, fruto do tr\u00e1fico de entorpecentes.\n\n Sobre a hip\u00f3tese sugerida, assinale a afirmativa correta.", "number": "26"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "text": "O imposto sobre a renda \u00e9 devido face ao princ\u00edpio da interpreta\u00e7\u00e3o objetiva do fato gerador, tamb\u00e9m conhecido como o princ\u00edpio do pecunia non olet.",
+                "pmi": [
+                    -0.07524580561980687,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "N\u00e3o caber\u00e1 tributa\u00e7\u00e3o e, sim, confisco da respectiva renda.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "N\u00e3o caber\u00e1 tributo, uma vez que tributo n\u00e3o \u00e9 san\u00e7\u00e3o de ato il\u00edcito.",
+                "pmi": [
+                    -0.03326164616669999,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "Caber\u00e1 aplica\u00e7\u00e3o de multa fiscal pela n\u00e3o declara\u00e7\u00e3o de lucro, ficando afastada a incid\u00eancia do tributo, sem preju\u00edzo da puni\u00e7\u00e3o na esfera penal.",
+                "pmi": [
+                    -0.05459376300283891,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2013-12.txt",
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Em procedimento de fiscaliza\u00e7\u00e3o, a Secretaria da Receita Federal do Brasil identificou lucro n\u00e3o declarado por tr\u00eas sociedades empres\u00e1rias, que o obtiveram em conluio, fruto do tr\u00e1fico de entorpecentes.\n\n Sobre a hip\u00f3tese sugerida, assinale a afirmativa correta.",
+        "number": "26"
+    }
+]

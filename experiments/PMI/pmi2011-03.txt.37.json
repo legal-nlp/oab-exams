@@ -1,1 +1,57 @@
-[{"number": "37", "valid": true, "filename": "2011-03.txt", "enum": "Um juiz federal proferiu uma senten\u00e7a em processo relativo a crime pol\u00edtico e outra senten\u00e7a em processo movido por Estado estrangeiro contra pessoa residente no Brasil. Os recursos interpostos contra essas duas senten\u00e7as ser\u00e3o julgados pelo", "areas": ["CONSTITUTIONAL"], "options": [{"letter": "A", "text": "STF, no primeiro caso, e pelo TRF, no segundo caso.", "correct": null, "pmi": [-0.5126093968401417, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "TRF em ambos os casos.", "correct": null, "pmi": [0.0, 0.0, 0, 0]}, {"letter": "C", "text": "STF, no primeiro caso, e pelo STJ, no segundo caso.", "correct": true, "pmi": [-0.5126093968401417, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "TRF, no primeiro caso, e pelo STF, no segundo caso.", "correct": null, "pmi": [-0.5126093968401417, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "number": "37",
+        "valid": true,
+        "filename": "2011-03.txt",
+        "enum": "Um juiz federal proferiu uma senten\u00e7a em processo relativo a crime pol\u00edtico e outra senten\u00e7a em processo movido por Estado estrangeiro contra pessoa residente no Brasil. Os recursos interpostos contra essas duas senten\u00e7as ser\u00e3o julgados pelo",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "text": "STF, no primeiro caso, e pelo TRF, no segundo caso.",
+                "correct": null,
+                "pmi": [
+                    -0.5126093968401417,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "TRF em ambos os casos.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "STF, no primeiro caso, e pelo STJ, no segundo caso.",
+                "correct": true,
+                "pmi": [
+                    -0.5126093968401417,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "TRF, no primeiro caso, e pelo STF, no segundo caso.",
+                "correct": null,
+                "pmi": [
+                    -0.5126093968401417,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

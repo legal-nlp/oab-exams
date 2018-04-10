@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "O empregado J\u00falio foi v\u00edtima de um assalto, fora do local de trabalho, sem qualquer rela\u00e7\u00e3o com a presta\u00e7\u00e3o das suas atividades, sendo baleado e vindo a falecer logo ap\u00f3s. O empregado deixou vi\u00fava e quatro filhos, sendo dois menores imp\u00faberes e dois maiores e capazes.\n\n Dos direitos abaixo listados, indique aquele que n\u00e3o \u00e9 devido pela empresa e, de acordo com a lei de reg\u00eancia, a quem a empresa deve pagar os valores devidos ao falecido.", "filename": "2016-21.txt", "number": "74", "options": [{"correct": true, "letter": "A", "text": "A indeniza\u00e7\u00e3o de 40% sobre o FGTS n\u00e3o \u00e9 devida e os valores devidos ao falecido ser\u00e3o pagos aos dependentes habilitados perante a Previd\u00eancia Social."}, {"correct": null, "letter": "B", "text": "As f\u00e9rias proporcionais n\u00e3o s\u00e3o devidas e os valores devidos ao falecido ser\u00e3o pagos aos herdeiros."}, {"correct": null, "letter": "C", "text": "O aviso pr\u00e9vio n\u00e3o \u00e9 devido e os valores devidos ao falecido ser\u00e3o pagos aos herdeiros."}, {"correct": null, "letter": "D", "text": "O 13\u00ba sal\u00e1rio proporcional n\u00e3o \u00e9 devido e os valores devidos ao falecido ser\u00e3o pagos aos dependentes habilitados perante a Previd\u00eancia Social."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "O empregado J\u00falio foi v\u00edtima de um assalto, fora do local de trabalho, sem qualquer rela\u00e7\u00e3o com a presta\u00e7\u00e3o das suas atividades, sendo baleado e vindo a falecer logo ap\u00f3s. O empregado deixou vi\u00fava e quatro filhos, sendo dois menores imp\u00faberes e dois maiores e capazes.\n\n Dos direitos abaixo listados, indique aquele que n\u00e3o \u00e9 devido pela empresa e, de acordo com a lei de reg\u00eancia, a quem a empresa deve pagar os valores devidos ao falecido.",
+        "filename": "2016-21.txt",
+        "number": "74",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "A indeniza\u00e7\u00e3o de 40% sobre o FGTS n\u00e3o \u00e9 devida e os valores devidos ao falecido ser\u00e3o pagos aos dependentes habilitados perante a Previd\u00eancia Social."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "As f\u00e9rias proporcionais n\u00e3o s\u00e3o devidas e os valores devidos ao falecido ser\u00e3o pagos aos herdeiros."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O aviso pr\u00e9vio n\u00e3o \u00e9 devido e os valores devidos ao falecido ser\u00e3o pagos aos herdeiros."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O 13\u00ba sal\u00e1rio proporcional n\u00e3o \u00e9 devido e os valores devidos ao falecido ser\u00e3o pagos aos dependentes habilitados perante a Previd\u00eancia Social."
+            }
+        ],
+        "valid": true
+    }
+]

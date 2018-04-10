@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "A remunera\u00e7\u00e3o que os Munic\u00edpios pagam a seus servidores est\u00e1 sujeita \u00e0 incid\u00eancia do Imposto sobre a Renda retido na fonte (IR-Fonte). Assinale a alternativa que indica o ente p\u00fablico ao qual pertence o produto da arrecada\u00e7\u00e3o do IR-Fonte nesse caso espec\u00edfico.", "filename": "2013-11.txt", "number": "27", "options": [{"correct": true, "letter": "A", "text": "Ao Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "\u00c0 Uni\u00e3o."}, {"correct": null, "letter": "C", "text": "Ao Estado em que est\u00e1 situado o Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Metade \u00e0 Uni\u00e3o e metade ao Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "A remunera\u00e7\u00e3o que os Munic\u00edpios pagam a seus servidores est\u00e1 sujeita \u00e0 incid\u00eancia do Imposto sobre a Renda retido na fonte (IR-Fonte). Assinale a alternativa que indica o ente p\u00fablico ao qual pertence o produto da arrecada\u00e7\u00e3o do IR-Fonte nesse caso espec\u00edfico.",
+        "filename": "2013-11.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Ao Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "\u00c0 Uni\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Ao Estado em que est\u00e1 situado o Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Metade \u00e0 Uni\u00e3o e metade ao Munic\u00edpio que efetua o pagamento da remunera\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

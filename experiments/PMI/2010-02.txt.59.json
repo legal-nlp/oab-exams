@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL"], "enum": "Assinale a alternativa que preencha corretamente as lacunas do texto:\n\n \u201cpara a ocorr\u00eancia de __________, n\u00e3o basta a imputa\u00e7\u00e3o falsa de crime, mas \u00e9 indispens\u00e1vel que em decorr\u00eancia de tal imputa\u00e7\u00e3o seja instaurada, por exemplo, investiga\u00e7\u00e3o policial ou processo judicial. A simples imputa\u00e7\u00e3o falsa de fato definido como crime pode constituir __________, que, constitui infra\u00e7\u00e3o penal contra a honra, enquanto a __________ \u00e9 crime contra a Administra\u00e7\u00e3o da Justi\u00e7a\u201d.", "filename": "2010-02.txt", "number": "59", "options": [{"correct": true, "letter": "A", "text": "denuncia\u00e7\u00e3o caluniosa, cal\u00fania, denuncia\u00e7\u00e3o caluniosa."}, {"correct": null, "letter": "B", "text": "denuncia\u00e7\u00e3o caluniosa, difama\u00e7\u00e3o, denuncia\u00e7\u00e3o caluniosa."}, {"correct": null, "letter": "C", "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, cal\u00fania, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, difama\u00e7\u00e3o, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Assinale a alternativa que preencha corretamente as lacunas do texto:\n\n \u201cpara a ocorr\u00eancia de __________, n\u00e3o basta a imputa\u00e7\u00e3o falsa de crime, mas \u00e9 indispens\u00e1vel que em decorr\u00eancia de tal imputa\u00e7\u00e3o seja instaurada, por exemplo, investiga\u00e7\u00e3o policial ou processo judicial. A simples imputa\u00e7\u00e3o falsa de fato definido como crime pode constituir __________, que, constitui infra\u00e7\u00e3o penal contra a honra, enquanto a __________ \u00e9 crime contra a Administra\u00e7\u00e3o da Justi\u00e7a\u201d.",
+        "filename": "2010-02.txt",
+        "number": "59",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "denuncia\u00e7\u00e3o caluniosa, cal\u00fania, denuncia\u00e7\u00e3o caluniosa."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "denuncia\u00e7\u00e3o caluniosa, difama\u00e7\u00e3o, denuncia\u00e7\u00e3o caluniosa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, cal\u00fania, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, difama\u00e7\u00e3o, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

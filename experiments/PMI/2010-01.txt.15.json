@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Acerca da distribui\u00e7\u00e3o de compet\u00eancias dos entes federativos prevista na CF, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "15", "options": [{"correct": true, "letter": "A", "text": "Compete \u00e0 Uni\u00e3o explorar, diretamente ou mediante autoriza\u00e7\u00e3o, concess\u00e3o ou permiss\u00e3o, o aproveitamento energ\u00e9tico dos cursos de \u00e1gua, em articula\u00e7\u00e3o com os estados onde se situem os potenciais hidroenerg\u00e9ticos."}, {"correct": null, "letter": "B", "text": "No \u00e2mbito da legisla\u00e7\u00e3o concorrente, compete \u00e0 Uni\u00e3o legislar sobre normas gerais ou especiais, sem preju\u00edzo da compet\u00eancia suplementar dos estados, do DF e dos munic\u00edpios."}, {"correct": null, "letter": "C", "text": "A compet\u00eancia residual, ainda que em mat\u00e9ria tribut\u00e1ria, como a institui\u00e7\u00e3o de novos impostos, \u00e9 dos estados e do DF."}, {"correct": null, "letter": "D", "text": "A compet\u00eancia privada da Uni\u00e3o para legislar sobre certos temas, como os de direito penal, por exemplo, impede que os estados legislem sobre quest\u00f5es espec\u00edficas, ainda que, para isso, haja, prevista em lei complementar, autoriza\u00e7\u00e3o da Uni\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Acerca da distribui\u00e7\u00e3o de compet\u00eancias dos entes federativos prevista na CF, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "15",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Compete \u00e0 Uni\u00e3o explorar, diretamente ou mediante autoriza\u00e7\u00e3o, concess\u00e3o ou permiss\u00e3o, o aproveitamento energ\u00e9tico dos cursos de \u00e1gua, em articula\u00e7\u00e3o com os estados onde se situem os potenciais hidroenerg\u00e9ticos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "No \u00e2mbito da legisla\u00e7\u00e3o concorrente, compete \u00e0 Uni\u00e3o legislar sobre normas gerais ou especiais, sem preju\u00edzo da compet\u00eancia suplementar dos estados, do DF e dos munic\u00edpios."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A compet\u00eancia residual, ainda que em mat\u00e9ria tribut\u00e1ria, como a institui\u00e7\u00e3o de novos impostos, \u00e9 dos estados e do DF."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A compet\u00eancia privada da Uni\u00e3o para legislar sobre certos temas, como os de direito penal, por exemplo, impede que os estados legislem sobre quest\u00f5es espec\u00edficas, ainda que, para isso, haja, prevista em lei complementar, autoriza\u00e7\u00e3o da Uni\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

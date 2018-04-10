@@ -1,1 +1,57 @@
-[{"enum": "A respeito do regime de responsabilidade do Presidente da Rep\u00fablica, assinale a alternativa correta.", "options": [{"letter": "A", "text": "O ato do Presidente da Rep\u00fablica que atenta contra o livre exerc\u00edcio do Poder Legislativo, do Poder Judici\u00e1rio, do Minist\u00e9rio P\u00fablico e dos Poderes constitucionais das unidades da Federa\u00e7\u00e3o \u00e9 considerado crime de responsabilidade.", "pmi": [-0.3008833045181586, 0.0, 0.0, 0.0], "correct": true}, {"letter": "B", "text": "O Presidente ficar\u00e1 suspenso de suas fun\u00e7\u00f5es nos crimes de responsabilidade somente ap\u00f3s a condena\u00e7\u00e3o pelo \u00f3rg\u00e3o competente.", "pmi": [-0.4587232911913372, -0.06164214945011003, 0.0, 0.0], "correct": null}, {"letter": "C", "text": "Compete ao Congresso Nacional processar e julgar o Presidente da Rep\u00fablica nos crimes de responsabilidade.", "pmi": [-0.4046101771059966, -0.1845340817706632, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "S\u00f3 se admite acusa\u00e7\u00e3o contra o Presidente da Rep\u00fablica por tr\u00eas quintos da C\u00e2mara dos Deputados.", "pmi": [-0.5314250051492647, 0.0, 0.0, 0.0], "correct": null}], "areas": ["CONSTITUTIONAL"], "filename": "2011-04.txt", "number": "18", "valid": true}]
+[
+    {
+        "enum": "A respeito do regime de responsabilidade do Presidente da Rep\u00fablica, assinale a alternativa correta.",
+        "options": [
+            {
+                "letter": "A",
+                "text": "O ato do Presidente da Rep\u00fablica que atenta contra o livre exerc\u00edcio do Poder Legislativo, do Poder Judici\u00e1rio, do Minist\u00e9rio P\u00fablico e dos Poderes constitucionais das unidades da Federa\u00e7\u00e3o \u00e9 considerado crime de responsabilidade.",
+                "pmi": [
+                    -0.3008833045181586,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "text": "O Presidente ficar\u00e1 suspenso de suas fun\u00e7\u00f5es nos crimes de responsabilidade somente ap\u00f3s a condena\u00e7\u00e3o pelo \u00f3rg\u00e3o competente.",
+                "pmi": [
+                    -0.4587232911913372,
+                    -0.06164214945011003,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "Compete ao Congresso Nacional processar e julgar o Presidente da Rep\u00fablica nos crimes de responsabilidade.",
+                "pmi": [
+                    -0.4046101771059966,
+                    -0.1845340817706632,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "S\u00f3 se admite acusa\u00e7\u00e3o contra o Presidente da Rep\u00fablica por tr\u00eas quintos da C\u00e2mara dos Deputados.",
+                "pmi": [
+                    -0.5314250051492647,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "filename": "2011-04.txt",
+        "number": "18",
+        "valid": true
+    }
+]

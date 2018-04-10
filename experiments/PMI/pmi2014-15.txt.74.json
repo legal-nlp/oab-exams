@@ -1,1 +1,55 @@
-[{"filename": "2014-15.txt", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "os contratos de trabalho ficar\u00e3o interrompidos.", "letter": "A"}, {"pmi": [-0.14104593392230397, 0.0, 0.0, 0.0], "correct": null, "text": "n\u00e3o h\u00e1 uma diretriz pr\u00f3pria, na medida em que a Lei \u00e9 omissa a respeito, cabendo ao Judici\u00e1rio decidir.", "letter": "B"}, {"pmi": [-0.0473236545363196, 0.0, 0.0, 0.0], "correct": null, "text": "o empregador pode contratar imediatamente substitutos para o lugar dos grevistas.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "os contratos de trabalho ficar\u00e3o suspensos.", "letter": "D"}], "areas": [], "enum": "Os empregados da empresa Cal\u00e7ados Ribeiro Ltda. decidem entrar em greve para reivindicar aumento de sal\u00e1rio. A greve foi deliberada e votada em assembleia convocada apenas para tal, tendo o empregador sido comunicado com 48 horas de anteced\u00eancia acerca do movimento paredista.\n\n Durante a greve, de acordo com a Lei,", "valid": true, "number": "74"}]
+[
+    {
+        "filename": "2014-15.txt",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "os contratos de trabalho ficar\u00e3o interrompidos.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.14104593392230397,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "n\u00e3o h\u00e1 uma diretriz pr\u00f3pria, na medida em que a Lei \u00e9 omissa a respeito, cabendo ao Judici\u00e1rio decidir.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.0473236545363196,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "o empregador pode contratar imediatamente substitutos para o lugar dos grevistas.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "os contratos de trabalho ficar\u00e3o suspensos.",
+                "letter": "D"
+            }
+        ],
+        "areas": [],
+        "enum": "Os empregados da empresa Cal\u00e7ados Ribeiro Ltda. decidem entrar em greve para reivindicar aumento de sal\u00e1rio. A greve foi deliberada e votada em assembleia convocada apenas para tal, tendo o empregador sido comunicado com 48 horas de anteced\u00eancia acerca do movimento paredista.\n\n Durante a greve, de acordo com a Lei,",
+        "valid": true,
+        "number": "74"
+    }
+]

@@ -1,1 +1,57 @@
-[{"filename": "2012-08.txt", "number": "18", "areas": ["CONSTITUTIONAL"], "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "N\u00e3o, pois o STF \u00e9 o guardi\u00e3o da Constitui\u00e7\u00e3o."}, {"pmi": [-0.024215223451055493, 0.0, 0.0, 0.0], "correct": null, "letter": "B", "text": "N\u00e3o, pois a s\u00famula vincula todos os Poderes (Executivo, Legislativo e Judici\u00e1rio)."}, {"pmi": [-0.024215223451055493, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "Sim, pois a s\u00famula vincula a Administra\u00e7\u00e3o P\u00fablica, mas n\u00e3o o chefe do Poder Executivo."}, {"pmi": [-0.3799247467819637, 0.0, 0.0, 0.0], "correct": true, "letter": "D", "text": "Sim, pois o Presidente da Rep\u00fablica estaria, nesse caso, exercendo fun\u00e7\u00e3o legislativa."}], "enum": "Pode o Presidente da Rep\u00fablica editar medida provis\u00f3ria contr\u00e1ria \u00e0 s\u00famula vinculante editada pelo STF?", "valid": true}]
+[
+    {
+        "filename": "2012-08.txt",
+        "number": "18",
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "N\u00e3o, pois o STF \u00e9 o guardi\u00e3o da Constitui\u00e7\u00e3o."
+            },
+            {
+                "pmi": [
+                    -0.024215223451055493,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B",
+                "text": "N\u00e3o, pois a s\u00famula vincula todos os Poderes (Executivo, Legislativo e Judici\u00e1rio)."
+            },
+            {
+                "pmi": [
+                    -0.024215223451055493,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "Sim, pois a s\u00famula vincula a Administra\u00e7\u00e3o P\u00fablica, mas n\u00e3o o chefe do Poder Executivo."
+            },
+            {
+                "pmi": [
+                    -0.3799247467819637,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "D",
+                "text": "Sim, pois o Presidente da Rep\u00fablica estaria, nesse caso, exercendo fun\u00e7\u00e3o legislativa."
+            }
+        ],
+        "enum": "Pode o Presidente da Rep\u00fablica editar medida provis\u00f3ria contr\u00e1ria \u00e0 s\u00famula vinculante editada pelo STF?",
+        "valid": true
+    }
+]

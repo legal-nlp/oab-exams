@@ -1,1 +1,55 @@
-[{"options": [{"text": "A guarda dos filhos de tenra idade ser\u00e1 atribu\u00edda preferencialmente, de forma unilateral, \u00e0 m\u00e3e.", "pmi": [-0.02797491268725481, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "Na guarda compartilhada, o tempo de conv\u00edvio com os filhos ser\u00e1 dividido de forma matem\u00e1tica entre o pai e a m\u00e3e.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "O pai ou a m\u00e3e que contrair novas n\u00fapcias perder\u00e1 o direito de ter consigo os filhos.", "pmi": [-0.05581127472556199, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "Na guarda compartilhada, a cidade considerada base de moradia dos filhos ser\u00e1 a que melhor atender aos interesses dos filhos.", "pmi": [-0.016423593128696963, 0.0, 0.0, 0.0], "letter": "D", "correct": true}], "filename": "2016-21.txt", "number": "43", "enum": "Augusto e Raquel casam-se bem jovens, ambos com 22 anos. Um ano depois, nascem os filhos do casal: dois meninos g\u00eameos. A despeito da ajuda dos av\u00f3s das crian\u00e7as, o casamento n\u00e3o resiste \u00e0 dura rotina de cria\u00e7\u00e3o dos dois rec\u00e9m-nascidos. Augusto e Raquel separam-se ainda com os filhos em tenra idade, indo as crian\u00e7as residir com a m\u00e3e.\n\n Raquel, em pouco tempo, contrai novas n\u00fapcias. Augusto, em busca de um melhor emprego, muda-se para uma cidade pr\u00f3xima.\n\n A respeito da guarda dos filhos, com base na hip\u00f3tese apresentada, assinale a afirmativa correta.", "areas": [], "valid": true}]
+[
+    {
+        "options": [
+            {
+                "text": "A guarda dos filhos de tenra idade ser\u00e1 atribu\u00edda preferencialmente, de forma unilateral, \u00e0 m\u00e3e.",
+                "pmi": [
+                    -0.02797491268725481,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "Na guarda compartilhada, o tempo de conv\u00edvio com os filhos ser\u00e1 dividido de forma matem\u00e1tica entre o pai e a m\u00e3e.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "O pai ou a m\u00e3e que contrair novas n\u00fapcias perder\u00e1 o direito de ter consigo os filhos.",
+                "pmi": [
+                    -0.05581127472556199,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "Na guarda compartilhada, a cidade considerada base de moradia dos filhos ser\u00e1 a que melhor atender aos interesses dos filhos.",
+                "pmi": [
+                    -0.016423593128696963,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "filename": "2016-21.txt",
+        "number": "43",
+        "enum": "Augusto e Raquel casam-se bem jovens, ambos com 22 anos. Um ano depois, nascem os filhos do casal: dois meninos g\u00eameos. A despeito da ajuda dos av\u00f3s das crian\u00e7as, o casamento n\u00e3o resiste \u00e0 dura rotina de cria\u00e7\u00e3o dos dois rec\u00e9m-nascidos. Augusto e Raquel separam-se ainda com os filhos em tenra idade, indo as crian\u00e7as residir com a m\u00e3e.\n\n Raquel, em pouco tempo, contrai novas n\u00fapcias. Augusto, em busca de um melhor emprego, muda-se para uma cidade pr\u00f3xima.\n\n A respeito da guarda dos filhos, com base na hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "areas": [],
+        "valid": true
+    }
+]

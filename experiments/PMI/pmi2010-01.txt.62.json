@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Caso determinada empresa se dedique exclusivamente \u00e0 produ\u00e7\u00e3o de manufaturados destinados \u00e0 exporta\u00e7\u00e3o, a ela se imputa a obriga\u00e7\u00e3o de pagar", "options": [{"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "a contribui\u00e7\u00e3o social sobre o faturamento, destinada \u00e0 seguridade social (COFINS).", "letter": "A"}, {"correct": null, "pmi": [-0.06164403491533348, 0.0, 0.0, 0.0], "text": "a contribui\u00e7\u00e3o social destinada ao Programa de Integra\u00e7\u00e3o Social (PIS).", "letter": "B"}, {"correct": null, "pmi": [0.0, 0, 0, 0], "text": "o IPI.", "letter": "C"}, {"correct": true, "pmi": [-0.22745597426469652, 0.0, 0.0, 0.0], "text": "o imposto sobre a renda e proventos de qualquer natureza.", "letter": "D"}], "areas": ["TAXES"], "filename": "2010-01.txt", "number": "62"}]
+[
+    {
+        "valid": true,
+        "enum": "Caso determinada empresa se dedique exclusivamente \u00e0 produ\u00e7\u00e3o de manufaturados destinados \u00e0 exporta\u00e7\u00e3o, a ela se imputa a obriga\u00e7\u00e3o de pagar",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a contribui\u00e7\u00e3o social sobre o faturamento, destinada \u00e0 seguridade social (COFINS).",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.06164403491533348,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a contribui\u00e7\u00e3o social destinada ao Programa de Integra\u00e7\u00e3o Social (PIS).",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "o IPI.",
+                "letter": "C"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.22745597426469652,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o imposto sobre a renda e proventos de qualquer natureza.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "TAXES"
+        ],
+        "filename": "2010-01.txt",
+        "number": "62"
+    }
+]

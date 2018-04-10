@@ -1,1 +1,57 @@
-[{"enum": "Fernando e Eul\u00e1lia decidiram adotar uma menina. Iniciaram o processo de ado\u00e7\u00e3o em maio de 2010. Com o est\u00e1gio de conviv\u00eancia em curso, o casal se divorciou. Diante do fim do casamento dos pretendentes \u00e0 ado\u00e7\u00e3o, \u00e9 correto afirmar que", "areas": ["CHILDREN"], "number": "26", "filename": "2011-05.txt", "valid": true, "options": [{"letter": "A", "text": "a ado\u00e7\u00e3o dever\u00e1 ser suspensa, e outro casal adotar\u00e1 a menor, segundo o princ\u00edpio do melhor interesse do menor, pois a ado\u00e7\u00e3o \u00e9 medida geradora do v\u00ednculo familiar.", "correct": null, "pmi": [-0.03075972182655671, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "a ado\u00e7\u00e3o poder\u00e1 prosseguir, contanto que o casal opte pela guarda compartilhada no acordo de div\u00f3rcio, mesmo que o est\u00e1gio de conviv\u00eancia n\u00e3o tenha sido iniciado na const\u00e2ncia do per\u00edodo de conviv\u00eancia.", "correct": null, "pmi": [-0.003125, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "a ado\u00e7\u00e3o ser\u00e1 deferida, contanto que o casal acorde sobre a guarda, regime de visitas e desde que o est\u00e1gio de conviv\u00eancia tenha sido iniciado na const\u00e2ncia do per\u00edodo de conviv\u00eancia e que seja comprovada a exist\u00eancia de v\u00ednculo de afinidade e afetividade com aquele que n\u00e3o seja o detentor da guarda que justifique a excepcionalidade da concess\u00e3o.", "correct": true, "pmi": [-0.002, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "a lei n\u00e3o prev\u00ea tal hip\u00f3tese, pois est\u00e1 em desacordo com os ditames constitucionais da paternidade respons\u00e1vel.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "enum": "Fernando e Eul\u00e1lia decidiram adotar uma menina. Iniciaram o processo de ado\u00e7\u00e3o em maio de 2010. Com o est\u00e1gio de conviv\u00eancia em curso, o casal se divorciou. Diante do fim do casamento dos pretendentes \u00e0 ado\u00e7\u00e3o, \u00e9 correto afirmar que",
+        "areas": [
+            "CHILDREN"
+        ],
+        "number": "26",
+        "filename": "2011-05.txt",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "text": "a ado\u00e7\u00e3o dever\u00e1 ser suspensa, e outro casal adotar\u00e1 a menor, segundo o princ\u00edpio do melhor interesse do menor, pois a ado\u00e7\u00e3o \u00e9 medida geradora do v\u00ednculo familiar.",
+                "correct": null,
+                "pmi": [
+                    -0.03075972182655671,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "a ado\u00e7\u00e3o poder\u00e1 prosseguir, contanto que o casal opte pela guarda compartilhada no acordo de div\u00f3rcio, mesmo que o est\u00e1gio de conviv\u00eancia n\u00e3o tenha sido iniciado na const\u00e2ncia do per\u00edodo de conviv\u00eancia.",
+                "correct": null,
+                "pmi": [
+                    -0.003125,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "a ado\u00e7\u00e3o ser\u00e1 deferida, contanto que o casal acorde sobre a guarda, regime de visitas e desde que o est\u00e1gio de conviv\u00eancia tenha sido iniciado na const\u00e2ncia do per\u00edodo de conviv\u00eancia e que seja comprovada a exist\u00eancia de v\u00ednculo de afinidade e afetividade com aquele que n\u00e3o seja o detentor da guarda que justifique a excepcionalidade da concess\u00e3o.",
+                "correct": true,
+                "pmi": [
+                    -0.002,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "a lei n\u00e3o prev\u00ea tal hip\u00f3tese, pois est\u00e1 em desacordo com os ditames constitucionais da paternidade respons\u00e1vel.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

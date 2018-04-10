@@ -1,1 +1,57 @@
-[{"enum": "O Hotel Botanic recebeu o casal de namorados J\u00falia e Matheus como h\u00f3spedes durante um feriado prolongado. J\u00falia tem 15 anos de idade e Matheus 18 anos, motivo pelo qual a adolescente foi admitida no estabelecimento, por estar acompanhada de uma pessoa maior de idade. Com base no caso apresentado, a partir do que disp\u00f5e o Estatuto da Crian\u00e7a e do Adolescente, assinale a op\u00e7\u00e3o correta.", "number": "45", "options": [{"pmi": [-0.10798895257815214, 0.0, 0.0, 0.0], "letter": "A", "correct": null, "text": "Trata-se de infra\u00e7\u00e3o penal, motivo pelo qual, sem preju\u00edzo da pena de multa aplicada ao estabelecimento, o funcion\u00e1rio respons\u00e1vel pela admiss\u00e3o da adolescente est\u00e1 sujeito \u00e0 responsabilidade criminal pessoal."}, {"pmi": [-0.17061484156459975, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "Trata-se de pr\u00e1tica cotidiana sem implica\u00e7\u00f5es administrativas ou criminais previstas na norma especial, uma vez que a adolescente estava acompanhada de pessoa maior de idade que se torna respons\u00e1vel por ela."}, {"pmi": [-0.1785144113351161, 0.0, 0.0, 0.0], "letter": "C", "correct": true, "text": "Trata-se de infra\u00e7\u00e3o administrativa, sujeitando-se \u00e0 aplica\u00e7\u00e3o de pena de multa, a hospedagem de adolescente desacompanhado dos pais, respons\u00e1veis, ou sem autoriza\u00e7\u00e3o escrita desses ou da autoridade judici\u00e1ria."}, {"pmi": [-0.15110783835037392, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "Trata-se de infra\u00e7\u00e3o administrativa e penal, sujeitando-se o estabelecimento, por determina\u00e7\u00e3o da autoridade judici\u00e1ria, a imediato fechamento por at\u00e9 quinze dias."}], "filename": "2014-14.txt", "areas": ["CHILDREN"], "valid": true}]
+[
+    {
+        "enum": "O Hotel Botanic recebeu o casal de namorados J\u00falia e Matheus como h\u00f3spedes durante um feriado prolongado. J\u00falia tem 15 anos de idade e Matheus 18 anos, motivo pelo qual a adolescente foi admitida no estabelecimento, por estar acompanhada de uma pessoa maior de idade. Com base no caso apresentado, a partir do que disp\u00f5e o Estatuto da Crian\u00e7a e do Adolescente, assinale a op\u00e7\u00e3o correta.",
+        "number": "45",
+        "options": [
+            {
+                "pmi": [
+                    -0.10798895257815214,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "Trata-se de infra\u00e7\u00e3o penal, motivo pelo qual, sem preju\u00edzo da pena de multa aplicada ao estabelecimento, o funcion\u00e1rio respons\u00e1vel pela admiss\u00e3o da adolescente est\u00e1 sujeito \u00e0 responsabilidade criminal pessoal."
+            },
+            {
+                "pmi": [
+                    -0.17061484156459975,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "Trata-se de pr\u00e1tica cotidiana sem implica\u00e7\u00f5es administrativas ou criminais previstas na norma especial, uma vez que a adolescente estava acompanhada de pessoa maior de idade que se torna respons\u00e1vel por ela."
+            },
+            {
+                "pmi": [
+                    -0.1785144113351161,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true,
+                "text": "Trata-se de infra\u00e7\u00e3o administrativa, sujeitando-se \u00e0 aplica\u00e7\u00e3o de pena de multa, a hospedagem de adolescente desacompanhado dos pais, respons\u00e1veis, ou sem autoriza\u00e7\u00e3o escrita desses ou da autoridade judici\u00e1ria."
+            },
+            {
+                "pmi": [
+                    -0.15110783835037392,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "Trata-se de infra\u00e7\u00e3o administrativa e penal, sujeitando-se o estabelecimento, por determina\u00e7\u00e3o da autoridade judici\u00e1ria, a imediato fechamento por at\u00e9 quinze dias."
+            }
+        ],
+        "filename": "2014-14.txt",
+        "areas": [
+            "CHILDREN"
+        ],
+        "valid": true
+    }
+]

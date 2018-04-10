@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [-0.04004692666175986, 0.0, 0.0, 0.0], "text": "Ainda que a lei espanhola n\u00e3o conceda direitos sucess\u00f3rios \u00e0 filha adotiva, poder\u00e1 ela habilitar-se na a\u00e7\u00e3o de invent\u00e1rio ajuizada pelo c\u00f4njuge sup\u00e9rstite, no Brasil, regendo-se a sucess\u00e3o pela lei brasileira, que n\u00e3o faz qualquer distin\u00e7\u00e3o entre filhos naturais e adotivos.", "correct": true, "letter": "A"}, {"pmi": [-0.03593782658811096, 0.0, 0.0, 0.0], "text": "A capacidade de suceder da filha \u00e9 regulada pela legisla\u00e7\u00e3o espanhola.", "correct": null, "letter": "B"}, {"pmi": [-0.08851038955808224, 0.0, 0.0, 0.0], "text": "A a\u00e7\u00e3o de invent\u00e1rio e partilha de todos os bens \u00e9 de compet\u00eancia exclusiva do Poder Judici\u00e1rio Brasileiro, j\u00e1 que o de cujus era domiciliado no Brasil.", "correct": null, "letter": "C"}, {"pmi": [-0.07558337506986003, 0.0, 0.0, 0.0], "text": "Se o de cujus houvesse deixado bens im\u00f3veis somente na Espanha, a sucess\u00e3o seria regida pela lei espanhola.", "correct": null, "letter": "D"}], "valid": true, "areas": ["INTERNATIONAL"], "number": "24", "enum": "T\u00edcio, espanhol, era casado com T\u00e1cita, brasileira. Os c\u00f4njuges eram domiciliados no Brasil. T\u00edcio possu\u00eda uma filha adotiva espanhola, cujo nome \u00e9 M\u00e9via, e que residia com o pai. Em raz\u00e3o de um grave acidente na Argentina, T\u00edcio faleceu. O de cujus era propriet\u00e1rio de dois bens im\u00f3veis em Barcelona e um bem im\u00f3vel no Rio de Janeiro.\n\n Diante da situa\u00e7\u00e3o exposta, \u00e0 luz das regras de Direito Internacional Privado veiculadas na Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro (LINDB) e do C\u00f3digo de Processo Civil Brasileiro (CPC), assinale a assertiva correta.", "filename": "2012-06a.txt"}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    -0.04004692666175986,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ainda que a lei espanhola n\u00e3o conceda direitos sucess\u00f3rios \u00e0 filha adotiva, poder\u00e1 ela habilitar-se na a\u00e7\u00e3o de invent\u00e1rio ajuizada pelo c\u00f4njuge sup\u00e9rstite, no Brasil, regendo-se a sucess\u00e3o pela lei brasileira, que n\u00e3o faz qualquer distin\u00e7\u00e3o entre filhos naturais e adotivos.",
+                "correct": true,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.03593782658811096,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A capacidade de suceder da filha \u00e9 regulada pela legisla\u00e7\u00e3o espanhola.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.08851038955808224,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A a\u00e7\u00e3o de invent\u00e1rio e partilha de todos os bens \u00e9 de compet\u00eancia exclusiva do Poder Judici\u00e1rio Brasileiro, j\u00e1 que o de cujus era domiciliado no Brasil.",
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.07558337506986003,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se o de cujus houvesse deixado bens im\u00f3veis somente na Espanha, a sucess\u00e3o seria regida pela lei espanhola.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "INTERNATIONAL"
+        ],
+        "number": "24",
+        "enum": "T\u00edcio, espanhol, era casado com T\u00e1cita, brasileira. Os c\u00f4njuges eram domiciliados no Brasil. T\u00edcio possu\u00eda uma filha adotiva espanhola, cujo nome \u00e9 M\u00e9via, e que residia com o pai. Em raz\u00e3o de um grave acidente na Argentina, T\u00edcio faleceu. O de cujus era propriet\u00e1rio de dois bens im\u00f3veis em Barcelona e um bem im\u00f3vel no Rio de Janeiro.\n\n Diante da situa\u00e7\u00e3o exposta, \u00e0 luz das regras de Direito Internacional Privado veiculadas na Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro (LINDB) e do C\u00f3digo de Processo Civil Brasileiro (CPC), assinale a assertiva correta.",
+        "filename": "2012-06a.txt"
+    }
+]

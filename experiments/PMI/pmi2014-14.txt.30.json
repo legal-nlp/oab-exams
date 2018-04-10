@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "pmi": [-0.10265089469946465, 0.0, 0.0, 0.0], "correct": null, "text": "O sindicato n\u00e3o pode se qualificar como Organiza\u00e7\u00e3o da Sociedade Civil de Interesse P\u00fablico, uma vez que tal qualifica\u00e7\u00e3o, de origem doutrin\u00e1ria, n\u00e3o tem amparo legal."}, {"letter": "B", "pmi": [-0.28222235502489235, 0.0, 0.0, 0.0], "correct": true, "text": "O sindicato n\u00e3o pode se qualificar como OSCIP, em virtude de veda\u00e7\u00e3o expressa da lei federal sobre o tema."}, {"letter": "C", "pmi": [-0.1920593756201447, 0.0, 0.0, 0.0], "correct": null, "text": "O sindicato pode se qualificar como OSCIP, uma vez que \u00e9 uma entidade sem fins lucrativos e o objetivo pretendido \u00e9 a promo\u00e7\u00e3o da cultura nacional."}, {"letter": "D", "pmi": [-0.17486110336735264, 0.0, 0.0, 0.0], "correct": null, "text": "O sindicato pode se qualificar como OSCIP, mas deve celebrar um contrato de gest\u00e3o e n\u00e3o um termo de parceria com o poder p\u00fablico."}], "valid": true, "areas": ["ADMINISTRATIVE"], "enum": "Numerosos professores, em recente reuni\u00e3o da categoria, queixaram-se da falta de interesse dos alunos pela cultura nacional. O Sindicato dos Professores de Col\u00e9gios Particulares do Munic\u00edpio X apresentou, ent\u00e3o, um plano para ampliar o acesso \u00e0 cultura dos alunos com idade entre 10 e 18 anos, obter a qualifica\u00e7\u00e3o de \u201cOrganiza\u00e7\u00e3o da Sociedade Civil de Interesse P\u00fablico\u201d (OSCIP) e celebrar um termo de parceria com a Uni\u00e3o, a fim de unir esfor\u00e7os no sentido de promover a cultura nacional.\n\n Considerando a proposta apresentada e a disciplina existente sobre o tema, assinale a afirmativa correta.", "number": "30", "filename": "2014-14.txt"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.10265089469946465,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O sindicato n\u00e3o pode se qualificar como Organiza\u00e7\u00e3o da Sociedade Civil de Interesse P\u00fablico, uma vez que tal qualifica\u00e7\u00e3o, de origem doutrin\u00e1ria, n\u00e3o tem amparo legal."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.28222235502489235,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "O sindicato n\u00e3o pode se qualificar como OSCIP, em virtude de veda\u00e7\u00e3o expressa da lei federal sobre o tema."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.1920593756201447,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O sindicato pode se qualificar como OSCIP, uma vez que \u00e9 uma entidade sem fins lucrativos e o objetivo pretendido \u00e9 a promo\u00e7\u00e3o da cultura nacional."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.17486110336735264,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O sindicato pode se qualificar como OSCIP, mas deve celebrar um contrato de gest\u00e3o e n\u00e3o um termo de parceria com o poder p\u00fablico."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "Numerosos professores, em recente reuni\u00e3o da categoria, queixaram-se da falta de interesse dos alunos pela cultura nacional. O Sindicato dos Professores de Col\u00e9gios Particulares do Munic\u00edpio X apresentou, ent\u00e3o, um plano para ampliar o acesso \u00e0 cultura dos alunos com idade entre 10 e 18 anos, obter a qualifica\u00e7\u00e3o de \u201cOrganiza\u00e7\u00e3o da Sociedade Civil de Interesse P\u00fablico\u201d (OSCIP) e celebrar um termo de parceria com a Uni\u00e3o, a fim de unir esfor\u00e7os no sentido de promover a cultura nacional.\n\n Considerando a proposta apresentada e a disciplina existente sobre o tema, assinale a afirmativa correta.",
+        "number": "30",
+        "filename": "2014-14.txt"
+    }
+]

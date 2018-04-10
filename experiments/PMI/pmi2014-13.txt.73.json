@@ -1,1 +1,57 @@
-[{"options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "A dura\u00e7\u00e3o da licen\u00e7a-maternidade de Maria tem varia\u00e7\u00e3o de acordo com a idade da crian\u00e7a adotada.", "correct": null}, {"pmi": [-0.10458005709364153, 0.0, 0.0, 0.0], "letter": "B", "text": "Maria n\u00e3o tem direito \u00e0 licen\u00e7a-maternidade, pois se trata de ado\u00e7\u00e3o e a legisla\u00e7\u00e3o n\u00e3o prev\u00ea essa hip\u00f3tese.", "correct": null}, {"pmi": [-0.031236454766412985, 0.0, 0.0, 0.0], "letter": "C", "text": "Maria tem direito \u00e0 licen\u00e7a-maternidade de 120 dias, sem preju\u00edzo do emprego e do sal\u00e1rio, independentemente da idade da crian\u00e7a adotoda.", "correct": true}, {"pmi": [-0.04060739119633688, 0.0, 0.0, 0.0], "letter": "D", "text": "Maria tem direito a duas semanas de licen\u00e7a-maternidade correspondentes ao per\u00edodo de adapta\u00e7\u00e3o necess\u00e1rio na ado\u00e7\u00e3o.", "correct": null}], "areas": ["LABOUR"], "valid": true, "filename": "2014-13.txt", "enum": "Maria, empregada de uma panificadora, adotou uma crian\u00e7a em idade de alfabetiza\u00e7\u00e3o. Quando da ado\u00e7\u00e3o, obteve a informa\u00e7\u00e3o de que faria jus \u00e0 licen\u00e7a-maternidade, da\u00ed decorrente. Em conversa com seu empregador, Maria foi informada que n\u00e3o desfrutava do mencionado benef\u00edcio. Na d\u00favida a empregada requereu a licen\u00e7a-maternidade junto ao INSS.\n\n Diante do caso apresentado, assinale a afirmativa correta.", "number": "73"}]
+[
+    {
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "A dura\u00e7\u00e3o da licen\u00e7a-maternidade de Maria tem varia\u00e7\u00e3o de acordo com a idade da crian\u00e7a adotada.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.10458005709364153,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Maria n\u00e3o tem direito \u00e0 licen\u00e7a-maternidade, pois se trata de ado\u00e7\u00e3o e a legisla\u00e7\u00e3o n\u00e3o prev\u00ea essa hip\u00f3tese.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.031236454766412985,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Maria tem direito \u00e0 licen\u00e7a-maternidade de 120 dias, sem preju\u00edzo do emprego e do sal\u00e1rio, independentemente da idade da crian\u00e7a adotoda.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.04060739119633688,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Maria tem direito a duas semanas de licen\u00e7a-maternidade correspondentes ao per\u00edodo de adapta\u00e7\u00e3o necess\u00e1rio na ado\u00e7\u00e3o.",
+                "correct": null
+            }
+        ],
+        "areas": [
+            "LABOUR"
+        ],
+        "valid": true,
+        "filename": "2014-13.txt",
+        "enum": "Maria, empregada de uma panificadora, adotou uma crian\u00e7a em idade de alfabetiza\u00e7\u00e3o. Quando da ado\u00e7\u00e3o, obteve a informa\u00e7\u00e3o de que faria jus \u00e0 licen\u00e7a-maternidade, da\u00ed decorrente. Em conversa com seu empregador, Maria foi informada que n\u00e3o desfrutava do mencionado benef\u00edcio. Na d\u00favida a empregada requereu a licen\u00e7a-maternidade junto ao INSS.\n\n Diante do caso apresentado, assinale a afirmativa correta.",
+        "number": "73"
+    }
+]

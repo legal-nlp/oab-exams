@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "F\u00e1bio, que ocupa h\u00e1 mais de vinte anos um terreno em uma valorizada \u00e1rea urbana e preenche os requisitos para usucapir o referido bem, decidiu, em 2011, ajuizar uma a\u00e7\u00e3o de usucapi\u00e3o. Com base nas disposi\u00e7\u00f5es sobre a a\u00e7\u00e3o de usucapi\u00e3o, \u00e9 correto afirmar que", "filename": "2012-06.txt", "number": "44", "options": [{"correct": null, "letter": "A", "text": "as Fazendas P\u00fablicas municipal, estadual e federal ser\u00e3o intimadas para manifestar interesse na causa e o Minist\u00e9rio P\u00fablico se manifestar\u00e1 se identificar hip\u00f3tese de sua interven\u00e7\u00e3o no feito."}, {"correct": true, "letter": "B", "text": "a planta do im\u00f3vel acompanhar\u00e1 a peti\u00e7\u00e3o inicial, para que se individualize o im\u00f3vel que se pretende usucapir."}, {"correct": null, "letter": "C", "text": "o autor requerer\u00e1 a cita\u00e7\u00e3o por edital daquele em cujo nome estiver o im\u00f3vel usucapiendo."}, {"correct": null, "letter": "D", "text": "a usucapi\u00e3o n\u00e3o poder\u00e1 ser alegada como mat\u00e9ria de defesa em outros procedimentos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "F\u00e1bio, que ocupa h\u00e1 mais de vinte anos um terreno em uma valorizada \u00e1rea urbana e preenche os requisitos para usucapir o referido bem, decidiu, em 2011, ajuizar uma a\u00e7\u00e3o de usucapi\u00e3o. Com base nas disposi\u00e7\u00f5es sobre a a\u00e7\u00e3o de usucapi\u00e3o, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "as Fazendas P\u00fablicas municipal, estadual e federal ser\u00e3o intimadas para manifestar interesse na causa e o Minist\u00e9rio P\u00fablico se manifestar\u00e1 se identificar hip\u00f3tese de sua interven\u00e7\u00e3o no feito."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "a planta do im\u00f3vel acompanhar\u00e1 a peti\u00e7\u00e3o inicial, para que se individualize o im\u00f3vel que se pretende usucapir."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o autor requerer\u00e1 a cita\u00e7\u00e3o por edital daquele em cujo nome estiver o im\u00f3vel usucapiendo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a usucapi\u00e3o n\u00e3o poder\u00e1 ser alegada como mat\u00e9ria de defesa em outros procedimentos."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"filename": "2016-20.txt", "number": "67", "options": [{"text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o da peremp\u00e7\u00e3o.", "pmi": [-0.003378191547364176, 0.0, 0.0, 0.0], "letter": "A", "correct": true}, {"text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o do perd\u00e3o do ofendido.", "pmi": [-0.0029559176039436544, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o da ren\u00fancia ao direito de queixa.", "pmi": [-0.018434038579698303, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "poder\u00e1 Rosa ser condenada pela pr\u00e1tica de ambos os delitos, j\u00e1 que houve apresenta\u00e7\u00e3o de alega\u00e7\u00f5es finais pela defesa t\u00e9cnica do querelante.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "areas": [], "enum": "L\u00facio Flavio, advogado, ofereceu queixa-crime em face de Rosa, imputando-lhe a pr\u00e1tica dos delitos de inj\u00faria simples e difama\u00e7\u00e3o. As partes n\u00e3o celebraram qualquer acordo e a querelada negava os fatos, n\u00e3o aceitando qualquer benef\u00edcio.  Ap\u00f3s o regular processamento e a instru\u00e7\u00e3o probat\u00f3ria, em alega\u00e7\u00f5es finais, L\u00facio Fl\u00e1vio requer a condena\u00e7\u00e3o de Rosa pela pr\u00e1tica do crime de difama\u00e7\u00e3o, nada falando em sua manifesta\u00e7\u00e3o derradeira sobre o crime de inj\u00faria.\n\n Diante da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que", "valid": true}]
+[
+    {
+        "filename": "2016-20.txt",
+        "number": "67",
+        "options": [
+            {
+                "text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o da peremp\u00e7\u00e3o.",
+                "pmi": [
+                    -0.003378191547364176,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true
+            },
+            {
+                "text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o do perd\u00e3o do ofendido.",
+                "pmi": [
+                    -0.0029559176039436544,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "dever\u00e1 ser extinta a punibilidade de Rosa em rela\u00e7\u00e3o ao crime de inj\u00faria, em raz\u00e3o da ren\u00fancia ao direito de queixa.",
+                "pmi": [
+                    -0.018434038579698303,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "poder\u00e1 Rosa ser condenada pela pr\u00e1tica de ambos os delitos, j\u00e1 que houve apresenta\u00e7\u00e3o de alega\u00e7\u00f5es finais pela defesa t\u00e9cnica do querelante.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "areas": [],
+        "enum": "L\u00facio Flavio, advogado, ofereceu queixa-crime em face de Rosa, imputando-lhe a pr\u00e1tica dos delitos de inj\u00faria simples e difama\u00e7\u00e3o. As partes n\u00e3o celebraram qualquer acordo e a querelada negava os fatos, n\u00e3o aceitando qualquer benef\u00edcio.  Ap\u00f3s o regular processamento e a instru\u00e7\u00e3o probat\u00f3ria, em alega\u00e7\u00f5es finais, L\u00facio Fl\u00e1vio requer a condena\u00e7\u00e3o de Rosa pela pr\u00e1tica do crime de difama\u00e7\u00e3o, nada falando em sua manifesta\u00e7\u00e3o derradeira sobre o crime de inj\u00faria.\n\n Diante da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que",
+        "valid": true
+    }
+]

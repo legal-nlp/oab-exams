@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Com rela\u00e7\u00e3o aos chamados \u201cdireitos econ\u00f4micos, sociais e culturais\u201d, \u00e9 correto afirmar que", "filename": "2011-04.txt", "options": [{"correct": null, "pmi": [-0.09838574554398563, 0.0, 0.0, 0.0], "text": "s\u00e3o direitos humanos de segunda gera\u00e7\u00e3o, o que significa que n\u00e3o s\u00e3o juridicamente exig\u00edveis, diferentemente do que ocorre com os direitos civis e pol\u00edticos.", "letter": "A"}, {"correct": null, "pmi": [-0.015748810173160783, 0.0, 0.0, 0.0], "text": "s\u00e3o previstos, no \u00e2mbito do sistema interamericano, no texto original da Conven\u00e7\u00e3o Americana sobre Direitos Humanos (Pacto de San Jos\u00e9 da Costa Rica).", "letter": "B"}, {"correct": true, "pmi": [-0.10579682007777974, 0.0, 0.0, 0.0], "text": "formam, juntamente com os direitos civis e pol\u00edticos, um conjunto indivis\u00edvel de direitos fundamentais, entre os quais n\u00e3o h\u00e1 qualquer rela\u00e7\u00e3o hier\u00e1rquica.", "letter": "C"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "incluem o direito \u00e0 participa\u00e7\u00e3o no processo eleitoral, \u00e0 educa\u00e7\u00e3o, \u00e0 alimenta\u00e7\u00e3o e \u00e0 previd\u00eancia social.", "letter": "D"}], "areas": ["CONSTITUTIONAL"], "number": "14"}]
+[
+    {
+        "valid": true,
+        "enum": "Com rela\u00e7\u00e3o aos chamados \u201cdireitos econ\u00f4micos, sociais e culturais\u201d, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.09838574554398563,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00e3o direitos humanos de segunda gera\u00e7\u00e3o, o que significa que n\u00e3o s\u00e3o juridicamente exig\u00edveis, diferentemente do que ocorre com os direitos civis e pol\u00edticos.",
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.015748810173160783,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00e3o previstos, no \u00e2mbito do sistema interamericano, no texto original da Conven\u00e7\u00e3o Americana sobre Direitos Humanos (Pacto de San Jos\u00e9 da Costa Rica).",
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.10579682007777974,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "formam, juntamente com os direitos civis e pol\u00edticos, um conjunto indivis\u00edvel de direitos fundamentais, entre os quais n\u00e3o h\u00e1 qualquer rela\u00e7\u00e3o hier\u00e1rquica.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "incluem o direito \u00e0 participa\u00e7\u00e3o no processo eleitoral, \u00e0 educa\u00e7\u00e3o, \u00e0 alimenta\u00e7\u00e3o e \u00e0 previd\u00eancia social.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "14"
+    }
+]

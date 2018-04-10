@@ -1,1 +1,55 @@
-[{"valid": true, "number": "78", "enum": "M\u00e1rio ajuizou reclama\u00e7\u00e3o trabalhista em face de seu ex- empregador. No dia da audi\u00eancia, n\u00e3o compareceu, raz\u00e3o pela qual o processo foi arquivado. Em nova a\u00e7\u00e3o proposta em id\u00eanticos termos, o juiz extinguiu o feito sem resolu\u00e7\u00e3o do m\u00e9rito, pois a r\u00e9 n\u00e3o foi localizada. Imediatamente, M\u00e1rio ajuizou a demanda pela terceira vez. Na audi\u00eancia, com todos presentes, o advogado da sociedade empres\u00e1ria aduziu que o juiz deveria extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito em raz\u00e3o da peremp\u00e7\u00e3o, pois n\u00e3o decorreu o prazo de seis meses entre o segundo e o terceiro processo.\n\n Sobre a hip\u00f3tese apresentada, na qualidade de advogado de M\u00e1rio, assinale a afirmativa correta.", "filename": "2016-20.txt", "options": [{"text": "Dever\u00e1 ser requerido que o juiz apenas suspenda o processo.", "letter": "A", "pmi": [-0.21904211030941034, 0.0, 0.0, 0.0], "correct": null}, {"text": "Dever\u00e1 desistir da a\u00e7\u00e3o para evitar a condena\u00e7\u00e3o em custas.", "letter": "B", "pmi": [-0.06166768086015243, 0.0, 0.0, 0.0], "correct": null}, {"text": "Dever\u00e1 aduzir que o prazo de seis meses \u00e9 contado da primeira a\u00e7\u00e3o.", "letter": "C", "pmi": [-0.1235091996913775, 0.0, 0.0, 0.0], "correct": null}, {"text": "Dever\u00e1 aduzir que n\u00e3o houve peremp\u00e7\u00e3o e requerer o prosseguimento do feito.", "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true}], "areas": []}]
+[
+    {
+        "valid": true,
+        "number": "78",
+        "enum": "M\u00e1rio ajuizou reclama\u00e7\u00e3o trabalhista em face de seu ex- empregador. No dia da audi\u00eancia, n\u00e3o compareceu, raz\u00e3o pela qual o processo foi arquivado. Em nova a\u00e7\u00e3o proposta em id\u00eanticos termos, o juiz extinguiu o feito sem resolu\u00e7\u00e3o do m\u00e9rito, pois a r\u00e9 n\u00e3o foi localizada. Imediatamente, M\u00e1rio ajuizou a demanda pela terceira vez. Na audi\u00eancia, com todos presentes, o advogado da sociedade empres\u00e1ria aduziu que o juiz deveria extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito em raz\u00e3o da peremp\u00e7\u00e3o, pois n\u00e3o decorreu o prazo de seis meses entre o segundo e o terceiro processo.\n\n Sobre a hip\u00f3tese apresentada, na qualidade de advogado de M\u00e1rio, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "options": [
+            {
+                "text": "Dever\u00e1 ser requerido que o juiz apenas suspenda o processo.",
+                "letter": "A",
+                "pmi": [
+                    -0.21904211030941034,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Dever\u00e1 desistir da a\u00e7\u00e3o para evitar a condena\u00e7\u00e3o em custas.",
+                "letter": "B",
+                "pmi": [
+                    -0.06166768086015243,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Dever\u00e1 aduzir que o prazo de seis meses \u00e9 contado da primeira a\u00e7\u00e3o.",
+                "letter": "C",
+                "pmi": [
+                    -0.1235091996913775,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "Dever\u00e1 aduzir que n\u00e3o houve peremp\u00e7\u00e3o e requerer o prosseguimento do feito.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ],
+        "areas": []
+    }
+]

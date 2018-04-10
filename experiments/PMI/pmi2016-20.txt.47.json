@@ -1,1 +1,55 @@
-[{"options": [{"text": "por se tratar de transporte a\u00e9reo internacional, para o pedido de danos extrapatrimoniais n\u00e3o h\u00e1 incid\u00eancia do C\u00f3digo de Defesa do Consumidor e nem do C\u00f3digo Civil, que regula apenas Contrato de Transporte em territ\u00f3rio nacional, prevalecendo unicamente as Normas Internacionais.", "letter": "A", "pmi": [-0.033654994965445766, 0.0, 0.0, 0.0], "correct": null}, {"text": "ao caso, aplica-se a norma consumerista, sendo que apenas Heitor \u00e9 consumidor por ter custeado a viagem com seus recursos, mas, como ele tem boas condi\u00e7\u00f5es financeiras, por esse motivo, \u00e9 consumidor n\u00e3o enquadrado em condi\u00e7\u00e3o de vulnerabilidade, como tutela o C\u00f3digo de Defesa do Consumidor.", "letter": "B", "pmi": [-0.038199980587148255, 0.0, 0.0, 0.0], "correct": null}, {"text": "embora se trate de transporte a\u00e9reo internacional, h\u00e1 incid\u00eancia plena do C\u00f3digo de Defesa do Consumidor para o pedido de danos extrapatrimoniais, em detrimento das normas internacionais e, apesar de Heitor ter boas condi\u00e7\u00f5es financeiras, enquadra-se na condi\u00e7\u00e3o de vulnerabilidade, assim como os seus funcion\u00e1rios, para o pleito de repara\u00e7\u00e3o.", "letter": "C", "pmi": [-0.011884443943419436, 0.0, 0.0, 0.0], "correct": true}, {"text": "por se tratar de rela\u00e7\u00e3o de Contrato de Transporte previsto expressamente no C\u00f3digo Civil, afasta-se a incid\u00eancia do C\u00f3digo de Defesa do Consumidor e, por ter ocorrido o dano em territ\u00f3rio brasileiro, afastam-se as normas internacionais, sendo, portanto, hip\u00f3tese de responsabilidade civil pautada na comprova\u00e7\u00e3o de culpa da companhia a\u00e9rea pelo evento danoso.", "letter": "D", "pmi": [-0.017856457946381552, 0.0, 0.0, 0.0], "correct": null}], "filename": "2016-20.txt", "number": "47", "areas": [], "valid": true, "enum": "Heitor agraciou cinco funcion\u00e1rios de uma de suas sociedades empres\u00e1rias, situada no Rio Grande do Sul, com uma viagem para curso de treinamento profissional realizado em determinado s\u00e1bado, de 9h \u00e0s 15h, numa cidade do Uruguai, h\u00e1 cerca de 50 minutos de voo. Heitor custeou as passagens a\u00e9reas, translado e alimenta\u00e7\u00e3o dos cinco funcion\u00e1rios com sua pr\u00f3pria renda, integralmente desvinculada da atividade empres\u00e1ria. Ocorre que houve atraso no voo sem qualquer justificativa prestada pela companhia a\u00e9rea. \u00c0s 14h, sem previs\u00e3o de sa\u00edda do voo, todos desistiram do embarque e perderam o curso de treinamento.\n\n Nesse contexto \u00e9 correto afirmar que,"}]
+[
+    {
+        "options": [
+            {
+                "text": "por se tratar de transporte a\u00e9reo internacional, para o pedido de danos extrapatrimoniais n\u00e3o h\u00e1 incid\u00eancia do C\u00f3digo de Defesa do Consumidor e nem do C\u00f3digo Civil, que regula apenas Contrato de Transporte em territ\u00f3rio nacional, prevalecendo unicamente as Normas Internacionais.",
+                "letter": "A",
+                "pmi": [
+                    -0.033654994965445766,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "ao caso, aplica-se a norma consumerista, sendo que apenas Heitor \u00e9 consumidor por ter custeado a viagem com seus recursos, mas, como ele tem boas condi\u00e7\u00f5es financeiras, por esse motivo, \u00e9 consumidor n\u00e3o enquadrado em condi\u00e7\u00e3o de vulnerabilidade, como tutela o C\u00f3digo de Defesa do Consumidor.",
+                "letter": "B",
+                "pmi": [
+                    -0.038199980587148255,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "embora se trate de transporte a\u00e9reo internacional, h\u00e1 incid\u00eancia plena do C\u00f3digo de Defesa do Consumidor para o pedido de danos extrapatrimoniais, em detrimento das normas internacionais e, apesar de Heitor ter boas condi\u00e7\u00f5es financeiras, enquadra-se na condi\u00e7\u00e3o de vulnerabilidade, assim como os seus funcion\u00e1rios, para o pleito de repara\u00e7\u00e3o.",
+                "letter": "C",
+                "pmi": [
+                    -0.011884443943419436,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "por se tratar de rela\u00e7\u00e3o de Contrato de Transporte previsto expressamente no C\u00f3digo Civil, afasta-se a incid\u00eancia do C\u00f3digo de Defesa do Consumidor e, por ter ocorrido o dano em territ\u00f3rio brasileiro, afastam-se as normas internacionais, sendo, portanto, hip\u00f3tese de responsabilidade civil pautada na comprova\u00e7\u00e3o de culpa da companhia a\u00e9rea pelo evento danoso.",
+                "letter": "D",
+                "pmi": [
+                    -0.017856457946381552,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "filename": "2016-20.txt",
+        "number": "47",
+        "areas": [],
+        "valid": true,
+        "enum": "Heitor agraciou cinco funcion\u00e1rios de uma de suas sociedades empres\u00e1rias, situada no Rio Grande do Sul, com uma viagem para curso de treinamento profissional realizado em determinado s\u00e1bado, de 9h \u00e0s 15h, numa cidade do Uruguai, h\u00e1 cerca de 50 minutos de voo. Heitor custeou as passagens a\u00e9reas, translado e alimenta\u00e7\u00e3o dos cinco funcion\u00e1rios com sua pr\u00f3pria renda, integralmente desvinculada da atividade empres\u00e1ria. Ocorre que houve atraso no voo sem qualquer justificativa prestada pela companhia a\u00e9rea. \u00c0s 14h, sem previs\u00e3o de sa\u00edda do voo, todos desistiram do embarque e perderam o curso de treinamento.\n\n Nesse contexto \u00e9 correto afirmar que,"
+    }
+]

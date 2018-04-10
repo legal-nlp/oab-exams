@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Um empres\u00e1rio consulta um escrit\u00f3rio de advocacia sobre a possibilidade de a sociedade da qual \u00e9 administrador participar de uma licita\u00e7\u00e3o, sendo certo que, para tal, ter\u00e1 que apresentar uma certid\u00e3o demonstrando a inexist\u00eancia de d\u00e9bitos fiscais com o governo federal. Ele informa que a sociedade foi autuada pelo n\u00e3o recolhimento do Imposto sobre a Renda e Proventos de Qualquer Natureza (IR), e a defesa administrativa, apresentada no prazo, ainda n\u00e3o foi apreciada pelo \u00f3rg\u00e3o competente.\n\n Considerando apenas os dados apresentados, \u00e9 correto afirmar que a sociedade", "filename": "2014-15.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "n\u00e3o poder\u00e1 participar da licita\u00e7\u00e3o, pela exist\u00eancia de cr\u00e9dito tribut\u00e1rio vencido e n\u00e3o pago."}, {"correct": true, "letter": "B", "text": "poder\u00e1 participar da licita\u00e7\u00e3o, pois o cr\u00e9dito tribut\u00e1rio est\u00e1 com a exigibilidade suspensa."}, {"correct": null, "letter": "C", "text": "poder\u00e1 participar da licita\u00e7\u00e3o somente ap\u00f3s a defesa administrativa ser analisada."}, {"correct": null, "letter": "D", "text": "somente poder\u00e1 participar da licita\u00e7\u00e3o se depositar o valor do cr\u00e9dito tribut\u00e1rio."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Um empres\u00e1rio consulta um escrit\u00f3rio de advocacia sobre a possibilidade de a sociedade da qual \u00e9 administrador participar de uma licita\u00e7\u00e3o, sendo certo que, para tal, ter\u00e1 que apresentar uma certid\u00e3o demonstrando a inexist\u00eancia de d\u00e9bitos fiscais com o governo federal. Ele informa que a sociedade foi autuada pelo n\u00e3o recolhimento do Imposto sobre a Renda e Proventos de Qualquer Natureza (IR), e a defesa administrativa, apresentada no prazo, ainda n\u00e3o foi apreciada pelo \u00f3rg\u00e3o competente.\n\n Considerando apenas os dados apresentados, \u00e9 correto afirmar que a sociedade",
+        "filename": "2014-15.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "n\u00e3o poder\u00e1 participar da licita\u00e7\u00e3o, pela exist\u00eancia de cr\u00e9dito tribut\u00e1rio vencido e n\u00e3o pago."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "poder\u00e1 participar da licita\u00e7\u00e3o, pois o cr\u00e9dito tribut\u00e1rio est\u00e1 com a exigibilidade suspensa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "poder\u00e1 participar da licita\u00e7\u00e3o somente ap\u00f3s a defesa administrativa ser analisada."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "somente poder\u00e1 participar da licita\u00e7\u00e3o se depositar o valor do cr\u00e9dito tribut\u00e1rio."
+            }
+        ],
+        "valid": true
+    }
+]

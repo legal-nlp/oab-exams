@@ -1,1 +1,57 @@
-[{"valid": true, "number": "4", "enum": "Maria da Silva, advogada, apresenta requerimento ao Presidente da Seccional da OAB tendo o seu pleito sido indeferido.\n\n Nos termos do Estatuto da Advocacia, cabe recurso ao", "options": [{"letter": "A", "text": "Conselho Seccional da OAB.", "pmi": [0.0, 0.0, 0, 0], "correct": true}, {"letter": "B", "text": "Conselho Federal da OAB.", "pmi": [-0.2890882920045825, 0.0, 0, 0], "correct": null}, {"letter": "C", "text": "Presidente do Conselho Federal da OAB.", "pmi": [-0.19272552800305504, 0.0, 0.0, 0.0], "correct": null}, {"letter": "D", "text": "Presidente do Tribunal de \u00c9tica da OAB.", "pmi": [-0.10529559719021699, 0.0, 0.0, 0.0], "correct": null}], "areas": ["ETHICS"], "filename": "2014-13.txt"}]
+[
+    {
+        "valid": true,
+        "number": "4",
+        "enum": "Maria da Silva, advogada, apresenta requerimento ao Presidente da Seccional da OAB tendo o seu pleito sido indeferido.\n\n Nos termos do Estatuto da Advocacia, cabe recurso ao",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Conselho Seccional da OAB.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "text": "Conselho Federal da OAB.",
+                "pmi": [
+                    -0.2890882920045825,
+                    0.0,
+                    0,
+                    0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "text": "Presidente do Conselho Federal da OAB.",
+                "pmi": [
+                    -0.19272552800305504,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "text": "Presidente do Tribunal de \u00c9tica da OAB.",
+                "pmi": [
+                    -0.10529559719021699,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "filename": "2014-13.txt"
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Em rela\u00e7\u00e3o ao princ\u00edpio da insignific\u00e2ncia, assinale a afirmativa correta.", "number": "59", "filename": "2012-08.txt", "options": [{"text": "O princ\u00edpio da insignific\u00e2ncia funciona como causa de exclus\u00e3o da culpabilidade. A conduta do agente, embora t\u00edpica e il\u00edcita, n\u00e3o \u00e9 culp\u00e1vel.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "A m\u00ednima ofensividade da conduta, a aus\u00eancia de periculosidade social da a\u00e7\u00e3o, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da les\u00e3o jur\u00eddica constituem, para o Supremo Tribunal Federal, requisitos de ordem objetiva autorizadores da aplica\u00e7\u00e3o do princ\u00edpio da insignific\u00e2ncia.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "A jurisprud\u00eancia predominante dos tribunais superiores \u00e9 acorde em admitir a aplica\u00e7\u00e3o do princ\u00edpio da insignific\u00e2ncia em crimes praticados com emprego de viol\u00eancia ou grave amea\u00e7a \u00e0 pessoa (a exemplo do roubo).", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "O princ\u00edpio da insignific\u00e2ncia funciona como causa de diminui\u00e7\u00e3o de pena.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Em rela\u00e7\u00e3o ao princ\u00edpio da insignific\u00e2ncia, assinale a afirmativa correta.",
+        "number": "59",
+        "filename": "2012-08.txt",
+        "options": [
+            {
+                "text": "O princ\u00edpio da insignific\u00e2ncia funciona como causa de exclus\u00e3o da culpabilidade. A conduta do agente, embora t\u00edpica e il\u00edcita, n\u00e3o \u00e9 culp\u00e1vel.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "A m\u00ednima ofensividade da conduta, a aus\u00eancia de periculosidade social da a\u00e7\u00e3o, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da les\u00e3o jur\u00eddica constituem, para o Supremo Tribunal Federal, requisitos de ordem objetiva autorizadores da aplica\u00e7\u00e3o do princ\u00edpio da insignific\u00e2ncia.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "A jurisprud\u00eancia predominante dos tribunais superiores \u00e9 acorde em admitir a aplica\u00e7\u00e3o do princ\u00edpio da insignific\u00e2ncia em crimes praticados com emprego de viol\u00eancia ou grave amea\u00e7a \u00e0 pessoa (a exemplo do roubo).",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "O princ\u00edpio da insignific\u00e2ncia funciona como causa de diminui\u00e7\u00e3o de pena.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true
+    }
+]

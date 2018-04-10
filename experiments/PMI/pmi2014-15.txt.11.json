@@ -1,1 +1,55 @@
-[{"enum": "Na Doutrina do Direito, Kant busca um conceito puramente racional e que possa explicar o direito independentemente da configura\u00e7\u00e3o espec\u00edfica de cada legisla\u00e7\u00e3o. Mais precisamente, seria o direito entendido como express\u00e3o de uma raz\u00e3o pura-pr\u00e1tica, capaz de orientar a faculdade de agir de qualquer ser racional.\n\n Assinale a op\u00e7\u00e3o que cont\u00e9m, segundo Kant, essa lei universal do direito.", "filename": "2014-15.txt", "number": "11", "options": [{"text": "Age de tal maneira que uses a humanidade, tanto na tua pessoa como na pessoa de qualquer outro, sempre e simultaneamente como fim, e nunca como meio.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Age exteriormente, de modo que o livre uso de teu arb\u00edtrio possa se conciliar com a liberdade de todos, segundo uma lei universal.", "pmi": [-0.10040803895107418, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "Age como se a m\u00e1xima de tua a\u00e7\u00e3o se devesse tornar, pela tua vontade, lei universal da natureza.", "pmi": [-0.0685657453671296, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "Age de forma que conserves sempre a tua liberdade, ainda que tenhas de resistir \u00e0 liberdade alheia.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "valid": true, "areas": []}]
+[
+    {
+        "enum": "Na Doutrina do Direito, Kant busca um conceito puramente racional e que possa explicar o direito independentemente da configura\u00e7\u00e3o espec\u00edfica de cada legisla\u00e7\u00e3o. Mais precisamente, seria o direito entendido como express\u00e3o de uma raz\u00e3o pura-pr\u00e1tica, capaz de orientar a faculdade de agir de qualquer ser racional.\n\n Assinale a op\u00e7\u00e3o que cont\u00e9m, segundo Kant, essa lei universal do direito.",
+        "filename": "2014-15.txt",
+        "number": "11",
+        "options": [
+            {
+                "text": "Age de tal maneira que uses a humanidade, tanto na tua pessoa como na pessoa de qualquer outro, sempre e simultaneamente como fim, e nunca como meio.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Age exteriormente, de modo que o livre uso de teu arb\u00edtrio possa se conciliar com a liberdade de todos, segundo uma lei universal.",
+                "pmi": [
+                    -0.10040803895107418,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "Age como se a m\u00e1xima de tua a\u00e7\u00e3o se devesse tornar, pela tua vontade, lei universal da natureza.",
+                "pmi": [
+                    -0.0685657453671296,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "Age de forma que conserves sempre a tua liberdade, ainda que tenhas de resistir \u00e0 liberdade alheia.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "valid": true,
+        "areas": []
+    }
+]

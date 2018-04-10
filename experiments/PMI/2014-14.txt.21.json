@@ -1,1 +1,33 @@
-[{"areas": ["HUMAN-RIGHTS"], "enum": "Em 2014, em pelo menos 24 Estados do Brasil, estavam cadastradas mais de 3.500 comunidades quilombolas. As comunidades quilombolas s\u00e3o grupos \u00e9tnico-raciais, segundo crit\u00e9rios de autoatribui\u00e7\u00e3o, com trajet\u00f3ria hist\u00f3rica pr\u00f3pria, dotados de rela\u00e7\u00f5es territoriais espec\u00edficas e com ancestralidade negra relacionada com a resist\u00eancia \u00e0 opress\u00e3o hist\u00f3rica sofrida.\n\n O constituinte brasileiro reconheceu a identidade dos quilombolas e, especificamente, seu direito fundamental \u00e0", "filename": "2014-14.txt", "number": "21", "options": [{"correct": null, "letter": "A", "text": "express\u00e3o cultural e art\u00edstica."}, {"correct": null, "letter": "B", "text": "educa\u00e7\u00e3o em escolas pr\u00f3prias."}, {"correct": null, "letter": "C", "text": "pr\u00e1tica religiosa e lit\u00fargica conforme suas tradi\u00e7\u00f5es."}, {"correct": true, "letter": "D", "text": "propriedade definitiva das terras que estejam ocupando."}], "valid": true}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "Em 2014, em pelo menos 24 Estados do Brasil, estavam cadastradas mais de 3.500 comunidades quilombolas. As comunidades quilombolas s\u00e3o grupos \u00e9tnico-raciais, segundo crit\u00e9rios de autoatribui\u00e7\u00e3o, com trajet\u00f3ria hist\u00f3rica pr\u00f3pria, dotados de rela\u00e7\u00f5es territoriais espec\u00edficas e com ancestralidade negra relacionada com a resist\u00eancia \u00e0 opress\u00e3o hist\u00f3rica sofrida.\n\n O constituinte brasileiro reconheceu a identidade dos quilombolas e, especificamente, seu direito fundamental \u00e0",
+        "filename": "2014-14.txt",
+        "number": "21",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "express\u00e3o cultural e art\u00edstica."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "educa\u00e7\u00e3o em escolas pr\u00f3prias."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "pr\u00e1tica religiosa e lit\u00fargica conforme suas tradi\u00e7\u00f5es."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "propriedade definitiva das terras que estejam ocupando."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "Quanto \u00e0 nomea\u00e7\u00e3o de advogado na Justi\u00e7a do Trabalho, com poderes para o foro em geral, \u00e9 correto afirmar que", "filename": "2012-06.txt", "number": "80", "options": [{"correct": true, "letter": "A", "text": "na Justi\u00e7a do Trabalho, a nomea\u00e7\u00e3o de advogado com poderes para o foro em geral poder\u00e1 ser efetivada mediante simples registro na ata de audi\u00eancia, a requerimento verbal do advogado interessado e com a anu\u00eancia da parte representada."}, {"correct": null, "letter": "B", "text": "as partes que desejarem a assist\u00eancia de advogado sempre dever\u00e3o outorgar poderes para o foro em geral por interm\u00e9dio de instrumento de mandato, com firma devidamente reconhecida."}, {"correct": null, "letter": "C", "text": "na Justi\u00e7a do Trabalho, o advogado pode atuar sem que lhe sejam exigidos poderes outorgados pela parte, haja vista o princ\u00edpio do jus postulandi."}, {"correct": null, "letter": "D", "text": "somente o trabalhador poder\u00e1 reclamar na Justi\u00e7a do Trabalho sem a necessidade de nomea\u00e7\u00e3o de advogado, uma vez que o princ\u00edpio do jus postulandi somente se aplica \u00e0 parte hipossuficiente."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Quanto \u00e0 nomea\u00e7\u00e3o de advogado na Justi\u00e7a do Trabalho, com poderes para o foro em geral, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "80",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "na Justi\u00e7a do Trabalho, a nomea\u00e7\u00e3o de advogado com poderes para o foro em geral poder\u00e1 ser efetivada mediante simples registro na ata de audi\u00eancia, a requerimento verbal do advogado interessado e com a anu\u00eancia da parte representada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "as partes que desejarem a assist\u00eancia de advogado sempre dever\u00e3o outorgar poderes para o foro em geral por interm\u00e9dio de instrumento de mandato, com firma devidamente reconhecida."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "na Justi\u00e7a do Trabalho, o advogado pode atuar sem que lhe sejam exigidos poderes outorgados pela parte, haja vista o princ\u00edpio do jus postulandi."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "somente o trabalhador poder\u00e1 reclamar na Justi\u00e7a do Trabalho sem a necessidade de nomea\u00e7\u00e3o de advogado, uma vez que o princ\u00edpio do jus postulandi somente se aplica \u00e0 parte hipossuficiente."
+            }
+        ],
+        "valid": true
+    }
+]

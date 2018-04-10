@@ -1,1 +1,57 @@
-[{"number": "10", "valid": true, "enum": "Mathias, solteiro e capaz, com 65 anos de idade, e T\u00e2nia, solteira e capaz, com 60 anos de idade, conheceram-se h\u00e1 um ano e, agora, pretendem se casar.\n\n A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Mathias e T\u00e2nia", "options": [{"correct": null, "text": "dever\u00e3o, necessariamente, celebrar pacto antenupcial optando expressamente pelo regime da separa\u00e7\u00e3o de bens.", "pmi": [-0.09389973482310461, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": null, "text": "poder\u00e3o casar-se pelo regime da comunh\u00e3o parcial de bens, desde que obtenham autoriza\u00e7\u00e3o judicial, mediante a pr\u00e9via demonstra\u00e7\u00e3o da inexist\u00eancia de preju\u00edzo para terceiros.", "pmi": [-0.18793096832929446, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": true, "text": "poder\u00e3o optar livremente dentre os regimes de bens previstos em lei, devendo celebrar pacto antenupcial somente se escolherem regime diverso da comunh\u00e3o parcial de bens.", "pmi": [-0.18461885523796642, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "somente poder\u00e3o se casar pelo regime da separa\u00e7\u00e3o obrigat\u00f3ria de bens, por for\u00e7a de lei e independentemente da celebra\u00e7\u00e3o de pacto antenupcial.", "pmi": [-0.32577490377324686, 0.0, 0.0, 0.0], "letter": "D"}], "areas": ["CIVIL"], "filename": "2011-03.txt"}]
+[
+    {
+        "number": "10",
+        "valid": true,
+        "enum": "Mathias, solteiro e capaz, com 65 anos de idade, e T\u00e2nia, solteira e capaz, com 60 anos de idade, conheceram-se h\u00e1 um ano e, agora, pretendem se casar.\n\n A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Mathias e T\u00e2nia",
+        "options": [
+            {
+                "correct": null,
+                "text": "dever\u00e3o, necessariamente, celebrar pacto antenupcial optando expressamente pelo regime da separa\u00e7\u00e3o de bens.",
+                "pmi": [
+                    -0.09389973482310461,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "poder\u00e3o casar-se pelo regime da comunh\u00e3o parcial de bens, desde que obtenham autoriza\u00e7\u00e3o judicial, mediante a pr\u00e9via demonstra\u00e7\u00e3o da inexist\u00eancia de preju\u00edzo para terceiros.",
+                "pmi": [
+                    -0.18793096832929446,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "text": "poder\u00e3o optar livremente dentre os regimes de bens previstos em lei, devendo celebrar pacto antenupcial somente se escolherem regime diverso da comunh\u00e3o parcial de bens.",
+                "pmi": [
+                    -0.18461885523796642,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "somente poder\u00e3o se casar pelo regime da separa\u00e7\u00e3o obrigat\u00f3ria de bens, por for\u00e7a de lei e independentemente da celebra\u00e7\u00e3o de pacto antenupcial.",
+                "pmi": [
+                    -0.32577490377324686,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CIVIL"
+        ],
+        "filename": "2011-03.txt"
+    }
+]

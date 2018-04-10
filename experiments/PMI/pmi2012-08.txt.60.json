@@ -1,1 +1,57 @@
-[{"enum": "Trata-se de causa extintiva da punibilidade consistente na exclus\u00e3o, por lei ordin\u00e1ria com efeitos retroativos, de um ou mais fatos criminosos do campo de incid\u00eancia do Direito Penal,", "number": "60", "areas": ["CRIMINAL"], "filename": "2012-08.txt", "options": [{"pmi": [0.0, 0.0, 0, 0], "letter": "A", "correct": null, "text": "o indulto individual."}, {"pmi": [0.0, 0, 0, 0], "letter": "B", "correct": true, "text": "a anistia."}, {"pmi": [0.0, 0.0, 0, 0], "letter": "C", "correct": null, "text": "o indulto coletivo."}, {"pmi": [0.0, 0, 0, 0], "letter": "D", "correct": null, "text": "a gra\u00e7a."}], "valid": true}]
+[
+    {
+        "enum": "Trata-se de causa extintiva da punibilidade consistente na exclus\u00e3o, por lei ordin\u00e1ria com efeitos retroativos, de um ou mais fatos criminosos do campo de incid\u00eancia do Direito Penal,",
+        "number": "60",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "filename": "2012-08.txt",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "letter": "A",
+                "correct": null,
+                "text": "o indulto individual."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "B",
+                "correct": true,
+                "text": "a anistia."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "o indulto coletivo."
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "a gra\u00e7a."
+            }
+        ],
+        "valid": true
+    }
+]

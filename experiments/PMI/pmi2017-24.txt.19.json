@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Voc\u00ea, como advogada(o) que atua na defesa dos Direitos Humanos, foi chamada(o) para atuar em um caso em que h\u00e1 uma disputa pela terra entre produtores rurais e uma comunidade quilombola.\n\n Voc\u00ea sabe que, de acordo com o Decreto n\u00ba 4.887/03 do Governo Federal, \u201cconsideram-se remanescentes das comunidades dos quilombos, os grupos \u00e9tnico-raciais, segundo crit\u00e9rios de auto-atribui\u00e7\u00e3o, com trajet\u00f3ria hist\u00f3rica pr\u00f3pria, dotados de rela\u00e7\u00f5es territoriais espec\u00edficas, com presun\u00e7\u00e3o de ancestralidade negra relacionada com a resist\u00eancia \u00e0 opress\u00e3o hist\u00f3rica sofrida\ufffd?.\n\n Em rela\u00e7\u00e3o a essas pessoas remanescentes de quilombos, \u00e9 correto dizer que a Constitui\u00e7\u00e3o Federal de 1988", "number": "19", "options": [{"letter": "A", "pmi": [-0.06568922088228056, 0.0, 0.0, 0.0], "text": "assegura o direito \u00e0s suas tradi\u00e7\u00f5es, mas n\u00e3o garante a propriedade da terra ocupada por elas.", "correct": null}, {"letter": "B", "pmi": [-0.027796476827783082, 0.0, 0.0, 0.0], "text": "prev\u00ea o direito \u00e0 consulta aos quilombolas sempre que houver proposta oficial de explora\u00e7\u00e3o de riquezas minerais de suas terras.", "correct": null}, {"letter": "C", "pmi": [-0.02487807300537618, 0.0, 0.0, 0.0], "text": "afirma o direito \u00e0 posse da terra quando ocupada de boa- f\u00e9 por esses grupos.", "correct": null}, {"letter": "D", "pmi": [-0.05743587208898918, 0.0, 0.0, 0.0], "text": "reconhece a propriedade definitiva das terras que estejam ocupando, cabendo ao Estado a emiss\u00e3o dos t\u00edtulos respectivos.", "correct": true}], "areas": [null], "filename": "2017-24.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "Voc\u00ea, como advogada(o) que atua na defesa dos Direitos Humanos, foi chamada(o) para atuar em um caso em que h\u00e1 uma disputa pela terra entre produtores rurais e uma comunidade quilombola.\n\n Voc\u00ea sabe que, de acordo com o Decreto n\u00ba 4.887/03 do Governo Federal, \u201cconsideram-se remanescentes das comunidades dos quilombos, os grupos \u00e9tnico-raciais, segundo crit\u00e9rios de auto-atribui\u00e7\u00e3o, com trajet\u00f3ria hist\u00f3rica pr\u00f3pria, dotados de rela\u00e7\u00f5es territoriais espec\u00edficas, com presun\u00e7\u00e3o de ancestralidade negra relacionada com a resist\u00eancia \u00e0 opress\u00e3o hist\u00f3rica sofrida\ufffd?.\n\n Em rela\u00e7\u00e3o a essas pessoas remanescentes de quilombos, \u00e9 correto dizer que a Constitui\u00e7\u00e3o Federal de 1988",
+        "number": "19",
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    -0.06568922088228056,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "assegura o direito \u00e0s suas tradi\u00e7\u00f5es, mas n\u00e3o garante a propriedade da terra ocupada por elas.",
+                "correct": null
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    -0.027796476827783082,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "prev\u00ea o direito \u00e0 consulta aos quilombolas sempre que houver proposta oficial de explora\u00e7\u00e3o de riquezas minerais de suas terras.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.02487807300537618,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "afirma o direito \u00e0 posse da terra quando ocupada de boa- f\u00e9 por esses grupos.",
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.05743587208898918,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "reconhece a propriedade definitiva das terras que estejam ocupando, cabendo ao Estado a emiss\u00e3o dos t\u00edtulos respectivos.",
+                "correct": true
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "filename": "2017-24.txt"
+    }
+]

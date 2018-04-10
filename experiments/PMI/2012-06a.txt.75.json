@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Assinale a alternativa que cont\u00e9m categorias ou profiss\u00f5es que, de acordo com a lei, possuem intervalo interjornada diferenciado.", "filename": "2012-06a.txt", "number": "75", "options": [{"correct": null, "letter": "A", "text": "Professores, m\u00e9dicos e rodovi\u00e1rios."}, {"correct": true, "letter": "B", "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos."}, {"correct": null, "letter": "C", "text": "Advogados, mineiros de subsolo e securit\u00e1rios."}, {"correct": null, "letter": "D", "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Assinale a alternativa que cont\u00e9m categorias ou profiss\u00f5es que, de acordo com a lei, possuem intervalo interjornada diferenciado.",
+        "filename": "2012-06a.txt",
+        "number": "75",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Professores, m\u00e9dicos e rodovi\u00e1rios."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Advogados, mineiros de subsolo e securit\u00e1rios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos."
+            }
+        ],
+        "valid": true
+    }
+]

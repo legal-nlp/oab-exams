@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Juliana \u00e9 integrante da equipe de recursos humanos de certa sociedade an\u00f4nima, de grande porte, cujo objeto social \u00e9 o com\u00e9rcio de produtos eletr\u00f4nicos.  Encontrando-se vago um cargo de ger\u00eancia jur\u00eddica, Juliana organizou processo seletivo, tendo recebido os curr\u00edculos de tr\u00eas candidatas.  A primeira delas, Mariana, \u00e9 advogada regularmente inscrita na OAB, tendo se especializado em Direito Penal. A segunda, Patr\u00edcia, n\u00e3o \u00e9 graduada em Direito, por\u00e9m \u00e9 economista e concluiu o doutorado em direito societ\u00e1rio e mercado de capitais.  A terceira, Luana, graduada em Direito, foi aprovada no exame da OAB e concluiu mestrado e doutorado. \u00c9 conselheira de certo tribunal de contas estadual, mas encontra-se afastada, a pedido, sem vencimentos. Considerando a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.", "number": "4", "filename": "2017-23.txt", "options": [{"pmi": [-0.006822223000433067, 0.0, 0.0, 0.0], "text": "Qualquer das candidatas poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica, mas apenas Mariana poder\u00e1 subscrever os atos privativos da advocacia.", "correct": null, "letter": "A"}, {"pmi": [-0.005685185833694223, 0.0, 0.0, 0.0], "text": "Qualquer das candidatas poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica, mas apenas Mariana e Luana poder\u00e3o subscrever os atos privativos da advocacia.", "correct": null, "letter": "B"}, {"pmi": [-0.013644446000866135, 0.0, 0.0, 0.0], "text": "Apenas Mariana poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica.", "correct": true, "letter": "C"}, {"pmi": [-0.009746032857761525, 0.0, 0.0, 0.0], "text": "Apenas Mariana e Luana poder\u00e3o exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica.", "correct": null, "letter": "D"}], "areas": [null]}]
+[
+    {
+        "valid": true,
+        "enum": "Juliana \u00e9 integrante da equipe de recursos humanos de certa sociedade an\u00f4nima, de grande porte, cujo objeto social \u00e9 o com\u00e9rcio de produtos eletr\u00f4nicos.  Encontrando-se vago um cargo de ger\u00eancia jur\u00eddica, Juliana organizou processo seletivo, tendo recebido os curr\u00edculos de tr\u00eas candidatas.  A primeira delas, Mariana, \u00e9 advogada regularmente inscrita na OAB, tendo se especializado em Direito Penal. A segunda, Patr\u00edcia, n\u00e3o \u00e9 graduada em Direito, por\u00e9m \u00e9 economista e concluiu o doutorado em direito societ\u00e1rio e mercado de capitais.  A terceira, Luana, graduada em Direito, foi aprovada no exame da OAB e concluiu mestrado e doutorado. \u00c9 conselheira de certo tribunal de contas estadual, mas encontra-se afastada, a pedido, sem vencimentos. Considerando a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "number": "4",
+        "filename": "2017-23.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.006822223000433067,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Qualquer das candidatas poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica, mas apenas Mariana poder\u00e1 subscrever os atos privativos da advocacia.",
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.005685185833694223,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Qualquer das candidatas poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica, mas apenas Mariana e Luana poder\u00e3o subscrever os atos privativos da advocacia.",
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.013644446000866135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas Mariana poder\u00e1 exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica.",
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.009746032857761525,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas Mariana e Luana poder\u00e3o exercer a fun\u00e7\u00e3o de ger\u00eancia jur\u00eddica.",
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            null
+        ]
+    }
+]

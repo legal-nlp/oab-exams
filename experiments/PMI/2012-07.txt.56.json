@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Determinada pessoa f\u00edsica adquire de outra um estabelecimento comercial e segue na explora\u00e7\u00e3o de suas atividades, cessando ao vendedor toda a atividade empresarial. Nesse caso, em rela\u00e7\u00e3o aos tributos devidos pelo estabelecimento comercial at\u00e9 a data da aquisi\u00e7\u00e3o do referido neg\u00f3cio jur\u00eddico, o novo adquirente responde", "filename": "2012-07.txt", "number": "56", "options": [{"correct": null, "letter": "A", "text": "pela metade dos tributos."}, {"correct": null, "letter": "B", "text": "subsidiariamente pela integralidade dos tributos."}, {"correct": true, "letter": "C", "text": "integralmente por todos os tributos."}, {"correct": null, "letter": "D", "text": "solidariamente, com o antigo propriet\u00e1rio, por todos os tributos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Determinada pessoa f\u00edsica adquire de outra um estabelecimento comercial e segue na explora\u00e7\u00e3o de suas atividades, cessando ao vendedor toda a atividade empresarial. Nesse caso, em rela\u00e7\u00e3o aos tributos devidos pelo estabelecimento comercial at\u00e9 a data da aquisi\u00e7\u00e3o do referido neg\u00f3cio jur\u00eddico, o novo adquirente responde",
+        "filename": "2012-07.txt",
+        "number": "56",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "pela metade dos tributos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "subsidiariamente pela integralidade dos tributos."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "integralmente por todos os tributos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "solidariamente, com o antigo propriet\u00e1rio, por todos os tributos."
+            }
+        ],
+        "valid": true
+    }
+]

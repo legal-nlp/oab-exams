@@ -1,1 +1,33 @@
-[{"areas": ["CRIMINAL-PROCEDURE"], "enum": "Em rela\u00e7\u00e3o aos meios de impugna\u00e7\u00e3o de decis\u00f5es judiciais, assinale a afirmativa INCORRETA.", "filename": "2012-07.txt", "number": "67", "options": [{"correct": null, "letter": "A", "text": "Caber\u00e1 recurso em sentido estrito contra a decis\u00e3o que rejeitar a den\u00fancia, podendo o magistrado, entretanto, ap\u00f3s a apresenta\u00e7\u00e3o das raz\u00f5es recursais, reconsiderar a decis\u00e3o proferida."}, {"correct": null, "letter": "B", "text": "Caber\u00e1 apela\u00e7\u00e3o contra a decis\u00e3o que impronunciar o acusado, a qual ter\u00e1 efeito meramente devolutivo."}, {"correct": true, "letter": "C", "text": "Caber\u00e1 recurso em sentido estrito contra a decis\u00e3o que receber a den\u00fancia oferecida contra funcion\u00e1rio p\u00fablico por delito pr\u00f3prio, o qual ter\u00e1 duplo efeito."}, {"correct": null, "letter": "D", "text": "Caber\u00e1 apela\u00e7\u00e3o contra a decis\u00e3o que rejeitar a queixa-crime oferecida perante o Juizado Especial Criminal, a qual ter\u00e1 efeito meramente devolutivo."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "enum": "Em rela\u00e7\u00e3o aos meios de impugna\u00e7\u00e3o de decis\u00f5es judiciais, assinale a afirmativa INCORRETA.",
+        "filename": "2012-07.txt",
+        "number": "67",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Caber\u00e1 recurso em sentido estrito contra a decis\u00e3o que rejeitar a den\u00fancia, podendo o magistrado, entretanto, ap\u00f3s a apresenta\u00e7\u00e3o das raz\u00f5es recursais, reconsiderar a decis\u00e3o proferida."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Caber\u00e1 apela\u00e7\u00e3o contra a decis\u00e3o que impronunciar o acusado, a qual ter\u00e1 efeito meramente devolutivo."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Caber\u00e1 recurso em sentido estrito contra a decis\u00e3o que receber a den\u00fancia oferecida contra funcion\u00e1rio p\u00fablico por delito pr\u00f3prio, o qual ter\u00e1 duplo efeito."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Caber\u00e1 apela\u00e7\u00e3o contra a decis\u00e3o que rejeitar a queixa-crime oferecida perante o Juizado Especial Criminal, a qual ter\u00e1 efeito meramente devolutivo."
+            }
+        ],
+        "valid": true
+    }
+]

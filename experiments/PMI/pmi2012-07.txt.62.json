@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "letter": "A", "text": "trata-se de caso de desist\u00eancia volunt\u00e1ria, raz\u00e3o pela qual Filolau n\u00e3o responder\u00e1 pelo crime de estupro.", "pmi": [-0.020720754825871844, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "trata-se de arrependimento eficaz, fazendo com que Filolau responda t\u00e3o somente pelos atos praticados.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "a conduta de Filolau \u00e9 at\u00edpica.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "Filolau deve responder por tentativa de estupro.", "pmi": [0.0, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2012-07.txt", "areas": ["CRIMINAL"], "number": "62", "enum": "Filolau, querendo estuprar Filomena, deu in\u00edcio \u00e0 execu\u00e7\u00e3o do crime de estupro, empregando grave amea\u00e7a \u00e0 v\u00edtima. Ocorre que ao se preparar para o coito vag\u00ednico, que era sua \u00fanica inten\u00e7\u00e3o, n\u00e3o conseguiu manter seu p\u00eanis ereto em virtude de falha fisiol\u00f3gica alheia \u00e0 sua vontade. Por conta disso, desistiu de prosseguir na execu\u00e7\u00e3o do crime e abandonou o local.\n\n Nesse caso, \u00e9 correto afirmar que"}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "trata-se de caso de desist\u00eancia volunt\u00e1ria, raz\u00e3o pela qual Filolau n\u00e3o responder\u00e1 pelo crime de estupro.",
+                "pmi": [
+                    -0.020720754825871844,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "trata-se de arrependimento eficaz, fazendo com que Filolau responda t\u00e3o somente pelos atos praticados.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a conduta de Filolau \u00e9 at\u00edpica.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Filolau deve responder por tentativa de estupro.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2012-07.txt",
+        "areas": [
+            "CRIMINAL"
+        ],
+        "number": "62",
+        "enum": "Filolau, querendo estuprar Filomena, deu in\u00edcio \u00e0 execu\u00e7\u00e3o do crime de estupro, empregando grave amea\u00e7a \u00e0 v\u00edtima. Ocorre que ao se preparar para o coito vag\u00ednico, que era sua \u00fanica inten\u00e7\u00e3o, n\u00e3o conseguiu manter seu p\u00eanis ereto em virtude de falha fisiol\u00f3gica alheia \u00e0 sua vontade. Por conta disso, desistiu de prosseguir na execu\u00e7\u00e3o do crime e abandonou o local.\n\n Nesse caso, \u00e9 correto afirmar que"
+    }
+]

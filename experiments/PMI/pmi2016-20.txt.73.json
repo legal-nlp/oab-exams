@@ -1,1 +1,55 @@
-[{"number": "73", "enum": "Jo\u00e3o pretende se aposentar e, para tal fim, dirigiu-se ao \u00f3rg\u00e3o previdenci\u00e1rio. L\u00e1 ficou sabendo que o seu tempo de contribui\u00e7\u00e3o ainda n\u00e3o era suficiente para a aposentadoria, necessitando computar, ainda, 18 meses de contribui\u00e7\u00e3o.  Ocorre que Jo\u00e3o, 25 anos antes, trabalhou por dois anos como empregado para uma empresa, mas n\u00e3o teve a CTPS assinada.  De acordo com a CLT, sobre uma eventual reclama\u00e7\u00e3o trabalhista, na qual Jo\u00e3o viesse a postular a declara\u00e7\u00e3o de v\u00ednculo empregat\u00edcio para conquistar a aposentadoria, assinale a afirmativa correta.", "options": [{"correct": null, "letter": "A", "text": "Se a empresa arguir a prescri\u00e7\u00e3o a seu favor, ela ser\u00e1 conhecida pelo juiz, j\u00e1 que ultrapassado o prazo de 2 anos para ajuizamento da a\u00e7\u00e3o.", "pmi": [-0.014706626573763709, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "N\u00e3o h\u00e1 o instituto da prescri\u00e7\u00e3o na seara trabalhista porque prevalece o princ\u00edpio da prote\u00e7\u00e3o ao empregado.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "C", "text": "O prazo, na hip\u00f3tese, seria de 5 anos e j\u00e1 foi ultrapassado, de modo que a pretens\u00e3o estaria fulminada pela prescri\u00e7\u00e3o total.", "pmi": [-0.025388083128742314, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "D", "text": "N\u00e3o haver\u00e1 prescri\u00e7\u00e3o, pois a demanda tem por objeto anota\u00e7\u00f5es para fins de prova junto \u00e0 Previd\u00eancia Social.", "pmi": [-0.02554450281082628, 0.0, 0.0, 0.0]}], "valid": true, "filename": "2016-20.txt", "areas": []}]
+[
+    {
+        "number": "73",
+        "enum": "Jo\u00e3o pretende se aposentar e, para tal fim, dirigiu-se ao \u00f3rg\u00e3o previdenci\u00e1rio. L\u00e1 ficou sabendo que o seu tempo de contribui\u00e7\u00e3o ainda n\u00e3o era suficiente para a aposentadoria, necessitando computar, ainda, 18 meses de contribui\u00e7\u00e3o.  Ocorre que Jo\u00e3o, 25 anos antes, trabalhou por dois anos como empregado para uma empresa, mas n\u00e3o teve a CTPS assinada.  De acordo com a CLT, sobre uma eventual reclama\u00e7\u00e3o trabalhista, na qual Jo\u00e3o viesse a postular a declara\u00e7\u00e3o de v\u00ednculo empregat\u00edcio para conquistar a aposentadoria, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Se a empresa arguir a prescri\u00e7\u00e3o a seu favor, ela ser\u00e1 conhecida pelo juiz, j\u00e1 que ultrapassado o prazo de 2 anos para ajuizamento da a\u00e7\u00e3o.",
+                "pmi": [
+                    -0.014706626573763709,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "N\u00e3o h\u00e1 o instituto da prescri\u00e7\u00e3o na seara trabalhista porque prevalece o princ\u00edpio da prote\u00e7\u00e3o ao empregado.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O prazo, na hip\u00f3tese, seria de 5 anos e j\u00e1 foi ultrapassado, de modo que a pretens\u00e3o estaria fulminada pela prescri\u00e7\u00e3o total.",
+                "pmi": [
+                    -0.025388083128742314,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "N\u00e3o haver\u00e1 prescri\u00e7\u00e3o, pois a demanda tem por objeto anota\u00e7\u00f5es para fins de prova junto \u00e0 Previd\u00eancia Social.",
+                "pmi": [
+                    -0.02554450281082628,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "valid": true,
+        "filename": "2016-20.txt",
+        "areas": []
+    }
+]

@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Formaram-se em uma Faculdade de Direito, na mesma turma, Luana, Leonardo e Bruno. Luana, 35 anos, j\u00e1 exercia fun\u00e7\u00e3o de ger\u00eancia em um banco quando se graduou. Leonardo, 30 anos, \u00e9 prefeito do munic\u00edpio de Pontal. Bruno, 28 anos, \u00e9 policial militar no mesmo munic\u00edpio. Os tr\u00eas pretendem praticar atividades privativas de advocacia.\n\n Considerando as incompatibilidades e impedimentos ao exerc\u00edcio da advocacia, assinale a op\u00e7\u00e3o correta.", "filename": "2016-19.txt", "number": "4", "options": [{"correct": null, "letter": "A", "text": "Luana n\u00e3o est\u00e1 proibida de exercer a advocacia, pois \u00e9 empregada de institui\u00e7\u00e3o privada, inexistindo impedimentos ou incompatibilidades."}, {"correct": null, "letter": "B", "text": "Bruno, como os servidores p\u00fablicos, apenas \u00e9 impedido de exercer a advocacia contra a Fazenda P\u00fablica que o remunera."}, {"correct": true, "letter": "C", "text": "Os tr\u00eas graduados, Luana, Leonardo e Bruno, exercem fun\u00e7\u00f5es incompat\u00edveis com a advocacia, sendo determinada a proibi\u00e7\u00e3o total de exerc\u00edcio das atividades privativas de advogado."}, {"correct": null, "letter": "D", "text": "Leonardo \u00e9 impedido de exercer a advocacia apenas contra ou em favor de pessoas jur\u00eddicas de direito p\u00fablico, empresas p\u00fablicas, sociedades de economia mista, funda\u00e7\u00f5es p\u00fablicas, entidades paraestatais ou empresas concession\u00e1rias ou permission\u00e1rias de servi\u00e7o p\u00fablico."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Formaram-se em uma Faculdade de Direito, na mesma turma, Luana, Leonardo e Bruno. Luana, 35 anos, j\u00e1 exercia fun\u00e7\u00e3o de ger\u00eancia em um banco quando se graduou. Leonardo, 30 anos, \u00e9 prefeito do munic\u00edpio de Pontal. Bruno, 28 anos, \u00e9 policial militar no mesmo munic\u00edpio. Os tr\u00eas pretendem praticar atividades privativas de advocacia.\n\n Considerando as incompatibilidades e impedimentos ao exerc\u00edcio da advocacia, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2016-19.txt",
+        "number": "4",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Luana n\u00e3o est\u00e1 proibida de exercer a advocacia, pois \u00e9 empregada de institui\u00e7\u00e3o privada, inexistindo impedimentos ou incompatibilidades."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Bruno, como os servidores p\u00fablicos, apenas \u00e9 impedido de exercer a advocacia contra a Fazenda P\u00fablica que o remunera."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Os tr\u00eas graduados, Luana, Leonardo e Bruno, exercem fun\u00e7\u00f5es incompat\u00edveis com a advocacia, sendo determinada a proibi\u00e7\u00e3o total de exerc\u00edcio das atividades privativas de advogado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Leonardo \u00e9 impedido de exercer a advocacia apenas contra ou em favor de pessoas jur\u00eddicas de direito p\u00fablico, empresas p\u00fablicas, sociedades de economia mista, funda\u00e7\u00f5es p\u00fablicas, entidades paraestatais ou empresas concession\u00e1rias ou permission\u00e1rias de servi\u00e7o p\u00fablico."
+            }
+        ],
+        "valid": true
+    }
+]

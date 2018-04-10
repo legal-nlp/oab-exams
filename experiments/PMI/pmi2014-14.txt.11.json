@@ -1,1 +1,57 @@
-[{"options": [{"correct": null, "letter": "A", "pmi": [-0.11104906354693264, 0.0, 0.0, 0.0], "text": "estabelece que a moral e a lei devem ser obedecidas porque s\u00e3o \u00fateis \u00e0 coexist\u00eancia humana na vida em sociedade."}, {"correct": true, "letter": "B", "pmi": [-0.05476571113100199, 0.0, 0.0, 0.0], "text": "aprova ou desaprova qualquer a\u00e7\u00e3o, segundo a tend\u00eancia que tem a aumentar ou diminuir a felicidade das pessoas cujos interesses est\u00e3o em jogo."}, {"correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "demonstra que o direito natural \u00e9 superior ao direito positivo, pois, ao longo do tempo, revelou-se mais \u00fatil \u00e0 tarefa de regular a conviv\u00eancia humana."}, {"correct": null, "letter": "D", "pmi": [-0.04107428334825149, 0.0, 0.0, 0.0], "text": "afirma que a liberdade humana \u00e9 o bem maior a ser protegido tanto pela moral quanto pelo direito, pois s\u00e3o a liberdade de pensamento e a a\u00e7\u00e3o que permitem \u00e0s pessoas tornarem algo \u00fatil."}], "filename": "2014-14.txt", "number": "11", "areas": ["PHILOSOPHY"], "enum": "O fil\u00f3sofo ingl\u00eas Jeremy Bentham, em seu livro Uma introdu\u00e7\u00e3o aos princ\u00edpios da moral e da legisla\u00e7\u00e3o, defendeu o princ\u00edpio da utilidade como fundamento para a Moral e para o Direito.\n\n Para esse autor, o princ\u00edpio da utilidade \u00e9 aquele que", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.11104906354693264,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "estabelece que a moral e a lei devem ser obedecidas porque s\u00e3o \u00fateis \u00e0 coexist\u00eancia humana na vida em sociedade."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.05476571113100199,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "aprova ou desaprova qualquer a\u00e7\u00e3o, segundo a tend\u00eancia que tem a aumentar ou diminuir a felicidade das pessoas cujos interesses est\u00e3o em jogo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "demonstra que o direito natural \u00e9 superior ao direito positivo, pois, ao longo do tempo, revelou-se mais \u00fatil \u00e0 tarefa de regular a conviv\u00eancia humana."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.04107428334825149,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "afirma que a liberdade humana \u00e9 o bem maior a ser protegido tanto pela moral quanto pelo direito, pois s\u00e3o a liberdade de pensamento e a a\u00e7\u00e3o que permitem \u00e0s pessoas tornarem algo \u00fatil."
+            }
+        ],
+        "filename": "2014-14.txt",
+        "number": "11",
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "enum": "O fil\u00f3sofo ingl\u00eas Jeremy Bentham, em seu livro Uma introdu\u00e7\u00e3o aos princ\u00edpios da moral e da legisla\u00e7\u00e3o, defendeu o princ\u00edpio da utilidade como fundamento para a Moral e para o Direito.\n\n Para esse autor, o princ\u00edpio da utilidade \u00e9 aquele que",
+        "valid": true
+    }
+]

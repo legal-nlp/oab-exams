@@ -1,1 +1,57 @@
-[{"filename": "2011-03.txt", "enum": "S\u00f4nia, maior e capaz, decide doar, por instrumento particular, certa quantia em dinheiro em favor se seu sobrinho, Fernando, maior e capaz, caso ele venha a se casar com Leila. S\u00f4nia faz constar, ainda, cl\u00e1usula de irrevogabilidade da doa\u00e7\u00e3o por eventual ingratid\u00e3o de seu sobrinho. Fernando, por sua vez, aceita formalmente a doa\u00e7\u00e3o e, poucos meses depois, casa-se com Leila, conforme estipulado. No dia seguinte ao casamento, ao procurar sua tia para receber a quantia estabelecida, Fernando deflagra uma discuss\u00e3o com S\u00f4nia e lhe dirige grave ofensa f\u00edsica. A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Fernando", "options": [{"letter": "A", "correct": null, "pmi": [-0.011610215276688353, 0.0, 0.0, 0.0], "text": "n\u00e3o deve receber a quantia em dinheiro, tendo em vista que a doa\u00e7\u00e3o \u00e9 nula, pois deveria ter sido realizada por escritura p\u00fablica."}, {"letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "deve receber a quantia em dinheiro, em raz\u00e3o de o instrumento de doa\u00e7\u00e3o prever cl\u00e1usula de irrevogabilidade por eventual ingratid\u00e3o."}, {"letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "n\u00e3o deve receber a quantia em dinheiro, pois dirigiu grave ofensa f\u00edsica \u00e0 sua tia S\u00f4nia."}, {"letter": "D", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "deve receber a quantia em dinheiro, em raz\u00e3o de ter se casado com Leila e independentemente de ter dirigido grave ofensa f\u00edsica a S\u00f4nia."}], "valid": true, "areas": ["CIVIL"], "number": "18"}]
+[
+    {
+        "filename": "2011-03.txt",
+        "enum": "S\u00f4nia, maior e capaz, decide doar, por instrumento particular, certa quantia em dinheiro em favor se seu sobrinho, Fernando, maior e capaz, caso ele venha a se casar com Leila. S\u00f4nia faz constar, ainda, cl\u00e1usula de irrevogabilidade da doa\u00e7\u00e3o por eventual ingratid\u00e3o de seu sobrinho. Fernando, por sua vez, aceita formalmente a doa\u00e7\u00e3o e, poucos meses depois, casa-se com Leila, conforme estipulado. No dia seguinte ao casamento, ao procurar sua tia para receber a quantia estabelecida, Fernando deflagra uma discuss\u00e3o com S\u00f4nia e lhe dirige grave ofensa f\u00edsica. A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Fernando",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.011610215276688353,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o deve receber a quantia em dinheiro, tendo em vista que a doa\u00e7\u00e3o \u00e9 nula, pois deveria ter sido realizada por escritura p\u00fablica."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deve receber a quantia em dinheiro, em raz\u00e3o de o instrumento de doa\u00e7\u00e3o prever cl\u00e1usula de irrevogabilidade por eventual ingratid\u00e3o."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o deve receber a quantia em dinheiro, pois dirigiu grave ofensa f\u00edsica \u00e0 sua tia S\u00f4nia."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deve receber a quantia em dinheiro, em raz\u00e3o de ter se casado com Leila e independentemente de ter dirigido grave ofensa f\u00edsica a S\u00f4nia."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CIVIL"
+        ],
+        "number": "18"
+    }
+]

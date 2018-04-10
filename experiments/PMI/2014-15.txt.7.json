@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Ant\u00f4nio recebe Paulo, um antigo cliente do escrit\u00f3rio de advocacia onde presta servi\u00e7os. Ap\u00f3s a entrevista, o preenchimento de relat\u00f3rio com os dados pessoais do cliente e a requisi\u00e7\u00e3o dos documentos necess\u00e1rios, Ant\u00f4nio realiza a an\u00e1lise final dois dias depois da entrevista com o cliente e verifica que existe norma legal que contraria, expressamente, a pretens\u00e3o apresentada.\n\n Sobre o caso, observadas as regras do Estatuto da OAB, assinale a afirmativa correta.", "filename": "2014-15.txt", "number": "7", "options": [{"correct": null, "letter": "A", "text": "O advogado pode postular contra texto expresso de lei."}, {"correct": null, "letter": "B", "text": "O advogado deve aconselhar o cliente a procurar o Minist\u00e9rio P\u00fablico para propor a\u00e7\u00e3o contra a lei."}, {"correct": true, "letter": "C", "text": "O advogado pode se opor \u00e0 norma expressa, aduzindo a sua inconstitucionalidade."}, {"correct": null, "letter": "D", "text": "O advogado deve indicar ao cliente a desist\u00eancia da a\u00e7\u00e3o, por n\u00e3o portar solu\u00e7\u00e3o para o problema."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Ant\u00f4nio recebe Paulo, um antigo cliente do escrit\u00f3rio de advocacia onde presta servi\u00e7os. Ap\u00f3s a entrevista, o preenchimento de relat\u00f3rio com os dados pessoais do cliente e a requisi\u00e7\u00e3o dos documentos necess\u00e1rios, Ant\u00f4nio realiza a an\u00e1lise final dois dias depois da entrevista com o cliente e verifica que existe norma legal que contraria, expressamente, a pretens\u00e3o apresentada.\n\n Sobre o caso, observadas as regras do Estatuto da OAB, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O advogado pode postular contra texto expresso de lei."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O advogado deve aconselhar o cliente a procurar o Minist\u00e9rio P\u00fablico para propor a\u00e7\u00e3o contra a lei."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O advogado pode se opor \u00e0 norma expressa, aduzindo a sua inconstitucionalidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O advogado deve indicar ao cliente a desist\u00eancia da a\u00e7\u00e3o, por n\u00e3o portar solu\u00e7\u00e3o para o problema."
+            }
+        ],
+        "valid": true
+    }
+]

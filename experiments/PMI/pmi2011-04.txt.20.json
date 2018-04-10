@@ -1,1 +1,57 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Em rela\u00e7\u00e3o ao controle de constitucionalidade em face da Constitui\u00e7\u00e3o Estadual, assinale a alternativa correta.", "number": "20", "valid": true, "options": [{"text": "Compete aos Estados a institui\u00e7\u00e3o de representa\u00e7\u00e3o de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constitui\u00e7\u00e3o Estadual, reconhecida a legitima\u00e7\u00e3o para agir aos mesmos \u00f3rg\u00e3os e entidades legitimados a propositura de a\u00e7\u00e3o direta de inconstitucionalidade.", "pmi": [-0.27256623750067105, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "A decis\u00e3o do Tribunal de Justi\u00e7a que declara a inconstitucionalidade de lei local em face da Constitui\u00e7\u00e3o Estadual \u00e9 irrecorr\u00edvel, ressalvada a oposi\u00e7\u00e3o de embargos declarat\u00f3rios.", "pmi": [-0.3286194461481998, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "N\u00e3o ofende a Constitui\u00e7\u00e3o da Rep\u00fablica norma de Constitui\u00e7\u00e3o Estadual que atribui legitimidade para a propositura de representa\u00e7\u00e3o de inconstitucionalidade aos Deputados Estaduais e ao Procurador-Geral do Estado.", "pmi": [-0.3128152276464453, 0.0, 0.0, 0.0], "letter": "C", "correct": true}, {"text": "N\u00e3o \u00e9 poss\u00edvel o controle de constitucionalidade no plano estadual, no modo concentrado, se a norma constitucional estadual tomada como par\u00e2metro reproduzir id\u00eantico conte\u00fado de norma constitucional federal.", "pmi": [-0.21917292613030986, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "filename": "2011-04.txt"}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Em rela\u00e7\u00e3o ao controle de constitucionalidade em face da Constitui\u00e7\u00e3o Estadual, assinale a alternativa correta.",
+        "number": "20",
+        "valid": true,
+        "options": [
+            {
+                "text": "Compete aos Estados a institui\u00e7\u00e3o de representa\u00e7\u00e3o de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constitui\u00e7\u00e3o Estadual, reconhecida a legitima\u00e7\u00e3o para agir aos mesmos \u00f3rg\u00e3os e entidades legitimados a propositura de a\u00e7\u00e3o direta de inconstitucionalidade.",
+                "pmi": [
+                    -0.27256623750067105,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "A decis\u00e3o do Tribunal de Justi\u00e7a que declara a inconstitucionalidade de lei local em face da Constitui\u00e7\u00e3o Estadual \u00e9 irrecorr\u00edvel, ressalvada a oposi\u00e7\u00e3o de embargos declarat\u00f3rios.",
+                "pmi": [
+                    -0.3286194461481998,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "N\u00e3o ofende a Constitui\u00e7\u00e3o da Rep\u00fablica norma de Constitui\u00e7\u00e3o Estadual que atribui legitimidade para a propositura de representa\u00e7\u00e3o de inconstitucionalidade aos Deputados Estaduais e ao Procurador-Geral do Estado.",
+                "pmi": [
+                    -0.3128152276464453,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o \u00e9 poss\u00edvel o controle de constitucionalidade no plano estadual, no modo concentrado, se a norma constitucional estadual tomada como par\u00e2metro reproduzir id\u00eantico conte\u00fado de norma constitucional federal.",
+                "pmi": [
+                    -0.21917292613030986,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "filename": "2011-04.txt"
+    }
+]

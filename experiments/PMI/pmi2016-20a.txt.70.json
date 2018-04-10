@@ -1,1 +1,55 @@
-[{"number": "70", "areas": [], "enum": "Luis \u00e9 empregado da sociedade empres\u00e1ria Bra\u00e7o Forte Ltda. Sua jornada \u00e9 de oito horas, desfrutando de uma hora de intervalo. Em determinada semana, por necessidade do empregador, Luis trabalhou a jornada de oito horas mas sem desfrutar do intervalo. Em outra semana, trabalhou sete horas cont\u00ednuas, sem intervalo.\n\n Com base no caso apresentado, assinale a afirmativa correta.", "options": [{"correct": true, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Em ambos os casos Luis tem direito a hora extra."}, {"correct": null, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Apenas na primeira semana Luis tem direito a hora extra."}, {"correct": null, "letter": "C", "pmi": [-0.01485973696970354, 0.0, 0.0, 0.0], "text": "N\u00e3o tendo havido excesso de jornada, Luis n\u00e3o tem direito a hora extra em ambas as semanas."}, {"correct": null, "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "Independentemente da exist\u00eancia de acordo individual, a hora da segunda semana compensa a da primeira semana e, em ambos os casos, Luis n\u00e3o faz jus a hora extra."}], "filename": "2016-20a.txt", "valid": true}]
+[
+    {
+        "number": "70",
+        "areas": [],
+        "enum": "Luis \u00e9 empregado da sociedade empres\u00e1ria Bra\u00e7o Forte Ltda. Sua jornada \u00e9 de oito horas, desfrutando de uma hora de intervalo. Em determinada semana, por necessidade do empregador, Luis trabalhou a jornada de oito horas mas sem desfrutar do intervalo. Em outra semana, trabalhou sete horas cont\u00ednuas, sem intervalo.\n\n Com base no caso apresentado, assinale a afirmativa correta.",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Em ambos os casos Luis tem direito a hora extra."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas na primeira semana Luis tem direito a hora extra."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.01485973696970354,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o tendo havido excesso de jornada, Luis n\u00e3o tem direito a hora extra em ambas as semanas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Independentemente da exist\u00eancia de acordo individual, a hora da segunda semana compensa a da primeira semana e, em ambos os casos, Luis n\u00e3o faz jus a hora extra."
+            }
+        ],
+        "filename": "2016-20a.txt",
+        "valid": true
+    }
+]

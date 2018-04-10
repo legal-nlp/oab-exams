@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Um paciente de um hospital psiqui\u00e1trico estadual conseguiu fugir da institui\u00e7\u00e3o em que estava internado, ao aproveitar um momento em que os servidores de plant\u00e3o largaram seus postos para acompanhar um jogo de futebol na televis\u00e3o. Na fuga, ao pular de um viaduto pr\u00f3ximo ao hospital, sofreu uma queda e, em raz\u00e3o dos ferimentos, veio a falecer.\n\n Nesse caso,", "filename": "2016-19.txt", "number": "33", "options": [{"correct": null, "letter": "A", "text": "o Estado n\u00e3o responde pela morte do paciente, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."}, {"correct": null, "letter": "B", "text": "o Estado responde de forma subjetiva, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."}, {"correct": null, "letter": "C", "text": "o Estado n\u00e3o responde pela morte do paciente, mas, caso comprovada a neglig\u00eancia dos servidores, estes respondem de forma subjetiva."}, {"correct": true, "letter": "D", "text": "o Estado responde pela morte do paciente, garantido o direito de regresso contra os servidores no caso de dolo ou culpa."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Um paciente de um hospital psiqui\u00e1trico estadual conseguiu fugir da institui\u00e7\u00e3o em que estava internado, ao aproveitar um momento em que os servidores de plant\u00e3o largaram seus postos para acompanhar um jogo de futebol na televis\u00e3o. Na fuga, ao pular de um viaduto pr\u00f3ximo ao hospital, sofreu uma queda e, em raz\u00e3o dos ferimentos, veio a falecer.\n\n Nesse caso,",
+        "filename": "2016-19.txt",
+        "number": "33",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o Estado n\u00e3o responde pela morte do paciente, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o Estado responde de forma subjetiva, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o Estado n\u00e3o responde pela morte do paciente, mas, caso comprovada a neglig\u00eancia dos servidores, estes respondem de forma subjetiva."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "o Estado responde pela morte do paciente, garantido o direito de regresso contra os servidores no caso de dolo ou culpa."
+            }
+        ],
+        "valid": true
+    }
+]

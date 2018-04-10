@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Donato, psiquiatra de renome, era dono de uma extensa e variada biblioteca, com obras de sua \u00e1rea profissional, importadas e raras. Com sua morte, seus tr\u00eas filhos, Hugo, Jos\u00e9 e Luiz resolvem alienar a biblioteca \u00e0 Universidade do Estado, localizada na mesma cidade em que o falecido residia. Como Hugo vivia no exterior e Jos\u00e9 em outro estado, ambos incumbiram Luiz de fazer a entrega no prazo aven\u00e7ado. Luiz por\u00e9m, mais preocupado com seus pr\u00f3prios neg\u00f3cios, esqueceu-se de entregar a biblioteca \u00e0 Universidade, que, diante da mora, notificou Jos\u00e9 para exigir-lhe o cumprimento integral em 48 horas, sob pena de resolu\u00e7\u00e3o do contrato em perdas e danos.\n\n Nesse contexto, assinale a afirmativa correta.", "filename": "2014-15.txt", "number": "41", "options": [{"correct": true, "letter": "A", "text": "Jos\u00e9 deve entregar a biblioteca no prazo designado pela Universidade, se quiser evitar a resolu\u00e7\u00e3o do contrato em perdas e danos."}, {"correct": null, "letter": "B", "text": "N\u00e3o tendo sido ajustada solidariedade, Jos\u00e9 n\u00e3o est\u00e1 obrigado a entregar todos os livros, respondendo, apenas, pela sua cota parte."}, {"correct": null, "letter": "C", "text": "Como Luiz foi incumbido da entrega, a Universidade n\u00e3o poderia ter notificado Jos\u00e9, mas deveria ter interpelado Luiz."}, {"correct": null, "letter": "D", "text": "Tratando-se de tr\u00eas devedores, a Universidade n\u00e3o poderia exigir de um s\u00f3 o pagamento; logo, deveria ter notificado simultaneamente os tr\u00eas irm\u00e3os."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Donato, psiquiatra de renome, era dono de uma extensa e variada biblioteca, com obras de sua \u00e1rea profissional, importadas e raras. Com sua morte, seus tr\u00eas filhos, Hugo, Jos\u00e9 e Luiz resolvem alienar a biblioteca \u00e0 Universidade do Estado, localizada na mesma cidade em que o falecido residia. Como Hugo vivia no exterior e Jos\u00e9 em outro estado, ambos incumbiram Luiz de fazer a entrega no prazo aven\u00e7ado. Luiz por\u00e9m, mais preocupado com seus pr\u00f3prios neg\u00f3cios, esqueceu-se de entregar a biblioteca \u00e0 Universidade, que, diante da mora, notificou Jos\u00e9 para exigir-lhe o cumprimento integral em 48 horas, sob pena de resolu\u00e7\u00e3o do contrato em perdas e danos.\n\n Nesse contexto, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Jos\u00e9 deve entregar a biblioteca no prazo designado pela Universidade, se quiser evitar a resolu\u00e7\u00e3o do contrato em perdas e danos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "N\u00e3o tendo sido ajustada solidariedade, Jos\u00e9 n\u00e3o est\u00e1 obrigado a entregar todos os livros, respondendo, apenas, pela sua cota parte."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Como Luiz foi incumbido da entrega, a Universidade n\u00e3o poderia ter notificado Jos\u00e9, mas deveria ter interpelado Luiz."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Tratando-se de tr\u00eas devedores, a Universidade n\u00e3o poderia exigir de um s\u00f3 o pagamento; logo, deveria ter notificado simultaneamente os tr\u00eas irm\u00e3os."
+            }
+        ],
+        "valid": true
+    }
+]

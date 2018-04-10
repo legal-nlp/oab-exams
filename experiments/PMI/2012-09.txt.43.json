@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL"], "enum": "No dia 23 de junho de 2012, Alfredo, produtor rural, contratou a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda., com a finalidade de pulverizar, por via a\u00e9rea, sua planta\u00e7\u00e3o de soja. Ocorre que a pulveriza\u00e7\u00e3o se deu de forma incorreta, ocasionando a perda integral da safra de ab\u00f3bora pertencente a Nilson, vizinho lindeiro de Alfredo.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica e as regras de responsabilidade civil, assinale a afirmativa correta.", "filename": "2012-09.txt", "number": "43", "options": [{"correct": null, "letter": "A", "text": "Com base no direito brasileiro, Alfredo responder\u00e1 subjetivamente pelos danos causados a Nilson e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. ser\u00e1 responsabilizada de forma subsidi\u00e1ria."}, {"correct": true, "letter": "B", "text": "Alfredo e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. responder\u00e3o objetiva e solidariamente pelos danos causados a Nilson."}, {"correct": null, "letter": "C", "text": "N\u00e3o h\u00e1 lugar para a responsabilidade civil solid\u00e1ria entre Alfredo e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. pelos danos causados a Nilson, dada a inexist\u00eancia da rela\u00e7\u00e3o de preposi\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Trata-se de responsabilidade civil objetiva, em que a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. \u00e9 o respons\u00e1vel principal pela repara\u00e7\u00e3o dos danos, enquanto Alfredo \u00e9 respons\u00e1vel subsidi\u00e1rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "No dia 23 de junho de 2012, Alfredo, produtor rural, contratou a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda., com a finalidade de pulverizar, por via a\u00e9rea, sua planta\u00e7\u00e3o de soja. Ocorre que a pulveriza\u00e7\u00e3o se deu de forma incorreta, ocasionando a perda integral da safra de ab\u00f3bora pertencente a Nilson, vizinho lindeiro de Alfredo.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica e as regras de responsabilidade civil, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "43",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Com base no direito brasileiro, Alfredo responder\u00e1 subjetivamente pelos danos causados a Nilson e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. ser\u00e1 responsabilizada de forma subsidi\u00e1ria."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Alfredo e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. responder\u00e3o objetiva e solidariamente pelos danos causados a Nilson."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "N\u00e3o h\u00e1 lugar para a responsabilidade civil solid\u00e1ria entre Alfredo e a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. pelos danos causados a Nilson, dada a inexist\u00eancia da rela\u00e7\u00e3o de preposi\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Trata-se de responsabilidade civil objetiva, em que a sociedade Sim\u00f5es Avia\u00e7\u00e3o Agr\u00edcola Ltda. \u00e9 o respons\u00e1vel principal pela repara\u00e7\u00e3o dos danos, enquanto Alfredo \u00e9 respons\u00e1vel subsidi\u00e1rio."
+            }
+        ],
+        "valid": true
+    }
+]

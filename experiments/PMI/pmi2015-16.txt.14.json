@@ -1,1 +1,55 @@
-[{"enum": "A Medida Provis\u00f3ria Z, embora tendo causado pol\u00eamica na data de sua edi\u00e7\u00e3o, foi convertida, em julho de 2014, na Lei Y.  Inconformado com o posicionamento do Congresso Nacional, o principal partido de oposi\u00e7\u00e3o, no m\u00eas seguinte, ajuizou A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI) atacando v\u00e1rios dispositivos normativos da referida Lei. Todavia, no in\u00edcio do m\u00eas de fevereiro de 2015, o Presidente da Rep\u00fablica promulgou a Lei X, revogando integralmente a Lei Y, momento em que esta \u00faltima deixou de produzir os seus efeitos concretos.\n\n Nesse caso, segundo entendimento cristalizado no \u00e2mbito do Supremo Tribunal Federal,", "options": [{"correct": null, "pmi": [-0.17358683156600932, 0.0, 0.0, 0.0], "letter": "A", "text": "dever\u00e1 a ADI seguir a sua regular tramita\u00e7\u00e3o, de modo que se possam discutir os efeitos produzidos no intervalo de tempo entre a promulga\u00e7\u00e3o e a revoga\u00e7\u00e3o da Lei Y."}, {"correct": null, "pmi": [-0.19729831527871866, 0.0, 0.0, 0.0], "letter": "B", "text": "dever\u00e1 a ADI seguir a sua regular tramita\u00e7\u00e3o, de modo que se possam discutir os efeitos produzidos no intervalo de tempo entre a edi\u00e7\u00e3o da Medida Provis\u00f3ria Z e a revoga\u00e7\u00e3o da Lei Y."}, {"correct": true, "pmi": [-0.023090325994634123, 0.0, 0.0, 0.0], "letter": "C", "text": "dever\u00e1 ser reconhecido que a ADI perdeu o seu objeto, da\u00ed resultando a sua extin\u00e7\u00e3o, independentemente de terem ocorrido, ou n\u00e3o, efeitos residuais concretos."}, {"correct": null, "pmi": [-0.3034918479152298, -0.009106089591971652, 0.0, 0.0], "letter": "D", "text": "em raz\u00e3o da separa\u00e7\u00e3o de poderes, dever\u00e1 ser reconhecida a impossibilidade de o Supremo Tribunal Federal avaliar as mat\u00e9rias debatidas, sob a \u00f3tica pol\u00edtica, pelo Poder Legislativo."}], "filename": "2015-16.txt", "areas": [], "number": "14", "valid": true}]
+[
+    {
+        "enum": "A Medida Provis\u00f3ria Z, embora tendo causado pol\u00eamica na data de sua edi\u00e7\u00e3o, foi convertida, em julho de 2014, na Lei Y.  Inconformado com o posicionamento do Congresso Nacional, o principal partido de oposi\u00e7\u00e3o, no m\u00eas seguinte, ajuizou A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI) atacando v\u00e1rios dispositivos normativos da referida Lei. Todavia, no in\u00edcio do m\u00eas de fevereiro de 2015, o Presidente da Rep\u00fablica promulgou a Lei X, revogando integralmente a Lei Y, momento em que esta \u00faltima deixou de produzir os seus efeitos concretos.\n\n Nesse caso, segundo entendimento cristalizado no \u00e2mbito do Supremo Tribunal Federal,",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.17358683156600932,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "dever\u00e1 a ADI seguir a sua regular tramita\u00e7\u00e3o, de modo que se possam discutir os efeitos produzidos no intervalo de tempo entre a promulga\u00e7\u00e3o e a revoga\u00e7\u00e3o da Lei Y."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.19729831527871866,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "dever\u00e1 a ADI seguir a sua regular tramita\u00e7\u00e3o, de modo que se possam discutir os efeitos produzidos no intervalo de tempo entre a edi\u00e7\u00e3o da Medida Provis\u00f3ria Z e a revoga\u00e7\u00e3o da Lei Y."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.023090325994634123,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "dever\u00e1 ser reconhecido que a ADI perdeu o seu objeto, da\u00ed resultando a sua extin\u00e7\u00e3o, independentemente de terem ocorrido, ou n\u00e3o, efeitos residuais concretos."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.3034918479152298,
+                    -0.009106089591971652,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "em raz\u00e3o da separa\u00e7\u00e3o de poderes, dever\u00e1 ser reconhecida a impossibilidade de o Supremo Tribunal Federal avaliar as mat\u00e9rias debatidas, sob a \u00f3tica pol\u00edtica, pelo Poder Legislativo."
+            }
+        ],
+        "filename": "2015-16.txt",
+        "areas": [],
+        "number": "14",
+        "valid": true
+    }
+]

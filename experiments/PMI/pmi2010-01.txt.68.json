@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Com rela\u00e7\u00e3o \u00e0s normas de prote\u00e7\u00e3o ao trabalho da mulher, inseridas na CLT, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "O trabalho noturno ter\u00e1 sal\u00e1rio superior ao diurno, com percentual de acr\u00e9scimo de, no m\u00ednimo, 25%.", "letter": "A"}, {"pmi": [-0.038200758897978054, 0.0, 0.0, 0.0], "correct": true, "text": "Em caso de prorroga\u00e7\u00e3o do hor\u00e1rio normal de trabalho, \u00e9 obrigat\u00f3ria a concess\u00e3o de descanso de, no m\u00ednimo, quinze minutos antes do in\u00edcio do hor\u00e1rio extraordin\u00e1rio do trabalho.", "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Na admiss\u00e3o ao emprego, \u00e9 facultado ao empregador exigir atestado ou exame para a comprova\u00e7\u00e3o de gravidez.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Entre duas jornadas de trabalho, deve haver um intervalo de, no m\u00ednimo, doze horas consecutivas destinadas ao repouso.", "letter": "D"}], "areas": ["LABOUR"], "number": "68"}]
+[
+    {
+        "valid": true,
+        "enum": "Com rela\u00e7\u00e3o \u00e0s normas de prote\u00e7\u00e3o ao trabalho da mulher, inseridas na CLT, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O trabalho noturno ter\u00e1 sal\u00e1rio superior ao diurno, com percentual de acr\u00e9scimo de, no m\u00ednimo, 25%.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.038200758897978054,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Em caso de prorroga\u00e7\u00e3o do hor\u00e1rio normal de trabalho, \u00e9 obrigat\u00f3ria a concess\u00e3o de descanso de, no m\u00ednimo, quinze minutos antes do in\u00edcio do hor\u00e1rio extraordin\u00e1rio do trabalho.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Na admiss\u00e3o ao emprego, \u00e9 facultado ao empregador exigir atestado ou exame para a comprova\u00e7\u00e3o de gravidez.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Entre duas jornadas de trabalho, deve haver um intervalo de, no m\u00ednimo, doze horas consecutivas destinadas ao repouso.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "LABOUR"
+        ],
+        "number": "68"
+    }
+]

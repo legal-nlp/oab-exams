@@ -1,1 +1,33 @@
-[{"areas": ["ADMINISTRATIVE"], "enum": "No que tange \u00e0 chamada a\u00e7\u00e3o de improbidade administrativa, assinale a defini\u00e7\u00e3o correta segundo a doutrina do Direito Administrativo.", "filename": "2011-05.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "Trata-se de a\u00e7\u00e3o de natureza civil e penal, uma vez que a Lei 8.429/92 prev\u00ea san\u00e7\u00f5es de ambas as naturezas."}, {"correct": null, "letter": "B", "text": "Trata-se de a\u00e7\u00e3o meramente administrativa, uma vez que a Lei 8.429/92 prev\u00ea apenas san\u00e7\u00f5es de car\u00e1ter administrativo."}, {"correct": true, "letter": "C", "text": "Trata-se de a\u00e7\u00e3o civil, muito embora as san\u00e7\u00f5es previstas pela Lei 8.429/92 ultrapassem o \u00e2mbito da simples a\u00e7\u00e3o de ressarcimento e importem em penalidades de natureza penal e administrativa."}, {"correct": null, "letter": "D", "text": "N\u00e3o se trata de uma a\u00e7\u00e3o judicial e sim de uma a\u00e7\u00e3o administrativa, com a previs\u00e3o legal (Lei 8.429/92) de san\u00e7\u00f5es penais e administrativas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "No que tange \u00e0 chamada a\u00e7\u00e3o de improbidade administrativa, assinale a defini\u00e7\u00e3o correta segundo a doutrina do Direito Administrativo.",
+        "filename": "2011-05.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Trata-se de a\u00e7\u00e3o de natureza civil e penal, uma vez que a Lei 8.429/92 prev\u00ea san\u00e7\u00f5es de ambas as naturezas."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Trata-se de a\u00e7\u00e3o meramente administrativa, uma vez que a Lei 8.429/92 prev\u00ea apenas san\u00e7\u00f5es de car\u00e1ter administrativo."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Trata-se de a\u00e7\u00e3o civil, muito embora as san\u00e7\u00f5es previstas pela Lei 8.429/92 ultrapassem o \u00e2mbito da simples a\u00e7\u00e3o de ressarcimento e importem em penalidades de natureza penal e administrativa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "N\u00e3o se trata de uma a\u00e7\u00e3o judicial e sim de uma a\u00e7\u00e3o administrativa, com a previs\u00e3o legal (Lei 8.429/92) de san\u00e7\u00f5es penais e administrativas."
+            }
+        ],
+        "valid": true
+    }
+]

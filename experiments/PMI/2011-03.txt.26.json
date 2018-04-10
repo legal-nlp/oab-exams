@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria ajuizada por Alfredo em face de Thales, \u00e9 prolatada senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de determinada quantia em dinheiro. Ainda na pend\u00eancia do julgamento da apela\u00e7\u00e3o interposta contra a senten\u00e7a, Alfredo constata que Thales est\u00e1 adotando uma s\u00e9rie de provid\u00eancias destinadas a alienar todos os seus bens, o que poder\u00e1 frustrar o cumprimento da senten\u00e7a, caso esta seja confirmada pelo tribunal.\n\n A medida cautelar espec\u00edfica que dever\u00e1 ser requerida por Alfredo \u00e9 o(a)", "filename": "2011-03.txt", "number": "26", "options": [{"correct": null, "letter": "A", "text": "justifica\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "sequestro."}, {"correct": true, "letter": "C", "text": "arresto."}, {"correct": null, "letter": "D", "text": "produ\u00e7\u00e3o antecipada de provas."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria ajuizada por Alfredo em face de Thales, \u00e9 prolatada senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de determinada quantia em dinheiro. Ainda na pend\u00eancia do julgamento da apela\u00e7\u00e3o interposta contra a senten\u00e7a, Alfredo constata que Thales est\u00e1 adotando uma s\u00e9rie de provid\u00eancias destinadas a alienar todos os seus bens, o que poder\u00e1 frustrar o cumprimento da senten\u00e7a, caso esta seja confirmada pelo tribunal.\n\n A medida cautelar espec\u00edfica que dever\u00e1 ser requerida por Alfredo \u00e9 o(a)",
+        "filename": "2011-03.txt",
+        "number": "26",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "justifica\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "sequestro."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "arresto."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "produ\u00e7\u00e3o antecipada de provas."
+            }
+        ],
+        "valid": true
+    }
+]

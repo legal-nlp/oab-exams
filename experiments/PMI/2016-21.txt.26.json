@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Determinado Estado da Federa\u00e7\u00e3o publicou, em julho de 2015, a Lei n\u00ba 123/2015, que majorou o valor das multas e das al\u00edquotas de ICMS. Em fevereiro de 2016, em procedimento de fiscaliza\u00e7\u00e3o, aquele Estado constatou que determinado contribuinte, em opera\u00e7\u00f5es realizadas em outubro de 2014, n\u00e3o recolheu o ICMS devido. Por conta disso, foi efetuado o lan\u00e7amento tribut\u00e1rio contra o contribuinte, exigindo-lhe o ICMS n\u00e3o pago e a multa decorrente do inadimplemento.\n\n O lan\u00e7amento em quest\u00e3o s\u00f3 estar\u00e1 correto se", "filename": "2016-21.txt", "number": "26", "options": [{"correct": null, "letter": "A", "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015."}, {"correct": null, "letter": "B", "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador."}, {"correct": true, "letter": "C", "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador."}, {"correct": null, "letter": "D", "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Determinado Estado da Federa\u00e7\u00e3o publicou, em julho de 2015, a Lei n\u00ba 123/2015, que majorou o valor das multas e das al\u00edquotas de ICMS. Em fevereiro de 2016, em procedimento de fiscaliza\u00e7\u00e3o, aquele Estado constatou que determinado contribuinte, em opera\u00e7\u00f5es realizadas em outubro de 2014, n\u00e3o recolheu o ICMS devido. Por conta disso, foi efetuado o lan\u00e7amento tribut\u00e1rio contra o contribuinte, exigindo-lhe o ICMS n\u00e3o pago e a multa decorrente do inadimplemento.\n\n O lan\u00e7amento em quest\u00e3o s\u00f3 estar\u00e1 correto se",
+        "filename": "2016-21.txt",
+        "number": "26",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"valid": true, "enum": "O STJ decidiu, no dia 10/12/2014, que uma causa relativa \u00e0 viola\u00e7\u00e3o de Direitos Humanos deve passar da Justi\u00e7a Estadual para a Justi\u00e7a Federal, configurando o chamado Incidente de Deslocamento de Compet\u00eancia. A causa trata do desaparecimento de tr\u00eas moradores de rua e da suspeita de tortura contra um quarto indiv\u00edduo. Desde a promulga\u00e7\u00e3o da Emenda 45, em 2004, essa \u00e9 a terceira vez que o STJ admite o Incidente de Deslocamento de Compet\u00eancia.\n\n De acordo com o que est\u00e1 expressamente previsto na Constitui\u00e7\u00e3o Federal, a finalidade desse Incidente \u00e9 o de", "options": [{"letter": "A", "correct": null, "text": "garantir o direito de acesso \u00e0 Justi\u00e7a.", "pmi": [-0.14567349920834197, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": true, "text": "assegurar o cumprimento de obriga\u00e7\u00f5es decorrentes de tratados internacionais de Direitos Humanos dos quais o Brasil seja parte.", "pmi": [-0.09018948713723009, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "combater a morosidade de \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica e do Poder Judici\u00e1rio.", "pmi": [-0.19621356702421938, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "combater a corrup\u00e7\u00e3o em entes p\u00fablicos dos Estados e do Distrito Federal.", "pmi": [-0.35841435162793595, 0.0, 0.0, 0.0]}], "areas": [], "number": "21", "filename": "2015-18.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "O STJ decidiu, no dia 10/12/2014, que uma causa relativa \u00e0 viola\u00e7\u00e3o de Direitos Humanos deve passar da Justi\u00e7a Estadual para a Justi\u00e7a Federal, configurando o chamado Incidente de Deslocamento de Compet\u00eancia. A causa trata do desaparecimento de tr\u00eas moradores de rua e da suspeita de tortura contra um quarto indiv\u00edduo. Desde a promulga\u00e7\u00e3o da Emenda 45, em 2004, essa \u00e9 a terceira vez que o STJ admite o Incidente de Deslocamento de Compet\u00eancia.\n\n De acordo com o que est\u00e1 expressamente previsto na Constitui\u00e7\u00e3o Federal, a finalidade desse Incidente \u00e9 o de",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "garantir o direito de acesso \u00e0 Justi\u00e7a.",
+                "pmi": [
+                    -0.14567349920834197,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": true,
+                "text": "assegurar o cumprimento de obriga\u00e7\u00f5es decorrentes de tratados internacionais de Direitos Humanos dos quais o Brasil seja parte.",
+                "pmi": [
+                    -0.09018948713723009,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "combater a morosidade de \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica e do Poder Judici\u00e1rio.",
+                "pmi": [
+                    -0.19621356702421938,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "combater a corrup\u00e7\u00e3o em entes p\u00fablicos dos Estados e do Distrito Federal.",
+                "pmi": [
+                    -0.35841435162793595,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [],
+        "number": "21",
+        "filename": "2015-18.txt"
+    }
+]

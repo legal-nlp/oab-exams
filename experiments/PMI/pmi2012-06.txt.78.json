@@ -1,1 +1,57 @@
-[{"valid": true, "number": "78", "options": [{"text": "o prazo ser\u00e1 computado em dobro porque h\u00e1 litiscons\u00f3rcio passivo com procuradores diferentes.", "letter": "A", "correct": null, "pmi": [-0.17480986697391826, 0.0, 0.0, 0.0]}, {"text": "o prazo ser\u00e1 contado normalmente.", "letter": "B", "correct": true, "pmi": [-0.20117326067014343, 0.0, 0.0, 0.0]}, {"text": "o prazo ser\u00e1 de 10 dias.", "letter": "C", "correct": null, "pmi": [-0.4062080847155352, 0.0, 0.0, 0.0]}, {"text": "fica a crit\u00e9rio do juiz deferir a dila\u00e7\u00e3o do prazo para n\u00e3o prejudicar os r\u00e9us quanto \u00e0 ampla defesa.", "letter": "D", "correct": null, "pmi": [-0.2270942154150804, 0.0, 0.0, 0.0]}], "enum": "Uma a\u00e7\u00e3o \u00e9 movida contra duas empresas integrantes do mesmo grupo econ\u00f4mico e uma terceira, que alegadamente foi tomadora dos servi\u00e7os durante parte do contrato. Cada empresa possui um advogado. No caso de interposi\u00e7\u00e3o de recurso de revista,", "filename": "2012-06.txt", "areas": ["LABOUR-PROCEDURE"]}]
+[
+    {
+        "valid": true,
+        "number": "78",
+        "options": [
+            {
+                "text": "o prazo ser\u00e1 computado em dobro porque h\u00e1 litiscons\u00f3rcio passivo com procuradores diferentes.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.17480986697391826,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o prazo ser\u00e1 contado normalmente.",
+                "letter": "B",
+                "correct": true,
+                "pmi": [
+                    -0.20117326067014343,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "o prazo ser\u00e1 de 10 dias.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.4062080847155352,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "fica a crit\u00e9rio do juiz deferir a dila\u00e7\u00e3o do prazo para n\u00e3o prejudicar os r\u00e9us quanto \u00e0 ampla defesa.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.2270942154150804,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Uma a\u00e7\u00e3o \u00e9 movida contra duas empresas integrantes do mesmo grupo econ\u00f4mico e uma terceira, que alegadamente foi tomadora dos servi\u00e7os durante parte do contrato. Cada empresa possui um advogado. No caso de interposi\u00e7\u00e3o de recurso de revista,",
+        "filename": "2012-06.txt",
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ]
+    }
+]

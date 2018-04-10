@@ -1,1 +1,55 @@
-[{"areas": [], "enum": "Os jovens Rodrigo, 30 anos, e Bibiana, 35 anos, devidamente inscritos em certa seccional da OAB, desejam candidatar-se, pela primeira vez, a cargos de diretoria do Conselho Seccional respectivo. Rodrigo est\u00e1 regularmente inscrito na referida seccional da OAB h\u00e1 seis anos, sendo dois anos como estagi\u00e1rio. Bibiana, por sua vez, exerceu regularmente a profiss\u00e3o por tr\u00eas anos, ap\u00f3s a conclus\u00e3o do curso de Direito. Contudo, afastou-se por dois anos e retornou \u00e0 advocacia h\u00e1 um ano. Ambos n\u00e3o exercem fun\u00e7\u00f5es incompat\u00edveis com a advocacia, ou cargos exoner\u00e1veis ad nutum. Tampouco integram listas para provimento de cargos em tribunais ou ostentam condena\u00e7\u00e3o por infra\u00e7\u00e3o disciplinar. Bibiana e Rodrigo est\u00e3o em dia com suas anuidades.\n\n Considerando a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.", "filename": "2016-19.txt", "valid": true, "number": "7", "options": [{"letter": "A", "text": "Apenas Bibiana preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.", "correct": null, "pmi": [-0.029130044742716882, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Apenas Rodrigo preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.", "correct": null, "pmi": [-0.029130044742716882, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Bibiana e Rodrigo preenchem as condi\u00e7\u00f5es de elegibilidade para os cargos.", "correct": null, "pmi": [-0.024275037285597403, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "Nenhum dos dois advogados preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.", "correct": true, "pmi": [-0.024275037285597403, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [],
+        "enum": "Os jovens Rodrigo, 30 anos, e Bibiana, 35 anos, devidamente inscritos em certa seccional da OAB, desejam candidatar-se, pela primeira vez, a cargos de diretoria do Conselho Seccional respectivo. Rodrigo est\u00e1 regularmente inscrito na referida seccional da OAB h\u00e1 seis anos, sendo dois anos como estagi\u00e1rio. Bibiana, por sua vez, exerceu regularmente a profiss\u00e3o por tr\u00eas anos, ap\u00f3s a conclus\u00e3o do curso de Direito. Contudo, afastou-se por dois anos e retornou \u00e0 advocacia h\u00e1 um ano. Ambos n\u00e3o exercem fun\u00e7\u00f5es incompat\u00edveis com a advocacia, ou cargos exoner\u00e1veis ad nutum. Tampouco integram listas para provimento de cargos em tribunais ou ostentam condena\u00e7\u00e3o por infra\u00e7\u00e3o disciplinar. Bibiana e Rodrigo est\u00e3o em dia com suas anuidades.\n\n Considerando a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "valid": true,
+        "number": "7",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Apenas Bibiana preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
+                "correct": null,
+                "pmi": [
+                    -0.029130044742716882,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Apenas Rodrigo preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
+                "correct": null,
+                "pmi": [
+                    -0.029130044742716882,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Bibiana e Rodrigo preenchem as condi\u00e7\u00f5es de elegibilidade para os cargos.",
+                "correct": null,
+                "pmi": [
+                    -0.024275037285597403,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "Nenhum dos dois advogados preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
+                "correct": true,
+                "pmi": [
+                    -0.024275037285597403,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

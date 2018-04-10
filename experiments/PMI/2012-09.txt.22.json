@@ -1,1 +1,33 @@
-[{"areas": ["HUMAN-RIGHTS"], "enum": "Com rela\u00e7\u00e3o \u00e0 Conven\u00e7\u00e3o Interamericana para Prevenir e Punir a Tortura, ratificada pelo Brasil em 20 de julho de 1989, assinale a afirmativa correta.", "filename": "2012-09.txt", "number": "22", "options": [{"correct": null, "letter": "A", "text": "Os funcion\u00e1rios p\u00fablicos que ordenem a execu\u00e7\u00e3o da tortura ou a cometam diretamente s\u00e3o respons\u00e1veis pelo delito de tortura, exceto se houverem agido por ordens superiores, o que eximir\u00e1 o agente da responsabilidade penal correspondente."}, {"correct": null, "letter": "B", "text": "O Estado Parte somente tomar\u00e1 as medidas necess\u00e1rias para conceder a extradi\u00e7\u00e3o, em conformidade com sua legisla\u00e7\u00e3o e suas obriga\u00e7\u00f5es internacionais, de pessoa condenada pela pr\u00e1tica de delito de tortura, n\u00e3o bastando a acusa\u00e7\u00e3o pela pr\u00e1tica do delito."}, {"correct": true, "letter": "C", "text": "As declara\u00e7\u00f5es obtidas por meio de tortura n\u00e3o podem ser admitidas como prova em processo, salvo em processo instaurado contra a pessoa acusada de hav\u00ea-las obtido mediante atos de tortura e unicamente como prova de que, por esse meio, o acusado obteve tal declara\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Esgotado o procedimento jur\u00eddico interno do Estado e os recursos que este prev\u00ea para a investiga\u00e7\u00e3o sobre caso de tortura, o processo dever\u00e1 ser submetido a inst\u00e2ncias internacionais, mesmo que o Estado n\u00e3o tenha aceitado tal compet\u00eancia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "Com rela\u00e7\u00e3o \u00e0 Conven\u00e7\u00e3o Interamericana para Prevenir e Punir a Tortura, ratificada pelo Brasil em 20 de julho de 1989, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "22",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os funcion\u00e1rios p\u00fablicos que ordenem a execu\u00e7\u00e3o da tortura ou a cometam diretamente s\u00e3o respons\u00e1veis pelo delito de tortura, exceto se houverem agido por ordens superiores, o que eximir\u00e1 o agente da responsabilidade penal correspondente."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O Estado Parte somente tomar\u00e1 as medidas necess\u00e1rias para conceder a extradi\u00e7\u00e3o, em conformidade com sua legisla\u00e7\u00e3o e suas obriga\u00e7\u00f5es internacionais, de pessoa condenada pela pr\u00e1tica de delito de tortura, n\u00e3o bastando a acusa\u00e7\u00e3o pela pr\u00e1tica do delito."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "As declara\u00e7\u00f5es obtidas por meio de tortura n\u00e3o podem ser admitidas como prova em processo, salvo em processo instaurado contra a pessoa acusada de hav\u00ea-las obtido mediante atos de tortura e unicamente como prova de que, por esse meio, o acusado obteve tal declara\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Esgotado o procedimento jur\u00eddico interno do Estado e os recursos que este prev\u00ea para a investiga\u00e7\u00e3o sobre caso de tortura, o processo dever\u00e1 ser submetido a inst\u00e2ncias internacionais, mesmo que o Estado n\u00e3o tenha aceitado tal compet\u00eancia."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"enum": "Jo\u00e3o foi aprovado em concurso p\u00fablico promovido pelo Estado Alfa para o cargo de analista de pol\u00edticas p\u00fablicas, tendo tomado posse no cargo, na classe inicial da respectiva carreira. Ocorre que Jo\u00e3o \u00e9 uma pessoa proativa e teve, como gestor, excelentes experi\u00eancias na iniciativa privada.\n\n Em raz\u00e3o disso, ele decidiu que n\u00e3o deveria cumprir os comandos determinados por agentes superiores na estrutura administrativa, porque ele as considerava contr\u00e1rias ao princ\u00edpio da efici\u00eancia, apesar de serem ordens legais.\n\n A partir do caso apresentado, assinale a afirmativa correta.", "valid": true, "areas": [null], "number": "27", "options": [{"letter": "A", "correct": null, "text": "Jo\u00e3o possui total liberdade de atua\u00e7\u00e3o, n\u00e3o se submetendo a comandos superiores, em decorr\u00eancia do princ\u00edpio da efici\u00eancia.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "A liberdade de atua\u00e7\u00e3o de Jo\u00e3o \u00e9 pautada somente pelo princ\u00edpio da legalidade, considerando que n\u00e3o existe escalonamento de compet\u00eancia no \u00e2mbito da Administra\u00e7\u00e3o P\u00fablica.", "pmi": [-0.029668010609567797, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": true, "text": "Jo\u00e3o tem dever de obedi\u00eancia \u00e0s ordens legais de seus superiores, em raz\u00e3o da rela\u00e7\u00e3o de subordina\u00e7\u00e3o decorrente do poder hier\u00e1rquico.", "pmi": [-0.010896816998135796, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "As autoridades superiores somente podem realizar o controle final\u00edstico das atividades de Jo\u00e3o, em raz\u00e3o da rela\u00e7\u00e3o de vincula\u00e7\u00e3o estabelecida com os superiores hier\u00e1rquicos.", "pmi": [-0.02380107906229761, 0.0, 0.0, 0.0]}], "filename": "2017-24.txt"}]
+[
+    {
+        "enum": "Jo\u00e3o foi aprovado em concurso p\u00fablico promovido pelo Estado Alfa para o cargo de analista de pol\u00edticas p\u00fablicas, tendo tomado posse no cargo, na classe inicial da respectiva carreira. Ocorre que Jo\u00e3o \u00e9 uma pessoa proativa e teve, como gestor, excelentes experi\u00eancias na iniciativa privada.\n\n Em raz\u00e3o disso, ele decidiu que n\u00e3o deveria cumprir os comandos determinados por agentes superiores na estrutura administrativa, porque ele as considerava contr\u00e1rias ao princ\u00edpio da efici\u00eancia, apesar de serem ordens legais.\n\n A partir do caso apresentado, assinale a afirmativa correta.",
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "number": "27",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "Jo\u00e3o possui total liberdade de atua\u00e7\u00e3o, n\u00e3o se submetendo a comandos superiores, em decorr\u00eancia do princ\u00edpio da efici\u00eancia.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "A liberdade de atua\u00e7\u00e3o de Jo\u00e3o \u00e9 pautada somente pelo princ\u00edpio da legalidade, considerando que n\u00e3o existe escalonamento de compet\u00eancia no \u00e2mbito da Administra\u00e7\u00e3o P\u00fablica.",
+                "pmi": [
+                    -0.029668010609567797,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "Jo\u00e3o tem dever de obedi\u00eancia \u00e0s ordens legais de seus superiores, em raz\u00e3o da rela\u00e7\u00e3o de subordina\u00e7\u00e3o decorrente do poder hier\u00e1rquico.",
+                "pmi": [
+                    -0.010896816998135796,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "As autoridades superiores somente podem realizar o controle final\u00edstico das atividades de Jo\u00e3o, em raz\u00e3o da rela\u00e7\u00e3o de vincula\u00e7\u00e3o estabelecida com os superiores hier\u00e1rquicos.",
+                "pmi": [
+                    -0.02380107906229761,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2017-24.txt"
+    }
+]

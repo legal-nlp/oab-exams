@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "O advogado Francisco \u00e9 conhecido por sua rara habilidade no setor de contratos empresariais, experto nas chamadas cl\u00e1usulas venenosas que dificultam a quebra imotivada de aven\u00e7as. No exerc\u00edcio regular da sua profiss\u00e3o de advogado, apresenta-se, munido dos devidos poderes, em assembleia de sociedade an\u00f4nima, cujo controlador \u00e9 seu cliente. O presidente da assembleia n\u00e3o acolhe a sua presen\u00e7a, aduzindo falta de autoriza\u00e7\u00e3o legal.\n\n Nos termos do Estatuto da Advocacia, \u00e9 direito do advogado", "filename": "2013-10.txt", "number": "10", "options": [{"correct": null, "letter": "A", "text": "ingressar em assembleia, representando seu cliente, mesmo n\u00e3o munido de mandato."}, {"correct": null, "letter": "B", "text": "representar seu cliente com procura\u00e7\u00e3o outorgada com poderes gerais."}, {"correct": true, "letter": "C", "text": "atuar em assembleia a que seu cliente possa comparecer, munido de poderes especiais."}, {"correct": null, "letter": "D", "text": "atuar excepcionalmente com autoriza\u00e7\u00e3o do presidente da assembleia, que supre o mandato."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado Francisco \u00e9 conhecido por sua rara habilidade no setor de contratos empresariais, experto nas chamadas cl\u00e1usulas venenosas que dificultam a quebra imotivada de aven\u00e7as. No exerc\u00edcio regular da sua profiss\u00e3o de advogado, apresenta-se, munido dos devidos poderes, em assembleia de sociedade an\u00f4nima, cujo controlador \u00e9 seu cliente. O presidente da assembleia n\u00e3o acolhe a sua presen\u00e7a, aduzindo falta de autoriza\u00e7\u00e3o legal.\n\n Nos termos do Estatuto da Advocacia, \u00e9 direito do advogado",
+        "filename": "2013-10.txt",
+        "number": "10",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "ingressar em assembleia, representando seu cliente, mesmo n\u00e3o munido de mandato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "representar seu cliente com procura\u00e7\u00e3o outorgada com poderes gerais."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "atuar em assembleia a que seu cliente possa comparecer, munido de poderes especiais."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "atuar excepcionalmente com autoriza\u00e7\u00e3o do presidente da assembleia, que supre o mandato."
+            }
+        ],
+        "valid": true
+    }
+]

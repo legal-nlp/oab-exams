@@ -1,1 +1,55 @@
-[{"enum": "Jonas \u00e9 empregado da sociedade empres\u00e1ria \u00d4mega. Entendendo seu empregador por romper seu contrato de trabalho, optou por promover sua imediata demiss\u00e3o, com pagamento do aviso pr\u00e9vio na forma indenizada. Transcorridos 10 dias de pagamento das verbas rescis\u00f3rias, Jonas se candidatou a dirigente do sindicato da sua categoria e foi eleito presidente na mesma data.\n\n Sobre a hip\u00f3tese apresentada, de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.", "filename": "2015-17.txt", "areas": [], "valid": true, "options": [{"letter": "A", "correct": true, "text": "Jonas poder\u00e1 ser desligado ao t\u00e9rmino do aviso pr\u00e9vio, pois n\u00e3o possui garantia no emprego.", "pmi": [-0.005485903215143606, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "Jonas tem garantia no emprego por determina\u00e7\u00e3o legal, porque, pelo fato superveniente, o aviso pr\u00e9vio perde seu efeito.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": null, "text": "Jonas passou a ser portador de garantia no emprego, n\u00e3o podendo ter o contrato rompido.", "pmi": [-0.01626845093296212, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "Jonas somente poder\u00e1 ser dispensado se houver concord\u00e2ncia do sindicato de classe obreiro.", "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "74"}]
+[
+    {
+        "enum": "Jonas \u00e9 empregado da sociedade empres\u00e1ria \u00d4mega. Entendendo seu empregador por romper seu contrato de trabalho, optou por promover sua imediata demiss\u00e3o, com pagamento do aviso pr\u00e9vio na forma indenizada. Transcorridos 10 dias de pagamento das verbas rescis\u00f3rias, Jonas se candidatou a dirigente do sindicato da sua categoria e foi eleito presidente na mesma data.\n\n Sobre a hip\u00f3tese apresentada, de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
+        "areas": [],
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "text": "Jonas poder\u00e1 ser desligado ao t\u00e9rmino do aviso pr\u00e9vio, pois n\u00e3o possui garantia no emprego.",
+                "pmi": [
+                    -0.005485903215143606,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "Jonas tem garantia no emprego por determina\u00e7\u00e3o legal, porque, pelo fato superveniente, o aviso pr\u00e9vio perde seu efeito.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "text": "Jonas passou a ser portador de garantia no emprego, n\u00e3o podendo ter o contrato rompido.",
+                "pmi": [
+                    -0.01626845093296212,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "Jonas somente poder\u00e1 ser dispensado se houver concord\u00e2ncia do sindicato de classe obreiro.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "74"
+    }
+]

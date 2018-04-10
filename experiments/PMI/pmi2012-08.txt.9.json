@@ -1,1 +1,57 @@
-[{"areas": ["ETHICS"], "enum": "Al\u00e9m de advogado, Jo\u00e3o \u00e9 professor da Universidade p\u00fablica \u201cM\u201d, com natureza de autarquia, onde exerce as fun\u00e7\u00f5es de coordenador acad\u00eamico da gradua\u00e7\u00e3o do Curso de Direito. Diante do prest\u00edgio acumulado, o seu escrit\u00f3rio de advocacia vem a ter renome, atuando em diversas causas nas comarcas de influ\u00eancia da universidade.\n\n Essas circunst\u00e2ncias indicam que o cargo ocupado pelo advogado seria um caso", "filename": "2012-08.txt", "valid": true, "number": "9", "options": [{"text": "abrangido pelas normas que criam regras de incompatibilidade para administradores p\u00fablicos.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null}, {"text": "n\u00e3o previsto, vez que a atua\u00e7\u00e3o como dirigente de entidade p\u00fablica \u00e9 irrelevante para o sistema de incompatibilidades.", "letter": "B", "pmi": [-0.21278851508475805, 0.0, 0.0, 0.0], "correct": null}, {"text": "excepcionado diante da caracter\u00edstica que o vincularia ao magist\u00e9rio jur\u00eddico.", "letter": "C", "pmi": [-0.010839482153299974, 0.0, 0.0, 0.0], "correct": true}, {"text": "inclu\u00eddo no rol de incompatibilidades por n\u00e3o permitir que o advogado exer\u00e7a cargo administrativo nas universidades p\u00fablicas.", "letter": "D", "pmi": [-0.26395995328752725, 0.0, 0.0, 0.0], "correct": null}]}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Al\u00e9m de advogado, Jo\u00e3o \u00e9 professor da Universidade p\u00fablica \u201cM\u201d, com natureza de autarquia, onde exerce as fun\u00e7\u00f5es de coordenador acad\u00eamico da gradua\u00e7\u00e3o do Curso de Direito. Diante do prest\u00edgio acumulado, o seu escrit\u00f3rio de advocacia vem a ter renome, atuando em diversas causas nas comarcas de influ\u00eancia da universidade.\n\n Essas circunst\u00e2ncias indicam que o cargo ocupado pelo advogado seria um caso",
+        "filename": "2012-08.txt",
+        "valid": true,
+        "number": "9",
+        "options": [
+            {
+                "text": "abrangido pelas normas que criam regras de incompatibilidade para administradores p\u00fablicos.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "n\u00e3o previsto, vez que a atua\u00e7\u00e3o como dirigente de entidade p\u00fablica \u00e9 irrelevante para o sistema de incompatibilidades.",
+                "letter": "B",
+                "pmi": [
+                    -0.21278851508475805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "excepcionado diante da caracter\u00edstica que o vincularia ao magist\u00e9rio jur\u00eddico.",
+                "letter": "C",
+                "pmi": [
+                    -0.010839482153299974,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "inclu\u00eddo no rol de incompatibilidades por n\u00e3o permitir que o advogado exer\u00e7a cargo administrativo nas universidades p\u00fablicas.",
+                "letter": "D",
+                "pmi": [
+                    -0.26395995328752725,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ]
+    }
+]

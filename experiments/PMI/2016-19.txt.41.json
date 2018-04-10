@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "Joaquim celebrou, por instrumento particular, contrato de m\u00fatuo com Ronaldo, pelo qual lhe emprestou R$ 50.000,00 (cinquenta mil reais), a serem pagos 30 dias depois. No dia do vencimento do empr\u00e9stimo, Ronaldo n\u00e3o adimpliu a presta\u00e7\u00e3o. O tempo passou, Joaquim se manteve inerte, e a d\u00edvida prescreveu. Inconformado, Joaquim pretende ajuizar a\u00e7\u00e3o de enriquecimento sem causa contra Ronaldo.\n\n Sobre os fatos narrados, assinale a afirmativa correta.", "filename": "2016-19.txt", "number": "41", "options": [{"correct": null, "letter": "A", "text": "A a\u00e7\u00e3o de enriquecimento sem causa \u00e9 cab\u00edvel, uma vez que Ronaldo se enriqueceu indevidamente \u00e0 custa de Joaquim."}, {"correct": null, "letter": "B", "text": "Como a a\u00e7\u00e3o de enriquecimento sem causa \u00e9 subsidi\u00e1ria, \u00e9 cab\u00edvel seu ajuizamento por n\u00e3o haver, na hip\u00f3tese, outro meio de recuperar o empr\u00e9stimo concedido."}, {"correct": true, "letter": "C", "text": "N\u00e3o cabe o ajuizamento da a\u00e7\u00e3o de enriquecimento sem causa, pois h\u00e1 t\u00edtulo jur\u00eddico a justificar o enriquecimento de Ronaldo."}, {"correct": null, "letter": "D", "text": "A pretens\u00e3o de ressarcimento do enriquecimento sem causa prescreve simultaneamente \u00e0 pretens\u00e3o relativa \u00e0 cobran\u00e7a do valor mutuado."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "Joaquim celebrou, por instrumento particular, contrato de m\u00fatuo com Ronaldo, pelo qual lhe emprestou R$ 50.000,00 (cinquenta mil reais), a serem pagos 30 dias depois. No dia do vencimento do empr\u00e9stimo, Ronaldo n\u00e3o adimpliu a presta\u00e7\u00e3o. O tempo passou, Joaquim se manteve inerte, e a d\u00edvida prescreveu. Inconformado, Joaquim pretende ajuizar a\u00e7\u00e3o de enriquecimento sem causa contra Ronaldo.\n\n Sobre os fatos narrados, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A a\u00e7\u00e3o de enriquecimento sem causa \u00e9 cab\u00edvel, uma vez que Ronaldo se enriqueceu indevidamente \u00e0 custa de Joaquim."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Como a a\u00e7\u00e3o de enriquecimento sem causa \u00e9 subsidi\u00e1ria, \u00e9 cab\u00edvel seu ajuizamento por n\u00e3o haver, na hip\u00f3tese, outro meio de recuperar o empr\u00e9stimo concedido."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "N\u00e3o cabe o ajuizamento da a\u00e7\u00e3o de enriquecimento sem causa, pois h\u00e1 t\u00edtulo jur\u00eddico a justificar o enriquecimento de Ronaldo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A pretens\u00e3o de ressarcimento do enriquecimento sem causa prescreve simultaneamente \u00e0 pretens\u00e3o relativa \u00e0 cobran\u00e7a do valor mutuado."
+            }
+        ],
+        "valid": true
+    }
+]

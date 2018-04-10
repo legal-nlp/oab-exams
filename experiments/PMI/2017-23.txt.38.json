@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "Juliana, por meio de contrato de compra e venda, adquiriu de Ricardo, profissional liberal, um carro seminovo (30.000km) da marca Y pelo pre\u00e7o de R$ 24.000,00. Ficou acertado que Ricardo faria a revis\u00e3o de 000km no ve\u00edculo antes de entreg\u00e1-lo para Juliana no dia 23 de janeiro de 2017. Ricardo, por\u00e9m, n\u00e3o realizou a revis\u00e3o e omitiu tal fato de Juliana, pois acreditava que n\u00e3o haveria qualquer problema, j\u00e1 que, aparentemente, o carro funcionava bem.  No dia 23 de fevereiro de 2017, Juliana sofreu acidente em raz\u00e3o de defeito no freio do carro, com a perda total do ve\u00edculo. A per\u00edcia demostrou que a causa do acidente foi falha na conserva\u00e7\u00e3o do bem, tendo em vista que as pastilhas do freio n\u00e3o tinham sido trocadas na revis\u00e3o de 30.000km, o que era essencial para a manuten\u00e7\u00e3o do carro.\n\n Considerando os fatos, assinale a afirmativa correta.", "filename": "2017-23.txt", "number": "38", "options": [{"correct": null, "letter": "A", "text": "Ricardo n\u00e3o tem nenhuma responsabilidade pelo dano sofrido por Juliana (perda total do carro), tendo em vista que o carro estava aparentemente funcionando bem no momento da tradi\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "Ricardo dever\u00e1 ressarcir o valor das pastilhas de freio, nada tendo a ver com o acidente sofrido por Juliana."}, {"correct": true, "letter": "C", "text": "Ricardo \u00e9 respons\u00e1vel por todo o dano sofrido por Juliana, com a perda total do carro, tendo em vista que o perecimento do bem foi devido a v\u00edcio oculto j\u00e1 existente ao tempo da tradi\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "Ricardo dever\u00e1 ressarcir o valor da revis\u00e3o de 30.000km do carro, tendo em vista que ela n\u00e3o foi realizada conforme previsto no contrato."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "Juliana, por meio de contrato de compra e venda, adquiriu de Ricardo, profissional liberal, um carro seminovo (30.000km) da marca Y pelo pre\u00e7o de R$ 24.000,00. Ficou acertado que Ricardo faria a revis\u00e3o de 000km no ve\u00edculo antes de entreg\u00e1-lo para Juliana no dia 23 de janeiro de 2017. Ricardo, por\u00e9m, n\u00e3o realizou a revis\u00e3o e omitiu tal fato de Juliana, pois acreditava que n\u00e3o haveria qualquer problema, j\u00e1 que, aparentemente, o carro funcionava bem.  No dia 23 de fevereiro de 2017, Juliana sofreu acidente em raz\u00e3o de defeito no freio do carro, com a perda total do ve\u00edculo. A per\u00edcia demostrou que a causa do acidente foi falha na conserva\u00e7\u00e3o do bem, tendo em vista que as pastilhas do freio n\u00e3o tinham sido trocadas na revis\u00e3o de 30.000km, o que era essencial para a manuten\u00e7\u00e3o do carro.\n\n Considerando os fatos, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "38",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Ricardo n\u00e3o tem nenhuma responsabilidade pelo dano sofrido por Juliana (perda total do carro), tendo em vista que o carro estava aparentemente funcionando bem no momento da tradi\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ricardo dever\u00e1 ressarcir o valor das pastilhas de freio, nada tendo a ver com o acidente sofrido por Juliana."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Ricardo \u00e9 respons\u00e1vel por todo o dano sofrido por Juliana, com a perda total do carro, tendo em vista que o perecimento do bem foi devido a v\u00edcio oculto j\u00e1 existente ao tempo da tradi\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Ricardo dever\u00e1 ressarcir o valor da revis\u00e3o de 30.000km do carro, tendo em vista que ela n\u00e3o foi realizada conforme previsto no contrato."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"valid": true, "areas": [], "enum": "Em julho de 2013, o ajudante de pedreiro \u201cX\u201d, ap\u00f3s ter sido detido por policiais militares e conduzido da porta de sua casa em dire\u00e7\u00e3o \u00e0 delegacia, desapareceu. H\u00e1 um amplo debate em torno do caso e, dentre outros aspectos, discute-se se seria esse caso uma hip\u00f3tese de desaparecimento for\u00e7ado. Sabendo que o Brasil ratificou, em 2010, a Conven\u00e7\u00e3o Internacional Para a Prote\u00e7\u00e3o de Todas as Pessoas Contra o Desaparecimento For\u00e7ado, assinale a afirmativa correta.", "filename": "2014-15.txt", "number": "21", "options": [{"pmi": [-0.04596572479951776, 0.0, 0.0, 0.0], "correct": null, "letter": "A", "text": "Entende-se por desaparecimento for\u00e7ado a priva\u00e7\u00e3o da liberdade promovida por particulares no exerc\u00edcio de uma coa\u00e7\u00e3o irresist\u00edvel, seguida da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."}, {"pmi": [-0.04085842204401579, 0.0, 0.0, 0.0], "correct": true, "letter": "B", "text": "Entende-se por desaparecimento for\u00e7ado a pris\u00e3o, a deten\u00e7\u00e3o, o sequestro ou qualquer outra forma de priva\u00e7\u00e3o de liberdade por agentes do Estado ou por pessoas ou grupos de pessoas agindo com a autoriza\u00e7\u00e3o, o apoio ou o consentimento do Estado, seguida da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."}, {"pmi": [-0.05333594214472641, 0.0, 0.0, 0.0], "correct": null, "letter": "C", "text": "Entende-se por desaparecimento for\u00e7ado a pris\u00e3o, a deten\u00e7\u00e3o, o sequestro ou qualquer outra forma de priva\u00e7\u00e3o de liberdade por agentes do Estado ou por pessoas ou grupos de pessoas agindo com a autoriza\u00e7\u00e3o, o apoio ou o consentimento do Estado, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."}, {"pmi": [-0.05468964254218042, 0.0, 0.0, 0.0], "correct": null, "letter": "D", "text": "Entende-se por desaparecimento for\u00e7ado o sequestro de um cidad\u00e3o praticado por agentes das for\u00e7as armadas do Estado, seguido da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."}]}]
+[
+    {
+        "valid": true,
+        "areas": [],
+        "enum": "Em julho de 2013, o ajudante de pedreiro \u201cX\u201d, ap\u00f3s ter sido detido por policiais militares e conduzido da porta de sua casa em dire\u00e7\u00e3o \u00e0 delegacia, desapareceu. H\u00e1 um amplo debate em torno do caso e, dentre outros aspectos, discute-se se seria esse caso uma hip\u00f3tese de desaparecimento for\u00e7ado. Sabendo que o Brasil ratificou, em 2010, a Conven\u00e7\u00e3o Internacional Para a Prote\u00e7\u00e3o de Todas as Pessoas Contra o Desaparecimento For\u00e7ado, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "number": "21",
+        "options": [
+            {
+                "pmi": [
+                    -0.04596572479951776,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A",
+                "text": "Entende-se por desaparecimento for\u00e7ado a priva\u00e7\u00e3o da liberdade promovida por particulares no exerc\u00edcio de uma coa\u00e7\u00e3o irresist\u00edvel, seguida da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."
+            },
+            {
+                "pmi": [
+                    -0.04085842204401579,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B",
+                "text": "Entende-se por desaparecimento for\u00e7ado a pris\u00e3o, a deten\u00e7\u00e3o, o sequestro ou qualquer outra forma de priva\u00e7\u00e3o de liberdade por agentes do Estado ou por pessoas ou grupos de pessoas agindo com a autoriza\u00e7\u00e3o, o apoio ou o consentimento do Estado, seguida da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."
+            },
+            {
+                "pmi": [
+                    -0.05333594214472641,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C",
+                "text": "Entende-se por desaparecimento for\u00e7ado a pris\u00e3o, a deten\u00e7\u00e3o, o sequestro ou qualquer outra forma de priva\u00e7\u00e3o de liberdade por agentes do Estado ou por pessoas ou grupos de pessoas agindo com a autoriza\u00e7\u00e3o, o apoio ou o consentimento do Estado, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."
+            },
+            {
+                "pmi": [
+                    -0.05468964254218042,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D",
+                "text": "Entende-se por desaparecimento for\u00e7ado o sequestro de um cidad\u00e3o praticado por agentes das for\u00e7as armadas do Estado, seguido da recusa em reconhecer a priva\u00e7\u00e3o de liberdade ou do encobrimento do destino ou do paradeiro da pessoa desaparecida, colocando-a, assim, fora do \u00e2mbito de prote\u00e7\u00e3o da lei."
+            }
+        ]
+    }
+]

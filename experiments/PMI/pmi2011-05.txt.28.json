@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "valid": true, "number": "28", "enum": "A estrutura\u00e7\u00e3o da Administra\u00e7\u00e3o traz a presen\u00e7a, necess\u00e1ria, de centros de compet\u00eancias denominados \u00d3rg\u00e3os P\u00fablicos ou, simplesmente, \u00d3rg\u00e3os. Quanto a estes, \u00e9 correto afirmar que", "filename": "2011-05.txt", "options": [{"correct": null, "pmi": [-0.21572740502351306, 0.0, 0.0, 0.0], "text": "possuem personalidade jur\u00eddica pr\u00f3pria, respondendo diretamente por seus atos.", "letter": "A"}, {"correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "suas atua\u00e7\u00f5es s\u00e3o imputadas \u00e0s pessoas jur\u00eddicas a que pertencem.", "letter": "B"}, {"correct": null, "pmi": [-0.10919447730868878, 0.0, 0.0, 0.0], "text": "n\u00e3o possuem cargos, apenas fun\u00e7\u00f5es, e estas s\u00e3o criadas por atos normativos do ocupante do respectivo \u00f3rg\u00e3o.", "letter": "C"}, {"correct": null, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "n\u00e3o possuem cargos nem fun\u00e7\u00f5es.", "letter": "D"}]}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "valid": true,
+        "number": "28",
+        "enum": "A estrutura\u00e7\u00e3o da Administra\u00e7\u00e3o traz a presen\u00e7a, necess\u00e1ria, de centros de compet\u00eancias denominados \u00d3rg\u00e3os P\u00fablicos ou, simplesmente, \u00d3rg\u00e3os. Quanto a estes, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.21572740502351306,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "possuem personalidade jur\u00eddica pr\u00f3pria, respondendo diretamente por seus atos.",
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "suas atua\u00e7\u00f5es s\u00e3o imputadas \u00e0s pessoas jur\u00eddicas a que pertencem.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.10919447730868878,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o possuem cargos, apenas fun\u00e7\u00f5es, e estas s\u00e3o criadas por atos normativos do ocupante do respectivo \u00f3rg\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o possuem cargos nem fun\u00e7\u00f5es.",
+                "letter": "D"
+            }
+        ]
+    }
+]

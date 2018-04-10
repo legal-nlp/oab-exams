@@ -1,1 +1,55 @@
-[{"number": "44", "areas": [], "options": [{"pmi": [-0.3336813903560563, 0.0, 0.0, 0.0], "text": "N\u00e3o tem cabimento a medida intentada pelo Minist\u00e9rio P\u00fablico, uma vez que a a\u00e7\u00e3o civil p\u00fablica destina-se a interesse difusos ou coletivos, n\u00e3o sendo ferramenta jur\u00eddica h\u00e1bil a tutelar os interesses individuais indispon\u00edveis, como os descritos no enunciado, devendo o processo ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito.", "letter": "A", "correct": null}, {"pmi": [-0.2958953691788707, 0.0, 0.0, 0.0], "text": "A causa ter\u00e1 seguimento, visto que cab\u00edvel a\u00e7\u00e3o civil p\u00fablica na hip\u00f3tese, mas, no m\u00e9rito, os argumentos dos r\u00e9us merecem acolhimento, j\u00e1 que conferir tratamento desigual \u00e0 crian\u00e7a B implica viola\u00e7\u00e3o ao princ\u00edpio da isonomia, o que n\u00e3o encontra amparo na norma especial do ECA.", "letter": "B", "correct": null}, {"pmi": [-0.38000081931678586, 0.0, 0.0, 0.0], "text": "A a\u00e7\u00e3o civil p\u00fablica \u00e9 perfeitamente cab\u00edvel no caso e, no m\u00e9rito, a prioridade legal assiste a crian\u00e7a B no atendimento a necessidades como vida e sa\u00fade, nisso justificando-se a absoluta prioridade na efetiva\u00e7\u00e3o dos seus direitos, conferindo-lhe primazia de receber socorro e prote\u00e7\u00e3o, e a preced\u00eancia no atendimento em servi\u00e7o p\u00fablico.", "letter": "C", "correct": true}, {"pmi": [-0.3485228388941467, 0.0, 0.0, 0.0], "text": "N\u00e3o \u00e9 cab\u00edvel a\u00e7\u00e3o civil p\u00fablica na hip\u00f3tese, por se tratar de direito meramente individual, embora indispon\u00edvel, e, como no m\u00e9rito assiste raz\u00e3o aos interesses da crian\u00e7a B, a a\u00e7\u00e3o dever\u00e1 ser extinta sem resolu\u00e7\u00e3o do m\u00e9rito, a fim de que outra a\u00e7\u00e3o judicial, intentada com o uso da ferramenta jur\u00eddica adequada, possa ser processada sem incorrer em litispend\u00eancia.", "letter": "D", "correct": null}], "valid": true, "enum": "O Minist\u00e9rio P\u00fablico moveu a\u00e7\u00e3o civil p\u00fablica em face do estado A1 e do munic\u00edpio A2, e em favor dos interesses da crian\u00e7a B, que precisava realizar um procedimento cir\u00fargico indispens\u00e1vel \u00e0 manuten\u00e7\u00e3o de sua sa\u00fade, ao custo de R$ 8.000,00 (oito mil reais), o qual a fam\u00edlia n\u00e3o tinha como custear. Os r\u00e9us aduziram em contesta\u00e7\u00e3o que os recursos p\u00fablicos n\u00e3o poderiam ser destinados individualmente, mas sim, em car\u00e1ter igualit\u00e1rio e geral a todos os que deles necessitassem.\n\n Considere a narrativa e assinale a \u00fanica op\u00e7\u00e3o correta a seguir.", "filename": "2014-15.txt"}]
+[
+    {
+        "number": "44",
+        "areas": [],
+        "options": [
+            {
+                "pmi": [
+                    -0.3336813903560563,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o tem cabimento a medida intentada pelo Minist\u00e9rio P\u00fablico, uma vez que a a\u00e7\u00e3o civil p\u00fablica destina-se a interesse difusos ou coletivos, n\u00e3o sendo ferramenta jur\u00eddica h\u00e1bil a tutelar os interesses individuais indispon\u00edveis, como os descritos no enunciado, devendo o processo ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.2958953691788707,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A causa ter\u00e1 seguimento, visto que cab\u00edvel a\u00e7\u00e3o civil p\u00fablica na hip\u00f3tese, mas, no m\u00e9rito, os argumentos dos r\u00e9us merecem acolhimento, j\u00e1 que conferir tratamento desigual \u00e0 crian\u00e7a B implica viola\u00e7\u00e3o ao princ\u00edpio da isonomia, o que n\u00e3o encontra amparo na norma especial do ECA.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.38000081931678586,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A a\u00e7\u00e3o civil p\u00fablica \u00e9 perfeitamente cab\u00edvel no caso e, no m\u00e9rito, a prioridade legal assiste a crian\u00e7a B no atendimento a necessidades como vida e sa\u00fade, nisso justificando-se a absoluta prioridade na efetiva\u00e7\u00e3o dos seus direitos, conferindo-lhe primazia de receber socorro e prote\u00e7\u00e3o, e a preced\u00eancia no atendimento em servi\u00e7o p\u00fablico.",
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.3485228388941467,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o \u00e9 cab\u00edvel a\u00e7\u00e3o civil p\u00fablica na hip\u00f3tese, por se tratar de direito meramente individual, embora indispon\u00edvel, e, como no m\u00e9rito assiste raz\u00e3o aos interesses da crian\u00e7a B, a a\u00e7\u00e3o dever\u00e1 ser extinta sem resolu\u00e7\u00e3o do m\u00e9rito, a fim de que outra a\u00e7\u00e3o judicial, intentada com o uso da ferramenta jur\u00eddica adequada, possa ser processada sem incorrer em litispend\u00eancia.",
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "enum": "O Minist\u00e9rio P\u00fablico moveu a\u00e7\u00e3o civil p\u00fablica em face do estado A1 e do munic\u00edpio A2, e em favor dos interesses da crian\u00e7a B, que precisava realizar um procedimento cir\u00fargico indispens\u00e1vel \u00e0 manuten\u00e7\u00e3o de sua sa\u00fade, ao custo de R$ 8.000,00 (oito mil reais), o qual a fam\u00edlia n\u00e3o tinha como custear. Os r\u00e9us aduziram em contesta\u00e7\u00e3o que os recursos p\u00fablicos n\u00e3o poderiam ser destinados individualmente, mas sim, em car\u00e1ter igualit\u00e1rio e geral a todos os que deles necessitassem.\n\n Considere a narrativa e assinale a \u00fanica op\u00e7\u00e3o correta a seguir.",
+        "filename": "2014-15.txt"
+    }
+]

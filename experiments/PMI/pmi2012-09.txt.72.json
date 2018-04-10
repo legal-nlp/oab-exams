@@ -1,1 +1,57 @@
-[{"options": [{"text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "N\u00e3o havendo na localidade sindicato representativo da categoria, a assist\u00eancia ser\u00e1 prestada pela Justi\u00e7a do Trabalho.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "N\u00e3o havendo na localidade sindicato representativo da categoria ou autoridade do Minist\u00e9rio do Trabalho, a assist\u00eancia ser\u00e1 prestada por representante do Minist\u00e9rio P\u00fablico ou, onde houver, defensor p\u00fablico e, na falta ou impedimento destes, pelo Juiz de Paz.", "pmi": [-0.08267363956762137, 0.0, 0.0, 0.0], "correct": true, "letter": "C"}, {"text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado ou, na aus\u00eancia deste, pela Justi\u00e7a do Trabalho.", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "enum": "Partindo-se da premissa legal de que o pedido de demiss\u00e3o ou recibo de quita\u00e7\u00e3o de rescis\u00e3o do contrato de trabalho, firmado por empregado com mais de um ano de servi\u00e7o, somente ser\u00e1 v\u00e1lido quando realizado perante a autoridade competente, assinale a afirmativa correta.", "areas": ["LABOUR"], "filename": "2012-09.txt", "number": "72", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria, a assist\u00eancia ser\u00e1 prestada pela Justi\u00e7a do Trabalho.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria ou autoridade do Minist\u00e9rio do Trabalho, a assist\u00eancia ser\u00e1 prestada por representante do Minist\u00e9rio P\u00fablico ou, onde houver, defensor p\u00fablico e, na falta ou impedimento destes, pelo Juiz de Paz.",
+                "pmi": [
+                    -0.08267363956762137,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado ou, na aus\u00eancia deste, pela Justi\u00e7a do Trabalho.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "enum": "Partindo-se da premissa legal de que o pedido de demiss\u00e3o ou recibo de quita\u00e7\u00e3o de rescis\u00e3o do contrato de trabalho, firmado por empregado com mais de um ano de servi\u00e7o, somente ser\u00e1 v\u00e1lido quando realizado perante a autoridade competente, assinale a afirmativa correta.",
+        "areas": [
+            "LABOUR"
+        ],
+        "filename": "2012-09.txt",
+        "number": "72",
+        "valid": true
+    }
+]

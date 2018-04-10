@@ -1,1 +1,57 @@
-[{"valid": true, "number": "55", "enum": "Ao concluir o curso de Engenharia, Arli, visando fazer uma brincadeira, inseriu, \u00e0 caneta, em seu diploma, declara\u00e7\u00e3o falsa sobre fato juridicamente relevante.\n\n A respeito desse ato, \u00e9 correto afirmar que Arli", "filename": "2011-03.txt", "options": [{"text": "praticou crime de falsifica\u00e7\u00e3o de documento p\u00fablico.", "letter": "A", "correct": null, "pmi": [-0.17008868272047145, 0.0, 0.0, 0.0]}, {"text": "praticou crime de falsidade ideol\u00f3gica.", "letter": "B", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "praticou crime de falsa identidade.", "letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "n\u00e3o praticou crime algum.", "letter": "D", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}], "areas": ["CRIMINAL"]}]
+[
+    {
+        "valid": true,
+        "number": "55",
+        "enum": "Ao concluir o curso de Engenharia, Arli, visando fazer uma brincadeira, inseriu, \u00e0 caneta, em seu diploma, declara\u00e7\u00e3o falsa sobre fato juridicamente relevante.\n\n A respeito desse ato, \u00e9 correto afirmar que Arli",
+        "filename": "2011-03.txt",
+        "options": [
+            {
+                "text": "praticou crime de falsifica\u00e7\u00e3o de documento p\u00fablico.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.17008868272047145,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "praticou crime de falsidade ideol\u00f3gica.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "praticou crime de falsa identidade.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "n\u00e3o praticou crime algum.",
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            "CRIMINAL"
+        ]
+    }
+]

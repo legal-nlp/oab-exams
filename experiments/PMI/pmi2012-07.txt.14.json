@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "correct": null, "text": "Como a quest\u00e3o j\u00e1 transitou em julgado no Poder Judici\u00e1rio do pa\u00eds acusado, Joana ter\u00e1 sua peti\u00e7\u00e3o inadmitida pela falta de cumprimento do requisito previsto na Conven\u00e7\u00e3o Americana de Direitos Humanos.", "pmi": [-0.024917769359230787, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "Como a prote\u00e7\u00e3o da fam\u00edlia n\u00e3o est\u00e1 garantida pelo Pacto de S\u00e3o Jos\u00e9 da Costa Rica, Joana ter\u00e1 sua peti\u00e7\u00e3o inadmitida pela falta de cumprimento do requisito previsto na Conven\u00e7\u00e3o Americana de Direitos Humanos.", "pmi": [-0.01659388641381147, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": true, "text": "Joana poder\u00e1 ter sua peti\u00e7\u00e3o admitida pela Comiss\u00e3o Interamericana de Direitos Humanos, que poder\u00e1 continuar a analisar o m\u00e9rito do assunto mesmo que o Brasil tenha alterado a legisla\u00e7\u00e3o sobre o tema ap\u00f3s a decis\u00e3o do caso de Joana pelo STF, passando a beneficiar m\u00e3es adotivas, em face da impossibilidade de retroatividade da norma para atingir coisa julgada.", "pmi": [-0.03297821315542288, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "Joana n\u00e3o poder\u00e1 ter sua peti\u00e7\u00e3o admitida, em raz\u00e3o de ser requisito indispens\u00e1vel que estivesse representada por um Estado-membro da Organiza\u00e7\u00e3o dos Estados Americanos, para apresentar \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos a peti\u00e7\u00e3o que cont\u00e9m den\u00fancia ou queixa de viola\u00e7\u00e3o da Conven\u00e7\u00e3o Americana de Direitos Humanos por um outro Estado-parte do qual \u00e9 nacional.", "pmi": [-0.08856382728600364, 0.0, 0.0, 0.0]}], "filename": "2012-07.txt", "valid": true, "areas": ["HUMAN-RIGHTS"], "number": "14", "enum": "Joana, funcion\u00e1ria de um hospital, decide adotar um rec\u00e9m-nascido. Por\u00e9m seu pedido de licen\u00e7a-maternidade \u00e9 negado, por falta de previs\u00e3o legal.  Inconformada Joana ingressa na Justi\u00e7a Trabalhista, onde recebe decis\u00f5es favor\u00e1veis \u00e0 luz dos princ\u00edpios constitucionais, inclusive do Tribunal Superior do Trabalho.  Por\u00e9m, em \u00faltima an\u00e1lise do caso, o Supremo Tribunal Federal decide pela denega\u00e7\u00e3o do pedido de licen\u00e7a maternidade, operando-se o tr\u00e2nsito em julgado da decis\u00e3o.  Segundo o Sistema Interamericano de Direitos Humanos, qual ser\u00e1 a alternativa correta:"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "Como a quest\u00e3o j\u00e1 transitou em julgado no Poder Judici\u00e1rio do pa\u00eds acusado, Joana ter\u00e1 sua peti\u00e7\u00e3o inadmitida pela falta de cumprimento do requisito previsto na Conven\u00e7\u00e3o Americana de Direitos Humanos.",
+                "pmi": [
+                    -0.024917769359230787,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "Como a prote\u00e7\u00e3o da fam\u00edlia n\u00e3o est\u00e1 garantida pelo Pacto de S\u00e3o Jos\u00e9 da Costa Rica, Joana ter\u00e1 sua peti\u00e7\u00e3o inadmitida pela falta de cumprimento do requisito previsto na Conven\u00e7\u00e3o Americana de Direitos Humanos.",
+                "pmi": [
+                    -0.01659388641381147,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "Joana poder\u00e1 ter sua peti\u00e7\u00e3o admitida pela Comiss\u00e3o Interamericana de Direitos Humanos, que poder\u00e1 continuar a analisar o m\u00e9rito do assunto mesmo que o Brasil tenha alterado a legisla\u00e7\u00e3o sobre o tema ap\u00f3s a decis\u00e3o do caso de Joana pelo STF, passando a beneficiar m\u00e3es adotivas, em face da impossibilidade de retroatividade da norma para atingir coisa julgada.",
+                "pmi": [
+                    -0.03297821315542288,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "Joana n\u00e3o poder\u00e1 ter sua peti\u00e7\u00e3o admitida, em raz\u00e3o de ser requisito indispens\u00e1vel que estivesse representada por um Estado-membro da Organiza\u00e7\u00e3o dos Estados Americanos, para apresentar \u00e0 Comiss\u00e3o Interamericana de Direitos Humanos a peti\u00e7\u00e3o que cont\u00e9m den\u00fancia ou queixa de viola\u00e7\u00e3o da Conven\u00e7\u00e3o Americana de Direitos Humanos por um outro Estado-parte do qual \u00e9 nacional.",
+                "pmi": [
+                    -0.08856382728600364,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2012-07.txt",
+        "valid": true,
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "number": "14",
+        "enum": "Joana, funcion\u00e1ria de um hospital, decide adotar um rec\u00e9m-nascido. Por\u00e9m seu pedido de licen\u00e7a-maternidade \u00e9 negado, por falta de previs\u00e3o legal.  Inconformada Joana ingressa na Justi\u00e7a Trabalhista, onde recebe decis\u00f5es favor\u00e1veis \u00e0 luz dos princ\u00edpios constitucionais, inclusive do Tribunal Superior do Trabalho.  Por\u00e9m, em \u00faltima an\u00e1lise do caso, o Supremo Tribunal Federal decide pela denega\u00e7\u00e3o do pedido de licen\u00e7a maternidade, operando-se o tr\u00e2nsito em julgado da decis\u00e3o.  Segundo o Sistema Interamericano de Direitos Humanos, qual ser\u00e1 a alternativa correta:"
+    }
+]

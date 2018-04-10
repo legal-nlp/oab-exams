@@ -1,1 +1,57 @@
-[{"filename": "2012-08.txt", "enum": "Pedro foi denunciado pela pr\u00e1tica de homic\u00eddio triplamente qualificado. Como se trata de um crime doloso contra a vida, ser\u00e1 julgado pelo Tribunal do J\u00fari. O processo seguiu seu curso normal, tendo Pedro sido pronunciado.\n\n Acerca da 2\u00aa fase do procedimento, assinale a afirmativa que n\u00e3o corresponde \u00e0 realidade.", "options": [{"correct": null, "pmi": [-0.0103875435517172, 0.0, 0.0, 0.0], "letter": "A", "text": "Encerrada a instru\u00e7\u00e3o, ser\u00e1 concedida a palavra ao Minist\u00e9rio P\u00fablico, que far\u00e1 a acusa\u00e7\u00e3o, nos limites da pron\u00fancia ou das decis\u00f5es posteriores que julgaram admiss\u00edvel a acusa\u00e7\u00e3o, sustentando, se for o caso, a exist\u00eancia de circunst\u00e2ncia agravante."}, {"correct": null, "pmi": [-0.12693179504735033, 0.0, 0.0, 0.0], "letter": "B", "text": "\u00c0 medida que as c\u00e9dulas forem sendo retiradas da urna, o juiz presidente as ler\u00e1, e a defesa e, depois dela, o Minist\u00e9rio P\u00fablico poder\u00e3o recusar os jurados sorteados, at\u00e9 3 (tr\u00eas) cada parte, sem motivar a recusa."}, {"correct": null, "pmi": [-0.03908720374135862, 0.0, 0.0, 0.0], "letter": "C", "text": "Prestado o compromisso pelos jurados, ser\u00e1 iniciada a instru\u00e7\u00e3o plen\u00e1ria quando o juiz presidente, o Minist\u00e9rio P\u00fablico, o assistente, o querelante e o defensor do acusado tomar\u00e3o, sucessiva e diretamente, as declara\u00e7\u00f5es do ofendido, se poss\u00edvel, e inquirir\u00e3o as testemunhas arroladas pela acusa\u00e7\u00e3o."}, {"correct": true, "pmi": [-0.045231517692428586, 0.0, 0.0, 0.0], "letter": "D", "text": "Durante o julgamento n\u00e3o ser\u00e1 permitida a leitura de documento ou a exibi\u00e7\u00e3o de objeto que n\u00e3o tiver sido juntado aos autos com a anteced\u00eancia m\u00ednima de 3 (tr\u00eas) dias \u00fateis, dando-se ci\u00eancia \u00e0 outra parte, salvo jornais ou revistas."}], "valid": true, "areas": ["CRIMINAL-PROCEDURE"], "number": "69"}]
+[
+    {
+        "filename": "2012-08.txt",
+        "enum": "Pedro foi denunciado pela pr\u00e1tica de homic\u00eddio triplamente qualificado. Como se trata de um crime doloso contra a vida, ser\u00e1 julgado pelo Tribunal do J\u00fari. O processo seguiu seu curso normal, tendo Pedro sido pronunciado.\n\n Acerca da 2\u00aa fase do procedimento, assinale a afirmativa que n\u00e3o corresponde \u00e0 realidade.",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.0103875435517172,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Encerrada a instru\u00e7\u00e3o, ser\u00e1 concedida a palavra ao Minist\u00e9rio P\u00fablico, que far\u00e1 a acusa\u00e7\u00e3o, nos limites da pron\u00fancia ou das decis\u00f5es posteriores que julgaram admiss\u00edvel a acusa\u00e7\u00e3o, sustentando, se for o caso, a exist\u00eancia de circunst\u00e2ncia agravante."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.12693179504735033,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "\u00c0 medida que as c\u00e9dulas forem sendo retiradas da urna, o juiz presidente as ler\u00e1, e a defesa e, depois dela, o Minist\u00e9rio P\u00fablico poder\u00e3o recusar os jurados sorteados, at\u00e9 3 (tr\u00eas) cada parte, sem motivar a recusa."
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.03908720374135862,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Prestado o compromisso pelos jurados, ser\u00e1 iniciada a instru\u00e7\u00e3o plen\u00e1ria quando o juiz presidente, o Minist\u00e9rio P\u00fablico, o assistente, o querelante e o defensor do acusado tomar\u00e3o, sucessiva e diretamente, as declara\u00e7\u00f5es do ofendido, se poss\u00edvel, e inquirir\u00e3o as testemunhas arroladas pela acusa\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.045231517692428586,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Durante o julgamento n\u00e3o ser\u00e1 permitida a leitura de documento ou a exibi\u00e7\u00e3o de objeto que n\u00e3o tiver sido juntado aos autos com a anteced\u00eancia m\u00ednima de 3 (tr\u00eas) dias \u00fateis, dando-se ci\u00eancia \u00e0 outra parte, salvo jornais ou revistas."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CRIMINAL-PROCEDURE"
+        ],
+        "number": "69"
+    }
+]

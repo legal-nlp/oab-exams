@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Fulano de Ara\u00fajo, propriet\u00e1rio de um \u00fanico im\u00f3vel em que reside com sua esposa, no Munic\u00edpio do Rio de Janeiro, \u00e9 r\u00e9u em a\u00e7\u00e3o de execu\u00e7\u00e3o fiscal promovida pela Fazenda P\u00fablica Municipal por falta de pagamento do IPTU. Tendo em vista as disposi\u00e7\u00f5es gerais contidas no C\u00f3digo Tribut\u00e1rio Nacional acerca do cr\u00e9dito tribut\u00e1rio, assinale a alternativa correta.", "filename": "2012-06.txt", "number": "53", "options": [{"correct": null, "letter": "A", "text": "O im\u00f3vel residencial pr\u00f3prio do casal \u00e9 impenhor\u00e1vel, n\u00e3o devendo responder por qualquer tipo de d\u00edvida."}, {"correct": null, "letter": "B", "text": "Os bens e rendas do sujeito passivo respondem pelo pagamento de todo cr\u00e9dito de natureza tribut\u00e1ria, sem comportar exce\u00e7\u00f5es."}, {"correct": null, "letter": "C", "text": "Bens gravados por \u00f4nus real ou por cl\u00e1usulas de inalienabilidade n\u00e3o podem ser alcan\u00e7ados para saldar d\u00edvidas tribut\u00e1rias."}, {"correct": true, "letter": "D", "text": "A impenhorabilidade do bem de fam\u00edlia n\u00e3o \u00e9 opon\u00edvel em face da cobran\u00e7a do Imposto Predial Territorial Urbano."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Fulano de Ara\u00fajo, propriet\u00e1rio de um \u00fanico im\u00f3vel em que reside com sua esposa, no Munic\u00edpio do Rio de Janeiro, \u00e9 r\u00e9u em a\u00e7\u00e3o de execu\u00e7\u00e3o fiscal promovida pela Fazenda P\u00fablica Municipal por falta de pagamento do IPTU. Tendo em vista as disposi\u00e7\u00f5es gerais contidas no C\u00f3digo Tribut\u00e1rio Nacional acerca do cr\u00e9dito tribut\u00e1rio, assinale a alternativa correta.",
+        "filename": "2012-06.txt",
+        "number": "53",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O im\u00f3vel residencial pr\u00f3prio do casal \u00e9 impenhor\u00e1vel, n\u00e3o devendo responder por qualquer tipo de d\u00edvida."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Os bens e rendas do sujeito passivo respondem pelo pagamento de todo cr\u00e9dito de natureza tribut\u00e1ria, sem comportar exce\u00e7\u00f5es."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Bens gravados por \u00f4nus real ou por cl\u00e1usulas de inalienabilidade n\u00e3o podem ser alcan\u00e7ados para saldar d\u00edvidas tribut\u00e1rias."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "A impenhorabilidade do bem de fam\u00edlia n\u00e3o \u00e9 opon\u00edvel em face da cobran\u00e7a do Imposto Predial Territorial Urbano."
+            }
+        ],
+        "valid": true
+    }
+]

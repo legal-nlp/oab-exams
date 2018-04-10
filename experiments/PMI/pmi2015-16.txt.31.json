@@ -1,1 +1,55 @@
-[{"filename": "2015-16.txt", "valid": true, "areas": [], "enum": "O Estado X est\u00e1 ampliando a sua rede de esgotamento sanit\u00e1rio. Para tanto, celebrou contrato de obra com a empresa \u201cEnge-X-Sane\u201d, no valor de R$ 50.000.000,00 (cinquenta milh\u00f5es de reais). A fim de permitir a conclus\u00e3o das obras, com a extens\u00e3o da rede de esgotamento a quatro comunidades carentes, o Estado celebrou termo aditivo com a referida empresa, no valor de R$ 10.000.000,00 (dez milh\u00f5es de reais), custeados com recursos transferidos pela Uni\u00e3o, mediante conv\u00eanio, elevando, assim, o valor total do contrato para R$ 60.000.000,00 (sessenta milh\u00f5es de reais).\n\n Considerando que foram formuladas den\u00fancias de sobrepre\u00e7o ao Tribunal de Contas da Uni\u00e3o, assinale a afirmativa correta.", "options": [{"text": "O Tribunal de Contas da Uni\u00e3o n\u00e3o tem compet\u00eancia para apurar eventual irregularidade, uma vez que se trata de obra p\u00fablica estadual, devendo o interessado formular den\u00fancia ao Tribunal de Contas do Estado.", "pmi": [-0.45477398493110055, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "O Tribunal de Contas da Uni\u00e3o n\u00e3o tem compet\u00eancia para apurar eventual irregularidade, mas pode, de of\u00edcio, remeter os elementos da den\u00fancia para o Tribunal de Contas do Estado.", "pmi": [-0.34367791774937423, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "O Tribunal de Contas da Uni\u00e3o \u00e9 competente para fiscalizar a obra e pode determinar, diante de irregularidades, a imediata susta\u00e7\u00e3o da execu\u00e7\u00e3o do contrato impugnado.", "pmi": [-0.4698617363800802, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "O Tribunal de Contas da Uni\u00e3o \u00e9 competente para fiscalizar a obra e pode indicar prazo para que o \u00f3rg\u00e3o ou a entidade adote as provid\u00eancias necess\u00e1rias ao exato cumprimento da lei, se verificada ilegalidade.", "pmi": [-0.544559812655965, 0.0, 0.0, 0.0], "letter": "D", "correct": true}], "number": "31"}]
+[
+    {
+        "filename": "2015-16.txt",
+        "valid": true,
+        "areas": [],
+        "enum": "O Estado X est\u00e1 ampliando a sua rede de esgotamento sanit\u00e1rio. Para tanto, celebrou contrato de obra com a empresa \u201cEnge-X-Sane\u201d, no valor de R$ 50.000.000,00 (cinquenta milh\u00f5es de reais). A fim de permitir a conclus\u00e3o das obras, com a extens\u00e3o da rede de esgotamento a quatro comunidades carentes, o Estado celebrou termo aditivo com a referida empresa, no valor de R$ 10.000.000,00 (dez milh\u00f5es de reais), custeados com recursos transferidos pela Uni\u00e3o, mediante conv\u00eanio, elevando, assim, o valor total do contrato para R$ 60.000.000,00 (sessenta milh\u00f5es de reais).\n\n Considerando que foram formuladas den\u00fancias de sobrepre\u00e7o ao Tribunal de Contas da Uni\u00e3o, assinale a afirmativa correta.",
+        "options": [
+            {
+                "text": "O Tribunal de Contas da Uni\u00e3o n\u00e3o tem compet\u00eancia para apurar eventual irregularidade, uma vez que se trata de obra p\u00fablica estadual, devendo o interessado formular den\u00fancia ao Tribunal de Contas do Estado.",
+                "pmi": [
+                    -0.45477398493110055,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "O Tribunal de Contas da Uni\u00e3o n\u00e3o tem compet\u00eancia para apurar eventual irregularidade, mas pode, de of\u00edcio, remeter os elementos da den\u00fancia para o Tribunal de Contas do Estado.",
+                "pmi": [
+                    -0.34367791774937423,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "O Tribunal de Contas da Uni\u00e3o \u00e9 competente para fiscalizar a obra e pode determinar, diante de irregularidades, a imediata susta\u00e7\u00e3o da execu\u00e7\u00e3o do contrato impugnado.",
+                "pmi": [
+                    -0.4698617363800802,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "O Tribunal de Contas da Uni\u00e3o \u00e9 competente para fiscalizar a obra e pode indicar prazo para que o \u00f3rg\u00e3o ou a entidade adote as provid\u00eancias necess\u00e1rias ao exato cumprimento da lei, se verificada ilegalidade.",
+                "pmi": [
+                    -0.544559812655965,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "number": "31"
+    }
+]

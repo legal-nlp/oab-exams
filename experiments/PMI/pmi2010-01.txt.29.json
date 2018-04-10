@@ -1,1 +1,57 @@
-[{"number": "29", "filename": "2010-01.txt", "valid": true, "enum": "Assinale a op\u00e7\u00e3o correta de acordo com o C\u00f3digo Civil brasileiro.", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "A sub-roga\u00e7\u00e3o objetiva ou real ocorre pela substitui\u00e7\u00e3o de uma das partes, sem a extin\u00e7\u00e3o do v\u00ednculo obrigacional.", "letter": "A"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Caso o sub-rogado n\u00e3o consiga receber a import\u00e2ncia devida, ele poder\u00e1 cobr\u00e1-la do credor original.", "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "Aplica-se \u00e0 da\u00e7\u00e3o em pagamento o regime jur\u00eddico dos v\u00edcios redibit\u00f3rios.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "Opera-se nova\u00e7\u00e3o quando o devedor oferece nova garantia ao credor.", "letter": "D"}], "areas": ["CIVIL"]}]
+[
+    {
+        "number": "29",
+        "filename": "2010-01.txt",
+        "valid": true,
+        "enum": "Assinale a op\u00e7\u00e3o correta de acordo com o C\u00f3digo Civil brasileiro.",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "A sub-roga\u00e7\u00e3o objetiva ou real ocorre pela substitui\u00e7\u00e3o de uma das partes, sem a extin\u00e7\u00e3o do v\u00ednculo obrigacional.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Caso o sub-rogado n\u00e3o consiga receber a import\u00e2ncia devida, ele poder\u00e1 cobr\u00e1-la do credor original.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Aplica-se \u00e0 da\u00e7\u00e3o em pagamento o regime jur\u00eddico dos v\u00edcios redibit\u00f3rios.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Opera-se nova\u00e7\u00e3o quando o devedor oferece nova garantia ao credor.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CIVIL"
+        ]
+    }
+]

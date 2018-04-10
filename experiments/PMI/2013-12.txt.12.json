@@ -1,1 +1,33 @@
-[{"areas": ["PHILOSOPHY"], "enum": "O utilitarismo \u00e9 uma filosofia moderna que conquistou muitos adeptos nos s\u00e9culos XIX e XX, inclusive no pensamento jur\u00eddico. As principais caracter\u00edsticas do utilitarismo s\u00e3o:", "filename": "2013-12.txt", "number": "12", "options": [{"correct": true, "letter": "A", "text": "convencionalismo, consequencialismo e antifundacionalismo."}, {"correct": null, "letter": "B", "text": "consequencialismo, transcendentalismo e fundacionalismo."}, {"correct": null, "letter": "C", "text": "convencionalismo,materialismo e fatalismo."}, {"correct": null, "letter": "D", "text": "mecanicismo, fatalismo e antifundacionalismo."}], "valid": true}]
+[
+    {
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "enum": "O utilitarismo \u00e9 uma filosofia moderna que conquistou muitos adeptos nos s\u00e9culos XIX e XX, inclusive no pensamento jur\u00eddico. As principais caracter\u00edsticas do utilitarismo s\u00e3o:",
+        "filename": "2013-12.txt",
+        "number": "12",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "convencionalismo, consequencialismo e antifundacionalismo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "consequencialismo, transcendentalismo e fundacionalismo."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "convencionalismo,materialismo e fatalismo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "mecanicismo, fatalismo e antifundacionalismo."
+            }
+        ],
+        "valid": true
+    }
+]

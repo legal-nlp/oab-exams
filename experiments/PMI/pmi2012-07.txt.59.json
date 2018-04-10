@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"correct": null, "text": "participa\u00e7\u00e3o no crime de furto praticado por Baco.", "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "recepta\u00e7\u00e3o.", "letter": "B", "pmi": [0.0, 0, 0, 0]}, {"correct": null, "text": "favorecimento pessoal.", "letter": "C", "pmi": [-0.04136972466803366, 0.0, 0, 0]}, {"correct": true, "text": "favorecimento real.", "letter": "D", "pmi": [0.0, 0.0, 0, 0]}], "areas": ["CRIMINAL"], "filename": "2012-07.txt", "number": "59", "enum": "Baco, ap\u00f3s subtrair um carro esportivo de determinada concession\u00e1ria de ve\u00edculos, telefona para Minerva, sua amiga, a quem conta a empreitada criminosa e pede ajuda.  Baco sabia que Minerva morava em uma grande casa e que poderia esconder o carro facilmente l\u00e1.  Assim, pergunta se Minerva poderia ajud\u00e1-lo, escondendo o carro em sua resid\u00eancia.  Minerva, apaixonada por Baco, aceita prestar a ajuda. Nessa situa\u00e7\u00e3o, Minerva deve responder por"}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "text": "participa\u00e7\u00e3o no crime de furto praticado por Baco.",
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "recepta\u00e7\u00e3o.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "favorecimento pessoal.",
+                "letter": "C",
+                "pmi": [
+                    -0.04136972466803366,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "favorecimento real.",
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "areas": [
+            "CRIMINAL"
+        ],
+        "filename": "2012-07.txt",
+        "number": "59",
+        "enum": "Baco, ap\u00f3s subtrair um carro esportivo de determinada concession\u00e1ria de ve\u00edculos, telefona para Minerva, sua amiga, a quem conta a empreitada criminosa e pede ajuda.  Baco sabia que Minerva morava em uma grande casa e que poderia esconder o carro facilmente l\u00e1.  Assim, pergunta se Minerva poderia ajud\u00e1-lo, escondendo o carro em sua resid\u00eancia.  Minerva, apaixonada por Baco, aceita prestar a ajuda. Nessa situa\u00e7\u00e3o, Minerva deve responder por"
+    }
+]

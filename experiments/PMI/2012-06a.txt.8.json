@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Escul\u00e1pio, advogado militante, fica comovido com a dificuldade de Astrol\u00e1bio, bacharel em Direito, em lograr aprova\u00e7\u00e3o no Exame de Ordem. Com o intuito de auxili\u00e1-lo, aceita subscrever peti\u00e7\u00f5es realizadas pelo referido graduado em Direito, bem como permitir que ele receba os seus clientes no seu escrit\u00f3rio, como se advogado fosse, n\u00e3o percebendo Escul\u00e1pio qualquer vantagem pecuni\u00e1ria por isso. Consoante as normas estatut\u00e1rias, \u00e9 correto afirmar que", "filename": "2012-06a.txt", "number": "8", "options": [{"correct": null, "letter": "A", "text": "Escul\u00e1pio est\u00e1 cometendo infra\u00e7\u00e3o disciplinar por manter sociedade profissional fora dos limites legais."}, {"correct": true, "letter": "B", "text": "Escul\u00e1pio estaria praticando a conduta de facilita\u00e7\u00e3o do exerc\u00edcio da profiss\u00e3o aos n\u00e3o inscritos."}, {"correct": null, "letter": "C", "text": "havendo motivo de for\u00e7a maior, o advogado pode propiciar acesso profissional aos n\u00e3o inscritos."}, {"correct": null, "letter": "D", "text": "o advogado estaria apenas angariando causas para o seu escrit\u00f3rio de advocacia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Escul\u00e1pio, advogado militante, fica comovido com a dificuldade de Astrol\u00e1bio, bacharel em Direito, em lograr aprova\u00e7\u00e3o no Exame de Ordem. Com o intuito de auxili\u00e1-lo, aceita subscrever peti\u00e7\u00f5es realizadas pelo referido graduado em Direito, bem como permitir que ele receba os seus clientes no seu escrit\u00f3rio, como se advogado fosse, n\u00e3o percebendo Escul\u00e1pio qualquer vantagem pecuni\u00e1ria por isso. Consoante as normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "8",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Escul\u00e1pio est\u00e1 cometendo infra\u00e7\u00e3o disciplinar por manter sociedade profissional fora dos limites legais."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Escul\u00e1pio estaria praticando a conduta de facilita\u00e7\u00e3o do exerc\u00edcio da profiss\u00e3o aos n\u00e3o inscritos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "havendo motivo de for\u00e7a maior, o advogado pode propiciar acesso profissional aos n\u00e3o inscritos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "o advogado estaria apenas angariando causas para o seu escrit\u00f3rio de advocacia."
+            }
+        ],
+        "valid": true
+    }
+]

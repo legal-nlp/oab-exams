@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Com dificuldades financeiras para comprar o novo celular pretendido, Vanessa, sem qualquer envolvimento pret\u00e9rito com aparato policial ou judicial, aceita, a pedido de namorado de sua prima, que havia conhecido dois dias antes, transportar 500 g de coca\u00edna de Alagoas para Sergipe. Apesar de aceitar a tarefa, Vanessa solicitou como recompensa R$ 5.000,00, j\u00e1 que estava muito nervosa por nunca ter adotado qualquer comportamento parecido.\n\n Ap\u00f3s a transfer\u00eancia do valor acordado, Vanessa esconde o material entorpecente na mala de seu carro e inicia o transporte da subst\u00e2ncia. Ainda no estado de Alagoas, 30 minutos depois, Vanessa \u00e9 abordada por policiais e presa em flagrante.\n\n Ap\u00f3s den\u00fancia pela pr\u00e1tica do crime de tr\u00e1fico de drogas com causa de aumento do Art. 40, inciso V, da Lei n\u00ba 11.343/06 (\u201ccaracterizado tr\u00e1fico entre Estados da Federa\u00e7\u00e3o ou entre estes e o Distrito Federal\ufffd?), durante a instru\u00e7\u00e3o, todos os fatos s\u00e3o confirmados: Folha de Antecedentes Criminais sem outras anota\u00e7\u00f5es, primeira vez no transporte de drogas, transfer\u00eancia de valores, que o bem transportado era droga e que a pretens\u00e3o era entregar o material em Sergipe.\n\n Intimado da senten\u00e7a condenat\u00f3ria nos termos da den\u00fancia, o advogado de Vanessa, de acordo com as previs\u00f5es da Lei n\u00ba 11.343/06 e a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, dever\u00e1 pleitear", "number": "63", "areas": [null], "options": [{"text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado e reconhecimento da tentativa.", "letter": "A", "pmi": [-0.06344270258100622, 0.0, 0.0, 0.0], "correct": null}, {"text": "o afastamento da causa de aumento e o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado.", "letter": "B", "pmi": [-0.09493751492323346, 0.0, 0.0, 0.0], "correct": null}, {"text": "o afastamento da causa de aumento, apenas.", "letter": "C", "pmi": [-0.11563200455368383, 0.0, 0.0, 0.0], "correct": null}, {"text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado, apenas.", "letter": "D", "pmi": [-0.08459027010800829, 0.0, 0.0, 0.0], "correct": true}], "filename": "2017-24.txt"}]
+[
+    {
+        "valid": true,
+        "enum": "Com dificuldades financeiras para comprar o novo celular pretendido, Vanessa, sem qualquer envolvimento pret\u00e9rito com aparato policial ou judicial, aceita, a pedido de namorado de sua prima, que havia conhecido dois dias antes, transportar 500 g de coca\u00edna de Alagoas para Sergipe. Apesar de aceitar a tarefa, Vanessa solicitou como recompensa R$ 5.000,00, j\u00e1 que estava muito nervosa por nunca ter adotado qualquer comportamento parecido.\n\n Ap\u00f3s a transfer\u00eancia do valor acordado, Vanessa esconde o material entorpecente na mala de seu carro e inicia o transporte da subst\u00e2ncia. Ainda no estado de Alagoas, 30 minutos depois, Vanessa \u00e9 abordada por policiais e presa em flagrante.\n\n Ap\u00f3s den\u00fancia pela pr\u00e1tica do crime de tr\u00e1fico de drogas com causa de aumento do Art. 40, inciso V, da Lei n\u00ba 11.343/06 (\u201ccaracterizado tr\u00e1fico entre Estados da Federa\u00e7\u00e3o ou entre estes e o Distrito Federal\ufffd?), durante a instru\u00e7\u00e3o, todos os fatos s\u00e3o confirmados: Folha de Antecedentes Criminais sem outras anota\u00e7\u00f5es, primeira vez no transporte de drogas, transfer\u00eancia de valores, que o bem transportado era droga e que a pretens\u00e3o era entregar o material em Sergipe.\n\n Intimado da senten\u00e7a condenat\u00f3ria nos termos da den\u00fancia, o advogado de Vanessa, de acordo com as previs\u00f5es da Lei n\u00ba 11.343/06 e a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, dever\u00e1 pleitear",
+        "number": "63",
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado e reconhecimento da tentativa.",
+                "letter": "A",
+                "pmi": [
+                    -0.06344270258100622,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "o afastamento da causa de aumento e o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado.",
+                "letter": "B",
+                "pmi": [
+                    -0.09493751492323346,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "o afastamento da causa de aumento, apenas.",
+                "letter": "C",
+                "pmi": [
+                    -0.11563200455368383,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado, apenas.",
+                "letter": "D",
+                "pmi": [
+                    -0.08459027010800829,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            }
+        ],
+        "filename": "2017-24.txt"
+    }
+]

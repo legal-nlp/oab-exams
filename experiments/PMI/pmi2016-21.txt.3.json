@@ -1,1 +1,57 @@
-[{"number": "3", "valid": true, "enum": "L\u00facia, advogada, foi processada disciplinarmente e, ap\u00f3s a interposi\u00e7\u00e3o de recurso, o Conselho Seccional do Estado de Pernambuco confirmou, por unanimidade, a san\u00e7\u00e3o de suspens\u00e3o pelo prazo de trinta dias, nos termos do Art. 37,\n\n \u00a71\u00ba, do Estatuto da OAB. L\u00facia verificou, contudo, existir decis\u00e3o em sentido contr\u00e1rio, em caso id\u00eantico ao seu, no Conselho Seccional do Estado de Minas Gerais.\n\n De acordo com o Estatuto da OAB, contra a decis\u00e3o definitiva un\u00e2nime proferida pelo Conselho Seccional do Estado de Pernambuco,", "areas": ["ETHICS"], "filename": "2016-21.txt", "options": [{"text": "n\u00e3o cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese.", "letter": "A", "pmi": [-0.14413871823747076, 0.0, 0.0, 0.0], "correct": null}, {"text": "cabe recurso ao Conselho Federal, por contrariar decis\u00e3o do Conselho Seccional de Minas Gerais.", "letter": "B", "pmi": [-0.07206935911873538, 0.0, 0.0, 0.0], "correct": true}, {"text": "cabe recurso ao Conselho Federal, se a decis\u00e3o contrariar tamb\u00e9m decis\u00e3o do Conselho Federal, e n\u00e3o apenas decis\u00e3o do Conselho Seccional de Minas Gerais.", "letter": "C", "pmi": [-0.052414079359080275, 0.0, 0.0, 0.0], "correct": null}, {"text": "cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese, ainda que n\u00e3o existisse decis\u00e3o em sentido contr\u00e1rio do Conselho Seccional de Minas Gerais.", "letter": "D", "pmi": [-0.052414079359080275, 0.0, 0.0, 0.0], "correct": null}]}]
+[
+    {
+        "number": "3",
+        "valid": true,
+        "enum": "L\u00facia, advogada, foi processada disciplinarmente e, ap\u00f3s a interposi\u00e7\u00e3o de recurso, o Conselho Seccional do Estado de Pernambuco confirmou, por unanimidade, a san\u00e7\u00e3o de suspens\u00e3o pelo prazo de trinta dias, nos termos do Art. 37,\n\n \u00a71\u00ba, do Estatuto da OAB. L\u00facia verificou, contudo, existir decis\u00e3o em sentido contr\u00e1rio, em caso id\u00eantico ao seu, no Conselho Seccional do Estado de Minas Gerais.\n\n De acordo com o Estatuto da OAB, contra a decis\u00e3o definitiva un\u00e2nime proferida pelo Conselho Seccional do Estado de Pernambuco,",
+        "areas": [
+            "ETHICS"
+        ],
+        "filename": "2016-21.txt",
+        "options": [
+            {
+                "text": "n\u00e3o cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese.",
+                "letter": "A",
+                "pmi": [
+                    -0.14413871823747076,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "cabe recurso ao Conselho Federal, por contrariar decis\u00e3o do Conselho Seccional de Minas Gerais.",
+                "letter": "B",
+                "pmi": [
+                    -0.07206935911873538,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true
+            },
+            {
+                "text": "cabe recurso ao Conselho Federal, se a decis\u00e3o contrariar tamb\u00e9m decis\u00e3o do Conselho Federal, e n\u00e3o apenas decis\u00e3o do Conselho Seccional de Minas Gerais.",
+                "letter": "C",
+                "pmi": [
+                    -0.052414079359080275,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            },
+            {
+                "text": "cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese, ainda que n\u00e3o existisse decis\u00e3o em sentido contr\u00e1rio do Conselho Seccional de Minas Gerais.",
+                "letter": "D",
+                "pmi": [
+                    -0.052414079359080275,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null
+            }
+        ]
+    }
+]

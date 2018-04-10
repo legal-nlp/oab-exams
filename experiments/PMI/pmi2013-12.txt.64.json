@@ -1,1 +1,57 @@
-[{"areas": ["CRIMINAL"], "enum": "Br\u00e1ulio, rapaz de 18 anos, conhece Paula em um show de rock, em uma casa noturna. Os dois, ap\u00f3s conversarem um pouco, resolvem dirigir-se a um motel e ali, de forma consentida, o jovem mant\u00e9m rela\u00e7\u00f5es sexuais com Paula. Ap\u00f3s, Br\u00e1ulio descobre que a mo\u00e7a, na verdade, tinha apenas 13 anos e que somente conseguira entrar no show mediante apresenta\u00e7\u00e3o de carteira de identidade falsa.\n\n A partir da situa\u00e7\u00e3o narrada, assinale a afirmativa correta.", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "Br\u00e1ulio deve responder por estupro de vulner\u00e1vel doloso.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B", "text": "Br\u00e1ulio deve responder por estupro de vulner\u00e1vel culposo.", "correct": null}, {"pmi": [-0.011303620701463606, 0.0, 0.0, 0.0], "letter": "C", "text": "Br\u00e1ulio n\u00e3o praticou crime, pois agiu em hip\u00f3tese de erro de tipo essencial.", "correct": true}, {"pmi": [-0.009890668113780655, 0.0, 0.0, 0.0], "letter": "D", "text": "Br\u00e1ulio n\u00e3o praticou crime, pois agiu em hip\u00f3tese de erro de proibi\u00e7\u00e3o direto.", "correct": null}], "number": "64", "valid": true, "filename": "2013-12.txt"}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Br\u00e1ulio, rapaz de 18 anos, conhece Paula em um show de rock, em uma casa noturna. Os dois, ap\u00f3s conversarem um pouco, resolvem dirigir-se a um motel e ali, de forma consentida, o jovem mant\u00e9m rela\u00e7\u00f5es sexuais com Paula. Ap\u00f3s, Br\u00e1ulio descobre que a mo\u00e7a, na verdade, tinha apenas 13 anos e que somente conseguira entrar no show mediante apresenta\u00e7\u00e3o de carteira de identidade falsa.\n\n A partir da situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Br\u00e1ulio deve responder por estupro de vulner\u00e1vel doloso.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Br\u00e1ulio deve responder por estupro de vulner\u00e1vel culposo.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.011303620701463606,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Br\u00e1ulio n\u00e3o praticou crime, pois agiu em hip\u00f3tese de erro de tipo essencial.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.009890668113780655,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Br\u00e1ulio n\u00e3o praticou crime, pois agiu em hip\u00f3tese de erro de proibi\u00e7\u00e3o direto.",
+                "correct": null
+            }
+        ],
+        "number": "64",
+        "valid": true,
+        "filename": "2013-12.txt"
+    }
+]

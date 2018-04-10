@@ -1,1 +1,57 @@
-[{"enum": "Jo\u00e3o era propriet\u00e1rio de uma padaria em uma rua movimentada do centro da cidade. Em raz\u00e3o de obras municipais, a referida rua foi interditada para ve\u00edculos e pedestres. Por conta disso, dada a aus\u00eancia de movimento, Jo\u00e3o foi obrigado a extinguir seu estabelecimento comercial, implicando a paralisa\u00e7\u00e3o definitiva do trabalho.  Acerca da indeniza\u00e7\u00e3o dos empregados pela extin\u00e7\u00e3o da empresa, \u00e0 luz da CLT, assinale a afirmativa correta.", "options": [{"pmi": [-0.011019510428952394, 0.0, 0.0, 0.0], "letter": "A", "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pelo Munic\u00edpio.", "correct": true}, {"pmi": [-0.10430385792107838, 0.0, 0.0, 0.0], "letter": "B", "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pela Uni\u00e3o.", "correct": null}, {"pmi": [-0.013011776828323818, 0.0, 0.0, 0.0], "letter": "C", "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pelo empregador, sem possibilidade de ressarcimento.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "text": "Tratando-se de motivo de for\u00e7a maior, n\u00e3o h\u00e1 pagamento de indeniza\u00e7\u00e3o.", "correct": null}], "valid": true, "areas": [null], "number": "75", "filename": "2017-23.txt"}]
+[
+    {
+        "enum": "Jo\u00e3o era propriet\u00e1rio de uma padaria em uma rua movimentada do centro da cidade. Em raz\u00e3o de obras municipais, a referida rua foi interditada para ve\u00edculos e pedestres. Por conta disso, dada a aus\u00eancia de movimento, Jo\u00e3o foi obrigado a extinguir seu estabelecimento comercial, implicando a paralisa\u00e7\u00e3o definitiva do trabalho.  Acerca da indeniza\u00e7\u00e3o dos empregados pela extin\u00e7\u00e3o da empresa, \u00e0 luz da CLT, assinale a afirmativa correta.",
+        "options": [
+            {
+                "pmi": [
+                    -0.011019510428952394,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pelo Munic\u00edpio.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    -0.10430385792107838,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pela Uni\u00e3o.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.013011776828323818,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Caber\u00e1 indeniza\u00e7\u00e3o ao empregado, a ser paga pelo empregador, sem possibilidade de ressarcimento.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "Tratando-se de motivo de for\u00e7a maior, n\u00e3o h\u00e1 pagamento de indeniza\u00e7\u00e3o.",
+                "correct": null
+            }
+        ],
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "number": "75",
+        "filename": "2017-23.txt"
+    }
+]

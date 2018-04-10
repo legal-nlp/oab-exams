@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "O Estado X publicou edital de concurso p\u00fablico de provas e t\u00edtulos para o cargo de analista administrativo. O edital prev\u00ea a realiza\u00e7\u00e3o de uma primeira fase, com quest\u00f5es objetivas, e de uma segunda fase com quest\u00f5es discursivas, e que os 100 (cem) candidatos mais bem classificados na primeira fase avan\u00e7ariam para a realiza\u00e7\u00e3o da segunda fase. No entanto, ap\u00f3s a divulga\u00e7\u00e3o dos resultados da primeira fase, \u00e9 publicado um edital complementar estabelecendo que os 200 (duzentos) candidatos mais bem classificados avan\u00e7ariam \u00e0 segunda fase e prevendo uma nova forma de composi\u00e7\u00e3o da pontua\u00e7\u00e3o global.\n\n Nesse caso,", "filename": "2015-17.txt", "number": "32", "options": [{"correct": true, "letter": "A", "text": "a altera\u00e7\u00e3o n\u00e3o \u00e9 v\u00e1lida, por ofensa ao princ\u00edpio da impessoalidade, advindo da ado\u00e7\u00e3o de novos crit\u00e9rios de pontua\u00e7\u00e3o e da amplia\u00e7\u00e3o do n\u00famero de candidatos na segunda fase."}, {"correct": null, "letter": "B", "text": "a altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois a aprova\u00e7\u00e3o de mais candidatos na primeira fase n\u00e3o gera preju\u00edzo aos candidatos e ainda permite que mais interessados realizem a prova de segunda fase."}, {"correct": null, "letter": "C", "text": "a altera\u00e7\u00e3o n\u00e3o \u00e9 v\u00e1lida, porque o edital de um concurso p\u00fablico n\u00e3o pode conter cl\u00e1usulas amb\u00edguas."}, {"correct": null, "letter": "D", "text": "a altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois foi observada a exig\u00eancia de provimento dos cargos mediante concurso p\u00fablico de provas e t\u00edtulos."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "O Estado X publicou edital de concurso p\u00fablico de provas e t\u00edtulos para o cargo de analista administrativo. O edital prev\u00ea a realiza\u00e7\u00e3o de uma primeira fase, com quest\u00f5es objetivas, e de uma segunda fase com quest\u00f5es discursivas, e que os 100 (cem) candidatos mais bem classificados na primeira fase avan\u00e7ariam para a realiza\u00e7\u00e3o da segunda fase. No entanto, ap\u00f3s a divulga\u00e7\u00e3o dos resultados da primeira fase, \u00e9 publicado um edital complementar estabelecendo que os 200 (duzentos) candidatos mais bem classificados avan\u00e7ariam \u00e0 segunda fase e prevendo uma nova forma de composi\u00e7\u00e3o da pontua\u00e7\u00e3o global.\n\n Nesse caso,",
+        "filename": "2015-17.txt",
+        "number": "32",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "a altera\u00e7\u00e3o n\u00e3o \u00e9 v\u00e1lida, por ofensa ao princ\u00edpio da impessoalidade, advindo da ado\u00e7\u00e3o de novos crit\u00e9rios de pontua\u00e7\u00e3o e da amplia\u00e7\u00e3o do n\u00famero de candidatos na segunda fase."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois a aprova\u00e7\u00e3o de mais candidatos na primeira fase n\u00e3o gera preju\u00edzo aos candidatos e ainda permite que mais interessados realizem a prova de segunda fase."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "a altera\u00e7\u00e3o n\u00e3o \u00e9 v\u00e1lida, porque o edital de um concurso p\u00fablico n\u00e3o pode conter cl\u00e1usulas amb\u00edguas."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a altera\u00e7\u00e3o \u00e9 v\u00e1lida, pois foi observada a exig\u00eancia de provimento dos cargos mediante concurso p\u00fablico de provas e t\u00edtulos."
+            }
+        ],
+        "valid": true
+    }
+]

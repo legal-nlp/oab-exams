@@ -1,1 +1,57 @@
-[{"enum": "Assinale a op\u00e7\u00e3o correta no que diz respeito aos embargos \u00e0 execu\u00e7\u00e3o.", "valid": true, "number": "47", "filename": "2010-01.txt", "areas": ["CIVIL-PROCEDURE"], "options": [{"letter": "A", "text": "No prazo para embargos, reconhecido o cr\u00e9dito do exequente e comprovado o dep\u00f3sito de 30% do valor em execu\u00e7\u00e3o, incluindo-se custas e honor\u00e1rios de advogado, deve o juiz parcelar o referido valor em seis parcelas mensais, acrescidas apenas de corre\u00e7\u00e3o monet\u00e1ria.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Pode o executado, no prazo de cinco dias, contados da adjudica\u00e7\u00e3o, aliena\u00e7\u00e3o ou arremata\u00e7\u00e3o, oferecer embargos fundados em nulidade da execu\u00e7\u00e3o, ou em causa extintiva da obriga\u00e7\u00e3o, desde que superveniente \u00e0 penhora.", "correct": true, "pmi": [-0.04893901463916698, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Sendo v\u00e1rios os executados, o prazo para oposi\u00e7\u00e3o de embargos \u00e9 comum a todos eles.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "O efeito suspensivo concedido em favor de apenas um dos executados a todos aproveita, raz\u00e3o por que a execu\u00e7\u00e3o deve ficar suspensa.", "correct": null, "pmi": [-0.04045230687291533, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "enum": "Assinale a op\u00e7\u00e3o correta no que diz respeito aos embargos \u00e0 execu\u00e7\u00e3o.",
+        "valid": true,
+        "number": "47",
+        "filename": "2010-01.txt",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "letter": "A",
+                "text": "No prazo para embargos, reconhecido o cr\u00e9dito do exequente e comprovado o dep\u00f3sito de 30% do valor em execu\u00e7\u00e3o, incluindo-se custas e honor\u00e1rios de advogado, deve o juiz parcelar o referido valor em seis parcelas mensais, acrescidas apenas de corre\u00e7\u00e3o monet\u00e1ria.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Pode o executado, no prazo de cinco dias, contados da adjudica\u00e7\u00e3o, aliena\u00e7\u00e3o ou arremata\u00e7\u00e3o, oferecer embargos fundados em nulidade da execu\u00e7\u00e3o, ou em causa extintiva da obriga\u00e7\u00e3o, desde que superveniente \u00e0 penhora.",
+                "correct": true,
+                "pmi": [
+                    -0.04893901463916698,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Sendo v\u00e1rios os executados, o prazo para oposi\u00e7\u00e3o de embargos \u00e9 comum a todos eles.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "O efeito suspensivo concedido em favor de apenas um dos executados a todos aproveita, raz\u00e3o por que a execu\u00e7\u00e3o deve ficar suspensa.",
+                "correct": null,
+                "pmi": [
+                    -0.04045230687291533,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

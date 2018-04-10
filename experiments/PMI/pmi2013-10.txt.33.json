@@ -1,1 +1,57 @@
-[{"areas": ["ADMINISTRATIVE"], "valid": true, "options": [{"letter": "A", "pmi": [0.0, 0, 0, 0], "correct": null, "text": "Falecimento."}, {"letter": "B", "pmi": [0.0, 0, 0, 0], "correct": null, "text": "Promo\u00e7\u00e3o."}, {"letter": "C", "pmi": [-0.7129283016944966, 0, 0, 0], "correct": null, "text": "Aposentadoria."}, {"letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "Licen\u00e7a para trato de interesse particular."}], "number": "33", "enum": "As alternativas a seguir apresentam condi\u00e7\u00f5es que geram vac\u00e2ncia de cargo p\u00fablico, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.", "filename": "2013-10.txt"}]
+[
+    {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "correct": null,
+                "text": "Falecimento."
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "correct": null,
+                "text": "Promo\u00e7\u00e3o."
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    -0.7129283016944966,
+                    0,
+                    0,
+                    0
+                ],
+                "correct": null,
+                "text": "Aposentadoria."
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Licen\u00e7a para trato de interesse particular."
+            }
+        ],
+        "number": "33",
+        "enum": "As alternativas a seguir apresentam condi\u00e7\u00f5es que geram vac\u00e2ncia de cargo p\u00fablico, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.",
+        "filename": "2013-10.txt"
+    }
+]

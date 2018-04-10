@@ -1,1 +1,57 @@
-[{"enum": "Jo\u00e3o postulou, por meio de representa\u00e7\u00e3o de advogado, a\u00e7\u00e3o condenat\u00f3ria em face da sociedade Cacos e Cacos Ltda., obtendo senten\u00e7a favor\u00e1vel, condenando a r\u00e9 ao pagamento da quantia de R$ 100.000,00 (cem mil reais), acrescida de R$ 15.000,00 (quinze mil reais) de honor\u00e1rios advocat\u00edcios. Ap\u00f3s o tr\u00e2nsito em julgado da decis\u00e3o judicial, Jo\u00e3o e seu advogado Pedro s\u00e3o cientificados de que a sociedade est\u00e1 falida, devendo os seus cr\u00e9ditos sofrer procedimento de habilita\u00e7\u00e3o.\n\n Nesse caso, a natureza dos cr\u00e9ditos correspondentes a honor\u00e1rios advocat\u00edcios, nos termos do Estatuto, \u00e9 considerada como", "options": [{"letter": "A", "correct": null, "text": "quirograf\u00e1ria.", "pmi": [0.0, 0, 0, 0]}, {"letter": "B", "correct": null, "text": "real.", "pmi": [-0.7420605407506328, 0, 0, 0]}, {"letter": "C", "correct": true, "text": "privilegiada.", "pmi": [0.0, 0, 0, 0]}, {"letter": "D", "correct": null, "text": "natural.", "pmi": [0.0, 0, 0, 0]}], "areas": ["ETHICS"], "number": "6", "valid": true, "filename": "2012-08.txt"}]
+[
+    {
+        "enum": "Jo\u00e3o postulou, por meio de representa\u00e7\u00e3o de advogado, a\u00e7\u00e3o condenat\u00f3ria em face da sociedade Cacos e Cacos Ltda., obtendo senten\u00e7a favor\u00e1vel, condenando a r\u00e9 ao pagamento da quantia de R$ 100.000,00 (cem mil reais), acrescida de R$ 15.000,00 (quinze mil reais) de honor\u00e1rios advocat\u00edcios. Ap\u00f3s o tr\u00e2nsito em julgado da decis\u00e3o judicial, Jo\u00e3o e seu advogado Pedro s\u00e3o cientificados de que a sociedade est\u00e1 falida, devendo os seus cr\u00e9ditos sofrer procedimento de habilita\u00e7\u00e3o.\n\n Nesse caso, a natureza dos cr\u00e9ditos correspondentes a honor\u00e1rios advocat\u00edcios, nos termos do Estatuto, \u00e9 considerada como",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "quirograf\u00e1ria.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "real.",
+                "pmi": [
+                    -0.7420605407506328,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "privilegiada.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "natural.",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "number": "6",
+        "valid": true,
+        "filename": "2012-08.txt"
+    }
+]

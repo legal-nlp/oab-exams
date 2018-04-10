@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "\u201cToda pessoa que se acha no exerc\u00edcio dos seus direitos tem capacidade para estar em ju\u00edzo\u201d, estabelece o C\u00f3digo de Processo Civil, e os incapazes ser\u00e3o assistidos ou representados por seus pais, tutores ou curadores.\n\n A respeito do tema est\u00e3o corretas as afirmativas a seguir, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.", "filename": "2013-11.txt", "number": "57", "options": [{"correct": null, "letter": "A", "text": "O curador especial, nomeado em caso de executado citado com hora certa revel, tem legitimidade para opor embargos \u00e0 execu\u00e7\u00e3o."}, {"correct": null, "letter": "B", "text": "Ao curador especial n\u00e3o se aplica o \u00f4nus da impugna\u00e7\u00e3o especificada dos fatos articulados pelo autor."}, {"correct": true, "letter": "C", "text": "O juiz dar\u00e1 curador especial ao r\u00e9u revel citado por edital, mas n\u00e3o \u00e0quele citado com hora certa."}, {"correct": null, "letter": "D", "text": "O juiz dar\u00e1 curador especial ao incapaz, ainda que tenha representante legal, quando houver colis\u00e3o de interesses entre este e o representado."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "\u201cToda pessoa que se acha no exerc\u00edcio dos seus direitos tem capacidade para estar em ju\u00edzo\u201d, estabelece o C\u00f3digo de Processo Civil, e os incapazes ser\u00e3o assistidos ou representados por seus pais, tutores ou curadores.\n\n A respeito do tema est\u00e3o corretas as afirmativas a seguir, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.",
+        "filename": "2013-11.txt",
+        "number": "57",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "O curador especial, nomeado em caso de executado citado com hora certa revel, tem legitimidade para opor embargos \u00e0 execu\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Ao curador especial n\u00e3o se aplica o \u00f4nus da impugna\u00e7\u00e3o especificada dos fatos articulados pelo autor."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "O juiz dar\u00e1 curador especial ao r\u00e9u revel citado por edital, mas n\u00e3o \u00e0quele citado com hora certa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O juiz dar\u00e1 curador especial ao incapaz, ainda que tenha representante legal, quando houver colis\u00e3o de interesses entre este e o representado."
+            }
+        ],
+        "valid": true
+    }
+]

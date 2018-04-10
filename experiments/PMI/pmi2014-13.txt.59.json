@@ -1,1 +1,57 @@
-[{"valid": true, "areas": ["CRIMINAL"], "enum": "Paulo tinha inveja da prosperidade de Gustavo e, certo dia, resolveu quebrar o carro que este \u00faltimo havia acabado de comprar. Para tanto, assim que Gustavo estacionou o ve\u00edculo e dele saiu, Paulo, munido de uma barra de ferro, foi correndo em dire\u00e7\u00e3o ao bem para danific\u00e1-lo. Ao ver a cena, Gustavo colocou-se \u00e0 frente do carro e acabou sendo atingido por um golpe da barra de ferro, vindo a falecer em decorr\u00eancia de traumatismo craniano derivado da pancada. Sabe-se que Paulo n\u00e3o tinha a inten\u00e7\u00e3o de matar Gustavo e que este somente recebeu o golpe porque se colocou \u00e0 frente do carro quando Paulo j\u00e1 estava com a barra de ferro no ar, em r\u00e1pido movimento para atingir o ve\u00edculo, que ficou intacto.\n\n Com base no caso relatado, assinale a afirmativa correta.", "number": "59", "options": [{"correct": null, "text": "Paulo responder\u00e1 por tentativa de dano em concurso formal com homic\u00eddio culposo.", "pmi": [-0.01644074934786889, 0.0, 0.0, 0.0], "letter": "A"}, {"correct": null, "text": "Paulo responder\u00e1 por homic\u00eddio doloso, tendo agido com dolo eventual.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "B"}, {"correct": true, "text": "Paulo responder\u00e1 por homic\u00eddio culposo.", "pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C"}, {"correct": null, "text": "Paulo responder\u00e1 por tentativa de dano em concurso material com homic\u00eddio culposo.", "pmi": [-0.01644074934786889, 0.0, 0.0, 0.0], "letter": "D"}], "filename": "2014-13.txt"}]
+[
+    {
+        "valid": true,
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Paulo tinha inveja da prosperidade de Gustavo e, certo dia, resolveu quebrar o carro que este \u00faltimo havia acabado de comprar. Para tanto, assim que Gustavo estacionou o ve\u00edculo e dele saiu, Paulo, munido de uma barra de ferro, foi correndo em dire\u00e7\u00e3o ao bem para danific\u00e1-lo. Ao ver a cena, Gustavo colocou-se \u00e0 frente do carro e acabou sendo atingido por um golpe da barra de ferro, vindo a falecer em decorr\u00eancia de traumatismo craniano derivado da pancada. Sabe-se que Paulo n\u00e3o tinha a inten\u00e7\u00e3o de matar Gustavo e que este somente recebeu o golpe porque se colocou \u00e0 frente do carro quando Paulo j\u00e1 estava com a barra de ferro no ar, em r\u00e1pido movimento para atingir o ve\u00edculo, que ficou intacto.\n\n Com base no caso relatado, assinale a afirmativa correta.",
+        "number": "59",
+        "options": [
+            {
+                "correct": null,
+                "text": "Paulo responder\u00e1 por tentativa de dano em concurso formal com homic\u00eddio culposo.",
+                "pmi": [
+                    -0.01644074934786889,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A"
+            },
+            {
+                "correct": null,
+                "text": "Paulo responder\u00e1 por homic\u00eddio doloso, tendo agido com dolo eventual.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B"
+            },
+            {
+                "correct": true,
+                "text": "Paulo responder\u00e1 por homic\u00eddio culposo.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "text": "Paulo responder\u00e1 por tentativa de dano em concurso material com homic\u00eddio culposo.",
+                "pmi": [
+                    -0.01644074934786889,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D"
+            }
+        ],
+        "filename": "2014-13.txt"
+    }
+]

@@ -1,1 +1,57 @@
-[{"options": [{"text": "extinta sem resolu\u00e7\u00e3o do m\u00e9rito, por ferir a coisa julgada.", "correct": null, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "extinta sem resolu\u00e7\u00e3o do m\u00e9rito, em raz\u00e3o da litispend\u00eancia.", "correct": null, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "distribu\u00edda por depend\u00eancia.", "correct": true, "letter": "C", "pmi": [-0.05083733367789583, 0.0, 0, 0]}, {"text": "submetida \u00e0 livre distribui\u00e7\u00e3o, pois se trata de nova demanda.", "correct": null, "letter": "D", "pmi": [-0.07942685000789679, 0.0, 0.0, 0.0]}], "areas": [null], "valid": true, "number": "57", "enum": "Roberta ingressou com a\u00e7\u00e3o de repara\u00e7\u00e3o de danos em face de Carlos Daniel, cirurgi\u00e3o pl\u00e1stico, devido \u00e0 sua insatisfa\u00e7\u00e3o com o resultado do procedimento est\u00e9tico por ele realizado.  Antes da cita\u00e7\u00e3o do r\u00e9u, Roberta, j\u00e1 acostumada com sua nova fei\u00e7\u00e3o e considerando a opini\u00e3o dos seus amigos (de que estaria mais bonita), troca de ideia e desiste da demanda proposta. A desist\u00eancia foi homologada em ju\u00edzo por senten\u00e7a. Ap\u00f3s seis meses, quando da total recupera\u00e7\u00e3o da cirurgia, Roberta percebeu que o resultado ficara completamente diferente do prometido, raz\u00e3o pela qual resolve ingressar novamente com a demanda.\n\n A demanda de Roberta dever\u00e1 ser", "filename": "2017-23.txt"}]
+[
+    {
+        "options": [
+            {
+                "text": "extinta sem resolu\u00e7\u00e3o do m\u00e9rito, por ferir a coisa julgada.",
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "extinta sem resolu\u00e7\u00e3o do m\u00e9rito, em raz\u00e3o da litispend\u00eancia.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "distribu\u00edda por depend\u00eancia.",
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.05083733367789583,
+                    0.0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "text": "submetida \u00e0 livre distribui\u00e7\u00e3o, pois se trata de nova demanda.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.07942685000789679,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "number": "57",
+        "enum": "Roberta ingressou com a\u00e7\u00e3o de repara\u00e7\u00e3o de danos em face de Carlos Daniel, cirurgi\u00e3o pl\u00e1stico, devido \u00e0 sua insatisfa\u00e7\u00e3o com o resultado do procedimento est\u00e9tico por ele realizado.  Antes da cita\u00e7\u00e3o do r\u00e9u, Roberta, j\u00e1 acostumada com sua nova fei\u00e7\u00e3o e considerando a opini\u00e3o dos seus amigos (de que estaria mais bonita), troca de ideia e desiste da demanda proposta. A desist\u00eancia foi homologada em ju\u00edzo por senten\u00e7a. Ap\u00f3s seis meses, quando da total recupera\u00e7\u00e3o da cirurgia, Roberta percebeu que o resultado ficara completamente diferente do prometido, raz\u00e3o pela qual resolve ingressar novamente com a demanda.\n\n A demanda de Roberta dever\u00e1 ser",
+        "filename": "2017-23.txt"
+    }
+]

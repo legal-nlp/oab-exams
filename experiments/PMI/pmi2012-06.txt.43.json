@@ -1,1 +1,57 @@
-[{"filename": "2012-06.txt", "enum": "A respeito dos atos e responsabilidades das partes e dos procuradores, de acordo com o C\u00f3digo de Processo Civil, assinale a alternativa correta.", "options": [{"correct": true, "letter": "A", "pmi": [-0.09525313365391683, 0.0, 0.0, 0.0], "text": "\u00c9 defeso ao autor intentar novamente a a\u00e7\u00e3o que, a requerimento do r\u00e9u, foi extinta sem resolu\u00e7\u00e3o do m\u00e9rito por abandono da causa por mais de trinta dias, se n\u00e3o pagar ou depositar em cart\u00f3rio as despesas e honor\u00e1rios a que foi condenado."}, {"correct": null, "letter": "B", "pmi": [-0.011955499393365475, 0.0, 0.0, 0.0], "text": "O prazo para interposi\u00e7\u00e3o de recurso ser\u00e1 contato da data em que os advogados s\u00e3o intimados da decis\u00e3o, da senten\u00e7a ou do ac\u00f3rd\u00e3o, sendo vedada a intima\u00e7\u00e3o em audi\u00eancia, ainda que nessa seja publicada a senten\u00e7a ou a decis\u00e3o."}, {"correct": null, "letter": "C", "pmi": [-0.07368104432998533, 0.0, 0.0, 0.0], "text": "A argui\u00e7\u00e3o de incompet\u00eancia absoluta de ju\u00edzo dever\u00e1 ser alegada pela parte em preliminar de contesta\u00e7\u00e3o ou por meio de exce\u00e7\u00e3o no prazo de resposta do r\u00e9u, sob pena de prorroga\u00e7\u00e3o de compet\u00eancia. Em sendo aquela declarada, somente os atos decis\u00f3rios ser\u00e3o nulos."}, {"correct": null, "letter": "D", "pmi": [-0.026072449344552714, 0.0, 0.0, 0.0], "text": "Aquele que detenha a coisa em nome alheio, demandado em nome pr\u00f3prio, dever\u00e1 nomear \u00e0 autoria o propriet\u00e1rio ou possuidor. Instado a se manifestar, caso o autor se mantenha inerte, findo o prazo legal, presume-se que a nomea\u00e7\u00e3o \u00e0 autoria n\u00e3o foi aceita."}], "valid": true, "areas": ["CIVIL-PROCEDURE"], "number": "43"}]
+[
+    {
+        "filename": "2012-06.txt",
+        "enum": "A respeito dos atos e responsabilidades das partes e dos procuradores, de acordo com o C\u00f3digo de Processo Civil, assinale a alternativa correta.",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    -0.09525313365391683,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 defeso ao autor intentar novamente a a\u00e7\u00e3o que, a requerimento do r\u00e9u, foi extinta sem resolu\u00e7\u00e3o do m\u00e9rito por abandono da causa por mais de trinta dias, se n\u00e3o pagar ou depositar em cart\u00f3rio as despesas e honor\u00e1rios a que foi condenado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.011955499393365475,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O prazo para interposi\u00e7\u00e3o de recurso ser\u00e1 contato da data em que os advogados s\u00e3o intimados da decis\u00e3o, da senten\u00e7a ou do ac\u00f3rd\u00e3o, sendo vedada a intima\u00e7\u00e3o em audi\u00eancia, ainda que nessa seja publicada a senten\u00e7a ou a decis\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.07368104432998533,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A argui\u00e7\u00e3o de incompet\u00eancia absoluta de ju\u00edzo dever\u00e1 ser alegada pela parte em preliminar de contesta\u00e7\u00e3o ou por meio de exce\u00e7\u00e3o no prazo de resposta do r\u00e9u, sob pena de prorroga\u00e7\u00e3o de compet\u00eancia. Em sendo aquela declarada, somente os atos decis\u00f3rios ser\u00e3o nulos."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.026072449344552714,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Aquele que detenha a coisa em nome alheio, demandado em nome pr\u00f3prio, dever\u00e1 nomear \u00e0 autoria o propriet\u00e1rio ou possuidor. Instado a se manifestar, caso o autor se mantenha inerte, findo o prazo legal, presume-se que a nomea\u00e7\u00e3o \u00e0 autoria n\u00e3o foi aceita."
+            }
+        ],
+        "valid": true,
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "number": "43"
+    }
+]

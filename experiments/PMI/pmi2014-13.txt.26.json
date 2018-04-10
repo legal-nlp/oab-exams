@@ -1,1 +1,57 @@
-[{"filename": "2014-13.txt", "options": [{"correct": null, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "constitucional, sendo poss\u00edvel sua cobran\u00e7a com base nas regras constitucionais em vigor."}, {"correct": null, "letter": "B", "pmi": [-0.48850118013717614, 0.0, 0.0, 0.0], "text": "inconstitucional, por ser o referido tributo de compet\u00eancia tribut\u00e1ria da Uni\u00e3o Federal."}, {"correct": true, "letter": "C", "pmi": [-0.3760619966670604, 0.0, 0.0, 0.0], "text": "inconstitucional, por ser o referido tributo de compet\u00eancia do Distrito Federal e dos Munic\u00edpios."}, {"correct": null, "letter": "D", "pmi": [-0.43355723666891993, 0.0, 0.0, 0.0], "text": "inconstitucional, visto que somente lei complementar poder\u00e1 instituir o referido tributo."}], "areas": ["TAXES"], "valid": true, "number": "26", "enum": "Determinado Estado, localizado na Regi\u00e3o Norte do pa\u00eds, instituiu, mediante lei espec\u00edfica, a contribui\u00e7\u00e3o para o custeio do servi\u00e7o de ilumina\u00e7\u00e3o p\u00fablica. Nessa linha, com base na compet\u00eancia tribut\u00e1ria prevista nas normas constitucionais em vigor, tal contribui\u00e7\u00e3o institu\u00edda pelo respectivo estado-membro da Federa\u00e7\u00e3o \u00e9"}]
+[
+    {
+        "filename": "2014-13.txt",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "constitucional, sendo poss\u00edvel sua cobran\u00e7a com base nas regras constitucionais em vigor."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.48850118013717614,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia tribut\u00e1ria da Uni\u00e3o Federal."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.3760619966670604,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia do Distrito Federal e dos Munic\u00edpios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.43355723666891993,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "inconstitucional, visto que somente lei complementar poder\u00e1 instituir o referido tributo."
+            }
+        ],
+        "areas": [
+            "TAXES"
+        ],
+        "valid": true,
+        "number": "26",
+        "enum": "Determinado Estado, localizado na Regi\u00e3o Norte do pa\u00eds, instituiu, mediante lei espec\u00edfica, a contribui\u00e7\u00e3o para o custeio do servi\u00e7o de ilumina\u00e7\u00e3o p\u00fablica. Nessa linha, com base na compet\u00eancia tribut\u00e1ria prevista nas normas constitucionais em vigor, tal contribui\u00e7\u00e3o institu\u00edda pelo respectivo estado-membro da Federa\u00e7\u00e3o \u00e9"
+    }
+]

@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL-PROCEDURE"], "options": [{"text": "Se o v\u00edcio se referir ao autor, deve o juiz aplicar-lhe multa por litig\u00e2ncia de m\u00e1-f\u00e9.", "pmi": [-0.033826537189264726, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "Se o v\u00edcio se referir ao autor, deve o juiz proferir o julgamento antecipado da lide.", "pmi": [-0.057059236513514335, 0.0, 0.0, 0.0], "letter": "B", "correct": null}, {"text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz reput\u00e1-lo revel.", "pmi": [-0.028838420450437805, 0.0, 0.0, 0.0], "letter": "C", "correct": true}, {"text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz julgar a causa em seu desfavor.", "pmi": [-0.028838420450437805, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "filename": "2010-02.txt", "number": "31", "enum": "A capacidade \u00e9 um dos pressupostos processuais. Caso o juiz verifique que uma das partes \u00e9 incapaz ou h\u00e1 irregularidade em sua representa\u00e7\u00e3o, dever\u00e1 suspender o processo e marcar prazo razo\u00e1vel para que o defeito seja sanado.\n\n Assinale a alternativa que indique a provid\u00eancia correta a ser tomada pelo magistrado, na hip\u00f3tese de persist\u00eancia do v\u00edcio.", "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "options": [
+            {
+                "text": "Se o v\u00edcio se referir ao autor, deve o juiz aplicar-lhe multa por litig\u00e2ncia de m\u00e1-f\u00e9.",
+                "pmi": [
+                    -0.033826537189264726,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "Se o v\u00edcio se referir ao autor, deve o juiz proferir o julgamento antecipado da lide.",
+                "pmi": [
+                    -0.057059236513514335,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz reput\u00e1-lo revel.",
+                "pmi": [
+                    -0.028838420450437805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": true
+            },
+            {
+                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz julgar a causa em seu desfavor.",
+                "pmi": [
+                    -0.028838420450437805,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "filename": "2010-02.txt",
+        "number": "31",
+        "enum": "A capacidade \u00e9 um dos pressupostos processuais. Caso o juiz verifique que uma das partes \u00e9 incapaz ou h\u00e1 irregularidade em sua representa\u00e7\u00e3o, dever\u00e1 suspender o processo e marcar prazo razo\u00e1vel para que o defeito seja sanado.\n\n Assinale a alternativa que indique a provid\u00eancia correta a ser tomada pelo magistrado, na hip\u00f3tese de persist\u00eancia do v\u00edcio.",
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "text": "Ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, na medida em que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio simples. A senten\u00e7a proferida contra Nivaldo ser\u00e1 ineficaz em rela\u00e7\u00e3o a Amanda.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "N\u00e3o ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, uma vez que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio necess\u00e1rio. Caso a a\u00e7\u00e3o n\u00e3o seja ajuizada em face de Amanda, o juiz dever\u00e1 determinar que seja requerida sua cita\u00e7\u00e3o, sob pena de extin\u00e7\u00e3o do processo.", "correct": true, "pmi": [-0.012280497446434134, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, na medida em que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio facultativo. A senten\u00e7a proferida contra Nivaldo ser\u00e1 eficaz em rela\u00e7\u00e3o a Amanda, pois entre eles h\u00e1 comunh\u00e3o de direitos ou de obriga\u00e7\u00f5es.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "N\u00e3o ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, uma vez que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio simples. A senten\u00e7a proferida contra Nivaldo ser\u00e1 ineficaz.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "54", "valid": true, "filename": "2017-22.txt", "enum": "Ant\u00f4nia contratou os arquitetos Nivaldo e Amanda para realizar o projeto de reforma de seu apartamento. No contrato celebrado entre os tr\u00eas, foi fixado o prazo de trinta dias para a presta\u00e7\u00e3o do servi\u00e7o de arquitetura, o que n\u00e3o foi cumprido, embora tenha sido feito o pagamento dos valores devidos pela contratante.  Com o objetivo de rescindir o contrato celebrado e ser ressarcida do montante pago, Ant\u00f4nia procura um advogado, mas lhe informa que n\u00e3o gostaria de processar Amanda, por serem amigas de inf\u00e2ncia.\n\n Sobre a hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que indica o procedimento correto a ser adotado.", "areas": [null]}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "text": "Ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, na medida em que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio simples. A senten\u00e7a proferida contra Nivaldo ser\u00e1 ineficaz em rela\u00e7\u00e3o a Amanda.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "N\u00e3o ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, uma vez que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio necess\u00e1rio. Caso a a\u00e7\u00e3o n\u00e3o seja ajuizada em face de Amanda, o juiz dever\u00e1 determinar que seja requerida sua cita\u00e7\u00e3o, sob pena de extin\u00e7\u00e3o do processo.",
+                "correct": true,
+                "pmi": [
+                    -0.012280497446434134,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, na medida em que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio facultativo. A senten\u00e7a proferida contra Nivaldo ser\u00e1 eficaz em rela\u00e7\u00e3o a Amanda, pois entre eles h\u00e1 comunh\u00e3o de direitos ou de obriga\u00e7\u00f5es.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "N\u00e3o ser\u00e1 poss\u00edvel o ajuizamento da a\u00e7\u00e3o unicamente em face de Nivaldo, uma vez que a hip\u00f3tese tratada \u00e9 de litiscons\u00f3rcio simples. A senten\u00e7a proferida contra Nivaldo ser\u00e1 ineficaz.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "54",
+        "valid": true,
+        "filename": "2017-22.txt",
+        "enum": "Ant\u00f4nia contratou os arquitetos Nivaldo e Amanda para realizar o projeto de reforma de seu apartamento. No contrato celebrado entre os tr\u00eas, foi fixado o prazo de trinta dias para a presta\u00e7\u00e3o do servi\u00e7o de arquitetura, o que n\u00e3o foi cumprido, embora tenha sido feito o pagamento dos valores devidos pela contratante.  Com o objetivo de rescindir o contrato celebrado e ser ressarcida do montante pago, Ant\u00f4nia procura um advogado, mas lhe informa que n\u00e3o gostaria de processar Amanda, por serem amigas de inf\u00e2ncia.\n\n Sobre a hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que indica o procedimento correto a ser adotado.",
+        "areas": [
+            null
+        ]
+    }
+]

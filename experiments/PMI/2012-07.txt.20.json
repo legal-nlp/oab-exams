@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "A Constitui\u00e7\u00e3o de 1988 pro\u00edbe qualquer discrimina\u00e7\u00e3o, por lei, entre brasileiros natos e naturalizados, exceto os casos previstos pelo pr\u00f3prio texto constitucional. Nesse sentido, \u00e9 correto afirmar que somente brasileiro nato pode exercer cargo de", "filename": "2012-07.txt", "number": "20", "options": [{"correct": null, "letter": "A", "text": "Ministro do STF ou do STJ."}, {"correct": true, "letter": "B", "text": "Diplomata."}, {"correct": null, "letter": "C", "text": "Ministro da Justi\u00e7a."}, {"correct": null, "letter": "D", "text": "Senador."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "A Constitui\u00e7\u00e3o de 1988 pro\u00edbe qualquer discrimina\u00e7\u00e3o, por lei, entre brasileiros natos e naturalizados, exceto os casos previstos pelo pr\u00f3prio texto constitucional. Nesse sentido, \u00e9 correto afirmar que somente brasileiro nato pode exercer cargo de",
+        "filename": "2012-07.txt",
+        "number": "20",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Ministro do STF ou do STJ."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Diplomata."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Ministro da Justi\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Senador."
+            }
+        ],
+        "valid": true
+    }
+]

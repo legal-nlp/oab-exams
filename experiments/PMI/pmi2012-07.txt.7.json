@@ -1,1 +1,57 @@
-[{"enum": "T\u00edcio \u00e9 advogado prestando servi\u00e7os \u00e0 Junta Comercial do Estado Y. Exerce a atividade concomitantemente em escrit\u00f3rio pr\u00f3prio, onde atua em causas civis e empresariais.  Um dos seus clientes postula o seu visto em atos constitutivos de pessoa jur\u00eddica que pretende criar. Diante do narrado, \u00e0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a alternativa correta:", "areas": ["ETHICS"], "number": "7", "valid": true, "options": [{"letter": "A", "text": "Sendo um cliente do escrit\u00f3rio, \u00e9 inerente \u00e0 atividade da advocacia o visto em atos constitutivos de pessoa jur\u00eddica.", "correct": null, "pmi": [-0.08967624623673057, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Ao prestar servi\u00e7os para Junta Comercial, surge impedimento previsto no Regulamento Geral.", "correct": true, "pmi": [-0.012689194512973227, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "A an\u00e1lise do conte\u00fado dos atos constitutivos pode ser realizada pelo advogado tanto no escrit\u00f3rio quanto na Junta Comercial.", "correct": null, "pmi": [-0.03678235061960523, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "A atua\u00e7\u00e3o na Junta Comercial gera impedimento para a\u00e7\u00f5es judiciais, mas n\u00e3o para vistos em atos constitutivos.", "correct": null, "pmi": [-0.05509490433971897, 0.0, 0.0, 0.0]}], "filename": "2012-07.txt"}]
+[
+    {
+        "enum": "T\u00edcio \u00e9 advogado prestando servi\u00e7os \u00e0 Junta Comercial do Estado Y. Exerce a atividade concomitantemente em escrit\u00f3rio pr\u00f3prio, onde atua em causas civis e empresariais.  Um dos seus clientes postula o seu visto em atos constitutivos de pessoa jur\u00eddica que pretende criar. Diante do narrado, \u00e0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a alternativa correta:",
+        "areas": [
+            "ETHICS"
+        ],
+        "number": "7",
+        "valid": true,
+        "options": [
+            {
+                "letter": "A",
+                "text": "Sendo um cliente do escrit\u00f3rio, \u00e9 inerente \u00e0 atividade da advocacia o visto em atos constitutivos de pessoa jur\u00eddica.",
+                "correct": null,
+                "pmi": [
+                    -0.08967624623673057,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Ao prestar servi\u00e7os para Junta Comercial, surge impedimento previsto no Regulamento Geral.",
+                "correct": true,
+                "pmi": [
+                    -0.012689194512973227,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "A an\u00e1lise do conte\u00fado dos atos constitutivos pode ser realizada pelo advogado tanto no escrit\u00f3rio quanto na Junta Comercial.",
+                "correct": null,
+                "pmi": [
+                    -0.03678235061960523,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "A atua\u00e7\u00e3o na Junta Comercial gera impedimento para a\u00e7\u00f5es judiciais, mas n\u00e3o para vistos em atos constitutivos.",
+                "correct": null,
+                "pmi": [
+                    -0.05509490433971897,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "filename": "2012-07.txt"
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2012-06.txt", "areas": ["BUSINESS"], "options": [{"text": "o ju\u00edzo da recupera\u00e7\u00e3o dever\u00e1 oficiar aos ju\u00edzos em que est\u00e3o sendo processadas as reclama\u00e7\u00f5es trabalhistas e as execu\u00e7\u00f5es fiscais para determinar a suspens\u00e3o imediata de tais feitos.", "letter": "A", "correct": null, "pmi": [-0.11177074177777649, 0.0, 0.0, 0.0]}, {"text": "n\u00e3o h\u00e1 qualquer irregularidade no prosseguimento das reclama\u00e7\u00f5es trabalhistas e execu\u00e7\u00f5es fiscais mencionadas no enunciado, pois tais a\u00e7\u00f5es n\u00e3o s\u00e3o suspensas pelo deferimento do processamento da recupera\u00e7\u00e3o judicial.", "letter": "B", "correct": null, "pmi": [-0.12709961304646047, 0.0, 0.0, 0.0]}, {"text": "apenas as execu\u00e7\u00f5es fiscais dever\u00e3o ser suspensas; as reclama\u00e7\u00f5es trabalhistas em fase de conhecimento poder\u00e3o prosseguir at\u00e9 a senten\u00e7a que tornar l\u00edquido o cr\u00e9dito do trabalhador reclamante.", "letter": "C", "correct": null, "pmi": [-0.15612907337876514, 0.0, 0.0, 0.0]}, {"text": "apenas as reclama\u00e7\u00f5es trabalhistas em fase de conhecimento dever\u00e3o ser suspensas; as execu\u00e7\u00f5es fiscais dever\u00e3o prosseguir normalmente.", "letter": "D", "correct": true, "pmi": [-0.1300440357357413, 0.0, 0.0, 0.0]}], "number": "51", "enum": "ABC Ind\u00fastria S.A. \u00e9 uma companhia em crise econ\u00f4mico-financeira, sendo devedora de sal\u00e1rios em atraso a seus empregados, tributos ao governo federal e cr\u00e9ditos a diversos fornecedores decorrentes do fornecimento de mat\u00e9ria-prima. A ABC obteve o deferimento do processamento do seu pedido de recupera\u00e7\u00e3o judicial, e, na decis\u00e3o, o juiz determinou a suspens\u00e3o de todas as a\u00e7\u00f5es e execu\u00e7\u00f5es contra a ABC, na forma do artigo 6\u00b0 da Lei 11.101/2005. N\u00e3o obstante, diversas reclama\u00e7\u00f5es trabalhistas, ainda em fase de conhecimento em curso perante a Justi\u00e7a do Trabalho, e duas execu\u00e7\u00f5es fiscais, em curso perante a Justi\u00e7a Federal, das quais a ABC era r\u00e9, prosseguiram normalmente ap\u00f3s o referido deferimento do processamento de sua recupera\u00e7\u00e3o judicial.\n\n A respeito da situa\u00e7\u00e3o da recupera\u00e7\u00e3o judicial da ABC, \u00e9 correto afirmar que"}]
+[
+    {
+        "valid": true,
+        "filename": "2012-06.txt",
+        "areas": [
+            "BUSINESS"
+        ],
+        "options": [
+            {
+                "text": "o ju\u00edzo da recupera\u00e7\u00e3o dever\u00e1 oficiar aos ju\u00edzos em que est\u00e3o sendo processadas as reclama\u00e7\u00f5es trabalhistas e as execu\u00e7\u00f5es fiscais para determinar a suspens\u00e3o imediata de tais feitos.",
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.11177074177777649,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "n\u00e3o h\u00e1 qualquer irregularidade no prosseguimento das reclama\u00e7\u00f5es trabalhistas e execu\u00e7\u00f5es fiscais mencionadas no enunciado, pois tais a\u00e7\u00f5es n\u00e3o s\u00e3o suspensas pelo deferimento do processamento da recupera\u00e7\u00e3o judicial.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.12709961304646047,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "apenas as execu\u00e7\u00f5es fiscais dever\u00e3o ser suspensas; as reclama\u00e7\u00f5es trabalhistas em fase de conhecimento poder\u00e3o prosseguir at\u00e9 a senten\u00e7a que tornar l\u00edquido o cr\u00e9dito do trabalhador reclamante.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.15612907337876514,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "apenas as reclama\u00e7\u00f5es trabalhistas em fase de conhecimento dever\u00e3o ser suspensas; as execu\u00e7\u00f5es fiscais dever\u00e3o prosseguir normalmente.",
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    -0.1300440357357413,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "51",
+        "enum": "ABC Ind\u00fastria S.A. \u00e9 uma companhia em crise econ\u00f4mico-financeira, sendo devedora de sal\u00e1rios em atraso a seus empregados, tributos ao governo federal e cr\u00e9ditos a diversos fornecedores decorrentes do fornecimento de mat\u00e9ria-prima. A ABC obteve o deferimento do processamento do seu pedido de recupera\u00e7\u00e3o judicial, e, na decis\u00e3o, o juiz determinou a suspens\u00e3o de todas as a\u00e7\u00f5es e execu\u00e7\u00f5es contra a ABC, na forma do artigo 6\u00b0 da Lei 11.101/2005. N\u00e3o obstante, diversas reclama\u00e7\u00f5es trabalhistas, ainda em fase de conhecimento em curso perante a Justi\u00e7a do Trabalho, e duas execu\u00e7\u00f5es fiscais, em curso perante a Justi\u00e7a Federal, das quais a ABC era r\u00e9, prosseguiram normalmente ap\u00f3s o referido deferimento do processamento de sua recupera\u00e7\u00e3o judicial.\n\n A respeito da situa\u00e7\u00e3o da recupera\u00e7\u00e3o judicial da ABC, \u00e9 correto afirmar que"
+    }
+]

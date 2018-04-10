@@ -1,1 +1,57 @@
-[{"number": "22", "enum": "O reitor de uma faculdade privada sem fins lucrativos (cujas receitas, inclusive seus eventuais super\u00e1vits, s\u00e3o integralmente reinvestidas no estabelecimento de ensino) deseja saber se est\u00e1 correta a cobran\u00e7a de impostos efetuada pelo fisco, que negou a pretendida imunidade tribut\u00e1ria, sob o argumento de que a institui\u00e7\u00e3o de ensino privada auferia lucros.\n\n Na hip\u00f3tese, sobre a atua\u00e7\u00e3o do fisco, assinale a afirmativa correta.", "options": [{"letter": "A", "correct": null, "pmi": [-0.0035411975156188456, 0.0, 0.0, 0.0], "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es de ensino que n\u00e3o sejam superavit\u00e1rias."}, {"letter": "B", "correct": null, "pmi": [-0.041778453471355066, 0.0, 0.0, 0.0], "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es p\u00fablicas de ensino."}, {"letter": "C", "correct": null, "pmi": [-0.010944314212607052, 0.0, 0.0, 0.0], "text": "O fisco n\u00e3o agiu corretamente, pois n\u00e3o h\u00e1 impedimento \u00e0 distribui\u00e7\u00e3o de lucro pelo estabelecimento de ensino imune."}, {"letter": "D", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0], "text": "O fisco n\u00e3o agiu corretamente, pois, para que seja concedida tal imunidade, a institui\u00e7\u00e3o n\u00e3o precisa ser deficit\u00e1ria, desde que o super\u00e1vit seja revertido para suas finalidades."}], "filename": "2017-23.txt", "valid": true, "areas": [null]}]
+[
+    {
+        "number": "22",
+        "enum": "O reitor de uma faculdade privada sem fins lucrativos (cujas receitas, inclusive seus eventuais super\u00e1vits, s\u00e3o integralmente reinvestidas no estabelecimento de ensino) deseja saber se est\u00e1 correta a cobran\u00e7a de impostos efetuada pelo fisco, que negou a pretendida imunidade tribut\u00e1ria, sob o argumento de que a institui\u00e7\u00e3o de ensino privada auferia lucros.\n\n Na hip\u00f3tese, sobre a atua\u00e7\u00e3o do fisco, assinale a afirmativa correta.",
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "pmi": [
+                    -0.0035411975156188456,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es de ensino que n\u00e3o sejam superavit\u00e1rias."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.041778453471355066,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es p\u00fablicas de ensino."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.010944314212607052,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O fisco n\u00e3o agiu corretamente, pois n\u00e3o h\u00e1 impedimento \u00e0 distribui\u00e7\u00e3o de lucro pelo estabelecimento de ensino imune."
+            },
+            {
+                "letter": "D",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O fisco n\u00e3o agiu corretamente, pois, para que seja concedida tal imunidade, a institui\u00e7\u00e3o n\u00e3o precisa ser deficit\u00e1ria, desde que o super\u00e1vit seja revertido para suas finalidades."
+            }
+        ],
+        "filename": "2017-23.txt",
+        "valid": true,
+        "areas": [
+            null
+        ]
+    }
+]

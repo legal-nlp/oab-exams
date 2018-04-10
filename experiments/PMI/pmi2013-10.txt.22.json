@@ -1,1 +1,57 @@
-[{"areas": ["HUMAN-RIGHTS"], "valid": true, "filename": "2013-10.txt", "enum": "A Assembleia Constituinte de 1988 reservou texto expresso para elevar os Direitos Humanos ao patamar de princ\u00edpio fundamental n\u00e3o s\u00f3 no territ\u00f3rio nacional, como tamb\u00e9m nas rela\u00e7\u00f5es internacionais. Al\u00e9m de valorizar a independ\u00eancia do pa\u00eds no cen\u00e1rio internacional, consagrou a prote\u00e7\u00e3o dos interesses do ser humano.\n\n Considerando o texto constitucional do Estado-parte e a Conven\u00e7\u00e3o Americana de Direitos Humanos, as afirmativas a seguir est\u00e3o corretas, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.", "number": "22", "options": [{"pmi": [-0.002535748623383591, 0.0, 0.0, 0.0], "correct": null, "text": "Proibi\u00e7\u00e3o de propaganda a favor da guerra e rep\u00fadio ao terrorismo e ao racismo.", "letter": "A"}, {"pmi": [-0.049632826364933144, 0.0, 0.0, 0.0], "correct": null, "text": "Prote\u00e7\u00e3o judicial mesmo quando a viola\u00e7\u00e3o de direitos fundamentais for cometida por pessoa atuando em fun\u00e7\u00e3o oficial.", "letter": "B"}, {"pmi": [-0.01719230984971595, 0.0, 0.0, 0.0], "correct": true, "text": "Direito de retifica\u00e7\u00e3o ou de resposta, que eximir\u00e3o das outras responsabilidades legais.", "letter": "C"}, {"pmi": [-0.039713082780252304, 0.0, 0.0, 0.0], "correct": null, "text": "Concess\u00e3o de asilo pol\u00edtico em delitos pol\u00edticos ou comuns, conexos com delitos pol\u00edticos.", "letter": "D"}]}]
+[
+    {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "valid": true,
+        "filename": "2013-10.txt",
+        "enum": "A Assembleia Constituinte de 1988 reservou texto expresso para elevar os Direitos Humanos ao patamar de princ\u00edpio fundamental n\u00e3o s\u00f3 no territ\u00f3rio nacional, como tamb\u00e9m nas rela\u00e7\u00f5es internacionais. Al\u00e9m de valorizar a independ\u00eancia do pa\u00eds no cen\u00e1rio internacional, consagrou a prote\u00e7\u00e3o dos interesses do ser humano.\n\n Considerando o texto constitucional do Estado-parte e a Conven\u00e7\u00e3o Americana de Direitos Humanos, as afirmativas a seguir est\u00e3o corretas, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.",
+        "number": "22",
+        "options": [
+            {
+                "pmi": [
+                    -0.002535748623383591,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Proibi\u00e7\u00e3o de propaganda a favor da guerra e rep\u00fadio ao terrorismo e ao racismo.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.049632826364933144,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Prote\u00e7\u00e3o judicial mesmo quando a viola\u00e7\u00e3o de direitos fundamentais for cometida por pessoa atuando em fun\u00e7\u00e3o oficial.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.01719230984971595,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "Direito de retifica\u00e7\u00e3o ou de resposta, que eximir\u00e3o das outras responsabilidades legais.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.039713082780252304,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Concess\u00e3o de asilo pol\u00edtico em delitos pol\u00edticos ou comuns, conexos com delitos pol\u00edticos.",
+                "letter": "D"
+            }
+        ]
+    }
+]

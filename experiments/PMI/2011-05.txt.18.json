@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "Se Governador de Estado desejar se insurgir contra s\u00famula vinculante que, a seu ju\u00edzo, foi formulada com enunciado normativo que extrapolou os limites dos precedentes que a originaram, poder\u00e1, dentro dos instrumentos processuais constitucionais existentes,", "filename": "2011-05.txt", "number": "18", "options": [{"correct": null, "letter": "A", "text": "ajuizar ADI contra a s\u00famula vinculante."}, {"correct": null, "letter": "B", "text": "ajuizar ADPF contra a s\u00famula vinculante."}, {"correct": null, "letter": "C", "text": "interpor reclama\u00e7\u00e3o contra a s\u00famula vinculante."}, {"correct": true, "letter": "D", "text": "requerer o cancelamento da s\u00famula vinculante."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Se Governador de Estado desejar se insurgir contra s\u00famula vinculante que, a seu ju\u00edzo, foi formulada com enunciado normativo que extrapolou os limites dos precedentes que a originaram, poder\u00e1, dentro dos instrumentos processuais constitucionais existentes,",
+        "filename": "2011-05.txt",
+        "number": "18",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "ajuizar ADI contra a s\u00famula vinculante."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "ajuizar ADPF contra a s\u00famula vinculante."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "interpor reclama\u00e7\u00e3o contra a s\u00famula vinculante."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "requerer o cancelamento da s\u00famula vinculante."
+            }
+        ],
+        "valid": true
+    }
+]

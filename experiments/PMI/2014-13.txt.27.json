@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "Jos\u00e9 recebeu auto de infra\u00e7\u00e3o pelo inadimplemento de determinado tributo institu\u00eddo por lei ordin\u00e1ria. Jos\u00e9 contesta a exig\u00eancia fiscal sob o argumento, correto, de que o tributo em quest\u00e3o deveria ter sido institu\u00eddo por lei complementar.\n\n A partir da hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que indica o tributo exigido no referido auto de infra\u00e7\u00e3o.", "filename": "2014-13.txt", "number": "27", "options": [{"correct": null, "letter": "A", "text": "Contribui\u00e7\u00e3o de Interesse de Categoria Profissional."}, {"correct": null, "letter": "B", "text": "Contribui\u00e7\u00e3o de Melhoria."}, {"correct": null, "letter": "C", "text": "Contribui\u00e7\u00e3o de Interven\u00e7\u00e3o no Dom\u00ednio Econ\u00f4mico."}, {"correct": true, "letter": "D", "text": "Empr\u00e9stimo Compuls\u00f3rio."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Jos\u00e9 recebeu auto de infra\u00e7\u00e3o pelo inadimplemento de determinado tributo institu\u00eddo por lei ordin\u00e1ria. Jos\u00e9 contesta a exig\u00eancia fiscal sob o argumento, correto, de que o tributo em quest\u00e3o deveria ter sido institu\u00eddo por lei complementar.\n\n A partir da hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o que indica o tributo exigido no referido auto de infra\u00e7\u00e3o.",
+        "filename": "2014-13.txt",
+        "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Contribui\u00e7\u00e3o de Interesse de Categoria Profissional."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Contribui\u00e7\u00e3o de Melhoria."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Contribui\u00e7\u00e3o de Interven\u00e7\u00e3o no Dom\u00ednio Econ\u00f4mico."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Empr\u00e9stimo Compuls\u00f3rio."
+            }
+        ],
+        "valid": true
+    }
+]

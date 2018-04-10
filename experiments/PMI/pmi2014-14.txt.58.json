@@ -1,1 +1,57 @@
-[{"valid": true, "filename": "2014-14.txt", "number": "58", "areas": ["CIVIL-PROCEDURE"], "enum": "Os irm\u00e3os Rafael e Daniela s\u00e3o propriet\u00e1rios de um im\u00f3vel na Av. S\u00e3o Sebasti\u00e3o, n. 20. Eles realizaram um contrato de loca\u00e7\u00e3o com Joana, estudante, por prazo indeterminado. Ap\u00f3s tr\u00eas anos de vig\u00eancia de contrato, devido aos grandes eventos internacionais na cidade, os irm\u00e3os propuseram uma a\u00e7\u00e3o revisional de aluguel, tendo em vista a valoriza\u00e7\u00e3o constatada na \u00e1rea em que fica o im\u00f3vel.\n\n A partir da hip\u00f3tese sugerida, assinale a op\u00e7\u00e3o correta.", "options": [{"letter": "A", "correct": true, "pmi": [-0.1396757795933404, 0.0, 0.0, 0.0], "text": "Trata-se de litiscons\u00f3rcio ativo facultativo unit\u00e1rio, uma vez que h\u00e1 solidariedade entre os irm\u00e3os, o que faz com que um deles, sozinho, possa ajuizar a a\u00e7\u00e3o, tendo a decis\u00e3o efeito para ambos."}, {"letter": "B", "correct": null, "pmi": [-0.11267407938140671, 0.0, 0.0, 0.0], "text": "Trata-se de litiscons\u00f3rcio passivo multitudin\u00e1rio, pois a a\u00e7\u00e3o revisional, se procedente, alterar\u00e1 o valor da loca\u00e7\u00e3o para todo e qualquer candidato \u00e0 loca\u00e7\u00e3o."}, {"letter": "C", "correct": null, "pmi": [-0.16383914101509248, 0.0, 0.0, 0.0], "text": "Trata-se de litiscons\u00f3rcio ativo facultativo simples, pois no lugar de uma \u00fanica a\u00e7\u00e3o, cada irm\u00e3o pode entrar com uma a\u00e7\u00e3o revisional diferente para atualizar o valor do im\u00f3vel, e as duas correr\u00e3o normalmente, em separado."}, {"letter": "D", "correct": null, "pmi": [-0.22319771185962387, 0.0, 0.0, 0.0], "text": "Trata-se de litiscons\u00f3rcio ativo necess\u00e1rio unit\u00e1rio, uma vez que a lei assim o exige e a decis\u00e3o do juiz ser\u00e1 a mesma para os dois irm\u00e3os."}]}]
+[
+    {
+        "valid": true,
+        "filename": "2014-14.txt",
+        "number": "58",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Os irm\u00e3os Rafael e Daniela s\u00e3o propriet\u00e1rios de um im\u00f3vel na Av. S\u00e3o Sebasti\u00e3o, n. 20. Eles realizaram um contrato de loca\u00e7\u00e3o com Joana, estudante, por prazo indeterminado. Ap\u00f3s tr\u00eas anos de vig\u00eancia de contrato, devido aos grandes eventos internacionais na cidade, os irm\u00e3os propuseram uma a\u00e7\u00e3o revisional de aluguel, tendo em vista a valoriza\u00e7\u00e3o constatada na \u00e1rea em que fica o im\u00f3vel.\n\n A partir da hip\u00f3tese sugerida, assinale a op\u00e7\u00e3o correta.",
+        "options": [
+            {
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.1396757795933404,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de litiscons\u00f3rcio ativo facultativo unit\u00e1rio, uma vez que h\u00e1 solidariedade entre os irm\u00e3os, o que faz com que um deles, sozinho, possa ajuizar a a\u00e7\u00e3o, tendo a decis\u00e3o efeito para ambos."
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.11267407938140671,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de litiscons\u00f3rcio passivo multitudin\u00e1rio, pois a a\u00e7\u00e3o revisional, se procedente, alterar\u00e1 o valor da loca\u00e7\u00e3o para todo e qualquer candidato \u00e0 loca\u00e7\u00e3o."
+            },
+            {
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    -0.16383914101509248,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de litiscons\u00f3rcio ativo facultativo simples, pois no lugar de uma \u00fanica a\u00e7\u00e3o, cada irm\u00e3o pode entrar com uma a\u00e7\u00e3o revisional diferente para atualizar o valor do im\u00f3vel, e as duas correr\u00e3o normalmente, em separado."
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    -0.22319771185962387,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de litiscons\u00f3rcio ativo necess\u00e1rio unit\u00e1rio, uma vez que a lei assim o exige e a decis\u00e3o do juiz ser\u00e1 a mesma para os dois irm\u00e3os."
+            }
+        ]
+    }
+]

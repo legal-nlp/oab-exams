@@ -1,1 +1,57 @@
-[{"areas": ["TAXES"], "valid": true, "enum": "Determinada pessoa, havendo arrematado im\u00f3vel em leil\u00e3o judicial ocorrido em processo de execu\u00e7\u00e3o fiscal para a cobran\u00e7a de Imposto Predial Urbano, vem a sofrer a exig\u00eancia pelo saldo devedor da execu\u00e7\u00e3o n\u00e3o coberto pelo pre\u00e7o da arremata\u00e7\u00e3o.\n\n Essa exig\u00eancia \u00e9", "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "legal, pois o arrematante \u00e9 sucessor do executado em rela\u00e7\u00e3o ao im\u00f3vel, e em sua pessoa fiscal ficam sub-rogados os cr\u00e9ditos dos tributos incidentes sobre o mesmo im\u00f3vel.", "letter": "A"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": true, "text": "ilegal, pois o cr\u00e9dito do exequente se sub-roga sobre o pre\u00e7o da arremata\u00e7\u00e3o, exonerando o arrematante quanto ao saldo devedor.", "letter": "B"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "legal, pois o valor pago pelo arrematante n\u00e3o foi suficiente para a cobertura da execu\u00e7\u00e3o.", "letter": "C"}, {"pmi": [0.0, 0.0, 0.0, 0.0], "correct": null, "text": "legal, pois a arremata\u00e7\u00e3o n\u00e3o pode causar preju\u00edzo ao Fisco.", "letter": "D"}], "number": "86", "filename": "2011-03.txt"}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "valid": true,
+        "enum": "Determinada pessoa, havendo arrematado im\u00f3vel em leil\u00e3o judicial ocorrido em processo de execu\u00e7\u00e3o fiscal para a cobran\u00e7a de Imposto Predial Urbano, vem a sofrer a exig\u00eancia pelo saldo devedor da execu\u00e7\u00e3o n\u00e3o coberto pelo pre\u00e7o da arremata\u00e7\u00e3o.\n\n Essa exig\u00eancia \u00e9",
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "legal, pois o arrematante \u00e9 sucessor do executado em rela\u00e7\u00e3o ao im\u00f3vel, e em sua pessoa fiscal ficam sub-rogados os cr\u00e9ditos dos tributos incidentes sobre o mesmo im\u00f3vel.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "ilegal, pois o cr\u00e9dito do exequente se sub-roga sobre o pre\u00e7o da arremata\u00e7\u00e3o, exonerando o arrematante quanto ao saldo devedor.",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "legal, pois o valor pago pelo arrematante n\u00e3o foi suficiente para a cobertura da execu\u00e7\u00e3o.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "text": "legal, pois a arremata\u00e7\u00e3o n\u00e3o pode causar preju\u00edzo ao Fisco.",
+                "letter": "D"
+            }
+        ],
+        "number": "86",
+        "filename": "2011-03.txt"
+    }
+]

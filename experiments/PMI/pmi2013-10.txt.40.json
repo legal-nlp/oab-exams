@@ -1,1 +1,57 @@
-[{"areas": ["CIVIL"], "filename": "2013-10.txt", "number": "40", "options": [{"correct": null, "letter": "A", "text": "A garantia acess\u00f3ria poder\u00e1 ser prestada exclusivamente por Alberto.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "B", "text": "A outorga de Am\u00e9lia se far\u00e1 indispens\u00e1vel, independente do regime de bens.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": true, "letter": "C", "text": "A fian\u00e7a, se prestada por Alberto sem o consentimento de Am\u00e9lia, ser\u00e1 anul\u00e1vel.", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "letter": "D", "text": "A anula\u00e7\u00e3o do aval somente poder\u00e1 ser pleiteada por Am\u00e9lia durante o per\u00edodo em que estiver casada.", "pmi": [0.0, 0.0, 0.0, 0.0]}], "enum": "Am\u00e9lia e Alberto s\u00e3o casados pelo regime de comunh\u00e3o parcial de bens. Alfredo, amigo de Alberto, pede que ele seja seu fiador na compra de um im\u00f3vel.\n\n Diante da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.", "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL"
+        ],
+        "filename": "2013-10.txt",
+        "number": "40",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A garantia acess\u00f3ria poder\u00e1 ser prestada exclusivamente por Alberto.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A outorga de Am\u00e9lia se far\u00e1 indispens\u00e1vel, independente do regime de bens.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A fian\u00e7a, se prestada por Alberto sem o consentimento de Am\u00e9lia, ser\u00e1 anul\u00e1vel.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A anula\u00e7\u00e3o do aval somente poder\u00e1 ser pleiteada por Am\u00e9lia durante o per\u00edodo em que estiver casada.",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Am\u00e9lia e Alberto s\u00e3o casados pelo regime de comunh\u00e3o parcial de bens. Alfredo, amigo de Alberto, pede que ele seja seu fiador na compra de um im\u00f3vel.\n\n Diante da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "valid": true
+    }
+]

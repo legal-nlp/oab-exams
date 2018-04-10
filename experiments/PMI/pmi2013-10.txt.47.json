@@ -1,1 +1,57 @@
-[{"valid": true, "options": [{"text": "O casal poder\u00e1 acionar judicialmente a operadora de turismo, mesmo que a falha do servi\u00e7o tenha sido da seguradora, em raz\u00e3o da responsabilidade solid\u00e1ria aplic\u00e1vel ao caso.", "correct": true, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "O casal somente poder\u00e1 acionar judicialmente a seguradora Y, j\u00e1 que a operadora de turismo responderia por falhas na organiza\u00e7\u00e3o da viagem, e n\u00e3o pelo seguro porque esse foi realizado por outra empresa.", "correct": null, "letter": "B", "pmi": [-0.022795925412119448, 0.0, 0.0, 0.0]}, {"text": "O casal ter\u00e1 que acionar judicialmente a operadora de turismo e a seguradora simultaneamente por se tratar da hip\u00f3tese de litiscons\u00f3rcio necess\u00e1rio e unit\u00e1rio, sob pena de insurgir em car\u00eancia da a\u00e7\u00e3o.", "correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "O casal n\u00e3o poder\u00e1 acionar judicialmente a operadora de turismo j\u00e1 que havia liberdade de contratar o seguro sa\u00fade viagem com outra seguradora e, portanto, n\u00e3o se tratando de venda casada, n\u00e3o h\u00e1 responsabilidade solid\u00e1ria na hip\u00f3tese.", "correct": null, "letter": "D", "pmi": [-0.00881827599812676, 0.0, 0.0, 0.0]}], "enum": "Elisabeth e Marcos, desejando passar a lua-de-mel em Paris, adquiriram junto \u00e0 Operadora de Viagens e Turismo \u201cX\u201d um pacote de viagem, composto de passagens a\u00e9reas de ida e volta, hospedagem por sete noites, e seguro sa\u00fade e acidentes pessoais, este \u00faltimo prestado pela seguradora \u201cY\u201d. Ap\u00f3s chegar \u00e0 cidade, Elisabeth sofreu os efeitos de uma gastrite severa e Marcos entrou em contato com a operadora de viagens a fim de que o seguro fosse acionado, sendo informado que n\u00e3o havia m\u00e9dico credenciado naquela localidade. O casal procurou um hospital, que manteve Elisabeth internada por 24 horas, e retornou ao Brasil no terceiro dia de estada em Paris, tudo \u00e0s suas expensas.\n\n Partindo da hip\u00f3tese apresentada, assinale a afirmativa correta.", "filename": "2013-10.txt", "number": "47", "areas": ["CONSUMER"]}]
+[
+    {
+        "valid": true,
+        "options": [
+            {
+                "text": "O casal poder\u00e1 acionar judicialmente a operadora de turismo, mesmo que a falha do servi\u00e7o tenha sido da seguradora, em raz\u00e3o da responsabilidade solid\u00e1ria aplic\u00e1vel ao caso.",
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "O casal somente poder\u00e1 acionar judicialmente a seguradora Y, j\u00e1 que a operadora de turismo responderia por falhas na organiza\u00e7\u00e3o da viagem, e n\u00e3o pelo seguro porque esse foi realizado por outra empresa.",
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.022795925412119448,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "O casal ter\u00e1 que acionar judicialmente a operadora de turismo e a seguradora simultaneamente por se tratar da hip\u00f3tese de litiscons\u00f3rcio necess\u00e1rio e unit\u00e1rio, sob pena de insurgir em car\u00eancia da a\u00e7\u00e3o.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "O casal n\u00e3o poder\u00e1 acionar judicialmente a operadora de turismo j\u00e1 que havia liberdade de contratar o seguro sa\u00fade viagem com outra seguradora e, portanto, n\u00e3o se tratando de venda casada, n\u00e3o h\u00e1 responsabilidade solid\u00e1ria na hip\u00f3tese.",
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.00881827599812676,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Elisabeth e Marcos, desejando passar a lua-de-mel em Paris, adquiriram junto \u00e0 Operadora de Viagens e Turismo \u201cX\u201d um pacote de viagem, composto de passagens a\u00e9reas de ida e volta, hospedagem por sete noites, e seguro sa\u00fade e acidentes pessoais, este \u00faltimo prestado pela seguradora \u201cY\u201d. Ap\u00f3s chegar \u00e0 cidade, Elisabeth sofreu os efeitos de uma gastrite severa e Marcos entrou em contato com a operadora de viagens a fim de que o seguro fosse acionado, sendo informado que n\u00e3o havia m\u00e9dico credenciado naquela localidade. O casal procurou um hospital, que manteve Elisabeth internada por 24 horas, e retornou ao Brasil no terceiro dia de estada em Paris, tudo \u00e0s suas expensas.\n\n Partindo da hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
+        "number": "47",
+        "areas": [
+            "CONSUMER"
+        ]
+    }
+]

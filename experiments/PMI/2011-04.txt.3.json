@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "H\u00e9rcules, advogado rec\u00e9m-formado, \u00e9 procurado por familiares de uma pessoa que descobriu, por vias transversas, estar sendo investigada em processo sigiloso, mas n\u00e3o tem ci\u00eancia do objeto da investiga\u00e7\u00e3o. Sem portar instrumento de procura\u00e7\u00e3o, dirige-se ao \u00f3rg\u00e3o investigador competente para obter informa\u00e7\u00f5es, identificando-se como advogado do investigado. A autoridade competente, em decis\u00e3o escrita, indefere o postulado, por estar ausente o instrumento do mandato e, ainda, ser a investiga\u00e7\u00e3o sigilosa. Diante dessas circunst\u00e2ncias, \u00e0 luz da legisla\u00e7\u00e3o aplic\u00e1vel, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "3", "options": [{"correct": null, "letter": "A", "text": "o acesso a processo sigiloso \u00e9 poss\u00edvel aos advogados somente quando requeiram a pr\u00e1tica de ato."}, {"correct": null, "letter": "B", "text": "o acesso dos advogados dos interessados a processos sigilosos romperia com a prote\u00e7\u00e3o que eles mereceriam."}, {"correct": true, "letter": "C", "text": "o processo sigiloso \u00e9 acess\u00edvel a advogado portando instrumento de mandato."}, {"correct": null, "letter": "D", "text": "mesmo sem urg\u00eancia, a atua\u00e7\u00e3o do advogado poderia ocorrer, sem mandato, em processo sigiloso."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "H\u00e9rcules, advogado rec\u00e9m-formado, \u00e9 procurado por familiares de uma pessoa que descobriu, por vias transversas, estar sendo investigada em processo sigiloso, mas n\u00e3o tem ci\u00eancia do objeto da investiga\u00e7\u00e3o. Sem portar instrumento de procura\u00e7\u00e3o, dirige-se ao \u00f3rg\u00e3o investigador competente para obter informa\u00e7\u00f5es, identificando-se como advogado do investigado. A autoridade competente, em decis\u00e3o escrita, indefere o postulado, por estar ausente o instrumento do mandato e, ainda, ser a investiga\u00e7\u00e3o sigilosa. Diante dessas circunst\u00e2ncias, \u00e0 luz da legisla\u00e7\u00e3o aplic\u00e1vel, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "3",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "o acesso a processo sigiloso \u00e9 poss\u00edvel aos advogados somente quando requeiram a pr\u00e1tica de ato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o acesso dos advogados dos interessados a processos sigilosos romperia com a prote\u00e7\u00e3o que eles mereceriam."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o processo sigiloso \u00e9 acess\u00edvel a advogado portando instrumento de mandato."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "mesmo sem urg\u00eancia, a atua\u00e7\u00e3o do advogado poderia ocorrer, sem mandato, em processo sigiloso."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,57 @@
-[{"valid": true, "enum": "Mauriti & Cia Ltda. celebrou contrato de aliena\u00e7\u00e3o fiduci\u00e1ria em garantia com a sociedade empres\u00e1ria Gama.  Com a decreta\u00e7\u00e3o de fal\u00eancia da fiduciante, o advogado da fiduci\u00e1ria pleiteou a restitui\u00e7\u00e3o do bem alienado, sendo informado pelo administrador judicial que o bem se encontrava na posse do falido na \u00e9poca da decreta\u00e7\u00e3o da fal\u00eancia, por\u00e9m n\u00e3o foi encontrado para ser arrecadado.\n\n Considerando os fatos narrados, o credor fiduci\u00e1rio ter\u00e1 direito \u00e0 restitui\u00e7\u00e3o em dinheiro do valor da avalia\u00e7\u00e3o do bem atualizado?", "number": "50", "filename": "2017-22.txt", "areas": [null], "options": [{"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "A", "text": "N\u00e3o, em raz\u00e3o de este n\u00e3o ter sido encontrado para arrecada\u00e7\u00e3o.", "correct": null}, {"pmi": [-0.013648566946611485, 0.0, 0.0, 0.0], "letter": "B", "text": "Sim, devendo, para tanto, habilitar seu cr\u00e9dito na fal\u00eancia como quirograf\u00e1rio.", "correct": null}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "C", "text": "Sim, mesmo que o bem alienado n\u00e3o mais exista ao tempo do pedido de restitui\u00e7\u00e3o ou que n\u00e3o tenha sido arrecadado.", "correct": true}, {"pmi": [0.0, 0.0, 0.0, 0.0], "letter": "D", "text": "N\u00e3o, por n\u00e3o ter a propriedade plena do bem alienado fiduciariamente, e sim resol\u00favel.", "correct": null}]}]
+[
+    {
+        "valid": true,
+        "enum": "Mauriti & Cia Ltda. celebrou contrato de aliena\u00e7\u00e3o fiduci\u00e1ria em garantia com a sociedade empres\u00e1ria Gama.  Com a decreta\u00e7\u00e3o de fal\u00eancia da fiduciante, o advogado da fiduci\u00e1ria pleiteou a restitui\u00e7\u00e3o do bem alienado, sendo informado pelo administrador judicial que o bem se encontrava na posse do falido na \u00e9poca da decreta\u00e7\u00e3o da fal\u00eancia, por\u00e9m n\u00e3o foi encontrado para ser arrecadado.\n\n Considerando os fatos narrados, o credor fiduci\u00e1rio ter\u00e1 direito \u00e0 restitui\u00e7\u00e3o em dinheiro do valor da avalia\u00e7\u00e3o do bem atualizado?",
+        "number": "50",
+        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "text": "N\u00e3o, em raz\u00e3o de este n\u00e3o ter sido encontrado para arrecada\u00e7\u00e3o.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.013648566946611485,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "text": "Sim, devendo, para tanto, habilitar seu cr\u00e9dito na fal\u00eancia como quirograf\u00e1rio.",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "text": "Sim, mesmo que o bem alienado n\u00e3o mais exista ao tempo do pedido de restitui\u00e7\u00e3o ou que n\u00e3o tenha sido arrecadado.",
+                "correct": true
+            },
+            {
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "text": "N\u00e3o, por n\u00e3o ter a propriedade plena do bem alienado fiduciariamente, e sim resol\u00favel.",
+                "correct": null
+            }
+        ]
+    }
+]

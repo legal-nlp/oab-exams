@@ -1,1 +1,57 @@
-[{"filename": "2017-22.txt", "valid": true, "areas": [null], "options": [{"correct": null, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "A Associa\u00e7\u00e3o n\u00e3o poderia ter sido qualificada como OSCIP, considerando que o seu objeto \u00e9 a promo\u00e7\u00e3o do voluntariado."}, {"correct": null, "letter": "B", "pmi": [-0.06515592952391075, 0.0, 0.0, 0.0], "text": "A qualifica\u00e7\u00e3o como OSCIP \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o P\u00fablica, que poderia indeferi-lo, mesmo que preenchidos os requisitos legais."}, {"correct": null, "letter": "C", "pmi": [-0.0495789136122989, 0.0, 0.0, 0.0], "text": "A qualifica\u00e7\u00e3o como OSCIP n\u00e3o autoriza o recebimento de recursos financeiros por meio de termo de parceria, mas somente mediante contrato de gest\u00e3o."}, {"correct": true, "letter": "D", "pmi": [-0.05642932770680863, 0.0, 0.0, 0.0], "text": "A Associa\u00e7\u00e3o n\u00e3o tem liberdade para alienar livremente os bens adquiridos com recursos p\u00fablicos provenientes de termo de parceria."}], "number": "32", "enum": "A Associa\u00e7\u00e3o Delta se dedica \u00e0 promo\u00e7\u00e3o do voluntariado e foi qualificada como Organiza\u00e7\u00e3o da Sociedade Civil sem fins lucrativos \u2013 OSCIP, ap\u00f3s o que formalizou termo de parceria com a Uni\u00e3o, por meio do qual recebeu recursos que aplicou integralmente na realiza\u00e7\u00e3o de suas atividades, inclusive na aquisi\u00e7\u00e3o de um im\u00f3vel, que passou a ser a sede da entidade.  Com base nessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2017-22.txt",
+        "valid": true,
+        "areas": [
+            null
+        ],
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Associa\u00e7\u00e3o n\u00e3o poderia ter sido qualificada como OSCIP, considerando que o seu objeto \u00e9 a promo\u00e7\u00e3o do voluntariado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.06515592952391075,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A qualifica\u00e7\u00e3o como OSCIP \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o P\u00fablica, que poderia indeferi-lo, mesmo que preenchidos os requisitos legais."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.0495789136122989,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A qualifica\u00e7\u00e3o como OSCIP n\u00e3o autoriza o recebimento de recursos financeiros por meio de termo de parceria, mas somente mediante contrato de gest\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.05642932770680863,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Associa\u00e7\u00e3o n\u00e3o tem liberdade para alienar livremente os bens adquiridos com recursos p\u00fablicos provenientes de termo de parceria."
+            }
+        ],
+        "number": "32",
+        "enum": "A Associa\u00e7\u00e3o Delta se dedica \u00e0 promo\u00e7\u00e3o do voluntariado e foi qualificada como Organiza\u00e7\u00e3o da Sociedade Civil sem fins lucrativos \u2013 OSCIP, ap\u00f3s o que formalizou termo de parceria com a Uni\u00e3o, por meio do qual recebeu recursos que aplicou integralmente na realiza\u00e7\u00e3o de suas atividades, inclusive na aquisi\u00e7\u00e3o de um im\u00f3vel, que passou a ser a sede da entidade.  Com base nessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a afirmativa correta."
+    }
+]

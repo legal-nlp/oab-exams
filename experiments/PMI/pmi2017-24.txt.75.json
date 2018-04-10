@@ -1,1 +1,57 @@
-[{"areas": [null], "valid": true, "options": [{"pmi": [-0.00514069795050068, 0.0, 0.0, 0.0], "text": "Sendo o empregador das professoras um banco, elas s\u00e3o banc\u00e1rias e est\u00e3o vinculadas \u00e0 conven\u00e7\u00e3o coletiva dessa categoria profissional.", "letter": "A", "correct": null}, {"pmi": [0.0023288453449274754, 0.0, 0.0, 0.0], "text": "O professor integra categoria conexa, cabendo \u00e0s professoras definir a que sindicatos pretendem se filiar.", "letter": "B", "correct": null}, {"pmi": [-0.008497999929914072, 0.0, 0.0, 0.0], "text": "Uma vez que a atividade desenvolvida pelas professoras n\u00e3o \u00e9 banc\u00e1ria, caber\u00e1 \u00e0 Justi\u00e7a do Trabalho definir as regras que dever\u00e3o permear os seus contratos.", "letter": "C", "correct": null}, {"pmi": [0.013389065127972437, 0.0, 0.0, 0.0], "text": "As professoras n\u00e3o s\u00e3o banc\u00e1rias, porque integram categoria diferenciada.", "letter": "D", "correct": true}], "number": "75", "enum": "Uma institui\u00e7\u00e3o banc\u00e1ria construiu uma escola para que os filhos dos seus empregados pudessem estudar. A escola tem a infraestrutura necess\u00e1ria, e o banco contratou as professoras que ir\u00e3o dar as aulas nos primeiros anos do Ensino Fundamental. N\u00e3o existe controv\u00e9rsia entre empregador e empregadas acerca do enquadramento sindical.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2017-24.txt"}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "valid": true,
+        "options": [
+            {
+                "pmi": [
+                    -0.00514069795050068,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Sendo o empregador das professoras um banco, elas s\u00e3o banc\u00e1rias e est\u00e3o vinculadas \u00e0 conven\u00e7\u00e3o coletiva dessa categoria profissional.",
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.0023288453449274754,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O professor integra categoria conexa, cabendo \u00e0s professoras definir a que sindicatos pretendem se filiar.",
+                "letter": "B",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    -0.008497999929914072,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Uma vez que a atividade desenvolvida pelas professoras n\u00e3o \u00e9 banc\u00e1ria, caber\u00e1 \u00e0 Justi\u00e7a do Trabalho definir as regras que dever\u00e3o permear os seus contratos.",
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "pmi": [
+                    0.013389065127972437,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "As professoras n\u00e3o s\u00e3o banc\u00e1rias, porque integram categoria diferenciada.",
+                "letter": "D",
+                "correct": true
+            }
+        ],
+        "number": "75",
+        "enum": "Uma institui\u00e7\u00e3o banc\u00e1ria construiu uma escola para que os filhos dos seus empregados pudessem estudar. A escola tem a infraestrutura necess\u00e1ria, e o banco contratou as professoras que ir\u00e3o dar as aulas nos primeiros anos do Ensino Fundamental. N\u00e3o existe controv\u00e9rsia entre empregador e empregadas acerca do enquadramento sindical.\n\n Diante dessa situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2017-24.txt"
+    }
+]

@@ -1,1 +1,57 @@
-[{"filename": "2017-22.txt", "options": [{"text": "a absolvi\u00e7\u00e3o de Mariano, tendo em vista que ele n\u00e3o participava de nenhuma das cenas de sexo expl\u00edcito envolvendo adolescente.", "pmi": [0.0016305963885764568, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "o reconhecimento de crime \u00fanico do Art. 241-B da Lei n\u00ba 8.069/90.", "pmi": [-0.3361602983308644, 0.0, 0.0, 0.0], "correct": true, "letter": "B"}, {"text": "o reconhecimento do concurso formal de crimes entre os 302 delitos praticados.", "pmi": [-0.03203045426944995, 0.0, 0.0, 0.0], "correct": null, "letter": "C"}, {"text": "a extin\u00e7\u00e3o da punibilidade do acusado, em raz\u00e3o do desinteresse dos adolescentes em ver Mariano processado.", "pmi": [-0.03262622321601268, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}], "enum": "Mariano, 59 anos de idade, possu\u00eda em sua resid\u00eancia 302 v\u00eddeos e fotografias com cenas de sexo expl\u00edcito envolvendo adolescentes. Descobertos os fatos, foi denunciado pela pr\u00e1tica de 302 crimes do Art. 241-B da Lei n\u00ba 8.069/90 (\u201cAdquirir, possuir ou armazenar, por qualquer meio, fotografia, v\u00eddeo ou outra forma de registro que contenha cena de sexo expl\u00edcito ou pornogr\u00e1fica envolvendo crian\u00e7a ou adolescente\u201d), em concurso material, sendo descrito que possu\u00eda o material proibido. Os adolescentes das imagens n\u00e3o foram localizados. Encerrada a instru\u00e7\u00e3o e confirmados os fatos, o Minist\u00e9rio P\u00fablico pugnou pela condena\u00e7\u00e3o nos termos da den\u00fancia.  Em sede de alega\u00e7\u00f5es finais, diante da confiss\u00e3o do acusado e sendo a prova inquestion\u00e1vel, sob o ponto de vista t\u00e9cnico, o advogado de Mariano dever\u00e1 pleitear", "number": "61", "areas": [null], "valid": true}]
+[
+    {
+        "filename": "2017-22.txt",
+        "options": [
+            {
+                "text": "a absolvi\u00e7\u00e3o de Mariano, tendo em vista que ele n\u00e3o participava de nenhuma das cenas de sexo expl\u00edcito envolvendo adolescente.",
+                "pmi": [
+                    0.0016305963885764568,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "o reconhecimento de crime \u00fanico do Art. 241-B da Lei n\u00ba 8.069/90.",
+                "pmi": [
+                    -0.3361602983308644,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "B"
+            },
+            {
+                "text": "o reconhecimento do concurso formal de crimes entre os 302 delitos praticados.",
+                "pmi": [
+                    -0.03203045426944995,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "C"
+            },
+            {
+                "text": "a extin\u00e7\u00e3o da punibilidade do acusado, em raz\u00e3o do desinteresse dos adolescentes em ver Mariano processado.",
+                "pmi": [
+                    -0.03262622321601268,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ],
+        "enum": "Mariano, 59 anos de idade, possu\u00eda em sua resid\u00eancia 302 v\u00eddeos e fotografias com cenas de sexo expl\u00edcito envolvendo adolescentes. Descobertos os fatos, foi denunciado pela pr\u00e1tica de 302 crimes do Art. 241-B da Lei n\u00ba 8.069/90 (\u201cAdquirir, possuir ou armazenar, por qualquer meio, fotografia, v\u00eddeo ou outra forma de registro que contenha cena de sexo expl\u00edcito ou pornogr\u00e1fica envolvendo crian\u00e7a ou adolescente\u201d), em concurso material, sendo descrito que possu\u00eda o material proibido. Os adolescentes das imagens n\u00e3o foram localizados. Encerrada a instru\u00e7\u00e3o e confirmados os fatos, o Minist\u00e9rio P\u00fablico pugnou pela condena\u00e7\u00e3o nos termos da den\u00fancia.  Em sede de alega\u00e7\u00f5es finais, diante da confiss\u00e3o do acusado e sendo a prova inquestion\u00e1vel, sob o ponto de vista t\u00e9cnico, o advogado de Mariano dever\u00e1 pleitear",
+        "number": "61",
+        "areas": [
+            null
+        ],
+        "valid": true
+    }
+]

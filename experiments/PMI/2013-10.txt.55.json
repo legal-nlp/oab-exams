@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "A respeito da capacidade processual, assinale a afirmativa correta.", "filename": "2013-10.txt", "number": "55", "options": [{"correct": true, "letter": "A", "text": "Os munic\u00edpios ser\u00e3o representados em ju\u00edzo, ativa e passivamente, pelo Prefeito ou pelo procurador."}, {"correct": null, "letter": "B", "text": "O juiz, de plano, dever\u00e1 extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito, ao verificar a incapacidade processual ou a irregularidade da representa\u00e7\u00e3o das partes."}, {"correct": null, "letter": "C", "text": "O juiz dar\u00e1 curador especial ao r\u00e9u preso, bem como ao r\u00e9u citado por hora certa, por edital ou por meio eletr\u00f4nico."}, {"correct": null, "letter": "D", "text": "A cita\u00e7\u00e3o dos c\u00f4njuges nas a\u00e7\u00f5es que versem sobre direitos reais imobili\u00e1rios \u00e9 prescind\u00edvel."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "A respeito da capacidade processual, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
+        "number": "55",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "Os munic\u00edpios ser\u00e3o representados em ju\u00edzo, ativa e passivamente, pelo Prefeito ou pelo procurador."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "O juiz, de plano, dever\u00e1 extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito, ao verificar a incapacidade processual ou a irregularidade da representa\u00e7\u00e3o das partes."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O juiz dar\u00e1 curador especial ao r\u00e9u preso, bem como ao r\u00e9u citado por hora certa, por edital ou por meio eletr\u00f4nico."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A cita\u00e7\u00e3o dos c\u00f4njuges nas a\u00e7\u00f5es que versem sobre direitos reais imobili\u00e1rios \u00e9 prescind\u00edvel."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,55 @@
-[{"areas": [], "filename": "2015-18.txt", "valid": true, "enum": "Joana e suas quatro irm\u00e3s, para comemorar as bodas de ouro de seus pais, contrataram Ricardo para organizar a festa. No contrato ficou acordado que as cinco irm\u00e3s arcariam solidariamente com todos os gastos. Ricardo, ao requerer o sinal de pagamento, previamente estipulado no contrato, n\u00e3o obteve sucesso, pois cada uma das irm\u00e3s informava que a outra tinha ficado respons\u00e1vel pelo pagamento. Ainda assim, Ricardo cumpriu sua parte do acordado. Ao final da festa, Ricardo foi at\u00e9 Joana para cobrar pelo servi\u00e7o, sem sucesso.\n\n Sobre a situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.", "number": "37", "options": [{"text": "Se Ricardo resolver ajuizar demanda em face somente de Joana, as outras irm\u00e3s, ainda assim, permanecer\u00e3o respons\u00e1veis pelo d\u00e9bito.", "letter": "A", "correct": true, "pmi": [-0.018795025279773444, 0.0, 0.0, 0.0]}, {"text": "Se Joana pagar o pre\u00e7o total do servi\u00e7o sozinha, poder\u00e1 cobrar das outras, ficando sem receber se uma delas se tornar insolvente.", "letter": "B", "correct": null, "pmi": [-0.009110359187995255, 0.0, 0.0, 0.0]}, {"text": "Se uma das irm\u00e3s de Joana falecer deixando dois filhos, qualquer um deles dever\u00e1 arcar com o total da parte de sua m\u00e3e.", "letter": "C", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"text": "Ricardo deve cobrar de cada irm\u00e3 a sua quota-parte para receber o total do servi\u00e7o, uma vez que se trata de obriga\u00e7\u00e3o divis\u00edvel.", "letter": "D", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "areas": [],
+        "filename": "2015-18.txt",
+        "valid": true,
+        "enum": "Joana e suas quatro irm\u00e3s, para comemorar as bodas de ouro de seus pais, contrataram Ricardo para organizar a festa. No contrato ficou acordado que as cinco irm\u00e3s arcariam solidariamente com todos os gastos. Ricardo, ao requerer o sinal de pagamento, previamente estipulado no contrato, n\u00e3o obteve sucesso, pois cada uma das irm\u00e3s informava que a outra tinha ficado respons\u00e1vel pelo pagamento. Ainda assim, Ricardo cumpriu sua parte do acordado. Ao final da festa, Ricardo foi at\u00e9 Joana para cobrar pelo servi\u00e7o, sem sucesso.\n\n Sobre a situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "number": "37",
+        "options": [
+            {
+                "text": "Se Ricardo resolver ajuizar demanda em face somente de Joana, as outras irm\u00e3s, ainda assim, permanecer\u00e3o respons\u00e1veis pelo d\u00e9bito.",
+                "letter": "A",
+                "correct": true,
+                "pmi": [
+                    -0.018795025279773444,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Se Joana pagar o pre\u00e7o total do servi\u00e7o sozinha, poder\u00e1 cobrar das outras, ficando sem receber se uma delas se tornar insolvente.",
+                "letter": "B",
+                "correct": null,
+                "pmi": [
+                    -0.009110359187995255,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Se uma das irm\u00e3s de Joana falecer deixando dois filhos, qualquer um deles dever\u00e1 arcar com o total da parte de sua m\u00e3e.",
+                "letter": "C",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "text": "Ricardo deve cobrar de cada irm\u00e3 a sua quota-parte para receber o total do servi\u00e7o, uma vez que se trata de obriga\u00e7\u00e3o divis\u00edvel.",
+                "letter": "D",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

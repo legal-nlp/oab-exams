@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "text": "Professores, m\u00e9dicos e rodovi\u00e1rios.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "B", "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos.", "correct": true, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "C", "text": "Advogados, mineiros de subsolo e securit\u00e1rios.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}, {"letter": "D", "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos.", "correct": null, "pmi": [0.0, 0.0, 0.0, 0.0]}], "number": "75", "valid": true, "filename": "2012-06a.txt", "areas": ["LABOUR"], "enum": "Assinale a alternativa que cont\u00e9m categorias ou profiss\u00f5es que, de acordo com a lei, possuem intervalo interjornada diferenciado."}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "text": "Professores, m\u00e9dicos e rodovi\u00e1rios.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos.",
+                "correct": true,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "text": "Advogados, mineiros de subsolo e securit\u00e1rios.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos.",
+                "correct": null,
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "75",
+        "valid": true,
+        "filename": "2012-06a.txt",
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Assinale a alternativa que cont\u00e9m categorias ou profiss\u00f5es que, de acordo com a lei, possuem intervalo interjornada diferenciado."
+    }
+]

@@ -1,1 +1,55 @@
-[{"options": [{"letter": "A", "pmi": [0.0, 0, 0, 0], "text": "Por c\u00e1lculos.", "correct": true}, {"letter": "B", "pmi": [0.0, 0, 0, 0], "text": "Por arbitramento.", "correct": null}, {"letter": "C", "pmi": [0.0, 0, 0, 0], "text": "Por artigos.", "correct": null}, {"letter": "D", "pmi": [-0.06490809733513654, 0.0, 0.0, 0.0], "text": "Por execu\u00e7\u00e3o por quantia certa.", "correct": null}], "enum": "O juiz, em a\u00e7\u00e3o trabalhista proposta por Carlos em face da sociedade empres\u00e1ria ABCD Ltda., julgou procedente, em parte, o rol de pedidos. Nenhuma das partes apresentou qualquer recurso. O pedido versava exclusivamente sobre horas extras e reflexos, estando nos autos todos os controles de hor\u00e1rio, recibos salariais, o termo de reciss\u00e3o de contrato de trabalho (TRCT) e demais documentos inerentes ao contrato de trabalho em refer\u00eancia. Todos os documentos eram incontroversos.\n\n Com base no caso apresentado, como advogado(a) de Carlos, assinale a op\u00e7\u00e3o que indica a modalidade a ser adotada para promover a liquida\u00e7\u00e3o de senten\u00e7a.", "number": "76", "areas": [], "valid": true, "filename": "2016-21.txt"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Por c\u00e1lculos.",
+                "correct": true
+            },
+            {
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Por arbitramento.",
+                "correct": null
+            },
+            {
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Por artigos.",
+                "correct": null
+            },
+            {
+                "letter": "D",
+                "pmi": [
+                    -0.06490809733513654,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Por execu\u00e7\u00e3o por quantia certa.",
+                "correct": null
+            }
+        ],
+        "enum": "O juiz, em a\u00e7\u00e3o trabalhista proposta por Carlos em face da sociedade empres\u00e1ria ABCD Ltda., julgou procedente, em parte, o rol de pedidos. Nenhuma das partes apresentou qualquer recurso. O pedido versava exclusivamente sobre horas extras e reflexos, estando nos autos todos os controles de hor\u00e1rio, recibos salariais, o termo de reciss\u00e3o de contrato de trabalho (TRCT) e demais documentos inerentes ao contrato de trabalho em refer\u00eancia. Todos os documentos eram incontroversos.\n\n Com base no caso apresentado, como advogado(a) de Carlos, assinale a op\u00e7\u00e3o que indica a modalidade a ser adotada para promover a liquida\u00e7\u00e3o de senten\u00e7a.",
+        "number": "76",
+        "areas": [],
+        "valid": true,
+        "filename": "2016-21.txt"
+    }
+]

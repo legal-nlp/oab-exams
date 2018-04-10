@@ -1,1 +1,57 @@
-[{"options": [{"letter": "A", "correct": null, "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, uma vez que esse \u00e9 um cargo privativo de brasileiro nato.", "pmi": [-0.4674767593453016, 0.0, 0.0, 0.0]}, {"letter": "B", "correct": null, "text": "Jo\u00e3o n\u00e3o poderia ser Deputado Federal, mas poderia ingressar na carreira diplom\u00e1tica em que n\u00e3o \u00e9 exigido o requisito de ser brasileiro nato.", "pmi": [-0.2618821658691134, 0.0, 0.0, 0.0]}, {"letter": "C", "correct": true, "text": "Jo\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, bem como ser eleito, entretanto, n\u00e3o poderia ter sido escolhido Presidente da C\u00e2mara dos Deputados, eis que esse cargo deve ser exercido por brasileiro nato.", "pmi": [-0.3878899556902354, 0.0, 0.0, 0.0]}, {"letter": "D", "correct": null, "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, mas poderia ter se candidatado ao cargo de Senador da Rep\u00fablica, mesmo sendo brasileiro naturalizado.", "pmi": [-0.41220067604463995, 0.0, 0.0, 0.0]}], "enum": "Jo\u00e3o, 29 anos de idade, brasileiro naturalizado desde 1992, decidiu se candidatar, nas elei\u00e7\u00f5es de 2010, ao cargo de Deputado Federal, em determinado ente federativo. Eleito, e ap\u00f3s ter tomado posse, foi escolhido para Presidir a C\u00e2mara dos Deputados.\n\n Com base na hip\u00f3tese acima, assinale a afirmativa correta.", "filename": "2013-12.txt", "valid": true, "areas": ["CONSTITUTIONAL"], "number": "17"}]
+[
+    {
+        "options": [
+            {
+                "letter": "A",
+                "correct": null,
+                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, uma vez que esse \u00e9 um cargo privativo de brasileiro nato.",
+                "pmi": [
+                    -0.4674767593453016,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "B",
+                "correct": null,
+                "text": "Jo\u00e3o n\u00e3o poderia ser Deputado Federal, mas poderia ingressar na carreira diplom\u00e1tica em que n\u00e3o \u00e9 exigido o requisito de ser brasileiro nato.",
+                "pmi": [
+                    -0.2618821658691134,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "C",
+                "correct": true,
+                "text": "Jo\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, bem como ser eleito, entretanto, n\u00e3o poderia ter sido escolhido Presidente da C\u00e2mara dos Deputados, eis que esse cargo deve ser exercido por brasileiro nato.",
+                "pmi": [
+                    -0.3878899556902354,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "letter": "D",
+                "correct": null,
+                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, mas poderia ter se candidatado ao cargo de Senador da Rep\u00fablica, mesmo sendo brasileiro naturalizado.",
+                "pmi": [
+                    -0.41220067604463995,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Jo\u00e3o, 29 anos de idade, brasileiro naturalizado desde 1992, decidiu se candidatar, nas elei\u00e7\u00f5es de 2010, ao cargo de Deputado Federal, em determinado ente federativo. Eleito, e ap\u00f3s ter tomado posse, foi escolhido para Presidir a C\u00e2mara dos Deputados.\n\n Com base na hip\u00f3tese acima, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "valid": true,
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "number": "17"
+    }
+]

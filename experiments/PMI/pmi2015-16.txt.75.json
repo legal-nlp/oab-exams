@@ -1,1 +1,55 @@
-[{"filename": "2015-16.txt", "options": [{"correct": null, "pmi": [-0.0002615226710080392, 0.0, 0.0, 0.0], "text": "As duas sociedades empres\u00e1rias est\u00e3o erradas, pois o intervalo m\u00ednimo a ser respeitado seria de uma hora para refei\u00e7\u00e3o e descanso.", "letter": "A"}, {"correct": true, "pmi": [-0.009593083607017786, 0.0, 0.0, 0.0], "text": "A sociedade empres\u00e1ria BETA n\u00e3o deveria ser multada, pois a autoridade administrativa autorizou no seu caso a redu\u00e7\u00e3o do intervalo.", "letter": "B"}, {"correct": null, "pmi": [-0.00023246459645159042, 0.0, 0.0, 0.0], "text": "As duas sociedades empres\u00e1rias est\u00e3o corretas, pois a diminui\u00e7\u00e3o da pausa alimentar tem justificativa jur\u00eddica e deve ser respeitada.", "letter": "C"}, {"correct": null, "pmi": [-0.04975644377287984, 0.0, 0.0, 0.0], "text": "A sociedade empres\u00e1ria ALFA n\u00e3o deveria ser multada, pois a Constitui\u00e7\u00e3o Federal reconhece os acordos individuais em raz\u00e3o da autonomia privada.", "letter": "D"}], "number": "75", "valid": true, "areas": [], "enum": "As sociedades empres\u00e1rias ALFA e BETA, que atuam no ramo hoteleiro, foram fiscalizadas pela autoridade competente e multadas porque concediam intervalo de 30 minutos para refei\u00e7\u00e3o aos empregados que tinham carga hor\u00e1ria de trabalho superior a 6 horas di\u00e1rias. Ambas recorreram administrativamente da multa aplicada, sendo que a sociedade empres\u00e1ria ALFA alegou e comprovou que a redu\u00e7\u00e3o da pausa alimentar havia sido acertada em acordo individual feito diretamente com todos os empregados, e a sociedade empres\u00e1ria BETA alegou e comprovou que a redu\u00e7\u00e3o havia sido autorizada pela Superintend\u00eancia Regional do Trabalho.\n\n De acordo com a Constitui\u00e7\u00e3o, a CLT e o entendimento sumulado pelo TST, assinale a afirmativa correta."}]
+[
+    {
+        "filename": "2015-16.txt",
+        "options": [
+            {
+                "correct": null,
+                "pmi": [
+                    -0.0002615226710080392,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "As duas sociedades empres\u00e1rias est\u00e3o erradas, pois o intervalo m\u00ednimo a ser respeitado seria de uma hora para refei\u00e7\u00e3o e descanso.",
+                "letter": "A"
+            },
+            {
+                "correct": true,
+                "pmi": [
+                    -0.009593083607017786,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A sociedade empres\u00e1ria BETA n\u00e3o deveria ser multada, pois a autoridade administrativa autorizou no seu caso a redu\u00e7\u00e3o do intervalo.",
+                "letter": "B"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.00023246459645159042,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "As duas sociedades empres\u00e1rias est\u00e3o corretas, pois a diminui\u00e7\u00e3o da pausa alimentar tem justificativa jur\u00eddica e deve ser respeitada.",
+                "letter": "C"
+            },
+            {
+                "correct": null,
+                "pmi": [
+                    -0.04975644377287984,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A sociedade empres\u00e1ria ALFA n\u00e3o deveria ser multada, pois a Constitui\u00e7\u00e3o Federal reconhece os acordos individuais em raz\u00e3o da autonomia privada.",
+                "letter": "D"
+            }
+        ],
+        "number": "75",
+        "valid": true,
+        "areas": [],
+        "enum": "As sociedades empres\u00e1rias ALFA e BETA, que atuam no ramo hoteleiro, foram fiscalizadas pela autoridade competente e multadas porque concediam intervalo de 30 minutos para refei\u00e7\u00e3o aos empregados que tinham carga hor\u00e1ria de trabalho superior a 6 horas di\u00e1rias. Ambas recorreram administrativamente da multa aplicada, sendo que a sociedade empres\u00e1ria ALFA alegou e comprovou que a redu\u00e7\u00e3o da pausa alimentar havia sido acertada em acordo individual feito diretamente com todos os empregados, e a sociedade empres\u00e1ria BETA alegou e comprovou que a redu\u00e7\u00e3o havia sido autorizada pela Superintend\u00eancia Regional do Trabalho.\n\n De acordo com a Constitui\u00e7\u00e3o, a CLT e o entendimento sumulado pelo TST, assinale a afirmativa correta."
+    }
+]

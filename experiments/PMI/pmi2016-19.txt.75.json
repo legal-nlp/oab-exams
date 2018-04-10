@@ -1,1 +1,55 @@
-[{"options": [{"correct": true, "letter": "A", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "ocorreu acidente do trabalho, sendo irrelevante se o trabalho \u00e9 prestado na resid\u00eancia do empregado."}, {"correct": null, "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "n\u00e3o se pode cogitar de acidente do trabalho no teletrabalho, pois o empregado est\u00e1 em seu domic\u00edlio e n\u00e3o sob as vistas do empregador."}, {"correct": null, "letter": "C", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "o evento jamais poder\u00e1 ser considerado acidente do trabalho, uma vez que a situa\u00e7\u00e3o n\u00e3o foi testemunhada por ningu\u00e9m."}, {"correct": null, "letter": "D", "pmi": [0.0, 0.0, 0.0, 0.0], "text": "todo acidente domiciliar \u00e9 acidente do trabalho, segundo a legisla\u00e7\u00e3o previdenci\u00e1ria."}], "areas": [], "filename": "2016-19.txt", "enum": "Jorge \u00e9 um teletrabalhador e cumpre jornada preestabelecida pelo empregador, que o monitora por meio de meios telem\u00e1ticos. A empresa montou um home office na resid\u00eancia do empregado, fornecendo m\u00f3veis (mesa e cadeira ergon\u00f4mica), computador e impressora. Em determinado dia de trabalho, quando conferia relat\u00f3rios, a cadeira em que Jorge estava sentado quebrou e ele, devido \u00e0 queda violenta, machucou-se.\n\n Na hip\u00f3tese, de acordo com a Lei,", "number": "75", "valid": true}]
+[
+    {
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ocorreu acidente do trabalho, sendo irrelevante se o trabalho \u00e9 prestado na resid\u00eancia do empregado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o se pode cogitar de acidente do trabalho no teletrabalho, pois o empregado est\u00e1 em seu domic\u00edlio e n\u00e3o sob as vistas do empregador."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o evento jamais poder\u00e1 ser considerado acidente do trabalho, uma vez que a situa\u00e7\u00e3o n\u00e3o foi testemunhada por ningu\u00e9m."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "todo acidente domiciliar \u00e9 acidente do trabalho, segundo a legisla\u00e7\u00e3o previdenci\u00e1ria."
+            }
+        ],
+        "areas": [],
+        "filename": "2016-19.txt",
+        "enum": "Jorge \u00e9 um teletrabalhador e cumpre jornada preestabelecida pelo empregador, que o monitora por meio de meios telem\u00e1ticos. A empresa montou um home office na resid\u00eancia do empregado, fornecendo m\u00f3veis (mesa e cadeira ergon\u00f4mica), computador e impressora. Em determinado dia de trabalho, quando conferia relat\u00f3rios, a cadeira em que Jorge estava sentado quebrou e ele, devido \u00e0 queda violenta, machucou-se.\n\n Na hip\u00f3tese, de acordo com a Lei,",
+        "number": "75",
+        "valid": true
+    }
+]

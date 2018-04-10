@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR-PROCEDURE"], "enum": "A respeito do recurso de revista, \u00e9 correto afirmar que", "filename": "2011-04.txt", "number": "76", "options": [{"correct": null, "letter": "A", "text": "\u00e9 cab\u00edvel para corrigir injusti\u00e7as de decis\u00f5es em recurso ordin\u00e1rio, havendo aprecia\u00e7\u00e3o das provas produzidas nos autos do processo."}, {"correct": true, "letter": "B", "text": "\u00e9 cab\u00edvel nas causas sujeitas ao procedimento sumar\u00edssimo, somente por contrariedade \u00e0 s\u00famula de jurisprud\u00eancia uniforme do Tribunal Superior do Trabalho e viola\u00e7\u00e3o direta \u00e0 Constitui\u00e7\u00e3o da Rep\u00fablica."}, {"correct": null, "letter": "C", "text": "\u00e9 cab\u00edvel em sede de execu\u00e7\u00e3o, de decis\u00e3o em embargos \u00e0 execu\u00e7\u00e3o, nas mesmas hip\u00f3teses de cabimento das decis\u00f5es decorrentes de recurso ordin\u00e1rio."}, {"correct": null, "letter": "D", "text": "n\u00e3o \u00e9 cab\u00edvel para reforma de decis\u00e3o visando \u00e0 uniformiza\u00e7\u00e3o de jurisprud\u00eancia e restabelecimento da lei federal violada."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "A respeito do recurso de revista, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "76",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "\u00e9 cab\u00edvel para corrigir injusti\u00e7as de decis\u00f5es em recurso ordin\u00e1rio, havendo aprecia\u00e7\u00e3o das provas produzidas nos autos do processo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "\u00e9 cab\u00edvel nas causas sujeitas ao procedimento sumar\u00edssimo, somente por contrariedade \u00e0 s\u00famula de jurisprud\u00eancia uniforme do Tribunal Superior do Trabalho e viola\u00e7\u00e3o direta \u00e0 Constitui\u00e7\u00e3o da Rep\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "\u00e9 cab\u00edvel em sede de execu\u00e7\u00e3o, de decis\u00e3o em embargos \u00e0 execu\u00e7\u00e3o, nas mesmas hip\u00f3teses de cabimento das decis\u00f5es decorrentes de recurso ordin\u00e1rio."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "n\u00e3o \u00e9 cab\u00edvel para reforma de decis\u00e3o visando \u00e0 uniformiza\u00e7\u00e3o de jurisprud\u00eancia e restabelecimento da lei federal violada."
+            }
+        ],
+        "valid": true
+    }
+]

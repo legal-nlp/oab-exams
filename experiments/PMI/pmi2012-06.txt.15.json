@@ -1,1 +1,57 @@
-[{"filename": "2012-06.txt", "enum": "A Conven\u00e7\u00e3o Interamericana de Direitos Humanos disp\u00f5e que toda pessoa tem direito \u00e0 vida, que deve ser protegida por lei, e que ningu\u00e9m dela poder\u00e1 ser privado arbitrariamente. A respeito da pena de morte, o documento afirma que", "number": "15", "valid": true, "areas": ["HUMAN-RIGHTS"], "options": [{"correct": null, "text": "\u00e9 inadmiss\u00edvel a aplica\u00e7\u00e3o da pena de morte em qualquer circunst\u00e2ncia, j\u00e1 que o direito \u00e0 vida deve ser protegido por lei desde a concep\u00e7\u00e3o.", "letter": "A", "pmi": [-0.07620175109879421, 0.0, 0.0, 0.0]}, {"correct": null, "text": "n\u00e3o se pode aplicar pena de morte aos delitos pol\u00edticos, exceto se forem conexos a delitos comuns sujeitos a tal pena.", "letter": "B", "pmi": [-0.07503203485111873, 0.0, 0.0, 0.0]}, {"correct": true, "text": "a pena de morte n\u00e3o pode ser imposta \u00e0quele que, no momento da perpetra\u00e7\u00e3o do delito, for menor de dezoito anos, nem aplicada \u00e0 mulher em estado gestacional.", "letter": "C", "pmi": [-0.039808401247755885, 0.0, 0.0, 0.0]}, {"correct": null, "text": "n\u00e3o se admite que Estados promulguem pena de morte, exceto se j\u00e1 a tiverem aplicado e a tenham abolido, hip\u00f3tese em que a tal pena poder\u00e1 ser restabelecida.", "letter": "D", "pmi": [-0.12369194631430852, 0.0, 0.0, 0.0]}]}]
+[
+    {
+        "filename": "2012-06.txt",
+        "enum": "A Conven\u00e7\u00e3o Interamericana de Direitos Humanos disp\u00f5e que toda pessoa tem direito \u00e0 vida, que deve ser protegida por lei, e que ningu\u00e9m dela poder\u00e1 ser privado arbitrariamente. A respeito da pena de morte, o documento afirma que",
+        "number": "15",
+        "valid": true,
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "options": [
+            {
+                "correct": null,
+                "text": "\u00e9 inadmiss\u00edvel a aplica\u00e7\u00e3o da pena de morte em qualquer circunst\u00e2ncia, j\u00e1 que o direito \u00e0 vida deve ser protegido por lei desde a concep\u00e7\u00e3o.",
+                "letter": "A",
+                "pmi": [
+                    -0.07620175109879421,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "n\u00e3o se pode aplicar pena de morte aos delitos pol\u00edticos, exceto se forem conexos a delitos comuns sujeitos a tal pena.",
+                "letter": "B",
+                "pmi": [
+                    -0.07503203485111873,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "a pena de morte n\u00e3o pode ser imposta \u00e0quele que, no momento da perpetra\u00e7\u00e3o do delito, for menor de dezoito anos, nem aplicada \u00e0 mulher em estado gestacional.",
+                "letter": "C",
+                "pmi": [
+                    -0.039808401247755885,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "n\u00e3o se admite que Estados promulguem pena de morte, exceto se j\u00e1 a tiverem aplicado e a tenham abolido, hip\u00f3tese em que a tal pena poder\u00e1 ser restabelecida.",
+                "letter": "D",
+                "pmi": [
+                    -0.12369194631430852,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CIVIL-PROCEDURE"], "enum": "Considere que, ajuizada a\u00e7\u00e3o de cobran\u00e7a, entre partes capazes, para recebimento de d\u00edvida j\u00e1 prescrita, o juiz, ao analisar a exordial, a indefira, de pronto, devido \u00e0 consuma\u00e7\u00e3o da prescri\u00e7\u00e3o. Em face dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta a respeito da decis\u00e3o do magistrado.", "filename": "2010-01.txt", "number": "41", "options": [{"correct": null, "letter": "A", "text": "Sendo a prescri\u00e7\u00e3o preliminar de m\u00e9rito, o momento processual de sua aprecia\u00e7\u00e3o deveria ocorrer na senten\u00e7a final."}, {"correct": null, "letter": "B", "text": "A prescri\u00e7\u00e3o n\u00e3o poderia ser declarada de of\u00edcio visto que a a\u00e7\u00e3o trata de direitos patrimoniais."}, {"correct": true, "letter": "C", "text": "A peti\u00e7\u00e3o inicial deve ser indeferida quando o juiz verificar, desde logo, a decad\u00eancia ou a prescri\u00e7\u00e3o."}, {"correct": null, "letter": "D", "text": "O juiz n\u00e3o pode reconhecer de of\u00edcio a prescri\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Considere que, ajuizada a\u00e7\u00e3o de cobran\u00e7a, entre partes capazes, para recebimento de d\u00edvida j\u00e1 prescrita, o juiz, ao analisar a exordial, a indefira, de pronto, devido \u00e0 consuma\u00e7\u00e3o da prescri\u00e7\u00e3o. Em face dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta a respeito da decis\u00e3o do magistrado.",
+        "filename": "2010-01.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Sendo a prescri\u00e7\u00e3o preliminar de m\u00e9rito, o momento processual de sua aprecia\u00e7\u00e3o deveria ocorrer na senten\u00e7a final."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "A prescri\u00e7\u00e3o n\u00e3o poderia ser declarada de of\u00edcio visto que a a\u00e7\u00e3o trata de direitos patrimoniais."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "A peti\u00e7\u00e3o inicial deve ser indeferida quando o juiz verificar, desde logo, a decad\u00eancia ou a prescri\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O juiz n\u00e3o pode reconhecer de of\u00edcio a prescri\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]

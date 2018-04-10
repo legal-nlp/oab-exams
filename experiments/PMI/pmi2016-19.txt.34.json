@@ -1,1 +1,55 @@
-[{"filename": "2016-19.txt", "enum": "A associa\u00e7\u00e3o de moradores do Munic\u00edpio F solicitou ao Poder P\u00fablico municipal autoriza\u00e7\u00e3o para o fechamento da \u201crua de tr\u00e1s\u201d, por uma noite, para a realiza\u00e7\u00e3o de uma festa junina aberta ao p\u00fablico. O Munic\u00edpio, entretanto, negou o pedido, ao fundamento de que aquela rua seria utilizada para sediar o encontro anual dos produtores de ab\u00f3bora, a ser realizado no mesmo dia.\n\n Considerando que tal fundamenta\u00e7\u00e3o n\u00e3o est\u00e1 correta, pois, antes da negativa do pedido da associa\u00e7\u00e3o de moradores, o encontro dos produtores de ab\u00f3bora havia sido transferido para o m\u00eas seguinte, conforme publicado na imprensa oficial, assinale a afirmativa correta.", "areas": [], "number": "34", "valid": true, "options": [{"text": "Mesmo diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o.", "pmi": [-0.14992718557576606, 0.0, 0.0, 0.0], "correct": null, "letter": "A"}, {"text": "Independentemente do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o podendo a Administra\u00e7\u00e3o indeferi-lo.", "pmi": [-0.12781993240519254, 0.0, 0.0, 0.0], "correct": null, "letter": "B"}, {"text": "Diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, uma vez que, pela teoria dos motivos determinantes, a validade do ato est\u00e1 ligada aos motivos indicados como seu fundamento.", "pmi": [-0.08878737051442571, 0.0, 0.0, 0.0], "correct": true, "letter": "C"}, {"text": "A despeito do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o tendo a associa\u00e7\u00e3o de moradores demonstrado o preenchimento dos requisitos.", "pmi": [-0.06511345053348126, 0.0, 0.0, 0.0], "correct": null, "letter": "D"}]}]
+[
+    {
+        "filename": "2016-19.txt",
+        "enum": "A associa\u00e7\u00e3o de moradores do Munic\u00edpio F solicitou ao Poder P\u00fablico municipal autoriza\u00e7\u00e3o para o fechamento da \u201crua de tr\u00e1s\u201d, por uma noite, para a realiza\u00e7\u00e3o de uma festa junina aberta ao p\u00fablico. O Munic\u00edpio, entretanto, negou o pedido, ao fundamento de que aquela rua seria utilizada para sediar o encontro anual dos produtores de ab\u00f3bora, a ser realizado no mesmo dia.\n\n Considerando que tal fundamenta\u00e7\u00e3o n\u00e3o est\u00e1 correta, pois, antes da negativa do pedido da associa\u00e7\u00e3o de moradores, o encontro dos produtores de ab\u00f3bora havia sido transferido para o m\u00eas seguinte, conforme publicado na imprensa oficial, assinale a afirmativa correta.",
+        "areas": [],
+        "number": "34",
+        "valid": true,
+        "options": [
+            {
+                "text": "Mesmo diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o.",
+                "pmi": [
+                    -0.14992718557576606,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "A"
+            },
+            {
+                "text": "Independentemente do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o podendo a Administra\u00e7\u00e3o indeferi-lo.",
+                "pmi": [
+                    -0.12781993240519254,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "B"
+            },
+            {
+                "text": "Diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, uma vez que, pela teoria dos motivos determinantes, a validade do ato est\u00e1 ligada aos motivos indicados como seu fundamento.",
+                "pmi": [
+                    -0.08878737051442571,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "letter": "C"
+            },
+            {
+                "text": "A despeito do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o tendo a associa\u00e7\u00e3o de moradores demonstrado o preenchimento dos requisitos.",
+                "pmi": [
+                    -0.06511345053348126,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "correct": null,
+                "letter": "D"
+            }
+        ]
+    }
+]

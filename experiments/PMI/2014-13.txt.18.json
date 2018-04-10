@@ -1,1 +1,33 @@
-[{"areas": ["CONSTITUTIONAL"], "enum": "A argui\u00e7\u00e3o de descumprimento de preceito fundamental (ADPF), regulada pela Lei n\u00ba 9.882/99, tem por objeto evitar ou reparar les\u00e3o a preceito fundamental, resultante de ato do Poder P\u00fablico.\n\n Com base no legalmente disposto sobre a ADPF, assinale a op\u00e7\u00e3o correta.", "filename": "2014-13.txt", "number": "18", "options": [{"correct": null, "letter": "A", "text": "Face \u00e0 extraordinariedade da ADPF, a decis\u00e3o de indeferimento liminar da peti\u00e7\u00e3o inicial \u00e9 irrecorr\u00edvel."}, {"correct": true, "letter": "B", "text": "De acordo com a Lei n\u00ba 9.882/99, vige o principio da subsidiariedade quanto ao cabimento da ADPF."}, {"correct": null, "letter": "C", "text": "A decis\u00e3o proferida em ADPF produzir\u00e1 somente efeitos erga omnes e ex tunc."}, {"correct": null, "letter": "D", "text": "O prefeito de qualquer munic\u00edpio pode propor ADPF contra lei local perante o STF."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "A argui\u00e7\u00e3o de descumprimento de preceito fundamental (ADPF), regulada pela Lei n\u00ba 9.882/99, tem por objeto evitar ou reparar les\u00e3o a preceito fundamental, resultante de ato do Poder P\u00fablico.\n\n Com base no legalmente disposto sobre a ADPF, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-13.txt",
+        "number": "18",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Face \u00e0 extraordinariedade da ADPF, a decis\u00e3o de indeferimento liminar da peti\u00e7\u00e3o inicial \u00e9 irrecorr\u00edvel."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "De acordo com a Lei n\u00ba 9.882/99, vige o principio da subsidiariedade quanto ao cabimento da ADPF."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A decis\u00e3o proferida em ADPF produzir\u00e1 somente efeitos erga omnes e ex tunc."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "O prefeito de qualquer munic\u00edpio pode propor ADPF contra lei local perante o STF."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "F\u00e1bio, advogado com mais de dez anos de efetiva atividade, obt\u00e9m a indica\u00e7\u00e3o da OAB para concorrer pelo quinto constitucional \u00e0 vaga reservada no \u00e2mbito de Tribunal de Justi\u00e7a.\n\n No curso do processo tamb\u00e9m obt\u00e9m a indica\u00e7\u00e3o do Tribunal e vem a ser nomeado pelo Governador do Estado, ingressando nos quadros do Poder Judici\u00e1rio. Diante disso, \u00e0 luz das normas estatut\u00e1rias ocorrer\u00e1:", "filename": "2010-02.txt", "number": "83", "options": [{"correct": true, "letter": "A", "text": "o cancelamento da inscri\u00e7\u00e3o como advogado."}, {"correct": null, "letter": "B", "text": "a suspens\u00e3o at\u00e9 que cesse a incompatibilidade."}, {"correct": null, "letter": "C", "text": "o licenciamento do profissional."}, {"correct": null, "letter": "D", "text": "a passagem para a reserva do quadro de advogados."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "F\u00e1bio, advogado com mais de dez anos de efetiva atividade, obt\u00e9m a indica\u00e7\u00e3o da OAB para concorrer pelo quinto constitucional \u00e0 vaga reservada no \u00e2mbito de Tribunal de Justi\u00e7a.\n\n No curso do processo tamb\u00e9m obt\u00e9m a indica\u00e7\u00e3o do Tribunal e vem a ser nomeado pelo Governador do Estado, ingressando nos quadros do Poder Judici\u00e1rio. Diante disso, \u00e0 luz das normas estatut\u00e1rias ocorrer\u00e1:",
+        "filename": "2010-02.txt",
+        "number": "83",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "text": "o cancelamento da inscri\u00e7\u00e3o como advogado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "a suspens\u00e3o at\u00e9 que cesse a incompatibilidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "o licenciamento do profissional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a passagem para a reserva do quadro de advogados."
+            }
+        ],
+        "valid": true
+    }
+]

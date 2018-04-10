@@ -1,1 +1,31 @@
-[{"areas": [], "enum": "A sociedade empres\u00e1ria Beta S.A. teve a fal\u00eancia decretada durante a tramita\u00e7\u00e3o de uma reclama\u00e7\u00e3o trabalhista, fato devidamente informado ao ju\u00edzo. Depois de julgado procedente em parte o pedido de diferen\u00e7as de horas extras e de parcelas recis\u00f3rias, nenhuma das partes recorreu da senten\u00e7a, que transitou em julgado dessa forma. Teve, ent\u00e3o, in\u00edcio a execu\u00e7\u00e3o, com a apresenta\u00e7\u00e3o dos c\u00e1lculos pelo autor e posterior homologa\u00e7\u00e3o pelo juiz.\n\n Diante da situa\u00e7\u00e3o, assinale a afirmativa correta.", "filename": "2015-17.txt", "number": "79", "options": [{"correct": null, "letter": "A", "text": "H\u00e1 equ\u00edvoco, pois, a partir da decreta\u00e7\u00e3o da fal\u00eancia, a a\u00e7\u00e3o trabalhista passa a ser da compet\u00eancia do ju\u00edzo falimentar, que deve proferir a senten\u00e7a."}, {"correct": true, "letter": "B", "text": "O pagamento do valor homologado dever\u00e1 ser feito no ju\u00edzo da fal\u00eancia, que \u00e9 universal."}, {"correct": null, "letter": "C", "text": "A execu\u00e7\u00e3o ser\u00e1 feita diretamente na Justi\u00e7a do Trabalho, porque o t\u00edtulo executivo foi criado pelo Juiz do Trabalho."}, {"correct": null, "letter": "D", "text": "Essa \u00e9 a \u00fanica hip\u00f3tese de compet\u00eancia concorrente, ou seja, poder\u00e1 ser executado tanto na Justi\u00e7a do Trabalho quanto na Justi\u00e7a comum."}], "valid": true}]
+[
+    {
+        "areas": [],
+        "enum": "A sociedade empres\u00e1ria Beta S.A. teve a fal\u00eancia decretada durante a tramita\u00e7\u00e3o de uma reclama\u00e7\u00e3o trabalhista, fato devidamente informado ao ju\u00edzo. Depois de julgado procedente em parte o pedido de diferen\u00e7as de horas extras e de parcelas recis\u00f3rias, nenhuma das partes recorreu da senten\u00e7a, que transitou em julgado dessa forma. Teve, ent\u00e3o, in\u00edcio a execu\u00e7\u00e3o, com a apresenta\u00e7\u00e3o dos c\u00e1lculos pelo autor e posterior homologa\u00e7\u00e3o pelo juiz.\n\n Diante da situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
+        "number": "79",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "H\u00e1 equ\u00edvoco, pois, a partir da decreta\u00e7\u00e3o da fal\u00eancia, a a\u00e7\u00e3o trabalhista passa a ser da compet\u00eancia do ju\u00edzo falimentar, que deve proferir a senten\u00e7a."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O pagamento do valor homologado dever\u00e1 ser feito no ju\u00edzo da fal\u00eancia, que \u00e9 universal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "A execu\u00e7\u00e3o ser\u00e1 feita diretamente na Justi\u00e7a do Trabalho, porque o t\u00edtulo executivo foi criado pelo Juiz do Trabalho."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Essa \u00e9 a \u00fanica hip\u00f3tese de compet\u00eancia concorrente, ou seja, poder\u00e1 ser executado tanto na Justi\u00e7a do Trabalho quanto na Justi\u00e7a comum."
+            }
+        ],
+        "valid": true
+    }
+]

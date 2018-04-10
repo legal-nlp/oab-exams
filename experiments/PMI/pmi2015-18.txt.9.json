@@ -1,1 +1,57 @@
-[{"number": "9", "options": [{"pmi": [-0.047353437861898925, 0.0, 0.0, 0.0], "letter": "A", "correct": true, "text": "Os advogados dever\u00e3o recusar, por meio de qualquer s\u00f3cio do escrit\u00f3rio ou filial, a atua\u00e7\u00e3o da sociedade de advogados na defesa do banco, pois os advogados s\u00f3cios de uma mesma sociedade profissional n\u00e3o podem representar em ju\u00edzo clientes de interesses opostos."}, {"pmi": [-0.06265000592591212, 0.0, 0.0, 0.0], "letter": "B", "correct": null, "text": "Os advogados dever\u00e3o identificar quem s\u00e3o os s\u00f3cios do escrit\u00f3rio que atuam na causa, pois estes n\u00e3o poder\u00e3o realizar a defesa t\u00e9cnica do banco em quaisquer dos processos em tr\u00e2mite, sendo autorizada, por\u00e9m, a atua\u00e7\u00e3o dos demais s\u00f3cios da sociedade de advogados, de qualquer filial."}, {"pmi": [-0.04993390869194199, 0.0, 0.0, 0.0], "letter": "C", "correct": null, "text": "Os advogados dever\u00e3o recusar a defesa do banco pela filial da sociedade de advogados no Rio Grande do Sul e indicar as outras filiais para atua\u00e7\u00e3o nos feitos, pois todos os s\u00f3cios da filial ficam impedidos de representar em ju\u00edzo a institui\u00e7\u00e3o financeira, em raz\u00e3o de j\u00e1 haver atua\u00e7\u00e3o em favor de cliente com interesses opostos."}, {"pmi": [-0.05523024756333051, 0.0, 0.0, 0.0], "letter": "D", "correct": null, "text": "Os advogados dever\u00e3o informar ao banco que h\u00e1 atua\u00e7\u00e3o de advogados daquela filial em um dos processos em favor do autor da demanda, a fim de que a institui\u00e7\u00e3o financeira decida se deseja, efetivamente, que a sua defesa t\u00e9cnica seja realizada pela sociedade de advogados, garantindo, assim, o consentimento informado do cliente."}], "areas": ["ETHICS"], "filename": "2015-18.txt", "valid": true, "enum": "O banco D\u00f3lar \u00e9 r\u00e9u em diversos processos de natureza consumerista, todos com id\u00eanticos fundamentos de Direito, pulverizados pelo territ\u00f3rio nacional. Considerando a grande quantidade de feitos e sua abrang\u00eancia territorial, a institui\u00e7\u00e3o financeira decidiu contratar a sociedade de advogados X para sua defesa em ju\u00edzo, pois esta possui filial em diversos estados da Federa\u00e7\u00e3o. Diante da consulta formulada pelo banco, alguns advogados, s\u00f3cios integrantes da filial situada no Rio Grande do Sul, realizaram mapeamento dos processos em tr\u00e2mite em face da pessoa jur\u00eddica. Assim, observaram que esta mesma filial j\u00e1 atua em um dos processos em favor do autor da demanda.\n\n Tendo em vista tal situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o correta."}]
+[
+    {
+        "number": "9",
+        "options": [
+            {
+                "pmi": [
+                    -0.047353437861898925,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": true,
+                "text": "Os advogados dever\u00e3o recusar, por meio de qualquer s\u00f3cio do escrit\u00f3rio ou filial, a atua\u00e7\u00e3o da sociedade de advogados na defesa do banco, pois os advogados s\u00f3cios de uma mesma sociedade profissional n\u00e3o podem representar em ju\u00edzo clientes de interesses opostos."
+            },
+            {
+                "pmi": [
+                    -0.06265000592591212,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": null,
+                "text": "Os advogados dever\u00e3o identificar quem s\u00e3o os s\u00f3cios do escrit\u00f3rio que atuam na causa, pois estes n\u00e3o poder\u00e3o realizar a defesa t\u00e9cnica do banco em quaisquer dos processos em tr\u00e2mite, sendo autorizada, por\u00e9m, a atua\u00e7\u00e3o dos demais s\u00f3cios da sociedade de advogados, de qualquer filial."
+            },
+            {
+                "pmi": [
+                    -0.04993390869194199,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null,
+                "text": "Os advogados dever\u00e3o recusar a defesa do banco pela filial da sociedade de advogados no Rio Grande do Sul e indicar as outras filiais para atua\u00e7\u00e3o nos feitos, pois todos os s\u00f3cios da filial ficam impedidos de representar em ju\u00edzo a institui\u00e7\u00e3o financeira, em raz\u00e3o de j\u00e1 haver atua\u00e7\u00e3o em favor de cliente com interesses opostos."
+            },
+            {
+                "pmi": [
+                    -0.05523024756333051,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null,
+                "text": "Os advogados dever\u00e3o informar ao banco que h\u00e1 atua\u00e7\u00e3o de advogados daquela filial em um dos processos em favor do autor da demanda, a fim de que a institui\u00e7\u00e3o financeira decida se deseja, efetivamente, que a sua defesa t\u00e9cnica seja realizada pela sociedade de advogados, garantindo, assim, o consentimento informado do cliente."
+            }
+        ],
+        "areas": [
+            "ETHICS"
+        ],
+        "filename": "2015-18.txt",
+        "valid": true,
+        "enum": "O banco D\u00f3lar \u00e9 r\u00e9u em diversos processos de natureza consumerista, todos com id\u00eanticos fundamentos de Direito, pulverizados pelo territ\u00f3rio nacional. Considerando a grande quantidade de feitos e sua abrang\u00eancia territorial, a institui\u00e7\u00e3o financeira decidiu contratar a sociedade de advogados X para sua defesa em ju\u00edzo, pois esta possui filial em diversos estados da Federa\u00e7\u00e3o. Diante da consulta formulada pelo banco, alguns advogados, s\u00f3cios integrantes da filial situada no Rio Grande do Sul, realizaram mapeamento dos processos em tr\u00e2mite em face da pessoa jur\u00eddica. Assim, observaram que esta mesma filial j\u00e1 atua em um dos processos em favor do autor da demanda.\n\n Tendo em vista tal situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o correta."
+    }
+]

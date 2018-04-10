@@ -1,1 +1,33 @@
-[{"areas": ["ETHICS"], "enum": "Caio, pr\u00f3spero comerciante, contrata, para presta\u00e7\u00e3o de servi\u00e7os profissionais de advocacia, M\u00e9vio, que se apresenta como advogado. O cliente outorga a devida procura\u00e7\u00e3o com poderes gerais para o foro. Usando o referido instrumento, ocorre a propositura de a\u00e7\u00e3o judicial em face de Tr\u00e1cio. Na contesta\u00e7\u00e3o, o advogado do r\u00e9u alega v\u00edcio na representa\u00e7\u00e3o, uma vez que M\u00e9vio n\u00e3o possui registro na OAB, consoante certid\u00e3o que apresenta nos autos judiciais. Diante de tal circunst\u00e2ncia, \u00e9 correto afirmar que", "filename": "2012-06.txt", "number": "5", "options": [{"correct": null, "letter": "A", "text": "os atos praticados pelo suposto advogado n\u00e3o ofendem qualquer dispositivo legal."}, {"correct": null, "letter": "B", "text": "verificada a aus\u00eancia de inscri\u00e7\u00e3o profissional, dever\u00e1 ser outorgado prazo para sua regulariza\u00e7\u00e3o."}, {"correct": true, "letter": "C", "text": "os atos praticados por M\u00e9vio s\u00e3o nulos, pois foram praticados por pessoa n\u00e3o inscrita na OAB."}, {"correct": null, "letter": "D", "text": "a declara\u00e7\u00e3o de nulidade dos atos processuais esgota o rol de atos sancionat\u00f3rios."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Caio, pr\u00f3spero comerciante, contrata, para presta\u00e7\u00e3o de servi\u00e7os profissionais de advocacia, M\u00e9vio, que se apresenta como advogado. O cliente outorga a devida procura\u00e7\u00e3o com poderes gerais para o foro. Usando o referido instrumento, ocorre a propositura de a\u00e7\u00e3o judicial em face de Tr\u00e1cio. Na contesta\u00e7\u00e3o, o advogado do r\u00e9u alega v\u00edcio na representa\u00e7\u00e3o, uma vez que M\u00e9vio n\u00e3o possui registro na OAB, consoante certid\u00e3o que apresenta nos autos judiciais. Diante de tal circunst\u00e2ncia, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "5",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "os atos praticados pelo suposto advogado n\u00e3o ofendem qualquer dispositivo legal."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "verificada a aus\u00eancia de inscri\u00e7\u00e3o profissional, dever\u00e1 ser outorgado prazo para sua regulariza\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "os atos praticados por M\u00e9vio s\u00e3o nulos, pois foram praticados por pessoa n\u00e3o inscrita na OAB."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "a declara\u00e7\u00e3o de nulidade dos atos processuais esgota o rol de atos sancionat\u00f3rios."
+            }
+        ],
+        "valid": true
+    }
+]

@@ -1,1 +1,33 @@
-[{"areas": ["CHILD"], "enum": "Com rela\u00e7\u00e3o aos procedimentos para a perda e a suspens\u00e3o do poder familiar regulados pelo Estatuto da Crian\u00e7a e do Adolescente, \u00e9 correto afirmar que", "filename": "2011-03.txt", "number": "97", "options": [{"correct": null, "letter": "A", "text": "a autoridade judici\u00e1ria, ouvido o Minist\u00e9rio P\u00fablico, poder\u00e1 decretar liminar ou incidentalmente a suspens\u00e3o do poder familiar, independentemente da gravidade do motivo."}, {"correct": null, "letter": "B", "text": "o procedimento para perda ou suspens\u00e3o do poder familiar dispensa que os pais sejam ouvidos, mesmo se estes forem identificados e estiverem em local conhecido."}, {"correct": true, "letter": "C", "text": "o procedimento para perda ou suspens\u00e3o do poder familiar ter\u00e1 in\u00edcio por provoca\u00e7\u00e3o do Minist\u00e9rio P\u00fablico ou de quem tenha leg\u00edtimo interesse."}, {"correct": null, "letter": "D", "text": "em conformidade com a nova reda\u00e7\u00e3o dada pela Lei 12.010, de 3 de agosto de 2009, o prazo m\u00e1ximo para a conclus\u00e3o do procedimento de perda ou suspens\u00e3o do poder familiar ser\u00e1 de 180 (cento e oitenta) dias."}], "valid": true}]
+[
+    {
+        "areas": [
+            "CHILD"
+        ],
+        "enum": "Com rela\u00e7\u00e3o aos procedimentos para a perda e a suspens\u00e3o do poder familiar regulados pelo Estatuto da Crian\u00e7a e do Adolescente, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "97",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "a autoridade judici\u00e1ria, ouvido o Minist\u00e9rio P\u00fablico, poder\u00e1 decretar liminar ou incidentalmente a suspens\u00e3o do poder familiar, independentemente da gravidade do motivo."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "o procedimento para perda ou suspens\u00e3o do poder familiar dispensa que os pais sejam ouvidos, mesmo se estes forem identificados e estiverem em local conhecido."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "o procedimento para perda ou suspens\u00e3o do poder familiar ter\u00e1 in\u00edcio por provoca\u00e7\u00e3o do Minist\u00e9rio P\u00fablico ou de quem tenha leg\u00edtimo interesse."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "em conformidade com a nova reda\u00e7\u00e3o dada pela Lei 12.010, de 3 de agosto de 2009, o prazo m\u00e1ximo para a conclus\u00e3o do procedimento de perda ou suspens\u00e3o do poder familiar ser\u00e1 de 180 (cento e oitenta) dias."
+            }
+        ],
+        "valid": true
+    }
+]

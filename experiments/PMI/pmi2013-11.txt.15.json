@@ -1,1 +1,57 @@
-[{"number": "15", "filename": "2013-11.txt", "options": [{"pmi": [-0.3505699601247222, -0.006671112996892316, -0.007508880675571816, 0.0], "correct": null, "text": "O Supremo Tribunal Federal (STF) poder\u00e1, de of\u00edcio, declarar a inconstitucionalidade da norma estadual produzida em desconformidade com a S\u00famula.", "letter": "A"}, {"pmi": [-0.34552390520226783, -0.005241588783272534, -0.005776062058132166, 0.0], "correct": null, "text": "Qualquer cidad\u00e3o poder\u00e1 propor a revis\u00e3o ou o cancelamento de s\u00famula vinculante que, nesse caso, ser\u00e1 declarada mediante a decis\u00e3o de dois ter\u00e7os dos membros do Supremo Tribunal Federal (STF).", "letter": "B"}, {"pmi": [-0.4134122983562842, -0.005241588783272534, -0.005776062058132166, 0.0], "correct": null, "text": "\u00c9 cab\u00edvel reclama\u00e7\u00e3o perante o Supremo Tribunal Federal (STF) para questionar a validade da lei do Estado X que disp\u00f5e sobre os sistemas de cons\u00f3rcios e sorteios em seu territ\u00f3rio.", "letter": "C"}, {"pmi": [-0.23525788186902577, -0.0006923105679981541, 0.0, 0.0], "correct": true, "text": "A s\u00famula possui efeitos vinculantes em rela\u00e7\u00e3o aos \u00f3rg\u00e3os do Poder Judici\u00e1rio e \u00e0 Administra\u00e7\u00e3o P\u00fablica direta e indireta, nas esferas federal, estadual e municipal, mas n\u00e3o vincula o Poder Legislativo na sua atividade legiferante.", "letter": "D"}], "areas": ["CONSTITUTIONAL"], "enum": "Ap\u00f3s reiteradas decis\u00f5es sobre determinada mat\u00e9ria, o Supremo Tribunal Federal (STF) aprovou enunciado de S\u00famula Vinculante determinando que \u201c\u00e9 inconstitucional lei ou ato normativo estadual ou distrital que disponha sobre sistemas de cons\u00f3rcios e sorteios, inclusive bingos e loterias\u201d. O Estado X, contudo, n\u00e3o concordando com a posi\u00e7\u00e3o do Supremo Tribunal Federal (STF), edita lei dispondo exatamente sobre os sistemas de cons\u00f3rcios e sorteios em seu territ\u00f3rio.\n\n A partir da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.", "valid": true}]
+[
+    {
+        "number": "15",
+        "filename": "2013-11.txt",
+        "options": [
+            {
+                "pmi": [
+                    -0.3505699601247222,
+                    -0.006671112996892316,
+                    -0.007508880675571816,
+                    0.0
+                ],
+                "correct": null,
+                "text": "O Supremo Tribunal Federal (STF) poder\u00e1, de of\u00edcio, declarar a inconstitucionalidade da norma estadual produzida em desconformidade com a S\u00famula.",
+                "letter": "A"
+            },
+            {
+                "pmi": [
+                    -0.34552390520226783,
+                    -0.005241588783272534,
+                    -0.005776062058132166,
+                    0.0
+                ],
+                "correct": null,
+                "text": "Qualquer cidad\u00e3o poder\u00e1 propor a revis\u00e3o ou o cancelamento de s\u00famula vinculante que, nesse caso, ser\u00e1 declarada mediante a decis\u00e3o de dois ter\u00e7os dos membros do Supremo Tribunal Federal (STF).",
+                "letter": "B"
+            },
+            {
+                "pmi": [
+                    -0.4134122983562842,
+                    -0.005241588783272534,
+                    -0.005776062058132166,
+                    0.0
+                ],
+                "correct": null,
+                "text": "\u00c9 cab\u00edvel reclama\u00e7\u00e3o perante o Supremo Tribunal Federal (STF) para questionar a validade da lei do Estado X que disp\u00f5e sobre os sistemas de cons\u00f3rcios e sorteios em seu territ\u00f3rio.",
+                "letter": "C"
+            },
+            {
+                "pmi": [
+                    -0.23525788186902577,
+                    -0.0006923105679981541,
+                    0.0,
+                    0.0
+                ],
+                "correct": true,
+                "text": "A s\u00famula possui efeitos vinculantes em rela\u00e7\u00e3o aos \u00f3rg\u00e3os do Poder Judici\u00e1rio e \u00e0 Administra\u00e7\u00e3o P\u00fablica direta e indireta, nas esferas federal, estadual e municipal, mas n\u00e3o vincula o Poder Legislativo na sua atividade legiferante.",
+                "letter": "D"
+            }
+        ],
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Ap\u00f3s reiteradas decis\u00f5es sobre determinada mat\u00e9ria, o Supremo Tribunal Federal (STF) aprovou enunciado de S\u00famula Vinculante determinando que \u201c\u00e9 inconstitucional lei ou ato normativo estadual ou distrital que disponha sobre sistemas de cons\u00f3rcios e sorteios, inclusive bingos e loterias\u201d. O Estado X, contudo, n\u00e3o concordando com a posi\u00e7\u00e3o do Supremo Tribunal Federal (STF), edita lei dispondo exatamente sobre os sistemas de cons\u00f3rcios e sorteios em seu territ\u00f3rio.\n\n A partir da situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "valid": true
+    }
+]

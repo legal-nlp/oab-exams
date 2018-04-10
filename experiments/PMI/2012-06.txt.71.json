@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "No direito brasileiro, a redu\u00e7\u00e3o do sal\u00e1rio \u00e9", "filename": "2012-06.txt", "number": "71", "options": [{"correct": null, "letter": "A", "text": "imposs\u00edvel."}, {"correct": null, "letter": "B", "text": "poss\u00edvel, em caso de acordo entre empregado e empregador, desde que tenha por finalidade evitar a dispensa do empregado sem justa causa."}, {"correct": null, "letter": "C", "text": "poss\u00edvel mediante autoriza\u00e7\u00e3o da Superintend\u00eancia Regional do Trabalho e Emprego."}, {"correct": true, "letter": "D", "text": "poss\u00edvel mediante conven\u00e7\u00e3o ou acordo coletivo de trabalho."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "No direito brasileiro, a redu\u00e7\u00e3o do sal\u00e1rio \u00e9",
+        "filename": "2012-06.txt",
+        "number": "71",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "imposs\u00edvel."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "poss\u00edvel, em caso de acordo entre empregado e empregador, desde que tenha por finalidade evitar a dispensa do empregado sem justa causa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "poss\u00edvel mediante autoriza\u00e7\u00e3o da Superintend\u00eancia Regional do Trabalho e Emprego."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "poss\u00edvel mediante conven\u00e7\u00e3o ou acordo coletivo de trabalho."
+            }
+        ],
+        "valid": true
+    }
+]

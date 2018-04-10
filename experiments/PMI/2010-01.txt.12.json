@@ -1,1 +1,33 @@
-[{"areas": ["INTERNATIONAL"], "enum": "Acerca da condi\u00e7\u00e3o jur\u00eddica dos estrangeiros e dos nacionais no direito brasileiro, assinale a op\u00e7\u00e3o correta.", "filename": "2010-01.txt", "number": "12", "options": [{"correct": null, "letter": "A", "text": "A CF disp\u00f5e expressamente sobre a possibilidade de expuls\u00e3o do estrangeiro que praticar atividade nociva \u00e0 ordem p\u00fablica e ao interesse nacional, salvo se estiverem presentes, simultaneamente, os seguintes requisitos: c\u00f4njuge brasileiro e filho brasileiro dependente da economia paterna."}, {"correct": true, "letter": "B", "text": "O Brasil, por ter ratificado integralmente o Estatuto de Roma, que criou o Tribunal Penal Internacional, tem o compromisso de entregar ao tribunal os indiv\u00edduos contra os quais tenham sido expedidos pedidos de deten\u00e7\u00e3o e entrega, mesmo que eles possuam, originariamente, nacionalidade brasileira."}, {"correct": null, "letter": "C", "text": "Os estrangeiros de qualquer nacionalidade residentes na Rep\u00fablica Federativa do Brasil h\u00e1 mais de quinze anos ininterruptos s\u00e3o automaticamente considerados brasileiros naturalizados, independentemente de qualquer outra condi\u00e7\u00e3o ou exig\u00eancia."}, {"correct": null, "letter": "D", "text": "\u00c9 vedada a extradi\u00e7\u00e3o de nacionais, salvo em caso de comprovado envolvimento em tr\u00e1fico il\u00edcito de entorpecentes, em terrorismo ou em crimes definidos, em lei, como hediondos."}], "valid": true}]
+[
+    {
+        "areas": [
+            "INTERNATIONAL"
+        ],
+        "enum": "Acerca da condi\u00e7\u00e3o jur\u00eddica dos estrangeiros e dos nacionais no direito brasileiro, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "12",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "A CF disp\u00f5e expressamente sobre a possibilidade de expuls\u00e3o do estrangeiro que praticar atividade nociva \u00e0 ordem p\u00fablica e ao interesse nacional, salvo se estiverem presentes, simultaneamente, os seguintes requisitos: c\u00f4njuge brasileiro e filho brasileiro dependente da economia paterna."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "O Brasil, por ter ratificado integralmente o Estatuto de Roma, que criou o Tribunal Penal Internacional, tem o compromisso de entregar ao tribunal os indiv\u00edduos contra os quais tenham sido expedidos pedidos de deten\u00e7\u00e3o e entrega, mesmo que eles possuam, originariamente, nacionalidade brasileira."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os estrangeiros de qualquer nacionalidade residentes na Rep\u00fablica Federativa do Brasil h\u00e1 mais de quinze anos ininterruptos s\u00e3o automaticamente considerados brasileiros naturalizados, independentemente de qualquer outra condi\u00e7\u00e3o ou exig\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "\u00c9 vedada a extradi\u00e7\u00e3o de nacionais, salvo em caso de comprovado envolvimento em tr\u00e1fico il\u00edcito de entorpecentes, em terrorismo ou em crimes definidos, em lei, como hediondos."
+            }
+        ],
+        "valid": true
+    }
+]

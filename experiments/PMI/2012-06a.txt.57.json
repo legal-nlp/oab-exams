@@ -1,1 +1,33 @@
-[{"areas": ["ENVIRONMENTAL"], "enum": "Uma empresa de telefonia celular deseja instalar uma antena pr\u00f3xima a uma floresta localizada no munic\u00edpio de Cantinho Feliz. A antena produzir\u00e1 uma quantidade significativa de energia eletromagn\u00e9tica. Com base no exposto, assinale a alternativa correta.", "filename": "2012-06a.txt", "number": "57", "options": [{"correct": null, "letter": "A", "text": "Como a energia \u00e9 incolor e inodora, e \u00e9 praticamente impercept\u00edvel a olho nu, n\u00e3o pode ser considerada potencialmente poluente. Logo, o Poder P\u00fablico n\u00e3o pode exigir licenciamento e estudo pr\u00e9vio de impacto ambiental \u00e0 empresa de telefonia, porque n\u00e3o h\u00e1 como comprovar o risco de impacto ambiental."}, {"correct": null, "letter": "B", "text": "Como n\u00e3o h\u00e1 certeza cient\u00edfica sobre a exist\u00eancia de riscos ambientais causados pela polui\u00e7\u00e3o eletromagn\u00e9tica, o princ\u00edpio da preven\u00e7\u00e3o deve ser invocado, e a empresa de telefonia dever\u00e1 solicitar ao Munic\u00edpio de Cantinho Feliz que fa\u00e7a o licenciamento e que elabore o estudo pr\u00e9vio de impacto ambiental."}, {"correct": null, "letter": "C", "text": "O direito ao meio ambiente ecologicamente equilibrado \u00e9 visto pelos tribunais superiores como um direito fundamental e possui vi\u00e9s antropoc\u00eantrico. Logo, se a \u00e1rea n\u00e3o for habitada por seres humanos, o Poder P\u00fablico n\u00e3o poder\u00e1 exigir licenciamento e estudo pr\u00e9vio de impacto ambiental."}, {"correct": true, "letter": "D", "text": "Caso haja licenciamento e estudo pr\u00e9vio de impacto ambiental para avaliar a poss\u00edvel instala\u00e7\u00e3o da antena, o \u00f3rg\u00e3o competente n\u00e3o estar\u00e1 necessariamente obrigado a marcar a audi\u00eancia p\u00fablica. Entretanto, ela pode ser requerida por abaixo-assinado subscrito por, no m\u00ednimo, 50 cidad\u00e3os, por entidade civil ou pelo Minist\u00e9rio P\u00fablico."}], "valid": true}]
+[
+    {
+        "areas": [
+            "ENVIRONMENTAL"
+        ],
+        "enum": "Uma empresa de telefonia celular deseja instalar uma antena pr\u00f3xima a uma floresta localizada no munic\u00edpio de Cantinho Feliz. A antena produzir\u00e1 uma quantidade significativa de energia eletromagn\u00e9tica. Com base no exposto, assinale a alternativa correta.",
+        "filename": "2012-06a.txt",
+        "number": "57",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Como a energia \u00e9 incolor e inodora, e \u00e9 praticamente impercept\u00edvel a olho nu, n\u00e3o pode ser considerada potencialmente poluente. Logo, o Poder P\u00fablico n\u00e3o pode exigir licenciamento e estudo pr\u00e9vio de impacto ambiental \u00e0 empresa de telefonia, porque n\u00e3o h\u00e1 como comprovar o risco de impacto ambiental."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Como n\u00e3o h\u00e1 certeza cient\u00edfica sobre a exist\u00eancia de riscos ambientais causados pela polui\u00e7\u00e3o eletromagn\u00e9tica, o princ\u00edpio da preven\u00e7\u00e3o deve ser invocado, e a empresa de telefonia dever\u00e1 solicitar ao Munic\u00edpio de Cantinho Feliz que fa\u00e7a o licenciamento e que elabore o estudo pr\u00e9vio de impacto ambiental."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O direito ao meio ambiente ecologicamente equilibrado \u00e9 visto pelos tribunais superiores como um direito fundamental e possui vi\u00e9s antropoc\u00eantrico. Logo, se a \u00e1rea n\u00e3o for habitada por seres humanos, o Poder P\u00fablico n\u00e3o poder\u00e1 exigir licenciamento e estudo pr\u00e9vio de impacto ambiental."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "text": "Caso haja licenciamento e estudo pr\u00e9vio de impacto ambiental para avaliar a poss\u00edvel instala\u00e7\u00e3o da antena, o \u00f3rg\u00e3o competente n\u00e3o estar\u00e1 necessariamente obrigado a marcar a audi\u00eancia p\u00fablica. Entretanto, ela pode ser requerida por abaixo-assinado subscrito por, no m\u00ednimo, 50 cidad\u00e3os, por entidade civil ou pelo Minist\u00e9rio P\u00fablico."
+            }
+        ],
+        "valid": true
+    }
+]

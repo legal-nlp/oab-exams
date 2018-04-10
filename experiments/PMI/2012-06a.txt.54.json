@@ -1,1 +1,33 @@
-[{"areas": ["TAXES"], "enum": "As taxas s\u00e3o os tributos que t\u00eam por hip\u00f3tese de incid\u00eancia uma atua\u00e7\u00e3o estatal.\n\n Assinale a alternativa que corretamente delimite tal atua\u00e7\u00e3o, nos termos da Constitui\u00e7\u00e3o da Rep\u00fablica Federativa do Brasil e da legisla\u00e7\u00e3o tribut\u00e1ria.", "filename": "2012-06a.txt", "number": "54", "options": [{"correct": null, "letter": "A", "text": "Os servi\u00e7os p\u00fablicos universais (uti universi) podem ser custeados por meio de taxas, j\u00e1 que alcan\u00e7am a coletividade considerada como um todo, o mesmo n\u00e3o podendo se dizer a respeito dos atos de pol\u00edcia."}, {"correct": null, "letter": "B", "text": "Tanto os servi\u00e7os p\u00fablicos uti universi como os uti singuli, tamb\u00e9m chamados singulares, na medida em que s\u00e3o mensur\u00e1veis e divis\u00edveis, podem ser custeados por meio de taxas, juntamente com os atos de pol\u00edcia."}, {"correct": true, "letter": "C", "text": "Somente os servi\u00e7os p\u00fablicos espec\u00edficos, por serem de utiliza\u00e7\u00e3o individual e mensur\u00e1vel, podem ser custeados mediante taxas de servi\u00e7o, ocorrendo o mesmo com os atos de pol\u00edcia, que devem ser espec\u00edficos e divis\u00edveis para serem custeados mediante taxas de pol\u00edcia."}, {"correct": null, "letter": "D", "text": "A atua\u00e7\u00e3o estatal suscet\u00edvel de ser custeada mediante taxa \u00e9 aquela que se refere indiretamente ao contribuinte, tal como uma obra p\u00fablica que causa valoriza\u00e7\u00e3o imobili\u00e1ria, aumentando o valor de mercado dos im\u00f3veis localizados em suas imedia\u00e7\u00f5es."}], "valid": true}]
+[
+    {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "As taxas s\u00e3o os tributos que t\u00eam por hip\u00f3tese de incid\u00eancia uma atua\u00e7\u00e3o estatal.\n\n Assinale a alternativa que corretamente delimite tal atua\u00e7\u00e3o, nos termos da Constitui\u00e7\u00e3o da Rep\u00fablica Federativa do Brasil e da legisla\u00e7\u00e3o tribut\u00e1ria.",
+        "filename": "2012-06a.txt",
+        "number": "54",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os servi\u00e7os p\u00fablicos universais (uti universi) podem ser custeados por meio de taxas, j\u00e1 que alcan\u00e7am a coletividade considerada como um todo, o mesmo n\u00e3o podendo se dizer a respeito dos atos de pol\u00edcia."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "text": "Tanto os servi\u00e7os p\u00fablicos uti universi como os uti singuli, tamb\u00e9m chamados singulares, na medida em que s\u00e3o mensur\u00e1veis e divis\u00edveis, podem ser custeados por meio de taxas, juntamente com os atos de pol\u00edcia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "text": "Somente os servi\u00e7os p\u00fablicos espec\u00edficos, por serem de utiliza\u00e7\u00e3o individual e mensur\u00e1vel, podem ser custeados mediante taxas de servi\u00e7o, ocorrendo o mesmo com os atos de pol\u00edcia, que devem ser espec\u00edficos e divis\u00edveis para serem custeados mediante taxas de pol\u00edcia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A atua\u00e7\u00e3o estatal suscet\u00edvel de ser custeada mediante taxa \u00e9 aquela que se refere indiretamente ao contribuinte, tal como uma obra p\u00fablica que causa valoriza\u00e7\u00e3o imobili\u00e1ria, aumentando o valor de mercado dos im\u00f3veis localizados em suas imedia\u00e7\u00f5es."
+            }
+        ],
+        "valid": true
+    }
+]

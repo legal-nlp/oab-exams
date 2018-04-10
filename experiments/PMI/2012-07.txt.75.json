@@ -1,1 +1,33 @@
-[{"areas": ["LABOUR"], "enum": "Determinado empregado, durante quatro anos consecutivos, percebeu pagamento de adicional de insalubridade, j\u00e1 que desenvolvia seu mister exposto a agentes nocivos \u00e0 sa\u00fade. A empregadora, ap\u00f3s sofrer fiscaliza\u00e7\u00e3o do Minist\u00e9rio do Trabalho, houve por bem fornecer a todos os seus empregados equipamento de prote\u00e7\u00e3o individual (EPI) aprovado pelo \u00f3rg\u00e3o competente do Poder Executivo, eliminando, definitivamente, os riscos \u00e0 higidez f\u00edsica dos trabalhadores.  Diante do relatado, assinale a op\u00e7\u00e3o INCORRETA:", "filename": "2012-07.txt", "number": "75", "options": [{"correct": null, "letter": "A", "text": "Enquanto percebido, o adicional de insalubridade integra a remunera\u00e7\u00e3o para todos os efeitos legais."}, {"correct": true, "letter": "B", "text": "Tendo o empregado recebido adicional de insalubridade com habitualidade, a rubrica n\u00e3o pode ser suprimida, ainda que o empregador promova a elimina\u00e7\u00e3o dos riscos \u00e0 integridade f\u00edsica do empregado."}, {"correct": null, "letter": "C", "text": "O trabalhador somente faz jus ao pagamento do adicional de insalubridade enquanto permanecer exposto a agentes de risco \u00e0 sua sa\u00fade, independentemente do tempo em que percebeu o aludido adicional."}, {"correct": null, "letter": "D", "text": "A elimina\u00e7\u00e3o ou neutraliza\u00e7\u00e3o da insalubridade ocorrer\u00e1 com a ado\u00e7\u00e3o de medidas que conservem o ambiente de trabalho dentro dos limites de toler\u00e2ncia ou com a utiliza\u00e7\u00e3o de equipamentos de prote\u00e7\u00e3o individual ao trabalhador, que diminuam a intensidade do agente agressivo a limites de toler\u00e2ncia."}], "valid": true}]
+[
+    {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Determinado empregado, durante quatro anos consecutivos, percebeu pagamento de adicional de insalubridade, j\u00e1 que desenvolvia seu mister exposto a agentes nocivos \u00e0 sa\u00fade. A empregadora, ap\u00f3s sofrer fiscaliza\u00e7\u00e3o do Minist\u00e9rio do Trabalho, houve por bem fornecer a todos os seus empregados equipamento de prote\u00e7\u00e3o individual (EPI) aprovado pelo \u00f3rg\u00e3o competente do Poder Executivo, eliminando, definitivamente, os riscos \u00e0 higidez f\u00edsica dos trabalhadores.  Diante do relatado, assinale a op\u00e7\u00e3o INCORRETA:",
+        "filename": "2012-07.txt",
+        "number": "75",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Enquanto percebido, o adicional de insalubridade integra a remunera\u00e7\u00e3o para todos os efeitos legais."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Tendo o empregado recebido adicional de insalubridade com habitualidade, a rubrica n\u00e3o pode ser suprimida, ainda que o empregador promova a elimina\u00e7\u00e3o dos riscos \u00e0 integridade f\u00edsica do empregado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "O trabalhador somente faz jus ao pagamento do adicional de insalubridade enquanto permanecer exposto a agentes de risco \u00e0 sua sa\u00fade, independentemente do tempo em que percebeu o aludido adicional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "A elimina\u00e7\u00e3o ou neutraliza\u00e7\u00e3o da insalubridade ocorrer\u00e1 com a ado\u00e7\u00e3o de medidas que conservem o ambiente de trabalho dentro dos limites de toler\u00e2ncia ou com a utiliza\u00e7\u00e3o de equipamentos de prote\u00e7\u00e3o individual ao trabalhador, que diminuam a intensidade do agente agressivo a limites de toler\u00e2ncia."
+            }
+        ],
+        "valid": true
+    }
+]

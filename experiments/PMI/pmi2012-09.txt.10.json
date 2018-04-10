@@ -1,1 +1,57 @@
-[{"filename": "2012-09.txt", "areas": ["ETHICS"], "enum": "O advogado C\u00e2ndido, conhecido pelas solu\u00e7\u00f5es criativas para resolver os problemas dos seus clientes, aduz, como tese defensiva, em a\u00e7\u00e3o de despejo por falta de pagamento, que a norma que autoriza tal desocupa\u00e7\u00e3o for\u00e7ada seria inconstitucional, pois caberia ao Estado fornecer habita\u00e7\u00e3o gratuita ou a pre\u00e7os m\u00f3dicos aos necessitados e, em caso de impossibilidade financeira, custear a moradia, pagando ao locador os valores devidos, a t\u00edtulo de aluguel social.\n\n Essa defesa foi considerada como contr\u00e1ria \u00e0 disposi\u00e7\u00e3o de lei que determina, como consequ\u00eancia do n\u00e3o pagamento dos alugueres, o despejo por falta de pagamento. Em raz\u00e3o disso, foi proferida senten\u00e7a determinando a desocupa\u00e7\u00e3o do im\u00f3vel e condenando o cliente do advogado C\u00e2ndido ao pagamento dos alugueres devidos, bem como as demais verbas decorrentes da sucumb\u00eancia. Al\u00e9m disso, determinou o magistrado a expedi\u00e7\u00e3o de of\u00edcio \u00e0 Ordem dos Advogados do Brasil para abertura de processo disciplinar.\n\n Consoante as regras do Estatuto da Advocacia, assinale a afirmativa correta.", "valid": true, "options": [{"correct": null, "text": "O fato de advogar contra literal disposi\u00e7\u00e3o de lei sem exce\u00e7\u00f5es, n\u00e3o constitui infra\u00e7\u00e3o disciplinar.", "letter": "A", "pmi": [-0.0956995270744426, 0.0, 0.0, 0.0]}, {"correct": true, "text": "A alega\u00e7\u00e3o de inconstitucionalidade descaracteriza a infra\u00e7\u00e3o disciplinar invocada.", "letter": "B", "pmi": [-0.026986373233798617, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A infra\u00e7\u00e3o disciplinar n\u00e3o est\u00e1 prevista no sistema por caracterizar delito de hermen\u00eautica.", "letter": "C", "pmi": [-0.050572555785661784, 0.0, 0.0, 0.0]}, {"correct": null, "text": "A referida infra\u00e7\u00e3o somente pode ser considerada quando causar preju\u00edzo ao cliente o que n\u00e3o foi o caso.", "letter": "D", "pmi": [-0.07639127338821113, 0.0, 0.0, 0.0]}], "number": "10"}]
+[
+    {
+        "filename": "2012-09.txt",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O advogado C\u00e2ndido, conhecido pelas solu\u00e7\u00f5es criativas para resolver os problemas dos seus clientes, aduz, como tese defensiva, em a\u00e7\u00e3o de despejo por falta de pagamento, que a norma que autoriza tal desocupa\u00e7\u00e3o for\u00e7ada seria inconstitucional, pois caberia ao Estado fornecer habita\u00e7\u00e3o gratuita ou a pre\u00e7os m\u00f3dicos aos necessitados e, em caso de impossibilidade financeira, custear a moradia, pagando ao locador os valores devidos, a t\u00edtulo de aluguel social.\n\n Essa defesa foi considerada como contr\u00e1ria \u00e0 disposi\u00e7\u00e3o de lei que determina, como consequ\u00eancia do n\u00e3o pagamento dos alugueres, o despejo por falta de pagamento. Em raz\u00e3o disso, foi proferida senten\u00e7a determinando a desocupa\u00e7\u00e3o do im\u00f3vel e condenando o cliente do advogado C\u00e2ndido ao pagamento dos alugueres devidos, bem como as demais verbas decorrentes da sucumb\u00eancia. Al\u00e9m disso, determinou o magistrado a expedi\u00e7\u00e3o de of\u00edcio \u00e0 Ordem dos Advogados do Brasil para abertura de processo disciplinar.\n\n Consoante as regras do Estatuto da Advocacia, assinale a afirmativa correta.",
+        "valid": true,
+        "options": [
+            {
+                "correct": null,
+                "text": "O fato de advogar contra literal disposi\u00e7\u00e3o de lei sem exce\u00e7\u00f5es, n\u00e3o constitui infra\u00e7\u00e3o disciplinar.",
+                "letter": "A",
+                "pmi": [
+                    -0.0956995270744426,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "A alega\u00e7\u00e3o de inconstitucionalidade descaracteriza a infra\u00e7\u00e3o disciplinar invocada.",
+                "letter": "B",
+                "pmi": [
+                    -0.026986373233798617,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A infra\u00e7\u00e3o disciplinar n\u00e3o est\u00e1 prevista no sistema por caracterizar delito de hermen\u00eautica.",
+                "letter": "C",
+                "pmi": [
+                    -0.050572555785661784,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "A referida infra\u00e7\u00e3o somente pode ser considerada quando causar preju\u00edzo ao cliente o que n\u00e3o foi o caso.",
+                "letter": "D",
+                "pmi": [
+                    -0.07639127338821113,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "number": "10"
+    }
+]

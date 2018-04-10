@@ -1,1 +1,55 @@
-[{"valid": true, "areas": [], "options": [{"correct": null, "text": "o Tribunal de Justi\u00e7a do Estado de Minas Gerais.", "letter": "A", "pmi": [-0.21822469349870338, -0.032239942353021744, 0.0, 0.0]}, {"correct": true, "text": "uma das Varas Criminais de Florian\u00f3polis.", "letter": "B", "pmi": [0.0, 0.0, 0.0, 0.0]}, {"correct": null, "text": "o Tribunal de Justi\u00e7a de Santa Catarina.", "letter": "C", "pmi": [-0.21822469349870338, -0.032239942353021744, 0.0, 0.0]}, {"correct": null, "text": "o Tribunal do J\u00fari de Florian\u00f3polis.", "letter": "D", "pmi": [-0.16924019068280718, 0.0, 0.0, 0.0]}], "enum": "Durante 35 anos, Ricardo exerceu a fun\u00e7\u00e3o de juiz de direito junto ao Tribunal de Justi\u00e7a de Minas Gerais. Contudo, no ano de 2012, decidiu se aposentar e passou a morar em Florian\u00f3polis, Santa Catarina. No dia 22/01/2015, travou uma discuss\u00e3o com seu vizinho e acabou por ser autor de um crime de les\u00e3o corporal seguida de morte, consumado na cidade em que reside.\n\n Oferecida a den\u00fancia, de acordo com a jurisprud\u00eancia majorit\u00e1ria dos Tribunais Superiores, ser\u00e1 competente para julgar Ricardo", "number": "67", "filename": "2015-17.txt"}]
+[
+    {
+        "valid": true,
+        "areas": [],
+        "options": [
+            {
+                "correct": null,
+                "text": "o Tribunal de Justi\u00e7a do Estado de Minas Gerais.",
+                "letter": "A",
+                "pmi": [
+                    -0.21822469349870338,
+                    -0.032239942353021744,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": true,
+                "text": "uma das Varas Criminais de Florian\u00f3polis.",
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "o Tribunal de Justi\u00e7a de Santa Catarina.",
+                "letter": "C",
+                "pmi": [
+                    -0.21822469349870338,
+                    -0.032239942353021744,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "correct": null,
+                "text": "o Tribunal do J\u00fari de Florian\u00f3polis.",
+                "letter": "D",
+                "pmi": [
+                    -0.16924019068280718,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "enum": "Durante 35 anos, Ricardo exerceu a fun\u00e7\u00e3o de juiz de direito junto ao Tribunal de Justi\u00e7a de Minas Gerais. Contudo, no ano de 2012, decidiu se aposentar e passou a morar em Florian\u00f3polis, Santa Catarina. No dia 22/01/2015, travou uma discuss\u00e3o com seu vizinho e acabou por ser autor de um crime de les\u00e3o corporal seguida de morte, consumado na cidade em que reside.\n\n Oferecida a den\u00fancia, de acordo com a jurisprud\u00eancia majorit\u00e1ria dos Tribunais Superiores, ser\u00e1 competente para julgar Ricardo",
+        "number": "67",
+        "filename": "2015-17.txt"
+    }
+]

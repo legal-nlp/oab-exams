@@ -1,1 +1,57 @@
-[{"areas": ["CRIMINAL"], "valid": true, "number": "61", "options": [{"text": "na senten\u00e7a do crime de furto, T\u00edcio \u00e9 considerado portador de maus antecedentes e, na senten\u00e7a do crime de roubo, \u00e9 considerado reincidente.", "pmi": [-0.018242682891524094, 0.0, 0.0, 0.0], "letter": "A", "correct": null}, {"text": "na senten\u00e7a do crime de extors\u00e3o, T\u00edcio possui maus antecedentes em rela\u00e7\u00e3o ao crime de roubo e \u00e9 reincidente em rela\u00e7\u00e3o ao crime de furto.", "pmi": [-0.035369587082988194, 0.0, 0.0, 0.0], "letter": "B", "correct": true}, {"text": "cinco anos ap\u00f3s o tr\u00e2nsito em julgado definitivo da \u00faltima condena\u00e7\u00e3o, T\u00edcio ser\u00e1 considerado prim\u00e1rio, mas os maus antecedentes persistem.", "pmi": [0.0008836449757540362, 0.0, 0.0, 0.0], "letter": "C", "correct": null}, {"text": "nosso ordenamento jur\u00eddico-penal prev\u00ea como tempo m\u00e1ximo para configura\u00e7\u00e3o dos maus antecedentes o prazo de cinco anos a contar do cumprimento ou extin\u00e7\u00e3o da pena e eventual infra\u00e7\u00e3o posterior.", "pmi": [-0.02084449495792715, 0.0, 0.0, 0.0], "letter": "D", "correct": null}], "filename": "2011-04.txt", "enum": "T\u00edcio praticou um crime de furto (art. 155 do C\u00f3digo Penal) no dia 10/01/2000, um crime de roubo (art. 157 do C\u00f3digo Penal) no dia 25/11/2001 e um crime de extors\u00e3o (art. 158 do C\u00f3digo Penal) no dia 30/5/2003. T\u00edcio foi condenado pelo crime de furto em 20/11/2001, e a senten\u00e7a penal condenat\u00f3ria transitou definitivamente em julgado no dia 31/3/2002. Pelo crime de roubo, foi condenado em 30/01/2002, com senten\u00e7a transitada em julgado definitivamente em 10/06/2003 e, pelo crime de extors\u00e3o, foi condenado em 20/8/2004, com senten\u00e7a transitando definitivamente em julgado no dia 10/6/2006. Com base nos dados acima, bem como nos estudos acerca da reincid\u00eancia e dos maus antecedentes, \u00e9 correto afirmar que"}]
+[
+    {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "valid": true,
+        "number": "61",
+        "options": [
+            {
+                "text": "na senten\u00e7a do crime de furto, T\u00edcio \u00e9 considerado portador de maus antecedentes e, na senten\u00e7a do crime de roubo, \u00e9 considerado reincidente.",
+                "pmi": [
+                    -0.018242682891524094,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "A",
+                "correct": null
+            },
+            {
+                "text": "na senten\u00e7a do crime de extors\u00e3o, T\u00edcio possui maus antecedentes em rela\u00e7\u00e3o ao crime de roubo e \u00e9 reincidente em rela\u00e7\u00e3o ao crime de furto.",
+                "pmi": [
+                    -0.035369587082988194,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "B",
+                "correct": true
+            },
+            {
+                "text": "cinco anos ap\u00f3s o tr\u00e2nsito em julgado definitivo da \u00faltima condena\u00e7\u00e3o, T\u00edcio ser\u00e1 considerado prim\u00e1rio, mas os maus antecedentes persistem.",
+                "pmi": [
+                    0.0008836449757540362,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "C",
+                "correct": null
+            },
+            {
+                "text": "nosso ordenamento jur\u00eddico-penal prev\u00ea como tempo m\u00e1ximo para configura\u00e7\u00e3o dos maus antecedentes o prazo de cinco anos a contar do cumprimento ou extin\u00e7\u00e3o da pena e eventual infra\u00e7\u00e3o posterior.",
+                "pmi": [
+                    -0.02084449495792715,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "letter": "D",
+                "correct": null
+            }
+        ],
+        "filename": "2011-04.txt",
+        "enum": "T\u00edcio praticou um crime de furto (art. 155 do C\u00f3digo Penal) no dia 10/01/2000, um crime de roubo (art. 157 do C\u00f3digo Penal) no dia 25/11/2001 e um crime de extors\u00e3o (art. 158 do C\u00f3digo Penal) no dia 30/5/2003. T\u00edcio foi condenado pelo crime de furto em 20/11/2001, e a senten\u00e7a penal condenat\u00f3ria transitou definitivamente em julgado no dia 31/3/2002. Pelo crime de roubo, foi condenado em 30/01/2002, com senten\u00e7a transitada em julgado definitivamente em 10/06/2003 e, pelo crime de extors\u00e3o, foi condenado em 20/8/2004, com senten\u00e7a transitando definitivamente em julgado no dia 10/6/2006. Com base nos dados acima, bem como nos estudos acerca da reincid\u00eancia e dos maus antecedentes, \u00e9 correto afirmar que"
+    }
+]

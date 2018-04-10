@@ -1,1 +1,33 @@
-[{"areas": [null], "enum": "O advogado In\u00e1cio foi indicado para defender em ju\u00edzo pessoa economicamente hipossuficiente, pois no local onde atua n\u00e3o houve disponibilidade de defensor p\u00fablico para tal patroc\u00ednio. Sobre o direito de In\u00e1cio \u00e0 percep\u00e7\u00e3o de honor\u00e1rios, assinale a afirmativa correta.", "filename": "2017-24.txt", "number": "2", "options": [{"correct": null, "letter": "A", "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, apenas em caso de \u00eaxito, de natureza sucumbencial, a serem executados em face da parte adversa."}, {"correct": true, "letter": "B", "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, independentemente de \u00eaxito, segundo tabela organizada pelo Conselho Seccional da OAB e pagos pelo Estado."}, {"correct": null, "letter": "C", "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, apenas em caso de \u00eaxito, independentemente de observ\u00e2ncia aos patamares previstos na tabela organizada pelo Conselho Seccional da OAB, a serem pagos pelo Estado."}, {"correct": null, "letter": "D", "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, independentemente de \u00eaxito, segundo tabela organizada pelo Conselho Seccional da OAB, e pagos pelo patrocinado caso possua patrim\u00f4nio, a ser executado no prazo de cinco anos, a contar da data da nomea\u00e7\u00e3o."}], "valid": true}]
+[
+    {
+        "areas": [
+            null
+        ],
+        "enum": "O advogado In\u00e1cio foi indicado para defender em ju\u00edzo pessoa economicamente hipossuficiente, pois no local onde atua n\u00e3o houve disponibilidade de defensor p\u00fablico para tal patroc\u00ednio. Sobre o direito de In\u00e1cio \u00e0 percep\u00e7\u00e3o de honor\u00e1rios, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "2",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, apenas em caso de \u00eaxito, de natureza sucumbencial, a serem executados em face da parte adversa."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, independentemente de \u00eaxito, segundo tabela organizada pelo Conselho Seccional da OAB e pagos pelo Estado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, apenas em caso de \u00eaxito, independentemente de observ\u00e2ncia aos patamares previstos na tabela organizada pelo Conselho Seccional da OAB, a serem pagos pelo Estado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "text": "Os honor\u00e1rios ser\u00e3o fixados pelo juiz, independentemente de \u00eaxito, segundo tabela organizada pelo Conselho Seccional da OAB, e pagos pelo patrocinado caso possua patrim\u00f4nio, a ser executado no prazo de cinco anos, a contar da data da nomea\u00e7\u00e3o."
+            }
+        ],
+        "valid": true
+    }
+]
