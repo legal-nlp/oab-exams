@@ -1,0 +1,14 @@
+To execute, run:
+
+for 2*.txt.*.json; do python3 pmi.py $f; done
+
+If you are using LSF, you can run the jobs in parallel like:
+
+for f in 2*.txt.*.json; do bsub python3 pmi.py $f; done
+
+To generate the report, run:
+
+python3 report.py pmi*.json | sort | uniq -c
+
+
+
