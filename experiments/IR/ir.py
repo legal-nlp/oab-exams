@@ -15,46 +15,64 @@ def load_stopwords():
             sw.append(l.strip())
     return set(sw)
 
-es = Elasticsearch(['http://localhost:9200/'])
-doc = {
-    'size' : 5000,
-    'query': {
-        'match_all' : {}
+def oab_questions(es):
+    doc = {
+        'size' : 5000,
+        'query': {
+            'match_all' : {}
+        }
     }
-}
 
-res = es.search(index="oab", doc_type='doc', body=doc)
+    res = es.search(index="oab", doc_type='doc', body=doc)
 
-sw = load_stopwords()
+    for r in res['hits']['hits']:
+        yield r['_source']
 
-for r in res['hits']['hits']:
-    enum = r['_source']['enum'].replace('\n', ' ')
-    oab_filename = r['_source']['filename']
-    oab_number = r['_source']['number']
-    options = r['_source']['options']
-    max_score = 0
-    selected_option = { 'letter': '?', 'text': 'N/A', 'correct': None }
-    justification = "N/A"
-    for o in options:
-        enum_plus_option = enum + ' ' + o['text']
-        query = {
-            'query': {
-                'match': {
-                    'text': enum_plus_option
-                }
+def search_corpus(es, search_text):
+    query = {
+        'query': {
+            'match': {
+                'text': search_text
             }
         }
+    }
 
-        r = es.search(index="corpus", doc_type="sentence", body=query)
-        score = r['hits']['hits'][0]['_score']
-        text =  r['hits']['hits'][0]['_source']['text']
-        if len(overlap(enum_plus_option, text, sw)) > 0:
-            if score > max_score:
-                max_score = score
-                selected_option = o
-                justification = "[{}] {}".format(r['hits']['hits'][0]['_source']['filename'], text)
+    res = es.search(index="corpus", doc_type="sentence", body=query)
 
-    row = [oab_filename, oab_number,
-           enum, selected_option['letter'], selected_option['text'], justification, str(selected_option['correct'])]
-    print("\t".join(row))
-    
+    score = res['hits']['hits'][0]['_score']
+    text = res['hits']['hits'][0]['_source']['text']
+    filename = res['hits']['hits'][0]['_source']['filename']
+    return (score, text, filename)
+
+def main():
+    es = Elasticsearch(['http://localhost:9200/'])
+
+    sw = load_stopwords()
+
+    for q in oab_questions(es):
+        oab_enum = q['enum'].replace('\n', ' ')
+        oab_filename = q['filename']
+        oab_number = q['number']
+        oab_options = q['options']
+
+        max_score = 0
+        selected_option = { 'letter': '?', 'text': 'N/A', 'correct': None }
+        justification = "N/A"
+
+        for o in oab_options:
+            enum_plus_option = oab_enum + ' ' + o['text']
+
+            (score, text, filename) = search_corpus(es, enum_plus_option)
+
+            if len(overlap(enum_plus_option, text, sw)) > 0:
+                if score > max_score:
+                    max_score = score
+                    selected_option = o
+                    justification = "[{}] {}".format(filename, text)
+
+        row = [oab_filename, oab_number,
+               oab_enum, selected_option['letter'], selected_option['text'], justification, str(selected_option['correct'])]
+        print("\t".join(row))
+
+if __name__ == "__main__":
+    main()
