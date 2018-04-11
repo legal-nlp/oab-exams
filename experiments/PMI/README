@@ -1,14 +1,21 @@
+If you have a new oab.json file, first run split-oab.py to split it
+into independent JSONs one of each question and put these new JSONs in
+the questions/ directory.
+
 To execute, run:
 
-for 2*.txt.*.json; do python3 pmi.py $f; done
+for questions/*.json; do python3 pmi.py $f; done
 
 If you are using LSF, you can run the jobs in parallel like:
 
-for f in 2*.txt.*.json; do bsub python3 pmi.py $f; done
+for f in questions/*.json; do bsub python3 pmi.py $f; done
+
+After the PMI calcuation is done, move all the pmi*.json to a separate
+directory (say, pmi/) and generate the report as follows:
 
 To generate the report, run:
 
-python3 report.py pmi*.json | sort | uniq -c
+python3 report.py questions-pmi/*.json | sort | uniq -c
 
 
 
