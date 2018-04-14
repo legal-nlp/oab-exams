@@ -80,15 +80,17 @@ def split(s, stopwords=None):
         return [ x for x in split if x not in sw_set ]
     return split
 
-def count_occurrences(x, corpus):
+def count_occurrences(x, corpus, normalized=True):
     "Count occurrences of n-gram X in CORPUS."
     total_words = 0
     total_occurrences = 0
     for (sentence,sentence_len) in corpus:
         total_occurrences += sentence.count(x)
-        total_words = sentence_len
-        
-    return total_occurrences / total_words
+        total_words += sentence_len
+
+    if normalized:
+        return total_occurrences / total_words
+    return total_occurrences
 
 def count_co_occurrences(x,y, corpus):
     x_y = " ".join([x,y])
@@ -167,9 +169,7 @@ def compute_all_pmi(ngram_fn, oab, corpus, sw):
                 len += 1
 
             avg = 0
-            if len == 0:
-                print(ngram_fn, o)
-            else:
+            if len > 0:
                 avg = sum/len
                 
             if 'pmi' in o:
@@ -191,9 +191,7 @@ def compute_q_pmi(ngram_fn, q, corpus, sw):
             len += 1
 
         avg = 0
-        if len == 0:
-            print(ngram_fn, o)
-        else:
+        if len > 0:
             avg = sum/len
 
         if 'pmi' in o:
@@ -220,7 +218,7 @@ def main():
     for ngram_fn in [unigram, bigram, trigram, skip_trigram]:
         compute_all_pmi(ngram_fn, oab, preprocessed_corpus, sw)
 
-    with open('pmi' + sys.argv[1],'w') as f:
+    with open('pmi' + os.path.basename(sys.argv[1]),'w') as f:
         json.dump(oab, f)
 
 if __name__ == "__main__":
