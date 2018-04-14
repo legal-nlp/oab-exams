@@ -1,18 +1,17 @@
 [
     {
-        "number": "12",
-        "enum": "Edinaldo, estudante de Direito, realizou intensas reflex\u00f5es a respeito da efic\u00e1cia e da aplicabilidade do Art. 14, \u00a7 4\u00ba, da Constitui\u00e7\u00e3o da Rep\u00fablica, segundo o qual \u201cos inalist\u00e1veis e os analfabetos s\u00e3o ineleg\u00edveis\ufffd?.\n\n A respeito da norma obtida a partir desse comando, \u00e0 luz da sistem\u00e1tica constitucional, assinale a afirmativa correta.",
-        "filename": "2017-24.txt",
         "areas": [
             null
         ],
-        "valid": true,
+        "enum": "Edinaldo, estudante de Direito, realizou intensas reflex\u00f5es a respeito da efic\u00e1cia e da aplicabilidade do Art. 14, \u00a7 4\u00ba, da Constitui\u00e7\u00e3o da Rep\u00fablica, segundo o qual \u201cos inalist\u00e1veis e os analfabetos s\u00e3o ineleg\u00edveis\ufffd?.\n\n A respeito da norma obtida a partir desse comando, \u00e0 luz da sistem\u00e1tica constitucional, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "12",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.08391324653680587,
+                    0.04718773307402823,
                     0.0,
                     0.0,
                     0.0
@@ -23,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.02144423817314382,
+                    0.034021560892978295,
                     0.0,
                     0.0,
                     0.0
@@ -34,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.02425850931402446,
+                    0.015800123344841516,
                     0.0,
                     0.0,
                     0.0
@@ -45,13 +44,14 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.03811578841356285,
+                    0.045082910185620335,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "Ela tem aplicabilidade indireta e imediata, n\u00e3o integral, produzindo efeitos restritos e limitados em normas infraconstitucionais quando da promulga\u00e7\u00e3o da Constitui\u00e7\u00e3o da Rep\u00fablica."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

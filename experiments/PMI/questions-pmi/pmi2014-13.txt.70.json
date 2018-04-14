@@ -4,54 +4,54 @@
             "LABOUR"
         ],
         "enum": "ABC Manuten\u00e7\u00e3o e Limpeza manteve contrato de fornecimento de m\u00e3o de obra de limpeza com Aeroportos Brasileiros, empresa p\u00fablica federal. Por ocasi\u00e3o da ruptura do contrato entre as empresas, Paulo, funcion\u00e1rio da ABC Manuten\u00e7\u00e3o e Limpeza, e que prestava servi\u00e7os para Aeroportos Brasileiros, foi dispensado sem receber as verbas rescis\u00f3rias. Ajuizou a\u00e7\u00e3o trabalhista em face de ambas as empresas, sendo a empregadora revel. A tomadora dos servi\u00e7os apresentou defesa com robusta documenta\u00e7\u00e3o, demonstrando a efetiva fiscaliza\u00e7\u00e3o do cumprimento do contrato e de aspectos legais, sendo certo que o contrato foi cancelado justamente em raz\u00e3o desta fiscaliza\u00e7\u00e3o.\n\n Diante deste caso, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "number": "70",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "A empresa p\u00fablica federal responde solidariamente por for\u00e7a da terceiriza\u00e7\u00e3o.",
                 "pmi": [
-                    -0.215759566531954,
+                    0.08553857768080225,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A empresa p\u00fablica federal responde solidariamente por for\u00e7a da terceiriza\u00e7\u00e3o."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "A empresa p\u00fablica federal responde subsidiariamente por for\u00e7a da terceiriza\u00e7\u00e3o, haja vista o inadimplemento das obriga\u00e7\u00f5es trabalhistas por parte do empregador.",
                 "pmi": [
-                    -0.17095403138125512,
+                    0.05888237349898841,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A empresa p\u00fablica federal responde subsidiariamente por for\u00e7a da terceiriza\u00e7\u00e3o, haja vista o inadimplemento das obriga\u00e7\u00f5es trabalhistas por parte do empregador."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "A empresa p\u00fablica federal \u00e9 parte ileg\u00edtima para figurar no polo passivo da demanda porque n\u00e3o tem v\u00ednculo de emprego com Paulo.",
                 "pmi": [
-                    -0.12777773862017763,
+                    0.06395744406066725,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A empresa p\u00fablica federal \u00e9 parte ileg\u00edtima para figurar no polo passivo da demanda porque n\u00e3o tem v\u00ednculo de emprego com Paulo."
             },
             {
                 "correct": true,
                 "letter": "D",
-                "text": "A empresa p\u00fablica federal n\u00e3o responde pelo inadimplemento das verbas trabalhistas porque sua responsabilidade n\u00e3o decorre do simples inadimplemento contratual, tendo ficado provado, no caso, que houve efetiva fiscaliza\u00e7\u00e3o por parte da tomadora dos servi\u00e7os.",
                 "pmi": [
-                    -0.1517656705427435,
+                    0.05103115729276551,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A empresa p\u00fablica federal n\u00e3o responde pelo inadimplemento das verbas trabalhistas porque sua responsabilidade n\u00e3o decorre do simples inadimplemento contratual, tendo ficado provado, no caso, que houve efetiva fiscaliza\u00e7\u00e3o por parte da tomadora dos servi\u00e7os."
             }
         ],
-        "filename": "2014-13.txt",
-        "number": "70",
         "valid": true
     }
 ]

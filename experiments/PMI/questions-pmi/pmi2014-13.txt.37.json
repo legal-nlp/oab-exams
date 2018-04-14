@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2014-13.txt",
-        "valid": true,
-        "enum": "Pedro, menor imp\u00fabere, e sem o consentimento de seu representante legal, celebrou contrato de m\u00fatuo com Marcos, tendo este lhe entregue a quantia de R$400,00, a fim de que pudesse comprar uma bicicleta.\n\n A respeito desse caso, assinale a afirmativa incorreta.",
         "areas": [
             "CIVIL"
         ],
+        "enum": "Pedro, menor imp\u00fabere, e sem o consentimento de seu representante legal, celebrou contrato de m\u00fatuo com Marcos, tendo este lhe entregue a quantia de R$400,00, a fim de que pudesse comprar uma bicicleta.\n\n A respeito desse caso, assinale a afirmativa incorreta.",
+        "filename": "2014-13.txt",
         "number": "37",
         "options": [
             {
-                "text": "O m\u00fatuo poder\u00e1 ser reavido somente se o representante legal de Pedro ratificar o contrato.",
-                "pmi": [
-                    -0.2566415918791093,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "A"
-            },
-            {
-                "text": "Se o contrato tivesse por fim suprir despesas com a pr\u00f3pria manuten\u00e7\u00e3o, o m\u00fatuo poderia ser reavido, ainda que ausente ao ato o representante legal de Pedro.",
+                "letter": "A",
                 "pmi": [
-                    -0.32333048812025983,
+                    -0.014796927628067478,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "O m\u00fatuo poder\u00e1 ser reavido somente se o representante legal de Pedro ratificar o contrato."
             },
             {
-                "text": "Se Pedro tiver bens obtidos com o seu trabalho, o m\u00fatuo poder\u00e1 ser reavido, ainda que contra\u00eddo sem o consentimento do seu representante legal.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.17550410607343242,
+                    -0.005909366290767473,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "Se o contrato tivesse por fim suprir despesas com a pr\u00f3pria manuten\u00e7\u00e3o, o m\u00fatuo poderia ser reavido, ainda que ausente ao ato o representante legal de Pedro."
             },
             {
-                "text": "O m\u00fatuo tamb\u00e9m poderia ser reavido caso Pedro tivesse obtido o empr\u00e9stimo maliciosamente.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.130441129467399,
+                    -0.0344280519269914,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Se Pedro tiver bens obtidos com o seu trabalho, o m\u00fatuo poder\u00e1 ser reavido, ainda que contra\u00eddo sem o consentimento do seu representante legal."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    -0.024634088857568178,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O m\u00fatuo tamb\u00e9m poderia ser reavido caso Pedro tivesse obtido o empr\u00e9stimo maliciosamente."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

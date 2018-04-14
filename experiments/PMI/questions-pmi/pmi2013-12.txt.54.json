@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A respeito do recurso, um dos meios de impugna\u00e7\u00e3o das decis\u00f5es judiciais, assinale a afirmativa correta.",
-        "number": "54",
-        "filename": "2013-12.txt",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
-        "valid": true,
+        "enum": "A respeito do recurso, um dos meios de impugna\u00e7\u00e3o das decis\u00f5es judiciais, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "54",
         "options": [
             {
-                "text": "O prazo ser\u00e1 restitu\u00eddo em favor da parte, contra quem come\u00e7ar\u00e1 a correr novamente depois da intima\u00e7\u00e3o se, durante o prazo para interposi\u00e7\u00e3o do recurso, falecer seu advogado e n\u00e3o houver outro advogado constitu\u00eddo nos autos.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
-                "text": "A decis\u00e3o judicial que disp\u00f5e sobre os embargos \u00e0 execu\u00e7\u00e3o poder\u00e1 ser impugnada por meio do recurso de agravo de instrumento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O prazo ser\u00e1 restitu\u00eddo em favor da parte, contra quem come\u00e7ar\u00e1 a correr novamente depois da intima\u00e7\u00e3o se, durante o prazo para interposi\u00e7\u00e3o do recurso, falecer seu advogado e n\u00e3o houver outro advogado constitu\u00eddo nos autos."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "A desist\u00eancia do recurso depende da anu\u00eancia do recorrido e representa a extin\u00e7\u00e3o do processo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A decis\u00e3o judicial que disp\u00f5e sobre os embargos \u00e0 execu\u00e7\u00e3o poder\u00e1 ser impugnada por meio do recurso de agravo de instrumento."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Os embargos de declara\u00e7\u00e3o interpostos em face de decis\u00e3o judicial proferida em sede de Juizado Especial interrompem o prazo para o recurso.",
                 "pmi": [
-                    -0.05789904323181542,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A desist\u00eancia do recurso depende da anu\u00eancia do recorrido e representa a extin\u00e7\u00e3o do processo."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.025299655367367755,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os embargos de declara\u00e7\u00e3o interpostos em face de decis\u00e3o judicial proferida em sede de Juizado Especial interrompem o prazo para o recurso."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

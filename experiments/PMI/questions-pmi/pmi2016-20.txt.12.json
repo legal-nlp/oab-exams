@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "O racioc\u00ednio anal\u00f3gico \u00e9 t\u00edpico do pensamento jur\u00eddico. Esse \u00e9 um tema debatido por v\u00e1rios te\u00f3ricos e fil\u00f3sofos do Direito. Para Norberto Bobbio, na obra Teoria do Ordenamento Jur\u00eddico, trata-se de um m\u00e9todo de autointegra\u00e7\u00e3o do Direito. Assinale a op\u00e7\u00e3o que, segundo esse autor, apresenta o conceito de analogia.",
         "filename": "2016-20.txt",
-        "valid": true,
+        "number": "12",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "Subsun\u00e7\u00e3o de um caso (premissa menor) a uma norma jur\u00eddica (premissa maior) de forma a permitir uma conclus\u00e3o l\u00f3gica e necess\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Subsun\u00e7\u00e3o de um caso (premissa menor) a uma norma jur\u00eddica (premissa maior) de forma a permitir uma conclus\u00e3o l\u00f3gica e necess\u00e1ria."
             },
             {
-                "letter": "B",
                 "correct": true,
-                "text": "Existindo relevante semelhan\u00e7a entre dois casos, as consequ\u00eancias jur\u00eddicas atribu\u00eddas a um caso j\u00e1 regulamentado dever\u00e3o ser atribu\u00eddas tamb\u00e9m a um caso n\u00e3o-regulamentado.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Existindo relevante semelhan\u00e7a entre dois casos, as consequ\u00eancias jur\u00eddicas atribu\u00eddas a um caso j\u00e1 regulamentado dever\u00e3o ser atribu\u00eddas tamb\u00e9m a um caso n\u00e3o-regulamentado."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "Racioc\u00ednio em que se produz, como efeito, a extens\u00e3o de uma norma jur\u00eddica para casos n\u00e3o previstos por esta.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Racioc\u00ednio em que se produz, como efeito, a extens\u00e3o de uma norma jur\u00eddica para casos n\u00e3o previstos por esta."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "Decis\u00e3o, por meio de recurso, \u00e0s pr\u00e1ticas sociais que sejam uniformes e continuadas e que possuam previs\u00e3o de necessidade jur\u00eddica.",
+                "letter": "D",
                 "pmi": [
-                    -0.05373725690468821,
+                    0.02413672498414725,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Decis\u00e3o, por meio de recurso, \u00e0s pr\u00e1ticas sociais que sejam uniformes e continuadas e que possuam previs\u00e3o de necessidade jur\u00eddica."
             }
         ],
-        "enum": "O racioc\u00ednio anal\u00f3gico \u00e9 t\u00edpico do pensamento jur\u00eddico. Esse \u00e9 um tema debatido por v\u00e1rios te\u00f3ricos e fil\u00f3sofos do Direito. Para Norberto Bobbio, na obra Teoria do Ordenamento Jur\u00eddico, trata-se de um m\u00e9todo de autointegra\u00e7\u00e3o do Direito. Assinale a op\u00e7\u00e3o que, segundo esse autor, apresenta o conceito de analogia.",
-        "areas": [],
-        "number": "12"
+        "valid": true
     }
 ]

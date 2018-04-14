@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "enum": "Se um empregado \u00e9 contratado em determinado lugar para prestar servi\u00e7o em outra localidade, a eventual reclama\u00e7\u00e3o trabalhista",
-        "number": "79",
         "areas": [
             "LABOUR-PROCEDURE"
         ],
+        "enum": "Se um empregado \u00e9 contratado em determinado lugar para prestar servi\u00e7o em outra localidade, a eventual reclama\u00e7\u00e3o trabalhista",
         "filename": "2012-06a.txt",
+        "number": "79",
         "options": [
             {
-                "text": "deve ser ajuizada apenas no lugar da presta\u00e7\u00e3o dos servi\u00e7os.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "deve ser ajuizada apenas no lugar da presta\u00e7\u00e3o dos servi\u00e7os."
             },
             {
-                "text": "poder\u00e1 ser ajuizada no local da contrata\u00e7\u00e3o ou da presta\u00e7\u00e3o dos servi\u00e7os.",
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "poder\u00e1 ser ajuizada no local da contrata\u00e7\u00e3o ou da presta\u00e7\u00e3o dos servi\u00e7os."
             },
             {
-                "text": "deve ser ajuizada no lugar da contrata\u00e7\u00e3o, somente.",
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "deve ser ajuizada no lugar da contrata\u00e7\u00e3o, somente."
             },
             {
-                "text": "poder\u00e1 ser ajuizada no local da presta\u00e7\u00e3o do servi\u00e7o ou do domic\u00edlio do autor.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.11281812437890736,
+                    0.10349849197896892,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "poder\u00e1 ser ajuizada no local da presta\u00e7\u00e3o do servi\u00e7o ou do domic\u00edlio do autor."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

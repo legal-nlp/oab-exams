@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2015-18.txt",
-        "options": [
-            {
-                "letter": "A",
-                "correct": true,
-                "text": "Paulo poderia ter atuado naquela causa apenas para tomar a medida urgente cab\u00edvel.",
-                "pmi": [
-                    -0.03194889291464355,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": null,
-                "text": "Paulo poderia ter atuado na causa, ainda que n\u00e3o houvesse provid\u00eancia urgente a tomar, uma vez que o advogado constitu\u00eddo estava viajando.",
-                "pmi": [
-                    -0.02446405134000132,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois o advogado n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento deste, ainda que haja necessidade da tomada de medidas urgentes.",
-                "pmi": [
-                    -0.017836747848614564,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": null,
-                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois os prazos estavam suspensos durante o recesso.",
-                "pmi": [
-                    -0.018487980997360386,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "enum": "Determinada causa em que se discutia a guarda de dois menores estava confiada ao advogado \u00c1lvaro, que trabalhava sozinho em seu escrit\u00f3rio. Aproveitando o per\u00edodo de recesso forense e considerando que n\u00e3o teria prazos a cumprir ou atos processuais designados durante esse per\u00edodo, \u00c1lvaro realizou viagem para visitar a fam\u00edlia no interior do estado. Alguns dias depois de sua partida, ainda durante o per\u00edodo de recesso, instalou-se situa\u00e7\u00e3o que demandaria a tomada de medidas urgentes no \u00e2mbito da mencionada a\u00e7\u00e3o de guarda. O cliente de \u00c1lvaro, considerando que seu advogado se encontrava fora da cidade, procurou outro advogado, Paulo, para que a medida judicial necess\u00e1ria fosse tomada, recorrendo-se ao plant\u00e3o judici\u00e1rio. Paulo n\u00e3o conseguiu falar com \u00c1lvaro para avisar que atuaria na causa em que este \u00faltimo estava constitu\u00eddo, mas aceitou procura\u00e7\u00e3o do cliente assim mesmo e tomou a provid\u00eancia cab\u00edvel.\n\n Poderia Paulo ter atuado na causa sem o conhecimento e a anu\u00eancia de \u00c1lvaro?",
-        "number": "5",
         "areas": [
             "ETHICS"
-        ]
+        ],
+        "enum": "Determinada causa em que se discutia a guarda de dois menores estava confiada ao advogado \u00c1lvaro, que trabalhava sozinho em seu escrit\u00f3rio. Aproveitando o per\u00edodo de recesso forense e considerando que n\u00e3o teria prazos a cumprir ou atos processuais designados durante esse per\u00edodo, \u00c1lvaro realizou viagem para visitar a fam\u00edlia no interior do estado. Alguns dias depois de sua partida, ainda durante o per\u00edodo de recesso, instalou-se situa\u00e7\u00e3o que demandaria a tomada de medidas urgentes no \u00e2mbito da mencionada a\u00e7\u00e3o de guarda. O cliente de \u00c1lvaro, considerando que seu advogado se encontrava fora da cidade, procurou outro advogado, Paulo, para que a medida judicial necess\u00e1ria fosse tomada, recorrendo-se ao plant\u00e3o judici\u00e1rio. Paulo n\u00e3o conseguiu falar com \u00c1lvaro para avisar que atuaria na causa em que este \u00faltimo estava constitu\u00eddo, mas aceitou procura\u00e7\u00e3o do cliente assim mesmo e tomou a provid\u00eancia cab\u00edvel.\n\n Poderia Paulo ter atuado na causa sem o conhecimento e a anu\u00eancia de \u00c1lvaro?",
+        "filename": "2015-18.txt",
+        "number": "5",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    -0.0007493809399498558,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Paulo poderia ter atuado naquela causa apenas para tomar a medida urgente cab\u00edvel."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0004955582397536349,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Paulo poderia ter atuado na causa, ainda que n\u00e3o houvesse provid\u00eancia urgente a tomar, uma vez que o advogado constitu\u00eddo estava viajando."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0071228617311403924,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois o advogado n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento deste, ainda que haja necessidade da tomada de medidas urgentes."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.000659688440392561,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois os prazos estavam suspensos durante o recesso."
+            }
+        ],
+        "valid": true
     }
 ]

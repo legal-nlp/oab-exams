@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "number": "60",
-        "valid": true,
         "enum": "Gl\u00f3ria \u00e9 contratada como secret\u00e1ria de Felipe, um grande executivo de uma sociedade empresarial. Felipe se apaixona por Gl\u00f3ria, mas ela nunca lhe deu aten\u00e7\u00e3o fora daquela necess\u00e1ria para a profiss\u00e3o. Felipe, ent\u00e3o, simula a exist\u00eancia de uma reuni\u00e3o de neg\u00f3cios e pede para que a secret\u00e1ria fique no local para auxili\u00e1-lo. \u00c0 noite, Gl\u00f3ria comparece \u00e0 sala do executivo acreditando que ocorreria a reuni\u00e3o, quando \u00e9 surpreendida por este, que coloca uma faca em seu pesco\u00e7o e exige a pr\u00e1tica de atos sexuais, sendo, em raz\u00e3o do medo, atendido. Ap\u00f3s o ato, Felipe afirmou que Gl\u00f3ria deveria comparecer normalmente ao trabalho no dia seguinte e ainda lhe entregou duas notas de R$ 100,00.\n\n Diante da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Felipe dever\u00e1 responder pela pr\u00e1tica do crime de",
+        "filename": "2015-18.txt",
+        "number": "60",
         "options": [
             {
-                "text": "viola\u00e7\u00e3o sexual mediante fraude.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.05485102516173657,
+                    -0.003347068886051741,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "viola\u00e7\u00e3o sexual mediante fraude."
             },
             {
-                "text": "ass\u00e9dio sexual.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "ass\u00e9dio sexual."
             },
             {
-                "text": "favorecimento da prostitui\u00e7\u00e3o ou outra forma de explora\u00e7\u00e3o sexual.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "favorecimento da prostitui\u00e7\u00e3o ou outra forma de explora\u00e7\u00e3o sexual."
             },
             {
-                "text": "estupro.",
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
                 "correct": true,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "estupro."
             }
         ],
-        "filename": "2015-18.txt"
+        "valid": true
     }
 ]

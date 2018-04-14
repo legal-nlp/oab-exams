@@ -1,14 +1,15 @@
 [
     {
-        "filename": "2015-17.txt",
         "areas": [],
+        "enum": "A sociedade empres\u00e1ria Beta S.A. teve a fal\u00eancia decretada durante a tramita\u00e7\u00e3o de uma reclama\u00e7\u00e3o trabalhista, fato devidamente informado ao ju\u00edzo. Depois de julgado procedente em parte o pedido de diferen\u00e7as de horas extras e de parcelas recis\u00f3rias, nenhuma das partes recorreu da senten\u00e7a, que transitou em julgado dessa forma. Teve, ent\u00e3o, in\u00edcio a execu\u00e7\u00e3o, com a apresenta\u00e7\u00e3o dos c\u00e1lculos pelo autor e posterior homologa\u00e7\u00e3o pelo juiz.\n\n Diante da situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
         "number": "79",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.17324339998659471,
+                    0.04201023545551804,
                     0.0,
                     0.0,
                     0.0
@@ -19,7 +20,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.12474507755142197,
+                    0.006798810774313598,
                     0.0,
                     0.0,
                     0.0
@@ -30,7 +31,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.2716060060873956,
+                    -0.008518229435924523,
                     0.0,
                     0.0,
                     0.0
@@ -41,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.2747642030738833,
+                    0.021209545659021837,
                     0.0,
                     0.0,
                     0.0
@@ -49,7 +50,6 @@
                 "text": "Essa \u00e9 a \u00fanica hip\u00f3tese de compet\u00eancia concorrente, ou seja, poder\u00e1 ser executado tanto na Justi\u00e7a do Trabalho quanto na Justi\u00e7a comum."
             }
         ],
-        "enum": "A sociedade empres\u00e1ria Beta S.A. teve a fal\u00eancia decretada durante a tramita\u00e7\u00e3o de uma reclama\u00e7\u00e3o trabalhista, fato devidamente informado ao ju\u00edzo. Depois de julgado procedente em parte o pedido de diferen\u00e7as de horas extras e de parcelas recis\u00f3rias, nenhuma das partes recorreu da senten\u00e7a, que transitou em julgado dessa forma. Teve, ent\u00e3o, in\u00edcio a execu\u00e7\u00e3o, com a apresenta\u00e7\u00e3o dos c\u00e1lculos pelo autor e posterior homologa\u00e7\u00e3o pelo juiz.\n\n Diante da situa\u00e7\u00e3o, assinale a afirmativa correta.",
         "valid": true
     }
 ]

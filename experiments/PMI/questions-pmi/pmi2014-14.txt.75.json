@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
+        "enum": "Joana trabalha numa empresa que se dedica a dar assessoria \u00e0queles que desejam emagrecer. Em raz\u00e3o de problemas familiares, Joana foi acometida por um dist\u00farbio alimentar e engordou 30 quilos. Em raz\u00e3o disso, a empresa afirmou que agora ela n\u00e3o mais apresentava o perfil desejado para o atendimento aos clientes, j\u00e1 que deveria ser o primeiro exemplo para eles, de modo que a dispensou sem justa causa.\n\n De acordo com a situa\u00e7\u00e3o retratada e diante do comando legal, assinale a op\u00e7\u00e3o correta:",
+        "filename": "2014-14.txt",
+        "number": "75",
         "options": [
             {
                 "correct": null,
-                "text": "O empregador tem o direito potestativo de dispensar a empregada sem justa causa, contanto que pague a indeniza\u00e7\u00e3o prevista em Lei.",
                 "letter": "A",
                 "pmi": [
-                    -0.02545283081397117,
+                    0.03538621753668154,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O empregador tem o direito potestativo de dispensar a empregada sem justa causa, contanto que pague a indeniza\u00e7\u00e3o prevista em Lei."
             },
             {
                 "correct": null,
-                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, ensejando, ent\u00e3o, obrigatoriamente, a reintegra\u00e7\u00e3o da obreira.",
                 "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, ensejando, ent\u00e3o, obrigatoriamente, a reintegra\u00e7\u00e3o da obreira."
             },
             {
                 "correct": true,
-                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, podendo a empregada optar entre o retorno ou a indeniza\u00e7\u00e3o em dobro do per\u00edodo de afastamento.",
                 "letter": "C",
                 "pmi": [
-                    -0.005861050392476646,
+                    0.03469831517462516,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, podendo a empregada optar entre o retorno ou a indeniza\u00e7\u00e3o em dobro do per\u00edodo de afastamento."
             },
             {
                 "correct": null,
-                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, ensejando, ent\u00e3o, obrigatoriamente, a indeniza\u00e7\u00e3o do per\u00edodo de estabilidade.",
                 "letter": "D",
                 "pmi": [
-                    0.0019570669902050798,
+                    0.02899664403493962,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A situa\u00e7\u00e3o retrata dispensa discriminat\u00f3ria, ensejando, ent\u00e3o, obrigatoriamente, a indeniza\u00e7\u00e3o do per\u00edodo de estabilidade."
             }
         ],
-        "filename": "2014-14.txt",
-        "enum": "Joana trabalha numa empresa que se dedica a dar assessoria \u00e0queles que desejam emagrecer. Em raz\u00e3o de problemas familiares, Joana foi acometida por um dist\u00farbio alimentar e engordou 30 quilos. Em raz\u00e3o disso, a empresa afirmou que agora ela n\u00e3o mais apresentava o perfil desejado para o atendimento aos clientes, j\u00e1 que deveria ser o primeiro exemplo para eles, de modo que a dispensou sem justa causa.\n\n De acordo com a situa\u00e7\u00e3o retratada e diante do comando legal, assinale a op\u00e7\u00e3o correta:",
-        "number": "75"
+        "valid": true
     }
 ]

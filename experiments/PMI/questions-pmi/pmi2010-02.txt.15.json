@@ -1,57 +1,57 @@
 [
     {
-        "enum": "No Direito P\u00fablico brasileiro, o grau de autonomia das Ag\u00eancias Reguladoras \u00e9 definido por uma independ\u00eancia",
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.09160402003505841,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "administrativa total e absoluta, uma vez que a Constitui\u00e7\u00e3o da Rep\u00fablica de 1988 n\u00e3o lhes exige qualquer liame, submiss\u00e3o ou controle administrativo dos \u00f3rg\u00e3os de c\u00fapula do Poder Executivo.",
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.2105426934124508,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "administrativa mitigada, uma vez que a pr\u00f3pria lei que cria cada uma das Ag\u00eancias Reguladoras define e regulamenta as rela\u00e7\u00f5es de submiss\u00e3o e controle, fundado no poder de supervis\u00e3o dos Minist\u00e9rios a que cada uma se encontra vinculada, em raz\u00e3o da mat\u00e9ria, e na superintend\u00eancia atribu\u00edda ao chefe do Poder Executivo, como chefe superior da Administra\u00e7\u00e3o P\u00fablica.",
-                "correct": true
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.10948669742789291,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "legislativa total e absoluta, visto que gozam de poder normativo regulamentar, n\u00e3o se sujeitando assim \u00e0s leis emanadas pelos respectivos Poderes legislativos de cada ente da federa\u00e7\u00e3o brasileira.",
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.07675996597680075,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "pol\u00edtica decis\u00f3ria, pois n\u00e3o est\u00e3o obrigadas a seguir as decis\u00f5es de pol\u00edticas p\u00fablicas adotadas pelos Poderes do Estado (executivo e legislativo).",
-                "correct": null
-            }
-        ],
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "No Direito P\u00fablico brasileiro, o grau de autonomia das Ag\u00eancias Reguladoras \u00e9 definido por uma independ\u00eancia",
+        "filename": "2010-02.txt",
         "number": "15",
-        "valid": true,
-        "filename": "2010-02.txt"
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.06290784879199607,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "administrativa total e absoluta, uma vez que a Constitui\u00e7\u00e3o da Rep\u00fablica de 1988 n\u00e3o lhes exige qualquer liame, submiss\u00e3o ou controle administrativo dos \u00f3rg\u00e3os de c\u00fapula do Poder Executivo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.03905340238509873,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "administrativa mitigada, uma vez que a pr\u00f3pria lei que cria cada uma das Ag\u00eancias Reguladoras define e regulamenta as rela\u00e7\u00f5es de submiss\u00e3o e controle, fundado no poder de supervis\u00e3o dos Minist\u00e9rios a que cada uma se encontra vinculada, em raz\u00e3o da mat\u00e9ria, e na superintend\u00eancia atribu\u00edda ao chefe do Poder Executivo, como chefe superior da Administra\u00e7\u00e3o P\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.02571118779577977,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "legislativa total e absoluta, visto que gozam de poder normativo regulamentar, n\u00e3o se sujeitando assim \u00e0s leis emanadas pelos respectivos Poderes legislativos de cada ente da federa\u00e7\u00e3o brasileira."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.021565768731324826,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "pol\u00edtica decis\u00f3ria, pois n\u00e3o est\u00e3o obrigadas a seguir as decis\u00f5es de pol\u00edticas p\u00fablicas adotadas pelos Poderes do Estado (executivo e legislativo)."
+            }
+        ],
+        "valid": true
     }
 ]

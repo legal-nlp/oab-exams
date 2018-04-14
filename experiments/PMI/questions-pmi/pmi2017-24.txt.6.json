@@ -1,57 +1,57 @@
 [
     {
-        "number": "6",
-        "enum": "Certa sociedade de advogados, de acordo com a vontade do cliente, emitiu fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os advocat\u00edcios. Em seguida, promoveu o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.\n\n Considerando o caso narrado, assinale a afirmativa correta.",
-        "filename": "2017-24.txt",
-        "valid": true,
-        "options": [
-            {
-                "letter": "A",
-                "text": "\u00c9 vedada a emiss\u00e3o da fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, bem como n\u00e3o \u00e9 autorizado o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.",
-                "correct": null,
-                "pmi": [
-                    -0.045290992374145196,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "\u00c9 autorizada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, se assim pretender o cliente, sendo tamb\u00e9m permitido que posteriormente seja levada a protesto. Todavia, \u00e9 vedado o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.",
-                "correct": null,
-                "pmi": [
-                    -0.02943914504319438,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "\u00c9 autorizada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, se assim pretender o cliente, sendo vedado que seja levada a protesto. Ademais, n\u00e3o \u00e9 permitido o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.",
-                "correct": true,
-                "pmi": [
-                    -0.030988573729678292,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "\u00c9 vedada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, mas \u00e9 permitido que, posteriormente, seja levada a protesto. Ademais, \u00e9 permitido o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.",
-                "correct": null,
-                "pmi": [
-                    -0.03271016115910486,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             null
-        ]
+        ],
+        "enum": "Certa sociedade de advogados, de acordo com a vontade do cliente, emitiu fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os advocat\u00edcios. Em seguida, promoveu o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios.\n\n Considerando o caso narrado, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "6",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.04110765617116042,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 vedada a emiss\u00e3o da fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, bem como n\u00e3o \u00e9 autorizado o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.02671997651125427,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 autorizada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, se assim pretender o cliente, sendo tamb\u00e9m permitido que posteriormente seja levada a protesto. Todavia, \u00e9 vedado o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.02812629106447818,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 autorizada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, se assim pretender o cliente, sendo vedado que seja levada a protesto. Ademais, n\u00e3o \u00e9 permitido o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.029688862790282523,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 vedada a emiss\u00e3o de fatura, com fundamento no contrato de presta\u00e7\u00e3o de servi\u00e7os, mas \u00e9 permitido que, posteriormente, seja levada a protesto. Ademais, \u00e9 permitido o saque de duplicatas quanto ao cr\u00e9dito pelos honor\u00e1rios advocat\u00edcios."
+            }
+        ],
+        "valid": true
     }
 ]

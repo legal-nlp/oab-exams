@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "text": "Caso o pedido da A\u00e7\u00e3o Pauliana seja julgado procedente e seja anulado o contrato de doa\u00e7\u00e3o, o benef\u00edcio da anula\u00e7\u00e3o aproveitar\u00e1 somente a Jo\u00e3o, cabendo aos demais credores, caso existam, ingressarem com a\u00e7\u00e3o individual pr\u00f3pria.",
-                "correct": null,
-                "pmi": [
-                    -0.46712621264469095,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A"
-            },
-            {
-                "text": "O caso narrado traz hip\u00f3tese de fraude de execu\u00e7\u00e3o, que constitui defeito no neg\u00f3cio jur\u00eddico por v\u00edcio de consentimento.",
-                "correct": null,
-                "pmi": [
-                    -0.32427783103248153,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B"
-            },
-            {
-                "text": "Na hip\u00f3tese de Jo\u00e3o receber de Marcos, j\u00e1 insolvente, o pagamento da d\u00edvida ainda n\u00e3o vencida, ficar\u00e1 Jo\u00e3o obrigado a repor, em proveito do acervo sobre que se tenha de efetuar o concurso de credores, aquilo que recebeu.",
-                "correct": true,
-                "pmi": [
-                    -0.24768598993246635,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C"
-            },
-            {
-                "text": "Jo\u00e3o tem o prazo prescricional de dois anos para pleitear a anula\u00e7\u00e3o do neg\u00f3cio jur\u00eddico fraudulento, contado do dia em que tomar conhecimento da doa\u00e7\u00e3o feita por Marcos.",
-                "correct": null,
-                "pmi": [
-                    -0.0958528416060297,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D"
-            }
-        ],
         "areas": [
             "CIVIL"
         ],
-        "number": "42",
         "enum": "Jo\u00e3o, credor quirograf\u00e1rio de Marcos em R$ 150.000,00, ingressou com A\u00e7\u00e3o Pauliana, com a finalidade de anular ato praticado por Marcos, que o reduziu \u00e0 insolv\u00eancia. Jo\u00e3o alega que Marcos transmitiu gratuitamente para seu filho, por contrato de doa\u00e7\u00e3o, propriedade rural avaliada em R$ 200.000,00.\n\n Considerando a hip\u00f3tese acima, assinale a afirmativa correta.",
-        "valid": true,
-        "filename": "2013-10.txt"
+        "filename": "2013-10.txt",
+        "number": "42",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.10521187373824425,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Caso o pedido da A\u00e7\u00e3o Pauliana seja julgado procedente e seja anulado o contrato de doa\u00e7\u00e3o, o benef\u00edcio da anula\u00e7\u00e3o aproveitar\u00e1 somente a Jo\u00e3o, cabendo aos demais credores, caso existam, ingressarem com a\u00e7\u00e3o individual pr\u00f3pria."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.05388206058513608,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O caso narrado traz hip\u00f3tese de fraude de execu\u00e7\u00e3o, que constitui defeito no neg\u00f3cio jur\u00eddico por v\u00edcio de consentimento."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.027454140699334436,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Na hip\u00f3tese de Jo\u00e3o receber de Marcos, j\u00e1 insolvente, o pagamento da d\u00edvida ainda n\u00e3o vencida, ficar\u00e1 Jo\u00e3o obrigado a repor, em proveito do acervo sobre que se tenha de efetuar o concurso de credores, aquilo que recebeu."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.006711378821190572,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jo\u00e3o tem o prazo prescricional de dois anos para pleitear a anula\u00e7\u00e3o do neg\u00f3cio jur\u00eddico fraudulento, contado do dia em que tomar conhecimento da doa\u00e7\u00e3o feita por Marcos."
+            }
+        ],
+        "valid": true
     }
 ]

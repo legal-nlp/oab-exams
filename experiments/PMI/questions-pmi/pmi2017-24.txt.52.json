@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "valid": true,
-        "number": "52",
-        "filename": "2017-24.txt",
         "enum": "O advogado Jonas interp\u00f4s Recurso Especial contra ac\u00f3rd\u00e3o do Tribunal de Justi\u00e7a do Estado X.\n\n Ocorre que, no corrente ano, a Vice-Presid\u00eancia/Presid\u00eancia do referido Tribunal negou seguimento ao recurso interposto, afirmando que o ac\u00f3rd\u00e3o recorrido se encontra no mesmo sentido de precedente do STJ, julgado sob o rito dos recursos repetitivos.\n\n Nessa hip\u00f3tese, caso deseje impugnar a referida decis\u00e3o, o advogado dever\u00e1 interpor",
+        "filename": "2017-24.txt",
+        "number": "52",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.04225892020134369,
+                    0.085823286852662,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Agravo de Instrumento, direcionado ao Ministro Presidente do STJ."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.1884160621255469,
+                    0.10434326828360897,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Agravo em Recurso Especial, direcionado ao Ministro Presidente do STJ."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.2923867876080644,
-                    -0.014377271589861048,
+                    0.13455390257195454,
+                    0.018508700491572844,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Agravo em Recurso Especial, direcionado ao Vice- Presidente do Tribunal de Justi\u00e7a do Estado X."
             },
             {
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.17742715384481145,
-                    -0.009584847726574032,
+                    0.1575570799887419,
+                    0.012339133661048564,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "Agravo Interno, direcionado ao \u00f3rg\u00e3o colegiado competente para revisar as decis\u00f5es do Presidente/Vice- Presidente do Tribunal de Justi\u00e7a."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

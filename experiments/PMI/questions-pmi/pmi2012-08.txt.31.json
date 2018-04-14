@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-08.txt",
-        "number": "31",
-        "enum": "A Uni\u00e3o, ap\u00f3s regular licita\u00e7\u00e3o, realiza concess\u00e3o de determinado servi\u00e7o p\u00fablico a uma sociedade privada. Entretanto, para a efetiva presta\u00e7\u00e3o do servi\u00e7o, \u00e9 necess\u00e1rio realizar algumas desapropria\u00e7\u00f5es.\n\n A respeito desse caso concreto, assinale a afirmativa correta.",
-        "valid": true,
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "A Uni\u00e3o, ap\u00f3s regular licita\u00e7\u00e3o, realiza concess\u00e3o de determinado servi\u00e7o p\u00fablico a uma sociedade privada. Entretanto, para a efetiva presta\u00e7\u00e3o do servi\u00e7o, \u00e9 necess\u00e1rio realizar algumas desapropria\u00e7\u00f5es.\n\n A respeito desse caso concreto, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "31",
         "options": [
             {
-                "text": "A sociedade concession\u00e1ria poder\u00e1 promover desapropria\u00e7\u00f5es mediante autoriza\u00e7\u00e3o expressa, constante de lei ou contrato.",
-                "pmi": [
-                    -0.21365515076659441,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
-                "text": "As desapropria\u00e7\u00f5es necess\u00e1rias somente poder\u00e3o ser realizadas pela Uni\u00e3o, j\u00e1 que a concession\u00e1ria \u00e9 pessoa jur\u00eddica de direito privado.",
                 "pmi": [
-                    -0.29712852025001757,
+                    0.021471606144140672,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A sociedade concession\u00e1ria poder\u00e1 promover desapropria\u00e7\u00f5es mediante autoriza\u00e7\u00e3o expressa, constante de lei ou contrato."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "O ingresso de autoridades administrativas nos bens desapropriados, declarada a utilidade p\u00fablica, somente ser\u00e1 l\u00edcito ap\u00f3s a obten\u00e7\u00e3o de autoriza\u00e7\u00e3o judicial.",
                 "pmi": [
-                    -0.06330903670296331,
+                    0.08377682594537332,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "As desapropria\u00e7\u00f5es necess\u00e1rias somente poder\u00e3o ser realizadas pela Uni\u00e3o, j\u00e1 que a concession\u00e1ria \u00e9 pessoa jur\u00eddica de direito privado."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Os bens pertencentes ao(s) Munic\u00edpio(s) inserido(s) na \u00e1rea de presta\u00e7\u00e3o do servi\u00e7o n\u00e3o poder\u00e3o ser desapropriados, mesmo que haja autoriza\u00e7\u00e3o legislativa.",
                 "pmi": [
-                    -1.5020180693880336,
+                    0.04249800390686748,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O ingresso de autoridades administrativas nos bens desapropriados, declarada a utilidade p\u00fablica, somente ser\u00e1 l\u00edcito ap\u00f3s a obten\u00e7\u00e3o de autoriza\u00e7\u00e3o judicial."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    -0.29744560706072953,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os bens pertencentes ao(s) Munic\u00edpio(s) inserido(s) na \u00e1rea de presta\u00e7\u00e3o do servi\u00e7o n\u00e3o poder\u00e3o ser desapropriados, mesmo que haja autoriza\u00e7\u00e3o legislativa."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

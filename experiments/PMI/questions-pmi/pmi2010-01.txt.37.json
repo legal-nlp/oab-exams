@@ -1,56 +1,56 @@
 [
     {
-        "enum": "Assinale a op\u00e7\u00e3o correta acerca da presta\u00e7\u00e3o de alimentos.",
-        "number": "37",
-        "filename": "2010-01.txt",
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "Somente os filhos t\u00eam o direito de pedir alimentos.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "O direito a alimentos \u00e9 rec\u00edproco entre pais e filhos.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "Ap\u00f3s a separa\u00e7\u00e3o judicial do casal, mesmo que o c\u00f4njuge venha a necessitar de alimentos, ele n\u00e3o mais poder\u00e1 pleitear ao outro c\u00f4njuge a presta\u00e7\u00e3o aliment\u00edcia.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "Os cr\u00e9ditos alimentares prescrevem em cinco anos.",
-                "letter": "D"
-            }
-        ],
         "areas": [
             "CIVIL"
+        ],
+        "enum": "Assinale a op\u00e7\u00e3o correta acerca da presta\u00e7\u00e3o de alimentos.",
+        "filename": "2010-01.txt",
+        "number": "37",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Somente os filhos t\u00eam o direito de pedir alimentos."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O direito a alimentos \u00e9 rec\u00edproco entre pais e filhos."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ap\u00f3s a separa\u00e7\u00e3o judicial do casal, mesmo que o c\u00f4njuge venha a necessitar de alimentos, ele n\u00e3o mais poder\u00e1 pleitear ao outro c\u00f4njuge a presta\u00e7\u00e3o aliment\u00edcia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os cr\u00e9ditos alimentares prescrevem em cinco anos."
+            }
         ],
         "valid": true
     }

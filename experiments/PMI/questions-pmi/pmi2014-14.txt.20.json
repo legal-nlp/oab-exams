@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2014-14.txt",
-        "valid": true,
-        "enum": "Em maio de 1996, o Brasil instituiu seu primeiro Programa Nacional de Direitos Humanos (PNDH 1). Na Introdu\u00e7\u00e3o do PNDH 2, adotado em maio de 2002, vem escrito o seguinte: \u201cEntre as principais medidas legislativas que resultaram de proposi\u00e7\u00f5es do PNDH figuram... a transfer\u00eancia da justi\u00e7a militar para a justi\u00e7a comum dos crimes dolosos contra a vida praticados por policiais militares (Lei 9.299/96), que permitiu o indiciamento e o julgamento de policiais militares em casos de m\u00faltiplas e graves viola\u00e7\u00f5es como os do Carandiru, Corumbiara e Eldorado dos Caraj\u00e1s; a tipifica\u00e7\u00e3o do crime de tortura (Lei 9.455/97), que constituiu marco referencial para o combate a essa pr\u00e1tica criminosa no Brasil; e a constru\u00e7\u00e3o da proposta de reforma do Poder Judici\u00e1rio, na qual se inclui, entre outras medidas destinadas a agilizar o processamento dos respons\u00e1veis por viola\u00e7\u00f5es, a chamada \u2018federaliza\u00e7\u00e3o\u2019 dos crimes de direitos humanos.\u201d\n\n Em rela\u00e7\u00e3o ao \u00faltimo ponto descrito, \u00e9 correto dizer que a federaliza\u00e7\u00e3o contra os crimes de direitos humanos pode ocorrer apenas no seguinte caso:",
         "areas": [
             "HUMAN-RIGHTS"
         ],
+        "enum": "Em maio de 1996, o Brasil instituiu seu primeiro Programa Nacional de Direitos Humanos (PNDH 1). Na Introdu\u00e7\u00e3o do PNDH 2, adotado em maio de 2002, vem escrito o seguinte: \u201cEntre as principais medidas legislativas que resultaram de proposi\u00e7\u00f5es do PNDH figuram... a transfer\u00eancia da justi\u00e7a militar para a justi\u00e7a comum dos crimes dolosos contra a vida praticados por policiais militares (Lei 9.299/96), que permitiu o indiciamento e o julgamento de policiais militares em casos de m\u00faltiplas e graves viola\u00e7\u00f5es como os do Carandiru, Corumbiara e Eldorado dos Caraj\u00e1s; a tipifica\u00e7\u00e3o do crime de tortura (Lei 9.455/97), que constituiu marco referencial para o combate a essa pr\u00e1tica criminosa no Brasil; e a constru\u00e7\u00e3o da proposta de reforma do Poder Judici\u00e1rio, na qual se inclui, entre outras medidas destinadas a agilizar o processamento dos respons\u00e1veis por viola\u00e7\u00f5es, a chamada \u2018federaliza\u00e7\u00e3o\u2019 dos crimes de direitos humanos.\u201d\n\n Em rela\u00e7\u00e3o ao \u00faltimo ponto descrito, \u00e9 correto dizer que a federaliza\u00e7\u00e3o contra os crimes de direitos humanos pode ocorrer apenas no seguinte caso:",
+        "filename": "2014-14.txt",
+        "number": "20",
         "options": [
             {
                 "correct": null,
-                "text": "havendo ind\u00edcio de viola\u00e7\u00e3o de direitos humanos previstos na legisla\u00e7\u00e3o nacional ou nos tratados internacionais.",
                 "letter": "A",
                 "pmi": [
-                    -0.054642728443625055,
+                    0.05116431216620573,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "havendo ind\u00edcio de viola\u00e7\u00e3o de direitos humanos previstos na legisla\u00e7\u00e3o nacional ou nos tratados internacionais."
             },
             {
                 "correct": true,
-                "text": "havendo grave viola\u00e7\u00e3o de direitos humanos previstos nos tratados internacionais de direitos humanos dos quais o Brasil seja parte.",
                 "letter": "B",
                 "pmi": [
-                    -0.05662580930916679,
+                    0.08765651879514794,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "havendo grave viola\u00e7\u00e3o de direitos humanos previstos nos tratados internacionais de direitos humanos dos quais o Brasil seja parte."
             },
             {
                 "correct": null,
-                "text": "havendo viola\u00e7\u00e3o das leis protetivas dos direitos humanos, tais quais as leis citadas na Introdu\u00e7\u00e3o do PNDH 2.",
                 "letter": "C",
                 "pmi": [
-                    -0.18340931354340467,
+                    0.019387514292104332,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "havendo viola\u00e7\u00e3o das leis protetivas dos direitos humanos, tais quais as leis citadas na Introdu\u00e7\u00e3o do PNDH 2."
             },
             {
                 "correct": null,
-                "text": "havendo grave viola\u00e7\u00e3o dos direitos humanos previstos na Constitui\u00e7\u00e3o Federal.",
                 "letter": "D",
                 "pmi": [
-                    -0.15125756901359166,
+                    0.07358239228229876,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "havendo grave viola\u00e7\u00e3o dos direitos humanos previstos na Constitui\u00e7\u00e3o Federal."
             }
         ],
-        "number": "20"
+        "valid": true
     }
 ]

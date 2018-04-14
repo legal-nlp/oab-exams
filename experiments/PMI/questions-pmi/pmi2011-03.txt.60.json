@@ -1,57 +1,57 @@
 [
     {
-        "number": "60",
         "areas": [
             "CRIMINAL"
         ],
         "enum": "Joaquim, desejoso de tirar a vida da pr\u00f3pria m\u00e3e, acaba causando a morte de uma tia (por confundi-la com aquela). Tendo como refer\u00eancia a situa\u00e7\u00e3o acima, \u00e9 correto afirmar que Joaquim incorre em erro",
-        "valid": true,
+        "filename": "2011-03.txt",
+        "number": "60",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "de tipo essencial escus\u00e1vel \u2013 inevit\u00e1vel \u2013 e dever\u00e1 responder pelo crime de homic\u00eddio sem a incid\u00eancia da agravante relativa ao crime praticado contra ascendente (haja vista que a v\u00edtima, de fato, n\u00e3o era a sua genitora).",
-                "correct": null,
                 "pmi": [
-                    -0.005656340801112281,
+                    0.02476318337421407,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de tipo essencial escus\u00e1vel \u2013 inevit\u00e1vel \u2013 e dever\u00e1 responder pelo crime de homic\u00eddio sem a incid\u00eancia da agravante relativa ao crime praticado contra ascendente (haja vista que a v\u00edtima, de fato, n\u00e3o era a sua genitora)."
             },
             {
-                "letter": "B",
-                "text": "de tipo acidental na modalidade error in persona e dever\u00e1 responder pelo crime de homic\u00eddio com a incid\u00eancia da agravante relativa ao crime praticado contra ascendente (mesmo que a v\u00edtima n\u00e3o seja, de fato, a sua genitora).",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.13070998527160216,
+                    -0.01618942367037353,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de tipo acidental na modalidade error in persona e dever\u00e1 responder pelo crime de homic\u00eddio com a incid\u00eancia da agravante relativa ao crime praticado contra ascendente (mesmo que a v\u00edtima n\u00e3o seja, de fato, a sua genitora)."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "de proibi\u00e7\u00e3o e dever\u00e1 responder pelo crime de homic\u00eddio qualificado pelo fato de ter objetivado atingir ascendente (preserva-se o dolo, independente da identidade da v\u00edtima).",
-                "correct": null,
                 "pmi": [
-                    -0.024699084293437475,
+                    0.044831256678737046,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de proibi\u00e7\u00e3o e dever\u00e1 responder pelo crime de homic\u00eddio qualificado pelo fato de ter objetivado atingir ascendente (preserva-se o dolo, independente da identidade da v\u00edtima)."
             },
             {
-                "letter": "D",
-                "text": "de tipo essencial inescus\u00e1vel \u2013 evit\u00e1vel \u2013, mas n\u00e3o dever\u00e1 responder pelo crime de homic\u00eddio qualificado, uma vez que a pessoa atingida n\u00e3o era a sua ascendente.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de tipo essencial inescus\u00e1vel \u2013 evit\u00e1vel \u2013, mas n\u00e3o dever\u00e1 responder pelo crime de homic\u00eddio qualificado, uma vez que a pessoa atingida n\u00e3o era a sua ascendente."
             }
         ],
-        "filename": "2011-03.txt"
+        "valid": true
     }
 ]

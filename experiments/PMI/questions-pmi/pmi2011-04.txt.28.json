@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.5572814451272858,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "vinculado ao cumprimento dos requisitos estabelecidos em lei."
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.4225276239177144,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "complexo, uma vez que somente se aperfei\u00e7oa com a institui\u00e7\u00e3o do Termo de Parceria."
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.05557728958992031,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "discricion\u00e1rio, uma vez que depende de avalia\u00e7\u00e3o administrativa quanto \u00e0 sua conveni\u00eancia e oportunidade."
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.049985417656331334,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "composto, subordinando-se \u00e0 homologa\u00e7\u00e3o da Chefia do Poder Executivo."
-            }
+        "areas": [
+            "ADMINISTRATIVE"
         ],
         "enum": "A qualifica\u00e7\u00e3o como Organiza\u00e7\u00f5es da Sociedade Civil de Interesse P\u00fablico (OSCIPs) de pessoas jur\u00eddicas de direito privado, sem fins lucrativos, cujos objetivos sociais e normas estatut\u00e1rias atendam aos requisitos previstos na respectiva lei \u00e9 ato",
         "filename": "2011-04.txt",
-        "valid": true,
         "number": "28",
-        "areas": [
-            "ADMINISTRATIVE"
-        ]
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.23915700600853135,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "vinculado ao cumprimento dos requisitos estabelecidos em lei."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.10843134350616365,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "complexo, uma vez que somente se aperfei\u00e7oa com a institui\u00e7\u00e3o do Termo de Parceria."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.018167011441173875,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "discricion\u00e1rio, uma vez que depende de avalia\u00e7\u00e3o administrativa quanto \u00e0 sua conveni\u00eancia e oportunidade."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.03850774358098169,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "composto, subordinando-se \u00e0 homologa\u00e7\u00e3o da Chefia do Poder Executivo."
+            }
+        ],
+        "valid": true
     }
 ]

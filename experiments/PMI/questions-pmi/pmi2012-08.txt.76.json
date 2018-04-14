@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR-PROCEDURE"
         ],
-        "valid": true,
+        "enum": "A respeito do preposto no Processo do Trabalho, de acordo com a legisla\u00e7\u00e3o, assinale a afirmativa correta.",
         "filename": "2012-08.txt",
         "number": "76",
         "options": [
             {
                 "correct": null,
-                "text": "N\u00e3o precisa ter conhecimento dos fatos, uma vez que tal caracter\u00edstica \u00e9 pr\u00f3pria das testemunhas.",
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "N\u00e3o precisa ter conhecimento dos fatos, uma vez que tal caracter\u00edstica \u00e9 pr\u00f3pria das testemunhas."
             },
             {
                 "correct": null,
-                "text": "N\u00e3o precisa ter conhecimento dos fatos, j\u00e1 que atua como representante do empregador.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "N\u00e3o precisa ter conhecimento dos fatos, j\u00e1 que atua como representante do empregador."
             },
             {
                 "correct": true,
-                "text": "Deve ter conhecimento dos fatos.",
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "C"
+                "text": "Deve ter conhecimento dos fatos."
             },
             {
                 "correct": null,
-                "text": "Deve ter conhecimento da interpreta\u00e7\u00e3o do empregador quanto aos fatos ocorridos.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "Deve ter conhecimento da interpreta\u00e7\u00e3o do empregador quanto aos fatos ocorridos."
             }
         ],
-        "enum": "A respeito do preposto no Processo do Trabalho, de acordo com a legisla\u00e7\u00e3o, assinale a afirmativa correta."
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "LABOUR-PROCEDURE"
         ],
         "enum": "Em rela\u00e7\u00e3o ao valor das custas no processo do trabalho, assinale a afirmativa correta.",
         "filename": "2012-08.txt",
+        "number": "80",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Quando houver acordo, incidir\u00e3o \u00e0 base de 10% sobre o valor respectivo.",
-                "letter": "A"
+                "text": "Quando houver acordo, incidir\u00e3o \u00e0 base de 10% sobre o valor respectivo."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Quando o pedido for julgado improcedente, sempre haver\u00e1 a isen\u00e7\u00e3o de pagamento.",
-                "letter": "B"
+                "text": "Quando o pedido for julgado improcedente, sempre haver\u00e1 a isen\u00e7\u00e3o de pagamento."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.23742114656338942,
+                    -0.02110453020551314,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Quando for procedente o pedido formulado em a\u00e7\u00e3o declarat\u00f3ria, incidir\u00e3o \u00e0 base de 2% sobre o valor da causa.",
-                "letter": "C"
+                "text": "Quando for procedente o pedido formulado em a\u00e7\u00e3o declarat\u00f3ria, incidir\u00e3o \u00e0 base de 2% sobre o valor da causa."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.18168204883775818,
+                    0.14279287569905624,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Quando o valor for indeterminado, incidir\u00e3o \u00e0 base de 20% sobre o que o juiz fixar.",
-                "letter": "D"
+                "text": "Quando o valor for indeterminado, incidir\u00e3o \u00e0 base de 20% sobre o que o juiz fixar."
             }
         ],
-        "number": "80"
+        "valid": true
     }
 ]

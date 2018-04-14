@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
-        "number": "9",
-        "filename": "2011-05.txt",
         "enum": "Ademir, formado em Jornalismo e Direito e exercendo ambas as profiss\u00f5es, publica, em seu espa\u00e7o jornal\u00edstico, alega\u00e7\u00f5es forenses por ele apresentadas em ju\u00edzo. Instado por outros profissionais do Direito a tamb\u00e9m apresentar os trabalhos dos colegas, Ademir alega que o espa\u00e7o \u00e9 exclusivamente dedicado \u00e0 divulga\u00e7\u00e3o dos seus pr\u00f3prios trabalhos forenses.\n\n Com base no relatado, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que a divulga\u00e7\u00e3o promovida por Ademir \u00e9",
+        "filename": "2011-05.txt",
+        "number": "9",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "perfeitamente justific\u00e1vel, por ser pertinente a outra profiss\u00e3o.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "perfeitamente justific\u00e1vel, por ser pertinente a outra profiss\u00e3o."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "justificado pelo interesse jornal\u00edstico dos trabalhos forenses.",
-                "correct": null,
                 "pmi": [
-                    -0.02660015917000906,
+                    0.02601739616028517,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "justificado pelo interesse jornal\u00edstico dos trabalhos forenses."
             },
             {
-                "letter": "C",
-                "text": "pun\u00edvel, por caracterizar infra\u00e7\u00e3o disciplinar.",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pun\u00edvel, por caracterizar infra\u00e7\u00e3o disciplinar."
             },
             {
-                "letter": "D",
-                "text": "\u00e9 equiparado a ato educacional permitido.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 equiparado a ato educacional permitido."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

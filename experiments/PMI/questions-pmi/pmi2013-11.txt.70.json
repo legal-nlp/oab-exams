@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
+        "enum": "Rodrigo foi admitido pela empresa Dona Confec\u00e7\u00f5es, a t\u00edtulo de experi\u00eancia, por 45 dias. No 35\u00ba dia ap\u00f3s a admiss\u00e3o, Rodrigo foi v\u00edtima de um acidente do trabalho de m\u00e9dia propor\u00e7\u00e3o, que o obrigou ao afastamento por 18 dias. De acordo com o entendimento do TST:",
         "filename": "2013-11.txt",
         "number": "70",
-        "valid": true,
         "options": [
             {
-                "text": "Rodrigo n\u00e3o poder\u00e1 ser dispensado pois, em raz\u00e3o do acidente do trabalho, possui garantia no emprego, mesmo no caso de contrato a termo.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
-                "text": "O contrato poder\u00e1 ser rompido porque foi realizado por prazo determinado, de forma que nenhum fator, por mais relevante que seja, poder\u00e1 elastec\u00ea-lo.",
                 "pmi": [
-                    -0.09984372785932276,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Rodrigo n\u00e3o poder\u00e1 ser dispensado pois, em raz\u00e3o do acidente do trabalho, possui garantia no emprego, mesmo no caso de contrato a termo."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "Rodrigo poder\u00e1 ser desligado porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade contratual, que \u00e9 outra modalidade de rompimento.",
                 "pmi": [
-                    -0.02885058992595546,
+                    0.0694475371164065,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O contrato poder\u00e1 ser rompido porque foi realizado por prazo determinado, de forma que nenhum fator, por mais relevante que seja, poder\u00e1 elastec\u00ea-lo."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Rodrigo n\u00e3o pode ter o contrato rompido no termo final, pois em raz\u00e3o do acidente do trabalho sofrido, ter\u00e1 garantia no emprego at\u00e9 5 meses ap\u00f3s o retorno, conforme Lei previdenci\u00e1ria.",
                 "pmi": [
-                    -0.05649138848638217,
+                    0.05579504256190917,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Rodrigo poder\u00e1 ser desligado porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade contratual, que \u00e9 outra modalidade de rompimento."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.003969777576378285,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Rodrigo n\u00e3o pode ter o contrato rompido no termo final, pois em raz\u00e3o do acidente do trabalho sofrido, ter\u00e1 garantia no emprego at\u00e9 5 meses ap\u00f3s o retorno, conforme Lei previdenci\u00e1ria."
             }
         ],
-        "enum": "Rodrigo foi admitido pela empresa Dona Confec\u00e7\u00f5es, a t\u00edtulo de experi\u00eancia, por 45 dias. No 35\u00ba dia ap\u00f3s a admiss\u00e3o, Rodrigo foi v\u00edtima de um acidente do trabalho de m\u00e9dia propor\u00e7\u00e3o, que o obrigou ao afastamento por 18 dias. De acordo com o entendimento do TST:"
+        "valid": true
     }
 ]

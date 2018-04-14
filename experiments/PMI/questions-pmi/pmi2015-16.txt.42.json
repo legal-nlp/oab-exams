@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Joana deu seu carro a L\u00facia, em comodato, pelo prazo de 5 dias, findo o qual L\u00facia n\u00e3o devolveu o ve\u00edculo. Dois dias depois, forte tempestade danificou a lanterna e o parachoque dianteiro do carro de Joana. Inconformada com o ocorrido, Joana exigiu que L\u00facia a indenizasse pelos danos causados ao ve\u00edculo.\n\n Diante do fato narrado, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "42",
         "options": [
             {
                 "correct": null,
-                "text": "L\u00facia incorreu em inadimplemento absoluto, pois n\u00e3o cumpriu sua presta\u00e7\u00e3o no termo ajustado, o que inutilizou a presta\u00e7\u00e3o para Joana.",
                 "letter": "A",
                 "pmi": [
-                    -0.040082919429896856,
+                    0.061052121984175166,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "L\u00facia incorreu em inadimplemento absoluto, pois n\u00e3o cumpriu sua presta\u00e7\u00e3o no termo ajustado, o que inutilizou a presta\u00e7\u00e3o para Joana."
             },
             {
                 "correct": null,
-                "text": "L\u00facia n\u00e3o est\u00e1 em mora, pois Joana n\u00e3o a interpelou, judicial ou extrajudicialmente.",
                 "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "L\u00facia n\u00e3o est\u00e1 em mora, pois Joana n\u00e3o a interpelou, judicial ou extrajudicialmente."
             },
             {
                 "correct": true,
-                "text": "L\u00facia deve indenizar Joana pelos danos causados ao ve\u00edculo, salvo se provar que os mesmos ocorreriam ainda que tivesse adimplido sua presta\u00e7\u00e3o no termo ajustado.",
                 "letter": "C",
                 "pmi": [
-                    -0.03546032231254225,
+                    0.07150943302926469,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "L\u00facia deve indenizar Joana pelos danos causados ao ve\u00edculo, salvo se provar que os mesmos ocorreriam ainda que tivesse adimplido sua presta\u00e7\u00e3o no termo ajustado."
             },
             {
                 "correct": null,
-                "text": "L\u00facia n\u00e3o responde pelos danos causados ao ve\u00edculo, pois foram decorrentes de for\u00e7a maior.",
                 "letter": "D",
                 "pmi": [
-                    0.011732527011902617,
+                    0.051464150424573765,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "L\u00facia n\u00e3o responde pelos danos causados ao ve\u00edculo, pois foram decorrentes de for\u00e7a maior."
             }
         ],
-        "filename": "2015-16.txt",
-        "valid": true,
-        "number": "42",
-        "enum": "Joana deu seu carro a L\u00facia, em comodato, pelo prazo de 5 dias, findo o qual L\u00facia n\u00e3o devolveu o ve\u00edculo. Dois dias depois, forte tempestade danificou a lanterna e o parachoque dianteiro do carro de Joana. Inconformada com o ocorrido, Joana exigiu que L\u00facia a indenizasse pelos danos causados ao ve\u00edculo.\n\n Diante do fato narrado, assinale a afirmativa correta.",
-        "areas": []
+        "valid": true
     }
 ]

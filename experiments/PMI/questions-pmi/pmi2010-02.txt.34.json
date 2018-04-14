@@ -1,55 +1,55 @@
 [
     {
-        "enum": "As medidas cautelares est\u00e3o expressamente previstas no CPC como forma de instrumentalizar a tutela, tendo natureza eminentemente acess\u00f3ria.\n\n Assinale a alternativa que apresente uma regra que disciplina a concess\u00e3o de medidas cautelares.",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
+        "enum": "As medidas cautelares est\u00e3o expressamente previstas no CPC como forma de instrumentalizar a tutela, tendo natureza eminentemente acess\u00f3ria.\n\n Assinale a alternativa que apresente uma regra que disciplina a concess\u00e3o de medidas cautelares.",
         "filename": "2010-02.txt",
         "number": "34",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "o Juiz, como regra, deve deferir  medidas cautelares sem a pr\u00e9via audi\u00eancia do requerido.",
                 "pmi": [
-                    -0.028647036661708817,
+                    0.03539406686529403,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "o Juiz, como regra, deve deferir  medidas cautelares sem a pr\u00e9via audi\u00eancia do requerido."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "o direito brasileiro admite apenas medidas cautelares incidentais, sendo vedado o uso de medidas pr\u00e9vias.",
                 "pmi": [
-                    -0.01819706876602023,
+                    0.03303581405558204,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "o direito brasileiro admite apenas medidas cautelares incidentais, sendo vedado o uso de medidas pr\u00e9vias."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "interposto recurso nos autos principais, fica vedado o requerimento de cautelares.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "interposto recurso nos autos principais, fica vedado o requerimento de cautelares."
             },
             {
+                "correct": true,
                 "letter": "D",
-                "text": "salvo decis\u00e3o em contr\u00e1rio, a cautelar conserva sua efic\u00e1cia mesmo durante o per\u00edodo de suspens\u00e3o do processo principal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "salvo decis\u00e3o em contr\u00e1rio, a cautelar conserva sua efic\u00e1cia mesmo durante o per\u00edodo de suspens\u00e3o do processo principal."
             }
         ],
         "valid": true

@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "LABOUR-PROCEDURE"
         ],
-        "number": "79",
         "enum": "Sobre o manejo do recurso adesivo na Justi\u00e7a do Trabalho, assinale a afirmativa correta.",
         "filename": "2013-10.txt",
+        "number": "79",
         "options": [
             {
-                "pmi": [
-                    -0.0419272018467912,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "\u00c9 cab\u00edvel e a mat\u00e9ria nele veiculada n\u00e3o precisa estar relacionada ao recurso principal.",
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.23831238436708027,
+                    0.13189865058364508,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 incab\u00edvel na Justi\u00e7a do Trabalho porque n\u00e3o h\u00e1 previs\u00e3o dele na CLT.",
+                "text": "\u00c9 cab\u00edvel e a mat\u00e9ria nele veiculada n\u00e3o precisa estar relacionada ao recurso principal."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.03354176147743296,
+                    0.10933932049379232,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 cab\u00edvel, pressupondo sucumb\u00eancia rec\u00edproca e, caso interposto pela empresa, ela fica isenta de preparo.",
+                "text": "\u00c9 incab\u00edvel na Justi\u00e7a do Trabalho porque n\u00e3o h\u00e1 previs\u00e3o dele na CLT."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.0419272018467912,
+                    0.10551892046691608,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 cab\u00edvel, mas a mat\u00e9ria nele veiculada precisa estar relacionada ao recurso principal.",
+                "text": "\u00c9 cab\u00edvel, pressupondo sucumb\u00eancia rec\u00edproca e, caso interposto pela empresa, ela fica isenta de preparo."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.13189865058364508,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 cab\u00edvel, mas a mat\u00e9ria nele veiculada precisa estar relacionada ao recurso principal."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "number": "67",
-        "filename": "2011-05.txt",
-        "enum": "Arist\u00f3teles, juiz de uma vara criminal da justi\u00e7a comum, profere senten\u00e7a em processo-crime cuja compet\u00eancia era da justi\u00e7a militar.\n\n Com base em tal afirmativa, pode-se dizer que a n\u00e3o observ\u00e2ncia de Arist\u00f3teles \u00e0 matriz legal gerar\u00e1 a",
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "Arist\u00f3teles, juiz de uma vara criminal da justi\u00e7a comum, profere senten\u00e7a em processo-crime cuja compet\u00eancia era da justi\u00e7a militar.\n\n Com base em tal afirmativa, pode-se dizer que a n\u00e3o observ\u00e2ncia de Arist\u00f3teles \u00e0 matriz legal gerar\u00e1 a",
+        "filename": "2011-05.txt",
+        "number": "67",
         "options": [
             {
-                "text": "inexist\u00eancia do ato.",
-                "pmi": [
-                    -0.13745989855491117,
-                    0.0,
-                    0,
-                    0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "nulidade relativa do ato.",
                 "pmi": [
-                    -0.09163993236994078,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "nulidade absoluta do ato.",
-                "pmi": [
-                    -0.09163993236994078,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": true
-            },
-            {
-                "text": "irregularidade do ato.",
-                "pmi": [
-                    -0.13745989855491117,
+                    0.10589629484769965,
                     0.0,
                     0,
                     0
                 ],
+                "text": "inexist\u00eancia do ato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.07059752989846643,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "nulidade relativa do ato."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.07059752989846643,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "nulidade absoluta do ato."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.10589629484769965,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "irregularidade do ato."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

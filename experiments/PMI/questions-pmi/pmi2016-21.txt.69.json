@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Vict\u00f3ria e Bernadete entram em luta corporal em raz\u00e3o da disputa por um namorado, vindo Vict\u00f3ria a desferir uma facada no p\u00e9 da rival, que sofreu les\u00f5es graves. Bernadete compareceu em sede policial, narrou o ocorrido e disse ter inten\u00e7\u00e3o de ver a agente responsabilizada criminalmente.\n\n Em raz\u00e3o dos fatos, Vict\u00f3ria \u00e9 denunciada e pronunciada pela pr\u00e1tica do crime de tentativa de homic\u00eddio. Em sess\u00e3o plen\u00e1ria do Tribunal do J\u00fari, os jurados entendem, no momento de responder aos quesitos, que Vict\u00f3ria foi autora da facada, mas que n\u00e3o houve dolo de matar.\n\n Diante da desclassifica\u00e7\u00e3o, ser\u00e1 competente para julgamento do crime residual, bem como da avalia\u00e7\u00e3o do cabimento dos institutos despenalizadores,",
-        "number": "69",
         "areas": [],
+        "enum": "Vict\u00f3ria e Bernadete entram em luta corporal em raz\u00e3o da disputa por um namorado, vindo Vict\u00f3ria a desferir uma facada no p\u00e9 da rival, que sofreu les\u00f5es graves. Bernadete compareceu em sede policial, narrou o ocorrido e disse ter inten\u00e7\u00e3o de ver a agente responsabilizada criminalmente.\n\n Em raz\u00e3o dos fatos, Vict\u00f3ria \u00e9 denunciada e pronunciada pela pr\u00e1tica do crime de tentativa de homic\u00eddio. Em sess\u00e3o plen\u00e1ria do Tribunal do J\u00fari, os jurados entendem, no momento de responder aos quesitos, que Vict\u00f3ria foi autora da facada, mas que n\u00e3o houve dolo de matar.\n\n Diante da desclassifica\u00e7\u00e3o, ser\u00e1 competente para julgamento do crime residual, bem como da avalia\u00e7\u00e3o do cabimento dos institutos despenalizadores,",
+        "filename": "2016-21.txt",
+        "number": "69",
         "options": [
             {
-                "letter": "A",
-                "text": "o Juiz Presidente do Tribunal do J\u00fari.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.02806712491136264,
+                    0.013890839468397847,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o Juiz Presidente do Tribunal do J\u00fari."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "o corpo de jurados, que decidiu pela desclassifica\u00e7\u00e3o.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o corpo de jurados, que decidiu pela desclassifica\u00e7\u00e3o."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "o Juiz Criminal da Comarca, a partir de livre distribui\u00e7\u00e3o.",
-                "correct": null,
                 "pmi": [
-                    -0.02245369992909011,
+                    0.011112671574718277,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o Juiz Criminal da Comarca, a partir de livre distribui\u00e7\u00e3o."
             },
             {
-                "letter": "D",
-                "text": "o Juiz em atua\u00e7\u00e3o perante o Juizado Especial Criminal da Comarca em que ocorreram os fatos.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.03708360018105649,
+                    0.025853346388584234,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o Juiz em atua\u00e7\u00e3o perante o Juizado Especial Criminal da Comarca em que ocorreram os fatos."
             }
         ],
-        "filename": "2016-21.txt",
         "valid": true
     }
 ]

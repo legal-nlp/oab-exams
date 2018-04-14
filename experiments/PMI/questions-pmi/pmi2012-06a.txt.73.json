@@ -1,57 +1,57 @@
 [
     {
-        "number": "73",
-        "valid": true,
-        "filename": "2012-06a.txt",
         "areas": [
             "LABOUR"
         ],
+        "enum": "Marcos Paiva ficou afastado do seu trabalho, em gozo de benef\u00edcio previdenci\u00e1rio, em raz\u00e3o de enfermidade n\u00e3o relacionada ao exerc\u00edcio de suas atribui\u00e7\u00f5es funcionais, pelo prazo de 7 (sete) meses. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "73",
         "options": [
             {
-                "text": "Marcos tem direito ao recolhimento dos dep\u00f3sitos do FGTS durante esse per\u00edodo de afastamento do trabalho.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    -0.036744978304724354,
+                    0.03644485429756462,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Marcos tem direito ao recolhimento dos dep\u00f3sitos do FGTS durante esse per\u00edodo de afastamento do trabalho."
             },
             {
-                "text": "esse tempo de afastamento previdenci\u00e1rio deve ser considerado no c\u00f4mputo do per\u00edodo aquisitivo das f\u00e9rias.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.019679578785064163,
+                    0.0535102538172248,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "esse tempo de afastamento previdenci\u00e1rio deve ser considerado no c\u00f4mputo do per\u00edodo aquisitivo das f\u00e9rias."
             },
             {
-                "text": "durante esse afastamento previdenci\u00e1rio o contrato de trabalho esteve interrompido.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.034439262873862286,
+                    0.0936429441801434,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "durante esse afastamento previdenci\u00e1rio o contrato de trabalho esteve interrompido."
             },
             {
-                "text": "Marcos deve retornar ao trabalho no prazo de 30 trinta) dias, contados a partir da cessa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, sob pena de se presumir o abandono de emprego caso n\u00e3o justifique o motivo do n\u00e3o retorno.",
-                "letter": "D",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.11612910577333165,
+                    0.0831098829773439,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Marcos deve retornar ao trabalho no prazo de 30 trinta) dias, contados a partir da cessa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, sob pena de se presumir o abandono de emprego caso n\u00e3o justifique o motivo do n\u00e3o retorno."
             }
         ],
-        "enum": "Marcos Paiva ficou afastado do seu trabalho, em gozo de benef\u00edcio previdenci\u00e1rio, em raz\u00e3o de enfermidade n\u00e3o relacionada ao exerc\u00edcio de suas atribui\u00e7\u00f5es funcionais, pelo prazo de 7 (sete) meses. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, \u00e9 correto afirmar que"
+        "valid": true
     }
 ]

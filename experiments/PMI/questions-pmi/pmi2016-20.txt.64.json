@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2016-20.txt",
-        "valid": true,
-        "number": "64",
         "areas": [],
         "enum": "Durante dois meses, M\u00e1rio, 45 anos, e Joana, 14 anos, mantiveram rela\u00e7\u00f5es sexuais em raz\u00e3o de relacionamento amoroso. Apesar do consentimento de ambas as partes, ao tomar conhecimento da situa\u00e7\u00e3o, o pai de Joana, revoltado, comparece \u00e0 Delegacia e narra o ocorrido para a autoridade policial, esclarecendo que o casal se conhecera no dia do anivers\u00e1rio de 14 anos de sua filha.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, \u00e9 correto afirmar que a conduta de M\u00e1rio",
+        "filename": "2016-20.txt",
+        "number": "64",
         "options": [
             {
-                "letter": "A",
-                "text": "\u00e9 at\u00edpica, em raz\u00e3o do consentimento da ofendida.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 at\u00edpica, em raz\u00e3o do consentimento da ofendida."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "configura crime de estupro de vulner\u00e1vel.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "configura crime de estupro de vulner\u00e1vel."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "\u00e9 t\u00edpica, mas n\u00e3o \u00e9 antijur\u00eddica, funcionando o consentimento da ofendida como causa supralegal de exclus\u00e3o da ilicitude.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 t\u00edpica, mas n\u00e3o \u00e9 antijur\u00eddica, funcionando o consentimento da ofendida como causa supralegal de exclus\u00e3o da ilicitude."
             },
             {
-                "letter": "D",
-                "text": "configura crime de corrup\u00e7\u00e3o de menores.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "configura crime de corrup\u00e7\u00e3o de menores."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

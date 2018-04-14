@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Assinale a alternativa que relacione corretamente o cargo pol\u00edtico e o sistema eleitoral adotado.",
         "filename": "2012-06.txt",
         "number": "22",
-        "valid": true,
-        "enum": "Assinale a alternativa que relacione corretamente o cargo pol\u00edtico e o sistema eleitoral adotado.",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "Governador: sistema proporcional de dois turnos."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Prefeito: sistema majorit\u00e1rio de maioria simples para munic\u00edpios com menos de 200 mil eleitores."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "C",
                 "text": "Congressista: sistema proporcional."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "D",
                 "text": "Vereador: sistema distrital."
             }
         ],
-        "areas": [
-            "CONSTITUTIONAL"
-        ]
+        "valid": true
     }
 ]

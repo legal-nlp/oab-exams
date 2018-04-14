@@ -1,57 +1,57 @@
 [
     {
-        "enum": "O Presidente da Rep\u00fablica encaminhou ao Senado Federal projeto de Lei Ordin\u00e1ria para provimento de cargos de servidores da Uni\u00e3o. Ap\u00f3s os debates, o projeto foi aprovado pelo plen\u00e1rio do Senado Federal e, em seguida, encaminhado para a C\u00e2mara dos Deputados que, em apenas um turno de discuss\u00e3o e vota\u00e7\u00e3o, o aprovou e o enviou ao Presidente da Rep\u00fablica, que o sancionou.\n\n Sobre o fato acima, assinale a afirmativa correta.",
-        "filename": "2012-08.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "O Presidente da Rep\u00fablica encaminhou ao Senado Federal projeto de Lei Ordin\u00e1ria para provimento de cargos de servidores da Uni\u00e3o. Ap\u00f3s os debates, o projeto foi aprovado pelo plen\u00e1rio do Senado Federal e, em seguida, encaminhado para a C\u00e2mara dos Deputados que, em apenas um turno de discuss\u00e3o e vota\u00e7\u00e3o, o aprovou e o enviou ao Presidente da Rep\u00fablica, que o sancionou.\n\n Sobre o fato acima, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "16",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.8321986791413835,
-                    -0.023890986858838354,
+                    0.179151734999337,
+                    0.061999434342083104,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A lei \u00e9 inconstitucional, pois a iniciativa de projetos de lei para provimento de cargos de servidores da Uni\u00e3o \u00e9 da C\u00e2mara dos Deputados.",
-                "letter": "A"
+                "text": "A lei \u00e9 inconstitucional, pois a iniciativa de projetos de lei para provimento de cargos de servidores da Uni\u00e3o \u00e9 da C\u00e2mara dos Deputados."
             },
             {
-                "pmi": [
-                    -0.20806204455333568,
-                    -0.030177761928691104,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "A discuss\u00e3o e a vota\u00e7\u00e3o do projeto deveriam ter se iniciado na C\u00e2mara dos Deputados, havendo, por isso, v\u00edcio no processo legislativo.",
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.32206405913817376,
-                    -0.009194865016786687,
+                    0.19647812110295237,
+                    0.027082518871923204,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A ocorr\u00eancia de dois turnos de discuss\u00e3o e vota\u00e7\u00e3o do projeto de lei ordin\u00e1ria, pressuposta no adequado processo legislativo, n\u00e3o ocorreu no caso narrado.",
-                "letter": "C"
+                "text": "A discuss\u00e3o e a vota\u00e7\u00e3o do projeto deveriam ter se iniciado na C\u00e2mara dos Deputados, havendo, por isso, v\u00edcio no processo legislativo."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.5130041113948479,
+                    0.0951179866948733,
+                    0.012828319906526508,
+                    0.0,
+                    0.0
+                ],
+                "text": "A ocorr\u00eancia de dois turnos de discuss\u00e3o e vota\u00e7\u00e3o do projeto de lei ordin\u00e1ria, pressuposta no adequado processo legislativo, n\u00e3o ocorreu no caso narrado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.043238616382548174,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A lei \u00e9 constitucional, pois o processo legislativo foi h\u00edgido.",
-                "letter": "D"
+                "text": "A lei \u00e9 constitucional, pois o processo legislativo foi h\u00edgido."
             }
         ],
-        "valid": true,
-        "number": "16"
+        "valid": true
     }
 ]

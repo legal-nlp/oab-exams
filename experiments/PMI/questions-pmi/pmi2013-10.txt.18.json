@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "letter": "A",
-                "text": "A Uni\u00e3o n\u00e3o poderia legislar, uma vez que o assunto \u00e9 mat\u00e9ria de interesse local, n\u00e3o havendo justificativa para lei nacional sobre o tema. Houve invas\u00e3o de compet\u00eancia privativa dos estados.",
-                "pmi": [
-                    -0.43263560282407204,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "text": "No campo das compet\u00eancias legislativas concorrentes, a Uni\u00e3o deve legislar sobre normas gerais e o estado pode editar normas suplementares, mas enquanto inexistir lei federal, a compet\u00eancia do estado \u00e9 plena. A superveni\u00eancia de lei geral nacional suspende a efic\u00e1cia das disposi\u00e7\u00f5es contr\u00e1rias da lei dos estados.",
-                "pmi": [
-                    -0.36740616945630783,
-                    -5.3862256993428735e-05,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            },
-            {
-                "letter": "C",
-                "text": "A lei aplic\u00e1vel, no caso concreto, ser\u00e1 aquela que estabelecer padr\u00f5es mais restritivos, em aten\u00e7\u00e3o \u00e0 prote\u00e7\u00e3o do meio ambiente, n\u00e3o importando se tal norma \u00e9 a federal ou se a editada pelos estados-membros.",
-                "pmi": [
-                    -0.37773229816857684,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "text": "O estado n\u00e3o poderia ter estabelecido normas pr\u00f3prias na aus\u00eancia de lei nacional com disposi\u00e7\u00f5es gerais que definissem marcos a serem seguidos pelos estados. Em consequ\u00eancia, s\u00e3o nulas todas as multas aplicadas anteriormente \u00e0 publica\u00e7\u00e3o da lei editada pela Uni\u00e3o.",
-                "pmi": [
-                    -0.33793028437625766,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            }
-        ],
-        "number": "18",
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "Na aus\u00eancia de lei federal estabelecendo normas gerais sobre prote\u00e7\u00e3o de ecossistemas amea\u00e7ados, determinado estado da Federa\u00e7\u00e3o editou, no passado, a sua pr\u00f3pria lei sobre o assunto, estabelecendo desde princ\u00edpios e valores a serem observados at\u00e9 regras espec\u00edficas sobre a explora\u00e7\u00e3o econ\u00f4mica de tais \u00e1reas. Criou, ainda, fiscaliza\u00e7\u00e3o efetiva em seu territ\u00f3rio e multou empresas e produtores que desrespeitaram a lei.\n\n Anos depois, a Uni\u00e3o edita lei contendo normas gerais sobre o tema e muitas de suas disposi\u00e7\u00f5es conflitavam com a anterior lei estadual.\n\n Com rela\u00e7\u00e3o a este caso, assinale a afirmativa correta.",
         "filename": "2013-10.txt",
-        "enum": "Na aus\u00eancia de lei federal estabelecendo normas gerais sobre prote\u00e7\u00e3o de ecossistemas amea\u00e7ados, determinado estado da Federa\u00e7\u00e3o editou, no passado, a sua pr\u00f3pria lei sobre o assunto, estabelecendo desde princ\u00edpios e valores a serem observados at\u00e9 regras espec\u00edficas sobre a explora\u00e7\u00e3o econ\u00f4mica de tais \u00e1reas. Criou, ainda, fiscaliza\u00e7\u00e3o efetiva em seu territ\u00f3rio e multou empresas e produtores que desrespeitaram a lei.\n\n Anos depois, a Uni\u00e3o edita lei contendo normas gerais sobre o tema e muitas de suas disposi\u00e7\u00f5es conflitavam com a anterior lei estadual.\n\n Com rela\u00e7\u00e3o a este caso, assinale a afirmativa correta."
+        "number": "18",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.06655658877102705,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Uni\u00e3o n\u00e3o poderia legislar, uma vez que o assunto \u00e9 mat\u00e9ria de interesse local, n\u00e3o havendo justificativa para lei nacional sobre o tema. Houve invas\u00e3o de compet\u00eancia privativa dos estados."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.08935468585320781,
+                    0.023804588076595867,
+                    0.0,
+                    0.0
+                ],
+                "text": "No campo das compet\u00eancias legislativas concorrentes, a Uni\u00e3o deve legislar sobre normas gerais e o estado pode editar normas suplementares, mas enquanto inexistir lei federal, a compet\u00eancia do estado \u00e9 plena. A superveni\u00eancia de lei geral nacional suspende a efic\u00e1cia das disposi\u00e7\u00f5es contr\u00e1rias da lei dos estados."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.11366001543284886,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A lei aplic\u00e1vel, no caso concreto, ser\u00e1 aquela que estabelecer padr\u00f5es mais restritivos, em aten\u00e7\u00e3o \u00e0 prote\u00e7\u00e3o do meio ambiente, n\u00e3o importando se tal norma \u00e9 a federal ou se a editada pelos estados-membros."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.10453552181030733,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O estado n\u00e3o poderia ter estabelecido normas pr\u00f3prias na aus\u00eancia de lei nacional com disposi\u00e7\u00f5es gerais que definissem marcos a serem seguidos pelos estados. Em consequ\u00eancia, s\u00e3o nulas todas as multas aplicadas anteriormente \u00e0 publica\u00e7\u00e3o da lei editada pela Uni\u00e3o."
+            }
+        ],
+        "valid": true
     }
 ]

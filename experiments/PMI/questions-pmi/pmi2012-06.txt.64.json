@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2012-06.txt",
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "number": "64",
         "enum": "No dia 18/10/2005, Erat\u00f3stenes praticou um crime de corrup\u00e7\u00e3o ativa em transa\u00e7\u00e3o comercial internacional (Art. 337-B do CP), cuja pena \u00e9 de 1 a 8 anos e multa. Devidamente investigado, Erat\u00f3stenes foi denunciado e, em 20/1/2006, a inicial acusat\u00f3ria foi recebida. O processo teve regular seguimento e, ao final, o magistrado sentenciou Erat\u00f3stenes, condenando-o \u00e0 pena de 1 ano de reclus\u00e3o e ao pagamento de dez dias-multa. A senten\u00e7a foi publicada em 7/4/2007. O Minist\u00e9rio P\u00fablico n\u00e3o interp\u00f4s recurso, tendo, tal senten\u00e7a, transitado em julgado para a acusa\u00e7\u00e3o. A defesa de Erat\u00f3stenes, por sua vez, que objetivava sua absolvi\u00e7\u00e3o, interp\u00f4s sucessivos recursos. At\u00e9 o dia 15/5/2011, o processo ainda n\u00e3o havia tido seu definitivo julgamento, ou seja, n\u00e3o houve tr\u00e2nsito em julgado final. Levando-se em conta as datas descritas e sabendo-se que, de acordo com o art. 109, incisos III e V, do C\u00f3digo Penal, a prescri\u00e7\u00e3o, antes de transitar em julgado a senten\u00e7a final, verifica-se em 12 (doze) anos se o m\u00e1ximo da pena \u00e9 superior a quatro e n\u00e3o excede a oito anos e em 4 (quatro) anos se o m\u00e1ximo da pena \u00e9 igual a um ano ou, sendo superior, n\u00e3o exceda a dois, com base na situa\u00e7\u00e3o apresentada, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "64",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.042323209898057955,
+                    0.017239494780902736,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "n\u00e3o houve prescri\u00e7\u00e3o da pretens\u00e3o punitiva nem prescri\u00e7\u00e3o da pretens\u00e3o execut\u00f3ria, pois desde a publica\u00e7\u00e3o da senten\u00e7a n\u00e3o transcorreu lapso de tempo superior a doze anos."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.15283362915408366,
+                    0.016813717208313282,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "ocorreu prescri\u00e7\u00e3o da pretens\u00e3o punitiva retroativa, pois, ap\u00f3s a data da publica\u00e7\u00e3o da senten\u00e7a e a \u00faltima data apresentada no enunciado, transcorreu lapso de tempo superior a 4 anos."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.036746477611950185,
+                    0.03189244873237595,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "ocorreu prescri\u00e7\u00e3o da pretens\u00e3o punitiva superveniente, que pressup\u00f5e o tr\u00e2nsito em julgado para a acusa\u00e7\u00e3o e leva em conta a pena concretamente imposta na senten\u00e7a."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.029579882558950936,
+                    0.02891920239359974,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "n\u00e3o houve prescri\u00e7\u00e3o da pretens\u00e3o punitiva, pois, como ainda n\u00e3o ocorreu o tr\u00e2nsito em julgado final, deve-se levar em conta a teoria da pior hip\u00f3tese, de modo que a prescri\u00e7\u00e3o, se houvesse, somente ocorreria doze anos ap\u00f3s a data do fato."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

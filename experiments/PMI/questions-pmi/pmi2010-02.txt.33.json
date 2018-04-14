@@ -1,9 +1,14 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Com rela\u00e7\u00e3o ao procedimento da execu\u00e7\u00e3o por quantia certa, contra devedor solvente, fundado em t\u00edtulo extrajudicial, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
+        "number": "33",
         "options": [
             {
-                "text": "o executado \u00e9 citado para, no prazo de tr\u00eas dias, apresentar embargos.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -11,10 +16,10 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "o executado \u00e9 citado para, no prazo de tr\u00eas dias, apresentar embargos."
             },
             {
-                "text": "o credor s\u00f3 pode indicar os bens a serem penhorados se o executado n\u00e3o se manifestar no prazo legal, ap\u00f3s ser citado.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -22,21 +27,21 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "o credor s\u00f3 pode indicar os bens a serem penhorados se o executado n\u00e3o se manifestar no prazo legal, ap\u00f3s ser citado."
             },
             {
-                "text": "o juiz pode, de of\u00edcio, e a qualquer tempo, determinar a intima\u00e7\u00e3o do executado para indicar bens pass\u00edveis de penhora.",
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.038074616887460444,
+                    0.06025111782066515,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "o juiz pode, de of\u00edcio, e a qualquer tempo, determinar a intima\u00e7\u00e3o do executado para indicar bens pass\u00edveis de penhora."
             },
             {
-                "text": "o juiz somente fixar\u00e1 os honor\u00e1rios de advogado a serem pagos pelo executado ao fim do processo de execu\u00e7\u00e3o.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -44,14 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "o juiz somente fixar\u00e1 os honor\u00e1rios de advogado a serem pagos pelo executado ao fim do processo de execu\u00e7\u00e3o."
             }
         ],
-        "enum": "Com rela\u00e7\u00e3o ao procedimento da execu\u00e7\u00e3o por quantia certa, contra devedor solvente, fundado em t\u00edtulo extrajudicial, \u00e9 correto afirmar que:",
-        "areas": [
-            "CIVIL-PROCEDURE"
-        ],
-        "filename": "2010-02.txt",
-        "number": "33"
+        "valid": true
     }
 ]

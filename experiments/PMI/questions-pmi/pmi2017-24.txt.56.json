@@ -1,57 +1,57 @@
 [
     {
-        "number": "56",
-        "enum": "Marcos se envolveu em um acidente, abalroando a motocicleta de Bruno, em raz\u00e3o de n\u00e3o ter visto que a pista estava interditada. Bruno ajuizou, em face de Marcos, a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos materiais, visando receber os valores necess\u00e1rios ao conserto de sua motocicleta.\n\n Marcos, ao receber a cita\u00e7\u00e3o da a\u00e7\u00e3o, entendeu que a responsabilidade de pagamento era da Seguradora Confian\u00e7a, em virtude de contrato de seguro que havia pactuado para seu ve\u00edculo, antes do acidente.\n\n Diante de tal situa\u00e7\u00e3o, assinale a afirmativa correta.",
-        "valid": true,
-        "options": [
-            {
-                "letter": "A",
-                "text": "Marcos pode promover oposi\u00e7\u00e3o em face de Bruno e da seguradora.",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "(Marcos pode promover denuncia\u00e7\u00e3o da lide \u00e0 seguradora.",
-                "correct": true,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "Marcos pode pedir a instaura\u00e7\u00e3o de incidente de desconsidera\u00e7\u00e3o da personalidade jur\u00eddica em face da seguradora.",
-                "correct": null,
-                "pmi": [
-                    -0.0964242268141986,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "Marcos pode promover o chamamento ao processo da seguradora.",
-                "correct": null,
-                "pmi": [
-                    -0.07002875164655778,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2017-24.txt",
         "areas": [
             null
-        ]
+        ],
+        "enum": "Marcos se envolveu em um acidente, abalroando a motocicleta de Bruno, em raz\u00e3o de n\u00e3o ter visto que a pista estava interditada. Bruno ajuizou, em face de Marcos, a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos materiais, visando receber os valores necess\u00e1rios ao conserto de sua motocicleta.\n\n Marcos, ao receber a cita\u00e7\u00e3o da a\u00e7\u00e3o, entendeu que a responsabilidade de pagamento era da Seguradora Confian\u00e7a, em virtude de contrato de seguro que havia pactuado para seu ve\u00edculo, antes do acidente.\n\n Diante de tal situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "56",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Marcos pode promover oposi\u00e7\u00e3o em face de Bruno e da seguradora."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "(Marcos pode promover denuncia\u00e7\u00e3o da lide \u00e0 seguradora."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.02934124781247368,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Marcos pode pedir a instaura\u00e7\u00e3o de incidente de desconsidera\u00e7\u00e3o da personalidade jur\u00eddica em face da seguradora."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.020522390084646243,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Marcos pode promover o chamamento ao processo da seguradora."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -4,54 +4,54 @@
             "CIVIL"
         ],
         "enum": "Assinale a op\u00e7\u00e3o correta com rela\u00e7\u00e3o ao registro, exigido na transmiss\u00e3o da propriedade de bens im\u00f3veis.",
-        "valid": true,
         "filename": "2010-01.txt",
         "number": "34",
         "options": [
             {
-                "pmi": [
-                    -0.12317477798280148,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Realizado o registro do t\u00edtulo translativo, este produzir\u00e1 efeitos ex tunc, o que torna o adquirente propriet\u00e1rio desde a formaliza\u00e7\u00e3o do t\u00edtulo.",
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.035720195436082465,
+                    0.04322261921556489,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Sendo o registro, no \u00e2mbito do direito nacional, meio necess\u00e1rio para a transmiss\u00e3o da propriedade de bem im\u00f3vel, sua realiza\u00e7\u00e3o importa presun\u00e7\u00e3o absoluta de propriedade.",
+                "text": "Realizado o registro do t\u00edtulo translativo, este produzir\u00e1 efeitos ex tunc, o que torna o adquirente propriet\u00e1rio desde a formaliza\u00e7\u00e3o do t\u00edtulo."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    0.0,
+                    0.04747850316310072,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Vendido o im\u00f3vel a duas pessoas diferentes, ser\u00e1 v\u00e1lido o registro ainda que realizado pelo adquirente que possua o t\u00edtulo de data mais recente.",
+                "text": "Sendo o registro, no \u00e2mbito do direito nacional, meio necess\u00e1rio para a transmiss\u00e3o da propriedade de bem im\u00f3vel, sua realiza\u00e7\u00e3o importa presun\u00e7\u00e3o absoluta de propriedade."
+            },
+            {
+                "correct": true,
                 "letter": "C",
-                "correct": true
-            },
-            {
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Se uma pessoa vender im\u00f3vel seu a outra e esta, por sua vez, o vender a terceiro, ser\u00e1 poss\u00edvel, provada a regularidade dos neg\u00f3cios, o registro desse \u00faltimo t\u00edtulo translativo sem que se registre o primeiro.",
+                "text": "Vendido o im\u00f3vel a duas pessoas diferentes, ser\u00e1 v\u00e1lido o registro ainda que realizado pelo adquirente que possua o t\u00edtulo de data mais recente."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se uma pessoa vender im\u00f3vel seu a outra e esta, por sua vez, o vender a terceiro, ser\u00e1 poss\u00edvel, provada a regularidade dos neg\u00f3cios, o registro desse \u00faltimo t\u00edtulo translativo sem que se registre o primeiro."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "enum": "A Ag\u00eancia Reguladora de Servi\u00e7os P\u00fablicos Estaduais, autarquia do Estado ABC, identificou um im\u00f3vel, no centro da cidade XYZ (capital do Estado) capaz de receber as instala\u00e7\u00f5es de sua nova sede. O propriet\u00e1rio do im\u00f3vel, quando procurado, demonstrou interesse na sua aliena\u00e7\u00e3o pelo pre\u00e7o de avalia\u00e7\u00e3o da Administra\u00e7\u00e3o P\u00fablica.\n\n Considerando a disciplina legislativa a respeito do tema, assinale a op\u00e7\u00e3o correta.",
-        "valid": true,
-        "filename": "2014-15.txt",
         "areas": [],
+        "enum": "A Ag\u00eancia Reguladora de Servi\u00e7os P\u00fablicos Estaduais, autarquia do Estado ABC, identificou um im\u00f3vel, no centro da cidade XYZ (capital do Estado) capaz de receber as instala\u00e7\u00f5es de sua nova sede. O propriet\u00e1rio do im\u00f3vel, quando procurado, demonstrou interesse na sua aliena\u00e7\u00e3o pelo pre\u00e7o de avalia\u00e7\u00e3o da Administra\u00e7\u00e3o P\u00fablica.\n\n Considerando a disciplina legislativa a respeito do tema, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-15.txt",
+        "number": "31",
         "options": [
             {
                 "correct": true,
-                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, dispensada a licita\u00e7\u00e3o no caso de as necessidades de instala\u00e7\u00e3o e localiza\u00e7\u00e3o condicionarem a sua escolha.",
+                "letter": "A",
                 "pmi": [
-                    -0.08930821353012426,
+                    0.08767810894450179,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, dispensada a licita\u00e7\u00e3o no caso de as necessidades de instala\u00e7\u00e3o e localiza\u00e7\u00e3o condicionarem a sua escolha."
             },
             {
                 "correct": null,
-                "text": "N\u00e3o \u00e9 poss\u00edvel a celebra\u00e7\u00e3o de contrato de compra e venda, pois a \u00fanica forma de aquisi\u00e7\u00e3o de bem im\u00f3vel pelo Estado \u00e9 a desapropria\u00e7\u00e3o.",
+                "letter": "B",
                 "pmi": [
-                    -0.011710599145491437,
+                    0.057819741826683084,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "N\u00e3o \u00e9 poss\u00edvel a celebra\u00e7\u00e3o de contrato de compra e venda, pois a \u00fanica forma de aquisi\u00e7\u00e3o de bem im\u00f3vel pelo Estado \u00e9 a desapropria\u00e7\u00e3o."
             },
             {
                 "correct": null,
-                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, mas tal aquisi\u00e7\u00e3o deve ser, obrigatoriamente precedida de licita\u00e7\u00e3o, na modalidade de concorr\u00eancia.",
+                "letter": "C",
                 "pmi": [
-                    -0.0461574756094011,
+                    0.10835439321765337,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, mas tal aquisi\u00e7\u00e3o deve ser, obrigatoriamente precedida de licita\u00e7\u00e3o, na modalidade de concorr\u00eancia."
             },
             {
                 "correct": null,
-                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, mas tal aquisi\u00e7\u00e3o deve ser, obrigatoriamente, precedida de licita\u00e7\u00e3o, na modalidade de leil\u00e3o.",
+                "letter": "D",
                 "pmi": [
-                    -0.0461574756094011,
+                    0.10835439321765337,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "\u00c9 poss\u00edvel a compra de bem im\u00f3vel pela Administra\u00e7\u00e3o, mas tal aquisi\u00e7\u00e3o deve ser, obrigatoriamente, precedida de licita\u00e7\u00e3o, na modalidade de leil\u00e3o."
             }
         ],
-        "number": "31"
+        "valid": true
     }
 ]

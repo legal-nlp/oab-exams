@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "filename": "2015-17.txt",
-        "valid": true,
         "enum": "Fl\u00e1via vendeu para Quit\u00e9ria seu apartamento e incluiu, no contrato de compra e venda, cl\u00e1usula pela qual se reservava o direito de recompr\u00e1-lo no prazo m\u00e1ximo de 2 (dois) anos. Antes de expirado o referido prazo, Fl\u00e1via pretendeu exercer seu direito, mas Quit\u00e9ria se recusou a receber o pre\u00e7o.\n\n Sobre o fato narrado, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
         "number": "39",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.021826668215650637,
+                    0.020041063982648002,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "A cl\u00e1usula pela qual Fl\u00e1via se reservava o direito de recomprar o im\u00f3vel \u00e9 il\u00edcita e abusiva, uma vez que Quit\u00e9ria, ao se tornar propriet\u00e1ria do bem, passa a ter total e irrestrito poder de disposi\u00e7\u00e3o sobre ele."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.021826668215650637,
+                    0.020041063982648002,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "A cl\u00e1usula pela qual Fl\u00e1via se reservava o direito de recomprar o im\u00f3vel \u00e9 v\u00e1lida, mas se torna ineficaz diante da justa recusa de Quit\u00e9ria em receber o pre\u00e7o devido."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "A disposi\u00e7\u00e3o inclu\u00edda no contrato \u00e9 uma cl\u00e1usula de prefer\u00eancia, a impor ao comprador a obriga\u00e7\u00e3o de oferecer ao vendedor a coisa, mas somente quando decidir vend\u00ea-la."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.015478805963304464,
+                    0.0316223927597815,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "A disposi\u00e7\u00e3o inclu\u00edda no contrato \u00e9 uma cl\u00e1usula de retrovenda, entendida como o ajuste por meio do qual o vendedor se reserva o direito de resolver o contrato de compra e venda mediante pagamento do pre\u00e7o recebido e das despesas, recuperando a coisa im\u00f3vel."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

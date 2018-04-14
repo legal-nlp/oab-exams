@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Paulo, bacharel em Direito, exerceu relevantes cargos no Poder Executivo das tr\u00eas esferas de Governo, adquirindo profundo conhecimento sobre as atividades internas da Administra\u00e7\u00e3o P\u00fablica. Ap\u00f3s aposentar-se, sem requerer inscri\u00e7\u00e3o nos quadros da OAB, estabelece servi\u00e7o de consultoria jur\u00eddica, tendo angariado v\u00e1rios clientes desde o per\u00edodo da inaugura\u00e7\u00e3o da sua atividade.\n\n De acordo com o narrado e observadas as normas estatut\u00e1rias, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "1",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Dentre as atividades privativas do advogado incluem-se a postula\u00e7\u00e3o judicial e a assessoria jur\u00eddica, mas n\u00e3o a consultoria.",
                 "pmi": [
-                    -0.05047404047965566,
+                    0.07432400741911911,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Dentre as atividades privativas do advogado incluem-se a postula\u00e7\u00e3o judicial e a assessoria jur\u00eddica, mas n\u00e3o a consultoria."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "O bacharel em Direito aposentado n\u00e3o tem vedado qualquer pr\u00e1tica de atividade jur\u00eddica, mesmo n\u00e3o inscrito nos quadros da OAB.",
                 "pmi": [
-                    -0.09938566524201169,
+                    0.075331601816273,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O bacharel em Direito aposentado n\u00e3o tem vedado qualquer pr\u00e1tica de atividade jur\u00eddica, mesmo n\u00e3o inscrito nos quadros da OAB."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "O advogado atua na atividade judicial pugnando pela defesa dos interesses dos seus clientes e na consultoria jur\u00eddica.",
                 "pmi": [
-                    -0.12069767086564218,
+                    0.10393881535215242,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O advogado atua na atividade judicial pugnando pela defesa dos interesses dos seus clientes e na consultoria jur\u00eddica."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "As atividades privativas do advogado incluem a assessoria jur\u00eddica, a dire\u00e7\u00e3o jur\u00eddica e a atua\u00e7\u00e3o nos Juizados Especiais.",
                 "pmi": [
-                    -0.04101298233226936,
+                    0.07243978848479861,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As atividades privativas do advogado incluem a assessoria jur\u00eddica, a dire\u00e7\u00e3o jur\u00eddica e a atua\u00e7\u00e3o nos Juizados Especiais."
             }
         ],
-        "enum": "Paulo, bacharel em Direito, exerceu relevantes cargos no Poder Executivo das tr\u00eas esferas de Governo, adquirindo profundo conhecimento sobre as atividades internas da Administra\u00e7\u00e3o P\u00fablica. Ap\u00f3s aposentar-se, sem requerer inscri\u00e7\u00e3o nos quadros da OAB, estabelece servi\u00e7o de consultoria jur\u00eddica, tendo angariado v\u00e1rios clientes desde o per\u00edodo da inaugura\u00e7\u00e3o da sua atividade.\n\n De acordo com o narrado e observadas as normas estatut\u00e1rias, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "1",
-        "filename": "2012-08.txt",
-        "areas": [
-            "ETHICS"
-        ]
+        "valid": true
     }
 ]

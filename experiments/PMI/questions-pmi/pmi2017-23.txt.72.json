@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "valid": true,
+        "enum": "Um representante comercial aju\u00edza a\u00e7\u00e3o na Justi\u00e7a do Trabalho pedindo a devolu\u00e7\u00e3o de descontos. Ele explica que sua comiss\u00e3o sobre as vendas \u00e9 de 5%, mas que pode optar pelo percentual de 10%, desde que se comprometa a pagar o valor da venda, caso o comprador fique inadimplente. Alega que sempre fez a op\u00e7\u00e3o pelos 10%, e que, nos casos de inadimpl\u00eancia, teve de pagar o valor do neg\u00f3cio para depois tentar reaver a quantia do comprador, o que caracterizaria transfer\u00eancia do risco da atividade econ\u00f4mica.  Diante do caso apresentado e da lei de reg\u00eancia, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "72",
         "options": [
             {
                 "correct": null,
-                "text": "A pr\u00e1tica \u00e9 v\u00e1lida porque o representante n\u00e3o \u00e9 empregado nos moldes da CLT, al\u00e9m de ter sido uma op\u00e7\u00e3o por ele tomada.",
+                "letter": "A",
                 "pmi": [
-                    -0.11365145555259325,
+                    0.033837146509595135,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "A pr\u00e1tica \u00e9 v\u00e1lida porque o representante n\u00e3o \u00e9 empregado nos moldes da CLT, al\u00e9m de ter sido uma op\u00e7\u00e3o por ele tomada."
             },
             {
                 "correct": null,
-                "text": "O caso traduz um truck system, sendo que a lei limita o preju\u00edzo do representante comercial a 50% da venda n\u00e3o paga.",
+                "letter": "B",
                 "pmi": [
-                    -0.303895740333059,
+                    0.06482576482241198,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "O caso traduz um truck system, sendo que a lei limita o preju\u00edzo do representante comercial a 50% da venda n\u00e3o paga."
             },
             {
                 "correct": null,
-                "text": "A norma de reg\u00eancia \u00e9 omissa a respeito desta situa\u00e7\u00e3o, raz\u00e3o pela qual \u00e9 v\u00e1lida, na medida em que se trata de rela\u00e7\u00e3o de direito privado.",
+                "letter": "C",
                 "pmi": [
-                    -0.18649677768925266,
+                    -0.00548803879474876,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "A norma de reg\u00eancia \u00e9 omissa a respeito desta situa\u00e7\u00e3o, raz\u00e3o pela qual \u00e9 v\u00e1lida, na medida em que se trata de rela\u00e7\u00e3o de direito privado."
             },
             {
                 "correct": true,
-                "text": "A situa\u00e7\u00e3o caracteriza a cl\u00e1usula del credere, vedada pela Lei de Representa\u00e7\u00e3o Comercial.",
+                "letter": "D",
                 "pmi": [
-                    -0.36792078756018537,
+                    0.025382151272316945,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "A situa\u00e7\u00e3o caracteriza a cl\u00e1usula del credere, vedada pela Lei de Representa\u00e7\u00e3o Comercial."
             }
         ],
-        "enum": "Um representante comercial aju\u00edza a\u00e7\u00e3o na Justi\u00e7a do Trabalho pedindo a devolu\u00e7\u00e3o de descontos. Ele explica que sua comiss\u00e3o sobre as vendas \u00e9 de 5%, mas que pode optar pelo percentual de 10%, desde que se comprometa a pagar o valor da venda, caso o comprador fique inadimplente. Alega que sempre fez a op\u00e7\u00e3o pelos 10%, e que, nos casos de inadimpl\u00eancia, teve de pagar o valor do neg\u00f3cio para depois tentar reaver a quantia do comprador, o que caracterizaria transfer\u00eancia do risco da atividade econ\u00f4mica.  Diante do caso apresentado e da lei de reg\u00eancia, assinale a afirmativa correta.",
-        "filename": "2017-23.txt",
-        "number": "72"
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Em 16/02/2016, Gisele praticou um crime de les\u00e3o corporal culposa simples no tr\u00e2nsito, vitimando Maria Clara. Gisele, ent\u00e3o, procura seu advogado para saber se faz jus \u00e0 transa\u00e7\u00e3o penal, esclarecendo que j\u00e1 foi condenada definitivamente por uma vez a pena restritiva de direitos pela pr\u00e1tica de furto e que j\u00e1 se beneficiou do instituto da transa\u00e7\u00e3o h\u00e1 7 anos.\n\n Dever\u00e1 o advogado esclarecer sobre o benef\u00edcio que",
+        "filename": "2016-19.txt",
+        "number": "69",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "n\u00e3o cabe oferecimento de proposta de transa\u00e7\u00e3o penal porque Gisele j\u00e1 possui condena\u00e7\u00e3o anterior com tr\u00e2nsito em julgado."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "n\u00e3o cabe oferecimento de proposta de transa\u00e7\u00e3o penal porque Gisele j\u00e1 foi beneficiada pela transa\u00e7\u00e3o em momento anterior."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.1047240010518187,
+                    0.011159900568472181,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "poder\u00e1 ser oferecida proposta de transa\u00e7\u00e3o penal porque s\u00f3 quem j\u00e1 se beneficiou da transa\u00e7\u00e3o penal nos 3 anos anteriores n\u00e3o poder\u00e1 receber novamente o benef\u00edcio."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.02148202829456297,
+                    0.0016947520294952022,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": true,
                 "text": "a condena\u00e7\u00e3o pela pr\u00e1tica de furto e a transa\u00e7\u00e3o penal obtida h\u00e1 7 anos n\u00e3o impedem o oferecimento de proposta de transa\u00e7\u00e3o penal."
             }
         ],
-        "filename": "2016-19.txt",
-        "enum": "Em 16/02/2016, Gisele praticou um crime de les\u00e3o corporal culposa simples no tr\u00e2nsito, vitimando Maria Clara. Gisele, ent\u00e3o, procura seu advogado para saber se faz jus \u00e0 transa\u00e7\u00e3o penal, esclarecendo que j\u00e1 foi condenada definitivamente por uma vez a pena restritiva de direitos pela pr\u00e1tica de furto e que j\u00e1 se beneficiou do instituto da transa\u00e7\u00e3o h\u00e1 7 anos.\n\n Dever\u00e1 o advogado esclarecer sobre o benef\u00edcio que",
-        "valid": true,
-        "number": "69",
-        "areas": []
+        "valid": true
     }
 ]

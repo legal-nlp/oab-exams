@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Eug\u00eanio \u00e9 policial militar ativo e cumpre escala de 24x72 horas no seu batalh\u00e3o. Nos dias em que n\u00e3o est\u00e1 de plant\u00e3o, trabalha em um supermercado como seguran\u00e7a, recebendo ordens do gerente e um valor fixo mensal, jamais se fazendo substituir na presta\u00e7\u00e3o do labor. Nesse caso, de acordo com a jurisprud\u00eancia consolidada do TST, assinale a afirmativa correta.",
-        "filename": "2013-12.txt",
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
+        "enum": "Eug\u00eanio \u00e9 policial militar ativo e cumpre escala de 24x72 horas no seu batalh\u00e3o. Nos dias em que n\u00e3o est\u00e1 de plant\u00e3o, trabalha em um supermercado como seguran\u00e7a, recebendo ordens do gerente e um valor fixo mensal, jamais se fazendo substituir na presta\u00e7\u00e3o do labor. Nesse caso, de acordo com a jurisprud\u00eancia consolidada do TST, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
         "number": "75",
         "options": [
             {
-                "pmi": [
-                    -0.03526531403272197,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "Por ser servidor p\u00fablico militar, Eug\u00eanio n\u00e3o poder\u00e1 ter o v\u00ednculo empregat\u00edcio reconhecido, mesmo que presentes os requisitos da CLT, pois trata-se de norma de ordem p\u00fablica.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.034798345794175393,
+                    0.009592970465455142,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Por ser servidor p\u00fablico militar, Eug\u00eanio n\u00e3o poder\u00e1 ter o v\u00ednculo empregat\u00edcio reconhecido, mesmo que presentes os requisitos da CLT, pois trata-se de norma de ordem p\u00fablica."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "Caso tenha o v\u00ednculo empregat\u00edcio reconhecido em ju\u00edzo, isso impede que a Administra\u00e7\u00e3o P\u00fablica aplique qualquer puni\u00e7\u00e3o a Eug\u00eanio, pois ele realizou um trabalho l\u00edcito.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    0.0,
+                    0.01351057597309226,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Caso tenha o v\u00ednculo empregat\u00edcio reconhecido em ju\u00edzo, isso impede que a Administra\u00e7\u00e3o P\u00fablica aplique qualquer puni\u00e7\u00e3o a Eug\u00eanio, pois ele realizou um trabalho l\u00edcito."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "text": "Trata-se de trabalho il\u00edcito que, portanto, n\u00e3o gera v\u00ednculo empregat\u00edcio e credencia a administra\u00e7\u00e3o a aplicar imediata puni\u00e7\u00e3o ao servidor.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.01593279699632439,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Trata-se de trabalho il\u00edcito que, portanto, n\u00e3o gera v\u00ednculo empregat\u00edcio e credencia a administra\u00e7\u00e3o a aplicar imediata puni\u00e7\u00e3o ao servidor."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "text": "Eug\u00eanio poder\u00e1 ser reconhecido como empregado, desde que presentes os requisitos legais, ainda que sofra a puni\u00e7\u00e3o disciplinar prevista no Estatuto do Policial Militar.",
-                "correct": true
+                "pmi": [
+                    0.008221663887309437,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Eug\u00eanio poder\u00e1 ser reconhecido como empregado, desde que presentes os requisitos legais, ainda que sofra a puni\u00e7\u00e3o disciplinar prevista no Estatuto do Policial Militar."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

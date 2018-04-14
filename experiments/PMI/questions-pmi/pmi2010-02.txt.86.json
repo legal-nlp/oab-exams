@@ -3,55 +3,55 @@
         "areas": [
             "ETHICS"
         ],
-        "valid": true,
+        "enum": "Dentre as san\u00e7\u00f5es cab\u00edveis no processo disciplinar realizado pela OAB no concernente aos advogados est\u00e3o a censura, a suspens\u00e3o, a exclus\u00e3o e a multa.\n\n Dentre as circunst\u00e2ncias atenuantes para a aplica\u00e7\u00e3o do ato sancionat\u00f3rio, encontra-se, consoante o Estatuto,",
         "filename": "2010-02.txt",
         "number": "86",
-        "enum": "Dentre as san\u00e7\u00f5es cab\u00edveis no processo disciplinar realizado pela OAB no concernente aos advogados est\u00e3o a censura, a suspens\u00e3o, a exclus\u00e3o e a multa.\n\n Dentre as circunst\u00e2ncias atenuantes para a aplica\u00e7\u00e3o do ato sancionat\u00f3rio, encontra-se, consoante o Estatuto,",
         "options": [
             {
                 "correct": true,
-                "text": "exerc\u00edcio ass\u00edduo e proficiente em mandato realizado na OAB.",
                 "letter": "A",
                 "pmi": [
-                    -0.01907460837017136,
+                    0.05466969266092283,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "exerc\u00edcio ass\u00edduo e proficiente em mandato realizado na OAB."
             },
             {
                 "correct": null,
-                "text": "ser reincidente em faltas da mesma natureza.",
                 "letter": "B",
                 "pmi": [
-                    -0.0027943116839004188,
+                    0.14469429037828796,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ser reincidente em faltas da mesma natureza."
             },
             {
                 "correct": null,
-                "text": "presta\u00e7\u00e3o de servi\u00e7os \u00e0 advocacia, mesmo irrelevantes.",
                 "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "presta\u00e7\u00e3o de servi\u00e7os \u00e0 advocacia, mesmo irrelevantes."
             },
             {
                 "correct": null,
-                "text": "ter sido o ato cometi do contra outro integrante de carreira jur\u00eddica.",
                 "letter": "D",
                 "pmi": [
-                    -0.12391016771235606,
+                    0.0973227353809265,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ter sido o ato cometi do contra outro integrante de carreira jur\u00eddica."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

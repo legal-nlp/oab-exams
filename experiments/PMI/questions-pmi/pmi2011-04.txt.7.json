@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "number": "7",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Em termos de processo disciplinar perante a OAB, \u00e9 correto dizer que, havendo representa\u00e7\u00e3o contra presidente de seccional, o \u00f3rg\u00e3o competente ser\u00e1 o",
         "filename": "2011-04.txt",
+        "number": "7",
         "options": [
             {
-                "text": "pr\u00f3prio Conselho Seccional, impedido o presidente.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.23284701804098554,
+                    0.06213018608339117,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pr\u00f3prio Conselho Seccional, impedido o presidente."
             },
             {
-                "text": "Conselho Federal da OAB.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.446772814916173,
+                    -0.004307008729607912,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Conselho Federal da OAB."
             },
             {
-                "text": "Conselho Federal da OAB, quando houver impedimento de dois ter\u00e7os do Conselho Seccional de origem para o julgamento.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.21668467365941313,
+                    0.16257173164335698,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Conselho Federal da OAB, quando houver impedimento de dois ter\u00e7os do Conselho Seccional de origem para o julgamento."
             },
             {
-                "text": "Conselho Seccional que for escolhido pelo Conselho Federal da OAB, por maioria absoluta.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.1787091259664692,
+                    -0.0017228034918431647,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Conselho Seccional que for escolhido pelo Conselho Federal da OAB, por maioria absoluta."
             }
         ],
-        "enum": "Em termos de processo disciplinar perante a OAB, \u00e9 correto dizer que, havendo representa\u00e7\u00e3o contra presidente de seccional, o \u00f3rg\u00e3o competente ser\u00e1 o"
+        "valid": true
     }
 ]

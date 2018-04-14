@@ -1,55 +1,55 @@
 [
     {
-        "number": "23",
-        "enum": "Carlos, brasileiro naturalizado, tendo renunciado \u00e0 sua anterior nacionalidade, casou-se com Tatiana, de nacionalidade alem\u00e3. Em raz\u00e3o do trabalho na iniciativa privada, Carlos foi transferido para o Chile, indo residir l\u00e1 com sua mulher. Em 15/07/2011, em territ\u00f3rio chileno, nasceu a primeira filha do casal, Cl\u00e1udia, que foi registrada na Reparti\u00e7\u00e3o Consular do Brasil.\n\n A teor das regras contidas na Constitui\u00e7\u00e3o Brasileira de 1988, assinale qual a situa\u00e7\u00e3o de Cl\u00e1udia quanto \u00e0 sua nacionalidade.",
         "areas": [],
-        "valid": true,
+        "enum": "Carlos, brasileiro naturalizado, tendo renunciado \u00e0 sua anterior nacionalidade, casou-se com Tatiana, de nacionalidade alem\u00e3. Em raz\u00e3o do trabalho na iniciativa privada, Carlos foi transferido para o Chile, indo residir l\u00e1 com sua mulher. Em 15/07/2011, em territ\u00f3rio chileno, nasceu a primeira filha do casal, Cl\u00e1udia, que foi registrada na Reparti\u00e7\u00e3o Consular do Brasil.\n\n A teor das regras contidas na Constitui\u00e7\u00e3o Brasileira de 1988, assinale qual a situa\u00e7\u00e3o de Cl\u00e1udia quanto \u00e0 sua nacionalidade.",
         "filename": "2015-17.txt",
+        "number": "23",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "Cl\u00e1udia n\u00e3o pode ser considerada brasileira nata, em virtude de a nacionalidade brasileira de seu pai ter sido adquirida de modo derivado e pelo fato de sua m\u00e3e ser estrangeira.",
                 "pmi": [
-                    -0.018419795327034052,
+                    0.13249877422497267,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Cl\u00e1udia n\u00e3o pode ser considerada brasileira nata, em virtude de a nacionalidade brasileira de seu pai ter sido adquirida de modo derivado e pelo fato de sua m\u00e3e ser estrangeira."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "Cl\u00e1udia \u00e9 brasileira nata, pelo simples fato de o seu pai, brasileiro, ter se mudado por motivo de trabalho.",
                 "pmi": [
-                    -0.055616201914618045,
+                    0.1456085574880576,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Cl\u00e1udia \u00e9 brasileira nata, pelo simples fato de o seu pai, brasileiro, ter se mudado por motivo de trabalho."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "Cl\u00e1udia somente ser\u00e1 brasileira nata se vier a residir no Brasil e fizer a op\u00e7\u00e3o pela nacionalidade brasileira ap\u00f3s atingir a maioridade.",
                 "pmi": [
-                    -0.03546128190790861,
+                    0.20978139361410233,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Cl\u00e1udia somente ser\u00e1 brasileira nata se vier a residir no Brasil e fizer a op\u00e7\u00e3o pela nacionalidade brasileira ap\u00f3s atingir a maioridade."
             },
             {
-                "letter": "D",
                 "correct": true,
-                "text": "Cl\u00e1udia \u00e9 brasileira nata, n\u00e3o constituindo \u00f3bice o fato de o seu pai ser brasileiro naturalizado e sua m\u00e3e, estrangeira.",
+                "letter": "D",
                 "pmi": [
-                    -0.04563974731157907,
+                    0.13957849713861098,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Cl\u00e1udia \u00e9 brasileira nata, n\u00e3o constituindo \u00f3bice o fato de o seu pai ser brasileiro naturalizado e sua m\u00e3e, estrangeira."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

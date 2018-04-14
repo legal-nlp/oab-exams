@@ -1,57 +1,57 @@
 [
     {
-        "enum": "O Estado X edita norma que determina a gratuidade de pagamento em estacionamentos privados sob administra\u00e7\u00e3o de entidades empresariais. Tal lei, \u00e0 luz das normas constitucionais, est\u00e1 sob a \u00e9gide das compet\u00eancias do(a)",
-        "options": [
-            {
-                "text": "Estado.",
-                "pmi": [
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "Munic\u00edpio.",
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "Distrito Federal.",
-                "pmi": [
-                    -0.4507289988861303,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Uni\u00e3o.",
-                "pmi": [
-                    -1.0848937061294086,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "D",
-                "correct": true
-            }
-        ],
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "valid": true,
+        "enum": "O Estado X edita norma que determina a gratuidade de pagamento em estacionamentos privados sob administra\u00e7\u00e3o de entidades empresariais. Tal lei, \u00e0 luz das normas constitucionais, est\u00e1 sob a \u00e9gide das compet\u00eancias do(a)",
         "filename": "2012-06a.txt",
-        "number": "21"
+        "number": "21",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Estado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Munic\u00edpio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.12187380912001282,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Distrito Federal."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.06031190988287758,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Uni\u00e3o."
+            }
+        ],
+        "valid": true
     }
 ]

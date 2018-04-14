@@ -1,57 +1,57 @@
 [
     {
-        "number": "41",
-        "valid": true,
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "De acordo com o C\u00f3digo de Processo Civil, a respeito dos prazos processuais contados em dias, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "41",
         "options": [
             {
-                "text": "ser\u00e3o contados excluindo-se o dia do in\u00edcio e incluindo-se o dia do vencimento, n\u00e3o se admitindo disposi\u00e7\u00e3o em contr\u00e1rio.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.008187243992927697,
+                    0.10242920755371357,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "ser\u00e3o contados excluindo-se o dia do in\u00edcio e incluindo-se o dia do vencimento, n\u00e3o se admitindo disposi\u00e7\u00e3o em contr\u00e1rio."
             },
             {
-                "text": "as intima\u00e7\u00f5es somente obrigar\u00e3o o comparecimento depois de decorridas 24 (vinte e quatro) horas, salvo quando for outro o prazo fixado por lei.",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.21436104113770657,
+                    0.17894189769479574,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "as intima\u00e7\u00f5es somente obrigar\u00e3o o comparecimento depois de decorridas 24 (vinte e quatro) horas, salvo quando for outro o prazo fixado por lei."
             },
             {
-                "text": "em caso de litiscons\u00f3rcio, com o mesmo procurador, ser-lhes-\u00e3o contados em dobro os prazos para contestar, recorrer e, de modo geral, falar nos autos.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.005458162661951798,
+                    0.06828613836914238,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "em caso de litiscons\u00f3rcio, com o mesmo procurador, ser-lhes-\u00e3o contados em dobro os prazos para contestar, recorrer e, de modo geral, falar nos autos."
             },
             {
-                "text": "n\u00e3o havendo previs\u00e3o legal, ou outro fixado pelo juiz, o prazo para a pr\u00e1tica de ato processual a cargo da parte ser\u00e1 de 10 (dez) dias.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.10650015947756607,
+                    0.1147327436157165,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "n\u00e3o havendo previs\u00e3o legal, ou outro fixado pelo juiz, o prazo para a pr\u00e1tica de ato processual a cargo da parte ser\u00e1 de 10 (dez) dias."
             }
         ],
-        "filename": "2012-06a.txt"
+        "valid": true
     }
 ]

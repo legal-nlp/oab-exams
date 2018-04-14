@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "Patr\u00edcio e Luiz estavam em um bar, quando o primeiro, mediante amea\u00e7a de arma de fogo, obriga o \u00faltimo a beber dois copos de tequila. Luiz ficou inteiramente embriagado. A dupla, ent\u00e3o, deixou o local, sendo que Patr\u00edcio conduzia Luiz, que caminhava com muitas dificuldades. Ao encontrarem Juliana, que caminhava sozinha pela cal\u00e7ada, Patr\u00edcio e Luiz, se utilizando da arma que era portada pelo primeiro, constrangeram-na a com eles praticar sexo oral, sendo flagrados por populares que passavam ocasionalmente pelo local, ocorrendo a pris\u00e3o em flagrante. Denunciados pelo crime de estupro, no curso da instru\u00e7\u00e3o, mediante per\u00edcia, restou constatado que Patr\u00edcio era possuidor de doen\u00e7a mental grave e que, quando da pr\u00e1tica do fato, era inteiramente incapaz de entender o car\u00e1ter il\u00edcito do seu comportamento, situa\u00e7\u00e3o, ali\u00e1s, que permanece at\u00e9 o momento do julgamento.  Tamb\u00e9m ficou demonstrado que, no momento do crime, Luiz estava completamente embriagado.  O Minist\u00e9rio P\u00fablico requereu a condena\u00e7\u00e3o dos acusados.\n\n N\u00e3o havendo d\u00favida com rela\u00e7\u00e3o ao injusto, tecnicamente, a defesa t\u00e9cnica dos acusados dever\u00e1 requerer, nas alega\u00e7\u00f5es finais,",
+        "filename": "2015-16.txt",
+        "number": "60",
         "options": [
             {
-                "text": "a absolvi\u00e7\u00e3o dos acusados por for\u00e7a da inimputabilidade, aplicando, por\u00e9m, medida de seguran\u00e7a para ambos.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.012754726920665873,
+                    0.014899385965994444,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "a absolvi\u00e7\u00e3o dos acusados por for\u00e7a da inimputabilidade, aplicando, por\u00e9m, medida de seguran\u00e7a para ambos."
             },
             {
-                "text": "a absolvi\u00e7\u00e3o de Luiz por aus\u00eancia de culpabilidade em raz\u00e3o da embriaguez culposa e a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com aplica\u00e7\u00e3o, para este, de medida de seguran\u00e7a.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.002112836825111628,
+                    0.00639612098616847,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "a absolvi\u00e7\u00e3o de Luiz por aus\u00eancia de culpabilidade em raz\u00e3o da embriaguez culposa e a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com aplica\u00e7\u00e3o, para este, de medida de seguran\u00e7a."
             },
             {
-                "text": "a absolvi\u00e7\u00e3o de Luiz por aus\u00eancia de culpabilidade em raz\u00e3o da embriaguez completa decorrente de for\u00e7a maior e a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com aplica\u00e7\u00e3o, para este, de medida de seguran\u00e7a.",
-                "pmi": [
-                    -0.00949750334939245,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "C"
-            },
-            {
-                "text": "a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com a aplica\u00e7\u00e3o de medida de seguran\u00e7a, e a condena\u00e7\u00e3o de Luiz na pena m\u00ednima, porque a embriaguez nunca exclui a culpabilidade.",
+                "letter": "C",
                 "pmi": [
-                    -0.0028267291211229394,
+                    0.012625786959935804,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "a absolvi\u00e7\u00e3o de Luiz por aus\u00eancia de culpabilidade em raz\u00e3o da embriaguez completa decorrente de for\u00e7a maior e a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com aplica\u00e7\u00e3o, para este, de medida de seguran\u00e7a."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.014191186501437256,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a absolvi\u00e7\u00e3o impr\u00f3pria de Patr\u00edcio, com a aplica\u00e7\u00e3o de medida de seguran\u00e7a, e a condena\u00e7\u00e3o de Luiz na pena m\u00ednima, porque a embriaguez nunca exclui a culpabilidade."
             }
         ],
-        "number": "60",
-        "enum": "Patr\u00edcio e Luiz estavam em um bar, quando o primeiro, mediante amea\u00e7a de arma de fogo, obriga o \u00faltimo a beber dois copos de tequila. Luiz ficou inteiramente embriagado. A dupla, ent\u00e3o, deixou o local, sendo que Patr\u00edcio conduzia Luiz, que caminhava com muitas dificuldades. Ao encontrarem Juliana, que caminhava sozinha pela cal\u00e7ada, Patr\u00edcio e Luiz, se utilizando da arma que era portada pelo primeiro, constrangeram-na a com eles praticar sexo oral, sendo flagrados por populares que passavam ocasionalmente pelo local, ocorrendo a pris\u00e3o em flagrante. Denunciados pelo crime de estupro, no curso da instru\u00e7\u00e3o, mediante per\u00edcia, restou constatado que Patr\u00edcio era possuidor de doen\u00e7a mental grave e que, quando da pr\u00e1tica do fato, era inteiramente incapaz de entender o car\u00e1ter il\u00edcito do seu comportamento, situa\u00e7\u00e3o, ali\u00e1s, que permanece at\u00e9 o momento do julgamento.  Tamb\u00e9m ficou demonstrado que, no momento do crime, Luiz estava completamente embriagado.  O Minist\u00e9rio P\u00fablico requereu a condena\u00e7\u00e3o dos acusados.\n\n N\u00e3o havendo d\u00favida com rela\u00e7\u00e3o ao injusto, tecnicamente, a defesa t\u00e9cnica dos acusados dever\u00e1 requerer, nas alega\u00e7\u00f5es finais,",
-        "areas": [],
-        "filename": "2015-16.txt"
+        "valid": true
     }
 ]

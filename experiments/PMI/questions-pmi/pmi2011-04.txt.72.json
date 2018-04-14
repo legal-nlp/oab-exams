@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Jos\u00e9 Ant\u00f4nio de Souza, integrante da categoria profissional dos eletricit\u00e1rios, \u00e9 empregado de uma empresa do setor el\u00e9trico, expondo-se, de forma intermitente, a condi\u00e7\u00f5es de risco acentuado.\n\n Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, e considerando que n\u00e3o h\u00e1 norma coletiva disciplinando as condi\u00e7\u00f5es de trabalho, assinale a alternativa correta.",
-        "valid": true,
         "areas": [
             "LABOUR"
         ],
+        "enum": "Jos\u00e9 Ant\u00f4nio de Souza, integrante da categoria profissional dos eletricit\u00e1rios, \u00e9 empregado de uma empresa do setor el\u00e9trico, expondo-se, de forma intermitente, a condi\u00e7\u00f5es de risco acentuado.\n\n Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, e considerando que n\u00e3o h\u00e1 norma coletiva disciplinando as condi\u00e7\u00f5es de trabalho, assinale a alternativa correta.",
+        "filename": "2011-04.txt",
+        "number": "72",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "Jos\u00e9 Ant\u00f4nio n\u00e3o tem direito ao pagamento de adicional de periculosidade, em raz\u00e3o da intermit\u00eancia da exposi\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es de risco.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Jos\u00e9 Ant\u00f4nio n\u00e3o tem direito ao pagamento de adicional de periculosidade, em raz\u00e3o da intermit\u00eancia da exposi\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es de risco."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de 30% (trinta por cento) sobre o seu sal\u00e1rio b\u00e1sico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de 30% (trinta por cento) sobre o seu sal\u00e1rio b\u00e1sico."
             },
             {
+                "correct": true,
                 "letter": "C",
-                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de 30% (trinta por cento) sobre a totalidade das parcelas salariais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de 30% (trinta por cento) sobre a totalidade das parcelas salariais."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de forma proporcional ao tempo de exposi\u00e7\u00e3o ao risco.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Jos\u00e9 Ant\u00f4nio tem direito ao pagamento de adicional de periculosidade de forma proporcional ao tempo de exposi\u00e7\u00e3o ao risco."
             }
         ],
-        "filename": "2011-04.txt",
-        "number": "72"
+        "valid": true
     }
 ]

@@ -3,55 +3,55 @@
         "areas": [
             "CRIMINAL"
         ],
-        "number": "56",
-        "valid": true,
         "enum": "Com rela\u00e7\u00e3o ao concurso de delitos, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
+        "number": "56",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "no concurso de crimes as penas de multa s\u00e3o aplicadas distintamente, mas de forma reduzida."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "o concurso material ocorre quando o agente, mediante mais de uma a\u00e7\u00e3o ou omiss\u00e3o, pratica dois ou mais crimes com depend\u00eancia f\u00e1tica e jur\u00eddica entre estes."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "o concurso formal perfeito, tamb\u00e9m conhecido como pr\u00f3prio, ocorre quando o agente, por meio de uma s\u00f3 a\u00e7\u00e3o ou omiss\u00e3o, pratica dois ou mais crimes id\u00eanticos, caso em que as penas ser\u00e3o somadas."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "o C\u00f3digo Penal Brasileiro adotou o sistema de aplica\u00e7\u00e3o de pena do c\u00famulo material para os concursos material e formal imperfeito, e da exaspera\u00e7\u00e3o para o concurso formal perfeito e crime continuado."
             }
         ],
-        "filename": "2010-02.txt"
+        "valid": true
     }
 ]

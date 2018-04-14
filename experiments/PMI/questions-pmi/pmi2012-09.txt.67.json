@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "letter": "A",
-                "text": "Todos os crimes definidos na lei de licita\u00e7\u00e3o e contratos s\u00e3o de a\u00e7\u00e3o penal p\u00fablica incondicionada.",
-                "correct": true,
-                "pmi": [
-                    -0.5083156473436661,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "Somente a v\u00edtima poder\u00e1 provocar a iniciativa do Minist\u00e9rio P\u00fablico, fornecendo-lhe, por escrito, informa\u00e7\u00f5es sobre o fato e sua autoria, bem como as circunst\u00e2ncias em que se deu a ocorr\u00eancia.",
-                "correct": null,
-                "pmi": [
-                    -0.11749971410655419,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "N\u00e3o ser\u00e1 admitida a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.",
-                "correct": null,
-                "pmi": [
-                    -0.39361939285670017,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "Da senten\u00e7a caber\u00e1 apela\u00e7\u00e3o, interpon\u00edvel no prazo de 10 (dez) dias.",
-                "correct": null,
-                "pmi": [
-                    -0.14235259751986157,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "filename": "2012-09.txt",
         "enum": "Em rela\u00e7\u00e3o aos procedimentos previstos na Lei n. 8.666/93, que instituiu as normas de licita\u00e7\u00f5es e contratos da Administra\u00e7\u00e3o P\u00fablica, assinale a afirmativa correta.",
-        "number": "67"
+        "filename": "2012-09.txt",
+        "number": "67",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.032475893551024496,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Todos os crimes definidos na lei de licita\u00e7\u00e3o e contratos s\u00e3o de a\u00e7\u00e3o penal p\u00fablica incondicionada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.022898089779567452,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Somente a v\u00edtima poder\u00e1 provocar a iniciativa do Minist\u00e9rio P\u00fablico, fornecendo-lhe, por escrito, informa\u00e7\u00f5es sobre o fato e sua autoria, bem como as circunst\u00e2ncias em que se deu a ocorr\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.011974262814317816,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o ser\u00e1 admitida a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.03147325491057473,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Da senten\u00e7a caber\u00e1 apela\u00e7\u00e3o, interpon\u00edvel no prazo de 10 (dez) dias."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Com rela\u00e7\u00e3o \u00e0s despesas processuais na Justi\u00e7a do Trabalho, assinale a afirmativa correta.",
-        "filename": "2010-02.txt",
-        "number": "50",
         "areas": [
             "LABOUR-PROCEDURE"
         ],
-        "valid": true,
+        "enum": "Com rela\u00e7\u00e3o \u00e0s despesas processuais na Justi\u00e7a do Trabalho, assinale a afirmativa correta.",
+        "filename": "2010-02.txt",
+        "number": "50",
         "options": [
             {
-                "text": "As entidades fiscalizadoras do exerc\u00edcio profissional, em face de sua natureza aut\u00e1rquica, s\u00e3o isentas do pagamento de custas.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "As custas devem ser pagas pelo vencido, ap\u00f3s o tr\u00e2nsito em julgado da decis\u00e3o. No caso de recurso, estas devem ser pagas e comprovado o recolhimento dentro do prazo recursal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "As entidades fiscalizadoras do exerc\u00edcio profissional, em face de sua natureza aut\u00e1rquica, s\u00e3o isentas do pagamento de custas."
+            },
+            {
+                "correct": true,
                 "letter": "B",
-                "correct": true
-            },
-            {
-                "text": "O benef\u00edcio da gratuidade de justi\u00e7a n\u00e3o pode ser concedido de of\u00edcio pelo juiz, devendo ser necessariamente requerido pela parte interessada.",
                 "pmi": [
-                    -0.1112124460379708,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "As custas devem ser pagas pelo vencido, ap\u00f3s o tr\u00e2nsito em julgado da decis\u00e3o. No caso de recurso, estas devem ser pagas e comprovado o recolhimento dentro do prazo recursal."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "A responsabilidade pelo pagamento dos honor\u00e1rios periciais \u00e9 da parte sucumbente na pretens\u00e3o objeto da per\u00edcia, ainda que benefici\u00e1ria da gratuidade de justi\u00e7a.",
                 "pmi": [
-                    -0.10110222367088254,
+                    0.05102501623043641,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O benef\u00edcio da gratuidade de justi\u00e7a n\u00e3o pode ser concedido de of\u00edcio pelo juiz, devendo ser necessariamente requerido pela parte interessada."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.04638637839130583,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A responsabilidade pelo pagamento dos honor\u00e1rios periciais \u00e9 da parte sucumbente na pretens\u00e3o objeto da per\u00edcia, ainda que benefici\u00e1ria da gratuidade de justi\u00e7a."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

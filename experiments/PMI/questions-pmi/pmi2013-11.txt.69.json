@@ -1,55 +1,55 @@
 [
     {
-        "number": "69",
-        "filename": "2013-11.txt",
-        "enum": "Em um processo em que se apura a pr\u00e1tica dos delitos de supress\u00e3o de tributo e evas\u00e3o de divisas, o Juiz Federal da 4\u00aa Vara Federal Criminal de Arroizinho determina a expedi\u00e7\u00e3o de carta rogat\u00f3ria para os Estados Unidos da Am\u00e9rica, a fim de que seja interrogado o r\u00e9u M\u00e1rio. Em cumprimento \u00e0 carta, o tribunal americano realiza o interrogat\u00f3rio do r\u00e9u e devolve o procedimento \u00e0 Justi\u00e7a Brasileira, a 4\u00aa Vara Federal Criminal.\n\n O advogado de defesa de M\u00e1rio, ao se deparar com o teor do ato praticado, requer que o mesmo seja declarado nulo, tendo em vista que n\u00e3o foram obedecidas as garantias processuais brasileiras para o r\u00e9u.\n\n Exclusivamente sobre o ponto de vista da Lei Processual no Espa\u00e7o, a alega\u00e7\u00e3o do advogado est\u00e1 correta?",
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "Em um processo em que se apura a pr\u00e1tica dos delitos de supress\u00e3o de tributo e evas\u00e3o de divisas, o Juiz Federal da 4\u00aa Vara Federal Criminal de Arroizinho determina a expedi\u00e7\u00e3o de carta rogat\u00f3ria para os Estados Unidos da Am\u00e9rica, a fim de que seja interrogado o r\u00e9u M\u00e1rio. Em cumprimento \u00e0 carta, o tribunal americano realiza o interrogat\u00f3rio do r\u00e9u e devolve o procedimento \u00e0 Justi\u00e7a Brasileira, a 4\u00aa Vara Federal Criminal.\n\n O advogado de defesa de M\u00e1rio, ao se deparar com o teor do ato praticado, requer que o mesmo seja declarado nulo, tendo em vista que n\u00e3o foram obedecidas as garantias processuais brasileiras para o r\u00e9u.\n\n Exclusivamente sobre o ponto de vista da Lei Processual no Espa\u00e7o, a alega\u00e7\u00e3o do advogado est\u00e1 correta?",
+        "filename": "2013-11.txt",
+        "number": "69",
         "options": [
             {
-                "text": "Sim, pois no processo penal vigora o princ\u00edpio da extraterritorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicadas fora do territ\u00f3rio nacional.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    -0.16455248207526607,
+                    0.09411983538764893,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Sim, pois no processo penal vigora o princ\u00edpio da extraterritorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicadas fora do territ\u00f3rio nacional."
             },
             {
-                "text": "N\u00e3o, pois no processo penal vigora o princ\u00edpio da territorialidade, j\u00e1 que as normas processuais brasileiras s\u00f3 se aplicam no territ\u00f3rio nacional.",
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.16455248207526607,
+                    0.09411983538764893,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o, pois no processo penal vigora o princ\u00edpio da territorialidade, j\u00e1 que as normas processuais brasileiras s\u00f3 se aplicam no territ\u00f3rio nacional."
             },
             {
-                "text": "Sim, pois no processo penal vigora o princ\u00edpio da territorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicadas em qualquer territ\u00f3rio.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.09197297392467771,
+                    0.10271198079741094,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Sim, pois no processo penal vigora o princ\u00edpio da territorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicadas em qualquer territ\u00f3rio."
             },
             {
-                "text": "N\u00e3o, pois no processo penal vigora o princ\u00edpio da extraterritorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicas fora no territ\u00f3rio nacional.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.16455248207526607,
+                    0.09411983538764893,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o, pois no processo penal vigora o princ\u00edpio da extraterritorialidade, j\u00e1 que as normas processuais brasileiras podem ser aplicas fora no territ\u00f3rio nacional."
             }
         ],
         "valid": true

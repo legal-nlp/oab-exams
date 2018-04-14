@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            null
+        ],
         "enum": "Em 23 de novembro de 2015 (segunda feira), sendo o dia seguinte dia \u00fatil em todo o pa\u00eds, T\u00e9cio, advogado de defesa de r\u00e9u em a\u00e7\u00e3o penal de natureza condenat\u00f3ria, \u00e9 intimado da senten\u00e7a condenat\u00f3ria de seu cliente. No curso do prazo recursal, por\u00e9m, entrou em vigor nova lei de natureza puramente processual, que alterava o C\u00f3digo de Processo Penal e passava a prever que o prazo para apresenta\u00e7\u00e3o de recurso de apela\u00e7\u00e3o seria de 03 dias e n\u00e3o mais de 05 dias. No dia 30 de novembro de 2015, dia \u00fatil, T\u00e9cio apresenta recurso de apela\u00e7\u00e3o acompanhado das respectivas raz\u00f5es.  Considerando a hip\u00f3tese narrada, o recurso do advogado \u00e9",
+        "filename": "2017-22.txt",
         "number": "67",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.17988872035667847,
+                    0.03009505207084396,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado.",
-                "correct": null,
-                "letter": "A"
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado."
             },
             {
-                "pmi": [
-                    -0.1648979936602886,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
                 "correct": true,
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.1648979936602886,
+                    0.027587131064940294,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
-                "correct": null,
-                "letter": "C"
+                "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.25138443478656697,
+                    0.027587131064940294,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado.",
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.018594701191676083,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado."
             }
-        ],
-        "filename": "2017-22.txt",
-        "areas": [
-            null
         ],
         "valid": true
     }

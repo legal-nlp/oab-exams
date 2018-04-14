@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Cl\u00e1udia, advogada, inicialmente transitou pelo direito privado, com assun\u00e7\u00e3o de causas individuais e coletivas. Ao ser contratada por uma associa\u00e7\u00e3o civil, deparou com quest\u00f5es mais pertinentes ao direito p\u00fablico e, por for\u00e7a disso, realizou novos estudos e contatou colegas mais experientes na mat\u00e9ria. Ao aprofundar suas rela\u00e7\u00f5es jur\u00eddicas, tamb\u00e9m iniciou participa\u00e7\u00e3o pol\u00edtica na defesa de temas essenciais \u00e0 cidadania. Por for\u00e7a disso, Cl\u00e1udia foi eleita prefeita do munic\u00edpio X em elei\u00e7\u00e3o bastante disputada, tendo vencido seu oponente, o tamb\u00e9m advogado Pradel, por apenas cem votos. Eleita e empossada, motivada pelo sentido conciliat\u00f3rio, convidou seu antigo oponente para ocupar cargo em comiss\u00e3o na Secretaria Municipal de Fazenda.\n\n A partir da hip\u00f3tese apresentada, observadas as regras do Estatuto da OAB, assinale a op\u00e7\u00e3o correta.",
-        "filename": "2014-14.txt",
-        "valid": true,
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.05497377234284687,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A prefeita exerce fun\u00e7\u00e3o incompat\u00edvel com a advocacia.",
-                "correct": true
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.07855884083605807,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O secret\u00e1rio municipal pode atuar em a\u00e7\u00f5es contra o munic\u00edpio.",
-                "correct": null
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.042944540558107196,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A prefeita deve pedir autoriza\u00e7\u00e3o para exercer a advocacia.",
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.019012670262405475,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O secret\u00e1rio municipal pode atuar em pleitos contra o Estado federado.",
-                "correct": null
-            }
-        ],
         "areas": [
             "ETHICS"
         ],
-        "number": "5"
+        "enum": "Cl\u00e1udia, advogada, inicialmente transitou pelo direito privado, com assun\u00e7\u00e3o de causas individuais e coletivas. Ao ser contratada por uma associa\u00e7\u00e3o civil, deparou com quest\u00f5es mais pertinentes ao direito p\u00fablico e, por for\u00e7a disso, realizou novos estudos e contatou colegas mais experientes na mat\u00e9ria. Ao aprofundar suas rela\u00e7\u00f5es jur\u00eddicas, tamb\u00e9m iniciou participa\u00e7\u00e3o pol\u00edtica na defesa de temas essenciais \u00e0 cidadania. Por for\u00e7a disso, Cl\u00e1udia foi eleita prefeita do munic\u00edpio X em elei\u00e7\u00e3o bastante disputada, tendo vencido seu oponente, o tamb\u00e9m advogado Pradel, por apenas cem votos. Eleita e empossada, motivada pelo sentido conciliat\u00f3rio, convidou seu antigo oponente para ocupar cargo em comiss\u00e3o na Secretaria Municipal de Fazenda.\n\n A partir da hip\u00f3tese apresentada, observadas as regras do Estatuto da OAB, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "5",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.02290020954598858,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A prefeita exerce fun\u00e7\u00e3o incompat\u00edvel com a advocacia."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.025273135015722537,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O secret\u00e1rio municipal pode atuar em a\u00e7\u00f5es contra o munic\u00edpio."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.008971447367783108,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A prefeita deve pedir autoriza\u00e7\u00e3o para exercer a advocacia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0069453237005396755,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O secret\u00e1rio municipal pode atuar em pleitos contra o Estado federado."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "number": "13",
         "enum": "Andr\u00e9, jovem de 25 anos, \u00e9 Vereador pelo Munic\u00edpio M, do Estado E. Portanto, com domic\u00edlio eleitoral nesse Estado. Suas perspectivas pol\u00edticas se alteram quando, ao liderar um grande movimento de combate \u00e0 corrup\u00e7\u00e3o, o seu nome ganha notoriedade em \u00e2mbito nacional. A partir de ent\u00e3o, passa a receber in\u00fameras propostas para concorrer a diversos cargos eletivos, advindas, inclusive, de outros Estados da Federa\u00e7\u00e3o, a exemplo do Estado X. Nessas condi\u00e7\u00f5es, seduzido pelas propostas, analisa algumas possibilidades.\n\n De acordo com a Constitui\u00e7\u00e3o Federal, assinale a op\u00e7\u00e3o que indica o cargo eletivo ao qual Andr\u00e9 pode concorrer.",
         "filename": "2016-19.txt",
-        "valid": true,
+        "number": "13",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.5134368864761629,
+                    0.05086733010960131,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "Deputado Estadual pelo Estado X."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.2626929290295528,
+                    0.054728192799939526,
                     0.0,
                     0,
                     0
                 ],
-                "correct": true,
-                "letter": "B",
                 "text": "Deputado Federal pelo Estado E."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "Senador da Rep\u00fablica pelo Estado E."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.21120724051144749,
+                    0.0004068407082141134,
                     0,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "Governador pelo Estado E."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

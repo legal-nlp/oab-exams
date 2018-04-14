@@ -1,57 +1,57 @@
 [
     {
-        "number": "74",
-        "enum": "O empregado Vicente de Morais foi dispensado sem justa causa. Sete dias depois, requereu a libera\u00e7\u00e3o do cumprimento do aviso pr\u00e9vio, pois j\u00e1 havia obtido um novo emprego. O antigo empregador concordou com o seu pedido, exigindo apenas que ele fosse feito por escrito, junto com a c\u00f3pia da sua CTPS registrada pelo novo empregador, o que foi realizado por Vicente. Diante dessa situa\u00e7\u00e3o, o antigo empregador dever\u00e1",
-        "filename": "2011-03.txt",
-        "valid": true,
         "areas": [
             "LABOUR"
         ],
+        "enum": "O empregado Vicente de Morais foi dispensado sem justa causa. Sete dias depois, requereu a libera\u00e7\u00e3o do cumprimento do aviso pr\u00e9vio, pois j\u00e1 havia obtido um novo emprego. O antigo empregador concordou com o seu pedido, exigindo apenas que ele fosse feito por escrito, junto com a c\u00f3pia da sua CTPS registrada pelo novo empregador, o que foi realizado por Vicente. Diante dessa situa\u00e7\u00e3o, o antigo empregador dever\u00e1",
+        "filename": "2011-03.txt",
+        "number": "74",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "integrar o aviso pr\u00e9vio ao pagamento de todas as verbas rescis\u00f3rias por ele devidas, uma vez que o aviso pr\u00e9vio \u00e9 irrenunci\u00e1vel."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza salarial."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza indenizat\u00f3ria."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.0016037956163843052,
+                    0.033285981215531224,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "pagar as verbas rescis\u00f3rias, excluindo o valor equivalente ao dos dias remanescentes do aviso pr\u00e9vio."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

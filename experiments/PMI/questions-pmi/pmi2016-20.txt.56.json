@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Em pa\u00eds estrangeiro em que possui domic\u00edlio e onde est\u00e3o localizados seus bens im\u00f3veis, a sociedade empres\u00e1ria Alfa firmou contrato particular de fornecimento de min\u00e9rio com a tamb\u00e9m estrangeira sociedade empres\u00e1ria Beta, estipulando que a obriga\u00e7\u00e3o contratual deveria ser adimplida no Brasil. A sociedade empres\u00e1ria Alfa, diante do inadimplemento contratual da sociedade empres\u00e1ria Beta, ajuizou, perante a 1\u00aa Vara C\u00edvel de Montes Claros/MG, a\u00e7\u00e3o com o prop\u00f3sito de ser indenizada pelos danos materiais sofridos, prestando como cau\u00e7\u00e3o consistente dois ve\u00edculos de sua propriedade. Ap\u00f3s a cita\u00e7\u00e3o e a realiza\u00e7\u00e3o de audi\u00eancia de concilia\u00e7\u00e3o, a sociedade empres\u00e1ria Beta contestou, apresentando pedido de reconven\u00e7\u00e3o, alegando possuir direito de ser indenizada materialmente, em raz\u00e3o da rela\u00e7\u00e3o jur\u00eddica contratual regularmente constitu\u00edda entre as litigantes, sob a luz das legisla\u00e7\u00f5es estrangeira e nacional.\n\n Com base no caso apresentado, segundo as regras do CPC/15, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "number": "56",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.015345214992476265,
+                    0.007292570440324739,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "A cau\u00e7\u00e3o prestada pela sociedade empres\u00e1ria Alfa n\u00e3o poder\u00e1 ser objeto de pedido de refor\u00e7o durante o tr\u00e2mite processual."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.02356376587535768,
+                    0.007305941533007334,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "A sociedade empres\u00e1ria Alfa dever\u00e1 prestar cau\u00e7\u00e3o suficiente ao pagamento das custas e dos honor\u00e1rios de advogado da parte contr\u00e1ria."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.025790848409606073,
+                    0.009580691329145505,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "A sociedade empres\u00e1ria Beta, para admiss\u00e3o de seu pedido reconvencional, dever\u00e1 prestar cau\u00e7\u00e3o suficiente ao pagamento das custas e dos honor\u00e1rios de advogado da sociedade empres\u00e1ria Alfa."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.09883748680306655,
+                    0.023783850957938887,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "O contrato originado em pa\u00eds estrangeiro, antes do ajuizamento da a\u00e7\u00e3o indenizat\u00f3ria, dever\u00e1 ser objeto de homologa\u00e7\u00e3o perante o Superior Tribunal de Justi\u00e7a."
             }
         ],
-        "number": "56",
-        "filename": "2016-20.txt",
-        "valid": true,
-        "enum": "Em pa\u00eds estrangeiro em que possui domic\u00edlio e onde est\u00e3o localizados seus bens im\u00f3veis, a sociedade empres\u00e1ria Alfa firmou contrato particular de fornecimento de min\u00e9rio com a tamb\u00e9m estrangeira sociedade empres\u00e1ria Beta, estipulando que a obriga\u00e7\u00e3o contratual deveria ser adimplida no Brasil. A sociedade empres\u00e1ria Alfa, diante do inadimplemento contratual da sociedade empres\u00e1ria Beta, ajuizou, perante a 1\u00aa Vara C\u00edvel de Montes Claros/MG, a\u00e7\u00e3o com o prop\u00f3sito de ser indenizada pelos danos materiais sofridos, prestando como cau\u00e7\u00e3o consistente dois ve\u00edculos de sua propriedade. Ap\u00f3s a cita\u00e7\u00e3o e a realiza\u00e7\u00e3o de audi\u00eancia de concilia\u00e7\u00e3o, a sociedade empres\u00e1ria Beta contestou, apresentando pedido de reconven\u00e7\u00e3o, alegando possuir direito de ser indenizada materialmente, em raz\u00e3o da rela\u00e7\u00e3o jur\u00eddica contratual regularmente constitu\u00edda entre as litigantes, sob a luz das legisla\u00e7\u00f5es estrangeira e nacional.\n\n Com base no caso apresentado, segundo as regras do CPC/15, assinale a afirmativa correta.",
-        "areas": []
+        "valid": true
     }
 ]

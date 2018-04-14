@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "text": "a C\u00e2mara autoriza a instaura\u00e7\u00e3o do processo pelo voto da maioria absoluta dos seus membros.",
-                "letter": "A",
-                "pmi": [
-                    -0.29615361165842913,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": null,
-                "text": "o julgamento ocorre pelo Senado Federal, cuja decis\u00e3o dever\u00e1 ocorrer pela maioria simples.",
-                "letter": "B",
-                "pmi": [
-                    -0.37651317327081113,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": null,
-                "text": "condenado o Presidente, cumprir\u00e1 sua pena privativa de liberdade em regime semiaberto.",
-                "letter": "C",
-                "pmi": [
-                    -0.20113232586990662,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": true,
-                "text": "no julgamento ocorrido no Senado, funcionar\u00e1 como Presidente o do Supremo Tribunal Federal.",
-                "letter": "D",
-                "pmi": [
-                    -0.7188279860778766,
-                    -0.07751016736023489,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2011-05.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "No processo de impedimento do Presidente da Rep\u00fablica, ocorre a necessidade de preenchimento de alguns requisitos. Com base nas normas constitucionais, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
         "number": "20",
-        "valid": true,
-        "enum": "No processo de impedimento do Presidente da Rep\u00fablica, ocorre a necessidade de preenchimento de alguns requisitos. Com base nas normas constitucionais, \u00e9 correto afirmar que"
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.13172540970879867,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a C\u00e2mara autoriza a instaura\u00e7\u00e3o do processo pelo voto da maioria absoluta dos seus membros."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.15833560343822364,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o julgamento ocorre pelo Senado Federal, cuja decis\u00e3o dever\u00e1 ocorrer pela maioria simples."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.07966328190233662,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "condenado o Presidente, cumprir\u00e1 sua pena privativa de liberdade em regime semiaberto."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.31075590908701517,
+                    0.03837373426005597,
+                    0.0,
+                    0.0
+                ],
+                "text": "no julgamento ocorrido no Senado, funcionar\u00e1 como Presidente o do Supremo Tribunal Federal."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "number": "19",
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "Com rela\u00e7\u00e3o \u00e0s diretrizes e normas constitucionais referentes \u00e0 presta\u00e7\u00e3o da sa\u00fade, assinale a afirmativa correta.",
         "filename": "2012-09.txt",
+        "number": "19",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.07404492421785382,
+                    0.03411338396108432,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "\u00c9 permitida a destina\u00e7\u00e3o de recursos p\u00fablicos para aux\u00edlios ou subven\u00e7\u00f5es \u00e0s institui\u00e7\u00f5es privadas com fins lucrativos."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.11660647654539164,
+                    0.09971013981248464,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": true,
                 "text": "Ao sistema \u00fanico de sa\u00fade compete, dentre outras atribui\u00e7\u00f5es, colaborar na prote\u00e7\u00e3o do meio ambiente, nele compreendido o do trabalho."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.08584855452619679,
+                    0.09441529243870012,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "\u00c9 admitida a participa\u00e7\u00e3o indireta de empresas ou capitais estrangeiros na assist\u00eancia \u00e0 sa\u00fade no Pa\u00eds, independentemente de previs\u00e3o legal."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.19567433500242548,
+                    0.1906053370652107,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "As institui\u00e7\u00f5es privadas poder\u00e3o participar de forma complementar do sistema \u00fanico de sa\u00fade, segundo diretrizes deste, mediante contrato de direito privado, vedada qualquer prefer\u00eancia ou distin\u00e7\u00e3o entre elas."
             }
         ],
-        "enum": "Com rela\u00e7\u00e3o \u00e0s diretrizes e normas constitucionais referentes \u00e0 presta\u00e7\u00e3o da sa\u00fade, assinale a afirmativa correta.",
         "valid": true
     }
 ]

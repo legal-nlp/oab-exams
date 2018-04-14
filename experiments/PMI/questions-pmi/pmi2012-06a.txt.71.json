@@ -3,9 +3,8 @@
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
-        "filename": "2012-06a.txt",
         "enum": "Consideram-se acidentes do trabalho",
+        "filename": "2012-06a.txt",
         "number": "71",
         "options": [
             {
@@ -52,6 +51,7 @@
                 ],
                 "text": "apenas os acidentes t\u00edpicos, a doen\u00e7a ocupacional e os acidentes in itinere."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

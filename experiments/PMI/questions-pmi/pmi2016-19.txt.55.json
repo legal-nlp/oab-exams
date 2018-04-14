@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Jo\u00e3o, maior e capaz, correntista do Banco Grana Alta S/A, ao verificar o extrato da sua conta-corrente, constata a realiza\u00e7\u00e3o de um saque indevido no valor de R$ 2.000,00 (dois mil reais), raz\u00e3o pela qual ingressa com a\u00e7\u00e3o de indeniza\u00e7\u00e3o por dano material em face da referida institui\u00e7\u00e3o financeira. Contudo, antes mesmo da cita\u00e7\u00e3o da sociedade r\u00e9, Jo\u00e3o comunica ao ju\u00edzo seu desinteresse no prosseguimento do feito.\n\n A partir do caso apresentado, assinale a afirmativa correta.",
         "filename": "2016-19.txt",
         "number": "55",
-        "valid": true,
-        "areas": [],
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "A desist\u00eancia da a\u00e7\u00e3o produz, como um dos seus efeitos, o fen\u00f4meno da coisa julgada material, obstando que o autor intente nova demanda com conte\u00fado id\u00eantico perante o Poder Judici\u00e1rio.",
-                "correct": null,
                 "pmi": [
-                    -0.32349292992194983,
+                    -0.03243568864307974,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A desist\u00eancia da a\u00e7\u00e3o produz, como um dos seus efeitos, o fen\u00f4meno da coisa julgada material, obstando que o autor intente nova demanda com conte\u00fado id\u00eantico perante o Poder Judici\u00e1rio."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "Tendo em vista que a causa versa sobre direito indispon\u00edvel, poder\u00e1 o juiz, de of\u00edcio, dar prosseguimento ao feito, determinando a cita\u00e7\u00e3o da institui\u00e7\u00e3o financeira para que apresente, no prazo de 15 dias, sua resposta.",
-                "correct": null,
                 "pmi": [
-                    -0.3775057380622456,
+                    -0.008152396790229065,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Tendo em vista que a causa versa sobre direito indispon\u00edvel, poder\u00e1 o juiz, de of\u00edcio, dar prosseguimento ao feito, determinando a cita\u00e7\u00e3o da institui\u00e7\u00e3o financeira para que apresente, no prazo de 15 dias, sua resposta."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "A desist\u00eancia somente produzir\u00e1 efeitos, extinguindo o processo, se houver o pr\u00e9vio consentimento do Banco Grana Alta S/A.",
-                "correct": null,
                 "pmi": [
-                    -0.5402174173929646,
+                    -0.06688190379803433,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A desist\u00eancia somente produzir\u00e1 efeitos, extinguindo o processo, se houver o pr\u00e9vio consentimento do Banco Grana Alta S/A."
             },
             {
-                "letter": "D",
-                "text": "Diante da desist\u00eancia unilateral do autor da a\u00e7\u00e3o, operar-se-\u00e1 a extin\u00e7\u00e3o do processo sem resolu\u00e7\u00e3o do m\u00e9rito.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.41433866532995456,
+                    -0.05213409840513841,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Diante da desist\u00eancia unilateral do autor da a\u00e7\u00e3o, operar-se-\u00e1 a extin\u00e7\u00e3o do processo sem resolu\u00e7\u00e3o do m\u00e9rito."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

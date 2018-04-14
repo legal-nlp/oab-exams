@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "\u00c9 correto afirmar que a CLT prev\u00ea, expressamente,",
+        "filename": "2012-07.txt",
+        "number": "73",
         "options": [
             {
                 "correct": null,
-                "text": "a advert\u00eancia verbal, a censura escrita e a suspens\u00e3o como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado.",
                 "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a advert\u00eancia verbal, a censura escrita e a suspens\u00e3o como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado."
             },
             {
                 "correct": true,
-                "text": "somente a suspens\u00e3o do contrato e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado.",
                 "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "somente a suspens\u00e3o do contrato e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado."
             },
             {
                 "correct": null,
-                "text": "a advert\u00eancia, verbal ou escrita, a suspens\u00e3o e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado.",
                 "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a advert\u00eancia, verbal ou escrita, a suspens\u00e3o e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado."
             },
             {
                 "correct": null,
-                "text": "a censura escrita, a suspens\u00e3o e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado.",
                 "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a censura escrita, a suspens\u00e3o e a dispensa, por justa causa, como medidas disciplinares que o empregador pode adotar em rela\u00e7\u00e3o ao descumprimento das obriga\u00e7\u00f5es contratuais do empregado."
             }
         ],
-        "valid": true,
-        "number": "73",
-        "areas": [
-            "LABOUR"
-        ],
-        "enum": "\u00c9 correto afirmar que a CLT prev\u00ea, expressamente,",
-        "filename": "2012-07.txt"
+        "valid": true
     }
 ]

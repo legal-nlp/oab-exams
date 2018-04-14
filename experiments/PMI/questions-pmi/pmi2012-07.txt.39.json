@@ -1,11 +1,17 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "O policial militar Marco Ant\u00f4nio \u00e9 propriet\u00e1rio de uma casa de praia, localizada no balne\u00e1rio de Guarapari/ES. Por ocasi\u00e3o de seu exerc\u00edcio profissional na cidade de Vit\u00f3ria/ES, a casa de praia foi emprestada ao seu primo Fabiano, que l\u00e1 reside com sua fam\u00edlia h\u00e1 mais de tr\u00eas anos. Ocorre que, por interesse da administra\u00e7\u00e3o p\u00fablica, Marco Ant\u00f4nio foi removido de of\u00edcio para a cidade de Guarapari/ES. Diante de tal situa\u00e7\u00e3o, Marco Ant\u00f4nio decidiu notificar extrajudicialmente o primo para que este desocupe a referida casa no prazo improrrog\u00e1vel de 30 dias.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica, assinale a alternativa correta.",
+        "filename": "2012-07.txt",
+        "number": "39",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.24753114872179827,
+                    0.012742854917357651,
                     0.0,
                     0.0,
                     0.0
@@ -16,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.12723184847814026,
+                    0.005507893377829287,
                     0.0,
                     0.0,
                     0.0
@@ -27,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.187679036055604,
+                    -0.003318283477868553,
                     0.0,
                     0.0,
                     0.0
@@ -38,19 +44,13 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.14760203881962766,
+                    0.02938428365499834,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "Tratando-se de contrato firmado verbalmente e por prazo indeterminado, Marco Ant\u00f4nio pode colocar fim ao contrato a qualquer momento, sem ter que apresentar motivo, em decorr\u00eancia da aplica\u00e7\u00e3o das regras da chamada den\u00fancia vazia."
             }
-        ],
-        "enum": "O policial militar Marco Ant\u00f4nio \u00e9 propriet\u00e1rio de uma casa de praia, localizada no balne\u00e1rio de Guarapari/ES. Por ocasi\u00e3o de seu exerc\u00edcio profissional na cidade de Vit\u00f3ria/ES, a casa de praia foi emprestada ao seu primo Fabiano, que l\u00e1 reside com sua fam\u00edlia h\u00e1 mais de tr\u00eas anos. Ocorre que, por interesse da administra\u00e7\u00e3o p\u00fablica, Marco Ant\u00f4nio foi removido de of\u00edcio para a cidade de Guarapari/ES. Diante de tal situa\u00e7\u00e3o, Marco Ant\u00f4nio decidiu notificar extrajudicialmente o primo para que este desocupe a referida casa no prazo improrrog\u00e1vel de 30 dias.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica, assinale a alternativa correta.",
-        "filename": "2012-07.txt",
-        "number": "39",
-        "areas": [
-            "CIVIL"
         ],
         "valid": true
     }

@@ -1,36 +1,35 @@
 [
     {
-        "filename": "2011-03.txt",
         "areas": [
             "INTERNATIONAL"
         ],
         "enum": "Pierre de Oliveira nasceu na Fran\u00e7a, filho de pai brasileiro que \u00e0 \u00e9poca se encontrava em viagem privada de estudos) e m\u00e3e francesa. Viveu at\u00e9 os 25 anos em Paris, onde se formou em an\u00e1lise de sistemas e se p\u00f3s-graduou em seguran\u00e7a de rede. Em 2007, Pierre foi convidado por uma universidade brasileira para fazer parte de um projeto de pesquisa destinado a desenvolver um sistema de seguran\u00e7a para uso de institui\u00e7\u00f5es financeiras. Embora viajasse com frequ\u00eancia para a Fran\u00e7a, Pierre passou a residir no Brasil, optando, em 2008, pela nacionalidade brasileira. No in\u00edcio de 2010, uma investiga\u00e7\u00e3o conjunta entre as pol\u00edcias brasileira e francesa descobriu que Pierre fez parte, no passado, de uma quadrilha internacional de hackers. Detido em S\u00e3o Paulo, ele confessou que, entre 2004 e 2005, quando ainda vivia em Paris, invadiu mais de uma vez a rede de um grande banco franc\u00eas, desviando recursos para contas localizadas em para\u00edsos fiscais. Com rela\u00e7\u00e3o ao caso hipot\u00e9tico acima, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
         "number": "96",
         "options": [
             {
-                "text": "se a Fran\u00e7a assim requerer, Pierre poder\u00e1 ser extraditado, pois cometeu crime comum sujeito \u00e0 jurisdi\u00e7\u00e3o francesa antes de optar pela nacionalidade brasileira.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.008805245544127881,
+                    0.027721012377464736,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "se a Fran\u00e7a assim requerer, Pierre poder\u00e1 ser extraditado, pois cometeu crime comum sujeito \u00e0 jurisdi\u00e7\u00e3o francesa antes de optar pela nacionalidade brasileira."
             },
             {
-                "text": "a crit\u00e9rio do Minist\u00e9rio da Justi\u00e7a, Pierre poder\u00e1 ser expulso do territ\u00f3rio nacional pelo crime cometido no exterior antes do processo de aquisi\u00e7\u00e3o da nacionalidade, a menos que tenha filho brasileiro que, comprovadamente, esteja sob sua guarda e dele dependa economicamente.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.03814196897890762,
+                    0.024337156413290276,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a crit\u00e9rio do Minist\u00e9rio da Justi\u00e7a, Pierre poder\u00e1 ser expulso do territ\u00f3rio nacional pelo crime cometido no exterior antes do processo de aquisi\u00e7\u00e3o da nacionalidade, a menos que tenha filho brasileiro que, comprovadamente, esteja sob sua guarda e dele dependa economicamente."
             },
             {
-                "text": "Pierre poder\u00e1 ser deportado para a Fran\u00e7a, a menos que pe\u00e7a asilo pol\u00edtico.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
@@ -38,10 +37,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pierre poder\u00e1 ser deportado para a Fran\u00e7a, a menos que pe\u00e7a asilo pol\u00edtico."
             },
             {
-                "text": "Pierre n\u00e3o poder\u00e1 ser extraditado, expulso ou deportado em qualquer hip\u00f3tese.",
                 "correct": true,
                 "letter": "D",
                 "pmi": [
@@ -49,7 +48,8 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pierre n\u00e3o poder\u00e1 ser extraditado, expulso ou deportado em qualquer hip\u00f3tese."
             }
         ],
         "valid": true

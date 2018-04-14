@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-23.txt",
         "areas": [
             null
         ],
-        "number": "1",
         "enum": "O advogado Diogo foi procurado, em seu escrit\u00f3rio profissional, por Paulo, que desejava contrat\u00e1-lo para atuar nos autos de processo judicial j\u00e1 em tr\u00e2mite, patrocinado pelo advogado Jorge, mediante procura\u00e7\u00e3o, em face de um plano de sa\u00fade, pelo seguinte motivo: subitamente, Paulo descobriu que precisa realizar uma cirurgia imediatamente, sob risco de morte. Como n\u00e3o estava satisfeito com a atua\u00e7\u00e3o do advogado Jorge, decide, diante da necessidade de realizar a cirurgia, procurar Diogo, para requerer a tutela de urg\u00eancia nos referidos autos, em plant\u00e3o judicial.  Considerando a situa\u00e7\u00e3o narrada e o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
-        "valid": true,
+        "filename": "2017-23.txt",
+        "number": "1",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "Diogo apenas dever\u00e1 atuar na causa, aceitando procura\u00e7\u00e3o, se houver concord\u00e2ncia do advogado Jorge, uma vez que, de acordo com o C\u00f3digo de \u00c9tica e Disciplina da OAB, o advogado n\u00e3o deve aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, salvo com a concord\u00e2ncia deste."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.00414939872754945,
+                    0.0032250313755599687,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Diogo apenas dever\u00e1 atuar na causa, aceitando procura\u00e7\u00e3o, ap\u00f3s ser dado pr\u00e9vio conhecimento ao advogado Jorge, uma vez que, de acordo com o C\u00f3digo de \u00c9tica e Disciplina da OAB, o advogado n\u00e3o deve aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo anteriormente \u00e0 comunica\u00e7\u00e3o a este."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.002882859682197748,
+                    0.0052290134312226125,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "Diogo poder\u00e1 aceitar procura\u00e7\u00e3o e requerer nos autos judiciais, em favor de Paulo, a tutela de urg\u00eancia necess\u00e1ria apenas se apresentar nos autos justificativa id\u00f4nea a cessar a responsabilidade profissional de Jorge pelo acompanhamento da causa."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.008194739638825681,
+                    0.013928550670502577,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "Diogo poder\u00e1 aceitar procura\u00e7\u00e3o e requerer nos autos judiciais, em favor de Paulo, a tutela de urg\u00eancia necess\u00e1ria, independentemente de pr\u00e9via comunica\u00e7\u00e3o a Jorge ou de apresenta\u00e7\u00e3o ao ju\u00edzo de justificativa id\u00f4nea para a cessa\u00e7\u00e3o da responsabilidade profissional de Jorge."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

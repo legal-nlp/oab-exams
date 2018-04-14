@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-04.txt",
         "areas": [
             "CIVIL"
         ],
+        "enum": "Rodolfo, brasileiro, engenheiro, solteiro, sem ascendentes ou descendentes, desapareceu de seu domic\u00edlio h\u00e1 11 (onze) meses e at\u00e9 ent\u00e3o n\u00e3o houve qualquer not\u00edcia sobre seu paradeiro. Embora tenha desaparecido, deixou Lisa, uma amiga, como mandat\u00e1ria para a finalidade de administrar-lhe os bens. Todavia, por motivos de ordem pessoal, Lisa n\u00e3o quis exercer os poderes outorgados por Rodolfo em seu favor, renunciando expressamente ao mandato.\n\n De acordo com os dispositivos que regem o instituto da aus\u00eancia, assinale a alternativa correta.",
+        "filename": "2011-04.txt",
+        "number": "35",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.008487241686839246,
+                    0.0031011484751898404,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz n\u00e3o poder\u00e1 declarar a aus\u00eancia e nomear curador para Rodolfo, pois Lisa n\u00e3o poderia ter renunciado o mandato outorgado em seu favor, j\u00e1 que s\u00f3 estaria autorizada a faz\u00ea-lo em caso de justificada impossibilidade ou de constatada insufici\u00eancia de poderes.",
-                "correct": null,
-                "letter": "A"
+                "text": "O juiz n\u00e3o poder\u00e1 declarar a aus\u00eancia e nomear curador para Rodolfo, pois Lisa n\u00e3o poderia ter renunciado o mandato outorgado em seu favor, j\u00e1 que s\u00f3 estaria autorizada a faz\u00ea-lo em caso de justificada impossibilidade ou de constatada insufici\u00eancia de poderes."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.03174789110866333,
+                    0.01692334757185883,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A ren\u00fancia ao mandato, por parte de Lisa, era poss\u00edvel e, neste caso, o juiz determinar\u00e1 ao Minist\u00e9rio P\u00fablico que nomeie um curador encarregado de gerir os bens do ausente, observando, no que for aplic\u00e1vel, o disposto a respeito dos tutores e curadores.",
-                "correct": null,
-                "letter": "B"
+                "text": "A ren\u00fancia ao mandato, por parte de Lisa, era poss\u00edvel e, neste caso, o juiz determinar\u00e1 ao Minist\u00e9rio P\u00fablico que nomeie um curador encarregado de gerir os bens do ausente, observando, no que for aplic\u00e1vel, o disposto a respeito dos tutores e curadores."
             },
             {
-                "pmi": [
-                    -0.07198930711814382,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Os credores de obriga\u00e7\u00f5es vencidas e n\u00e3o pagas de Rodolfo, decorrido 1 (um) ano da arrecada\u00e7\u00e3o dos bens do ausente, poder\u00e3o requerer que se determine a abertura de sua sucess\u00e3o provis\u00f3ria.",
                 "correct": true,
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.009493570563214484,
+                    0.019269265407835245,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Poder\u00e1 ser declarada a sucess\u00e3o definitiva de Rodolfo 10 (dez) anos depois de passada em julgado a senten\u00e7a que concedeu a sucess\u00e3o provis\u00f3ria, mas, se nenhum interessado promover a sucess\u00e3o definitiva, nesse prazo, os bens porventura arrecadados dever\u00e3o ser doados a entidades filantr\u00f3picas localizadas no munic\u00edpio do \u00faltimo domic\u00edlio de Rodolfo.",
+                "text": "Os credores de obriga\u00e7\u00f5es vencidas e n\u00e3o pagas de Rodolfo, decorrido 1 (um) ano da arrecada\u00e7\u00e3o dos bens do ausente, poder\u00e3o requerer que se determine a abertura de sua sucess\u00e3o provis\u00f3ria."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.007889014679829146,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Poder\u00e1 ser declarada a sucess\u00e3o definitiva de Rodolfo 10 (dez) anos depois de passada em julgado a senten\u00e7a que concedeu a sucess\u00e3o provis\u00f3ria, mas, se nenhum interessado promover a sucess\u00e3o definitiva, nesse prazo, os bens porventura arrecadados dever\u00e3o ser doados a entidades filantr\u00f3picas localizadas no munic\u00edpio do \u00faltimo domic\u00edlio de Rodolfo."
             }
         ],
-        "number": "35",
-        "enum": "Rodolfo, brasileiro, engenheiro, solteiro, sem ascendentes ou descendentes, desapareceu de seu domic\u00edlio h\u00e1 11 (onze) meses e at\u00e9 ent\u00e3o n\u00e3o houve qualquer not\u00edcia sobre seu paradeiro. Embora tenha desaparecido, deixou Lisa, uma amiga, como mandat\u00e1ria para a finalidade de administrar-lhe os bens. Todavia, por motivos de ordem pessoal, Lisa n\u00e3o quis exercer os poderes outorgados por Rodolfo em seu favor, renunciando expressamente ao mandato.\n\n De acordo com os dispositivos que regem o instituto da aus\u00eancia, assinale a alternativa correta.",
         "valid": true
     }
 ]

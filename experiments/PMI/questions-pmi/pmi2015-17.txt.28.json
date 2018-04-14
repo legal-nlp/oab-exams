@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Em 17/07/2014, o Tribunal de Justi\u00e7a do Estado X da Federa\u00e7\u00e3o instituiu, por meio de Provimento da Corregedoria Geral da Justi\u00e7a, as custas judiciais e os emolumentos cartor\u00e1rios vigentes a partir da data da publica\u00e7\u00e3o.\n\n Sobre a hip\u00f3tese, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "28",
         "filename": "2015-17.txt",
+        "number": "28",
         "options": [
             {
-                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de pre\u00e7o p\u00fablico e, portanto, n\u00e3o est\u00e3o sujeitos \u00e0s limita\u00e7\u00f5es constitucionais ao poder de tributar.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    0.009316028858474611,
+                    0.0461881793740217,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de pre\u00e7o p\u00fablico e, portanto, n\u00e3o est\u00e3o sujeitos \u00e0s limita\u00e7\u00f5es constitucionais ao poder de tributar."
             },
             {
-                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de taxa de servi\u00e7o. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade, da anterioridade de exerc\u00edcio e nonagesimal.",
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.00403689422048304,
+                    0.05127133155283759,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de taxa de servi\u00e7o. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade, da anterioridade de exerc\u00edcio e nonagesimal."
             },
             {
-                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de contribui\u00e7\u00e3o social. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade, da anterioridade de exerc\u00edcio e nonagesimal.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.040597307314083834,
+                    0.042365031345897135,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de contribui\u00e7\u00e3o social. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade, da anterioridade de exerc\u00edcio e nonagesimal."
             },
             {
-                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de taxa de poder de pol\u00edcia. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade e da anterioridade de exerc\u00edcio.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    0.007452823086779689,
+                    0.03695054349921736,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As custas judiciais e os emolumentos cartor\u00e1rios t\u00eam natureza jur\u00eddica de taxa de poder de pol\u00edcia. Sendo assim, o provimento da Corregedoria Geral viola os princ\u00edpios da legalidade e da anterioridade de exerc\u00edcio."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

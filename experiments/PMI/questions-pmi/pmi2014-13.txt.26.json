@@ -1,6 +1,11 @@
 [
     {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Determinado Estado, localizado na Regi\u00e3o Norte do pa\u00eds, instituiu, mediante lei espec\u00edfica, a contribui\u00e7\u00e3o para o custeio do servi\u00e7o de ilumina\u00e7\u00e3o p\u00fablica. Nessa linha, com base na compet\u00eancia tribut\u00e1ria prevista nas normas constitucionais em vigor, tal contribui\u00e7\u00e3o institu\u00edda pelo respectivo estado-membro da Federa\u00e7\u00e3o \u00e9",
         "filename": "2014-13.txt",
+        "number": "26",
         "options": [
             {
                 "correct": null,
@@ -17,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.48850118013717614,
+                    0.09983247424276213,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.3760619966670604,
+                    0.05181702470016741,
                     0.0,
                     0.0,
                     0.0
@@ -39,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.43355723666891993,
+                    0.10129154004011483,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "inconstitucional, visto que somente lei complementar poder\u00e1 instituir o referido tributo."
             }
         ],
-        "areas": [
-            "TAXES"
-        ],
-        "valid": true,
-        "number": "26",
-        "enum": "Determinado Estado, localizado na Regi\u00e3o Norte do pa\u00eds, instituiu, mediante lei espec\u00edfica, a contribui\u00e7\u00e3o para o custeio do servi\u00e7o de ilumina\u00e7\u00e3o p\u00fablica. Nessa linha, com base na compet\u00eancia tribut\u00e1ria prevista nas normas constitucionais em vigor, tal contribui\u00e7\u00e3o institu\u00edda pelo respectivo estado-membro da Federa\u00e7\u00e3o \u00e9"
+        "valid": true
     }
 ]

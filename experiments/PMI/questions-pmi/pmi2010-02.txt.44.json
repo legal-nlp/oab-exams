@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2010-02.txt",
-        "number": "44",
-        "enum": "O empregado Jo\u00e3o foi contratado para trabalhar como caixa de um supermercado. No ato de admiss\u00e3o, foi-lhe entregue o regulamento da empresa, onde constava a obrigatoriedade do uso do uniforme para o exerc\u00edcio do trabalho. Entretanto, cerca de cinco meses ap\u00f3s a contrata\u00e7\u00e3o, Jo\u00e3o compareceu para trabalhar sem o uniforme e, por isso, foi adverti do. Um m\u00eas depois, o fato se repeti u e Jo\u00e3o foi suspenso por 3 dias. Passados mais 2 meses, Jo\u00e3o compareceu novamente sem uniforme, tendo sido suspenso por 30 dias. Ao retornar da suspens\u00e3o foi encaminhado ao departamento de pessoal, onde tomou ci\u00eancia da sua dispensa por justa causa (indisciplina \u2013 art. 482, h da CLT).\n\n Diante deste caso concreto",
         "areas": [
             "LABOUR"
         ],
+        "enum": "O empregado Jo\u00e3o foi contratado para trabalhar como caixa de um supermercado. No ato de admiss\u00e3o, foi-lhe entregue o regulamento da empresa, onde constava a obrigatoriedade do uso do uniforme para o exerc\u00edcio do trabalho. Entretanto, cerca de cinco meses ap\u00f3s a contrata\u00e7\u00e3o, Jo\u00e3o compareceu para trabalhar sem o uniforme e, por isso, foi adverti do. Um m\u00eas depois, o fato se repeti u e Jo\u00e3o foi suspenso por 3 dias. Passados mais 2 meses, Jo\u00e3o compareceu novamente sem uniforme, tendo sido suspenso por 30 dias. Ao retornar da suspens\u00e3o foi encaminhado ao departamento de pessoal, onde tomou ci\u00eancia da sua dispensa por justa causa (indisciplina \u2013 art. 482, h da CLT).\n\n Diante deste caso concreto",
+        "filename": "2010-02.txt",
+        "number": "44",
         "options": [
             {
                 "correct": null,
-                "text": "est\u00e1 correta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o descumpriu reiteradamente as ordens gen\u00e9ricas do empregador contidas no regulamento geral.",
                 "letter": "A",
                 "pmi": [
-                    -0.023767720905081995,
+                    0.0189263481129199,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "est\u00e1 correta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o descumpriu reiteradamente as ordens gen\u00e9ricas do empregador contidas no regulamento geral."
             },
             {
                 "correct": null,
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu ato de insubordina\u00e7\u00e3o e n\u00e3o de indisciplina.",
                 "letter": "B",
                 "pmi": [
-                    -0.019720026316073228,
+                    -0.0007448845302946075,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu ato de insubordina\u00e7\u00e3o e n\u00e3o de indisciplina."
             },
             {
                 "correct": null,
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu mau procedimento.",
                 "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu mau procedimento."
             },
             {
                 "correct": true,
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que o empregador praticou bis in idem, ao punir Jo\u00e3o duas vezes pelo mesmo fato.",
                 "letter": "D",
                 "pmi": [
-                    -0.22502528986276604,
+                    -0.025786301112090525,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que o empregador praticou bis in idem, ao punir Jo\u00e3o duas vezes pelo mesmo fato."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

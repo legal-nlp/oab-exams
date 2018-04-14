@@ -1,55 +1,55 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.10777406159589496,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Os povos ind\u00edgenas que ocupam terras onde haja a explora\u00e7\u00e3o de suas riquezas minerais e do subsolo t\u00eam direito ao recebimento de parte dos recursos auferidos, mas n\u00e3o possuem direito a participar da utiliza\u00e7\u00e3o, administra\u00e7\u00e3o e conserva\u00e7\u00e3o dos recursos mencionados.",
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.060388840205176604,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Em caso de a propriedade dos min\u00e9rios ou dos recursos do subsolo pertencer ao Estado, o governo dever\u00e1 estabelecer ou manter consultas dos povos interessados, a fim de determinar se os interesses desses povos seriam prejudicados, antes de empreender ou autorizar qualquer programa de prospec\u00e7\u00e3o ou explora\u00e7\u00e3o dos recursos existentes.",
-                "correct": true
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.07419067735637344,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A explora\u00e7\u00e3o de riquezas minerais e do subsolo em terras ocupadas por povos ind\u00edgenas \u00e9 aceit\u00e1vel e prescinde de consulta pr\u00e9via desde que se cumpram os seguintes requisitos: preserva\u00e7\u00e3o da identidade cultural dos povos ocupantes da terra, pagamento de royalties em fun\u00e7\u00e3o dos transtornos causados e autoriza\u00e7\u00e3o por meio de decreto legislativo.",
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.10171289871041835,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Em nenhuma hip\u00f3tese pode haver a explora\u00e7\u00e3o de riquezas minerais e do subsolo em terras ocupadas por popula\u00e7\u00f5es ind\u00edgenas.",
-                "correct": null
-            }
-        ],
         "areas": [],
         "enum": "Considere o seguinte caso: Em um Estado do norte do Brasil est\u00e1 havendo uma disputa que envolve a explora\u00e7\u00e3o de recursos naturais em terras ind\u00edgenas. Esta disputa envolve diferentes comunidades ind\u00edgenas e uma mineradora privada. Como advogado que atua na \u00e1rea dos Direitos Humanos, foi-lhe solicitado elaborar um parecer. Nesse caso, \u00e9 imprescind\u00edvel se ter em conta a Conven\u00e7\u00e3o 169 da OIT, que foi ratificada pelo Brasil, em 2002. De acordo com o Art. 2\u00ba desta Conven\u00e7\u00e3o, os governos dever\u00e3o assumir a responsabilidade de desenvolver, com a participa\u00e7\u00e3o dos povos interessados, uma a\u00e7\u00e3o coordenada e sistem\u00e1tica com vistas a proteger os direitos desses povos e a garantir o respeito pela sua integridade.\n\n Levando-se em considera\u00e7\u00e3o esta Conven\u00e7\u00e3o e em rela\u00e7\u00e3o ao que se refere aos recursos naturais eventualmente existentes em terras ind\u00edgenas, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
-        "valid": true,
-        "number": "20"
+        "number": "20",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.14586478786598106,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Os povos ind\u00edgenas que ocupam terras onde haja a explora\u00e7\u00e3o de suas riquezas minerais e do subsolo t\u00eam direito ao recebimento de parte dos recursos auferidos, mas n\u00e3o possuem direito a participar da utiliza\u00e7\u00e3o, administra\u00e7\u00e3o e conserva\u00e7\u00e3o dos recursos mencionados."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.04094748037888668,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Em caso de a propriedade dos min\u00e9rios ou dos recursos do subsolo pertencer ao Estado, o governo dever\u00e1 estabelecer ou manter consultas dos povos interessados, a fim de determinar se os interesses desses povos seriam prejudicados, antes de empreender ou autorizar qualquer programa de prospec\u00e7\u00e3o ou explora\u00e7\u00e3o dos recursos existentes."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.08182203526696136,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A explora\u00e7\u00e3o de riquezas minerais e do subsolo em terras ocupadas por povos ind\u00edgenas \u00e9 aceit\u00e1vel e prescinde de consulta pr\u00e9via desde que se cumpram os seguintes requisitos: preserva\u00e7\u00e3o da identidade cultural dos povos ocupantes da terra, pagamento de royalties em fun\u00e7\u00e3o dos transtornos causados e autoriza\u00e7\u00e3o por meio de decreto legislativo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.18620147094900855,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Em nenhuma hip\u00f3tese pode haver a explora\u00e7\u00e3o de riquezas minerais e do subsolo em terras ocupadas por popula\u00e7\u00f5es ind\u00edgenas."
+            }
+        ],
+        "valid": true
     }
 ]

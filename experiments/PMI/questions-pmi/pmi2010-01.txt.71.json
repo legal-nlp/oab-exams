@@ -1,8 +1,14 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Assinale a op\u00e7\u00e3o correta relativamente \u00e0 resposta do reclamado.",
+        "filename": "2010-01.txt",
+        "number": "71",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -10,10 +16,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "Quando forem notificados para a a\u00e7\u00e3o v\u00e1rios reclamados, com diferentes procuradores, o prazo para a contesta\u00e7\u00e3o ser\u00e1 contado em dobro.",
-                "correct": null
+                "text": "Quando forem notificados para a a\u00e7\u00e3o v\u00e1rios reclamados, com diferentes procuradores, o prazo para a contesta\u00e7\u00e3o ser\u00e1 contado em dobro."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -21,10 +27,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "De acordo com a CLT, o fato de o juiz ter parentesco por consanguinidade ou afinidade at\u00e9 o terceiro grau civil em rela\u00e7\u00e3o \u00e0 pessoa dos litigantes \u00e9 causa de suspei\u00e7\u00e3o, devendo ser questionada, via exce\u00e7\u00e3o, no caso de n\u00e3o pronunciamento pelo pr\u00f3prio magistrado.",
-                "correct": true
+                "text": "De acordo com a CLT, o fato de o juiz ter parentesco por consanguinidade ou afinidade at\u00e9 o terceiro grau civil em rela\u00e7\u00e3o \u00e0 pessoa dos litigantes \u00e9 causa de suspei\u00e7\u00e3o, devendo ser questionada, via exce\u00e7\u00e3o, no caso de n\u00e3o pronunciamento pelo pr\u00f3prio magistrado."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -32,10 +38,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "A peremp\u00e7\u00e3o, a conex\u00e3o e a falta de cau\u00e7\u00e3o ou de outra presta\u00e7\u00e3o, que a lei exige como preliminar, podem ser alegadas quando da discuss\u00e3o de m\u00e9rito.",
-                "correct": null
+                "text": "A peremp\u00e7\u00e3o, a conex\u00e3o e a falta de cau\u00e7\u00e3o ou de outra presta\u00e7\u00e3o, que a lei exige como preliminar, podem ser alegadas quando da discuss\u00e3o de m\u00e9rito."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -43,15 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "text": "Cabe ao reclamado manifestar-se precisamente sobre os fatos narrados na peti\u00e7\u00e3o inicial, presumindo-se verdadeiros os fatos n\u00e3o impugnados, ainda que em contradi\u00e7\u00e3o com a defesa, considerada em seu conjunto.",
-                "correct": null
+                "text": "Cabe ao reclamado manifestar-se precisamente sobre os fatos narrados na peti\u00e7\u00e3o inicial, presumindo-se verdadeiros os fatos n\u00e3o impugnados, ainda que em contradi\u00e7\u00e3o com a defesa, considerada em seu conjunto."
             }
         ],
-        "areas": [
-            "LABOUR"
-        ],
-        "enum": "Assinale a op\u00e7\u00e3o correta relativamente \u00e0 resposta do reclamado.",
-        "number": "71",
-        "filename": "2010-01.txt"
+        "valid": true
     }
 ]

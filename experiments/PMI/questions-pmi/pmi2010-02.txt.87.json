@@ -1,56 +1,56 @@
 [
     {
-        "number": "87",
-        "filename": "2010-02.txt",
-        "enum": "Eduardo, advogado, \u00e9 contratado para defender os interesses de Ot\u00e1vio, pr\u00f3spero fazendeiro, em diversas a\u00e7\u00f5es, de natureza civil, empresarial, criminal, bem como em processos administrativos que tramitam em numerosos \u00f3rg\u00e3os p\u00fablicos.\n\n Antes de realizar os atos pr\u00f3prios da profiss\u00e3o, apresenta ao cliente os termos de contrato de honor\u00e1rios, que divide em valores fixos, acrescidos dos decorrentes da eventual sucumb\u00eancia existente nos processos judiciais.\n\n \u00c0 luz das normas aplic\u00e1veis,",
-        "options": [
-            {
-                "text": "os honor\u00e1rios sucumbenciais e os contratados s\u00e3o naturalmente excludentes, devendo o profissional optar por um deles.",
-                "pmi": [
-                    -0.0086241778182027,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "os honor\u00e1rios contratuais devem ser sempre em valor fixo.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "text": "os honor\u00e1rios de sucumb\u00eancia podem, ao alvedrio das partes, sofrer desconto dos honor\u00e1rios pactuados contratualmente.",
-                "pmi": [
-                    -0.025575544107766905,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "text": "os honor\u00e1rios sucumbenciais acrescidos dos honor\u00e1rios contratuais podem superar o benef\u00edcio econ\u00f4mico obtido pelo cliente.",
-                "pmi": [
-                    -0.018128974995386345,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
         "areas": [
             "ETHICS"
+        ],
+        "enum": "Eduardo, advogado, \u00e9 contratado para defender os interesses de Ot\u00e1vio, pr\u00f3spero fazendeiro, em diversas a\u00e7\u00f5es, de natureza civil, empresarial, criminal, bem como em processos administrativos que tramitam em numerosos \u00f3rg\u00e3os p\u00fablicos.\n\n Antes de realizar os atos pr\u00f3prios da profiss\u00e3o, apresenta ao cliente os termos de contrato de honor\u00e1rios, que divide em valores fixos, acrescidos dos decorrentes da eventual sucumb\u00eancia existente nos processos judiciais.\n\n \u00c0 luz das normas aplic\u00e1veis,",
+        "filename": "2010-02.txt",
+        "number": "87",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.02179534635712365,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os honor\u00e1rios sucumbenciais e os contratados s\u00e3o naturalmente excludentes, devendo o profissional optar por um deles."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os honor\u00e1rios contratuais devem ser sempre em valor fixo."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.028503609981702167,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os honor\u00e1rios de sucumb\u00eancia podem, ao alvedrio das partes, sofrer desconto dos honor\u00e1rios pactuados contratualmente."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.006206644344874732,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os honor\u00e1rios sucumbenciais acrescidos dos honor\u00e1rios contratuais podem superar o benef\u00edcio econ\u00f4mico obtido pelo cliente."
+            }
         ],
         "valid": true
     }

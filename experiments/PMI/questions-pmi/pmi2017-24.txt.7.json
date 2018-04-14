@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "text": "L\u00facio e Frederico cometeram infra\u00e7\u00e3o \u00e9tica.",
-                "letter": "A",
-                "correct": true,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Apenas L\u00facio cometeu infra\u00e7\u00e3o \u00e9tica.",
-                "letter": "B",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Apenas Frederico cometeu infra\u00e7\u00e3o \u00e9tica.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Nenhum dos advogados cometeu infra\u00e7\u00e3o \u00e9tica.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2017-24.txt",
-        "enum": "Em determinada edi\u00e7\u00e3o de um jornal de grande circula\u00e7\u00e3o, foram publicadas duas mat\u00e9rias subscritas, cada qual, pelos advogados L\u00facio e Frederico. L\u00facio assina, com habitualidade, uma coluna no referido jornal, em que responde, semanalmente, a consultas sobre mat\u00e9ria jur\u00eddica. Frederico apenas subscreveu mat\u00e9ria jornal\u00edstica naquela edi\u00e7\u00e3o, debatendo certa causa, de natureza criminal, bastante repercutida na m\u00eddia, tendo analisado a estrat\u00e9gia empregada pela defesa do r\u00e9u no processo.\n\n Considerando o caso narrado e o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
-        "number": "7",
-        "valid": true,
         "areas": [
             null
-        ]
+        ],
+        "enum": "Em determinada edi\u00e7\u00e3o de um jornal de grande circula\u00e7\u00e3o, foram publicadas duas mat\u00e9rias subscritas, cada qual, pelos advogados L\u00facio e Frederico. L\u00facio assina, com habitualidade, uma coluna no referido jornal, em que responde, semanalmente, a consultas sobre mat\u00e9ria jur\u00eddica. Frederico apenas subscreveu mat\u00e9ria jornal\u00edstica naquela edi\u00e7\u00e3o, debatendo certa causa, de natureza criminal, bastante repercutida na m\u00eddia, tendo analisado a estrat\u00e9gia empregada pela defesa do r\u00e9u no processo.\n\n Considerando o caso narrado e o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "7",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "L\u00facio e Frederico cometeram infra\u00e7\u00e3o \u00e9tica."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas L\u00facio cometeu infra\u00e7\u00e3o \u00e9tica."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas Frederico cometeu infra\u00e7\u00e3o \u00e9tica."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Nenhum dos advogados cometeu infra\u00e7\u00e3o \u00e9tica."
+            }
+        ],
+        "valid": true
     }
 ]

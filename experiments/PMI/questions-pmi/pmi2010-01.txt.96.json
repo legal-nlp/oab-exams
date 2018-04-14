@@ -3,22 +3,23 @@
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "valid": true,
-        "number": "96",
         "enum": "Com rela\u00e7\u00e3o aos meios de prova no processo penal, assinale a op\u00e7\u00e3o correta de acordo com o CPP.",
+        "filename": "2010-01.txt",
+        "number": "96",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.050784974392830994,
+                    0.052222938158538665,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Se o juiz tiver not\u00edcia da exist\u00eancia de documento relativo a ponto relevante da acusa\u00e7\u00e3o ou da defesa, n\u00e3o poder\u00e1 providenciar, independentemente de requerimento das partes, a juntada aos autos, uma vez que \u00e9 mero espectador do processo, sem atua\u00e7\u00e3o de oficio na gest\u00e3o da prova.",
-                "correct": null
+                "text": "Se o juiz tiver not\u00edcia da exist\u00eancia de documento relativo a ponto relevante da acusa\u00e7\u00e3o ou da defesa, n\u00e3o poder\u00e1 providenciar, independentemente de requerimento das partes, a juntada aos autos, uma vez que \u00e9 mero espectador do processo, sem atua\u00e7\u00e3o de oficio na gest\u00e3o da prova."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -26,10 +27,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "Em regra, a testemunha n\u00e3o pode eximir-se da obriga\u00e7\u00e3o de depor. No entanto, o c\u00f4njuge do acusado \u00e0 \u00e9poca do fato criminoso, ainda que dele se encontre separado judicialmente, pode recusar-se a testemunhar.",
-                "correct": true
+                "text": "Em regra, a testemunha n\u00e3o pode eximir-se da obriga\u00e7\u00e3o de depor. No entanto, o c\u00f4njuge do acusado \u00e0 \u00e9poca do fato criminoso, ainda que dele se encontre separado judicialmente, pode recusar-se a testemunhar."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -37,10 +38,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "Em regra, as partes dever\u00e3o apresentar os documentos necess\u00e1rios \u00e0 comprova\u00e7\u00e3o de suas alega\u00e7\u00f5es na primeira oportunidade que falarem nos autos, sob pena de preclus\u00e3o.",
-                "correct": null
+                "text": "Em regra, as partes dever\u00e3o apresentar os documentos necess\u00e1rios \u00e0 comprova\u00e7\u00e3o de suas alega\u00e7\u00f5es na primeira oportunidade que falarem nos autos, sob pena de preclus\u00e3o."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -48,10 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "text": "O procedimento de acarea\u00e7\u00e3o s\u00f3 ser\u00e1 admitido entre acusados, sendo vedada a acarea\u00e7\u00e3o entre acusado e testemunha.",
-                "correct": null
+                "text": "O procedimento de acarea\u00e7\u00e3o s\u00f3 ser\u00e1 admitido entre acusados, sendo vedada a acarea\u00e7\u00e3o entre acusado e testemunha."
             }
         ],
-        "filename": "2010-01.txt"
+        "valid": true
     }
 ]

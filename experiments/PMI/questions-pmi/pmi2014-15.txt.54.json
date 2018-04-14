@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Ricardo ajuizou a\u00e7\u00e3o de execu\u00e7\u00e3o por t\u00edtulo extrajudicial em face de F\u00e1bio, objetivando o pagamento de cheque que fora devolvido por insufici\u00eancia de fundos, no valor de R$ 1.000,00. Ap\u00f3s F\u00e1bio ser regularmente citado, Ricardo requereu ao juiz a desist\u00eancia do processo.\n\n Dessa forma, assinale a afirmativa correta.",
-        "valid": true,
         "areas": [],
+        "enum": "Ricardo ajuizou a\u00e7\u00e3o de execu\u00e7\u00e3o por t\u00edtulo extrajudicial em face de F\u00e1bio, objetivando o pagamento de cheque que fora devolvido por insufici\u00eancia de fundos, no valor de R$ 1.000,00. Ap\u00f3s F\u00e1bio ser regularmente citado, Ricardo requereu ao juiz a desist\u00eancia do processo.\n\n Dessa forma, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
+        "number": "54",
         "options": [
             {
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.3052637726765407,
+                    0.03039994236154318,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz dever\u00e1 homologar a desist\u00eancia, independentemente da concord\u00e2ncia do executado, caso n\u00e3o tenham sido apresentados embargos versando sobre quest\u00f5es de direito material.",
-                "letter": "A"
+                "text": "O juiz dever\u00e1 homologar a desist\u00eancia, independentemente da concord\u00e2ncia do executado, caso n\u00e3o tenham sido apresentados embargos versando sobre quest\u00f5es de direito material."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.18864392864150142,
+                    0.012754300381348869,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz somente poder\u00e1 homologar a desist\u00eancia ap\u00f3s a anu\u00eancia do executado.",
-                "letter": "B"
+                "text": "O juiz somente poder\u00e1 homologar a desist\u00eancia ap\u00f3s a anu\u00eancia do executado."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.1849337843953593,
+                    0.024856037503443156,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia, j\u00e1 que o credor tem a faculdade de desistir apenas de algumas medidas executivas.",
-                "letter": "C"
+                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia, j\u00e1 que o credor tem a faculdade de desistir apenas de algumas medidas executivas."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.19431321656876524,
+                    -0.011223917457083102,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia caso o devedor, citado, ofere\u00e7a embargos que versem apenas sobre quest\u00f5es processuais.",
-                "letter": "D"
+                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia caso o devedor, citado, ofere\u00e7a embargos que versem apenas sobre quest\u00f5es processuais."
             }
         ],
-        "number": "54",
-        "filename": "2014-15.txt"
+        "valid": true
     }
 ]

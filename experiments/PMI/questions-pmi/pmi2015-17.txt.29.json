@@ -1,13 +1,15 @@
 [
     {
-        "valid": true,
         "areas": [],
+        "enum": "O Governador do Estado Y criticou, por meio da imprensa, o Diretor-Presidente da Ag\u00eancia Reguladora de Servi\u00e7os Delegados de Transportes do Estado, autarquia estadual criada pela Lei n\u00ba 1.234, alegando que aquela entidade, ao aplicar multas \u00e0s empresas concession\u00e1rias por supostas falhas na presta\u00e7\u00e3o do servi\u00e7o, \u201cn\u00e3o estimula o empres\u00e1rio a investir no Estado\u201d. Ainda, por essa raz\u00e3o, o Governador amea\u00e7ou, tamb\u00e9m pela imprensa, substituir o Diretor-Presidente da ag\u00eancia antes de expirado o prazo do mandato daquele dirigente.\n\n Considerando o exposto, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
+        "number": "29",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.05145145998732998,
+                    0.016147482624506354,
                     0.0,
                     0.0,
                     0.0
@@ -15,10 +17,10 @@
                 "text": "A ado\u00e7\u00e3o do mandato fixo para os dirigentes de ag\u00eancias reguladoras contribui para a necess\u00e1ria autonomia da entidade, impedindo a livre exonera\u00e7\u00e3o pelo chefe do Poder Executivo."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.10973824226005412,
+                    0.011939854441251296,
                     0.0,
                     0.0,
                     0.0
@@ -26,8 +28,8 @@
                 "text": "A ag\u00eancia reguladora, como \u00f3rg\u00e3o da Administra\u00e7\u00e3o Direta, submete-se ao poder disciplinar do chefe do Poder Executivo estadual."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
@@ -37,10 +39,10 @@
                 "text": "A ag\u00eancia reguladora possui personalidade jur\u00eddica pr\u00f3pria, mas est\u00e1 sujeita, obrigatoriamente, ao poder hier\u00e1rquico do chefe do Poder Executivo."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.08476066882922993,
+                    0.026777586480300025,
                     0.0,
                     0.0,
                     0.0
@@ -48,8 +50,6 @@
                 "text": "Ainda que os dirigentes da ag\u00eancia reguladora exer\u00e7am mandato fixo, pode o chefe do Poder Executivo exoner\u00e1-los, por raz\u00f5es pol\u00edticas n\u00e3o ligadas ao interesse p\u00fablico, caso discorde das decis\u00f5es tomadas pela entidade."
             }
         ],
-        "enum": "O Governador do Estado Y criticou, por meio da imprensa, o Diretor-Presidente da Ag\u00eancia Reguladora de Servi\u00e7os Delegados de Transportes do Estado, autarquia estadual criada pela Lei n\u00ba 1.234, alegando que aquela entidade, ao aplicar multas \u00e0s empresas concession\u00e1rias por supostas falhas na presta\u00e7\u00e3o do servi\u00e7o, \u201cn\u00e3o estimula o empres\u00e1rio a investir no Estado\u201d. Ainda, por essa raz\u00e3o, o Governador amea\u00e7ou, tamb\u00e9m pela imprensa, substituir o Diretor-Presidente da ag\u00eancia antes de expirado o prazo do mandato daquele dirigente.\n\n Considerando o exposto, assinale a afirmativa correta.",
-        "number": "29",
-        "filename": "2015-17.txt"
+        "valid": true
     }
 ]

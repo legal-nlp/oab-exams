@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A",
-                "text": "cancelamento da inscri\u00e7\u00e3o como advogado."
-            },
-            {
-                "pmi": [
-                    -0.04246713201994043,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B",
-                "text": "impedimento ao exerc\u00edcio profissional, mantida a inscri\u00e7\u00e3o na OAB."
-            },
-            {
-                "pmi": [
-                    -0.15064487545697422,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C",
-                "text": "licen\u00e7a do exerc\u00edcio da atividade profissional."
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D",
-                "text": "penalidade de exclus\u00e3o por doen\u00e7a."
-            }
-        ],
-        "filename": "2012-06.txt",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Ter\u00eancio, ap\u00f3s intensa atividade advocat\u00edcia, \u00e9 acometido por mal de origem psiqui\u00e1trica, mas diagnosticado como pass\u00edvel de cura ap\u00f3s tratamento prolongado. N\u00e3o podendo exercer os atos da vida civil, apresenta requerimento \u00e0 OAB. No concernente ao tema, \u00e0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que \u00e9 caso de",
+        "filename": "2012-06.txt",
         "number": "2",
-        "valid": true,
-        "enum": "Ter\u00eancio, ap\u00f3s intensa atividade advocat\u00edcia, \u00e9 acometido por mal de origem psiqui\u00e1trica, mas diagnosticado como pass\u00edvel de cura ap\u00f3s tratamento prolongado. N\u00e3o podendo exercer os atos da vida civil, apresenta requerimento \u00e0 OAB. No concernente ao tema, \u00e0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que \u00e9 caso de"
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "cancelamento da inscri\u00e7\u00e3o como advogado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.07341676960035044,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "impedimento ao exerc\u00edcio profissional, mantida a inscri\u00e7\u00e3o na OAB."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.11009390318868024,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "licen\u00e7a do exerc\u00edcio da atividade profissional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "penalidade de exclus\u00e3o por doen\u00e7a."
+            }
+        ],
+        "valid": true
     }
 ]

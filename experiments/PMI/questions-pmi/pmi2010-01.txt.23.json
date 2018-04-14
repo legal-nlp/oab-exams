@@ -1,57 +1,57 @@
 [
     {
-        "enum": "De acordo com o que disp\u00f5e a Lei das Sociedades por A\u00e7\u00f5es, as a\u00e7\u00f5es, conforme a natureza dos direitos ou vantagens que confiram a seus titulares, podem ser ordin\u00e1rias, preferenciais ou de frui\u00e7\u00e3o. As a\u00e7\u00f5es de frui\u00e7\u00e3o",
-        "filename": "2010-01.txt",
-        "valid": true,
         "areas": [
             "BUSINESS"
         ],
+        "enum": "De acordo com o que disp\u00f5e a Lei das Sociedades por A\u00e7\u00f5es, as a\u00e7\u00f5es, conforme a natureza dos direitos ou vantagens que confiram a seus titulares, podem ser ordin\u00e1rias, preferenciais ou de frui\u00e7\u00e3o. As a\u00e7\u00f5es de frui\u00e7\u00e3o",
+        "filename": "2010-01.txt",
         "number": "23",
         "options": [
             {
+                "correct": true,
                 "letter": "A",
-                "text": "constituem t\u00edtulos que podem ser atribu\u00eddos aos acionistas ap\u00f3s suas a\u00e7\u00f5es serem integralmente amortizadas.",
                 "pmi": [
-                    -0.09053239705396424,
+                    -0.018957046053196352,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "constituem t\u00edtulos que podem ser atribu\u00eddos aos acionistas ap\u00f3s suas a\u00e7\u00f5es serem integralmente amortizadas."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "conferem aos titulares apenas os direitos comuns de acionista sem quaisquer privil\u00e9gios ou vantagens.",
                 "pmi": [
-                    -0.1371875408925477,
+                    0.07753851210975597,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "conferem aos titulares apenas os direitos comuns de acionista sem quaisquer privil\u00e9gios ou vantagens."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "conferem ao titular algum privil\u00e9gio ou vantagem de ordem patrimonial, sem que, entretanto, o acionista tenha direito de participa\u00e7\u00e3o nos lucros reais.",
                 "pmi": [
-                    -0.17365200493995075,
+                    0.09062621413980758,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "conferem ao titular algum privil\u00e9gio ou vantagem de ordem patrimonial, sem que, entretanto, o acionista tenha direito de participa\u00e7\u00e3o nos lucros reais."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "s\u00e3o tipicamente usadas por acionistas especuladores, ou por aqueles que n\u00e3o t\u00eam interesse na gest\u00e3o da sociedade.",
                 "pmi": [
-                    -0.35797112742662773,
+                    0.1328312794357806,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "s\u00e3o tipicamente usadas por acionistas especuladores, ou por aqueles que n\u00e3o t\u00eam interesse na gest\u00e3o da sociedade."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

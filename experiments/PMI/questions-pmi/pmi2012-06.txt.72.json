@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Determinada empresa encontra-se instalada em local de dif\u00edcil acesso, n\u00e3o servida por transporte p\u00fablico regular. Em raz\u00e3o disso, fornece condu\u00e7\u00e3o para o deslocamento dos seus empregados, da resid\u00eancia ao trabalho e vice-versa, mas cobra deles 50% do valor do custo do transporte. Na hip\u00f3tese, \u00e9 correto afirmar que",
-        "filename": "2012-06.txt",
-        "valid": true,
-        "number": "72",
         "areas": [
             "LABOUR"
         ],
+        "enum": "Determinada empresa encontra-se instalada em local de dif\u00edcil acesso, n\u00e3o servida por transporte p\u00fablico regular. Em raz\u00e3o disso, fornece condu\u00e7\u00e3o para o deslocamento dos seus empregados, da resid\u00eancia ao trabalho e vice-versa, mas cobra deles 50% do valor do custo do transporte. Na hip\u00f3tese, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "72",
         "options": [
             {
-                "text": "o tempo de deslocamento ser\u00e1 considerado hora in itinere.",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.7412021060421072,
+                    0.007586181350541528,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o tempo de deslocamento ser\u00e1 considerado hora in itinere."
             },
             {
-                "text": "o tempo de deslocamento n\u00e3o ser\u00e1 considerado hora in itinere porque \u00e9 custeado pelo empregado, ainda que parcialmente.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.434442477503245,
+                    0.046921421534886376,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o tempo de deslocamento n\u00e3o ser\u00e1 considerado hora in itinere porque \u00e9 custeado pelo empregado, ainda que parcialmente."
             },
             {
-                "text": "o empregado tem direito ao recebimento do vale-transporte.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.18911821455272543,
+                    0.11039710040433404,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o empregado tem direito ao recebimento do vale-transporte."
             },
             {
-                "text": "metade do tempo de deslocamento ser\u00e1 considerada hora in itinere porque \u00e9 a propor\u00e7\u00e3o da gratuidade do transporte oferecido.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.32942315824093654,
+                    0.0033716361557962348,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "metade do tempo de deslocamento ser\u00e1 considerada hora in itinere porque \u00e9 a propor\u00e7\u00e3o da gratuidade do transporte oferecido."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

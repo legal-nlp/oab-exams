@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
         "enum": "A revoga\u00e7\u00e3o da licita\u00e7\u00e3o pressup\u00f5e",
+        "filename": "2011-03.txt",
+        "number": "3",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "mero ju\u00edzo de conveni\u00eancia e oportunidade da Administra\u00e7\u00e3o, podendo se dar a qualquer tempo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "mero ju\u00edzo de conveni\u00eancia e oportunidade da Administra\u00e7\u00e3o, podendo se dar a qualquer tempo."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "mero ju\u00edzo de conveni\u00eancia e oportunidade da Administra\u00e7\u00e3o, podendo ocorrer at\u00e9 antes da assinatura do contrato.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "mero ju\u00edzo de conveni\u00eancia e oportunidade da Administra\u00e7\u00e3o, podendo ocorrer at\u00e9 antes da assinatura do contrato."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "pr\u00e9via, integral e justa indeniza\u00e7\u00e3o, podendo, por isso, se dar por qualquer motivo e a qualquer tempo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pr\u00e9via, integral e justa indeniza\u00e7\u00e3o, podendo, por isso, se dar por qualquer motivo e a qualquer tempo."
             },
             {
                 "correct": true,
                 "letter": "D",
-                "text": "raz\u00f5es de interesse p\u00fablico decorrentes de fato superveniente, devidamente comprovado, pertinente e suficiente para justificar essa conduta.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "raz\u00f5es de interesse p\u00fablico decorrentes de fato superveniente, devidamente comprovado, pertinente e suficiente para justificar essa conduta."
             }
         ],
-        "filename": "2011-03.txt",
-        "valid": true,
-        "areas": [
-            "ADMINISTRATIVE"
-        ],
-        "number": "3"
+        "valid": true
     }
 ]

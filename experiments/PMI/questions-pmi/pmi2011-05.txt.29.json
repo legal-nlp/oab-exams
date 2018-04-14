@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-05.txt",
-        "enum": "A revoga\u00e7\u00e3o representa uma das formas de extin\u00e7\u00e3o de um ato administrativo. Quanto a esse instituto, \u00e9 correto afirmar que",
-        "options": [
-            {
-                "correct": null,
-                "text": "pode se dar tanto em rela\u00e7\u00e3o a atos viciados de ilegalidade ou n\u00e3o, desde que praticados dentro de uma compet\u00eancia discricion\u00e1ria.",
-                "pmi": [
-                    -0.15737770263326756,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A"
-            },
-            {
-                "correct": null,
-                "text": "produz efeitos retroativos, retirando o ato do mundo, de forma a nunca ter existido.",
-                "pmi": [
-                    -0.16057735714516772,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B"
-            },
-            {
-                "correct": true,
-                "text": "apenas pode se dar em rela\u00e7\u00e3o aos atos v\u00e1lidos, praticados dentro de uma compet\u00eancia discricion\u00e1ria, produzindo efeitos ex nunc.",
-                "pmi": [
-                    -0.3119109644234512,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C"
-            },
-            {
-                "correct": null,
-                "text": "pode se dar em rela\u00e7\u00e3o aos atos vinculados ou discricion\u00e1rios, produzindo ora efeito ex tunc, ora efeito ex nunc.",
-                "pmi": [
-                    -0.3104887440019092,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D"
-            }
-        ],
         "areas": [
             "ADMINISTRATIVE"
         ],
-        "valid": true,
-        "number": "29"
+        "enum": "A revoga\u00e7\u00e3o representa uma das formas de extin\u00e7\u00e3o de um ato administrativo. Quanto a esse instituto, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "29",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.022886144331629363,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "pode se dar tanto em rela\u00e7\u00e3o a atos viciados de ilegalidade ou n\u00e3o, desde que praticados dentro de uma compet\u00eancia discricion\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.006065488318113232,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "produz efeitos retroativos, retirando o ato do mundo, de forma a nunca ter existido."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.04861672950634261,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "apenas pode se dar em rela\u00e7\u00e3o aos atos v\u00e1lidos, praticados dentro de uma compet\u00eancia discricion\u00e1ria, produzindo efeitos ex nunc."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.05003894992788455,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "pode se dar em rela\u00e7\u00e3o aos atos vinculados ou discricion\u00e1rios, produzindo ora efeito ex tunc, ora efeito ex nunc."
+            }
+        ],
+        "valid": true
     }
 ]

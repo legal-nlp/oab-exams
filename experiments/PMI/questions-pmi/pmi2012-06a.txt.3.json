@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "text": "a postula\u00e7\u00e3o nos Juizados Especiais.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "a consultoria e assessoria jur\u00eddicas.",
-                "pmi": [
-                    -0.019441012250236363,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "B"
-            },
-            {
-                "text": "a impetra\u00e7\u00e3o de habeas corpus.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C"
-            },
-            {
-                "text": "a divulga\u00e7\u00e3o conjunta da advocacia com outras atividades.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
-        "enum": "A empresa Consumidor Ltda., composta por contadores, despachantes, arquitetos e engenheiros, divulga, semanalmente, sua agenda de defesa judicial dos direitos dos consumidores, n\u00e3o possuindo advogados nos seus quadros. Notificada pelo \u00f3rg\u00e3o seccional da OAB, alega que as atividades de consultoria jur\u00eddica n\u00e3o seriam privativas dos advogados. Diante desse quadro, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que \u00e9 atividade privativa da advocacia",
-        "number": "3",
         "areas": [
             "ETHICS"
         ],
-        "filename": "2012-06a.txt"
+        "enum": "A empresa Consumidor Ltda., composta por contadores, despachantes, arquitetos e engenheiros, divulga, semanalmente, sua agenda de defesa judicial dos direitos dos consumidores, n\u00e3o possuindo advogados nos seus quadros. Notificada pelo \u00f3rg\u00e3o seccional da OAB, alega que as atividades de consultoria jur\u00eddica n\u00e3o seriam privativas dos advogados. Diante desse quadro, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que \u00e9 atividade privativa da advocacia",
+        "filename": "2012-06a.txt",
+        "number": "3",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a postula\u00e7\u00e3o nos Juizados Especiais."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.1559508388507444,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a consultoria e assessoria jur\u00eddicas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a impetra\u00e7\u00e3o de habeas corpus."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a divulga\u00e7\u00e3o conjunta da advocacia com outras atividades."
+            }
+        ],
+        "valid": true
     }
 ]

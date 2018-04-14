@@ -3,55 +3,55 @@
         "areas": [
             "CIVIL"
         ],
+        "enum": "Diante de chuva forte e inesperada, M\u00e1rcio constatou a inunda\u00e7\u00e3o parcial da resid\u00eancia de sua vizinha Bianca, fato este que o levou a contratar servi\u00e7os de chaveiro, bombeamento d\u2019\u00e1gua e vigil\u00e2ncia, de modo a evitar maiores preju\u00edzos materiais at\u00e9 a chegada de Bianca.\n\n Utilizando-se do quadro f\u00e1tico fornecido pelo enunciado, assinale a afirmativa correta.",
         "filename": "2013-11.txt",
         "number": "38",
         "options": [
             {
-                "text": "A falta de autoriza\u00e7\u00e3o expressa de Bianca a M\u00e1rcio para a pr\u00e1tica dos atos de preserva\u00e7\u00e3o dos bens autoriza aquela a exigir repara\u00e7\u00e3o civil deste.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "A falta de autoriza\u00e7\u00e3o expressa de Bianca a M\u00e1rcio para a pr\u00e1tica dos atos de preserva\u00e7\u00e3o dos bens autoriza aquela a exigir repara\u00e7\u00e3o civil deste."
             },
             {
-                "text": "Bianca n\u00e3o estar\u00e1 obrigada a adimplir os servi\u00e7os contratados por M\u00e1rcio, cabendo a este a quita\u00e7\u00e3o dos contratados.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.05547179781568952,
+                    -0.01968412231530558,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Bianca n\u00e3o estar\u00e1 obrigada a adimplir os servi\u00e7os contratados por M\u00e1rcio, cabendo a este a quita\u00e7\u00e3o dos contratados."
             },
             {
-                "text": "Se M\u00e1rcio se fizer substituir por terceiro at\u00e9 a chegada de Bianca, promover\u00e1 a cessa\u00e7\u00e3o de sua responsabilidade transferindo-a ao terceiro substituto.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.04026405773346257,
+                    -0.011633917333155419,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Se M\u00e1rcio se fizer substituir por terceiro at\u00e9 a chegada de Bianca, promover\u00e1 a cessa\u00e7\u00e3o de sua responsabilidade transferindo-a ao terceiro substituto."
             },
             {
-                "text": "Os atos de solidariedade e espontaneidade de M\u00e1rcio na prote\u00e7\u00e3o dos bens de Bianca s\u00e3o capazes de gerar a responsabilidade desta em reembolsar as despesas necess\u00e1rias efetivadas, acrescidas de juros legais.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.023684739843213277,
+                    -0.00684348078420907,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "Os atos de solidariedade e espontaneidade de M\u00e1rcio na prote\u00e7\u00e3o dos bens de Bianca s\u00e3o capazes de gerar a responsabilidade desta em reembolsar as despesas necess\u00e1rias efetivadas, acrescidas de juros legais."
             }
         ],
-        "valid": true,
-        "enum": "Diante de chuva forte e inesperada, M\u00e1rcio constatou a inunda\u00e7\u00e3o parcial da resid\u00eancia de sua vizinha Bianca, fato este que o levou a contratar servi\u00e7os de chaveiro, bombeamento d\u2019\u00e1gua e vigil\u00e2ncia, de modo a evitar maiores preju\u00edzos materiais at\u00e9 a chegada de Bianca.\n\n Utilizando-se do quadro f\u00e1tico fornecido pelo enunciado, assinale a afirmativa correta."
+        "valid": true
     }
 ]

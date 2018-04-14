@@ -1,55 +1,55 @@
 [
     {
-        "number": "64",
-        "filename": "2011-05.txt",
         "areas": [
             "CRIMINAL"
         ],
         "enum": "Jefferson, seguran\u00e7a da mais famosa rede de supermercados do Brasil, percebeu que Jo\u00e3o escondera em suas vestes tr\u00eas sabonetes, de valor aproximado de R$ 12,00 (doze reais). Ao tentar sair do estabelecimento, entretanto, Jo\u00e3o \u00e9 preso em flagrante delito pelo seguran\u00e7a, que chama a pol\u00edcia. A esse respeito, assinale a alternativa correta.",
+        "filename": "2011-05.txt",
+        "number": "64",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.2176075013884332,
+                    -0.0012908850305569431,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A conduta de Jo\u00e3o n\u00e3o constitui crime, uma vez que este agiu em estado de necessidade.",
-                "correct": null,
-                "letter": "A"
+                "text": "A conduta de Jo\u00e3o n\u00e3o constitui crime, uma vez que este agiu em estado de necessidade."
             },
             {
-                "pmi": [
-                    -0.1343692571125172,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A conduta de Jo\u00e3o n\u00e3o constitui crime, uma vez que o fato \u00e9 materialmente at\u00edpico.",
                 "correct": true,
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.09523789938324602,
+                    0.0046914248318318365,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A conduta de Jo\u00e3o constitui crime, uma vez que se enquadra no artigo 155 do C\u00f3digo Penal, n\u00e3o estando presente nenhuma das causas de exclus\u00e3o de ilicitude ou culpabilidade, raz\u00e3o pela qual este dever\u00e1 ser condenado.",
-                "correct": null,
-                "letter": "C"
+                "text": "A conduta de Jo\u00e3o n\u00e3o constitui crime, uma vez que o fato \u00e9 materialmente at\u00edpico."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.037137704300899396,
+                    0.0001959019511111546,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Embora sua conduta constitua crime, Jo\u00e3o dever\u00e1 ser absolvido, uma vez que a pris\u00e3o em flagrante \u00e9 nula, por ter sido realizada por um seguran\u00e7a particular.",
+                "text": "A conduta de Jo\u00e3o constitui crime, uma vez que se enquadra no artigo 155 do C\u00f3digo Penal, n\u00e3o estando presente nenhuma das causas de exclus\u00e3o de ilicitude ou culpabilidade, raz\u00e3o pela qual este dever\u00e1 ser condenado."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.01694144978856967,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Embora sua conduta constitua crime, Jo\u00e3o dever\u00e1 ser absolvido, uma vez que a pris\u00e3o em flagrante \u00e9 nula, por ter sido realizada por um seguran\u00e7a particular."
             }
         ],
         "valid": true

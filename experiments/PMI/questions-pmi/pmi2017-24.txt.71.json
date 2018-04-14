@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Jos\u00e9 trabalhou como despachante para a sociedade empres\u00e1ria Vinhos do Sul Ltda. Frequentemente ele reparava que, nas notas de despacho, constava tamb\u00e9m a raz\u00e3o social da sociedade empres\u00e1ria Vinhos e Sucos de Bento Gon\u00e7alves Ltda. Os CNPJs das sociedades empres\u00e1rias eram distintos, assim como suas respectivas personalidades jur\u00eddicas, por\u00e9m, os s\u00f3cios de ambas eram os mesmos, sendo certo que a sociedade empres\u00e1ria Vinhos e Sucos de Bento Gon\u00e7alves Ltda. era s\u00f3cia majorit\u00e1ria da sociedade empres\u00e1ria Vinhos do Sul Ltda., al\u00e9m dos s\u00f3cios pessoas f\u00edsicas.\n\n Com base no caso narrado, assinale a op\u00e7\u00e3o que apresenta a figura jur\u00eddica existente entre as sociedades empres\u00e1rias e o efeito disso perante o contrato de trabalho de Jo\u00e3o, em caso de eventual a\u00e7\u00e3o trabalhista.",
+        "filename": "2017-24.txt",
         "number": "71",
-        "valid": true,
         "options": [
             {
                 "correct": null,
-                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade solid\u00e1ria.",
                 "letter": "A",
                 "pmi": [
-                    -0.0417218574110511,
+                    0.006707235803398814,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade solid\u00e1ria."
             },
             {
                 "correct": null,
-                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade subsidi\u00e1ria.",
                 "letter": "B",
                 "pmi": [
-                    -0.059848928810307726,
+                    0.012794711011367138,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade subsidi\u00e1ria."
             },
             {
                 "correct": true,
-                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade solid\u00e1ria.",
                 "letter": "C",
                 "pmi": [
-                    -0.0651815727986437,
+                    0.02199079498736614,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade solid\u00e1ria."
             },
             {
                 "correct": null,
-                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade subsidi\u00e1ria.",
                 "letter": "D",
                 "pmi": [
-                    -0.08693405847775167,
+                    0.02929576523692813,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade subsidi\u00e1ria."
             }
         ],
-        "filename": "2017-24.txt",
-        "enum": "Jos\u00e9 trabalhou como despachante para a sociedade empres\u00e1ria Vinhos do Sul Ltda. Frequentemente ele reparava que, nas notas de despacho, constava tamb\u00e9m a raz\u00e3o social da sociedade empres\u00e1ria Vinhos e Sucos de Bento Gon\u00e7alves Ltda. Os CNPJs das sociedades empres\u00e1rias eram distintos, assim como suas respectivas personalidades jur\u00eddicas, por\u00e9m, os s\u00f3cios de ambas eram os mesmos, sendo certo que a sociedade empres\u00e1ria Vinhos e Sucos de Bento Gon\u00e7alves Ltda. era s\u00f3cia majorit\u00e1ria da sociedade empres\u00e1ria Vinhos do Sul Ltda., al\u00e9m dos s\u00f3cios pessoas f\u00edsicas.\n\n Com base no caso narrado, assinale a op\u00e7\u00e3o que apresenta a figura jur\u00eddica existente entre as sociedades empres\u00e1rias e o efeito disso perante o contrato de trabalho de Jo\u00e3o, em caso de eventual a\u00e7\u00e3o trabalhista.",
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

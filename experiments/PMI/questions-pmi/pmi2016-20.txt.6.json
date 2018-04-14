@@ -1,55 +1,55 @@
 [
     {
-        "number": "6",
-        "valid": true,
         "areas": [],
+        "enum": "Charles \u00e9 presidente de certo Conselho Seccional da OAB. N\u00e3o obstante, no curso do mandato, Charles v\u00ea-se envolvido em dificuldades no seu casamento com Emma, e decide renunciar ao mandato, para dedicar-se \u00e0s suas quest\u00f5es pessoais.\n\n Sobre o caso, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
+        "number": "6",
         "options": [
             {
                 "correct": null,
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Federal da OAB, dentre os membros do Conselho Seccional respectivo.",
+                "letter": "A",
                 "pmi": [
-                    -0.15515000537671966,
+                    0.07017980332940145,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Federal da OAB, dentre os membros do Conselho Seccional respectivo."
             },
             {
                 "correct": true,
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Seccional respectivo, dentre seus membros.",
+                "letter": "B",
                 "pmi": [
-                    -0.14097261448342643,
+                    0.09079518875715528,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Seccional respectivo, dentre seus membros."
             },
             {
                 "correct": null,
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pela Subse\u00e7\u00e3o respectiva, dentre seus membros.",
+                "letter": "C",
                 "pmi": [
-                    -0.09155307192140182,
+                    0.02433082969888905,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pela Subse\u00e7\u00e3o respectiva, dentre seus membros."
             },
             {
                 "correct": null,
-                "text": "O sucessor de Charles dever\u00e1 ser eleito por vota\u00e7\u00e3o direta dos advogados regularmente inscritos perante o Conselho Seccional respectivo.",
+                "letter": "D",
                 "pmi": [
-                    -0.034593679793417244,
+                    0.04652505134078636,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "O sucessor de Charles dever\u00e1 ser eleito por vota\u00e7\u00e3o direta dos advogados regularmente inscritos perante o Conselho Seccional respectivo."
             }
         ],
-        "enum": "Charles \u00e9 presidente de certo Conselho Seccional da OAB. N\u00e3o obstante, no curso do mandato, Charles v\u00ea-se envolvido em dificuldades no seu casamento com Emma, e decide renunciar ao mandato, para dedicar-se \u00e0s suas quest\u00f5es pessoais.\n\n Sobre o caso, assinale a afirmativa correta."
+        "valid": true
     }
 ]

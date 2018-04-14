@@ -1,29 +1,36 @@
 [
     {
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
+        "enum": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica prev\u00ea que os Estados signat\u00e1rios devem cumprir com as decis\u00f5es emanadas pela Corte Interamericana de Direitos Humanos. Uma das hip\u00f3teses de condena\u00e7\u00e3o consiste no pagamento, pelo Estado, de indeniza\u00e7\u00e3o compensat\u00f3ria \u00e0 v\u00edtima da viola\u00e7\u00e3o de direitos humanos.\n\n Assinale a afirmativa que indica o procedimento a ser adotado, caso o Estado brasileiro n\u00e3o cumpra espontaneamente a senten\u00e7a internacional que o obriga a pagar a indeniza\u00e7\u00e3o.",
+        "filename": "2012-09.txt",
+        "number": "21",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.06770940776229256,
+                    0.07201663629662274,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Como \u00e9 considerada t\u00edtulo executivo judicial, poder\u00e1 ser executada perante o Superior Tribunal de Justi\u00e7a, uma vez que goza de status internacional."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.03998808597659496,
+                    0.07386276473807678,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "Como \u00e9 considerada t\u00edtulo executivo judicial, poder\u00e1 ser executada perante a Vara Federal competente territorialmente."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -31,27 +38,20 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A Corte Interamericana, em raz\u00e3o do princ\u00edpio da soberania, obrigar\u00e1 o Estado brasileiro a cumprir a senten\u00e7a, sendo necess\u00e1ria a propositura de processo de execu\u00e7\u00e3o, aut\u00f4nomo, pela parte interessada na Corte."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.024977314345194346,
+                    0.06041082369080945,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A Corte Interamericana, em raz\u00e3o do princ\u00edpio da soberania, n\u00e3o poder\u00e1 obrigar o Brasil a cumprir a senten\u00e7a, mas o descumprimento poder\u00e1 fundamentar uma advert\u00eancia da Assembleia Geral da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas, pelo descumprimento da Conven\u00e7\u00e3o Americana de Direitos Humanos."
             }
         ],
-        "areas": [
-            "HUMAN-RIGHTS"
-        ],
-        "enum": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica prev\u00ea que os Estados signat\u00e1rios devem cumprir com as decis\u00f5es emanadas pela Corte Interamericana de Direitos Humanos. Uma das hip\u00f3teses de condena\u00e7\u00e3o consiste no pagamento, pelo Estado, de indeniza\u00e7\u00e3o compensat\u00f3ria \u00e0 v\u00edtima da viola\u00e7\u00e3o de direitos humanos.\n\n Assinale a afirmativa que indica o procedimento a ser adotado, caso o Estado brasileiro n\u00e3o cumpra espontaneamente a senten\u00e7a internacional que o obriga a pagar a indeniza\u00e7\u00e3o.",
-        "filename": "2012-09.txt",
-        "valid": true,
-        "number": "21"
+        "valid": true
     }
 ]

@@ -1,11 +1,15 @@
 [
     {
+        "areas": [],
+        "enum": "No momento em que a sociedade empres\u00e1ria estava fazendo o recolhimento do preparo relativo ao recurso de revista que iria interpor em face de um ac\u00f3rd\u00e3o, houve um lapso do departamento financeiro e o dep\u00f3sito recursal foi feito com uma diferen\u00e7a a menor, de R$ 5,00, o que somente foi verificado ap\u00f3s o t\u00e9rmino do prazo.\n\n Diante da situa\u00e7\u00e3o retratada e de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "80",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.2204646319514645,
+                    -0.01596362909212773,
                     0.0,
                     0.0,
                     0.0
@@ -16,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.10993103160627554,
+                    -0.02183829191302277,
                     0.0,
                     0.0,
                     0.0
@@ -27,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.24368459927459435,
+                    -0.028958546272290716,
                     0.0,
                     0.0,
                     0.0
@@ -38,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.1891153342920115,
+                    -0.01733449189016859,
                     0.0,
                     0.0,
                     0.0
@@ -46,10 +50,6 @@
                 "text": "N\u00e3o havendo nenhuma disciplina a respeito, caber\u00e1 a cada magistrado, valendo-se do seu poder diretivo do processo, determinar o que deve ser feito."
             }
         ],
-        "enum": "No momento em que a sociedade empres\u00e1ria estava fazendo o recolhimento do preparo relativo ao recurso de revista que iria interpor em face de um ac\u00f3rd\u00e3o, houve um lapso do departamento financeiro e o dep\u00f3sito recursal foi feito com uma diferen\u00e7a a menor, de R$ 5,00, o que somente foi verificado ap\u00f3s o t\u00e9rmino do prazo.\n\n Diante da situa\u00e7\u00e3o retratada e de acordo com o entendimento consolidado do TST, assinale a afirmativa correta.",
-        "number": "80",
-        "filename": "2015-16.txt",
-        "areas": [],
         "valid": true
     }
 ]

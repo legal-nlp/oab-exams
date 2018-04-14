@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Marcelo, renomado advogado, foi convidado para participar de mat\u00e9ria veiculada pela Internet, por meio de portal de not\u00edcias, com a finalidade de informar os leitores sobre direitos do consumidor. Ao final da mat\u00e9ria, mediante sua autoriza\u00e7\u00e3o, foi divulgado o e-mail de Marcelo, bem como o n\u00famero de telefone do seu escrit\u00f3rio.\n\n Sobre essa situa\u00e7\u00e3o, de acordo com o C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
         "areas": [
             null
         ],
+        "enum": "Marcelo, renomado advogado, foi convidado para participar de mat\u00e9ria veiculada pela Internet, por meio de portal de not\u00edcias, com a finalidade de informar os leitores sobre direitos do consumidor. Ao final da mat\u00e9ria, mediante sua autoriza\u00e7\u00e3o, foi divulgado o e-mail de Marcelo, bem como o n\u00famero de telefone do seu escrit\u00f3rio.\n\n Sobre essa situa\u00e7\u00e3o, de acordo com o C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
+        "number": "1",
         "options": [
             {
-                "text": "Marcelo n\u00e3o pode participar de mat\u00e9ria veiculada pela Internet, pois esse fato, por si s\u00f3, configura capta\u00e7\u00e3o de clientela.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "Marcelo n\u00e3o pode participar de mat\u00e9ria veiculada pela Internet, pois esse fato, por si s\u00f3, configura capta\u00e7\u00e3o de clientela."
             },
             {
-                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet, mas s\u00e3o vedadas a refer\u00eancia ao e-mail e ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet, mas s\u00e3o vedadas a refer\u00eancia ao e-mail e ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria."
             },
             {
-                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet e s\u00e3o permitidas a refer\u00eancia ao e-mail e ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet e s\u00e3o permitidas a refer\u00eancia ao e-mail e ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria."
             },
             {
-                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet, mas \u00e9 vedada a refer\u00eancia ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria, sendo permitida a refer\u00eancia ao seu e-mail.",
-                "pmi": [
-                    -0.009905160032742014,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.014249300850891813,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Marcelo pode participar de mat\u00e9ria veiculada pela Internet, mas \u00e9 vedada a refer\u00eancia ao n\u00famero de telefone do seu escrit\u00f3rio ao final da mat\u00e9ria, sendo permitida a refer\u00eancia ao seu e-mail."
             }
         ],
-        "valid": true,
-        "number": "1"
+        "valid": true
     }
 ]

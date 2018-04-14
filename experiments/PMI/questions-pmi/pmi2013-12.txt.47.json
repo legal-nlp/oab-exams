@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "number": "47",
         "areas": [
             "CONSUMER"
         ],
-        "filename": "2013-12.txt",
         "enum": "Maria e Manoel, casados, pais dos g\u00eameos Gabriel e Thiago que t\u00eam apenas tr\u00eas meses de vida, residem h\u00e1 seis meses no Condom\u00ednio Vila Feliz. O fornecimento do servi\u00e7o de energia el\u00e9trica na cidade onde moram \u00e9 prestado por um \u00fanica concession\u00e1ria, a Companhia de Eletricidade Luz S.A. H\u00e1 uma semana, o casal vem sofrendo com as cont\u00ednuas e injustificadas interrup\u00e7\u00f5es na presta\u00e7\u00e3o do servi\u00e7o pela concession\u00e1ria, o que j\u00e1 acarretou a queima do aparelho de televis\u00e3o e da geladeira, com a perda de todos os alimentos nela contidos. O casal pretende ser indenizado.\n\n Nesse caso, \u00e0 luz do princ\u00edpio da vulnerabilidade previsto no C\u00f3digo de Prote\u00e7\u00e3o e Defesa do Consumidor, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "47",
         "options": [
             {
-                "pmi": [
-                    -0.10263354133190852,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Prevalece o entendimento jurisprudencial no sentido de que a vulnerabilidade no C\u00f3digo do Consumidor \u00e9 sempre presumida, tanto para o consumidor pessoa f\u00edsica, Maria e Manoel, quanto para a pessoa jur\u00eddica, no caso, o Condom\u00ednio Vila Feliz, tendo ambos direitos b\u00e1sicos \u00e0 indeniza\u00e7\u00e3o e \u00e0 invers\u00e3o judicial autom\u00e1tica do \u00f4nus da prova.",
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.0901978685765014,
+                    0.00525836707318987,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A doutrina consumerista dominante considera a vulnerabilidade um conceito jur\u00eddico indeterminado, plurissignificativo, sendo correto afirmar que, no caso em quest\u00e3o, est\u00e1 configurada a vulnerabilidade f\u00e1tica do casal diante da concession\u00e1ria, havendo direito b\u00e1sico \u00e0 indeniza\u00e7\u00e3o pela interrup\u00e7\u00e3o imotivada do servi\u00e7o p\u00fablico essencial.",
+                "text": "Prevalece o entendimento jurisprudencial no sentido de que a vulnerabilidade no C\u00f3digo do Consumidor \u00e9 sempre presumida, tanto para o consumidor pessoa f\u00edsica, Maria e Manoel, quanto para a pessoa jur\u00eddica, no caso, o Condom\u00ednio Vila Feliz, tendo ambos direitos b\u00e1sicos \u00e0 indeniza\u00e7\u00e3o e \u00e0 invers\u00e3o judicial autom\u00e1tica do \u00f4nus da prova."
+            },
+            {
+                "correct": true,
                 "letter": "B",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.09246961705369719,
+                    0.019538345955179857,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 dominante o entendimento no sentido de que a vulnerabilidade nas rela\u00e7\u00f5es de consumo \u00e9 sin\u00f4nimo exato de hipossufici\u00eancia econ\u00f4mica do consumidor. Logo, basta ao casal Maria e Manoel demonstr\u00e1-la para receber a integral prote\u00e7\u00e3o das normas consumeristas e o consequente direito b\u00e1sico \u00e0 invers\u00e3o autom\u00e1tica do \u00f4nus da prova e a ampla indeniza\u00e7\u00e3o pelos danos sofridos.",
+                "text": "A doutrina consumerista dominante considera a vulnerabilidade um conceito jur\u00eddico indeterminado, plurissignificativo, sendo correto afirmar que, no caso em quest\u00e3o, est\u00e1 configurada a vulnerabilidade f\u00e1tica do casal diante da concession\u00e1ria, havendo direito b\u00e1sico \u00e0 indeniza\u00e7\u00e3o pela interrup\u00e7\u00e3o imotivada do servi\u00e7o p\u00fablico essencial."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.140016810061967,
+                    -0.0009249674978561146,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A vulnerabilidade nas rela\u00e7\u00f5es de consumo se divide em apenas duas esp\u00e9cies: a jur\u00eddica ou cient\u00edfica e a t\u00e9cnica. Aquela representa a falta de conhecimentos jur\u00eddicos ou outros pertinentes \u00e0 contabilidade e \u00e0 economia, e esta, \u00e0 aus\u00eancia de conhecimentos espec\u00edficos sobre o servi\u00e7o oferecido, sendo que sua verifica\u00e7\u00e3o \u00e9 requisito legal para invers\u00e3o do \u00f4nus da prova a favor do casal e do consequente direito \u00e0 indeniza\u00e7\u00e3o.",
+                "text": "\u00c9 dominante o entendimento no sentido de que a vulnerabilidade nas rela\u00e7\u00f5es de consumo \u00e9 sin\u00f4nimo exato de hipossufici\u00eancia econ\u00f4mica do consumidor. Logo, basta ao casal Maria e Manoel demonstr\u00e1-la para receber a integral prote\u00e7\u00e3o das normas consumeristas e o consequente direito b\u00e1sico \u00e0 invers\u00e3o autom\u00e1tica do \u00f4nus da prova e a ampla indeniza\u00e7\u00e3o pelos danos sofridos."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.016240436593692766,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A vulnerabilidade nas rela\u00e7\u00f5es de consumo se divide em apenas duas esp\u00e9cies: a jur\u00eddica ou cient\u00edfica e a t\u00e9cnica. Aquela representa a falta de conhecimentos jur\u00eddicos ou outros pertinentes \u00e0 contabilidade e \u00e0 economia, e esta, \u00e0 aus\u00eancia de conhecimentos espec\u00edficos sobre o servi\u00e7o oferecido, sendo que sua verifica\u00e7\u00e3o \u00e9 requisito legal para invers\u00e3o do \u00f4nus da prova a favor do casal e do consequente direito \u00e0 indeniza\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

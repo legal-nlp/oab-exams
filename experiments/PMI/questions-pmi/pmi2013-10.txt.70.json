@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "O empregado afastado por incapacidade laborativa, recebendo aux\u00edlio-doen\u00e7a previdenci\u00e1rio por trinta dias, tem garantido legalmente o direito",
         "filename": "2013-10.txt",
         "number": "70",
         "options": [
             {
-                "text": "\u00e0 estabilidade provis\u00f3ria por, no m\u00ednimo, doze meses ap\u00f3s a cessa\u00e7\u00e3o do aux\u00edlio-doen\u00e7a acident\u00e1rio.",
-                "pmi": [
-                    -0.06351831769903106,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "de exigir de seu empregador os dep\u00f3sitos do Fundo de Garantia do Tempo de Servi\u00e7o correspondentes ao per\u00edodo em que ficou afastado.",
                 "pmi": [
-                    -0.05893675459824605,
+                    0.04345143764277589,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "\u00e0 estabilidade provis\u00f3ria por, no m\u00ednimo, doze meses ap\u00f3s a cessa\u00e7\u00e3o do aux\u00edlio-doen\u00e7a acident\u00e1rio."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "de exigir de seu empregador o pagamento de complementa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio para manter o valor do sal\u00e1rio que recebia antes do afastamento previdenci\u00e1rio.",
                 "pmi": [
-                    0.0,
+                    0.015942074141018808,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "de exigir de seu empregador os dep\u00f3sitos do Fundo de Garantia do Tempo de Servi\u00e7o correspondentes ao per\u00edodo em que ficou afastado."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "de gozar f\u00e9rias de trinta dias ap\u00f3s per\u00edodo de 12 (doze) meses de vig\u00eancia do contrato de trabalho.",
                 "pmi": [
-                    -0.021855947061600153,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "de exigir de seu empregador o pagamento de complementa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio para manter o valor do sal\u00e1rio que recebia antes do afastamento previdenci\u00e1rio."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "correct": true
+                "pmi": [
+                    0.07174258886248093,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "de gozar f\u00e9rias de trinta dias ap\u00f3s per\u00edodo de 12 (doze) meses de vig\u00eancia do contrato de trabalho."
             }
-        ],
-        "enum": "O empregado afastado por incapacidade laborativa, recebendo aux\u00edlio-doen\u00e7a previdenci\u00e1rio por trinta dias, tem garantido legalmente o direito",
-        "areas": [
-            "LABOUR"
         ],
         "valid": true
     }

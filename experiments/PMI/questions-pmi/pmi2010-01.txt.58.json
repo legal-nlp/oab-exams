@@ -3,20 +3,23 @@
         "areas": [
             "TAXES"
         ],
+        "enum": "Acerca da disciplina constitucional da reparti\u00e7\u00e3o das receitas tribut\u00e1rias, assinale a op\u00e7\u00e3o correta.",
         "filename": "2010-01.txt",
+        "number": "58",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.048963098933404885,
+                    0.06165335261323641,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Ao DF cabe metade da arrecada\u00e7\u00e3o do imposto que a Uni\u00e3o instituir no exerc\u00edcio de sua compet\u00eancia residual ou extraordin\u00e1ria."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -24,34 +27,31 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Cabe aos munic\u00edpios, em qualquer hip\u00f3tese, a integralidade do imposto sobre a propriedade territorial rural."
             },
             {
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.017817639404218908,
+                    0.08358077451353561,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "Aos munic\u00edpios pertence a integralidade do produto da arrecada\u00e7\u00e3o do imposto de renda incidente na fonte sobre os rendimentos pagos, a qualquer t\u00edtulo, por eles."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.20569807100049728,
+                    0.3157794862908116,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A Uni\u00e3o deve repassar aos estados 25% do produto da arrecada\u00e7\u00e3o do IPI."
             }
         ],
-        "valid": true,
-        "enum": "Acerca da disciplina constitucional da reparti\u00e7\u00e3o das receitas tribut\u00e1rias, assinale a op\u00e7\u00e3o correta.",
-        "number": "58"
+        "valid": true
     }
 ]

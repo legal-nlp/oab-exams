@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Patr\u00edcio, ao chegar em sua resid\u00eancia, constatou o desaparecimento de um rel\u00f3gio que havia herdado de seu falecido pai. Suspeitando de um empregado que acabara de contratar para trabalhar em sua casa e que ficara sozinho por todo o dia no local, Patr\u00edcio registrou o fato na Delegacia pr\u00f3pria, apontando, de maneira precipitada, o empregado como autor da subtra\u00e7\u00e3o, sendo instaurado o respectivo inqu\u00e9rito em desfavor daquele \u201csuspeito\u201d. Ao final da investiga\u00e7\u00e3o, o inqu\u00e9rito foi arquivado a requerimento do Minist\u00e9rio P\u00fablico, ficando demonstrado que o indiciado n\u00e3o fora o autor da infra\u00e7\u00e3o.\n\n Considerando que Patr\u00edcio deu causa \u00e0 instaura\u00e7\u00e3o de inqu\u00e9rito policial em desfavor de empregado cuja inoc\u00eancia restou demonstrada, \u00e9 correto afirmar que o seu comportamento configura",
+        "filename": "2016-19.txt",
+        "number": "64",
         "options": [
             {
-                "text": "fato at\u00edpico.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "A"
+                "text": "fato at\u00edpico."
             },
             {
-                "text": "crime de denuncia\u00e7\u00e3o caluniosa dolosa.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.036068582265503524,
+                    0.005889382114256954,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "crime de denuncia\u00e7\u00e3o caluniosa dolosa."
             },
             {
-                "text": "crime de denuncia\u00e7\u00e3o caluniosa culposa.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.036068582265503524,
+                    0.005889382114256954,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "crime de denuncia\u00e7\u00e3o caluniosa culposa."
             },
             {
-                "text": "cal\u00fania.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "letter": "D"
+                "text": "cal\u00fania."
             }
         ],
-        "areas": [],
-        "number": "64",
-        "valid": true,
-        "filename": "2016-19.txt",
-        "enum": "Patr\u00edcio, ao chegar em sua resid\u00eancia, constatou o desaparecimento de um rel\u00f3gio que havia herdado de seu falecido pai. Suspeitando de um empregado que acabara de contratar para trabalhar em sua casa e que ficara sozinho por todo o dia no local, Patr\u00edcio registrou o fato na Delegacia pr\u00f3pria, apontando, de maneira precipitada, o empregado como autor da subtra\u00e7\u00e3o, sendo instaurado o respectivo inqu\u00e9rito em desfavor daquele \u201csuspeito\u201d. Ao final da investiga\u00e7\u00e3o, o inqu\u00e9rito foi arquivado a requerimento do Minist\u00e9rio P\u00fablico, ficando demonstrado que o indiciado n\u00e3o fora o autor da infra\u00e7\u00e3o.\n\n Considerando que Patr\u00edcio deu causa \u00e0 instaura\u00e7\u00e3o de inqu\u00e9rito policial em desfavor de empregado cuja inoc\u00eancia restou demonstrada, \u00e9 correto afirmar que o seu comportamento configura"
+        "valid": true
     }
 ]

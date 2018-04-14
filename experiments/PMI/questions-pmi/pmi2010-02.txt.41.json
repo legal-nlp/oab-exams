@@ -1,14 +1,17 @@
 [
     {
-        "filename": "2010-02.txt",
+        "areas": [
+            "LABOUR"
+        ],
         "enum": "A respeito do regime de compensa\u00e7\u00e3o de jornada do banco de horas, assinale a alternativa correta.",
+        "filename": "2010-02.txt",
         "number": "41",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.07966436965947297,
+                    0.030952081887168314,
                     0.0,
                     0.0,
                     0.0
@@ -19,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.06544088737842661,
+                    0.10838496505200967,
                     0.0,
                     0.0,
                     0.0
@@ -48,9 +51,6 @@
                 ],
                 "text": "O excesso de jornada a ser compensada n\u00e3o pode exceder, no prazo legal m\u00e1ximo de um semestre, a soma das jornadas semanais previstas para o per\u00edodo."
             }
-        ],
-        "areas": [
-            "LABOUR"
         ],
         "valid": true
     }

@@ -1,55 +1,55 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.05648851682848165,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A elei\u00e7\u00e3o de Conselheiro Federal da OAB \u00e9 indireta e secreta.",
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.04236638762136123,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O Conselheiro Federal da OAB integra uma das chapas concorrentes para as elei\u00e7\u00f5es seccionais.",
-                "correct": true
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.05648851682848165,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A indica\u00e7\u00e3o para o Conselho Federal \u00e9 realizada pelo Col\u00e9gio de Presidentes da OAB.",
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.11693137844825789,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O Conselheiro Federal \u00e9 indicado livremente pelas Seccionais da OAB.",
-                "correct": null
-            }
-        ],
-        "valid": true,
+        "areas": [],
+        "enum": "Messias \u00e9 advogado com mais de trinta anos de atua\u00e7\u00e3o profissional e deseja colaborar para o aperfei\u00e7oamento da advocacia. O Presidente da Seccional onde possui inscri\u00e7\u00e3o principal sugere que ele participe da pol\u00edtica associativa e lance sua candidatura a Conselheiro Federal.\n\n Observadas as regras do Estatuto da OAB, assinale a afirmativa correta.",
         "filename": "2014-15.txt",
         "number": "5",
-        "areas": [],
-        "enum": "Messias \u00e9 advogado com mais de trinta anos de atua\u00e7\u00e3o profissional e deseja colaborar para o aperfei\u00e7oamento da advocacia. O Presidente da Seccional onde possui inscri\u00e7\u00e3o principal sugere que ele participe da pol\u00edtica associativa e lance sua candidatura a Conselheiro Federal.\n\n Observadas as regras do Estatuto da OAB, assinale a afirmativa correta."
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.0005445643221343336,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A elei\u00e7\u00e3o de Conselheiro Federal da OAB \u00e9 indireta e secreta."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.00040842324160075025,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Conselheiro Federal da OAB integra uma das chapas concorrentes para as elei\u00e7\u00f5es seccionais."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.0005445643221343336,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A indica\u00e7\u00e3o para o Conselho Federal \u00e9 realizada pelo Col\u00e9gio de Presidentes da OAB."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.050900479070784044,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Conselheiro Federal \u00e9 indicado livremente pelas Seccionais da OAB."
+            }
+        ],
+        "valid": true
     }
 ]

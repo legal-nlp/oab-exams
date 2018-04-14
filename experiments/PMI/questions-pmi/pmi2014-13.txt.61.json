@@ -1,15 +1,13 @@
 [
     {
-        "enum": "Jaime, objetivando proteger sua resid\u00eancia, instala uma cerca el\u00e9trica no muro. Certo dia, Cl\u00e1udio, com o intuito de furtar a casa de Jaime, resolve pular o referido muro, acreditando que conseguiria escapar da cerca el\u00e9trica ali instalada e bem vis\u00edvel para qualquer pessoa. Cl\u00e1udio, entretanto, n\u00e3o obt\u00e9m sucesso e acaba levando um choque, inerente \u00e0 atua\u00e7\u00e3o do mecanismo de prote\u00e7\u00e3o. Ocorre que, por sofrer de doen\u00e7a cardiovascular, o referido ladr\u00e3o falece quase instantaneamente. Ap\u00f3s a an\u00e1lise pericial, ficou constatado que a descarga el\u00e9trica n\u00e3o era suficiente para matar uma pessoa em condi\u00e7\u00f5es normais de sa\u00fade, mas suficiente para provocar o \u00f3bito de Cl\u00e1udio, em virtude de sua cardiopatia.\n\n Nessa hip\u00f3tese \u00e9 correto afirmar que",
         "areas": [
             "CRIMINAL"
         ],
+        "enum": "Jaime, objetivando proteger sua resid\u00eancia, instala uma cerca el\u00e9trica no muro. Certo dia, Cl\u00e1udio, com o intuito de furtar a casa de Jaime, resolve pular o referido muro, acreditando que conseguiria escapar da cerca el\u00e9trica ali instalada e bem vis\u00edvel para qualquer pessoa. Cl\u00e1udio, entretanto, n\u00e3o obt\u00e9m sucesso e acaba levando um choque, inerente \u00e0 atua\u00e7\u00e3o do mecanismo de prote\u00e7\u00e3o. Ocorre que, por sofrer de doen\u00e7a cardiovascular, o referido ladr\u00e3o falece quase instantaneamente. Ap\u00f3s a an\u00e1lise pericial, ficou constatado que a descarga el\u00e9trica n\u00e3o era suficiente para matar uma pessoa em condi\u00e7\u00f5es normais de sa\u00fade, mas suficiente para provocar o \u00f3bito de Cl\u00e1udio, em virtude de sua cardiopatia.\n\n Nessa hip\u00f3tese \u00e9 correto afirmar que",
         "filename": "2014-13.txt",
         "number": "61",
-        "valid": true,
         "options": [
             {
-                "text": "Jaime deve responder por homic\u00eddio culposo, na modalidade culpa consciente.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
@@ -17,10 +15,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Jaime deve responder por homic\u00eddio culposo, na modalidade culpa consciente."
             },
             {
-                "text": "Jaime deve responder por homic\u00eddio doloso, na modalidade dolo eventual.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
@@ -28,10 +26,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Jaime deve responder por homic\u00eddio doloso, na modalidade dolo eventual."
             },
             {
-                "text": "Pode ser aplicado \u00e0 hip\u00f3tese o instituto do resultado diverso do pretendido.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
@@ -39,19 +37,21 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pode ser aplicado \u00e0 hip\u00f3tese o instituto do resultado diverso do pretendido."
             },
             {
-                "text": "Pode ser aplicado \u00e0 hip\u00f3tese o instituto da leg\u00edtima defesa preordenada.",
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.012602211916561624,
+                    0.011612334690663334,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pode ser aplicado \u00e0 hip\u00f3tese o instituto da leg\u00edtima defesa preordenada."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

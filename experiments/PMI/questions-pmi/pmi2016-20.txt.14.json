@@ -1,13 +1,15 @@
 [
     {
         "areas": [],
-        "valid": true,
+        "enum": "Jovem governador do Estado Alfa, vencedor das elei\u00e7\u00f5es com o slogan \u201cA vez dos jovens\u201d, prop\u00f5e projeto de emenda \u00e0 constitui\u00e7\u00e3o do Estado a fim de alterar os requisitos para escolha de conselheiros no Tribunal de Contas do Estado. A idade m\u00ednima, que antes seguia o padr\u00e3o constitucional federal, sendo fixada em  35 anos, passaria a ser de 30 anos. Segundo a ordem jur\u00eddico-constitucional brasileira, tal norma deveria ser considerada",
+        "filename": "2016-20.txt",
+        "number": "14",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.07465558596386578,
+                    0.0294540154917966,
                     0.0,
                     0.0,
                     0.0
@@ -15,10 +17,10 @@
                 "text": "inconstitucional, pois o padr\u00e3o estabelecido pela CRFB/88, para o caso, configura t\u00edpica cl\u00e1usula de imposi\u00e7\u00e3o de simetria."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.1694673180888888,
+                    0.05957380511356845,
                     0.0,
                     0.0,
                     0.0
@@ -26,10 +28,10 @@
                 "text": "constitucional, pois a organiza\u00e7\u00e3o dos Tribunais de Contas estaduais est\u00e1 exclusivamente submetida ao poder constituinte derivado decorrente."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.2103045216427929,
+                    0.049969481996363044,
                     0.0,
                     0.0,
                     0.0
@@ -37,10 +39,10 @@
                 "text": "constitucional, pois est\u00e1 baseada na autonomia dos Estados-Membros, princ\u00edpio basilar e inflex\u00edvel que sustenta o Pacto Federativo."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.20109980159101556,
+                    0.12098927791243988,
                     0.0,
                     0.0,
                     0.0
@@ -48,8 +50,6 @@
                 "text": "inconstitucional, pois a estrutura do Poder Judici\u00e1rio somente pode ser disciplinada pela Constitui\u00e7\u00e3o da Rep\u00fablica, n\u00e3o pela Constitui\u00e7\u00e3o Estadual."
             }
         ],
-        "filename": "2016-20.txt",
-        "number": "14",
-        "enum": "Jovem governador do Estado Alfa, vencedor das elei\u00e7\u00f5es com o slogan \u201cA vez dos jovens\u201d, prop\u00f5e projeto de emenda \u00e0 constitui\u00e7\u00e3o do Estado a fim de alterar os requisitos para escolha de conselheiros no Tribunal de Contas do Estado. A idade m\u00ednima, que antes seguia o padr\u00e3o constitucional federal, sendo fixada em  35 anos, passaria a ser de 30 anos. Segundo a ordem jur\u00eddico-constitucional brasileira, tal norma deveria ser considerada"
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O habeas data n\u00e3o pode ser impetrado em favor de terceiro PORQUE visa tutelar direito \u00e0 informa\u00e7\u00e3o relativa \u00e0 pessoa do impetrante.\n\n A respeito do enunciado acima \u00e9 correto afirmar que",
         "filename": "2011-05.txt",
-        "valid": true,
+        "number": "24",
         "options": [
             {
-                "text": "ambas as afirmativas s\u00e3o verdadeiras, e a primeira justifica a segunda.",
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ambas as afirmativas s\u00e3o verdadeiras, e a primeira justifica a segunda."
             },
             {
-                "text": "a primeira afirmativa \u00e9 verdadeira, e a segunda \u00e9 falsa.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a primeira afirmativa \u00e9 verdadeira, e a segunda \u00e9 falsa."
             },
             {
-                "text": "a primeira afirmativa \u00e9 falsa, e a segunda \u00e9 verdadeira.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a primeira afirmativa \u00e9 falsa, e a segunda \u00e9 verdadeira."
             },
             {
-                "text": "ambas as afirmativas s\u00e3o falsas.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "ambas as afirmativas s\u00e3o falsas."
             }
         ],
-        "enum": "O habeas data n\u00e3o pode ser impetrado em favor de terceiro PORQUE visa tutelar direito \u00e0 informa\u00e7\u00e3o relativa \u00e0 pessoa do impetrante.\n\n A respeito do enunciado acima \u00e9 correto afirmar que",
-        "number": "24",
-        "areas": [
-            "CONSTITUTIONAL"
-        ]
+        "valid": true
     }
 ]

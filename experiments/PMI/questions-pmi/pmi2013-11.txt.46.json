@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2013-11.txt",
         "areas": [
             "CONSUMER"
         ],
+        "enum": "O Mercado A comercializa o produto desinfetante W, fabricado por \u201cW.Industrial\u201d. O propriet\u00e1rio do Mercado B, que adquiriu tal produto para uso na higieniza\u00e7\u00e3o das partes comuns das suas instala\u00e7\u00e3oes, verifica que o volume contido no frasco est\u00e1 em desacordo com as informa\u00e7\u00f5es do r\u00f3tulo do produto. Em raz\u00e3o disso, o Mercado B prop\u00f5e a\u00e7\u00e3o judicial em face do Mercado A, invocando a Lei n. 8.078/90 (CDC), arguindo v\u00edcios decorrentes de tal disparidade. O Mercado A, em defesa, apontou que se tratava de responsabilidade do fabricante e requereu a extin\u00e7\u00e3o do processo.\n\n A respeito do caso sugerido, assinale a alternativa correta.",
+        "filename": "2013-11.txt",
+        "number": "46",
         "options": [
             {
-                "pmi": [
-                    -0.02468226492460643,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "O processo merece ser extinto por ilegitimidade passiva.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.10257704156864446,
+                    0.007233301423276954,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O processo merece ser extinto por ilegitimidade passiva."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "O caso versa sobre fato do produto, logo a responsabilidade do r\u00e9u \u00e9 subsidi\u00e1ria.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.12162823308633554,
+                    0.034203957065141476,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O caso versa sobre fato do produto, logo a responsabilidade do r\u00e9u \u00e9 subsidi\u00e1ria."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "text": "O processo deve ser extinto, pois o autor n\u00e3o se enquadra na condi\u00e7\u00e3o de consumidor.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.08755028166831881,
+                    0.06454590394298422,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O processo deve ser extinto, pois o autor n\u00e3o se enquadra na condi\u00e7\u00e3o de consumidor."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "text": "Trata-se de v\u00edcio do produto, logo o r\u00e9u e o fabricante s\u00e3o solidariamente respons\u00e1veis.",
-                "correct": true
+                "pmi": [
+                    0.003637050754205157,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se de v\u00edcio do produto, logo o r\u00e9u e o fabricante s\u00e3o solidariamente respons\u00e1veis."
             }
         ],
-        "valid": true,
-        "number": "46",
-        "enum": "O Mercado A comercializa o produto desinfetante W, fabricado por \u201cW.Industrial\u201d. O propriet\u00e1rio do Mercado B, que adquiriu tal produto para uso na higieniza\u00e7\u00e3o das partes comuns das suas instala\u00e7\u00e3oes, verifica que o volume contido no frasco est\u00e1 em desacordo com as informa\u00e7\u00f5es do r\u00f3tulo do produto. Em raz\u00e3o disso, o Mercado B prop\u00f5e a\u00e7\u00e3o judicial em face do Mercado A, invocando a Lei n. 8.078/90 (CDC), arguindo v\u00edcios decorrentes de tal disparidade. O Mercado A, em defesa, apontou que se tratava de responsabilidade do fabricante e requereu a extin\u00e7\u00e3o do processo.\n\n A respeito do caso sugerido, assinale a alternativa correta."
+        "valid": true
     }
 ]

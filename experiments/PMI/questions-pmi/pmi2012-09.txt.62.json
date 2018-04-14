@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Jos\u00e9 subtrai o carro de um jovem que lhe era totalmente desconhecido, chamado Jo\u00e3o. Tal subtra\u00e7\u00e3o deu-se mediante o emprego de grave amea\u00e7a exercida pela utiliza\u00e7\u00e3o de arma de fogo. Jo\u00e3o, entretanto, rapaz jovem e de boa sa\u00fade, sem qualquer hist\u00f3rico de doen\u00e7a cardiovascular, assusta-se de tal forma com a arma, que vem a \u00f3bito em virtude de ataque card\u00edaco.\n\n Com base no cen\u00e1rio acima, assinale a afirmativa correta.",
         "areas": [
             "CRIMINAL"
         ],
-        "options": [
-            {
-                "letter": "A",
-                "correct": null,
-                "text": "Jos\u00e9 responde por latroc\u00ednio.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": true,
-                "text": "Jos\u00e9 n\u00e3o responde pela morte de Jo\u00e3o.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "Jos\u00e9 responde em concurso material pelos crimes de roubo e de homic\u00eddio culposo.",
-                "pmi": [
-                    -0.004582720665282876,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": null,
-                "text": "Jos\u00e9 praticou crime preterdoloso.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
+        "enum": "Jos\u00e9 subtrai o carro de um jovem que lhe era totalmente desconhecido, chamado Jo\u00e3o. Tal subtra\u00e7\u00e3o deu-se mediante o emprego de grave amea\u00e7a exercida pela utiliza\u00e7\u00e3o de arma de fogo. Jo\u00e3o, entretanto, rapaz jovem e de boa sa\u00fade, sem qualquer hist\u00f3rico de doen\u00e7a cardiovascular, assusta-se de tal forma com a arma, que vem a \u00f3bito em virtude de ataque card\u00edaco.\n\n Com base no cen\u00e1rio acima, assinale a afirmativa correta.",
         "filename": "2012-09.txt",
         "number": "62",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jos\u00e9 responde por latroc\u00ednio."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jos\u00e9 n\u00e3o responde pela morte de Jo\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.028303251416151025,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jos\u00e9 responde em concurso material pelos crimes de roubo e de homic\u00eddio culposo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Jos\u00e9 praticou crime preterdoloso."
+            }
+        ],
         "valid": true
     }
 ]

@@ -4,54 +4,54 @@
             "CIVIL"
         ],
         "enum": "Suponha que tenha sido publicada no Di\u00e1rio Oficial da Uni\u00e3o, do dia 26 de abril de 2011 (ter\u00e7a-feira), uma lei federal, com o seguinte teor:\n\n \u201cLei GTI, de 25 de abril de 2011.\n\n Define o alcance dos direitos da personalidade previstos no C\u00f3digo Civil.\n\n O Presidente da Rep\u00fablica\n\n Fa\u00e7o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:\n\n Art. 1\u00ba: Os direitos da personalidade previstos no C\u00f3digo Civil aplic\u00e1veis aos nascituros s\u00e3o estendidos aos embri\u00f5es laboratoriais (in vitro), ainda n\u00e3o implantados no corpo humano.\n\n Art. 2\u00ba: Esta lei entra em vigor no prazo de 45 dias. Bras\u00edlia, 25 de abril 2011, 190\u00ba da Independ\u00eancia da Rep\u00fablica e 123\u00ba da Rep\u00fablica.\u201d\n\n Ante a situa\u00e7\u00e3o hipot\u00e9tica descrita e considerando as regras sobre a forma de contagem do per\u00edodo de vac\u00e2ncia e a data em que a lei entrar\u00e1 em vigor, \u00e9 correto afirmar que a contagem do prazo para entrada em vigor de lei que contenha per\u00edodo de vac\u00e2ncia se d\u00e1",
+        "filename": "2011-04.txt",
         "number": "39",
-        "valid": true,
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o da lei e a inclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, que na situa\u00e7\u00e3o descrita ser\u00e1 o dia 13/06/2011.",
                 "pmi": [
-                    -0.1434663861056786,
-                    0.0021058381816235466,
+                    0.07476063515209741,
+                    0.009237155204410676,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o da lei e a inclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, que na situa\u00e7\u00e3o descrita ser\u00e1 o dia 13/06/2011."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, passando a vigorar no dia 10/06/2011.",
                 "pmi": [
-                    -0.08986149583682944,
-                    0.0024298132864887076,
+                    0.08396435659360688,
+                    0.010658256005089241,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, passando a vigorar no dia 10/06/2011."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e exclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia 09/06/2011.",
                 "pmi": [
-                    -0.08965353675839866,
-                    0.003509730302705911,
+                    0.0902184322783137,
+                    0.015395258674017793,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e exclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia 09/06/2011."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia 11/06/2011.",
                 "pmi": [
-                    -0.12507605872817684,
-                    0.0039484465905441505,
+                    0.12180703602809496,
+                    0.017319666008270018,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia 11/06/2011."
             }
         ],
-        "filename": "2011-04.txt"
+        "valid": true
     }
 ]

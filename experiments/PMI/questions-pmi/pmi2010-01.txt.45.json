@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "text": "n\u00e3o pode ser ajuizada por terceiro, ainda que juridicamente interessado.",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "A"
-            },
-            {
-                "text": "ser\u00e1 admitida no \u00e2mbito dos juizados especiais c\u00edveis quando houver senten\u00e7a transitada em julgado.",
-                "correct": null,
-                "pmi": [
-                    -0.9027831327866086,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "B"
-            },
-            {
-                "text": "dever\u00e1 ser ajuizada at\u00e9 dois anos ap\u00f3s o tr\u00e2nsito em julgado da \u00faltima decis\u00e3o, sob pena de prescri\u00e7\u00e3o.",
-                "correct": null,
-                "pmi": [
-                    -1.891990697132991,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "C"
-            },
-            {
-                "text": "\u00e9 admitida ainda que n\u00e3o se tenham esgotado todos os recursos contra a senten\u00e7a transitada em julgado.",
-                "correct": true,
-                "pmi": [
-                    -1.350962746050677,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "D"
-            }
-        ],
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "A a\u00e7\u00e3o rescis\u00f3ria",
-        "number": "45",
         "filename": "2010-01.txt",
+        "number": "45",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "n\u00e3o pode ser ajuizada por terceiro, ainda que juridicamente interessado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.9223883177329725,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "ser\u00e1 admitida no \u00e2mbito dos juizados especiais c\u00edveis quando houver senten\u00e7a transitada em julgado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.88922294175399,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "dever\u00e1 ser ajuizada at\u00e9 dois anos ap\u00f3s o tr\u00e2nsito em julgado da \u00faltima decis\u00e3o, sob pena de prescri\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    1.082599187975431,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "\u00e9 admitida ainda que n\u00e3o se tenham esgotado todos os recursos contra a senten\u00e7a transitada em julgado."
+            }
+        ],
         "valid": true
     }
 ]

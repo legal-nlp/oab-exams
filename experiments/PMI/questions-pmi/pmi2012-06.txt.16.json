@@ -1,26 +1,24 @@
 [
     {
-        "filename": "2012-06.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "valid": true,
-        "number": "16",
         "enum": "A respeito dos Procuradores-Gerais de Justi\u00e7a nos Estados e no Distrito Federal, \u00e9 INCORRETO afirmar que",
+        "filename": "2012-06.txt",
+        "number": "16",
         "options": [
             {
-                "text": "podem ser destitu\u00eddos pela Assembleia Legislativa (nos Estados) e pela C\u00e2mara Legislativa (no Distrito Federal).",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.6974048393955954,
-                    -0.036577911099310696,
+                    0.384178242393786,
+                    0.13724794133112558,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "podem ser destitu\u00eddos pela Assembleia Legislativa (nos Estados) e pela C\u00e2mara Legislativa (no Distrito Federal)."
             },
             {
-                "text": "podem ser reconduzidos somente uma vez.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
@@ -28,30 +26,32 @@
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "podem ser reconduzidos somente uma vez."
             },
             {
-                "text": "devem ser integrantes da carreira e exercem o cargo por mandato de dois anos.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.8099201814316236,
+                    0.05534628399988137,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "devem ser integrantes da carreira e exercem o cargo por mandato de dois anos."
             },
             {
-                "text": "s\u00e3o nomeados pelo Governador (nos Estados) e pelo Presidente da Rep\u00fablica (no Distrito Federal).",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.8701989809691891,
-                    -0.04267422961586248,
+                    0.5204078384743012,
+                    0.16012259821964653,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "s\u00e3o nomeados pelo Governador (nos Estados) e pelo Presidente da Rep\u00fablica (no Distrito Federal)."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

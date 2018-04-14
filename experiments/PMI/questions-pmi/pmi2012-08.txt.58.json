@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2012-08.txt",
-        "number": "58",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "O sistema processual p\u00e1trio estabelece duas esp\u00e9cies de incompet\u00eancia: a incompet\u00eancia absoluta e a incompet\u00eancia relativa.\n\n Acerca do tema, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "58",
         "options": [
             {
-                "text": "Os crit\u00e9rios absolutos de fixa\u00e7\u00e3o de compet\u00eancia s\u00e3o previstos em lei com a finalidade de promover a prote\u00e7\u00e3o, precipuamente, de interesses privados.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "Os crit\u00e9rios absolutos de fixa\u00e7\u00e3o de compet\u00eancia s\u00e3o previstos em lei com a finalidade de promover a prote\u00e7\u00e3o, precipuamente, de interesses privados."
             },
             {
-                "text": "Em lit\u00edgios que envolvam nuncia\u00e7\u00e3o de obra nova, \u00e9 defeso ao autor optar por fazer o ajuizamento da a\u00e7\u00e3o no foro de domic\u00edlio do r\u00e9u ou no foro de elei\u00e7\u00e3o.",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Em lit\u00edgios que envolvam nuncia\u00e7\u00e3o de obra nova, \u00e9 defeso ao autor optar por fazer o ajuizamento da a\u00e7\u00e3o no foro de domic\u00edlio do r\u00e9u ou no foro de elei\u00e7\u00e3o."
             },
             {
-                "text": "Em demanda proposta perante ju\u00edzo absolutamente incompetente, pode haver prorroga\u00e7\u00e3o da compet\u00eancia do ju\u00edzo, caso deixe o r\u00e9u de apresentar, no momento processual oportuno, a exce\u00e7\u00e3o de incompet\u00eancia.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Em demanda proposta perante ju\u00edzo absolutamente incompetente, pode haver prorroga\u00e7\u00e3o da compet\u00eancia do ju\u00edzo, caso deixe o r\u00e9u de apresentar, no momento processual oportuno, a exce\u00e7\u00e3o de incompet\u00eancia."
             },
             {
-                "text": "A incompet\u00eancia relativa ocorre, por exemplo, quando o crit\u00e9rio de fixa\u00e7\u00e3o de compet\u00eancia em raz\u00e3o do valor da causa \u00e9 desrespeitado, hip\u00f3tese em que tanto as partes quanto o magistrado, de of\u00edcio, poder\u00e3o suscitar a incompet\u00eancia do ju\u00edzo.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "A incompet\u00eancia relativa ocorre, por exemplo, quando o crit\u00e9rio de fixa\u00e7\u00e3o de compet\u00eancia em raz\u00e3o do valor da causa \u00e9 desrespeitado, hip\u00f3tese em que tanto as partes quanto o magistrado, de of\u00edcio, poder\u00e3o suscitar a incompet\u00eancia do ju\u00edzo."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

@@ -1,13 +1,17 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
         "enum": "Por meio de uma promessa de compra e venda, celebrada por instrumento particular registrada no cart\u00f3rio de Registro de Im\u00f3veis e na qual n\u00e3o se pactuou arrependimento, Juvenal foi residir no im\u00f3vel objeto do contrato e, quando quitou o pagamento, deparou-se com a recusa do promitente-vendedor em outorgar-lhe a escritura definitiva do im\u00f3vel. Diante do impasse, Juvenal poder\u00e1",
-        "valid": true,
+        "filename": "2010-02.txt",
+        "number": "28",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    0.00984773029007161,
+                    0.06579168279641892,
                     0.0,
                     0.0,
                     0.0
@@ -15,8 +19,8 @@
                 "text": "requerer ao juiz a adjudica\u00e7\u00e3o do im\u00f3vel, a despeito de a promessa de compra e venda ter sido celebrada por instrumento particular."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
@@ -26,10 +30,10 @@
                 "text": "usucapir o im\u00f3vel, j\u00e1 que n\u00e3o faria jus \u00e0 adjudica\u00e7\u00e3o compuls\u00f3ria na hip\u00f3tese."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.5629965030675727,
+                    -0.0595009305104469,
                     0.0,
                     0.0,
                     0.0
@@ -37,10 +41,10 @@
                 "text": "desisti r do neg\u00f3cio e pedir o dinheiro de volta."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    0.0017321035204663916,
+                    0.032246986705746744,
                     0.0,
                     0.0,
                     0.0
@@ -48,10 +52,6 @@
                 "text": "exigir a substitui\u00e7\u00e3o do im\u00f3vel prometi do \u00e0 venda por outro, muito embora inexistisse previs\u00e3o expressa a esse respeito no contrato preliminar."
             }
         ],
-        "filename": "2010-02.txt",
-        "areas": [
-            "CIVIL"
-        ],
-        "number": "28"
+        "valid": true
     }
 ]

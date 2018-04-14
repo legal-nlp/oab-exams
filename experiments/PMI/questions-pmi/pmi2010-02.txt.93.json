@@ -3,55 +3,55 @@
         "areas": [
             "INTERNATIONAL"
         ],
-        "number": "93",
-        "valid": true,
         "enum": "Jogador de futebol de um importante time espanhol e titular da sele\u00e7\u00e3o brasileira \u00e9 filmado por um celular em uma casa noturna na Espanha, em avan\u00e7ado estado de embriaguez. O v\u00eddeo \u00e9 veiculado na internet e tem grande repercuss\u00e3o no Brasil. Temeroso de ser cortado da sele\u00e7\u00e3o brasileira, o jogador aju\u00edza uma a\u00e7\u00e3o no Brasil contra o portal de v\u00eddeos, cuja sede \u00e9 na Calif\u00f3rnia, Estados Unidos. O juiz brasileiro",
         "filename": "2010-02.txt",
+        "number": "93",
         "options": [
             {
-                "text": "n\u00e3o \u00e9 competente, porque o r\u00e9u \u00e9 pessoa jur\u00eddica estrangeira.",
-                "pmi": [
-                    -0.20294332876376295,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "ter\u00e1 compet\u00eancia porque os danos \u00e0 imagem ocorreram no Brasil.",
                 "pmi": [
-                    -0.16231924490092592,
+                    0.12153159577305148,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "n\u00e3o \u00e9 competente, porque o r\u00e9u \u00e9 pessoa jur\u00eddica estrangeira."
+            },
+            {
+                "correct": true,
                 "letter": "B",
-                "correct": true
-            },
-            {
-                "text": "dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a norte-americana.",
                 "pmi": [
-                    -0.12192620829350365,
+                    -8.178263251868002e-05,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "ter\u00e1 compet\u00eancia porque os danos \u00e0 imagem ocorreram no Brasil."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "ter\u00e1 compet\u00eancia porque o autor tem nacionalidade brasileira.",
                 "pmi": [
-                    -0.19220066458891638,
+                    -0.0060423066732128005,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a norte-americana."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.010596163246592643,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ter\u00e1 compet\u00eancia porque o autor tem nacionalidade brasileira."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

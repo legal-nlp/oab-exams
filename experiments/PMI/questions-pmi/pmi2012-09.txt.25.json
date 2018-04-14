@@ -3,55 +3,55 @@
         "areas": [
             "TAXES"
         ],
-        "valid": true,
+        "enum": "Acerca do Imposto sobre Produtos Industrializados, de compet\u00eancia da Uni\u00e3o, assinale a afirmativa que contempla duas de suas caracter\u00edsticas.",
         "filename": "2012-09.txt",
         "number": "25",
-        "enum": "Acerca do Imposto sobre Produtos Industrializados, de compet\u00eancia da Uni\u00e3o, assinale a afirmativa que contempla duas de suas caracter\u00edsticas.",
         "options": [
             {
-                "text": "\u00c9 imposto ordin\u00e1rio e caracterizado pela seletividade.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "\u00c9 imposto ordin\u00e1rio e caracterizado pela seletividade."
             },
             {
-                "text": "\u00c9 imposto real e caracterizado por ser direto.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "\u00c9 imposto real e caracterizado por ser direto."
             },
             {
-                "text": "\u00c9 imposto monof\u00e1sico e qualificado como indireto.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "\u00c9 imposto monof\u00e1sico e qualificado como indireto."
             },
             {
-                "text": "\u00c9 imposto interno e lan\u00e7ado por declara\u00e7\u00e3o.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "\u00c9 imposto interno e lan\u00e7ado por declara\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

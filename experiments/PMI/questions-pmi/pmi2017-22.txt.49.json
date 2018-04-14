@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ],
         "enum": "Matheus, empres\u00e1rio individual, pretende alugar um im\u00f3vel para instalar seu estabelecimento e nele localizar seu ponto empresarial. Antes de celebrar o contrato, ele procura voc\u00ea para, como advogado(a), informar-lhe sobre aspectos concernentes \u00e0 loca\u00e7\u00e3o n\u00e3o residencial.  Sobre a loca\u00e7\u00e3o n\u00e3o residencial, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
         "number": "49",
-        "valid": true,
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "Na a\u00e7\u00e3o de despejo que tiver por fundamento exclusivo o t\u00e9rmino do prazo contratual, tendo sido proposta a a\u00e7\u00e3o em at\u00e9 30 dias do cumprimento de notifica\u00e7\u00e3o ao locat\u00e1rio comunicando o intento de retomada, ser\u00e1 concedida liminar para desocupa\u00e7\u00e3o em quinze dias, ouvida a parte contr\u00e1ria e se prestada cau\u00e7\u00e3o pelo autor no valor equivalente a dois meses de aluguel."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.010206868853048646,
+                    0.022240623600632795,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": true,
                 "text": "Na loca\u00e7\u00e3o n\u00e3o residencial de im\u00f3vel urbano, na qual o locador procede \u00e0 pr\u00e9via aquisi\u00e7\u00e3o do im\u00f3vel especificado pelo pretendente \u00e0 loca\u00e7\u00e3o, a fim de que seja a este locado por prazo determinado, poder\u00e1 ser convencionado no contrato a ren\u00fancia ao direito de revis\u00e3o do valor dos alugu\u00e9is durante o prazo de vig\u00eancia do contrato."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "Nas loca\u00e7\u00f5es de espa\u00e7o em shopping centers, o locador poder\u00e1 recusar a renova\u00e7\u00e3o do contrato pleiteada pelo locat\u00e1rio se o im\u00f3vel vier a ser utilizado pelo locador, que n\u00e3o poder\u00e1 ser destinado ao uso no mesmo ramo da atividade do locat\u00e1rio."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "Nas loca\u00e7\u00f5es por prazo determinado de im\u00f3veis utilizados por estabelecimentos de ensino autorizados e fiscalizados pelo Poder P\u00fablico, o contrato poder\u00e1 ser rescindido por den\u00fancia do locador, a qualquer tempo, independentemente de notifica\u00e7\u00e3o ou aviso."
             }
         ],
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

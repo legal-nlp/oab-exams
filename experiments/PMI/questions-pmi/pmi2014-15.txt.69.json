@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Matheus foi denunciado pela pr\u00e1tica dos crimes de tr\u00e1fico de drogas (Art. 33, caput, da Lei n\u00ba 11.343/2006) e associa\u00e7\u00e3o para o tr\u00e1fico (Art. 35, caput, da Lei n\u00b0 11.343/2006), em concurso material. Quando da realiza\u00e7\u00e3o da audi\u00eancia de instru\u00e7\u00e3o e julgamento, o advogado de defesa pleiteou que o r\u00e9u fosse interrogado ap\u00f3s a oitiva das testemunhas de acusa\u00e7\u00e3o e de defesa, como determina o C\u00f3digo de Processo Penal (Art. 400 do CPP, com reda\u00e7\u00e3o dada pela Lei n\u00b0 11.719/2008), o que seria mais ben\u00e9fico \u00e0 defesa. O juiz singular indeferiu a invers\u00e3o do interrogat\u00f3rio, sob a alega\u00e7\u00e3o de que a norma aplic\u00e1vel \u00e0 esp\u00e9cie seria a Lei n\u00ba 11.343/2006, a qual prev\u00ea, em seu Art. 57, que o r\u00e9u dever\u00e1 ser ouvido no in\u00edcio da instru\u00e7\u00e3o.\n\n Nesse caso,",
+        "filename": "2014-15.txt",
+        "number": "69",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.05416933623705748,
+                    0.014786373817991623,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "o juiz n\u00e3o agiu corretamente, pois o interrogat\u00f3rio do acusado, de acordo com o C\u00f3digo de Processo Penal, \u00e9 o \u00faltimo ato a ser realizado."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.1188544344930956,
+                    0.0075643672744944235,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "o juiz agiu corretamente, eis que o interrogat\u00f3rio, em raz\u00e3o do princ\u00edpio da especialidade, deve ser o primeiro ato da instru\u00e7\u00e3o nas a\u00e7\u00f5es penais instauradas para a persecu\u00e7\u00e3o dos crimes previstos na Lei de Drogas."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.03667167054620921,
+                    0.026537730337585802,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "o juiz n\u00e3o agiu corretamente, pois \u00e9 cab\u00edvel a invers\u00e3o do interrogat\u00f3rio, devendo ser automaticamente reconhecida a nulidade em raz\u00e3o da ado\u00e7\u00e3o de procedimento incorreto."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.06803688002245188,
+                    0.02390406671761358,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "o juiz agiu corretamente, j\u00e1 que, independentemente do procedimento adotado, n\u00e3o h\u00e1 uma ordem a ser seguida em rela\u00e7\u00e3o ao momento da realiza\u00e7\u00e3o do interrogat\u00f3rio do acusado."
             }
         ],
-        "enum": "Matheus foi denunciado pela pr\u00e1tica dos crimes de tr\u00e1fico de drogas (Art. 33, caput, da Lei n\u00ba 11.343/2006) e associa\u00e7\u00e3o para o tr\u00e1fico (Art. 35, caput, da Lei n\u00b0 11.343/2006), em concurso material. Quando da realiza\u00e7\u00e3o da audi\u00eancia de instru\u00e7\u00e3o e julgamento, o advogado de defesa pleiteou que o r\u00e9u fosse interrogado ap\u00f3s a oitiva das testemunhas de acusa\u00e7\u00e3o e de defesa, como determina o C\u00f3digo de Processo Penal (Art. 400 do CPP, com reda\u00e7\u00e3o dada pela Lei n\u00b0 11.719/2008), o que seria mais ben\u00e9fico \u00e0 defesa. O juiz singular indeferiu a invers\u00e3o do interrogat\u00f3rio, sob a alega\u00e7\u00e3o de que a norma aplic\u00e1vel \u00e0 esp\u00e9cie seria a Lei n\u00ba 11.343/2006, a qual prev\u00ea, em seu Art. 57, que o r\u00e9u dever\u00e1 ser ouvido no in\u00edcio da instru\u00e7\u00e3o.\n\n Nesse caso,",
-        "valid": true,
-        "areas": [],
-        "filename": "2014-15.txt",
-        "number": "69"
+        "valid": true
     }
 ]

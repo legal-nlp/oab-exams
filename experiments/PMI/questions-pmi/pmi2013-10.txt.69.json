@@ -1,57 +1,57 @@
 [
     {
-        "number": "69",
-        "valid": true,
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "Jos\u00e9, ap\u00f3s responder ao processo cautelarmente preso, foi condenado \u00e0 pena de oito anos e sete meses de pris\u00e3o em regime inicialmente fechado. Ap\u00f3s alguns anos no sistema carcer\u00e1rio, seu advogado realizou um pedido de livramento condicional, que foi deferido pelo magistrado competente. O membro do parquet entendeu que tal benef\u00edcio era incab\u00edvel no momento e deseja recorrer da decis\u00e3o.\n\n Sobre o caso apresentado, assinale a afirmativa que menciona o recurso correto.",
+        "filename": "2013-10.txt",
+        "number": "69",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Agravo em Execu\u00e7\u00e3o, no prazo de 10 (dez dias);",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Agravo em Execu\u00e7\u00e3o, no prazo de 10 (dez dias);"
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Recurso em Sentido Estrito, no prazo de 05 (cinco dias);",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Recurso em Sentido Estrito, no prazo de 05 (cinco dias);"
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "Agravo em Execu\u00e7\u00e3o, no prazo de 05 (cinco dias);",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Agravo em Execu\u00e7\u00e3o, no prazo de 05 (cinco dias);"
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "Recurso em Sentido Estrito, no prazo de 10 (dez dias).",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Recurso em Sentido Estrito, no prazo de 10 (dez dias)."
             }
         ],
-        "filename": "2013-10.txt",
-        "enum": "Jos\u00e9, ap\u00f3s responder ao processo cautelarmente preso, foi condenado \u00e0 pena de oito anos e sete meses de pris\u00e3o em regime inicialmente fechado. Ap\u00f3s alguns anos no sistema carcer\u00e1rio, seu advogado realizou um pedido de livramento condicional, que foi deferido pelo magistrado competente. O membro do parquet entendeu que tal benef\u00edcio era incab\u00edvel no momento e deseja recorrer da decis\u00e3o.\n\n Sobre o caso apresentado, assinale a afirmativa que menciona o recurso correto."
+        "valid": true
     }
 ]

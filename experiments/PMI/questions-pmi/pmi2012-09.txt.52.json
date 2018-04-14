@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Primavera do Leste Arrendamento Mercantil S.A. ajuizou a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse de bem arrendado \u00e0 sociedade empres\u00e1ria Vila Bela Distribuidora de Jornais e Revistas Ltda., em face do n\u00e3o pagamento das presta\u00e7\u00f5es nos vencimentos. O contrato de arrendamento mercantil prev\u00ea resolu\u00e7\u00e3o de pleno direito em caso de qualquer inadimplemento da arrendat\u00e1ria.\n\n O juiz extinguiu o processo sem resolu\u00e7\u00e3o de m\u00e9rito porque",
+        "filename": "2012-09.txt",
+        "number": "52",
         "options": [
             {
-                "text": "no contrato de arrendamento mercantil, ainda que haja cl\u00e1usula resolutiva expressa, \u00e9 necess\u00e1ria a notifica\u00e7\u00e3o pr\u00e9via do arrendat\u00e1rio para constitu\u00ed-lo em mora.",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.30117478492277283,
+                    0.04286307685222788,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "no contrato de arrendamento mercantil, ainda que haja cl\u00e1usula resolutiva expressa, \u00e9 necess\u00e1ria a notifica\u00e7\u00e3o pr\u00e9via do arrendat\u00e1rio para constitu\u00ed-lo em mora."
             },
             {
-                "text": "nos contratos de arrendamento mercantil celebrados entre a arrendadora e as sociedades empres\u00e1rias \u00e9 vedada a aposi\u00e7\u00e3o de cl\u00e1usula resolutiva expressa.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.134755256831686,
+                    0.06256057565691739,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "nos contratos de arrendamento mercantil celebrados entre a arrendadora e as sociedades empres\u00e1rias \u00e9 vedada a aposi\u00e7\u00e3o de cl\u00e1usula resolutiva expressa."
             },
             {
-                "text": "a a\u00e7\u00e3o cab\u00edvel para a retomada do bem em poder do arrendat\u00e1rio pela arrendadora \u00e9 a a\u00e7\u00e3o de dep\u00f3sito, com pedido de liminar de reintegra\u00e7\u00e3o de posse.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.17292148645812555,
+                    -0.029419062830050365,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a a\u00e7\u00e3o cab\u00edvel para a retomada do bem em poder do arrendat\u00e1rio pela arrendadora \u00e9 a a\u00e7\u00e3o de dep\u00f3sito, com pedido de liminar de reintegra\u00e7\u00e3o de posse."
             },
             {
-                "text": "como no contrato de arrendamento mercantil h\u00e1 op\u00e7\u00e3o de compra pela arrendat\u00e1ria, a propriedade da arrendadora \u00e9 resol\u00favel, sendo incab\u00edvel a\u00e7\u00e3o possess\u00f3ria.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.11699651396405887,
+                    0.10224329991216709,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "como no contrato de arrendamento mercantil h\u00e1 op\u00e7\u00e3o de compra pela arrendat\u00e1ria, a propriedade da arrendadora \u00e9 resol\u00favel, sendo incab\u00edvel a\u00e7\u00e3o possess\u00f3ria."
             }
         ],
-        "filename": "2012-09.txt",
-        "valid": true,
-        "number": "52",
-        "enum": "Primavera do Leste Arrendamento Mercantil S.A. ajuizou a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse de bem arrendado \u00e0 sociedade empres\u00e1ria Vila Bela Distribuidora de Jornais e Revistas Ltda., em face do n\u00e3o pagamento das presta\u00e7\u00f5es nos vencimentos. O contrato de arrendamento mercantil prev\u00ea resolu\u00e7\u00e3o de pleno direito em caso de qualquer inadimplemento da arrendat\u00e1ria.\n\n O juiz extinguiu o processo sem resolu\u00e7\u00e3o de m\u00e9rito porque",
-        "areas": [
-            "CIVIL-PROCEDURE"
-        ]
+        "valid": true
     }
 ]

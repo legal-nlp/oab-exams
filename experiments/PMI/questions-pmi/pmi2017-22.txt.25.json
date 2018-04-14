@@ -1,11 +1,17 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Jo\u00e3o e Pedro s\u00e3o, por lei, contribuintes obrigados solidariamente a pagar determinado tributo. Foi publicada lei que isenta os ex-combatentes do pagamento de tal tributo, sendo este o caso pessoal somente de Jo\u00e3o.  Tendo em vista essa situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "number": "25",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.15893619342867452,
+                    0.06356089768228394,
                     0.0,
                     0.0,
                     0.0
@@ -27,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.12350503490328238,
+                    0.09899205620767607,
                     0.0,
                     0.0,
                     0.0
@@ -38,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.08732741206481051,
+                    0.05868630397675596,
                     0.0,
                     0.0,
                     0.0
@@ -46,12 +52,6 @@
                 "text": "Pedro permanece obrigado a pagar integralmente o imposto, nada obstante a isen\u00e7\u00e3o em favor de Jo\u00e3o."
             }
         ],
-        "number": "25",
-        "filename": "2017-22.txt",
-        "areas": [
-            null
-        ],
-        "enum": "Jo\u00e3o e Pedro s\u00e3o, por lei, contribuintes obrigados solidariamente a pagar determinado tributo. Foi publicada lei que isenta os ex-combatentes do pagamento de tal tributo, sendo este o caso pessoal somente de Jo\u00e3o.  Tendo em vista essa situa\u00e7\u00e3o, assinale a afirmativa correta.",
         "valid": true
     }
 ]

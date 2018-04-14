@@ -1,57 +1,57 @@
 [
     {
-        "number": "24",
-        "enum": "O Estado A ajuizou execu\u00e7\u00e3o fiscal em face da pessoa jur\u00eddica B, com o objetivo de cobrar cr\u00e9dito referente ao Imposto sobre a Circula\u00e7\u00e3o de Mercadorias e Presta\u00e7\u00e3o de Servi\u00e7os (ICMS). Nesse sentido, requereu, em sua peti\u00e7\u00e3o inicial, que, ap\u00f3s a cita\u00e7\u00e3o, fosse determinada a imediata indisponibilidade de bens e direitos da contribuinte.\n\n Nesse caso, o juiz deve indeferir o pedido, porque a decreta\u00e7\u00e3o da indisponibilidade de bens e direitos",
-        "filename": "2017-24.txt",
-        "options": [
-            {
-                "pmi": [
-                    -0.0330956654049042,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "ocorre somente ap\u00f3s o insucesso do pedido de constri\u00e7\u00e3o sobre ativos financeiros, embora desnecess\u00e1ria qualquer outra provid\u00eancia.",
-                "letter": "A",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.010638618512505168,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "ocorre somente ap\u00f3s a expedi\u00e7\u00e3o de of\u00edcios aos registros p\u00fablicos do domic\u00edlio do executado, embora desnecess\u00e1ria qualquer outra provid\u00eancia.",
-                "letter": "B",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.0003001988675220124,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "ocorre somente ap\u00f3s o exaurimento das dilig\u00eancias na busca por bens penhor\u00e1veis.",
-                "letter": "C",
-                "correct": true
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "\u00e9 imposs\u00edvel durante a execu\u00e7\u00e3o fiscal.",
-                "letter": "D",
-                "correct": null
-            }
-        ],
-        "valid": true,
         "areas": [
             null
-        ]
+        ],
+        "enum": "O Estado A ajuizou execu\u00e7\u00e3o fiscal em face da pessoa jur\u00eddica B, com o objetivo de cobrar cr\u00e9dito referente ao Imposto sobre a Circula\u00e7\u00e3o de Mercadorias e Presta\u00e7\u00e3o de Servi\u00e7os (ICMS). Nesse sentido, requereu, em sua peti\u00e7\u00e3o inicial, que, ap\u00f3s a cita\u00e7\u00e3o, fosse determinada a imediata indisponibilidade de bens e direitos da contribuinte.\n\n Nesse caso, o juiz deve indeferir o pedido, porque a decreta\u00e7\u00e3o da indisponibilidade de bens e direitos",
+        "filename": "2017-24.txt",
+        "number": "24",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.03450327720693214,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ocorre somente ap\u00f3s o insucesso do pedido de constri\u00e7\u00e3o sobre ativos financeiros, embora desnecess\u00e1ria qualquer outra provid\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.019405355981644317,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ocorre somente ap\u00f3s a expedi\u00e7\u00e3o de of\u00edcios aos registros p\u00fablicos do domic\u00edlio do executado, embora desnecess\u00e1ria qualquer outra provid\u00eancia."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.08983172461492643,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ocorre somente ap\u00f3s o exaurimento das dilig\u00eancias na busca por bens penhor\u00e1veis."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 imposs\u00edvel durante a execu\u00e7\u00e3o fiscal."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
+        "enum": "Na sua mais importante obra, a Summa Theologica, Santo Tom\u00e1s de Aquino trata os conceitos de justi\u00e7a comutativa e de justi\u00e7a distributiva de uma tal maneira, que eles passariam a ser largamente utilizados na Filosofia do Direito.\n\n Assinale a op\u00e7\u00e3o que apresenta esses conceitos, conforme expostos na obra citada.",
+        "filename": "2016-20a.txt",
+        "number": "11",
         "options": [
             {
+                "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.08212611399727074,
+                    0.03768001198555304,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Justi\u00e7a Comutativa regula as rela\u00e7\u00f5es m\u00fatuas entre pessoas privadas e a Justi\u00e7a Distributiva regula a distribui\u00e7\u00e3o proporcional dos bens comuns.",
-                "correct": true
+                "text": "A Justi\u00e7a Comutativa regula as rela\u00e7\u00f5es m\u00fatuas entre pessoas privadas e a Justi\u00e7a Distributiva regula a distribui\u00e7\u00e3o proporcional dos bens comuns."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.09705813472404724,
+                    0.044530923255653596,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Justi\u00e7a Distributiva destina-se a minorar o sofrimentos das pessoas e a Justi\u00e7a Comutativa regula os contratos de permuta de mercadorias.",
-                "correct": null
+                "text": "A Justi\u00e7a Distributiva destina-se a minorar o sofrimentos das pessoas e a Justi\u00e7a Comutativa regula os contratos de permuta de mercadorias."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.09041480959857105,
+                    0.048645872345777996,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "a Justi\u00e7a Comutativa  trata da redu\u00e7\u00e3o ou diminui\u00e7\u00e3o das penas (san\u00e7\u00e3o penal) e a Justi\u00e7a Distributiva da distribui\u00e7\u00e3o justa de taxas e impostos.",
-                "correct": null
+                "text": "a Justi\u00e7a Comutativa  trata da redu\u00e7\u00e3o ou diminui\u00e7\u00e3o das penas (san\u00e7\u00e3o penal) e a Justi\u00e7a Distributiva da distribui\u00e7\u00e3o justa de taxas e impostos."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.0762599629974657,
+                    0.03498858255801354,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Justi\u00e7a Comutativa regula a rela\u00e7\u00e3o entre s\u00faditos e governante e a Justi\u00e7a Distributiva trata das rela\u00e7\u00f5es entre diferentes povos, tamb\u00e9m chamadas de direito das gentes.",
-                "correct": null
+                "text": "A Justi\u00e7a Comutativa regula a rela\u00e7\u00e3o entre s\u00faditos e governante e a Justi\u00e7a Distributiva trata das rela\u00e7\u00f5es entre diferentes povos, tamb\u00e9m chamadas de direito das gentes."
             }
         ],
-        "valid": true,
-        "enum": "Na sua mais importante obra, a Summa Theologica, Santo Tom\u00e1s de Aquino trata os conceitos de justi\u00e7a comutativa e de justi\u00e7a distributiva de uma tal maneira, que eles passariam a ser largamente utilizados na Filosofia do Direito.\n\n Assinale a op\u00e7\u00e3o que apresenta esses conceitos, conforme expostos na obra citada.",
-        "number": "11",
-        "filename": "2016-20a.txt"
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "number": "4",
-        "options": [
-            {
-                "text": "a hierarquia \u00e9 inerente \u00e0 atividade desenvolvida pelos advogados, que atuam de forma parcial em defesa dos seus clientes.",
-                "letter": "A",
-                "correct": null,
-                "pmi": [
-                    -0.018883206595001763,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "como dirigente do processo, o magistrado subordina a atua\u00e7\u00e3o dos advogados como forma de disciplina da audi\u00eancia.",
-                "letter": "B",
-                "correct": null,
-                "pmi": [
-                    -0.02964129297404052,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "os membros do Minist\u00e9rio P\u00fablico nos atos processuais s\u00e3o hierarquicamente superiores aos advogados.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    -0.14240365428752727,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "advogados, membros do Minist\u00e9rio P\u00fablico e magistrados n\u00e3o t\u00eam rela\u00e7\u00e3o de hierarquia entre si.",
-                "letter": "D",
-                "correct": true,
-                "pmi": [
-                    -0.1743802593584904,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2012-06a.txt",
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
-        "enum": "Morgano, advogado rec\u00e9m-formado e inscrito na OAB, com aprova\u00e7\u00e3o no Exame de Ordem logo ap\u00f3s a cola\u00e7\u00e3o de grau, \u00e9 contratado para defender cliente em audi\u00eancia de instru\u00e7\u00e3o e julgamento. No recinto forense, depara-se com um tablado onde est\u00e3o alocados a mesa ocupada pelo juiz e ao seu lado o representante do Minist\u00e9rio P\u00fablico. Curioso pela situa\u00e7\u00e3o e ainda inexperiente, questiona se tal arquitetura \u00e9 comum nos demais recintos e a raz\u00e3o de o advogado estar em plano inferior aos demais agentes do processo. Como resposta, recebe a informa\u00e7\u00e3o de que a disposi\u00e7\u00e3o f\u00edsica foi estabelecida em respeito \u00e0 hierarquia entre magistrados e membros do Minist\u00e9rio P\u00fablico, que devem permanecer em posi\u00e7\u00e3o superior \u00e0 dos advogados das partes. Diante do narrado, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que"
+        "enum": "Morgano, advogado rec\u00e9m-formado e inscrito na OAB, com aprova\u00e7\u00e3o no Exame de Ordem logo ap\u00f3s a cola\u00e7\u00e3o de grau, \u00e9 contratado para defender cliente em audi\u00eancia de instru\u00e7\u00e3o e julgamento. No recinto forense, depara-se com um tablado onde est\u00e3o alocados a mesa ocupada pelo juiz e ao seu lado o representante do Minist\u00e9rio P\u00fablico. Curioso pela situa\u00e7\u00e3o e ainda inexperiente, questiona se tal arquitetura \u00e9 comum nos demais recintos e a raz\u00e3o de o advogado estar em plano inferior aos demais agentes do processo. Como resposta, recebe a informa\u00e7\u00e3o de que a disposi\u00e7\u00e3o f\u00edsica foi estabelecida em respeito \u00e0 hierarquia entre magistrados e membros do Minist\u00e9rio P\u00fablico, que devem permanecer em posi\u00e7\u00e3o superior \u00e0 dos advogados das partes. Diante do narrado, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "4",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.04978873510591134,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a hierarquia \u00e9 inerente \u00e0 atividade desenvolvida pelos advogados, que atuam de forma parcial em defesa dos seus clientes."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.08624260864625033,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "como dirigente do processo, o magistrado subordina a atua\u00e7\u00e3o dos advogados como forma de disciplina da audi\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.10867813255643627,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "os membros do Minist\u00e9rio P\u00fablico nos atos processuais s\u00e3o hierarquicamente superiores aos advogados."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.1346434782956186,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "advogados, membros do Minist\u00e9rio P\u00fablico e magistrados n\u00e3o t\u00eam rela\u00e7\u00e3o de hierarquia entre si."
+            }
+        ],
+        "valid": true
     }
 ]

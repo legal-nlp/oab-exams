@@ -1,57 +1,57 @@
 [
     {
-        "number": "19",
-        "options": [
-            {
-                "letter": "A",
-                "text": "O munic\u00edpio ser\u00e1 regido por Lei Org\u00e2nica pr\u00f3pria, votada pela Assembleia Estadual.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "text": "A organiza\u00e7\u00e3o municipal conter\u00e1 previs\u00e3o de elei\u00e7\u00f5es para mandato de cinco anos, sem reelei\u00e7\u00e3o.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "C",
-                "text": "Um projeto de lei de iniciativa popular, baseado em interesse local, depende de, pelo menos, cinco por cento do eleitorado.",
-                "pmi": [
-                    -0.036499334355424566,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            },
-            {
-                "letter": "D",
-                "text": "O limite m\u00e1ximo de dez vereadores dever\u00e1 ser observado para localidades com at\u00e9 15.000 (quinze mil) habitantes.",
-                "pmi": [
-                    -0.11686391855224547,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            }
-        ],
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "valid": true,
+        "enum": "Sabendo-se que o Munic\u00edpio integra a Federa\u00e7\u00e3o, assinale a afirmativa correta, \u00e0 luz das normas constitucionais.",
         "filename": "2012-08.txt",
-        "enum": "Sabendo-se que o Munic\u00edpio integra a Federa\u00e7\u00e3o, assinale a afirmativa correta, \u00e0 luz das normas constitucionais."
+        "number": "19",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O munic\u00edpio ser\u00e1 regido por Lei Org\u00e2nica pr\u00f3pria, votada pela Assembleia Estadual."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A organiza\u00e7\u00e3o municipal conter\u00e1 previs\u00e3o de elei\u00e7\u00f5es para mandato de cinco anos, sem reelei\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.08517876234588084,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Um projeto de lei de iniciativa popular, baseado em interesse local, depende de, pelo menos, cinco por cento do eleitorado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.022196763392103545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O limite m\u00e1ximo de dez vereadores dever\u00e1 ser observado para localidades com at\u00e9 15.000 (quinze mil) habitantes."
+            }
+        ],
+        "valid": true
     }
 ]

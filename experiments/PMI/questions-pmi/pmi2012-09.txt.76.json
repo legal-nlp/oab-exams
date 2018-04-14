@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-09.txt",
-        "enum": "De acordo com a Consolida\u00e7\u00e3o das Leis do Trabalho, assinale a afirmativa correta.",
-        "valid": true,
-        "options": [
-            {
-                "text": "n\u00e3o h\u00e1 cita\u00e7\u00e3o para a execu\u00e7\u00e3o, uma vez que a fase executiva pode ser iniciada de of\u00edcio.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por via postal.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por mandado.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por mandado, mas, se o executado n\u00e3o for encontrado ap\u00f3s tr\u00eas tentativas, caber\u00e1 a cita\u00e7\u00e3o por edital.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
         "areas": [
             "LABOUR-PROCEDURE"
         ],
-        "number": "76"
+        "enum": "De acordo com a Consolida\u00e7\u00e3o das Leis do Trabalho, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "76",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o h\u00e1 cita\u00e7\u00e3o para a execu\u00e7\u00e3o, uma vez que a fase executiva pode ser iniciada de of\u00edcio."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por via postal."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por mandado."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a cita\u00e7\u00e3o na execu\u00e7\u00e3o ser\u00e1 realizada por mandado, mas, se o executado n\u00e3o for encontrado ap\u00f3s tr\u00eas tentativas, caber\u00e1 a cita\u00e7\u00e3o por edital."
+            }
+        ],
+        "valid": true
     }
 ]

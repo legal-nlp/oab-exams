@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Daniel, morador do Condom\u00ednio Raio de Luz, ap\u00f3s consultar a conven\u00e7\u00e3o do condom\u00ednio e constatar a permiss\u00e3o de animais de estima\u00e7\u00e3o, realizou um sonho antigo e adquiriu um cachorro da ra\u00e7a Beagle.  Ocorre que o animal, muito travesso, precisou dos servi\u00e7os de um adestrador, pois estava destruindo m\u00f3veis e sapatos do dono.  Assim, Daniel contratou Cleber, adestrador renomado, para um pacote de seis meses de sess\u00f5es. Findo o per\u00edodo do treinamento, Daniel, satisfeito com o resultado, resolve levar o cachorro para se exercitar na \u00e1rea de lazer do condom\u00ednio e, encontrando-a vazia, solta a coleira e a guia para que o Beagle possa correr livremente.  Minutos depois, a moradora Diana, com 80 (oitenta) anos de idade, chega \u00e0 \u00e1rea de lazer com seu neto Theo.  Ao perceber, a presen\u00e7a da octogen\u00e1ria, o cachorro pula em suas pernas, Diana perde o equil\u00edbrio, cai e fratura o f\u00eamur. Diana pretende ser indenizada pelos danos materiais e compensada pelos danos est\u00e9ticos.\n\n Com base no caso narrado, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2015-16.txt",
+        "number": "41",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "H\u00e1 responsabilidade civil valorada pelo crit\u00e9rio subjetivo e solid\u00e1ria de Daniel e Cleber, aquele por culpa na vigil\u00e2ncia do animal e este por imper\u00edcia no adestramento do Beagle, pelo fato de n\u00e3o evitarem que o cachorro avan\u00e7asse em terceiros.",
-                "correct": null,
                 "pmi": [
-                    -0.005593493838829605,
+                    0.0054243304238805615,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "H\u00e1 responsabilidade civil valorada pelo crit\u00e9rio subjetivo e solid\u00e1ria de Daniel e Cleber, aquele por culpa na vigil\u00e2ncia do animal e este por imper\u00edcia no adestramento do Beagle, pelo fato de n\u00e3o evitarem que o cachorro avan\u00e7asse em terceiros."
             },
             {
-                "letter": "B",
-                "text": "H\u00e1 responsabilidade civil valorada pelo crit\u00e9rio objetivo e extracontratual de Daniel, havendo obriga\u00e7\u00e3o de indenizar e compensar os danos causados, haja vista a aus\u00eancia de prova de alguma das causas legais excludentes do nexo causal, quais sejam, for\u00e7a maior ou culpa exclusiva da v\u00edtima.",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.012665704379289773,
+                    0.01551449998494969,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "H\u00e1 responsabilidade civil valorada pelo crit\u00e9rio objetivo e extracontratual de Daniel, havendo obriga\u00e7\u00e3o de indenizar e compensar os danos causados, haja vista a aus\u00eancia de prova de alguma das causas legais excludentes do nexo causal, quais sejam, for\u00e7a maior ou culpa exclusiva da v\u00edtima."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "N\u00e3o h\u00e1 responsabilidade civil de Daniel valorada pelo crit\u00e9rio subjetivo, em raz\u00e3o da ocorr\u00eancia de for\u00e7a maior, isto \u00e9, da chegada inesperada da moradora Diana, caracterizando a inevitabilidade do ocorrido, com rompimento do nexo de causalidade.",
-                "correct": null,
                 "pmi": [
-                    -0.008284431870614251,
+                    0.002733392392095916,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o h\u00e1 responsabilidade civil de Daniel valorada pelo crit\u00e9rio subjetivo, em raz\u00e3o da ocorr\u00eancia de for\u00e7a maior, isto \u00e9, da chegada inesperada da moradora Diana, caracterizando a inevitabilidade do ocorrido, com rompimento do nexo de causalidade."
             },
             {
-                "letter": "D",
-                "text": "H\u00e1 responsabilidade valorada pelo crit\u00e9rio subjetivo e contratual apenas de Daniel em rela\u00e7\u00e3o aos danos sofridos por Diana; subjetiva, em raz\u00e3o da evidente culpa na cust\u00f3dia do animal; e contratual, por serem ambos moradores do Condom\u00ednio Raio de Luz.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "H\u00e1 responsabilidade valorada pelo crit\u00e9rio subjetivo e contratual apenas de Daniel em rela\u00e7\u00e3o aos danos sofridos por Diana; subjetiva, em raz\u00e3o da evidente culpa na cust\u00f3dia do animal; e contratual, por serem ambos moradores do Condom\u00ednio Raio de Luz."
             }
         ],
-        "valid": true,
-        "areas": [],
-        "number": "41",
-        "enum": "Daniel, morador do Condom\u00ednio Raio de Luz, ap\u00f3s consultar a conven\u00e7\u00e3o do condom\u00ednio e constatar a permiss\u00e3o de animais de estima\u00e7\u00e3o, realizou um sonho antigo e adquiriu um cachorro da ra\u00e7a Beagle.  Ocorre que o animal, muito travesso, precisou dos servi\u00e7os de um adestrador, pois estava destruindo m\u00f3veis e sapatos do dono.  Assim, Daniel contratou Cleber, adestrador renomado, para um pacote de seis meses de sess\u00f5es. Findo o per\u00edodo do treinamento, Daniel, satisfeito com o resultado, resolve levar o cachorro para se exercitar na \u00e1rea de lazer do condom\u00ednio e, encontrando-a vazia, solta a coleira e a guia para que o Beagle possa correr livremente.  Minutos depois, a moradora Diana, com 80 (oitenta) anos de idade, chega \u00e0 \u00e1rea de lazer com seu neto Theo.  Ao perceber, a presen\u00e7a da octogen\u00e1ria, o cachorro pula em suas pernas, Diana perde o equil\u00edbrio, cai e fratura o f\u00eamur. Diana pretende ser indenizada pelos danos materiais e compensada pelos danos est\u00e9ticos.\n\n Com base no caso narrado, assinale a op\u00e7\u00e3o correta.",
-        "filename": "2015-16.txt"
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-23.txt",
-        "options": [
-            {
-                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de cal\u00fania.",
-                "letter": "A",
-                "correct": null,
-                "pmi": [
-                    -0.40239082283857475,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de inj\u00faria.",
-                "letter": "B",
-                "correct": true,
-                "pmi": [
-                    -0.40239082283857475,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "2 crimes de cal\u00fania.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    -0.30090485947265994,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "1 crime de cal\u00fania e 1 crime de inj\u00faria.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    -0.40239082283857475,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "valid": true,
-        "number": "59",
         "areas": [
             null
         ],
-        "enum": "Roberta, enquanto conversava com Robson, afirmou categoricamente que presenciou quando Caio explorava jogo do bicho, no dia 03/03/2017. No dia seguinte, Roberta contou para Jo\u00e3o que Caio era um \u201cfurtador\u201d. Caio toma conhecimento dos fatos, procura voc\u00ea na condi\u00e7\u00e3o de advogado(a) e nega tudo o que foi dito por Roberta, ressaltando que ela s\u00f3 queria atingir sua honra.\n\n Nesse caso, dever\u00e1 ser proposta queixa-crime, imputando a Roberta a pr\u00e1tica de"
+        "enum": "Roberta, enquanto conversava com Robson, afirmou categoricamente que presenciou quando Caio explorava jogo do bicho, no dia 03/03/2017. No dia seguinte, Roberta contou para Jo\u00e3o que Caio era um \u201cfurtador\u201d. Caio toma conhecimento dos fatos, procura voc\u00ea na condi\u00e7\u00e3o de advogado(a) e nega tudo o que foi dito por Roberta, ressaltando que ela s\u00f3 queria atingir sua honra.\n\n Nesse caso, dever\u00e1 ser proposta queixa-crime, imputando a Roberta a pr\u00e1tica de",
+        "filename": "2017-23.txt",
+        "number": "59",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.08432156396664678,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de cal\u00fania."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.08432156396664678,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de inj\u00faria."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.023570065064154495,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "2 crimes de cal\u00fania."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.08432156396664678,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "1 crime de cal\u00fania e 1 crime de inj\u00faria."
+            }
+        ],
+        "valid": true
     }
 ]

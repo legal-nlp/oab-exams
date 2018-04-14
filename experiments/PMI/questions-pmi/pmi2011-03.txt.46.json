@@ -1,57 +1,57 @@
 [
     {
-        "enum": "O magistrado M\u00e9vio, de larga experi\u00eancia forense, buscando organizar o servi\u00e7o do seu cart\u00f3rio, edita Portaria disciplinando o hor\u00e1rio de atendimento das partes e dos advogados n\u00e3o coincidente com o hor\u00e1rio forense. Os processos passam a ser distribu\u00eddos, por numera\u00e7\u00e3o, com a responsabiliza\u00e7\u00e3o individual de determinados servidores. Estabeleceu-se que os autos de final 0 a 3 teriam atendimento ao p\u00fablico, a\u00ed inclu\u00eddos advogados, das 11h \u00e0s 13h, e da\u00ed sucessivamente. Com tal organiza\u00e7\u00e3o, obteve o cumprimento de todas as metas estabelecidas pela Corregedoria do Tribunal. \u00c0 luz da legisla\u00e7\u00e3o estatut\u00e1ria, assinale a alternativa correta quanto a essa atitude.",
-        "number": "46",
-        "options": [
-            {
-                "letter": "A",
-                "text": "O ato normativo do magistrado colide frontalmente com o direito dos advogados de serem atendidos a qualquer momento pelo Magistrado e servidores p\u00fablicos.",
-                "correct": true,
-                "pmi": [
-                    -0.09499362753935497,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "A Administra\u00e7\u00e3o dos \u00f3rg\u00e3os do Poder Judici\u00e1rio \u00e9 aut\u00f4noma, podendo ocorrer ato do magistrado impondo restri\u00e7\u00f5es ao advogado.",
-                "correct": null,
-                "pmi": [
-                    -0.11550446236454646,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "O princ\u00edpio da efici\u00eancia sobrep\u00f5e-se aos interesses das partes e dos advogados, seguindo moderna tend\u00eancia da Administra\u00e7\u00e3o P\u00fablica.",
-                "correct": null,
-                "pmi": [
-                    -0.041583137282140144,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "As metas de produ\u00e7\u00e3o determinadas pelos \u00f3rg\u00e3os de controle do Poder Judici\u00e1rio justificam a restri\u00e7\u00e3o dos direitos dos advogados de acesso aos autos e aos agentes p\u00fablicos.",
-                "correct": null,
-                "pmi": [
-                    -0.048039384962309736,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             "ETHICS"
         ],
+        "enum": "O magistrado M\u00e9vio, de larga experi\u00eancia forense, buscando organizar o servi\u00e7o do seu cart\u00f3rio, edita Portaria disciplinando o hor\u00e1rio de atendimento das partes e dos advogados n\u00e3o coincidente com o hor\u00e1rio forense. Os processos passam a ser distribu\u00eddos, por numera\u00e7\u00e3o, com a responsabiliza\u00e7\u00e3o individual de determinados servidores. Estabeleceu-se que os autos de final 0 a 3 teriam atendimento ao p\u00fablico, a\u00ed inclu\u00eddos advogados, das 11h \u00e0s 13h, e da\u00ed sucessivamente. Com tal organiza\u00e7\u00e3o, obteve o cumprimento de todas as metas estabelecidas pela Corregedoria do Tribunal. \u00c0 luz da legisla\u00e7\u00e3o estatut\u00e1ria, assinale a alternativa correta quanto a essa atitude.",
         "filename": "2011-03.txt",
+        "number": "46",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.04275516117910399,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O ato normativo do magistrado colide frontalmente com o direito dos advogados de serem atendidos a qualquer momento pelo Magistrado e servidores p\u00fablicos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.06816058926006546,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Administra\u00e7\u00e3o dos \u00f3rg\u00e3os do Poder Judici\u00e1rio \u00e9 aut\u00f4noma, podendo ocorrer ato do magistrado impondo restri\u00e7\u00f5es ao advogado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.04190097709268347,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O princ\u00edpio da efici\u00eancia sobrep\u00f5e-se aos interesses das partes e dos advogados, seguindo moderna tend\u00eancia da Administra\u00e7\u00e3o P\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.056912073108897086,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "As metas de produ\u00e7\u00e3o determinadas pelos \u00f3rg\u00e3os de controle do Poder Judici\u00e1rio justificam a restri\u00e7\u00e3o dos direitos dos advogados de acesso aos autos e aos agentes p\u00fablicos."
+            }
+        ],
         "valid": true
     }
 ]

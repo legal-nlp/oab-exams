@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Em reclama\u00e7\u00e3o trabalhista o juiz atende ao pedido expresso do autor na peti\u00e7\u00e3o inicial e, de plano, defere tutela de urg\u00eancia para que a empresa entregue ao trabalhador o Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) e, com isso, ele possa requerer aposentadoria especial junto ao INSS.  Intimada da decis\u00e3o, a empresa o contrata para tentar impedir o efeito da tutela de urg\u00eancia deferida, pois teme que os demais empregados sigam o mesmo destino, especialmente porque ela n\u00e3o reconhece que haja condi\u00e7\u00e3o desfavor\u00e1vel no ambiente de trabalho.\n\n De acordo com o entendimento consolidado do TST, assinale a op\u00e7\u00e3o que apresenta a medida a ser adotada.",
         "filename": "2016-20a.txt",
         "number": "79",
-        "areas": [],
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "Interpor agravo de instrumento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Interpor agravo de instrumento."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "Opor embargos declarat\u00f3rios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Opor embargos declarat\u00f3rios."
             },
             {
-                "letter": "C",
                 "correct": true,
-                "text": "Impetrar mandado de seguran\u00e7a.",
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Impetrar mandado de seguran\u00e7a."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "Interpor recurso ordin\u00e1rio.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Interpor recurso ordin\u00e1rio."
             }
         ],
-        "valid": true,
-        "enum": "Em reclama\u00e7\u00e3o trabalhista o juiz atende ao pedido expresso do autor na peti\u00e7\u00e3o inicial e, de plano, defere tutela de urg\u00eancia para que a empresa entregue ao trabalhador o Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) e, com isso, ele possa requerer aposentadoria especial junto ao INSS.  Intimada da decis\u00e3o, a empresa o contrata para tentar impedir o efeito da tutela de urg\u00eancia deferida, pois teme que os demais empregados sigam o mesmo destino, especialmente porque ela n\u00e3o reconhece que haja condi\u00e7\u00e3o desfavor\u00e1vel no ambiente de trabalho.\n\n De acordo com o entendimento consolidado do TST, assinale a op\u00e7\u00e3o que apresenta a medida a ser adotada."
+        "valid": true
     }
 ]

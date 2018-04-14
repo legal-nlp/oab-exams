@@ -3,55 +3,55 @@
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "Um policial militar, de nome Norberto, no dia de folga, quando estava na frente da sua casa, de bermuda e sem camisa, discute com um transeunte e acaba desferindo tiros de uma arma antiga, que seu av\u00f4 lhe dera. Com base no relatado acima, \u00e9 correto afirmar que o Estado",
         "filename": "2011-03.txt",
-        "valid": true,
+        "number": "5",
         "options": [
             {
-                "text": "ser\u00e1 responsabilizado, pois Norberto \u00e9 agente p\u00fablico pertencente a seus quadros.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "ser\u00e1 responsabilizado, com base na teoria do risco integral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "ser\u00e1 responsabilizado, pois Norberto \u00e9 agente p\u00fablico pertencente a seus quadros."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "somente ser\u00e1 responsabilizado de forma subsidi\u00e1ria, ou seja, caso Norberto n\u00e3o tenha condi\u00e7\u00f5es financeiras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "ser\u00e1 responsabilizado, com base na teoria do risco integral."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "n\u00e3o ser\u00e1 responsabilizado, pois Norberto, apesar de ser agente p\u00fablico, n\u00e3o atuou nessa qualidade; sua conduta n\u00e3o pode, pois, ser imputada ao Ente P\u00fablico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "somente ser\u00e1 responsabilizado de forma subsidi\u00e1ria, ou seja, caso Norberto n\u00e3o tenha condi\u00e7\u00f5es financeiras."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "correct": true
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o ser\u00e1 responsabilizado, pois Norberto, apesar de ser agente p\u00fablico, n\u00e3o atuou nessa qualidade; sua conduta n\u00e3o pode, pois, ser imputada ao Ente P\u00fablico."
             }
         ],
-        "enum": "Um policial militar, de nome Norberto, no dia de folga, quando estava na frente da sua casa, de bermuda e sem camisa, discute com um transeunte e acaba desferindo tiros de uma arma antiga, que seu av\u00f4 lhe dera. Com base no relatado acima, \u00e9 correto afirmar que o Estado",
-        "number": "5"
+        "valid": true
     }
 ]

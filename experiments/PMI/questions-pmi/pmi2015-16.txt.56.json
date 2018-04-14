@@ -1,12 +1,15 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "A repress\u00e3o \u00e0 m\u00e1-f\u00e9 processual \u00e9 disciplinada em diversas fontes normativas que orientam a aplica\u00e7\u00e3o do direito. A multa por litig\u00e2ncia de m\u00e1-f\u00e9 pode ser aplicada ao autor, r\u00e9u e interveniente e mesmo ao caus\u00eddico, o que deve ser apurado em a\u00e7\u00e3o pr\u00f3pria, baseada no Estatuto da OAB.\n\n Partindo do tema em quest\u00e3o, analise as situa\u00e7\u00f5es do cotidiano forense apresentadas a seguir e assinale a \u00fanica em que restou caracterizada a ocorr\u00eancia de m\u00e1-f\u00e9 processual.",
+        "filename": "2015-16.txt",
+        "number": "56",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.08052631878593643,
+                    0.04115177791536897,
                     0.0,
                     0.0,
                     0.0
@@ -17,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.07719859078943557,
+                    0.049346629779922054,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +31,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.06037720453499739,
+                    0.05023924701164388,
                     0.0,
                     0.0,
                     0.0
@@ -39,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.0872580831462544,
+                    0.05313972073986718,
                     0.0,
                     0.0,
                     0.0
@@ -47,9 +50,6 @@
                 "text": "Na impugna\u00e7\u00e3o ao cumprimento de senten\u00e7a, quando o fundamento do pedido disser respeito a excesso na execu\u00e7\u00e3o, a lei estabelece ser imprescind\u00edvel que o impugnante aponte o valor que entende correto, sob pena de rejei\u00e7\u00e3o da medida impugnativa e a presun\u00e7\u00e3o de litig\u00e2ncia de m\u00e1-f\u00e9 pela posterga\u00e7\u00e3o do feito."
             }
         ],
-        "number": "56",
-        "areas": [],
-        "enum": "A repress\u00e3o \u00e0 m\u00e1-f\u00e9 processual \u00e9 disciplinada em diversas fontes normativas que orientam a aplica\u00e7\u00e3o do direito. A multa por litig\u00e2ncia de m\u00e1-f\u00e9 pode ser aplicada ao autor, r\u00e9u e interveniente e mesmo ao caus\u00eddico, o que deve ser apurado em a\u00e7\u00e3o pr\u00f3pria, baseada no Estatuto da OAB.\n\n Partindo do tema em quest\u00e3o, analise as situa\u00e7\u00f5es do cotidiano forense apresentadas a seguir e assinale a \u00fanica em que restou caracterizada a ocorr\u00eancia de m\u00e1-f\u00e9 processual.",
-        "filename": "2015-16.txt"
+        "valid": true
     }
 ]

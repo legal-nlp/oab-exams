@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
         "areas": [],
-        "options": [
-            {
-                "text": "O instrumento processual adequado para atacar a decis\u00e3o judicial \u00e9 o incidente de impugna\u00e7\u00e3o ao benef\u00edcio de gratuidade, que ser\u00e1 processado em autos apartados.",
-                "letter": "A",
-                "pmi": [
-                    -0.08479143278295515,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "text": "A r\u00e9 alegar\u00e1 na contesta\u00e7\u00e3o que n\u00e3o est\u00e3o presentes os requisitos para o deferimento do benef\u00edcio de gratuidade.",
-                "letter": "B",
-                "pmi": [
-                    -0.03368417437134638,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            },
-            {
-                "text": "A r\u00e9 alegar\u00e1 na contesta\u00e7\u00e3o que o benef\u00edcio deve ser indeferido, mas ter\u00e1 que apresentar documentos comprobat\u00f3rios, pois a lei presume verdadeira a alega\u00e7\u00e3o de insufici\u00eancia deduzida.",
-                "letter": "C",
-                "pmi": [
-                    -0.07089522633145659,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "text": "O instrumento processual previsto para atacar a decis\u00e3o judicial de deferimento do benef\u00edcio \u00e9 o agravo de instrumento.",
-                "letter": "D",
-                "pmi": [
-                    -0.10467483744267138,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            }
-        ],
         "enum": "A sociedade Palavras Cruzadas Ltda. ajuizou a\u00e7\u00e3o de responsabilidade civil em face de Helena e requereu o benef\u00edcio da gratuidade de justi\u00e7a, na peti\u00e7\u00e3o inicial. O juiz deferiu o requerimento de gratuidade e ordenou a cita\u00e7\u00e3o da r\u00e9.\n\n Como a autora n\u00e3o juntou qualquer documento comprobat\u00f3rio de sua hipossufici\u00eancia econ\u00f4mica, a r\u00e9 pretende atacar o benef\u00edcio deferido.\n\n Com base na situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
         "filename": "2016-21.txt",
-        "number": "57"
+        "number": "57",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.02752681032594215,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O instrumento processual adequado para atacar a decis\u00e3o judicial \u00e9 o incidente de impugna\u00e7\u00e3o ao benef\u00edcio de gratuidade, que ser\u00e1 processado em autos apartados."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    -0.0032646501960200284,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A r\u00e9 alegar\u00e1 na contesta\u00e7\u00e3o que n\u00e3o est\u00e3o presentes os requisitos para o deferimento do benef\u00edcio de gratuidade."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.0013648853592820697,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A r\u00e9 alegar\u00e1 na contesta\u00e7\u00e3o que o benef\u00edcio deve ser indeferido, mas ter\u00e1 que apresentar documentos comprobat\u00f3rios, pois a lei presume verdadeira a alega\u00e7\u00e3o de insufici\u00eancia deduzida."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.01700325925863403,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O instrumento processual previsto para atacar a decis\u00e3o judicial de deferimento do benef\u00edcio \u00e9 o agravo de instrumento."
+            }
+        ],
+        "valid": true
     }
 ]

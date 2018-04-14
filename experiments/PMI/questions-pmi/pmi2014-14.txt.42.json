@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Segundo o C\u00f3digo Civil de 2002, acerca do direito de representa\u00e7\u00e3o, instituto do Direito das Sucess\u00f5es, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
         "number": "42",
         "options": [
             {
-                "text": "\u00c9 poss\u00edvel que o filho renuncie \u00e0 heran\u00e7a do pai e, depois, represente-o na sucess\u00e3o do av\u00f4.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
-                "text": "Na linha transversal, \u00e9 permitido o direito de representa\u00e7\u00e3o em favor dos sobrinhos, quando concorrerem com sobrinhos-netos.",
                 "pmi": [
-                    -0.06648714679797897,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "\u00c9 poss\u00edvel que o filho renuncie \u00e0 heran\u00e7a do pai e, depois, represente-o na sucess\u00e3o do av\u00f4."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "Em n\u00e3o havendo filhos para exercer o direito de representa\u00e7\u00e3o, este ser\u00e1 exercido pelos pais do representado.",
                 "pmi": [
-                    -0.07479804014772634,
+                    0.03183858791014661,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Na linha transversal, \u00e9 permitido o direito de representa\u00e7\u00e3o em favor dos sobrinhos, quando concorrerem com sobrinhos-netos."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "O direito de representa\u00e7\u00e3o consiste no chamamento de determinados parentes do de cujus a suceder em todos os direitos a ele transmitidos, sendo permitido tanto na sucess\u00e3o leg\u00edtima quanto na testament\u00e1ria.",
                 "pmi": [
-                    -0.04274173722727219,
+                    0.035818411398914944,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Em n\u00e3o havendo filhos para exercer o direito de representa\u00e7\u00e3o, este ser\u00e1 exercido pelos pais do representado."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.020467663656522823,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O direito de representa\u00e7\u00e3o consiste no chamamento de determinados parentes do de cujus a suceder em todos os direitos a ele transmitidos, sendo permitido tanto na sucess\u00e3o leg\u00edtima quanto na testament\u00e1ria."
             }
         ],
-        "filename": "2014-14.txt",
-        "enum": "Segundo o C\u00f3digo Civil de 2002, acerca do direito de representa\u00e7\u00e3o, instituto do Direito das Sucess\u00f5es, assinale a op\u00e7\u00e3o correta.",
-        "valid": true,
-        "areas": [
-            "CIVIL"
-        ]
+        "valid": true
     }
 ]

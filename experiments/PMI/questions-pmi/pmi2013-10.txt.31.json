@@ -1,6 +1,8 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
         "enum": "A fim de permitir o escoamento da produ\u00e7\u00e3o at\u00e9 uma refinaria, uma empresa p\u00fablica federal, que explora a prospec\u00e7\u00e3o de petr\u00f3leo em um campo terrestre, inicia a constru\u00e7\u00e3o de um oleoduto. O \u00fanico caminho poss\u00edvel para essa constru\u00e7\u00e3o atravessa a propriedade rural de Josenildo que, em raz\u00e3o do oleoduto, teve que diminuir o espa\u00e7o de plantio de mam\u00e3o e, com isso, viu sua renda mensal cair pela metade.\n\n Assinale a afirmativa que indica a instru\u00e7\u00e3o correta que um advogado deve passar a Josenildo.",
         "filename": "2013-10.txt",
         "number": "31",
@@ -8,50 +10,48 @@
             {
                 "correct": true,
                 "letter": "A",
-                "text": "N\u00e3o h\u00e1 \u00f3bice \u00e0 constitui\u00e7\u00e3o da servid\u00e3o administrativa no caso, mas cabe indeniza\u00e7\u00e3o pelos danos decorrentes dessa forma de interven\u00e7\u00e3o na propriedade.",
                 "pmi": [
-                    -0.085813344574306,
+                    0.024803106972335263,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o h\u00e1 \u00f3bice \u00e0 constitui\u00e7\u00e3o da servid\u00e3o administrativa no caso, mas cabe indeniza\u00e7\u00e3o pelos danos decorrentes dessa forma de interven\u00e7\u00e3o na propriedade."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "A servid\u00e3o administrativa \u00e9 ilegal e Josenildo pode desconstitu\u00ed-la, pois o instituto s\u00f3 tem aplica\u00e7\u00e3o em rela\u00e7\u00e3o aos bens p\u00fablicos.",
                 "pmi": [
-                    -0.03341517037140642,
+                    0.015256068309115743,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A servid\u00e3o administrativa \u00e9 ilegal e Josenildo pode desconstitu\u00ed-la, pois o instituto s\u00f3 tem aplica\u00e7\u00e3o em rela\u00e7\u00e3o aos bens p\u00fablicos."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "A servid\u00e3o administrativa \u00e9 ilegal, pois o nosso ordenamento veda a interven\u00e7\u00e3o do Estado sobre propriedades produtivas.",
                 "pmi": [
-                    -0.07849208551809436,
+                    0.012766487007884686,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A servid\u00e3o administrativa \u00e9 ilegal, pois o nosso ordenamento veda a interven\u00e7\u00e3o do Estado sobre propriedades produtivas."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "N\u00e3o h\u00e1 \u00f3bice \u00e0 constitui\u00e7\u00e3o da servid\u00e3o administrativa e n\u00e3o h\u00e1 de se falar em qualquer indeniza\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o h\u00e1 \u00f3bice \u00e0 constitui\u00e7\u00e3o da servid\u00e3o administrativa e n\u00e3o h\u00e1 de se falar em qualquer indeniza\u00e7\u00e3o."
             }
         ],
-        "areas": [
-            "ADMINISTRATIVE"
-        ]
+        "valid": true
     }
 ]

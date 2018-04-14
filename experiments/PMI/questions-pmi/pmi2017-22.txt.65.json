@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Daniel foi autor de um crime de homic\u00eddio doloso consumado em desfavor de William. Ap\u00f3s a den\u00fancia e ao fim da primeira fase do procedimento bif\u00e1sico dos crimes dolosos contra a vida, Daniel foi pronunciado. Inconformado, o advogado do acusado interp\u00f4s o recurso cab\u00edvel, mas o juiz de primeira inst\u00e2ncia, ao realizar o primeiro ju\u00edzo de admissibilidade, negou seguimento ao recurso. Novamente inconformado com a decis\u00e3o, o defensor de Daniel impetrou nova medida.  Considerando a situa\u00e7\u00e3o narrada, assinale a op\u00e7\u00e3o que indica o recurso interposto da decis\u00e3o de pron\u00fancia e a medida para combater a decis\u00e3o que denegou o recurso anterior, respetivamente.",
+        "filename": "2017-22.txt",
         "number": "65",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.06138550355345398,
+                    0.027107657683859043,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "Apela\u00e7\u00e3o e Recurso em Sentido Estrito."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.08184733807127197,
+                    0.03614354357847872,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Recurso em Sentido Estrito e novo Recurso em Sentido Estrito."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.04910840284276318,
+                    0.021686126147087235,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "Recurso em Sentido Estrito e Carta Testemunh\u00e1vel."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "Apela\u00e7\u00e3o e Carta Testemunh\u00e1vel."
             }
         ],
-        "enum": "Daniel foi autor de um crime de homic\u00eddio doloso consumado em desfavor de William. Ap\u00f3s a den\u00fancia e ao fim da primeira fase do procedimento bif\u00e1sico dos crimes dolosos contra a vida, Daniel foi pronunciado. Inconformado, o advogado do acusado interp\u00f4s o recurso cab\u00edvel, mas o juiz de primeira inst\u00e2ncia, ao realizar o primeiro ju\u00edzo de admissibilidade, negou seguimento ao recurso. Novamente inconformado com a decis\u00e3o, o defensor de Daniel impetrou nova medida.  Considerando a situa\u00e7\u00e3o narrada, assinale a op\u00e7\u00e3o que indica o recurso interposto da decis\u00e3o de pron\u00fancia e a medida para combater a decis\u00e3o que denegou o recurso anterior, respetivamente.",
-        "areas": [
-            null
-        ],
-        "valid": true,
-        "filename": "2017-22.txt"
+        "valid": true
     }
 ]

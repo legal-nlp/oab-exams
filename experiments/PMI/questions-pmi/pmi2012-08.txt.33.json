@@ -1,57 +1,57 @@
 [
     {
-        "enum": "S\u00edlvio, servidor p\u00fablico, durante uma dilig\u00eancia com carro oficial do Estado X para o qual trabalha, se envolve em acidente de tr\u00e2nsito, por sua culpa, atingindo o carro de Jo\u00e3o.\n\n Considerando a situa\u00e7\u00e3o acima e a evolu\u00e7\u00e3o do entendimento sobre o tema, assinale a afirmativa correta.",
-        "filename": "2012-08.txt",
-        "valid": true,
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "S\u00edlvio, servidor p\u00fablico, durante uma dilig\u00eancia com carro oficial do Estado X para o qual trabalha, se envolve em acidente de tr\u00e2nsito, por sua culpa, atingindo o carro de Jo\u00e3o.\n\n Considerando a situa\u00e7\u00e3o acima e a evolu\u00e7\u00e3o do entendimento sobre o tema, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "33",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.08873029562151656,
+                    -0.007611564487312945,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "Jo\u00e3o dever\u00e1 demandar S\u00edlvio ou o Estado X, \u00e0 sua escolha, por\u00e9m, caso opte por demandar S\u00edlvio, ter\u00e1 que comprovar a sua culpa, ao passo que o Estado responde independentemente dela."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.08318465214517178,
+                    -0.007135841706855886,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Jo\u00e3o poder\u00e1 demandar S\u00edlvio ou o Estado X, \u00e0 sua escolha, por\u00e9m, caso opte por demandar S\u00edlvio, presumir-se-\u00e1 sua culpa, ao passo que o Estado responde independentemente dela."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.17566047878315513,
+                    0.011536593065007041,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "Jo\u00e3o poder\u00e1 demandar apenas o Estado X, j\u00e1 que S\u00edlvio estava em servi\u00e7o quando da colis\u00e3o e, por isso, a responsabilidade objetiva \u00e9 do Estado, que ter\u00e1 direito de regresso contra S\u00edlvio, em caso de culpa."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.12240209986955473,
+                    -0.006518198249263865,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "Jo\u00e3o ter\u00e1 que demandar S\u00edlvio e o Estado X, j\u00e1 que este \u00faltimo s\u00f3 responde caso comprovada a culpa de S\u00edlvio, que, no entanto, ser\u00e1 presumida por ser ele servidor do Estado (responsabilidade objetiva)."
             }
         ],
-        "number": "33"
+        "valid": true
     }
 ]

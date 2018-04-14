@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "correct": null,
-                "pmi": [
-                    -0.06562450983181951,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o, porque Walter tem um filho brasileiro.",
-                "letter": "A"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.12406777513183655,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "pode conceder a extradi\u00e7\u00e3o, por meio de ordem expedida por um juiz federal.",
-                "letter": "B"
-            },
-            {
-                "correct": true,
-                "pmi": [
-                    -0.06207292426076273,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "pode conceder a extradi\u00e7\u00e3o, desde que cumpridos os requisitos legais do Estatuto do Estrangeiro.",
-                "letter": "C"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.03594982960991984,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o, pois esta s\u00f3 seria poss\u00edvel se houvesse tratado com o pa\u00eds de origem de Walter.",
-                "letter": "D"
-            }
-        ],
-        "number": "23",
         "areas": [
             null
         ],
         "enum": "Walter, estrangeiro, casou-se com L\u00facia, por quem se apaixonou quando passou as f\u00e9rias em Florian\u00f3polis. O casal tem um filho, Ricardo, de 2 anos.  Residente no Brasil h\u00e1 mais de cinco anos, Walter \u00e9 acusado de ter cometido um crime em outro pa\u00eds. Como o Brasil possui promessa de reciprocidade com o referido pa\u00eds, este encaminha ao governo brasileiro o pedido de extradi\u00e7\u00e3o de Walter.\n\n Nesse caso, o governo brasileiro",
-        "filename": "2017-22.txt"
+        "filename": "2017-22.txt",
+        "number": "23",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.04889605176940911,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o, porque Walter tem um filho brasileiro."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.019082926869699222,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "pode conceder a extradi\u00e7\u00e3o, por meio de ordem expedida por um juiz federal."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.06062767745483936,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "pode conceder a extradi\u00e7\u00e3o, desde que cumpridos os requisitos legais do Estatuto do Estrangeiro."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.011767071057258749,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o, pois esta s\u00f3 seria poss\u00edvel se houvesse tratado com o pa\u00eds de origem de Walter."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A respeito dos Princ\u00edpios Tribut\u00e1rios Expressos e Impl\u00edcitos, \u00e0 luz da Constitui\u00e7\u00e3o da Rep\u00fablica de 1988, assinale a op\u00e7\u00e3o INCORRETA.",
         "areas": [
             "TAXES"
         ],
-        "valid": true,
-        "number": "28",
+        "enum": "A respeito dos Princ\u00edpios Tribut\u00e1rios Expressos e Impl\u00edcitos, \u00e0 luz da Constitui\u00e7\u00e3o da Rep\u00fablica de 1988, assinale a op\u00e7\u00e3o INCORRETA.",
         "filename": "2013-12.txt",
+        "number": "28",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.05653839840664461,
+                    0.024580332727559,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "\u00c9 vedado \u00e0 Uni\u00e3o instituir isen\u00e7\u00f5es de tributos de compet\u00eancia dos Estados, do Distrito Federal e dos Munic\u00edpios.",
-                "letter": "A"
+                "text": "\u00c9 vedado \u00e0 Uni\u00e3o instituir isen\u00e7\u00f5es de tributos de compet\u00eancia dos Estados, do Distrito Federal e dos Munic\u00edpios."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.3199025264159342,
+                    0.1168906412297775,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "O princ\u00edpio da irretroatividade veda a cobran\u00e7a de tributos em rela\u00e7\u00e3o a fatos geradores ocorridos antes do in\u00edcio da vig\u00eancia da lei que os houver institu\u00eddo ou aumentado.",
-                "letter": "B"
+                "text": "O princ\u00edpio da irretroatividade veda a cobran\u00e7a de tributos em rela\u00e7\u00e3o a fatos geradores ocorridos antes do in\u00edcio da vig\u00eancia da lei que os houver institu\u00eddo ou aumentado."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.040384570290460435,
+                    0.017557380519685,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "\u00c9 vedado aos Estados, ao Distrito Federal e aos Munic\u00edpios estabelecer diferen\u00e7a tribut\u00e1ria entre bens e servi\u00e7os, de qualquer natureza, em raz\u00e3o de sua proced\u00eancia ou destino.",
-                "letter": "C"
+                "text": "\u00c9 vedado aos Estados, ao Distrito Federal e aos Munic\u00edpios estabelecer diferen\u00e7a tribut\u00e1ria entre bens e servi\u00e7os, de qualquer natureza, em raz\u00e3o de sua proced\u00eancia ou destino."
             },
             {
-                "pmi": [
-                    -0.1824435748300457,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Pelo princ\u00edpio da anterioridade, para que os tributos possam ser cobrados a cada exerc\u00edcio, \u00e9 necess\u00e1ria a pr\u00e9via autoriza\u00e7\u00e3o na lei or\u00e7ament\u00e1ria.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.03878932826323685,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Pelo princ\u00edpio da anterioridade, para que os tributos possam ser cobrados a cada exerc\u00edcio, \u00e9 necess\u00e1ria a pr\u00e9via autoriza\u00e7\u00e3o na lei or\u00e7ament\u00e1ria."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

@@ -3,16 +3,15 @@
         "areas": [
             "TAXES"
         ],
-        "number": "55",
-        "valid": true,
-        "filename": "2011-04.txt",
         "enum": "Jos\u00e9 dos Anjos aju\u00edza a\u00e7\u00e3o anulat\u00f3ria de d\u00e9bito fiscal ap\u00f3s realizar dep\u00f3sito do montante integral do cr\u00e9dito que busca a anula\u00e7\u00e3o. Nesse sentido, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "55",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.1430628219184753,
+                    -0.028542260317246656,
                     0.0,
                     0.0,
                     0.0
@@ -23,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.11256515342916162,
+                    0.010135448286440439,
                     0.0,
                     0.0,
                     0.0
@@ -34,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.1756447483200547,
+                    0.05339637488240256,
                     0.0,
                     0.0,
                     0.0
@@ -45,13 +44,14 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.2340267772689963,
+                    0.07429781165738847,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "caso o contribuinte saia vencido, caber\u00e1 \u00e0 Fazenda promover execu\u00e7\u00e3o fiscal para fins de receber o cr\u00e9dito que lhe \u00e9 devido."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2015-18.txt",
         "areas": [],
-        "valid": true,
         "enum": "Um grupo autodenominado \u201cSangue Puro\u201d passou a se organizar sob a forma de associa\u00e7\u00e3o. No seu estatuto, \u00e9 poss\u00edvel identificar claros prop\u00f3sitos de incita\u00e7\u00e3o \u00e0 viol\u00eancia contra indiv\u00edduos pertencentes a determinadas minorias sociais. Diversas organiza\u00e7\u00f5es n\u00e3o governamentais voltadas \u00e0 defesa dos direitos humanos, bem como o Minist\u00e9rio P\u00fablico, ajuizaram medidas judiciais solicitando a sua imediata dissolu\u00e7\u00e3o.\n\n Segundo a Constitui\u00e7\u00e3o Federal, a respeito da hip\u00f3tese formulada, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
         "number": "17",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1056395337963019,
+                    0.08849076293512552,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A associa\u00e7\u00e3o n\u00e3o poder\u00e1 sofrer qualquer interven\u00e7\u00e3o do Poder Judici\u00e1rio, pois \u00e9 vedada a interfer\u00eancia estatal no funcionamento das associa\u00e7\u00f5es.",
-                "correct": null,
-                "letter": "A"
+                "text": "A associa\u00e7\u00e3o n\u00e3o poder\u00e1 sofrer qualquer interven\u00e7\u00e3o do Poder Judici\u00e1rio, pois \u00e9 vedada a interfer\u00eancia estatal no funcionamento das associa\u00e7\u00f5es."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.06697580083137217,
+                    0.01622289776781101,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Caso o pedido de dissolu\u00e7\u00e3o seja acolhido, a associa\u00e7\u00e3o poder\u00e1 ser compulsoriamente dissolvida, independentemente do tr\u00e2nsito em julgado da senten\u00e7a judicial.",
-                "correct": null,
-                "letter": "B"
+                "text": "Caso o pedido de dissolu\u00e7\u00e3o seja acolhido, a associa\u00e7\u00e3o poder\u00e1 ser compulsoriamente dissolvida, independentemente do tr\u00e2nsito em julgado da senten\u00e7a judicial."
             },
             {
-                "pmi": [
-                    -0.05959795274010415,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A associa\u00e7\u00e3o poder\u00e1 ter suas atividades imediatamente suspensas por decis\u00e3o judicial, independentemente do seu tr\u00e2nsito em julgado.",
                 "correct": true,
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.03437096957816144,
+                    0.023600745859079033,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Apenas se justificaria a interven\u00e7\u00e3o estatal se caracterizada a natureza paramilitar da associa\u00e7\u00e3o em comento.",
+                "text": "A associa\u00e7\u00e3o poder\u00e1 ter suas atividades imediatamente suspensas por decis\u00e3o judicial, independentemente do seu tr\u00e2nsito em julgado."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.05922756634591964,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas se justificaria a interven\u00e7\u00e3o estatal se caracterizada a natureza paramilitar da associa\u00e7\u00e3o em comento."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

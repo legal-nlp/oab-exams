@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2015-18.txt",
         "areas": [],
-        "valid": true,
+        "enum": "M\u00e1rcia trafegava regularmente a 40 km/h em uma rua da cidade de Salvador/BA quando seu carro foi abalroado pelo ve\u00edculo de T\u00e2nia que, ao atender a uma liga\u00e7\u00e3o do telefone celular enquanto dirigia, perdeu a dire\u00e7\u00e3o e invadiu a pista contr\u00e1ria de rolamento, causando o acidente. Acalmados os \u00e2nimos, as partes n\u00e3o chegaram a um acordo, pelo que M\u00e1rcia ajuizou, perante a 2\u00aa Vara C\u00edvel de Salvador/BA, uma a\u00e7\u00e3o de repara\u00e7\u00e3o de danos materiais, danos morais e lucros cessantes contra T\u00e2nia, que, ap\u00f3s ser regularmente citada, contestou todos os pedidos autorais, alegando n\u00e3o ter dado causa ao acidente.\n\n Em senten\u00e7a, ap\u00f3s o tramitar processual em que foram cumpridas todas as exig\u00eancias procedimentais, o magistrado julga procedentes os pedidos de danos materiais e de danos morais, rejeitando, por\u00e9m, o de pedido de lucros cessantes, por entender inexistirem provas desse dano alegado, tendo tal senten\u00e7a transitada em julgado em 19/10/2012.\n\n Sobre os fatos descritos, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "number": "56",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.04594280279850485,
+                    0.023836750865326203,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "M\u00e1rcia poder\u00e1 propor uma nova demanda com o objetivo de obter os lucros cessantes, desde que apresente, nesse novo processo, as provas da ocorr\u00eancia desse dano."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.06377648969467448,
+                    0.014725508177135475,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "Se T\u00e2nia quiser se valer de uma a\u00e7\u00e3o rescis\u00f3ria, ter\u00e1 somente at\u00e9 o dia 19/10/2013 para faz\u00ea-lo, sob pena de decad\u00eancia."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.03603963666718603,
+                    0.0009024799783715966,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "Admitindo-se a hip\u00f3tese de que T\u00e2nia descobrisse que o juiz \u00e9 irm\u00e3o de M\u00e1rcia, ela poderia se valer de uma a\u00e7\u00e3o anulat\u00f3ria para fazer cessar os efeitos da senten\u00e7a, haja vista a falta de imparcialidade do julgador."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.05563337945531993,
+                    0.004177666542249549,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": true,
                 "text": "Eventual a\u00e7\u00e3o rescis\u00f3ria proposta por T\u00e2nia n\u00e3o impede a execu\u00e7\u00e3o da decis\u00e3o da senten\u00e7a por parte de M\u00e1rcia, ainda que T\u00e2nia demonstre que a senten\u00e7a foi injusta."
             }
         ],
-        "enum": "M\u00e1rcia trafegava regularmente a 40 km/h em uma rua da cidade de Salvador/BA quando seu carro foi abalroado pelo ve\u00edculo de T\u00e2nia que, ao atender a uma liga\u00e7\u00e3o do telefone celular enquanto dirigia, perdeu a dire\u00e7\u00e3o e invadiu a pista contr\u00e1ria de rolamento, causando o acidente. Acalmados os \u00e2nimos, as partes n\u00e3o chegaram a um acordo, pelo que M\u00e1rcia ajuizou, perante a 2\u00aa Vara C\u00edvel de Salvador/BA, uma a\u00e7\u00e3o de repara\u00e7\u00e3o de danos materiais, danos morais e lucros cessantes contra T\u00e2nia, que, ap\u00f3s ser regularmente citada, contestou todos os pedidos autorais, alegando n\u00e3o ter dado causa ao acidente.\n\n Em senten\u00e7a, ap\u00f3s o tramitar processual em que foram cumpridas todas as exig\u00eancias procedimentais, o magistrado julga procedentes os pedidos de danos materiais e de danos morais, rejeitando, por\u00e9m, o de pedido de lucros cessantes, por entender inexistirem provas desse dano alegado, tendo tal senten\u00e7a transitada em julgado em 19/10/2012.\n\n Sobre os fatos descritos, assinale a afirmativa correta.",
-        "number": "56"
+        "valid": true
     }
 ]

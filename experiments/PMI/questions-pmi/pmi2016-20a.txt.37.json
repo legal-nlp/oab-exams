@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Joana e Alcindo, casados sob o regime da comunh\u00e3o universal de bens, estavam a caminho de uma festa no litoral da Bahia, quando tiveram o carro atingido por um caminh\u00e3o em alta velocidade. Quando a equipe de socorro chegou ao local, ambos os c\u00f4njuges estavam sem vida. Conforme laudo pericial realizado, n\u00e3o foi poss\u00edvel determinar se Joana morreu antes de Alcindo.\n\n Joana, que tinha vinte e cinco anos, deixou apenas um parente vivo, seu irm\u00e3o Alfredo, enquanto Alcindo, que j\u00e1 tinha cinquenta e nove anos, deixou tr\u00eas familiares vivos, seus primos Guilherme e Jorge, e seu sobrinho, Anderson.\n\n Considerando que nenhum dos c\u00f4njuges elaborou testamento, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "37",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Tendo em vista a morte simult\u00e2nea dos c\u00f4njuges, Alfredo receber\u00e1 integralmente os bens de Joana, e a heran\u00e7a de Alcindo ser\u00e1 dividida, em partes iguais, entre os seus herdeiros necess\u00e1rios, Guilherme, Jorge e Anderson.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Tendo em vista a morte simult\u00e2nea dos c\u00f4njuges, Alfredo receber\u00e1 integralmente os bens de Joana, e a heran\u00e7a de Alcindo ser\u00e1 dividida, em partes iguais, entre os seus herdeiros necess\u00e1rios, Guilherme, Jorge e Anderson."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Entre comorientes n\u00e3o h\u00e1 transmiss\u00e3o de patrim\u00f4nio mas como Joana e Alcindo eram casados em regime de comunh\u00e3o universal de bens o patrim\u00f4nio total do casal ser\u00e1 dividido em partes iguais e distribu\u00eddo entre os herdeiros necess\u00e1rios de ambos, ou seja, Alfredo, Guilherme, Jorge e Anderson.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Entre comorientes n\u00e3o h\u00e1 transmiss\u00e3o de patrim\u00f4nio mas como Joana e Alcindo eram casados em regime de comunh\u00e3o universal de bens o patrim\u00f4nio total do casal ser\u00e1 dividido em partes iguais e distribu\u00eddo entre os herdeiros necess\u00e1rios de ambos, ou seja, Alfredo, Guilherme, Jorge e Anderson."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "Entre comorientes n\u00e3o h\u00e1 transmiss\u00e3o de patrim\u00f4nio e a heran\u00e7a de cada um dos falecidos ser\u00e1 dividida entre os seus respectivos herdeiros, raz\u00e3o pela qual Alfredo herdar\u00e1 integralmente os bens de Joana, enquanto Anderson herdar\u00e1 os bens de Alcindo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Entre comorientes n\u00e3o h\u00e1 transmiss\u00e3o de patrim\u00f4nio e a heran\u00e7a de cada um dos falecidos ser\u00e1 dividida entre os seus respectivos herdeiros, raz\u00e3o pela qual Alfredo herdar\u00e1 integralmente os bens de Joana, enquanto Anderson herdar\u00e1 os bens de Alcindo."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "Diante da impossibilidade pericial de determinar qual dos c\u00f4njuges morreu primeiro, aplica-se o regime jur\u00eddico da comori\u00eancia, pelo que se presume, em raz\u00e3o da idade, que a morte de Alcindo tenha ocorrido primeiro.",
                 "pmi": [
-                    -0.0034162688374255,
+                    0.009063535952451976,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Diante da impossibilidade pericial de determinar qual dos c\u00f4njuges morreu primeiro, aplica-se o regime jur\u00eddico da comori\u00eancia, pelo que se presume, em raz\u00e3o da idade, que a morte de Alcindo tenha ocorrido primeiro."
             }
         ],
-        "filename": "2016-20a.txt",
-        "number": "37",
-        "areas": [],
-        "valid": true,
-        "enum": "Joana e Alcindo, casados sob o regime da comunh\u00e3o universal de bens, estavam a caminho de uma festa no litoral da Bahia, quando tiveram o carro atingido por um caminh\u00e3o em alta velocidade. Quando a equipe de socorro chegou ao local, ambos os c\u00f4njuges estavam sem vida. Conforme laudo pericial realizado, n\u00e3o foi poss\u00edvel determinar se Joana morreu antes de Alcindo.\n\n Joana, que tinha vinte e cinco anos, deixou apenas um parente vivo, seu irm\u00e3o Alfredo, enquanto Alcindo, que j\u00e1 tinha cinquenta e nove anos, deixou tr\u00eas familiares vivos, seus primos Guilherme e Jorge, e seu sobrinho, Anderson.\n\n Considerando que nenhum dos c\u00f4njuges elaborou testamento, assinale a afirmativa correta."
+        "valid": true
     }
 ]

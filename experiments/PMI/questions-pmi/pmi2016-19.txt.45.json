@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "Marcelo, com 17 anos, e seu irm\u00e3o Caio, com 20 anos de idade, permanecem sozinhos na casa da fam\u00edlia, enquanto os pais viajam por 30 dias em f\u00e9rias no exterior. Durante tal per\u00edodo, Marcelo, que acabou de terminar o ensino m\u00e9dio, recebe uma excelente proposta de trabalho. Ao comparecer \u00e0 empresa para assinar o contrato de trabalho, Marcelo \u00e9 impedido pela falta de um respons\u00e1vel. Marcelo, ent\u00e3o, procura orienta\u00e7\u00e3o de um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a a\u00e7\u00e3o que dever\u00e1 ser ajuizada, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, para que o adolescente n\u00e3o perca a oportunidade de emprego.",
         "filename": "2016-19.txt",
         "number": "45",
         "options": [
             {
-                "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    -0.10193969222524796,
+                    -0.01680049919809548,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela."
             },
             {
-                "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.0757097748233645,
+                    -0.02604524555752555,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria."
             },
             {
-                "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato.",
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.1985533270284782,
+                    0.00010479003487758783,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato."
             },
             {
-                "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.10193969222524796,
+                    -0.01680049919809548,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar."
             }
         ],
-        "areas": [],
-        "enum": "Marcelo, com 17 anos, e seu irm\u00e3o Caio, com 20 anos de idade, permanecem sozinhos na casa da fam\u00edlia, enquanto os pais viajam por 30 dias em f\u00e9rias no exterior. Durante tal per\u00edodo, Marcelo, que acabou de terminar o ensino m\u00e9dio, recebe uma excelente proposta de trabalho. Ao comparecer \u00e0 empresa para assinar o contrato de trabalho, Marcelo \u00e9 impedido pela falta de um respons\u00e1vel. Marcelo, ent\u00e3o, procura orienta\u00e7\u00e3o de um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a a\u00e7\u00e3o que dever\u00e1 ser ajuizada, de acordo com o Estatuto da Crian\u00e7a e do Adolescente, para que o adolescente n\u00e3o perca a oportunidade de emprego."
+        "valid": true
     }
 ]

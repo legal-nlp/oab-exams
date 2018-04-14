@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-08.txt",
-        "number": "79",
         "areas": [
             "LABOUR-PROCEDURE"
         ],
+        "enum": "A respeito do procedimento sumar\u00edssimo no processo do trabalho, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "79",
         "options": [
             {
-                "text": "A aprecia\u00e7\u00e3o da reclama\u00e7\u00e3o trabalhista dever\u00e1 ocorrer no prazo m\u00e1ximo de quinze dias da data de seu ajuizamento.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "A"
-            },
-            {
-                "text": "A cita\u00e7\u00e3o por edital somente \u00e9 cab\u00edvel se esgotadas todas as tentativas de se localizar o reclamado.",
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "A aprecia\u00e7\u00e3o da reclama\u00e7\u00e3o trabalhista dever\u00e1 ocorrer no prazo m\u00e1ximo de quinze dias da data de seu ajuizamento."
             },
             {
-                "text": "As partes devem ser intimadas da senten\u00e7a por notifica\u00e7\u00e3o postal.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "A cita\u00e7\u00e3o por edital somente \u00e9 cab\u00edvel se esgotadas todas as tentativas de se localizar o reclamado."
             },
             {
-                "text": "N\u00e3o cabe a interposi\u00e7\u00e3o de recurso de revista.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "As partes devem ser intimadas da senten\u00e7a por notifica\u00e7\u00e3o postal."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o cabe a interposi\u00e7\u00e3o de recurso de revista."
             }
         ],
-        "enum": "A respeito do procedimento sumar\u00edssimo no processo do trabalho, assinale a afirmativa correta.",
         "valid": true
     }
 ]

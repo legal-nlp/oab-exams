@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "BUSINESS"
+        ],
         "enum": "Uma sociedade empres\u00e1ria atuante no mercado imobili\u00e1rio, com sede e principal estabelecimento na cidade de Pedro Afonso, obteve concess\u00e3o de sua recupera\u00e7\u00e3o judicial. Diante da necessidade de aliena\u00e7\u00e3o de bens do ativo permanente, n\u00e3o relacionados previamente no plano de recupera\u00e7\u00e3o, foi convocada assembleia geral de credores. A proposta de aliena\u00e7\u00e3o foi aprovada em raz\u00e3o do voto decisivo da credora Tuntum Imperatriz Representa\u00e7\u00f5es Ltda., cujo s\u00f3cio majorit\u00e1rio tem participa\u00e7\u00e3o de 25% no capital da sociedade recuperanda.\n\n Com base nas disposi\u00e7\u00f5es da Lei n. 11.101/2005 (Lei de Fal\u00eancias e Recupera\u00e7\u00e3o Judicial de Empresas), assinale a afirmativa correta.",
         "filename": "2013-11.txt",
         "number": "51",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.0751317372495373,
+                    0.03640651805999265,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "A decis\u00e3o \u00e9 nula de pleno direito, pois a pretens\u00e3o de aliena\u00e7\u00e3o de bens do ativo permanente, n\u00e3o relacionados no plano, enseja a convola\u00e7\u00e3o da recupera\u00e7\u00e3o judicial em fal\u00eancia."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.04568143070435619,
+                    0.016717593245031196,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "A autoriza\u00e7\u00e3o para a aliena\u00e7\u00e3o de bens do ativo permanente, n\u00e3o relacionados no plano de recupera\u00e7\u00e3o judicial, \u00e9 uma prerrogativa exclusiva do administrador judicial."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.03464793922206305,
+                    0.023294011588082378,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": true,
                 "text": "O voto de Tuntum Imperatriz Representa\u00e7\u00f5es Ltda. n\u00e3o poderia ter sido considerado para fins de verifica\u00e7\u00e3o do quorum de instala\u00e7\u00e3o e de delibera\u00e7\u00e3o da assembleia geral."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.015180765050583645,
+                    0.011858811994150889,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "A decis\u00e3o assemblear \u00e9 anul\u00e1vel, pois a sociedade Tuntum Imperatriz Representa\u00e7\u00f5es Ltda. como credora, n\u00e3o poderia ter participado da assembleia geral."
             }
         ],
-        "valid": true,
-        "areas": [
-            "BUSINESS"
-        ]
+        "valid": true
     }
 ]

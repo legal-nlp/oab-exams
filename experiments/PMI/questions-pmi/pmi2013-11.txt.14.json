@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "Assinale a alternativa que completa corretamente o fragmento a seguir.\n\n A desapropria\u00e7\u00e3o para fins de reforma agr\u00e1ria ocorre mediante pr\u00e9via e justa indeniza\u00e7\u00e3o",
         "filename": "2013-11.txt",
+        "number": "14",
         "options": [
             {
-                "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.0004631639670339644,
+                    0.13859751797731507,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
             },
             {
-                "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    0.012002189978240199,
+                    0.3596538948391128,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o."
             },
             {
-                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.015286120650841216,
-                    0.03153117459791407,
-                    0.05765719364395496,
+                    0.18337199641251456,
+                    0.15632922249668882,
+                    0.21989465591236215,
                     0.0
                 ],
-                "correct": null
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
             },
             {
-                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro.",
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.013664833048882292,
-                    0.027026721083926345,
-                    0.04804766136996247,
+                    0.24707394559677215,
+                    0.13399647642573329,
+                    0.18324554659363512,
                     0.0
                 ],
-                "correct": true
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro."
             }
         ],
-        "number": "14",
-        "enum": "Assinale a alternativa que completa corretamente o fragmento a seguir.\n\n A desapropria\u00e7\u00e3o para fins de reforma agr\u00e1ria ocorre mediante pr\u00e9via e justa indeniza\u00e7\u00e3o"
+        "valid": true
     }
 ]

@@ -3,55 +3,55 @@
         "areas": [
             "ETHICS"
         ],
+        "enum": "O advogado Walter recebe correspond\u00eancia eletr\u00f4nica relatando fatos que o seu cliente apresentou como importantes para constar em processo judicial a ser iniciado. Expressamente, em outra mensagem tamb\u00e9m eletr\u00f4nica, autorizou a utiliza\u00e7\u00e3o das informa\u00e7\u00f5es nas pe\u00e7as judiciais. Proposta a a\u00e7\u00e3o, os fatos foram publicizados, vindo o cliente a se arrepender da autoriza\u00e7\u00e3o dada. Com isso, busca reverter a situa\u00e7\u00e3o por ele criada. Diante da informa\u00e7\u00e3o de que, uma vez nos autos processuais, n\u00e3o poderia haver retirada das peti\u00e7\u00f5es apresentadas, amea\u00e7a o profissional com futura representa\u00e7\u00e3o disciplinar. O cliente n\u00e3o negou ter autorizado a utiliza\u00e7\u00e3o das informa\u00e7\u00f5es.\n\n Diante de tal quadro, \u00e9 correto afirmar que",
         "filename": "2011-04.txt",
+        "number": "4",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.059978559043543114,
+                    0.02851460219376991,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "mesmo com autoriza\u00e7\u00e3o, fatos considerados confidenciais na rela\u00e7\u00e3o cliente-advogado n\u00e3o podem ser divulgados judicialmente.",
-                "letter": "A"
+                "text": "mesmo com autoriza\u00e7\u00e3o, fatos considerados confidenciais na rela\u00e7\u00e3o cliente-advogado n\u00e3o podem ser divulgados judicialmente."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.05093089915363914,
+                    0.03756226208367389,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "as confid\u00eancias epistolares s\u00e3o protegidas pela imunidade absoluta quanto \u00e0 sua publicidade.",
-                "letter": "B"
+                "text": "as confid\u00eancias epistolares s\u00e3o protegidas pela imunidade absoluta quanto \u00e0 sua publicidade."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.15594478066422665,
+                    0.1095347030477124,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "essa divulga\u00e7\u00e3o depende de autoriza\u00e7\u00e3o judicial.",
-                "letter": "C"
+                "text": "essa divulga\u00e7\u00e3o depende de autoriza\u00e7\u00e3o judicial."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.056116729624050454,
+                    0.03237643161326258,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "ao advogado \u00e9 permitida a divulga\u00e7\u00e3o de confid\u00eancias, com autoriza\u00e7\u00e3o do cliente.",
-                "letter": "D"
+                "text": "ao advogado \u00e9 permitida a divulga\u00e7\u00e3o de confid\u00eancias, com autoriza\u00e7\u00e3o do cliente."
             }
         ],
-        "valid": true,
-        "enum": "O advogado Walter recebe correspond\u00eancia eletr\u00f4nica relatando fatos que o seu cliente apresentou como importantes para constar em processo judicial a ser iniciado. Expressamente, em outra mensagem tamb\u00e9m eletr\u00f4nica, autorizou a utiliza\u00e7\u00e3o das informa\u00e7\u00f5es nas pe\u00e7as judiciais. Proposta a a\u00e7\u00e3o, os fatos foram publicizados, vindo o cliente a se arrepender da autoriza\u00e7\u00e3o dada. Com isso, busca reverter a situa\u00e7\u00e3o por ele criada. Diante da informa\u00e7\u00e3o de que, uma vez nos autos processuais, n\u00e3o poderia haver retirada das peti\u00e7\u00f5es apresentadas, amea\u00e7a o profissional com futura representa\u00e7\u00e3o disciplinar. O cliente n\u00e3o negou ter autorizado a utiliza\u00e7\u00e3o das informa\u00e7\u00f5es.\n\n Diante de tal quadro, \u00e9 correto afirmar que",
-        "number": "4"
+        "valid": true
     }
 ]

@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "O Bacharel em Direito, ap\u00f3s aprova\u00e7\u00e3o no Exame de Ordem, deve apresentar c\u00f3pia do diploma. Caso ele n\u00e3o tenha sido expedido, segundo as normas do Regulamento Geral do Estatuto da Advocacia e da OAB,",
+        "filename": "2012-06a.txt",
         "number": "11",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "ocorrer\u00e1 a inscri\u00e7\u00e3o provis\u00f3ria como advogado.",
                 "pmi": [
-                    -0.024919755604341294,
+                    0.12717786527229047,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ocorrer\u00e1 a inscri\u00e7\u00e3o provis\u00f3ria como advogado."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "n\u00e3o poder\u00e1 ocorrer a inscri\u00e7\u00e3o at\u00e9 expedido o diploma.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "n\u00e3o poder\u00e1 ocorrer a inscri\u00e7\u00e3o at\u00e9 expedido o diploma."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "pode apresentar certid\u00e3o de conclus\u00e3o com hist\u00f3rico escolar.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pode apresentar certid\u00e3o de conclus\u00e3o com hist\u00f3rico escolar."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "deve obter permiss\u00e3o especial do Conselho Seccional.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "deve obter permiss\u00e3o especial do Conselho Seccional."
             }
-        ],
-        "enum": "O Bacharel em Direito, ap\u00f3s aprova\u00e7\u00e3o no Exame de Ordem, deve apresentar c\u00f3pia do diploma. Caso ele n\u00e3o tenha sido expedido, segundo as normas do Regulamento Geral do Estatuto da Advocacia e da OAB,",
-        "filename": "2012-06a.txt",
-        "areas": [
-            "ETHICS"
         ],
         "valid": true
     }

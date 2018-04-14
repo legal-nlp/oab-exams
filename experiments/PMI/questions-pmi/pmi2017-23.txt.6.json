@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica se atuar em qualquer dos processos, tendo em vista o grau de parentesco com a primeira magistrada e a exist\u00eancia de rela\u00e7\u00e3o negocial com o segundo juiz.",
-                "correct": true,
-                "pmi": [
-                    -0.021956843968443638,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A"
-            },
-            {
-                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica apenas se atuar no processo que tramita perante a ju\u00edza Dra. Isabel, tendo em vista o grau de parentesco com a magistrada. Quanto ao segundo processo, n\u00e3o h\u00e1 veda\u00e7\u00e3o \u00e9tica ao patroc\u00ednio na demanda.",
-                "correct": null,
-                "pmi": [
-                    -0.020037604263313608,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B"
-            },
-            {
-                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica apenas se atuar no processo que tramita perante o juiz Dr. Zacarias, tendo em vista a exist\u00eancia de rela\u00e7\u00e3o negocial com o magistrado. Quanto ao primeiro processo, n\u00e3o h\u00e1 veda\u00e7\u00e3o \u00e9tica ao patroc\u00ednio na demanda.",
-                "correct": null,
-                "pmi": [
-                    -0.027424880646204113,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C"
-            },
-            {
-                "text": "O Dr. Zacarias n\u00e3o cometer\u00e1 infra\u00e7\u00e3o \u00e9tica se atuar em ambos os feitos, pois as hip\u00f3teses de suspei\u00e7\u00e3o e impedimento dos ju\u00edzes versam sobre seu relacionamento com as partes, e n\u00e3o com os advogados.",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D"
-            }
-        ],
-        "number": "6",
         "areas": [
             null
         ],
         "enum": "O Dr. Silvestre, advogado, \u00e9 procurado por um cliente para patrocin\u00e1-lo em duas demandas em curso, nas quais o aludido cliente figura como autor. Ao verificar o andamento processual dos feitos, Silvestre observa que o primeiro processo tramita perante a ju\u00edza Dra. Isabel, sua tia. J\u00e1 o segundo processo tramita perante o juiz Dr. Zacarias, que, coincidentemente, \u00e9 o locador do im\u00f3vel onde o Dr. Silvestre reside.  Considerando o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, assinale a afirmativa correta.",
-        "filename": "2017-23.txt"
+        "filename": "2017-23.txt",
+        "number": "6",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.021306479303131617,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica se atuar em qualquer dos processos, tendo em vista o grau de parentesco com a primeira magistrada e a exist\u00eancia de rela\u00e7\u00e3o negocial com o segundo juiz."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.01086476950209729,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica apenas se atuar no processo que tramita perante a ju\u00edza Dra. Isabel, tendo em vista o grau de parentesco com a magistrada. Quanto ao segundo processo, n\u00e3o h\u00e1 veda\u00e7\u00e3o \u00e9tica ao patroc\u00ednio na demanda."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.013778284374343752,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Dr. Silvestre cometer\u00e1 infra\u00e7\u00e3o \u00e9tica apenas se atuar no processo que tramita perante o juiz Dr. Zacarias, tendo em vista a exist\u00eancia de rela\u00e7\u00e3o negocial com o magistrado. Quanto ao primeiro processo, n\u00e3o h\u00e1 veda\u00e7\u00e3o \u00e9tica ao patroc\u00ednio na demanda."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Dr. Zacarias n\u00e3o cometer\u00e1 infra\u00e7\u00e3o \u00e9tica se atuar em ambos os feitos, pois as hip\u00f3teses de suspei\u00e7\u00e3o e impedimento dos ju\u00edzes versam sobre seu relacionamento com as partes, e n\u00e3o com os advogados."
+            }
+        ],
+        "valid": true
     }
 ]

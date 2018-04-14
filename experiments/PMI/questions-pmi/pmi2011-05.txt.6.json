@@ -5,53 +5,53 @@
         ],
         "enum": "Jos\u00e9 foi condenado criminalmente, com senten\u00e7a transitada em julgado, e, paralelamente, punido tamb\u00e9m em processo disciplinar perante a OAB em fun\u00e7\u00e3o dos mesmos atos que resultaram naquela condena\u00e7\u00e3o criminal.\n\n Nos termos das normas estatut\u00e1rias, \u00e9 correto afirmar que",
         "filename": "2011-05.txt",
-        "valid": true,
         "number": "6",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "a reabilita\u00e7\u00e3o administrativa independe da criminal.",
                 "pmi": [
-                    0.01848263122653308,
+                    0.13436653284682393,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a reabilita\u00e7\u00e3o administrativa independe da criminal."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "ambas as reabilita\u00e7\u00f5es podem tramitar paralelamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ambas as reabilita\u00e7\u00f5es podem tramitar paralelamente."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "a reabilita\u00e7\u00e3o administrativa \u00e9 pressuposto da criminal.",
                 "pmi": [
-                    0.01848263122653308,
+                    0.13436653284682393,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a reabilita\u00e7\u00e3o administrativa \u00e9 pressuposto da criminal."
             },
             {
-                "letter": "D",
                 "correct": true,
-                "text": "\u00e9 pressuposto da reabilita\u00e7\u00e3o \u00e0 OAB o deferimento da criminal.",
+                "letter": "D",
                 "pmi": [
-                    0.014786104981226464,
+                    0.10749322627745915,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 pressuposto da reabilita\u00e7\u00e3o \u00e0 OAB o deferimento da criminal."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

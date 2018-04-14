@@ -2,52 +2,52 @@
     {
         "areas": [],
         "enum": "Alo\u00edsio ajuizou a\u00e7\u00e3o de anula\u00e7\u00e3o de casamento em face de J\u00falia. No curso do processo, o juiz designou audi\u00eancia de instru\u00e7\u00e3o e julgamento para colheita dos depoimentos pessoais de Alo\u00edsio e J\u00falia e oitiva das testemunhas.\n\n Considerando as regras sobre depoimento pessoal previstas no C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
-        "number": "55",
         "filename": "2015-17.txt",
+        "number": "55",
         "options": [
             {
-                "text": "O C\u00f3digo de Processo Civil admite que J\u00falia se valha da escusa do dever de depor sobre fatos torpes que lhe forem imputados por Alo\u00edsio.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.10457393993301463,
+                    0.05922349793412729,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "O C\u00f3digo de Processo Civil admite que J\u00falia se valha da escusa do dever de depor sobre fatos torpes que lhe forem imputados por Alo\u00edsio."
             },
             {
-                "text": "Alo\u00edsio e J\u00falia, apesar de devidamente intimados, poder\u00e3o se recusar a depor, sem que seja aplicada a pena de confiss\u00e3o, por ser o depoimento pessoal mero meio de prova.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.10027247464303893,
+                    0.021405622058266478,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Alo\u00edsio e J\u00falia, apesar de devidamente intimados, poder\u00e3o se recusar a depor, sem que seja aplicada a pena de confiss\u00e3o, por ser o depoimento pessoal mero meio de prova."
             },
             {
-                "text": "Alo\u00edsio e J\u00falia dever\u00e3o responder pessoalmente sobre os fatos articulados, podendo consultar notas breves, desde que objetivem completar os esclarecimentos.",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.0321087007002418,
+                    0.03307599396117181,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Alo\u00edsio e J\u00falia dever\u00e3o responder pessoalmente sobre os fatos articulados, podendo consultar notas breves, desde que objetivem completar os esclarecimentos."
             },
             {
-                "text": "O C\u00f3digo de Processo Civil veda expressamente que o juiz, de of\u00edcio, determine o comparecimento pessoal de Alo\u00edsio e J\u00falia, a fim de interrog\u00e1-los sobre os fatos da causa.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.1769789358582993,
+                    0.07017969806622731,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "O C\u00f3digo de Processo Civil veda expressamente que o juiz, de of\u00edcio, determine o comparecimento pessoal de Alo\u00edsio e J\u00falia, a fim de interrog\u00e1-los sobre os fatos da causa."
             }
         ],
         "valid": true

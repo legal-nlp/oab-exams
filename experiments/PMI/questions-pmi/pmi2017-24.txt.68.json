@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-24.txt",
-        "options": [
-            {
-                "pmi": [
-                    -0.030725257735509798,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "correct": null,
-                "text": "Apenas o advogado da ex-esposa de Jo\u00e3o poder\u00e1 requerer que sua cliente seja eximida do dever de depor, devendo os demais prestar declara\u00e7\u00f5es."
-            },
-            {
-                "pmi": [
-                    -0.024566578633532853,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": null,
-                "text": "Todos os advogados poder\u00e3o requerer que seus clientes sejam eximidos do dever de depor."
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": null,
-                "text": "Apenas o advogado do padre poder\u00e1 buscar que ele n\u00e3o preste declara\u00e7\u00f5es, j\u00e1 que proibido, por of\u00edcio, de depor, devendo os demais prestar declara\u00e7\u00f5es."
-            },
-            {
-                "pmi": [
-                    -0.049151740296440684,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "correct": true,
-                "text": "Apenas os advogados da ex-esposa de Jo\u00e3o e do padre poder\u00e3o requerer que seus clientes n\u00e3o sejam ouvidos na condi\u00e7\u00e3o de testemunhas."
-            }
-        ],
-        "enum": "Durante instru\u00e7\u00e3o probat\u00f3ria em que se imputava a Jo\u00e3o a pr\u00e1tica de um crime de peculato, foram intimados para depor, em audi\u00eancia de instru\u00e7\u00e3o e julgamento, os policiais civis que participaram das investiga\u00e7\u00f5es, a ex-esposa de Jo\u00e3o, que tinha conhecimento dos fatos, e o padre para o qual Jo\u00e3o contava o que considerava seus pecados, inclusive sobre os desvios de dinheiro p\u00fablico.\n\n Preocupados, todos os intimados para depoimento foram \u00e0 audi\u00eancia, acompanhados de seus advogados, demonstrando interesse em n\u00e3o prestar declara\u00e7\u00f5es.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, assinale a afirmativa correta.",
         "areas": [
             null
         ],
-        "valid": true,
-        "number": "68"
+        "enum": "Durante instru\u00e7\u00e3o probat\u00f3ria em que se imputava a Jo\u00e3o a pr\u00e1tica de um crime de peculato, foram intimados para depor, em audi\u00eancia de instru\u00e7\u00e3o e julgamento, os policiais civis que participaram das investiga\u00e7\u00f5es, a ex-esposa de Jo\u00e3o, que tinha conhecimento dos fatos, e o padre para o qual Jo\u00e3o contava o que considerava seus pecados, inclusive sobre os desvios de dinheiro p\u00fablico.\n\n Preocupados, todos os intimados para depoimento foram \u00e0 audi\u00eancia, acompanhados de seus advogados, demonstrando interesse em n\u00e3o prestar declara\u00e7\u00f5es.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "68",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0045437558011004655,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas o advogado da ex-esposa de Jo\u00e3o poder\u00e1 requerer que sua cliente seja eximida do dever de depor, devendo os demais prestar declara\u00e7\u00f5es."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.005664004397847373,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Todos os advogados poder\u00e3o requerer que seus clientes sejam eximidos do dever de depor."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas o advogado do padre poder\u00e1 buscar que ele n\u00e3o preste declara\u00e7\u00f5es, j\u00e1 que proibido, por of\u00edcio, de depor, devendo os demais prestar declara\u00e7\u00f5es."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.008561190945285199,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Apenas os advogados da ex-esposa de Jo\u00e3o e do padre poder\u00e3o requerer que seus clientes n\u00e3o sejam ouvidos na condi\u00e7\u00e3o de testemunhas."
+            }
+        ],
+        "valid": true
     }
 ]

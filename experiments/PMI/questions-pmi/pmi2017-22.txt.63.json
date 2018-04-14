@@ -1,54 +1,54 @@
 [
     {
-        "enum": "Tony, a pedido de um colega, est\u00e1 transportando uma caixa com c\u00e1psulas que acredita ser de rem\u00e9dios, sem ter conhecimento que estas, na verdade, continham Cloridrato de Coca\u00edna em seu interior. Por outro lado, Jos\u00e9 transporta em seu ve\u00edculo 50g de Cannabis Sativa L. (maconha), pois acreditava que poderia ter pequena quantidade do material em sua posse para fins medicinais.  Ambos foram abordados por policiais e, diante da apreens\u00e3o das drogas, denunciados pela pr\u00e1tica do crime de tr\u00e1fico de entorpecentes.  Considerando apenas as informa\u00e7\u00f5es narradas, o advogado de Tony e Jos\u00e9 dever\u00e1 alegar em favor dos clientes, respectivamente, a ocorr\u00eancia de",
         "areas": [
             null
         ],
+        "enum": "Tony, a pedido de um colega, est\u00e1 transportando uma caixa com c\u00e1psulas que acredita ser de rem\u00e9dios, sem ter conhecimento que estas, na verdade, continham Cloridrato de Coca\u00edna em seu interior. Por outro lado, Jos\u00e9 transporta em seu ve\u00edculo 50g de Cannabis Sativa L. (maconha), pois acreditava que poderia ter pequena quantidade do material em sua posse para fins medicinais.  Ambos foram abordados por policiais e, diante da apreens\u00e3o das drogas, denunciados pela pr\u00e1tica do crime de tr\u00e1fico de entorpecentes.  Considerando apenas as informa\u00e7\u00f5es narradas, o advogado de Tony e Jos\u00e9 dever\u00e1 alegar em favor dos clientes, respectivamente, a ocorr\u00eancia de",
         "filename": "2017-22.txt",
         "number": "63",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.11691554176474954,
+                    -0.015517127846995021,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "A",
                 "text": "erro de tipo, nos dois casos."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.07794369450983302,
+                    -0.010344751897996681,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "erro de proibi\u00e7\u00e3o, nos dois casos."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "erro de tipo e erro de proibi\u00e7\u00e3o."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "erro de proibi\u00e7\u00e3o e erro de tipo."
             }
         ],

@@ -1,57 +1,57 @@
 [
     {
-        "enum": "No intuito de garantir o regular exerc\u00edcio da presta\u00e7\u00e3o jurisdicional, a Constitui\u00e7\u00e3o da Rep\u00fablica conferiu aos magistrados algumas prerrogativas.\n\n A respeito dessas prerrogativas, assinale a afirmativa correta.",
-        "options": [
-            {
-                "letter": "A",
-                "correct": true,
-                "text": "A inamovibilidade pode ser excepcionada no caso de relevante interesse p\u00fablico e desde que a remo\u00e7\u00e3o seja aprovada pela maioria absoluta do tribunal ou do CNJ.",
-                "pmi": [
-                    -0.13528760964384826,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": null,
-                "text": "A irredutibilidade de subs\u00eddios consiste na impossibilidade de redu\u00e7\u00e3o do poder aquisitivo do subs\u00eddio do magistrado e n\u00e3o somente do seu valor nominal.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "O magistrado, apesar da vitaliciedade, pode perder o cargo por decis\u00e3o administrativa da maioria absoluta do tribunal ou do CNJ.",
-                "pmi": [
-                    -0.04425233385290013,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": null,
-                "text": "A aposentadoria dos magistrados seguir\u00e1 regime jur\u00eddico diverso daquele aplic\u00e1vel aos servidores p\u00fablicos em geral.",
-                "pmi": [
-                    -0.046442870182673145,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2012-08.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "No intuito de garantir o regular exerc\u00edcio da presta\u00e7\u00e3o jurisdicional, a Constitui\u00e7\u00e3o da Rep\u00fablica conferiu aos magistrados algumas prerrogativas.\n\n A respeito dessas prerrogativas, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
         "number": "13",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0859452934494343,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A inamovibilidade pode ser excepcionada no caso de relevante interesse p\u00fablico e desde que a remo\u00e7\u00e3o seja aprovada pela maioria absoluta do tribunal ou do CNJ."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A irredutibilidade de subs\u00eddios consiste na impossibilidade de redu\u00e7\u00e3o do poder aquisitivo do subs\u00eddio do magistrado e n\u00e3o somente do seu valor nominal."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.016586714497752574,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O magistrado, apesar da vitaliciedade, pode perder o cargo por decis\u00e3o administrativa da maioria absoluta do tribunal ou do CNJ."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0211560724291632,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A aposentadoria dos magistrados seguir\u00e1 regime jur\u00eddico diverso daquele aplic\u00e1vel aos servidores p\u00fablicos em geral."
+            }
+        ],
         "valid": true
     }
 ]

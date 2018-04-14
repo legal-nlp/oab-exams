@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2012-06a.txt",
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
         "enum": "Quanto \u00e0s garantias dos contratos administrativos, \u00e9 correto afirmar que",
+        "filename": "2012-06a.txt",
+        "number": "29",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "a escolha do tipo de garantia se far\u00e1, sempre, com base na indisponibilidade do interesse p\u00fablico, pela Administra\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a escolha do tipo de garantia se far\u00e1, sempre, com base na indisponibilidade do interesse p\u00fablico, pela Administra\u00e7\u00e3o."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "para serem exigidas do contratado, devem ser previstas no instrumento convocat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "para serem exigidas do contratado, devem ser previstas no instrumento convocat\u00f3rio."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "\u00e9 admiss\u00edvel todo e qualquer tipo de garantia admitida pelo direito privado, \u00e0 escolha da Administra\u00e7\u00e3o.",
                 "pmi": [
-                    -0.13963091755795254,
+                    0.13849044633074556,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 admiss\u00edvel todo e qualquer tipo de garantia admitida pelo direito privado, \u00e0 escolha da Administra\u00e7\u00e3o."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "\u00e9 admiss\u00edvel todo e qualquer tipo de garantia admitida em direito, sendo irrelevante a previs\u00e3o no instrumento convocat\u00f3rio.",
                 "pmi": [
-                    -0.12217705286320849,
+                    0.12117914053940235,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 admiss\u00edvel todo e qualquer tipo de garantia admitida em direito, sendo irrelevante a previs\u00e3o no instrumento convocat\u00f3rio."
             }
         ],
-        "number": "29",
-        "areas": [
-            "ADMINISTRATIVE"
-        ]
+        "valid": true
     }
 ]

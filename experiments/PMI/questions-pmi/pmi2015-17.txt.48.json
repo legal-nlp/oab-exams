@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Paulo, casado no regime de comunh\u00e3o parcial com Jacobina, \u00e9 empres\u00e1rio enquadrado como microempreendedor individual (MEI). O var\u00e3o pretende gravar com hipoteca o im\u00f3vel onde est\u00e1 situado seu estabelecimento, que serve exclusivamente aos fins da empresa. De acordo com o C\u00f3digo Civil, assinale a op\u00e7\u00e3o correta.",
         "areas": [],
+        "enum": "Paulo, casado no regime de comunh\u00e3o parcial com Jacobina, \u00e9 empres\u00e1rio enquadrado como microempreendedor individual (MEI). O var\u00e3o pretende gravar com hipoteca o im\u00f3vel onde est\u00e1 situado seu estabelecimento, que serve exclusivamente aos fins da empresa. De acordo com o C\u00f3digo Civil, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2015-17.txt",
         "number": "48",
         "options": [
             {
-                "text": "Paulo pode, sem necessidade de outorga conjugal, qualquer que seja o regime de bens, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento.",
-                "pmi": [
-                    0.0009399565493343671,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "A"
-            },
-            {
-                "text": "Paulo n\u00e3o pode, sem a outorga conjugal, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento, salvo no regime de separa\u00e7\u00e3o de bens.",
+                "letter": "A",
                 "pmi": [
-                    0.0008616268368898365,
+                    0.03254465699123188,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "Paulo pode, sem necessidade de outorga conjugal, qualquer que seja o regime de bens, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento."
             },
             {
-                "text": "Paulo, qualquer que seja o regime de bens, depende de outorga conjugal para gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.0009399565493343671,
+                    0.029832602241962554,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "Paulo n\u00e3o pode, sem a outorga conjugal, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento, salvo no regime de separa\u00e7\u00e3o de bens."
             },
             {
-                "text": "Paulo pode, sem necessidade de outorga conjugal, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento, salvo no regime da comunh\u00e3o universal.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    0.0007953478494367721,
+                    0.03254465699123188,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Paulo, qualquer que seja o regime de bens, depende de outorga conjugal para gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.027537786684888512,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Paulo pode, sem necessidade de outorga conjugal, gravar com hipoteca os im\u00f3veis que integram o seu estabelecimento, salvo no regime da comunh\u00e3o universal."
             }
         ],
-        "filename": "2015-17.txt",
         "valid": true
     }
 ]

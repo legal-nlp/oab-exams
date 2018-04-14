@@ -1,11 +1,15 @@
 [
     {
+        "areas": [],
+        "enum": "O Banco X enviou um cart\u00e3o de cr\u00e9dito para Jeremias, com limite de R$ 10.000,00 (dez mil reais), para uso em territ\u00f3rio nacional e no exterior, incluindo seguro de vida e acidentes pessoais, bem como seguro contra roubo e furto, no importe total de R$ 5,00 (cinco reais) na fatura mensal, al\u00e9m da anuidade de R$ 400,00 (quatrocentos reais), parcelada em cinco vezes.\n\n Jeremias recebeu a correspond\u00eancia contendo um cart\u00e3o bloqueado, o contrato e o informativo de benef\u00edcios e \u00f4nus. Ocorre que Jeremias n\u00e3o \u00e9 cliente do Banco X e sequer solicitou o cart\u00e3o de cr\u00e9dito.\n\n Sobre a conduta da institui\u00e7\u00e3o banc\u00e1ria, considerando a situa\u00e7\u00e3o narrada e o entendimento do STJ expresso em S\u00famula, assinale a afirmativa correta.",
+        "filename": "2016-21.txt",
+        "number": "47",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.14700276697788553,
+                    -0.0327510329860495,
                     0.0,
                     0.0,
                     0.0
@@ -16,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.4375328487028292,
+                    -0.07391428660707264,
                     0.0,
                     0.0,
                     0.0
@@ -27,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.4277863729176065,
+                    -0.07523816517136951,
                     0.0,
                     0.0,
                     0.0
@@ -38,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.14764162808557924,
+                    -0.026669203858929284,
                     0.0,
                     0.0,
                     0.0
@@ -46,10 +50,6 @@
                 "text": "N\u00e3o foi abusiva, pois n\u00e3o houve preju\u00edzo ao consumidor a justificar multa administrativa e nem constitui il\u00edcito indeniz\u00e1vel, na medida em que o destinat\u00e1rio pode desconsiderar a correspond\u00eancia, n\u00e3o desbloquear o cart\u00e3o e n\u00e3o aderir ao contrato."
             }
         ],
-        "areas": [],
-        "enum": "O Banco X enviou um cart\u00e3o de cr\u00e9dito para Jeremias, com limite de R$ 10.000,00 (dez mil reais), para uso em territ\u00f3rio nacional e no exterior, incluindo seguro de vida e acidentes pessoais, bem como seguro contra roubo e furto, no importe total de R$ 5,00 (cinco reais) na fatura mensal, al\u00e9m da anuidade de R$ 400,00 (quatrocentos reais), parcelada em cinco vezes.\n\n Jeremias recebeu a correspond\u00eancia contendo um cart\u00e3o bloqueado, o contrato e o informativo de benef\u00edcios e \u00f4nus. Ocorre que Jeremias n\u00e3o \u00e9 cliente do Banco X e sequer solicitou o cart\u00e3o de cr\u00e9dito.\n\n Sobre a conduta da institui\u00e7\u00e3o banc\u00e1ria, considerando a situa\u00e7\u00e3o narrada e o entendimento do STJ expresso em S\u00famula, assinale a afirmativa correta.",
-        "number": "47",
-        "filename": "2016-21.txt",
         "valid": true
     }
 ]

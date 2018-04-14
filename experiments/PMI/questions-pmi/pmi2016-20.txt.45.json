@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2016-20.txt",
         "areas": [],
-        "number": "45",
         "enum": "Casal de brasileiros, domiciliado na It\u00e1lia, passa regularmente f\u00e9rias duas vezes por ano no Brasil. Nas f\u00e9rias de dezembro, o casal visitou uma entidade de acolhimento institucional na cidade do Rio de Janeiro, encantando-se com Ana, crian\u00e7a de oito anos de idade, j\u00e1 dispon\u00edvel nos cadastros de habilita\u00e7\u00e3o para ado\u00e7\u00e3o nacional e internacional. Almejando adotar Ana, consultam advogado especialista em inf\u00e2ncia e juventude.\n\n Assinale a op\u00e7\u00e3o que apresenta a orienta\u00e7\u00e3o jur\u00eddica correta pertinente ao caso.",
-        "valid": true,
+        "filename": "2016-20.txt",
+        "number": "45",
         "options": [
             {
-                "text": "Ingressar com pedido de habilita\u00e7\u00e3o para ado\u00e7\u00e3o junto \u00e0 Autoridade Central Estadual, pois s\u00e3o brasileiros e permanecem, duas vezes por ano, em territ\u00f3rio nacional.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.12234930755446508,
+                    0.04357536976549686,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Ingressar com pedido de habilita\u00e7\u00e3o para ado\u00e7\u00e3o junto \u00e0 Autoridade Central Estadual, pois s\u00e3o brasileiros e permanecem, duas vezes por ano, em territ\u00f3rio nacional."
             },
             {
-                "text": "Ingressar com pedido de habilita\u00e7\u00e3o para ado\u00e7\u00e3o no Ju\u00edzo da Inf\u00e2ncia e da Juventude e, ap\u00f3s a habilita\u00e7\u00e3o, ajuizar a\u00e7\u00e3o de ado\u00e7\u00e3o.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.0644321708444335,
+                    0.03612823965251312,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Ingressar com pedido de habilita\u00e7\u00e3o para ado\u00e7\u00e3o no Ju\u00edzo da Inf\u00e2ncia e da Juventude e, ap\u00f3s a habilita\u00e7\u00e3o, ajuizar a\u00e7\u00e3o de ado\u00e7\u00e3o."
             },
             {
-                "text": "Ajuizar a\u00e7\u00e3o de ado\u00e7\u00e3o requerendo, liminarmente, a guarda provis\u00f3ria da crian\u00e7a.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.06388947181440248,
+                    0.019072866845578473,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Ajuizar a\u00e7\u00e3o de ado\u00e7\u00e3o requerendo, liminarmente, a guarda provis\u00f3ria da crian\u00e7a."
             },
             {
-                "text": "Ingressar com pedido de habilita\u00e7\u00e3o junto \u00e0 Autoridade Central do pa\u00eds de acolhida, para que esta, ap\u00f3s a habilita\u00e7\u00e3o do casal, envie um relat\u00f3rio para a Autoridade Central Estadual e para a Autoridade Central Federal Brasileira, a fim de que obtenham o laudo de habilita\u00e7\u00e3o \u00e0 ado\u00e7\u00e3o internacional.",
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.08063114714571751,
+                    0.02076726677203701,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "Ingressar com pedido de habilita\u00e7\u00e3o junto \u00e0 Autoridade Central do pa\u00eds de acolhida, para que esta, ap\u00f3s a habilita\u00e7\u00e3o do casal, envie um relat\u00f3rio para a Autoridade Central Estadual e para a Autoridade Central Federal Brasileira, a fim de que obtenham o laudo de habilita\u00e7\u00e3o \u00e0 ado\u00e7\u00e3o internacional."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

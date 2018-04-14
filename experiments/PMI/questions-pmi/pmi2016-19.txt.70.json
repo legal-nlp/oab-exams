@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Jonilson trabalhava na sociedade empres\u00e1ria XYZ Ltda. e atuava como analista financeiro. Mostrando bom desempenho, o empregador o promoveu ao cargo de confian\u00e7a de gerente financeiro e, dali em diante, passou a lhe pagar, al\u00e9m do sal\u00e1rio, uma gratifica\u00e7\u00e3o de fun\u00e7\u00e3o de 50% do sal\u00e1rio. Oito anos ap\u00f3s, a empresa resolveu retornar Jonilson ao cargo de origem e suprimiu a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o.\n\n Diante da situa\u00e7\u00e3o apresentada, nos termos da CLT, assinale a afirmativa correta.",
-        "options": [
-            {
-                "text": "Uma altera\u00e7\u00e3o desse vulto necessitaria de ordem judicial, a ser declarada em a\u00e7\u00e3o revisional.",
-                "letter": "A",
-                "correct": null,
-                "pmi": [
-                    -0.04879882163791638,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "A revers\u00e3o \u00e9 v\u00e1lida, pois n\u00e3o h\u00e1 estabilidade em cargos de ger\u00eancia.",
-                "letter": "B",
-                "correct": true,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Pode haver a revers\u00e3o, mas a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o n\u00e3o pode ser suprimida.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    -0.043612877412488135,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "A altera\u00e7\u00e3o contratual \u00e9 nula, tratando-se na verdade de rebaixamento.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [],
+        "enum": "Jonilson trabalhava na sociedade empres\u00e1ria XYZ Ltda. e atuava como analista financeiro. Mostrando bom desempenho, o empregador o promoveu ao cargo de confian\u00e7a de gerente financeiro e, dali em diante, passou a lhe pagar, al\u00e9m do sal\u00e1rio, uma gratifica\u00e7\u00e3o de fun\u00e7\u00e3o de 50% do sal\u00e1rio. Oito anos ap\u00f3s, a empresa resolveu retornar Jonilson ao cargo de origem e suprimiu a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o.\n\n Diante da situa\u00e7\u00e3o apresentada, nos termos da CLT, assinale a afirmativa correta.",
         "filename": "2016-19.txt",
         "number": "70",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.06991151660725964,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Uma altera\u00e7\u00e3o desse vulto necessitaria de ordem judicial, a ser declarada em a\u00e7\u00e3o revisional."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A revers\u00e3o \u00e9 v\u00e1lida, pois n\u00e3o h\u00e1 estabilidade em cargos de ger\u00eancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.05135539318365267,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Pode haver a revers\u00e3o, mas a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o n\u00e3o pode ser suprimida."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A altera\u00e7\u00e3o contratual \u00e9 nula, tratando-se na verdade de rebaixamento."
+            }
+        ],
         "valid": true
     }
 ]

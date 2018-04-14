@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-23.txt",
-        "valid": true,
         "areas": [
             null
         ],
         "enum": "Os irm\u00e3os Pedro e J\u00falio Cesar foram contratados como empregados pela sociedade empres\u00e1ria Arco Doce S/A e l\u00e1 permaneceram por dois anos. Como foram aprovados em diferentes concursos p\u00fablicos da administra\u00e7\u00e3o direta, eles pediram demiss\u00e3o e, agora, com a possibilidade concedida pelo Governo, dirigiram-se \u00e0 Caixa Econ\u00f4mica Federal (CEF) para sacar o FGTS.  Na ag\u00eancia da CEF foram informados que s\u00f3 havia o dep\u00f3sito de FGTS de 1 ano, motivo por que procuraram o contador da Arco Doce para uma explica\u00e7\u00e3o. O contador informou que n\u00e3o havia o dep\u00f3sito porque, no \u00faltimo ano, Pedro afastara-se para prestar servi\u00e7o militar obrigat\u00f3rio e J\u00falio Cesar afastara- se pelo INSS, recebendo aux\u00edlio-doen\u00e7a comum (c\u00f3digo B-31). Diante desses fatos, confirmados pelos ex-empregados, o contador ponderou que n\u00e3o havia obriga\u00e7\u00e3o de a empresa depositar o FGTS durante 1 ano para ambos. Sobre a quest\u00e3o retratada e de acordo com a legisla\u00e7\u00e3o em vigor, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
         "number": "74",
         "options": [
             {
-                "text": "A sociedade empres\u00e1ria tem raz\u00e3o na justificativa de J\u00falio Cesar, mas est\u00e1 errada em rela\u00e7\u00e3o a Pedro.",
-                "pmi": [
-                    -0.04058239910873457,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "A"
-            },
-            {
-                "text": "A sociedade empres\u00e1ria est\u00e1 errada em rela\u00e7\u00e3o a ambos os empregados.",
+                "letter": "A",
                 "pmi": [
-                    -0.08217082351399214,
+                    0.005046887154254961,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "A sociedade empres\u00e1ria tem raz\u00e3o na justificativa de J\u00falio Cesar, mas est\u00e1 errada em rela\u00e7\u00e3o a Pedro."
             },
             {
-                "text": "No que tange a Pedro, a sociedade empres\u00e1ria est\u00e1 certa, mas, no tocante a Julio Cesar, n\u00e3o tem raz\u00e3o.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.03607324365220851,
+                    0.009087749011986914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "A sociedade empres\u00e1ria est\u00e1 errada em rela\u00e7\u00e3o a ambos os empregados."
             },
             {
-                "text": "A pessoa jur\u00eddica est\u00e1 correta em rela\u00e7\u00e3o a Pedro e a J\u00falio Cesar.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.0691032713988963,
+                    0.004486121914893299,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "No que tange a Pedro, a sociedade empres\u00e1ria est\u00e1 certa, mas, no tocante a Julio Cesar, n\u00e3o tem raz\u00e3o."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.01201545973530731,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A pessoa jur\u00eddica est\u00e1 correta em rela\u00e7\u00e3o a Pedro e a J\u00falio Cesar."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

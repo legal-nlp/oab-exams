@@ -1,5 +1,9 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Jo\u00e3o e Carla foram casados por cinco anos, mas, com o passar dos anos, o casamento se desgastou e eles se divorciaram. As tr\u00eas filhas do casal, menores imp\u00faberes, ficaram sob a guarda exclusiva da m\u00e3e, que trabalha em uma escola como professora, mas que est\u00e1 com os sal\u00e1rios atrasados h\u00e1 quatro meses, sem previs\u00e3o de recebimento.\n\n Jo\u00e3o vinha contribuindo para o sustento das crian\u00e7as, mas, estranhamente, deixou de faz\u00ea-lo no \u00faltimo m\u00eas. Carla, ao procur\u00e1-lo, foi informada pelos pais de Jo\u00e3o que ele sofreu um atropelamento e est\u00e1 em estado grave na UTI do Hospital Boa Sorte. Como Jo\u00e3o \u00e9 aut\u00f4nomo, n\u00e3o pode contribuir, justificadamente, com o sustento das filhas.\n\n Sobre a possibilidade de os av\u00f3s participarem do sustento das crian\u00e7as, assinale a afirmativa correta.",
         "filename": "2017-24.txt",
         "number": "40",
         "options": [
@@ -7,7 +11,7 @@
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.02954742790542052,
+                    0.004607827308980995,
                     0.0,
                     0.0,
                     0.0
@@ -29,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.0026423317573941577,
+                    0.011589024581939809,
                     0.0,
                     0.0,
                     0.0
@@ -40,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    0.0008458801669076871,
+                    0.0350011353813092,
                     0.0,
                     0.0,
                     0.0
@@ -48,10 +52,6 @@
                 "text": "Carla n\u00e3o pode representar as filhas em a\u00e7\u00e3o de alimentos avoengos, porque apenas os genitores s\u00e3o respons\u00e1veis pelo sustento dos filhos."
             }
         ],
-        "areas": [
-            null
-        ],
-        "enum": "Jo\u00e3o e Carla foram casados por cinco anos, mas, com o passar dos anos, o casamento se desgastou e eles se divorciaram. As tr\u00eas filhas do casal, menores imp\u00faberes, ficaram sob a guarda exclusiva da m\u00e3e, que trabalha em uma escola como professora, mas que est\u00e1 com os sal\u00e1rios atrasados h\u00e1 quatro meses, sem previs\u00e3o de recebimento.\n\n Jo\u00e3o vinha contribuindo para o sustento das crian\u00e7as, mas, estranhamente, deixou de faz\u00ea-lo no \u00faltimo m\u00eas. Carla, ao procur\u00e1-lo, foi informada pelos pais de Jo\u00e3o que ele sofreu um atropelamento e est\u00e1 em estado grave na UTI do Hospital Boa Sorte. Como Jo\u00e3o \u00e9 aut\u00f4nomo, n\u00e3o pode contribuir, justificadamente, com o sustento das filhas.\n\n Sobre a possibilidade de os av\u00f3s participarem do sustento das crian\u00e7as, assinale a afirmativa correta.",
         "valid": true
     }
 ]

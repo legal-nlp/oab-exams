@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O mandado de seguran\u00e7a coletivo N\u00c3O pode ser impetrado por",
+        "filename": "2012-07.txt",
         "number": "18",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "organiza\u00e7\u00e3o sindical.",
-                "letter": "A"
+                "text": "organiza\u00e7\u00e3o sindical."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.34474088816539716,
+                    0.14197149863982444,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional.",
-                "letter": "B"
+                "text": "partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.4309261102067465,
+                    0.17746437329978054,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "entidade de classe de \u00e2mbito nacional.",
-                "letter": "C"
+                "text": "entidade de classe de \u00e2mbito nacional."
             },
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
                 "correct": true,
-                "text": "associa\u00e7\u00f5es paramilitares.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "associa\u00e7\u00f5es paramilitares."
             }
         ],
-        "valid": true,
-        "enum": "O mandado de seguran\u00e7a coletivo N\u00c3O pode ser impetrado por",
-        "filename": "2012-07.txt",
-        "areas": [
-            "CONSTITUTIONAL"
-        ]
+        "valid": true
     }
 ]

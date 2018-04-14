@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "number": "53",
-        "enum": "No exerc\u00edcio de 1995, um contribuinte deixou de recolher determinado tributo. Na ocasi\u00e3o, a lei impunha a multa morat\u00f3ria de 30% do valor do d\u00e9bito. Em 1997, houve altera\u00e7\u00e3o legislativa, que reduziu a multa morat\u00f3ria para 20%.\n\n O contribuinte recebeu, em 1998, notifica\u00e7\u00e3o para pagamento do d\u00e9bito, acrescido da multa morat\u00f3ria de 30%. A exig\u00eancia est\u00e1",
-        "filename": "2011-05.txt",
         "areas": [
             "TAXES"
         ],
+        "enum": "No exerc\u00edcio de 1995, um contribuinte deixou de recolher determinado tributo. Na ocasi\u00e3o, a lei impunha a multa morat\u00f3ria de 30% do valor do d\u00e9bito. Em 1997, houve altera\u00e7\u00e3o legislativa, que reduziu a multa morat\u00f3ria para 20%.\n\n O contribuinte recebeu, em 1998, notifica\u00e7\u00e3o para pagamento do d\u00e9bito, acrescido da multa morat\u00f3ria de 30%. A exig\u00eancia est\u00e1",
+        "filename": "2011-05.txt",
+        "number": "53",
         "options": [
             {
-                "text": "correta, pois aplica-se a lei vigente \u00e0 \u00e9poca de ocorr\u00eancia do fato gerador.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.15652166664914272,
+                    0.03360035944664697,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "correta, pois aplica-se a lei vigente \u00e0 \u00e9poca de ocorr\u00eancia do fato gerador."
             },
             {
-                "text": "errada, pois aplica-se retroativamente a lei que defina penalidade menos severa ao contribuinte.",
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.1384227388277265,
+                    0.013674882048905266,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "errada, pois aplica-se retroativamente a lei que defina penalidade menos severa ao contribuinte."
             },
             {
-                "text": "correta, pois o princ\u00edpio da irretroatividade veda a aplica\u00e7\u00e3o retroagente da lei tribut\u00e1ria.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.18930115240002982,
+                    0.038845278914917805,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "correta, pois o princ\u00edpio da irretroatividade veda a aplica\u00e7\u00e3o retroagente da lei tribut\u00e1ria."
             },
             {
-                "text": "errada, pois a aplica\u00e7\u00e3o retroativa da lei \u00e9 regra geral no direito tribut\u00e1rio.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.14959998521832588,
+                    0.024225867212110428,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "errada, pois a aplica\u00e7\u00e3o retroativa da lei \u00e9 regra geral no direito tribut\u00e1rio."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

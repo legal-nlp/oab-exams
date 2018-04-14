@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
+        "enum": "Paulo, motorista de \u00f4nibus, mant\u00e9m contrato de trabalho com a empresa Transporte Seguro S/A, no qual h\u00e1 estipula\u00e7\u00e3o escrita de que o motorista envolvido em acidente de tr\u00e2nsito ser\u00e1 descontado pelas avarias e preju\u00edzos causados. Em um dia comum, Paulo ultrapassou o sinal vermelho e colidiu com ve\u00edculo que vinha do outro lado do cruzamento. N\u00e3o houve v\u00edtimas, mas os ve\u00edculos ficaram impedidos de trafegar em raz\u00e3o das avarias e o coletivo foi multado por avan\u00e7o de sinal. A empresa entendeu por bem descontar do sal\u00e1rio de Paulo o conserto do \u00f4nibus, bem como as despesas com o conserto do ve\u00edculo de passeio.\n\n Diante disso, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "72",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.038232976525362235,
+                    -0.0021802071323828534,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "A empresa agiu de forma incorreta, pois n\u00e3o poderia descontar nada de Paulo, dado o princ\u00edpio da intangibilidade salarial."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.06921373952377431,
+                    -0.0036632497183572586,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "A empresa agiu de forma incorreta, pois s\u00f3 poderia descontar um dos danos, pois todos os descontos acarretaram bis in idem."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.025248834987053256,
+                    -0.0027158541164411434,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "C",
                 "text": "A empresa agiu corretamente, pois Paulo agiu com culpa e havia previs\u00e3o contratual para tanto."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.08705857136662994,
+                    -0.006941306048897976,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "A empresa agiu de forma incorreta, pois n\u00e3o houve dolo por parte do empregado e \u00e9 dela o risco do neg\u00f3cio. Logo, o desconto \u00e9 descabido."
             }
         ],
-        "filename": "2013-11.txt",
-        "valid": true,
-        "enum": "Paulo, motorista de \u00f4nibus, mant\u00e9m contrato de trabalho com a empresa Transporte Seguro S/A, no qual h\u00e1 estipula\u00e7\u00e3o escrita de que o motorista envolvido em acidente de tr\u00e2nsito ser\u00e1 descontado pelas avarias e preju\u00edzos causados. Em um dia comum, Paulo ultrapassou o sinal vermelho e colidiu com ve\u00edculo que vinha do outro lado do cruzamento. N\u00e3o houve v\u00edtimas, mas os ve\u00edculos ficaram impedidos de trafegar em raz\u00e3o das avarias e o coletivo foi multado por avan\u00e7o de sinal. A empresa entendeu por bem descontar do sal\u00e1rio de Paulo o conserto do \u00f4nibus, bem como as despesas com o conserto do ve\u00edculo de passeio.\n\n Diante disso, assinale a afirmativa correta.",
-        "number": "72"
+        "valid": true
     }
 ]

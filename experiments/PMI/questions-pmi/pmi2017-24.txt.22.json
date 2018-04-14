@@ -1,11 +1,17 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Jo\u00e3o e Maria celebraram entre si contrato de loca\u00e7\u00e3o, sendo Jo\u00e3o o locador e propriet\u00e1rio do im\u00f3vel. No contrato, eles estipularam que a responsabilidade pelo pagamento do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) do im\u00f3vel ser\u00e1 de Maria, locat\u00e1ria.\n\n Com base nessas informa\u00e7\u00f5es, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "22",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.1051814903540762,
+                    0.0686443620763601,
                     0.0,
                     0.0,
                     0.0
@@ -16,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    0.006493506493506494,
+                    0.0697029073773015,
                     0.0,
                     0.0,
                     0.0
@@ -27,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.020724467058979634,
+                    0.022731996048629435,
                     0.0,
                     0.0,
                     0.0
@@ -46,12 +52,6 @@
                 "text": "No caso de o fisco municipal cobrar o tributo de Jo\u00e3o, ele n\u00e3o poder\u00e1 ajuizar a\u00e7\u00e3o regressiva em face de Maria."
             }
         ],
-        "enum": "Jo\u00e3o e Maria celebraram entre si contrato de loca\u00e7\u00e3o, sendo Jo\u00e3o o locador e propriet\u00e1rio do im\u00f3vel. No contrato, eles estipularam que a responsabilidade pelo pagamento do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) do im\u00f3vel ser\u00e1 de Maria, locat\u00e1ria.\n\n Com base nessas informa\u00e7\u00f5es, assinale a afirmativa correta.",
-        "filename": "2017-24.txt",
-        "number": "22",
-        "valid": true,
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "correct": null,
-                "text": "Deveria ter instaurado processo disciplinar quando recebeu a missiva an\u00f4nima.",
-                "pmi": [
-                    -0.0031769762652912297,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": null,
-                "text": "N\u00e3o poderia ter instaurado processo disciplinar em nenhuma das oportunidades.",
-                "pmi": [
-                    -0.004447766771407721,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "Deveria ter instaurado processo disciplinar em qualquer uma das oportunidades.",
-                "pmi": [
-                    -0.004447766771407721,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": true,
-                "text": "Poderia ter instaurado processo disciplinar a partir da publica\u00e7\u00e3o da mat\u00e9ria jornal\u00edstica.",
-                "pmi": [
-                    -0.022888709762798606,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             "ETHICS"
         ],
-        "filename": "2015-18.txt",
         "enum": "O Presidente de determinada Seccional da OAB recebeu representa\u00e7\u00e3o contra advogado que nela era inscrito por meio de missiva an\u00f4nima, que narrava grave infra\u00e7\u00e3o disciplinar. Considerando a via eleita para a apresenta\u00e7\u00e3o da representa\u00e7\u00e3o, foi determinado o arquivamento do expediente, sem instaura\u00e7\u00e3o de processo disciplinar. Pouco tempo depois, foi publicada mat\u00e9ria jornal\u00edstica sobre investiga\u00e7\u00e3o realizada pela Pol\u00edcia Federal que tinha como objeto a mesma infra\u00e7\u00e3o disciplinar que havia sido narrada na missiva an\u00f4nima e indicando o nome do investigado naquele procedimento inquisitorial. Com base na reportagem, foi determinada, pelo Presidente da Seccional, a instaura\u00e7\u00e3o de processo disciplinar.\n\n Sobre o procedimento adotado pelo Presidente da Seccional em quest\u00e3o, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
         "number": "6",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.04396223795313217,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deveria ter instaurado processo disciplinar quando recebeu a missiva an\u00f4nima."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.06154713313438504,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o poderia ter instaurado processo disciplinar em nenhuma das oportunidades."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.06154713313438504,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deveria ter instaurado processo disciplinar em qualquer uma das oportunidades."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.0478201115648365,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Poderia ter instaurado processo disciplinar a partir da publica\u00e7\u00e3o da mat\u00e9ria jornal\u00edstica."
+            }
+        ],
         "valid": true
     }
 ]

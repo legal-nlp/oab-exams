@@ -1,13 +1,17 @@
 [
     {
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "Jo\u00e3o da Silva decidiu ampliar o seu consult\u00f3rio m\u00e9dico e, para isso, contratou o servi\u00e7o do empreiteiro Vivaldo Fortuna. Ambos ajustaram o valor de R$ 5.000,00, cujo pagamento seria feito da seguinte maneira: metade de imediato e a outra metade quando do encerramento do servi\u00e7o. Logo no in\u00edcio dos trabalhos, Vivaldo contratou os serventes Reginaldo Nonato e Simpl\u00edcio de Deus, prometendo-lhes o pagamento de um sal\u00e1rio m\u00ednimo mensal. Ocorre que, passados tr\u00eas meses, Reginaldo e Simpl\u00edcio nada receberam. Tentaram entrar em contato com Vivaldo, mas este tinha desaparecido. Por conta disso, abandonaram a obra e ajuizaram uma a\u00e7\u00e3o trabalhista em face de Jo\u00e3o da Silva, pleiteando os tr\u00eas meses de sal\u00e1rios atrasados, al\u00e9m das verbas resilit\u00f3rias decorrentes da rescis\u00e3o indireta provocada por Vivaldo. Diante desse caso concreto, \u00e9 correto afirmar que Jo\u00e3o da Silva",
         "filename": "2011-03.txt",
-        "valid": true,
+        "number": "73",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.02355004932086453,
+                    0.01747944587873266,
                     0.0,
                     0.0,
                     0.0
@@ -18,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.060887271378414674,
+                    0.01912024426079984,
                     0.0,
                     0.0,
                     0.0
@@ -29,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.03441603923786003,
+                    0.026195715034272177,
                     0.0,
                     0.0,
                     0.0
@@ -40,7 +44,7 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.07124242219805242,
+                    0.033529324472347556,
                     0.0,
                     0.0,
                     0.0
@@ -48,10 +52,6 @@
                 "text": "n\u00e3o deve ser condenado a pagar os sal\u00e1rios atrasados e as verbas resilit\u00f3rias decorrentes da rescis\u00e3o indireta, uma vez que \u00e9 o dono da obra e n\u00e3o desenvolve atividade de constru\u00e7\u00e3o ou incorpora\u00e7\u00e3o."
             }
         ],
-        "areas": [
-            "LABOUR"
-        ],
-        "number": "73",
-        "enum": "Jo\u00e3o da Silva decidiu ampliar o seu consult\u00f3rio m\u00e9dico e, para isso, contratou o servi\u00e7o do empreiteiro Vivaldo Fortuna. Ambos ajustaram o valor de R$ 5.000,00, cujo pagamento seria feito da seguinte maneira: metade de imediato e a outra metade quando do encerramento do servi\u00e7o. Logo no in\u00edcio dos trabalhos, Vivaldo contratou os serventes Reginaldo Nonato e Simpl\u00edcio de Deus, prometendo-lhes o pagamento de um sal\u00e1rio m\u00ednimo mensal. Ocorre que, passados tr\u00eas meses, Reginaldo e Simpl\u00edcio nada receberam. Tentaram entrar em contato com Vivaldo, mas este tinha desaparecido. Por conta disso, abandonaram a obra e ajuizaram uma a\u00e7\u00e3o trabalhista em face de Jo\u00e3o da Silva, pleiteando os tr\u00eas meses de sal\u00e1rios atrasados, al\u00e9m das verbas resilit\u00f3rias decorrentes da rescis\u00e3o indireta provocada por Vivaldo. Diante desse caso concreto, \u00e9 correto afirmar que Jo\u00e3o da Silva"
+        "valid": true
     }
 ]

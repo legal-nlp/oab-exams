@@ -1,11 +1,17 @@
 [
     {
+        "areas": [
+            "PHILOSOPHY"
+        ],
+        "enum": "O fil\u00f3sofo ingl\u00eas Jeremy Bentham, em seu livro Uma introdu\u00e7\u00e3o aos princ\u00edpios da moral e da legisla\u00e7\u00e3o, defendeu o princ\u00edpio da utilidade como fundamento para a Moral e para o Direito.\n\n Para esse autor, o princ\u00edpio da utilidade \u00e9 aquele que",
+        "filename": "2014-14.txt",
+        "number": "11",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.11104906354693264,
+                    0.009126834429665276,
                     0.0,
                     0.0,
                     0.0
@@ -16,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.05476571113100199,
+                    0.0053222378572969735,
                     0.0,
                     0.0,
                     0.0
@@ -38,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.04107428334825149,
+                    0.00399167839297273,
                     0.0,
                     0.0,
                     0.0
@@ -46,12 +52,6 @@
                 "text": "afirma que a liberdade humana \u00e9 o bem maior a ser protegido tanto pela moral quanto pelo direito, pois s\u00e3o a liberdade de pensamento e a a\u00e7\u00e3o que permitem \u00e0s pessoas tornarem algo \u00fatil."
             }
         ],
-        "filename": "2014-14.txt",
-        "number": "11",
-        "areas": [
-            "PHILOSOPHY"
-        ],
-        "enum": "O fil\u00f3sofo ingl\u00eas Jeremy Bentham, em seu livro Uma introdu\u00e7\u00e3o aos princ\u00edpios da moral e da legisla\u00e7\u00e3o, defendeu o princ\u00edpio da utilidade como fundamento para a Moral e para o Direito.\n\n Para esse autor, o princ\u00edpio da utilidade \u00e9 aquele que",
         "valid": true
     }
 ]

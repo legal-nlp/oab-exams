@@ -1,12 +1,15 @@
 [
     {
+        "areas": [],
+        "enum": "Cal\u00e7ados Machadinho Ltda. requereu sua recupera\u00e7\u00e3o judicial e o pedido foi devidamente processado. O devedor n\u00e3o alterou, no plano de recupera\u00e7\u00e3o, o valor ou as condi\u00e7\u00f5es originais de pagamento do cr\u00e9dito de Curtume Arroio do Sal Ltda. EPP, referentes ao contrato de fornecimento de couro sint\u00e9tico, no valor de R$ 288.000,00 (duzentos e oitenta e oito mil reais).\n\n Com base nessas informa\u00e7\u00f5es e nas disposi\u00e7\u00f5es da Lei n\u00ba 11.101/2005, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
         "number": "52",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.15585396157375364,
+                    -0.0013420927466991554,
                     0.0,
                     0.0,
                     0.0
@@ -14,10 +17,10 @@
                 "text": "A credora n\u00e3o ter\u00e1 direito a voto nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o judicial e o cr\u00e9dito n\u00e3o ser\u00e1 considerado para fins de verifica\u00e7\u00e3o de qu\u00f3rum de delibera\u00e7\u00e3o."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.15223312134583028,
+                    0.010004340922576967,
                     0.0,
                     0.0,
                     0.0
@@ -25,10 +28,10 @@
                 "text": "O cr\u00e9dito ser\u00e1 novado com a concess\u00e3o da recupera\u00e7\u00e3o judicial, ap\u00f3s a aprova\u00e7\u00e3o do plano pela assembleia de credores, como todos os demais cr\u00e9ditos sujeitos \u00e0 recupera\u00e7\u00e3o."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.13744846011047188,
+                    -0.0022505748867991857,
                     0.0,
                     0.0,
                     0.0
@@ -36,10 +39,10 @@
                 "text": "A credora poder\u00e1 votar nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o, com base no valor de seu cr\u00e9dito, na classe dos credores microempres\u00e1rios e empres\u00e1rios de pequeno porte (Classe 4)."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.1582005062229012,
+                    -0.018230930932510665,
                     0.0,
                     0.0,
                     0.0
@@ -47,9 +50,6 @@
                 "text": "A partir do processamento da recupera\u00e7\u00e3o judicial, \u00e9 permitido \u00e0 credora ajuizar a\u00e7\u00e3o de cobran\u00e7a em face do devedor pela manuten\u00e7\u00e3o das condi\u00e7\u00f5es originais de pagamento do cr\u00e9dito no plano de recupera\u00e7\u00e3o."
             }
         ],
-        "areas": [],
-        "valid": true,
-        "enum": "Cal\u00e7ados Machadinho Ltda. requereu sua recupera\u00e7\u00e3o judicial e o pedido foi devidamente processado. O devedor n\u00e3o alterou, no plano de recupera\u00e7\u00e3o, o valor ou as condi\u00e7\u00f5es originais de pagamento do cr\u00e9dito de Curtume Arroio do Sal Ltda. EPP, referentes ao contrato de fornecimento de couro sint\u00e9tico, no valor de R$ 288.000,00 (duzentos e oitenta e oito mil reais).\n\n Com base nessas informa\u00e7\u00f5es e nas disposi\u00e7\u00f5es da Lei n\u00ba 11.101/2005, assinale a afirmativa correta.",
-        "filename": "2015-18.txt"
+        "valid": true
     }
 ]

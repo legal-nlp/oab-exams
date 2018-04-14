@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            null
+        ],
         "enum": "Clara e S\u00e9rgio s\u00e3o casados pelo regime da comunh\u00e3o parcial de bens. Durante o casamento, o casal adquiriu onerosamente um apartamento e S\u00e9rgio herdou um s\u00edtio de seu pai. S\u00e9rgio morre deixando, al\u00e9m de Clara, Joaquim, filho do casal.  Sobre os direitos de Clara, segundo os fatos narrados, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
+        "number": "42",
         "options": [
             {
                 "correct": null,
-                "text": "Clara \u00e9 herdeira do apartamento, em concorr\u00eancia com Joaquim.",
                 "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Clara \u00e9 herdeira do apartamento, em concorr\u00eancia com Joaquim."
             },
             {
                 "correct": true,
-                "text": "Clara \u00e9 meeira no apartamento e herdeira do s\u00edtio, em concorr\u00eancia com Joaquim.",
                 "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Clara \u00e9 meeira no apartamento e herdeira do s\u00edtio, em concorr\u00eancia com Joaquim."
             },
             {
                 "correct": null,
-                "text": "Clara \u00e9 herdeira do apartamento e do s\u00edtio, em concorr\u00eancia com Joaquim.",
                 "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Clara \u00e9 herdeira do apartamento e do s\u00edtio, em concorr\u00eancia com Joaquim."
             },
             {
                 "correct": null,
-                "text": "Clara \u00e9 meeira no s\u00edtio e herdeira do apartamento, em concorr\u00eancia com Joaquim.",
                 "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Clara \u00e9 meeira no s\u00edtio e herdeira do apartamento, em concorr\u00eancia com Joaquim."
             }
-        ],
-        "number": "42",
-        "areas": [
-            null
         ],
         "valid": true
     }

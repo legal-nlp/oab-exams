@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
-        "number": "35",
-        "filename": "2015-16.txt",
+        "areas": [],
         "enum": "Miguel, empreendedor particular, tem interesse em dar in\u00edcio \u00e0 constru\u00e7\u00e3o de edif\u00edcio comercial em \u00e1rea urbana de uma grande metr\u00f3pole. Nesse sentido, consulta seu advogado e indaga sobre quais s\u00e3o as exig\u00eancias legais para o empreendimento.\n\n Sobre a situa\u00e7\u00e3o apresentada, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "35",
         "options": [
             {
-                "text": "N\u00e3o \u00e9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto ambiental, por ser \u00e1rea urbana, ou estudo de impacto de vizinhan\u00e7a, uma vez que n\u00e3o foi editada at\u00e9 hoje lei complementar exigida pela Constitui\u00e7\u00e3o para disciplinar a mat\u00e9ria.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.023240625909452594,
+                    0.004413486977207722,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "N\u00e3o \u00e9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto ambiental, por ser \u00e1rea urbana, ou estudo de impacto de vizinhan\u00e7a, uma vez que n\u00e3o foi editada at\u00e9 hoje lei complementar exigida pela Constitui\u00e7\u00e3o para disciplinar a mat\u00e9ria."
             },
             {
-                "text": "\u00c9 necess\u00e1rio o estudo pr\u00e9vio de impacto ambiental, anterior ao licenciamento ambiental, a ser efetivado pelo munic\u00edpio, em raz\u00e3o de o potencial impacto ser de \u00e2mbito local.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "\u00c9 necess\u00e1rio o estudo pr\u00e9vio de impacto ambiental, anterior ao licenciamento ambiental, a ser efetivado pelo munic\u00edpio, em raz\u00e3o de o potencial impacto ser de \u00e2mbito local."
             },
             {
-                "text": "\u00c9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto de vizinhan\u00e7a, desde que o empreendimento esteja compreendido no rol de atividades estabelecidas em lei municipal.",
-                "pmi": [
-                    -0.03268242157991869,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "C"
+                "letter": "C",
+                "pmi": [
+                    0.04106187945117549,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00c9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto de vizinhan\u00e7a, desde que o empreendimento esteja compreendido no rol de atividades estabelecidas em lei municipal."
             },
             {
-                "text": "\u00c9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto ambiental, o qual n\u00e3o ser\u00e1 precedido necessariamente por licenciamento ambiental, uma vez que a atividade n\u00e3o \u00e9 potencialmente causadora de impacto ambiental.",
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D"
+                "text": "\u00c9 necess\u00e1ria a realiza\u00e7\u00e3o de estudo de impacto ambiental, o qual n\u00e3o ser\u00e1 precedido necessariamente por licenciamento ambiental, uma vez que a atividade n\u00e3o \u00e9 potencialmente causadora de impacto ambiental."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

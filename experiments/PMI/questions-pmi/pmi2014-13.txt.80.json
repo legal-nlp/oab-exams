@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
         "enum": "Pedro, estivador, logo trabalhador avulso, est\u00e1 insatisfeito com os repasses que lhe s\u00e3o feitos pelos trabalhos no Porto de Tubar\u00e3o. Pretende ajuizar a\u00e7\u00e3o em face do operador portu\u00e1rio e do \u00d3rg\u00e3o Gestor de M\u00e3o de Obra \u2013 OGMO. Como advogado de Pedro, indique a Justi\u00e7a competente para o processamento e julgamento da demanda a ser proposta.",
-        "valid": true,
         "filename": "2014-13.txt",
+        "number": "80",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.2042094780428771,
+                    0.01956633198251219,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Justi\u00e7a Comum Federal, dado que o avulso n\u00e3o tem v\u00ednculo de emprego com os r\u00e9us e a mat\u00e9ria portu\u00e1ria \u00e9 de \u00e2mbito nacional."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.6215834019047305,
+                    0.04974402817143717,
                     0,
                     0,
                     0
                 ],
-                "correct": true,
                 "text": "Justi\u00e7a do Trabalho."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.212771123976884,
+                    0.0483006543860701,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Justi\u00e7a Comum Estadual, pela aus\u00eancia de rela\u00e7\u00e3o empregat\u00edcia, sendo o avulso uma esp\u00e9cie de trabalhador aut\u00f4nomo."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.2742293395264635,
+                    0.027868004007812003,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Poder\u00e1 optar pela Justi\u00e7a Comum Estadual ou Justi\u00e7a do Trabalho, caso pretenda o reconhecimento de v\u00ednculo de emprego."
             }
         ],
-        "number": "80",
-        "areas": [
-            "LABOUR-PROCEDURE"
-        ]
+        "valid": true
     }
 ]

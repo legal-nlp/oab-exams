@@ -5,53 +5,53 @@
         ],
         "enum": "Rama, jovem de 19 anos, estava cuidando de suas irm\u00e3s mais novas, Sita e Durga, enquanto a m\u00e3e viajava a trabalho. Na tarde desse dia, Rama recebeu uma liga\u00e7\u00e3o dos amigos, que o chamaram para sair com o objetivo de comemorar o in\u00edcio das f\u00e9rias. Certo de que n\u00e3o se demoraria, Rama deixou as crian\u00e7as, ambas com 4 anos, brincando sozinhas no quintal de casa, que era grande, tinha muitos brinquedos e uma piscina. Ocorre que Rama bebeu demais e acabou perdendo a hora, chegando em casa tarde da noite, extremamente alcoolizado. As meninas ficaram sem alimenta\u00e7\u00e3o durante todo o tempo e ainda sofreram com v\u00e1rias picadas de pernilongos. Com base na situa\u00e7\u00e3o apresentada, \u00e9 correto afirmar que Rama praticou crime",
         "filename": "2012-06a.txt",
-        "valid": true,
         "number": "63",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "de les\u00e3o corporal leve por meio de omiss\u00e3o impr\u00f3pria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de les\u00e3o corporal leve por meio de omiss\u00e3o impr\u00f3pria."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "de perigo para a vida ou sa\u00fade de outrem.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de perigo para a vida ou sa\u00fade de outrem."
             },
             {
-                "letter": "C",
                 "correct": true,
-                "text": "de abandono de incapaz, com causa de aumento de pena.",
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "de abandono de incapaz, com causa de aumento de pena."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "previsto no Estatuto da Crian\u00e7a e do Adolescente.",
+                "letter": "D",
                 "pmi": [
-                    -0.00014737035314716897,
+                    0.044099210265509343,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "previsto no Estatuto da Crian\u00e7a e do Adolescente."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

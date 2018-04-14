@@ -3,15 +3,15 @@
         "areas": [
             "ETHICS"
         ],
-        "number": "3",
-        "filename": "2014-13.txt",
         "enum": "Maria, ap\u00f3s v\u00e1rios anos de tramita\u00e7\u00e3o de a\u00e7\u00e3o indenizat\u00f3ria em que figurava como autora, decidiu substituir Jos\u00e9, advogado que at\u00e9 ent\u00e3o atuava na causa, por Jo\u00e3o, amigo da fam\u00edlia, que n\u00e3o cobraria honor\u00e1rios de nenhuma esp\u00e9cie de Maria. Ao final da a\u00e7\u00e3o, quando Maria finalmente recebeu os valores que lhe eram devidos, a t\u00edtulo de indeniza\u00e7\u00e3o, foi procurada por Jos\u00e9, que desejava receber honor\u00e1rios pelos servi\u00e7os advocat\u00edcios prestados at\u00e9 o momento em que foi substitu\u00eddo.\n\n Sobre a hip\u00f3tese sugerida, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "number": "3",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.09567700927286936,
+                    0.0032482725981106526,
                     0.0,
                     0.0,
                     0.0
@@ -22,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.19135401854573872,
+                    0.006496545196221305,
                     0.0,
                     0.0,
                     0.0
@@ -33,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.14571389329612022,
+                    0.012566557697447791,
                     0.0,
                     0.0,
                     0.0
@@ -44,7 +44,7 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.09070165670253967,
+                    0.018877117062238186,
                     0.0,
                     0.0,
                     0.0

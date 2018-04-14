@@ -1,16 +1,17 @@
 [
     {
-        "filename": "2017-23.txt",
-        "number": "53",
         "areas": [
             null
         ],
+        "enum": "Carolina, v\u00edtima de doen\u00e7a associada ao tabagismo, requereu, em processo de indeniza\u00e7\u00e3o por danos materiais e morais contra a ind\u00fastria do tabaco, a invers\u00e3o do \u00f4nus da prova, por considerar que a parte r\u00e9 possu\u00eda melhores condi\u00e7\u00f5es de produzir a prova.  O magistrado, por meio de decis\u00e3o interlocut\u00f3ria, indeferiu o requerimento por considerar que a invers\u00e3o poderia gerar situa\u00e7\u00e3o em que a desincumb\u00eancia do encargo seria excessivamente dif\u00edcil.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "53",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    0.014639473920460102,
+                    0.07258142473060553,
                     0.0,
                     0.0,
                     0.0
@@ -18,10 +19,10 @@
                 "text": "A decis\u00e3o \u00e9 impugn\u00e1vel por agravo interno."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.004428199730797118,
+                    0.12031210135108797,
                     0.0,
                     0,
                     0
@@ -29,10 +30,10 @@
                 "text": "A decis\u00e3o \u00e9 irrecorr\u00edvel."
             },
             {
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    0.014639473920460102,
+                    0.07258142473060553,
                     0.0,
                     0.0,
                     0.0
@@ -40,8 +41,8 @@
                 "text": "A decis\u00e3o \u00e9 impugn\u00e1vel por agravo de instrumento."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
@@ -51,7 +52,6 @@
                 "text": "A parte autora dever\u00e1 aguardar a senten\u00e7a para suscitar a quest\u00e3o como preliminar de apela\u00e7\u00e3o ou nas contrarraz\u00f5es do recurso de apela\u00e7\u00e3o."
             }
         ],
-        "valid": true,
-        "enum": "Carolina, v\u00edtima de doen\u00e7a associada ao tabagismo, requereu, em processo de indeniza\u00e7\u00e3o por danos materiais e morais contra a ind\u00fastria do tabaco, a invers\u00e3o do \u00f4nus da prova, por considerar que a parte r\u00e9 possu\u00eda melhores condi\u00e7\u00f5es de produzir a prova.  O magistrado, por meio de decis\u00e3o interlocut\u00f3ria, indeferiu o requerimento por considerar que a invers\u00e3o poderia gerar situa\u00e7\u00e3o em que a desincumb\u00eancia do encargo seria excessivamente dif\u00edcil.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta."
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
         "areas": [],
         "enum": "Durante uma a\u00e7\u00e3o de guarda a tramitar em uma vara de fam\u00edlia, a r\u00e9, m\u00e3e da crian\u00e7a, descobriu que o advogado do pai (autor) \u00e9 filho adotivo do irm\u00e3o do promotor de justi\u00e7a que atua no caso. Extremamente preocupada, informou o fato ao seu advogado.\n\n Com base no CPC/15, como advogado da m\u00e3e, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
+        "number": "58",
         "options": [
             {
                 "correct": true,
-                "text": "Por causa do impedimento para que o promotor de justi\u00e7a exer\u00e7a suas fun\u00e7\u00f5es, o fato dever\u00e1 ser informado ao juiz da causa em peti\u00e7\u00e3o espec\u00edfica.",
                 "letter": "A",
                 "pmi": [
-                    -0.2482454513624596,
+                    0.05594979039080386,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Por causa do impedimento para que o promotor de justi\u00e7a exer\u00e7a suas fun\u00e7\u00f5es, o fato dever\u00e1 ser informado ao juiz da causa em peti\u00e7\u00e3o espec\u00edfica."
             },
             {
                 "correct": null,
-                "text": "O advogado da m\u00e3e dever\u00e1 arguir, por meio de exce\u00e7\u00e3o, o impedimento do promotor de justi\u00e7a.",
                 "letter": "B",
                 "pmi": [
-                    -0.14947587108906243,
+                    0.06780644444898294,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O advogado da m\u00e3e dever\u00e1 arguir, por meio de exce\u00e7\u00e3o, o impedimento do promotor de justi\u00e7a."
             },
             {
                 "correct": null,
-                "text": "As causas de impedimento direcionadas ao magistrado, como \u00e9 o caso, n\u00e3o se estendem aos membros do Minist\u00e9rio P\u00fablico.",
                 "letter": "C",
                 "pmi": [
-                    -0.2555286051427493,
+                    0.014867165304596058,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As causas de impedimento direcionadas ao magistrado, como \u00e9 o caso, n\u00e3o se estendem aos membros do Minist\u00e9rio P\u00fablico."
             },
             {
                 "correct": null,
-                "text": "N\u00e3o se trata de causa de impedimento porque o advogado do pai \u00e9 parente colateral de terceiro grau do promotor de justi\u00e7a.",
                 "letter": "D",
                 "pmi": [
-                    -0.18791422225188242,
+                    0.05544197115072835,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o se trata de causa de impedimento porque o advogado do pai \u00e9 parente colateral de terceiro grau do promotor de justi\u00e7a."
             }
         ],
-        "number": "58"
+        "valid": true
     }
 ]

@@ -1,12 +1,17 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Jonas, maior e capaz, confiou em dep\u00f3sito a Silas, tamb\u00e9m maior e capaz, por instrumento particular, dois autom\u00f3veis de sua propriedade para serem conservados por seis meses, estabelecendo, como remunera\u00e7\u00e3o, o pagamento de certa quantia em dinheiro a Silas. Findo o prazo, caberia a Silas restituir os autom\u00f3veis na resid\u00eancia de Jonas. Na vig\u00eancia do dep\u00f3sito, Silas decidiu, certo dia, utilizar um dos autom\u00f3veis para ir ao trabalho e, quando j\u00e1 regressava, foi abalroado, sem culpa sua, por seu vizinho Francisco, em uma moto, amassando a porta lateral direita. Transcorrido o prazo ajustado, Silas providenciou a entrega dos dois autom\u00f3veis no local estipulado.\n\n A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Jonas",
         "filename": "2011-04.txt",
+        "number": "34",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.007439292593813071,
+                    0.013907741915187876,
                     0.0,
                     0.0,
                     0.0
@@ -17,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.007439292593813071,
+                    0.013907741915187876,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.009919056791750761,
+                    0.018543655886917167,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "poder\u00e1 reter integralmente o valor da contrapresta\u00e7\u00e3o em dinheiro devido a Silas, tendo em vista a ocorr\u00eancia do acidente com um dos autom\u00f3veis."
             }
         ],
-        "areas": [
-            "CIVIL"
-        ],
-        "number": "34",
-        "valid": true,
-        "enum": "Jonas, maior e capaz, confiou em dep\u00f3sito a Silas, tamb\u00e9m maior e capaz, por instrumento particular, dois autom\u00f3veis de sua propriedade para serem conservados por seis meses, estabelecendo, como remunera\u00e7\u00e3o, o pagamento de certa quantia em dinheiro a Silas. Findo o prazo, caberia a Silas restituir os autom\u00f3veis na resid\u00eancia de Jonas. Na vig\u00eancia do dep\u00f3sito, Silas decidiu, certo dia, utilizar um dos autom\u00f3veis para ir ao trabalho e, quando j\u00e1 regressava, foi abalroado, sem culpa sua, por seu vizinho Francisco, em uma moto, amassando a porta lateral direita. Transcorrido o prazo ajustado, Silas providenciou a entrega dos dois autom\u00f3veis no local estipulado.\n\n A respeito da situa\u00e7\u00e3o narrada, \u00e9 correto afirmar que Jonas"
+        "valid": true
     }
 ]

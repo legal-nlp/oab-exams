@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2015-16.txt",
         "areas": [],
-        "valid": true,
+        "enum": "Terezinha, s\u00f3cia minorit\u00e1ria e administradora da sociedade Z & Cia.  Ltda., com participa\u00e7\u00e3o de 23% no capital social, foi exclu\u00edda da sociedade por ter se apropriado de bens sociais e alienado-os de forma fraudulenta. A exclus\u00e3o extrajudicial observou todos os requisitos legais, tendo sido inclusive, aprovada em assembleia pr\u00f3pria, com qu\u00f3rum superior \u00e0 metade do capital social. Ap\u00f3s a delibera\u00e7\u00e3o, foi alterado o contrato social com a nova composi\u00e7\u00e3o societ\u00e1ria e realizado o arquivamento na Junta Comercial.\n\n Efetuado o registro da altera\u00e7\u00e3o contratual, Z & Cia. Ltda. Dever\u00e1",
+        "filename": "2015-16.txt",
+        "number": "50",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1706959093585721,
+                    0.08044567310026267,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "realizar a liquida\u00e7\u00e3o das quotas de Terezinha, com base no \u00faltimo balan\u00e7o aprovado; a ex-s\u00f3cia n\u00e3o responder\u00e1 pelas obriga\u00e7\u00f5es sociais anteriores porque, na sociedade limitada, sua responsabilidade \u00e9 restrita ao valor do capital social."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.1367014699047172,
+                    0.04412046946564376,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "ser dissolvida, cabendo aos s\u00f3cios remanescentes investir o liquidante em suas fun\u00e7\u00f5es; a ex-s\u00f3cia receber\u00e1 o valor de suas quotas, apurado com base em balan\u00e7o especial, no curso da liquida\u00e7\u00e3o, ap\u00f3s o pagamento aos credores."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.04368062657265368,
+                    0.057366927781371584,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "reduzir compulsoriamente o capital, sendo vedado aos demais s\u00f3cios suprir o valor da quota de Terezinha, esta responder\u00e1 subsidiariamente pelas obriga\u00e7\u00f5es sociais at\u00e9 dois anos contados da data da delibera\u00e7\u00e3o que a excluiu da sociedade."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.12898848301395777,
+                    0.0618791196547566,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "realizar a liquida\u00e7\u00e3o das quotas de Terezinha, com base em balan\u00e7o especial; a ex-s\u00f3cia responder\u00e1 pelas obriga\u00e7\u00f5es sociais anteriores, at\u00e9 dois anos ap\u00f3s a averba\u00e7\u00e3o da resolu\u00e7\u00e3o da sociedade na Junta Comercial."
             }
         ],
-        "enum": "Terezinha, s\u00f3cia minorit\u00e1ria e administradora da sociedade Z & Cia.  Ltda., com participa\u00e7\u00e3o de 23% no capital social, foi exclu\u00edda da sociedade por ter se apropriado de bens sociais e alienado-os de forma fraudulenta. A exclus\u00e3o extrajudicial observou todos os requisitos legais, tendo sido inclusive, aprovada em assembleia pr\u00f3pria, com qu\u00f3rum superior \u00e0 metade do capital social. Ap\u00f3s a delibera\u00e7\u00e3o, foi alterado o contrato social com a nova composi\u00e7\u00e3o societ\u00e1ria e realizado o arquivamento na Junta Comercial.\n\n Efetuado o registro da altera\u00e7\u00e3o contratual, Z & Cia. Ltda. Dever\u00e1",
-        "number": "50"
+        "valid": true
     }
 ]

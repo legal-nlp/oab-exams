@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Um Senador da Rep\u00fablica apresentou projeto de lei visando determinar \u00e0 Uni\u00e3o que sejam adotadas as provid\u00eancias necess\u00e1rias para que toda a popula\u00e7\u00e3o brasileira seja vacinada contra determinada doen\u00e7a causadora de pandemia transmitida por mosquito. O Senado Federal, no entanto, preocupado com o fato de que os servidores da sa\u00fade poderiam descumprir o que determinaria a futura lei, isso em raz\u00e3o de seus baixos sal\u00e1rios, acabou por emendar o projeto de lei, determinando, igualmente, a majora\u00e7\u00e3o da remunera\u00e7\u00e3o dos servidores p\u00fablicos federais da \u00e1rea de sa\u00fade p\u00fablica.\n\n Aprovado em ambas as Casas do Congresso Nacional, o projeto foi encaminhado ao Presidente da Rep\u00fablica. Com base na hip\u00f3tese apresentada, assinale a afirmativa coreta.",
+        "filename": "2016-20.txt",
         "number": "17",
         "options": [
             {
-                "text": "O Presidente da Rep\u00fablica n\u00e3o ter\u00e1 motivos para vetar o projeto de lei por v\u00edcio de inconstitucionalidade formal, ainda que possa vet\u00e1-lo por entend\u00ea-lo contr\u00e1rio ao interesse p\u00fablico, devendo fazer isso no prazo de quinze dias \u00fateis.",
-                "pmi": [
-                    -0.27847058025645455,
-                    -0.015119687660228424,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "O Presidente da Rep\u00fablica, ainda que tenha motivos para vetar o projeto de lei por v\u00edcio de inconstitucionalidade formal, poder\u00e1, no curso do prazo para a san\u00e7\u00e3o ou o veto presidencial, editar medida provis\u00f3ria com igual conte\u00fado ao do projeto de lei aprovado pelo Congresso Nacional, tendo em vista o princ\u00edpio da separa\u00e7\u00e3o dos poderes.",
                 "pmi": [
-                    -0.2848801684473642,
-                    -0.017339387782296642,
+                    0.05049017273017761,
+                    0.008816987100684114,
                     0.0,
                     0.0
                 ],
+                "text": "O Presidente da Rep\u00fablica n\u00e3o ter\u00e1 motivos para vetar o projeto de lei por v\u00edcio de inconstitucionalidade formal, ainda que possa vet\u00e1-lo por entend\u00ea-lo contr\u00e1rio ao interesse p\u00fablico, devendo fazer isso no prazo de quinze dias \u00fateis."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "O Presidente da Rep\u00fablica poder\u00e1 vet\u00e1-lo, por motivo de inconstitucionalidade material e n\u00e3o por inconstitucionalidade formal, uma vez que os projetos de lei que acarretem despesas para o Poder Executivo s\u00e3o de iniciativa privativa do Presidente da Rep\u00fablica.",
                 "pmi": [
-                    -0.3386836074518873,
-                    -0.0355757356711257,
+                    0.056197477478430714,
+                    0.022555070152557588,
                     0.0,
                     0.0
                 ],
+                "text": "O Presidente da Rep\u00fablica, ainda que tenha motivos para vetar o projeto de lei por v\u00edcio de inconstitucionalidade formal, poder\u00e1, no curso do prazo para a san\u00e7\u00e3o ou o veto presidencial, editar medida provis\u00f3ria com igual conte\u00fado ao do projeto de lei aprovado pelo Congresso Nacional, tendo em vista o princ\u00edpio da separa\u00e7\u00e3o dos poderes."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "O Presidente da Rep\u00fablica poder\u00e1 vet\u00e1-lo, por motivo de inconstitucionalidade formal, na parte que majorou a remunera\u00e7\u00e3o dos servidores p\u00fablicos, uma vez que a iniciativa legislativa nessa mat\u00e9ria \u00e9 privativa do Chefe do Poder Executivo, devendo o veto ser exercido no prazo de quinze dias \u00fateis.",
                 "pmi": [
-                    -0.18297402718585976,
-                    -0.013745170600207659,
+                    0.05382638190716248,
+                    0.020745852001609683,
                     0.0,
                     0.0
                 ],
+                "text": "O Presidente da Rep\u00fablica poder\u00e1 vet\u00e1-lo, por motivo de inconstitucionalidade material e n\u00e3o por inconstitucionalidade formal, uma vez que os projetos de lei que acarretem despesas para o Poder Executivo s\u00e3o de iniciativa privativa do Presidente da Rep\u00fablica."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "correct": true
+                "pmi": [
+                    0.06959761814083312,
+                    0.008015442818803741,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Presidente da Rep\u00fablica poder\u00e1 vet\u00e1-lo, por motivo de inconstitucionalidade formal, na parte que majorou a remunera\u00e7\u00e3o dos servidores p\u00fablicos, uma vez que a iniciativa legislativa nessa mat\u00e9ria \u00e9 privativa do Chefe do Poder Executivo, devendo o veto ser exercido no prazo de quinze dias \u00fateis."
             }
         ],
-        "filename": "2016-20.txt",
-        "areas": [],
-        "valid": true,
-        "enum": "Um Senador da Rep\u00fablica apresentou projeto de lei visando determinar \u00e0 Uni\u00e3o que sejam adotadas as provid\u00eancias necess\u00e1rias para que toda a popula\u00e7\u00e3o brasileira seja vacinada contra determinada doen\u00e7a causadora de pandemia transmitida por mosquito. O Senado Federal, no entanto, preocupado com o fato de que os servidores da sa\u00fade poderiam descumprir o que determinaria a futura lei, isso em raz\u00e3o de seus baixos sal\u00e1rios, acabou por emendar o projeto de lei, determinando, igualmente, a majora\u00e7\u00e3o da remunera\u00e7\u00e3o dos servidores p\u00fablicos federais da \u00e1rea de sa\u00fade p\u00fablica.\n\n Aprovado em ambas as Casas do Congresso Nacional, o projeto foi encaminhado ao Presidente da Rep\u00fablica. Com base na hip\u00f3tese apresentada, assinale a afirmativa coreta."
+        "valid": true
     }
 ]

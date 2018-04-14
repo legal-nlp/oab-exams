@@ -3,55 +3,55 @@
         "areas": [
             "CIVIL-PROCEDURE"
         ],
+        "enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria movida por Henrique em face de Paulo, ambos pr\u00f3speros empres\u00e1rios, transitou em julgado senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de indeniza\u00e7\u00e3o, no montante equivalente a 500 sal\u00e1rios m\u00ednimos, na data da prola\u00e7\u00e3o da senten\u00e7a, acrescidos de juros legais e corre\u00e7\u00e3o monet\u00e1ria.\n\n Assinale a alternativa que apresenta a provid\u00eancia a ser imediatamente adotada pelo advogado de Henrique.",
+        "filename": "2012-08.txt",
+        "number": "56",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.024961007564507056,
+                    0.005458516610819293,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Instaura\u00e7\u00e3o da fase de liquida\u00e7\u00e3o de senten\u00e7a por arbitramento, a fim de apurar o valor da condena\u00e7\u00e3o em moeda corrente.",
-                "letter": "A"
+                "text": "Instaura\u00e7\u00e3o da fase de liquida\u00e7\u00e3o de senten\u00e7a por arbitramento, a fim de apurar o valor da condena\u00e7\u00e3o em moeda corrente."
             },
             {
-                "pmi": [
-                    -0.03318651280785856,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Instaura\u00e7\u00e3o da fase de cumprimento de senten\u00e7a, com a apresenta\u00e7\u00e3o da mem\u00f3ria de c\u00e1lculo contemplando o valor da condena\u00e7\u00e3o em moeda corrente.",
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.03238829126087848,
+                    0.015484725872663599,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Instaura\u00e7\u00e3o da fase de liquida\u00e7\u00e3o de senten\u00e7a por c\u00e1lculos do contador, a fim de que o magistrado remeta os autos ao contador judicial, para que seja apurado o valor da condena\u00e7\u00e3o em moeda corrente.",
-                "letter": "C"
+                "text": "Instaura\u00e7\u00e3o da fase de cumprimento de senten\u00e7a, com a apresenta\u00e7\u00e3o da mem\u00f3ria de c\u00e1lculo contemplando o valor da condena\u00e7\u00e3o em moeda corrente."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.12483670057788428,
+                    0.03714204971129604,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Instaura\u00e7\u00e3o da fase de liquida\u00e7\u00e3o de senten\u00e7a por c\u00e1lculos do contador, a fim de que o magistrado remeta os autos ao contador judicial, para que seja apurado o valor da condena\u00e7\u00e3o em moeda corrente."
+            },
+            {
                 "correct": null,
-                "text": "Ajuizamento de a\u00e7\u00e3o rescis\u00f3ria, a fim de que o tribunal apure o valor da condena\u00e7\u00e3o em moeda corrente.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    -0.020541189119622504,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ajuizamento de a\u00e7\u00e3o rescis\u00f3ria, a fim de que o tribunal apure o valor da condena\u00e7\u00e3o em moeda corrente."
             }
         ],
-        "valid": true,
-        "enum": "Nos autos de a\u00e7\u00e3o indenizat\u00f3ria movida por Henrique em face de Paulo, ambos pr\u00f3speros empres\u00e1rios, transitou em julgado senten\u00e7a de proced\u00eancia do pleito autoral, condenando o r\u00e9u ao pagamento de indeniza\u00e7\u00e3o, no montante equivalente a 500 sal\u00e1rios m\u00ednimos, na data da prola\u00e7\u00e3o da senten\u00e7a, acrescidos de juros legais e corre\u00e7\u00e3o monet\u00e1ria.\n\n Assinale a alternativa que apresenta a provid\u00eancia a ser imediatamente adotada pelo advogado de Henrique.",
-        "number": "56",
-        "filename": "2012-08.txt"
+        "valid": true
     }
 ]

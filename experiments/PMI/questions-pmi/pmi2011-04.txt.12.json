@@ -3,55 +3,55 @@
         "areas": [
             "ETHICS"
         ],
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "a situa\u00e7\u00e3o \u00e9 permitida, diante do poss\u00edvel v\u00edcio alegado pelo advogado.",
-                "correct": true,
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.05333827000778816,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "se caracteriza a hip\u00f3tese de postula\u00e7\u00e3o com m\u00e1-f\u00e9 contra literal disposi\u00e7\u00e3o de lei.",
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.08534123201246106,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "mesmo sendo a lei eivada de v\u00edcio, n\u00e3o seria poss\u00edvel presumir boa-f\u00e9.",
-                "correct": null,
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.05673715965456214,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "ao pleitear contra expressa disposi\u00e7\u00e3o de lei no caso referido, presume-se a m\u00e1-f\u00e9.",
-                "correct": null,
-                "letter": "D"
-            }
-        ],
-        "valid": true,
         "enum": "M\u00e9vio aceita defender um cliente. Ap\u00f3s ampla pesquisa, verifica que a legisla\u00e7\u00e3o ordin\u00e1ria n\u00e3o acolhe a pretens\u00e3o dele. Elabora, pois, a tese de que a legisla\u00e7\u00e3o que n\u00e3o permite o acolhimento da pretens\u00e3o do seu constitu\u00eddo padeceria do v\u00edcio de inconstitucionalidade e recomenda que n\u00e3o haja o cumprimento da referida norma. \u00c0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que",
         "filename": "2011-04.txt",
-        "number": "12"
+        "number": "12",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a situa\u00e7\u00e3o \u00e9 permitida, diante do poss\u00edvel v\u00edcio alegado pelo advogado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.02778046112641545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "se caracteriza a hip\u00f3tese de postula\u00e7\u00e3o com m\u00e1-f\u00e9 contra literal disposi\u00e7\u00e3o de lei."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.04444873780226472,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "mesmo sendo a lei eivada de v\u00edcio, n\u00e3o seria poss\u00edvel presumir boa-f\u00e9."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.051421148524376,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ao pleitear contra expressa disposi\u00e7\u00e3o de lei no caso referido, presume-se a m\u00e1-f\u00e9."
+            }
+        ],
+        "valid": true
     }
 ]

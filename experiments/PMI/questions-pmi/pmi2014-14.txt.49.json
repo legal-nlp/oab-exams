@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "BUSINESS"
+        ],
         "enum": "Na duplicata de compra e venda, entende-se por protesto por indica\u00e7\u00f5es do portador aquele que \u00e9 lavrado pelo tabeli\u00e3o de protestos",
+        "filename": "2014-14.txt",
         "number": "49",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "em caso de recusa ao aceite e devolu\u00e7\u00e3o do t\u00edtulo ao apresentante pelo sacado, dentro do prazo legal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em caso de recusa ao aceite e devolu\u00e7\u00e3o do t\u00edtulo ao apresentante pelo sacado, dentro do prazo legal."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "quando o sacado retiver a duplicata enviada para aceite e n\u00e3o proceder \u00e0 devolu\u00e7\u00e3o dentro do prazo legal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "quando o sacado retiver a duplicata enviada para aceite e n\u00e3o proceder \u00e0 devolu\u00e7\u00e3o dentro do prazo legal."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "na falta de pagamento do t\u00edtulo pelo aceitante ou pelo endossante dentro do prazo legal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "na falta de pagamento do t\u00edtulo pelo aceitante ou pelo endossante dentro do prazo legal."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "em caso de revoga\u00e7\u00e3o da decis\u00e3o judicial que determinou a susta\u00e7\u00e3o do protesto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em caso de revoga\u00e7\u00e3o da decis\u00e3o judicial que determinou a susta\u00e7\u00e3o do protesto."
             }
-        ],
-        "filename": "2014-14.txt",
-        "areas": [
-            "BUSINESS"
         ],
         "valid": true
     }

@@ -6,52 +6,52 @@
         "enum": "A multinacional estrangeira Computer Inc., com sede nos Estados Unidos, celebra contrato de presta\u00e7\u00e3o de servi\u00e7os de inform\u00e1tica com a sociedade empresarial Telecomunica\u00e7\u00f5es S/A, constitu\u00edda de acordo com as leis brasileiras e com sede no Estado de Goi\u00e1s.  Os servi\u00e7os a serem prestados envolvem a instala\u00e7\u00e3o e a manuten\u00e7\u00e3o dos servidores localizados na sede da sociedade empresarial Telecomunica\u00e7\u00f5es S/A. Ainda consta, no contrato celebrado entre as referidas pessoas jur\u00eddicas que eventuais lit\u00edgios ser\u00e3o dirimidos, com exclusividade, perante a Corte Arbitral Alfa, situada no Brasil.  Ap\u00f3s discord\u00e2ncias sobre o cumprimento de uma das cl\u00e1usulas referentes \u00e0 realiza\u00e7\u00e3o dos servi\u00e7os, a multinacional Computer Inc. ingressa com demanda no foro arbitral contratualmente aven\u00e7ado.\n\n Com base no caso concreto, assinale a afirmativa correta.",
         "filename": "2017-23.txt",
         "number": "55",
-        "valid": true,
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.24539537037906292,
+                    0.02693179842862056,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "A cl\u00e1usula compromiss\u00f3ria prevista no contrato \u00e9 nula de pleno direito, uma vez que o princ\u00edpio da inafastabilidade da jurisdi\u00e7\u00e3o, previsto constitucionalmente, impede que a\u00e7\u00f5es que envolvam obriga\u00e7\u00f5es a serem cumpridas no Brasil sejam dirimidas por \u00f3rg\u00e3o que n\u00e3o integre o Poder Judici\u00e1rio nacional."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.37745017686692317,
+                    0.010760893561051135,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "Caso a empresa Telecomunica\u00e7\u00f5es S/A ingresse com demanda perante a Vara C\u00edvel situada no Estado de Goi\u00e1s, o juiz dever\u00e1 resolver o m\u00e9rito, ainda que a sociedade Computer Inc. alegue, em contesta\u00e7\u00e3o, a exist\u00eancia de conven\u00e7\u00e3o de arbitragem prevista no instrumento contratual."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.3315651617859931,
+                    0.005551642927580245,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": true,
                 "text": "Visando efetivar tutela provis\u00f3ria deferida em favor da multinacional Computer Inc., poder\u00e1 ser expedida carta arbitral pela Corte Arbitral Alfa para que \u00f3rg\u00e3o do Poder Judici\u00e1rio, com compet\u00eancia perante o Estado de Goi\u00e1s, pratique atos de coopera\u00e7\u00e3o que importem na constri\u00e7\u00e3o provis\u00f3ria de bens na sede da sociedade empresarial Telecomunica\u00e7\u00f5es S/A, a fim de garantir a efetividade do provimento final."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.12404523826538634,
+                    0.006324151057440909,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "A senten\u00e7a arbitral proferida pela Corte Arbitral Alfa configura t\u00edtulo executivo extrajudicial, cuja execu\u00e7\u00e3o poder\u00e1 ser proposta no foro do lugar onde deva ser cumprida a obriga\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

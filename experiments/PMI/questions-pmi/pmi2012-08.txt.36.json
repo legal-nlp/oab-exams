@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "ENVIRONMENTAL"
+        ],
         "enum": "Lu\u00edsa, residente e domiciliada na cidade de Recife, ap\u00f3s visitar a Austr\u00e1lia, traz consigo para a sua casa um filhote de coala, animal t\u00edpico daquele pa\u00eds e inexistente no Brasil.\n\n Tendo em vista tal situa\u00e7\u00e3o, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
         "number": "36",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.01812238142577532,
+                    0.020352906068708602,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "Ao trazer o animal, Lu\u00edsa n\u00e3o cometeu qualquer il\u00edcito ambiental j\u00e1 que a propriedade de animais dom\u00e9sticos \u00e9 livre no Brasil."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.021909977861328152,
+                    0.0016026978297453592,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "Ao trazer o animal, Lu\u00edsa, em princ\u00edpio, n\u00e3o cometeu qualquer il\u00edcito ambiental, pois o crime contra o meio ambiente s\u00f3 se configuraria caso Lu\u00edsa abandonasse ou praticasse a\u00e7\u00f5es de crueldade contra o animal por ela adotado."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.011074788649084918,
+                    0.01243788704198859,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "Ao trazer o animal, Lu\u00edsa cometeu crime ambiental, pois o introduziu no Brasil sem pr\u00e9vio licenciamento ambiental, sendo a Justi\u00e7a estadual de Pernambuco competente para julgar a eventual a\u00e7\u00e3o."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.033132301082899156,
+                    0.01141803180545065,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "Ao trazer o animal, Lu\u00edsa cometeu crime ambiental, pois o introduziu no Brasil sem licen\u00e7a e sem parecer t\u00e9cnico oficial favor\u00e1vel, sendo a Justi\u00e7a Federal competente para julgar a eventual a\u00e7\u00e3o."
             }
         ],
-        "filename": "2012-08.txt",
-        "areas": [
-            "ENVIRONMENTAL"
-        ]
+        "valid": true
     }
 ]

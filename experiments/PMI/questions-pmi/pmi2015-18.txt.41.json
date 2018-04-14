@@ -1,53 +1,53 @@
 [
     {
-        "enum": "Renato \u00e9 propriet\u00e1rio de um im\u00f3vel e o coloca \u00e0 venda, atraindo o interesse de M\u00e1rio. Depois de algumas visitas ao im\u00f3vel e conversas sobre o seu valor, Renato e M\u00e1rio, acompanhados de corretor, realizam neg\u00f3cio por pre\u00e7o certo, que deveria ser pago em tr\u00eas parcelas: a primeira, paga naquele ato a t\u00edtulo de sinal e princ\u00edpio de pagamento, mediante recibo que dava o neg\u00f3cio por conclu\u00eddo de forma irretrat\u00e1vel; a segunda deveria ser paga em at\u00e9 trinta dias, contra a exibi\u00e7\u00e3o das certid\u00f5es negativas do vendedor; a terceira seria paga na data da lavratura da escritura definitiva, em at\u00e9 noventa dias a contar do fechamento do neg\u00f3cio.\n\n Antes do pagamento da segunda parcela, M\u00e1rio celebra, com terceiros, contratos de promessa de loca\u00e7\u00e3o do im\u00f3vel por temporada, recebendo a metade de cada aluguel antecipadamente. Renato, ao tomar conhecimento de que M\u00e1rio havia celebrado as promessas de loca\u00e7\u00e3o por temporada, percebeu que o im\u00f3vel possu\u00eda esse potencial de explora\u00e7\u00e3o. Em virtude disso, Renato arrependeu-se do neg\u00f3cio e, antes do vencimento da segunda parcela do pre\u00e7o, notificou o comprador e o corretor, dando o neg\u00f3cio por desfeito.\n\n Com base na hip\u00f3tese formulada, assinale a afirmativa correta.",
-        "number": "41",
         "areas": [],
+        "enum": "Renato \u00e9 propriet\u00e1rio de um im\u00f3vel e o coloca \u00e0 venda, atraindo o interesse de M\u00e1rio. Depois de algumas visitas ao im\u00f3vel e conversas sobre o seu valor, Renato e M\u00e1rio, acompanhados de corretor, realizam neg\u00f3cio por pre\u00e7o certo, que deveria ser pago em tr\u00eas parcelas: a primeira, paga naquele ato a t\u00edtulo de sinal e princ\u00edpio de pagamento, mediante recibo que dava o neg\u00f3cio por conclu\u00eddo de forma irretrat\u00e1vel; a segunda deveria ser paga em at\u00e9 trinta dias, contra a exibi\u00e7\u00e3o das certid\u00f5es negativas do vendedor; a terceira seria paga na data da lavratura da escritura definitiva, em at\u00e9 noventa dias a contar do fechamento do neg\u00f3cio.\n\n Antes do pagamento da segunda parcela, M\u00e1rio celebra, com terceiros, contratos de promessa de loca\u00e7\u00e3o do im\u00f3vel por temporada, recebendo a metade de cada aluguel antecipadamente. Renato, ao tomar conhecimento de que M\u00e1rio havia celebrado as promessas de loca\u00e7\u00e3o por temporada, percebeu que o im\u00f3vel possu\u00eda esse potencial de explora\u00e7\u00e3o. Em virtude disso, Renato arrependeu-se do neg\u00f3cio e, antes do vencimento da segunda parcela do pre\u00e7o, notificou o comprador e o corretor, dando o neg\u00f3cio por desfeito.\n\n Com base na hip\u00f3tese formulada, assinale a afirmativa correta.",
         "filename": "2015-18.txt",
+        "number": "41",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido pelo comprador. Contudo, \u00e9 devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido pelo comprador. Contudo, \u00e9 devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se.",
                 "pmi": [
-                    -0.002208403541201089,
+                    0.002758049385382805,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se."
             },
             {
+                "correct": true,
                 "letter": "D",
-                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, sendo devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se.",
                 "pmi": [
-                    -0.0021032414678105607,
+                    0.0026267137003645764,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, sendo devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se."
             }
         ],
         "valid": true

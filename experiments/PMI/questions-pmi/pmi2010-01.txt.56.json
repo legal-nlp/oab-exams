@@ -1,37 +1,36 @@
 [
     {
-        "valid": true,
-        "number": "56",
-        "filename": "2010-01.txt",
-        "enum": "Com rela\u00e7\u00e3o ao processo administrativo federal, assinale a op\u00e7\u00e3o correta.",
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "Com rela\u00e7\u00e3o ao processo administrativo federal, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "56",
         "options": [
             {
-                "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.2012416100658298,
+                    0.030526193174751953,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos."
             },
             {
-                "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.25602631892202976,
+                    0.014369451525315574,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva."
             },
             {
-                "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -39,19 +38,20 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia."
             },
             {
-                "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus.",
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.7909414407269529,
+                    0.020245870615083122,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

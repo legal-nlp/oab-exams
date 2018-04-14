@@ -1,57 +1,57 @@
 [
     {
-        "number": "44",
-        "options": [
-            {
-                "text": "Cl\u00e1udio sendo bisav\u00f4 de Paulo e membro de sua fam\u00edlia extensa, ter\u00e1 prioridade na ado\u00e7\u00e3o da crian\u00e7a, exigindo-se, contudo, que Carla, m\u00e3e de Paulo, autorize e que o adotando d\u00ea o seu consentimento em ju\u00edzo.",
-                "pmi": [
-                    -0.015485631242426917,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "Cl\u00e1udio, por ser bisav\u00f4 de Paulo, n\u00e3o poder\u00e1 adot\u00e1-lo, mesmo que Carla consinta, j\u00e1 que tal medida excepcional n\u00e3o \u00e9 permitida quando o adotante \u00e9 ascendente ou irm\u00e3o do adotando.",
-                "pmi": [
-                    -0.0041378704852026915,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "B"
-            },
-            {
-                "text": "Como Cl\u00e1udio s\u00f3 poder\u00e1 adotar Paulo se Carla for destitu\u00edda do poder familiar exercido em favor da crian\u00e7a, a medida, dada a sua excepcionalidade, s\u00f3 se justificaria na hip\u00f3tese de ado\u00e7\u00e3o bilateral.",
-                "pmi": [
-                    -0.009292183181990323,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C"
-            },
-            {
-                "text": "Claudio, por ser bisav\u00f4 de Paulo, por um lado, tem prioridade na ado\u00e7\u00e3o da crian\u00e7a, mas, por outro, s\u00f3 poder\u00e1 adot\u00e1-lo se Carla, al\u00e9m de autorizar a medida, for destitu\u00edda do poder familiar.",
-                "pmi": [
-                    -0.004456168214833668,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
         "areas": [
             "CHILDREN"
         ],
-        "valid": true,
         "enum": "Paulo, de 4 anos, \u00e9 filho de Carla e n\u00e3o teve a sua paternidade reconhecida. Cl\u00e1udio, av\u00f4 de Carla e bisav\u00f4 de Paulo, muito preocupado com o futuro do bisneto, pretende adot\u00e1-lo, tendo em vista que Carla ostenta uma situa\u00e7\u00e3o financeira prec\u00e1ria e, na opini\u00e3o do av\u00f4, n\u00e3o \u00e9 muito respons\u00e1vel.\n\n Acerca da possibilidade de ado\u00e7\u00e3o de Paulo por Cl\u00e1udio, assinale a afirmativa correta.",
-        "filename": "2013-12.txt"
+        "filename": "2013-12.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0004200023132992793,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Cl\u00e1udio sendo bisav\u00f4 de Paulo e membro de sua fam\u00edlia extensa, ter\u00e1 prioridade na ado\u00e7\u00e3o da crian\u00e7a, exigindo-se, contudo, que Carla, m\u00e3e de Paulo, autorize e que o adotando d\u00ea o seu consentimento em ju\u00edzo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.01631222980073099,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Cl\u00e1udio, por ser bisav\u00f4 de Paulo, n\u00e3o poder\u00e1 adot\u00e1-lo, mesmo que Carla consinta, j\u00e1 que tal medida excepcional n\u00e3o \u00e9 permitida quando o adotante \u00e9 ascendente ou irm\u00e3o do adotando."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.028881337351752547,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Como Cl\u00e1udio s\u00f3 poder\u00e1 adotar Paulo se Carla for destitu\u00edda do poder familiar exercido em favor da crian\u00e7a, a medida, dada a sua excepcionalidade, s\u00f3 se justificaria na hip\u00f3tese de ado\u00e7\u00e3o bilateral."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.017567016708479526,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Claudio, por ser bisav\u00f4 de Paulo, por um lado, tem prioridade na ado\u00e7\u00e3o da crian\u00e7a, mas, por outro, s\u00f3 poder\u00e1 adot\u00e1-lo se Carla, al\u00e9m de autorizar a medida, for destitu\u00edda do poder familiar."
+            }
+        ],
+        "valid": true
     }
 ]

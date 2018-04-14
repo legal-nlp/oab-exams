@@ -1,55 +1,55 @@
 [
     {
-        "number": "8",
         "areas": [],
+        "enum": "A advogada Dolores cometeu infra\u00e7\u00e3o disciplinar sujeita \u00e0 san\u00e7\u00e3o de suspens\u00e3o em 12/07/2004. Em 13/07/2008 o fato foi oficialmente constatado, tendo sido encaminhada not\u00edcia a certo Conselho Seccional da OAB. Em 14/07/2010 foi instaurado processo disciplinar. Em 15/07/2012 foi aplicada definitivamente a san\u00e7\u00e3o disciplinar de suspens\u00e3o.\n\n Sobre o tema, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "number": "8",
         "options": [
             {
-                "pmi": [
-                    -0.01772756962798333,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em oito anos. No caso narrado, n\u00e3o se operou o fen\u00f4meno prescritivo.",
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.015731326834129932,
+                    0.005449210696074842,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em cinco anos. No caso narrado, operou-se o fen\u00f4meno prescritivo, pois decorridos mais de cinco anos entre a data do fato e a instaura\u00e7\u00e3o do processo disciplinar.",
+                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em oito anos. No caso narrado, n\u00e3o se operou o fen\u00f4meno prescritivo."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.010427982134107842,
+                    0.02772513627347914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em oito anos. No caso narrado, operou-se o fen\u00f4meno prescritivo, pois decorridos mais de oito anos entre a data do fato e a aplica\u00e7\u00e3o definitiva da san\u00e7\u00e3o disciplinar.",
+                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em cinco anos. No caso narrado, operou-se o fen\u00f4meno prescritivo, pois decorridos mais de cinco anos entre a data do fato e a instaura\u00e7\u00e3o do processo disciplinar."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.01772756962798333,
+                    0.003205418056514613,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em cinco anos. No caso narrado, n\u00e3o se operou o fen\u00f4meno prescritivo.",
+                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em oito anos. No caso narrado, operou-se o fen\u00f4meno prescritivo, pois decorridos mais de oito anos entre a data do fato e a aplica\u00e7\u00e3o definitiva da san\u00e7\u00e3o disciplinar."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "correct": true
+                "pmi": [
+                    0.005449210696074842,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A pretens\u00e3o \u00e0 punibilidade das infra\u00e7\u00f5es disciplinares prescreve em cinco anos. No caso narrado, n\u00e3o se operou o fen\u00f4meno prescritivo."
             }
         ],
-        "filename": "2016-20.txt",
-        "enum": "A advogada Dolores cometeu infra\u00e7\u00e3o disciplinar sujeita \u00e0 san\u00e7\u00e3o de suspens\u00e3o em 12/07/2004. Em 13/07/2008 o fato foi oficialmente constatado, tendo sido encaminhada not\u00edcia a certo Conselho Seccional da OAB. Em 14/07/2010 foi instaurado processo disciplinar. Em 15/07/2012 foi aplicada definitivamente a san\u00e7\u00e3o disciplinar de suspens\u00e3o.\n\n Sobre o tema, assinale a afirmativa correta.",
         "valid": true
     }
 ]

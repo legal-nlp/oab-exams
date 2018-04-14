@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "text": "Deve lan\u00e7ar em ata o protesto, alegando que, no processo do trabalho, a revelia decorre da falta de apresenta\u00e7\u00e3o de defesa, pelo que a presen\u00e7a do advogado, munido de procura\u00e7\u00e3o, supre a aus\u00eancia da parte.",
-                "pmi": [
-                    -0.016751457686683287,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "Deve conformar-se, pois, no processo do trabalho, a revelia decorre da aus\u00eancia da parte r\u00e9, importando em confiss\u00e3o quanto a qualquer mat\u00e9ria, pelo que a presen\u00e7a do advogado da parte ausente, munido de procura\u00e7\u00e3o e defesa, \u00e9 irrelevante.",
-                "pmi": [
-                    -0.009852401754987682,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "text": "Deve lan\u00e7ar em ata o protesto, alegando que, no processo do trabalho, a revelia decorre da aus\u00eancia da parte r\u00e9, importando em confiss\u00e3o quanto \u00e0 mat\u00e9ria de fato, pelo que o juiz deve receber a defesa apresentada pelo advogado da parte ausente, desde que munido de procura\u00e7\u00e3o, para o exame das quest\u00f5es de direito.",
-                "pmi": [
-                    -0.020740353242198924,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "text": "Deve conformar-se, pois, no processo do trabalho, a revelia tanto pode decorrer da aus\u00eancia da parte r\u00e9 quanto da falta de apresenta\u00e7\u00e3o da defesa, estando ou n\u00e3o presente o advogado da parte ausente (ainda que munido de procura\u00e7\u00e3o) e sempre importa em confiss\u00e3o quanto a qualquer mat\u00e9ria, de fato ou de direito.",
-                "pmi": [
-                    -0.02619834093751443,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
-        "number": "79",
-        "valid": true,
-        "enum": "Em audi\u00eancia de concilia\u00e7\u00e3o, instru\u00e7\u00e3o e julgamento, o reclamado n\u00e3o respondeu ao preg\u00e3o, mas compareceu o seu advogado, munido de procura\u00e7\u00e3o e dos atos constitutivos da empresa. Dada a palavra ao reclamante, seu advogado requereu que a empresa fosse considerada revel e confessa, pelo que o juiz indeferiu a juntada da defesa escrita que o advogado da parte reclamada pretendia apresentar.\n\n Assinale a alternativa correta, indicando como deve o advogado da parte reclamada proceder.",
-        "filename": "2011-04.txt",
         "areas": [
             "LABOUR-PROCEDURE"
-        ]
+        ],
+        "enum": "Em audi\u00eancia de concilia\u00e7\u00e3o, instru\u00e7\u00e3o e julgamento, o reclamado n\u00e3o respondeu ao preg\u00e3o, mas compareceu o seu advogado, munido de procura\u00e7\u00e3o e dos atos constitutivos da empresa. Dada a palavra ao reclamante, seu advogado requereu que a empresa fosse considerada revel e confessa, pelo que o juiz indeferiu a juntada da defesa escrita que o advogado da parte reclamada pretendia apresentar.\n\n Assinale a alternativa correta, indicando como deve o advogado da parte reclamada proceder.",
+        "filename": "2011-04.txt",
+        "number": "79",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.016528021752989987,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve lan\u00e7ar em ata o protesto, alegando que, no processo do trabalho, a revelia decorre da falta de apresenta\u00e7\u00e3o de defesa, pelo que a presen\u00e7a do advogado, munido de procura\u00e7\u00e3o, supre a aus\u00eancia da parte."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.005747354232359165,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve conformar-se, pois, no processo do trabalho, a revelia decorre da aus\u00eancia da parte r\u00e9, importando em confiss\u00e3o quanto a qualquer mat\u00e9ria, pelo que a presen\u00e7a do advogado da parte ausente, munido de procura\u00e7\u00e3o e defesa, \u00e9 irrelevante."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.010459158732494773,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve lan\u00e7ar em ata o protesto, alegando que, no processo do trabalho, a revelia decorre da aus\u00eancia da parte r\u00e9, importando em confiss\u00e3o quanto \u00e0 mat\u00e9ria de fato, pelo que o juiz deve receber a defesa apresentada pelo advogado da parte ausente, desde que munido de procura\u00e7\u00e3o, para o exame das quest\u00f5es de direito."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.013211568925256554,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve conformar-se, pois, no processo do trabalho, a revelia tanto pode decorrer da aus\u00eancia da parte r\u00e9 quanto da falta de apresenta\u00e7\u00e3o da defesa, estando ou n\u00e3o presente o advogado da parte ausente (ainda que munido de procura\u00e7\u00e3o) e sempre importa em confiss\u00e3o quanto a qualquer mat\u00e9ria, de fato ou de direito."
+            }
+        ],
+        "valid": true
     }
 ]

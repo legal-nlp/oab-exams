@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
-        "filename": "2012-08.txt",
         "enum": "O advogado Rubem, em causa em que patrocina os interesses da sociedade S\u00f3 F\u00e1cil Ltda., cita fatos delituosos, por escrito, contra a honra do r\u00e9u, sem autoriza\u00e7\u00e3o do seu cliente. Dias depois, \u00e9 surpreendido com a\u00e7\u00e3o criminal em virtude dos fatos apresentados no processo judicial.\n\n A descri\u00e7\u00e3o acima amolda-se \u00e0 seguinte infra\u00e7\u00e3o disciplinar:",
+        "filename": "2012-08.txt",
         "number": "10",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.21795603808933167,
+                    -0.008617377097838512,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "locupletar-se, por qualquer forma, \u00e0 custa do cliente ou da parte adversa, por si ou interposta pessoa."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.04387931086245865,
+                    0.00845535438541465,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "incidir em erros reiterados que evidenciem in\u00e9pcia profissional."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.16628720627544524,
+                    0.02211758861689862,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "prestar concurso a cliente ou a terceiro para realiza\u00e7\u00e3o de ato contr\u00e1rio \u00e0 lei ou destinado a fraud\u00e1-la."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.12921403729073033,
+                    0.005360816203801001,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "fazer, em nome do constituinte, sem autoriza\u00e7\u00e3o escrita deste, imputa\u00e7\u00e3o a terceiro de fato definido como crime."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

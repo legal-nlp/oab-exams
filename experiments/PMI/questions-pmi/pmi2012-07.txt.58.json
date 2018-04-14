@@ -1,57 +1,57 @@
 [
     {
-        "number": "58",
-        "enum": "Um shopping center, que possui cerca de 250 lojas e estacionamento para dois mil ve\u00edculos, foi constru\u00eddo h\u00e1 doze anos sobre um antigo aterro sanit\u00e1rio e, desde sua inaugura\u00e7\u00e3o, sofre com a decomposi\u00e7\u00e3o de material org\u00e2nico do subsolo, havendo emiss\u00e3o di\u00e1ria de g\u00e1s metano, em n\u00edveis considerados perigosos \u00e0 sa\u00fade humana, podendo causar explos\u00f5es. Em raz\u00e3o do caso exposto, assinale a alternativa correta:",
-        "valid": true,
         "areas": [
             "ENVIRONMENTAL"
         ],
+        "enum": "Um shopping center, que possui cerca de 250 lojas e estacionamento para dois mil ve\u00edculos, foi constru\u00eddo h\u00e1 doze anos sobre um antigo aterro sanit\u00e1rio e, desde sua inaugura\u00e7\u00e3o, sofre com a decomposi\u00e7\u00e3o de material org\u00e2nico do subsolo, havendo emiss\u00e3o di\u00e1ria de g\u00e1s metano, em n\u00edveis considerados perigosos \u00e0 sa\u00fade humana, podendo causar explos\u00f5es. Em raz\u00e3o do caso exposto, assinale a alternativa correta:",
         "filename": "2012-07.txt",
+        "number": "58",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "Como o shopping foi constru\u00eddo h\u00e1 mais de cinco anos, a obriga\u00e7\u00e3o de elaborar estudo pr\u00e9vio de impacto ambiental e de se submeter a licenciamento j\u00e1 prescreveu. Assim o empreendimento poder\u00e1 continuar funcionando.",
-                "correct": null
-            },
-            {
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Como o shopping foi constru\u00eddo h\u00e1 mais de cinco anos, a obriga\u00e7\u00e3o de elaborar estudo pr\u00e9vio de impacto ambiental e de se submeter a licenciamento j\u00e1 prescreveu. Assim o empreendimento poder\u00e1 continuar funcionando."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "A licen\u00e7a de opera\u00e7\u00e3o ambiental tem prazo de validade de dez anos. Logo o shopping j\u00e1 cumpriu com suas obriga\u00e7\u00f5es referentes ao licenciamento e ao estudo pr\u00e9vio de impacto ambiental, e poder\u00e1 continuar com suas atividades regularmente.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.005436642506317148,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A licen\u00e7a de opera\u00e7\u00e3o ambiental tem prazo de validade de dez anos. Logo o shopping j\u00e1 cumpriu com suas obriga\u00e7\u00f5es referentes ao licenciamento e ao estudo pr\u00e9vio de impacto ambiental, e poder\u00e1 continuar com suas atividades regularmente."
+            },
+            {
+                "correct": true,
                 "letter": "C",
-                "text": "A decomposi\u00e7\u00e3o de material org\u00e2nico continua ocorrendo, e \u00e9 considerada perigosa \u00e0 sa\u00fade humana e ao meio ambiente. Logo, o shopping center em quest\u00e3o poder\u00e1 ser obrigado pelo \u00f3rg\u00e3o ambiental competente a adotar medidas para promover a dispers\u00e3o do g\u00e1s metano, de forma a minimizar ou anular os riscos ambientais, mesmo que j\u00e1 possua licen\u00e7a de opera\u00e7\u00e3o v\u00e1lida.",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.0017782051314142765,
+                    0.012707342090336034,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A decomposi\u00e7\u00e3o de material org\u00e2nico continua ocorrendo, e \u00e9 considerada perigosa \u00e0 sa\u00fade humana e ao meio ambiente. Logo, o shopping center em quest\u00e3o poder\u00e1 ser obrigado pelo \u00f3rg\u00e3o ambiental competente a adotar medidas para promover a dispers\u00e3o do g\u00e1s metano, de forma a minimizar ou anular os riscos ambientais, mesmo que j\u00e1 possua licen\u00e7a de opera\u00e7\u00e3o v\u00e1lida."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "text": "Caso o shopping center possua licen\u00e7a de opera\u00e7\u00e3o v\u00e1lida, n\u00e3o poder\u00e1 ser obrigado pelo \u00f3rg\u00e3o ambiental competente, no caso exposto, a adotar novas medidas para a dispers\u00e3o do g\u00e1s metano. Apenas no momento da renova\u00e7\u00e3o de sua licen\u00e7a de opera\u00e7\u00e3o poder\u00e1 ser obrigado a adquirir novo equipamento para tal fim.",
-                "correct": null
+                "pmi": [
+                    0.01018033017092532,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Caso o shopping center possua licen\u00e7a de opera\u00e7\u00e3o v\u00e1lida, n\u00e3o poder\u00e1 ser obrigado pelo \u00f3rg\u00e3o ambiental competente, no caso exposto, a adotar novas medidas para a dispers\u00e3o do g\u00e1s metano. Apenas no momento da renova\u00e7\u00e3o de sua licen\u00e7a de opera\u00e7\u00e3o poder\u00e1 ser obrigado a adquirir novo equipamento para tal fim."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

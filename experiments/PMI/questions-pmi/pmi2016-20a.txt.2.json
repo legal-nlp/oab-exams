@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
         "enum": "As advogadas Juliana e Patr\u00edcia, iniciando carreira na advocacia, acreditam que seja necess\u00e1ria a divulga\u00e7\u00e3o de seus servi\u00e7os, para se tornarem conhecidas. Assim, decidem realizar publicidade de sua atua\u00e7\u00e3o, mediante as seguintes medidas: primeiramente, publicam um an\u00fancio, em jornal de grande circula\u00e7\u00e3o, onde constam seus nomes, n\u00fameros de inscri\u00e7\u00e3o na OAB e endere\u00e7o de atua\u00e7\u00e3o. Al\u00e9m disso, anunciam no r\u00e1dio suas qualifica\u00e7\u00f5es profissionais, bem como expedem correspond\u00eancias a seus clientes e a colegas advogados, contendo boletim informativo e coment\u00e1rios \u00e0 legisla\u00e7\u00e3o.\n\n Sobre a situa\u00e7\u00e3o apresentada, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2016-20a.txt",
+        "number": "2",
         "options": [
             {
-                "text": "Se realizadas com discri\u00e7\u00e3o e modera\u00e7\u00e3o, as publica\u00e7\u00f5es no jornal e as correspond\u00eancias expedidas n\u00e3o representam infra\u00e7\u00e3o \u00e9tica, por\u00e9m a veicula\u00e7\u00e3o do an\u00fancio no r\u00e1dio viola o C\u00f3digo de \u00c9tica e Disciplina da OAB.",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.003916292075134355,
+                    0.006330284489186101,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Se realizadas com discri\u00e7\u00e3o e modera\u00e7\u00e3o, as publica\u00e7\u00f5es no jornal e as correspond\u00eancias expedidas n\u00e3o representam infra\u00e7\u00e3o \u00e9tica, por\u00e9m a veicula\u00e7\u00e3o do an\u00fancio no r\u00e1dio viola o C\u00f3digo de \u00c9tica e Disciplina da OAB."
             },
             {
-                "text": "As tr\u00eas medidas de publicidade adotadas por Juliana e Patr\u00edcia violam o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, pois \u00e9 vedado ao advogado anunciar seus servi\u00e7os profissionais de forma a alcan\u00e7ar uma coletividade de pessoas.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.014707702624648069,
+                    0.028555620646927182,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As tr\u00eas medidas de publicidade adotadas por Juliana e Patr\u00edcia violam o disposto no C\u00f3digo de \u00c9tica e Disciplina da OAB, pois \u00e9 vedado ao advogado anunciar seus servi\u00e7os profissionais de forma a alcan\u00e7ar uma coletividade de pessoas."
             },
             {
-                "text": "Apenas a expedi\u00e7\u00e3o de correspond\u00eancias contendo boletim informativo e coment\u00e1rios \u00e0 legisla\u00e7\u00e3o configura viola\u00e7\u00e3o ao previsto no C\u00f3digo de \u00c9tica e Disciplina da OAB, j\u00e1 que \u00e9 vedada a comunica\u00e7\u00e3o do advogado por correspond\u00eancias, salvo aquelas destinadas a informar os clientes de seus interesses.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.008950754034607147,
+                    0.00797837246296578,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Apenas a expedi\u00e7\u00e3o de correspond\u00eancias contendo boletim informativo e coment\u00e1rios \u00e0 legisla\u00e7\u00e3o configura viola\u00e7\u00e3o ao previsto no C\u00f3digo de \u00c9tica e Disciplina da OAB, j\u00e1 que \u00e9 vedada a comunica\u00e7\u00e3o do advogado por correspond\u00eancias, salvo aquelas destinadas a informar os clientes de seus interesses."
             },
             {
-                "text": "Se realizadas com razoabilidade, nenhuma das medidas adotadas viola o C\u00f3digo de \u00c9tica e Disciplina da OAB, porque o advogado pode anunciar seus servi\u00e7os profissionais, individual ou coletivamente, desde que observadas modera\u00e7\u00e3o e discri\u00e7\u00e3o quanto ao conte\u00fado, forma e dimens\u00f5es.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.013961514231893637,
+                    0.024975476712524092,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Se realizadas com razoabilidade, nenhuma das medidas adotadas viola o C\u00f3digo de \u00c9tica e Disciplina da OAB, porque o advogado pode anunciar seus servi\u00e7os profissionais, individual ou coletivamente, desde que observadas modera\u00e7\u00e3o e discri\u00e7\u00e3o quanto ao conte\u00fado, forma e dimens\u00f5es."
             }
         ],
-        "number": "2",
-        "areas": [],
-        "filename": "2016-20a.txt"
+        "valid": true
     }
 ]

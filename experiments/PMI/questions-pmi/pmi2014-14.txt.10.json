@@ -1,57 +1,57 @@
 [
     {
-        "enum": "O advogado Armando alterou o endere\u00e7o de seu escrit\u00f3rio e, para comunicar tal altera\u00e7\u00e3o, enviou correspond\u00eancia a grande n\u00famero de pessoas, notadamente, seus clientes e outros advogados.\n\n Observadas as regras do Estatuto da OAB e do C\u00f3digo de \u00c9tica e Disciplina da OAB, Armando realizou publicidade irregular?",
-        "number": "10",
         "areas": [
             "ETHICS"
         ],
-        "valid": true,
+        "enum": "O advogado Armando alterou o endere\u00e7o de seu escrit\u00f3rio e, para comunicar tal altera\u00e7\u00e3o, enviou correspond\u00eancia a grande n\u00famero de pessoas, notadamente, seus clientes e outros advogados.\n\n Observadas as regras do Estatuto da OAB e do C\u00f3digo de \u00c9tica e Disciplina da OAB, Armando realizou publicidade irregular?",
+        "filename": "2014-14.txt",
+        "number": "10",
         "options": [
             {
-                "text": "Sim. Considera-se imoderado qualquer an\u00fancio profissional mediante remessa de correspond\u00eancia a uma coletividade.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "Sim. Ao advogado \u00e9 vedado o envio de correspond\u00eancia a clientes, salvo para tratar de temas que sejam de interesse desses \u00faltimos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Sim. Considera-se imoderado qualquer an\u00fancio profissional mediante remessa de correspond\u00eancia a uma coletividade."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "N\u00e3o. Armando poderia ter enviado a correspond\u00eancia em quest\u00e3o, pois estava apenas comunicando a altera\u00e7\u00e3o de seu endere\u00e7o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Sim. Ao advogado \u00e9 vedado o envio de correspond\u00eancia a clientes, salvo para tratar de temas que sejam de interesse desses \u00faltimos."
+            },
+            {
+                "correct": true,
                 "letter": "C",
-                "correct": true
-            },
-            {
-                "text": "N\u00e3o. A publicidade por meio de correspond\u00eancia \u00e9 permitida em qualquer caso e para comunicar qualquer tipo de informa\u00e7\u00e3o.",
                 "pmi": [
-                    -0.043873775670518235,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "N\u00e3o. Armando poderia ter enviado a correspond\u00eancia em quest\u00e3o, pois estava apenas comunicando a altera\u00e7\u00e3o de seu endere\u00e7o."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.023725166941318102,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o. A publicidade por meio de correspond\u00eancia \u00e9 permitida em qualquer caso e para comunicar qualquer tipo de informa\u00e7\u00e3o."
             }
         ],
-        "filename": "2014-14.txt"
+        "valid": true
     }
 ]

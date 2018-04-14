@@ -1,55 +1,55 @@
 [
     {
-        "number": "59",
+        "areas": [],
         "enum": "No dia 29/04/2011, J\u00falia, jovem de apenas 20 anos de idade, praticou um crime de les\u00e3o corporal leve (pena: de 03 meses a 01 ano) em face de sua rival na disputa pelo amor de Thiago. A representa\u00e7\u00e3o foi devidamente ofertada pela v\u00edtima dentro do prazo de 06 meses, contudo a den\u00fancia somente foi oferecida em 25/04/2014. Em 29/04/2014 foi recebida a den\u00fancia em face de J\u00falia, pois n\u00e3o houve composi\u00e7\u00e3o civil, transa\u00e7\u00e3o penal ou suspens\u00e3o condicional do processo.\n\n Nesta hip\u00f3tese,",
+        "filename": "2016-20a.txt",
+        "number": "59",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.016435236157861223,
+                    0.032398782585137606,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "poder\u00e1 ser requerido pelo advogado de J\u00falia o reconhecimento da prescri\u00e7\u00e3o pela pena ideal, pois entre a data dos fatos e o recebimento da den\u00fancia foram ultrapassados mais de 03 anos."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.11471665232071507,
+                    0.0498720775167995,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "dever\u00e1, caso aplicada ao final do processo a pena m\u00ednima prevista em lei, ser reconhecida a prescri\u00e7\u00e3o da pretens\u00e3o punitiva retroativa, pois entre a data dos fatos e o recebimento da den\u00fancia foram ultrapassados mais de 03 anos."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.023252402137563338,
+                    0.04728562493565718,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "n\u00e3o foram ultrapassados 03 anos entre a data dos fatos e do recebimento da den\u00fancia, pois o prazo prescricional tem natureza essencialmente processual e n\u00e3o material."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.01423052028881962,
+                    0.016000062742560606,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "dever\u00e1 ser reconhecida, de imediato, a prescri\u00e7\u00e3o da pretens\u00e3o punitiva pela pena em abstrato."
             }
         ],
-        "areas": [],
-        "filename": "2016-20a.txt",
         "valid": true
     }
 ]

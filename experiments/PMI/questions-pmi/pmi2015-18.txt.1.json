@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Paulo \u00e9 contratado por Pedro para promover a\u00e7\u00e3o com pedido condenat\u00f3rio em face de Alexandre, por danos causados ao animal de sua propriedade. Em decorr\u00eancia do processo, houve condena\u00e7\u00e3o do r\u00e9u ao pagamento de indeniza\u00e7\u00e3o ao autor, fixados honor\u00e1rios de sucumb\u00eancia correspondentes a dez por cento do apurado em cumprimento de senten\u00e7a. O r\u00e9u ofertou apela\u00e7\u00e3o contra a senten\u00e7a proferida na fase cognitiva. Ainda pendente o julgamento do recurso, Pedro decide revogar o mandato judicial conferido a Paulo, desobrigando-se de pagar os honor\u00e1rios contratualmente ajustados.\n\n Nos termos do C\u00f3digo de \u00c9tica da OAB, a revoga\u00e7\u00e3o do mandato judicial, por vontade de Pedro,",
-        "valid": true,
-        "number": "1",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Paulo \u00e9 contratado por Pedro para promover a\u00e7\u00e3o com pedido condenat\u00f3rio em face de Alexandre, por danos causados ao animal de sua propriedade. Em decorr\u00eancia do processo, houve condena\u00e7\u00e3o do r\u00e9u ao pagamento de indeniza\u00e7\u00e3o ao autor, fixados honor\u00e1rios de sucumb\u00eancia correspondentes a dez por cento do apurado em cumprimento de senten\u00e7a. O r\u00e9u ofertou apela\u00e7\u00e3o contra a senten\u00e7a proferida na fase cognitiva. Ainda pendente o julgamento do recurso, Pedro decide revogar o mandato judicial conferido a Paulo, desobrigando-se de pagar os honor\u00e1rios contratualmente ajustados.\n\n Nos termos do C\u00f3digo de \u00c9tica da OAB, a revoga\u00e7\u00e3o do mandato judicial, por vontade de Pedro,",
         "filename": "2015-18.txt",
+        "number": "1",
         "options": [
             {
-                "text": "n\u00e3o o desobriga do pagamento das verbas honor\u00e1rias contratadas.",
-                "pmi": [
-                    -0.04147352906448357,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "correct": true
-            },
-            {
-                "text": "desobriga-o do pagamento das verbas honor\u00e1rias contratadas.",
                 "pmi": [
-                    -0.04147352906448357,
+                    0.025659213943133207,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "n\u00e3o o desobriga do pagamento das verbas honor\u00e1rias contratadas."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "desobriga-o do pagamento das verbas honor\u00e1rias contratadas e da verba sucumbencial.",
                 "pmi": [
-                    -0.02962394933177398,
+                    0.025659213943133207,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "desobriga-o do pagamento das verbas honor\u00e1rias contratadas."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "n\u00e3o o desobriga do pagamento das verbas honor\u00e1rias sucumbenciais, mas o desobriga das verbas contratadas.",
                 "pmi": [
-                    -0.025920955665302232,
+                    0.018328009959380862,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "desobriga-o do pagamento das verbas honor\u00e1rias contratadas e da verba sucumbencial."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.016037008714458255,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o o desobriga do pagamento das verbas honor\u00e1rias sucumbenciais, mas o desobriga das verbas contratadas."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

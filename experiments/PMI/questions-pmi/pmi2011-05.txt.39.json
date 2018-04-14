@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "correct": null,
-                "text": "modalidade de obriga\u00e7\u00e3o facultativa, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "correct": null,
-                "text": "modalidade de adimplemento direto, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "correct": true,
-                "text": "causa extintiva da obriga\u00e7\u00e3o, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "correct": null,
-                "text": "modalidade de obriga\u00e7\u00e3o alternativa, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada.",
-                "letter": "D"
-            }
-        ],
-        "enum": "A da\u00e7\u00e3o em pagamento \u00e9",
         "areas": [
             "CIVIL"
         ],
+        "enum": "A da\u00e7\u00e3o em pagamento \u00e9",
+        "filename": "2011-05.txt",
         "number": "39",
-        "filename": "2011-05.txt"
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "modalidade de obriga\u00e7\u00e3o facultativa, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "modalidade de adimplemento direto, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "causa extintiva da obriga\u00e7\u00e3o, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "modalidade de obriga\u00e7\u00e3o alternativa, na qual o credor consente em receber objeto diverso ao da presta\u00e7\u00e3o originariamente pactuada."
+            }
+        ],
+        "valid": true
     }
 ]

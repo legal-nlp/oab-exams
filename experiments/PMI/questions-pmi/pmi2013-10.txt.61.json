@@ -3,55 +3,55 @@
         "areas": [
             "CRIMINAL"
         ],
-        "number": "61",
+        "enum": "Jo\u00e3o, com inten\u00e7\u00e3o de matar, efetua v\u00e1rios disparos de arma de fogo contra Ant\u00f4nio, seu desafeto. Ferido, Ant\u00f4nio \u00e9 internado em um hospital, no qual vem a falecer, n\u00e3o em raz\u00e3o dos ferimentos, mas queimado em um inc\u00eandio que destr\u00f3i a enfermaria em que se encontrava.\n\n Assinale a alternativa que indica o crime pelo qual Jo\u00e3o ser\u00e1 responsabilizado.",
         "filename": "2013-10.txt",
+        "number": "61",
         "options": [
             {
-                "text": "Homic\u00eddio consumado.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "Homic\u00eddio consumado."
             },
             {
-                "text": "Homic\u00eddio tentado.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
                 "correct": true,
-                "letter": "B"
-            },
-            {
-                "text": "Les\u00e3o corporal.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "Homic\u00eddio tentado."
             },
             {
-                "text": "Les\u00e3o corporal seguida de morte.",
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Les\u00e3o corporal."
+            },
+            {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D"
+                "text": "Les\u00e3o corporal seguida de morte."
             }
         ],
-        "valid": true,
-        "enum": "Jo\u00e3o, com inten\u00e7\u00e3o de matar, efetua v\u00e1rios disparos de arma de fogo contra Ant\u00f4nio, seu desafeto. Ferido, Ant\u00f4nio \u00e9 internado em um hospital, no qual vem a falecer, n\u00e3o em raz\u00e3o dos ferimentos, mas queimado em um inc\u00eandio que destr\u00f3i a enfermaria em que se encontrava.\n\n Assinale a alternativa que indica o crime pelo qual Jo\u00e3o ser\u00e1 responsabilizado."
+        "valid": true
     }
 ]

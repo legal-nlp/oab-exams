@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2010-02.txt",
         "areas": [
             "LABOUR"
         ],
         "enum": "Marcos foi contratado para o cargo de escritur\u00e1rio de um banco privado. Iniciada sua atividade, Marcos percebeu que o gerente lhe estava repassando tarefas alheias \u00e0 sua fun\u00e7\u00e3o. A rigor, conforme constava do quadro de carreira da empresa devidamente registrado no Minist\u00e9rio do Trabalho e Emprego, as atribui\u00e7\u00f5es que lhe estavam sendo exigidas deveriam ser destinadas ao cargo de tesoureiro, cujo n\u00edvel e cuja remunera\u00e7\u00e3o eram bem superiores.\n\n Esta situa\u00e7\u00e3o perdurou por dois anos, ao fim dos quais Marcos decidiu ajuizar uma a\u00e7\u00e3o trabalhista em face do seu empregador. Nela, postulou uma obriga\u00e7\u00e3o de fazer \u2013 o seu reenquadramento para a fun\u00e7\u00e3o de tesoureiro \u2013 e o pagamento das diferen\u00e7as salariais do per\u00edodo.\n\n Diante desta situa\u00e7\u00e3o jur\u00eddica, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
         "number": "46",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "o pedido est\u00e1 inepto, uma vez que este \u00e9 um caso t\u00edpico de equipara\u00e7\u00e3o salarial e n\u00e3o houve indica\u00e7\u00e3o de paradigma.",
-                "correct": null,
                 "pmi": [
-                    -0.09889438217960436,
+                    0.03147500714322285,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o pedido est\u00e1 inepto, uma vez que este \u00e9 um caso t\u00edpico de equipara\u00e7\u00e3o salarial e n\u00e3o houve indica\u00e7\u00e3o de paradigma."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "o pedido deve ser julgado improcedente, uma vez que a determina\u00e7\u00e3o das atividades, para as quais o empregado est\u00e1 obrigado, encontra-se dentro do jus variandi do empregador.",
-                "correct": null,
                 "pmi": [
-                    -0.08515551940148977,
+                    0.0017574068137283575,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o pedido deve ser julgado improcedente, uma vez que a determina\u00e7\u00e3o das atividades, para as quais o empregado est\u00e1 obrigado, encontra-se dentro do jus variandi do empregador."
             },
             {
-                "letter": "C",
-                "text": "o pedido deve ser julgado procedente, se for demonstrado, pelo empregado, que as suas atividades correspondiam, de fato, \u00e0quelas previstas abstratamente na norma interna da empresa para o cargo de tesoureiro.",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.11718946978804769,
+                    0.03490815108858404,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o pedido deve ser julgado procedente, se for demonstrado, pelo empregado, que as suas atividades correspondiam, de fato, \u00e0quelas previstas abstratamente na norma interna da empresa para o cargo de tesoureiro."
             },
             {
-                "letter": "D",
-                "text": "o pedido deve ser julgado procedente em parte, uma vez que s\u00f3 a parti r da decis\u00e3o judicial que determine o reenquadramento \u00e9 que o empregado far\u00e1 jus ao aumento salarial.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.44455576233987093,
+                    -0.07016161864354667,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o pedido deve ser julgado procedente em parte, uma vez que s\u00f3 a parti r da decis\u00e3o judicial que determine o reenquadramento \u00e9 que o empregado far\u00e1 jus ao aumento salarial."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

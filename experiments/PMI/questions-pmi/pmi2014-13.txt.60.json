@@ -3,55 +3,55 @@
         "areas": [
             "CRIMINAL"
         ],
+        "enum": "Maria, jovem de 22 anos, ap\u00f3s sucessivas desilus\u00f5es, deseja dar cabo \u00e0 pr\u00f3pria vida. Com o fim de desabafar, Maria resolve compartilhar sua situa\u00e7\u00e3o com um amigo, Manoel, sem saber que o desejo dele, h\u00e1 muito, \u00e9 v\u00ea-la morta. Manoel, ent\u00e3o, ao perceber que poderia influenciar Maria, resolve instig\u00e1-la a matar-se. T\u00e3o logo se despede do amigo, a mo\u00e7a, influenciada pelas palavras deste, pula a janela de seu apartamento, mas sua queda \u00e9 amortecida por uma lona que abrigava uma barraca de feira. Em consequ\u00eancia, Maria sofre apenas escoria\u00e7\u00f5es pelo corpo e n\u00e3o chega a sofrer nenhuma fratura.\n\n Considerando apenas os dados descritos, assinale a afirmativa correta.",
         "filename": "2014-13.txt",
         "number": "60",
-        "valid": true,
-        "enum": "Maria, jovem de 22 anos, ap\u00f3s sucessivas desilus\u00f5es, deseja dar cabo \u00e0 pr\u00f3pria vida. Com o fim de desabafar, Maria resolve compartilhar sua situa\u00e7\u00e3o com um amigo, Manoel, sem saber que o desejo dele, h\u00e1 muito, \u00e9 v\u00ea-la morta. Manoel, ent\u00e3o, ao perceber que poderia influenciar Maria, resolve instig\u00e1-la a matar-se. T\u00e3o logo se despede do amigo, a mo\u00e7a, influenciada pelas palavras deste, pula a janela de seu apartamento, mas sua queda \u00e9 amortecida por uma lona que abrigava uma barraca de feira. Em consequ\u00eancia, Maria sofre apenas escoria\u00e7\u00f5es pelo corpo e n\u00e3o chega a sofrer nenhuma fratura.\n\n Considerando apenas os dados descritos, assinale a afirmativa correta.",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    0.0023819513300413772,
+                    0.024110182883845914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Manoel deve responder pelo delito de induzimento, instiga\u00e7\u00e3o ou aux\u00edlio ao suic\u00eddio em sua forma consumada.",
-                "letter": "A"
+                "text": "Manoel deve responder pelo delito de induzimento, instiga\u00e7\u00e3o ou aux\u00edlio ao suic\u00eddio em sua forma consumada."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.0023819513300413772,
+                    0.024110182883845914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Manoel deve responder pelo delito de induzimento, instiga\u00e7\u00e3o ou aux\u00edlio ao suic\u00eddio em sua forma tentada.",
-                "letter": "B"
+                "text": "Manoel deve responder pelo delito de induzimento, instiga\u00e7\u00e3o ou aux\u00edlio ao suic\u00eddio em sua forma tentada."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Manoel n\u00e3o possui responsabilidade jur\u00eddico-penal, pois Maria n\u00e3o morreu e nem sofreu les\u00e3o corporal de natureza grave.",
-                "letter": "C"
+                "text": "Manoel n\u00e3o possui responsabilidade jur\u00eddico-penal, pois Maria n\u00e3o morreu e nem sofreu les\u00e3o corporal de natureza grave."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    0.001465816203102386,
+                    0.014837035620828254,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Manoel, caso tivesse se arrependido daquilo que falou para Maria e esta, em virtude da queda, viesse a \u00f3bito, seria responsabilizado pelo delito de homic\u00eddio.",
-                "letter": "D"
+                "text": "Manoel, caso tivesse se arrependido daquilo que falou para Maria e esta, em virtude da queda, viesse a \u00f3bito, seria responsabilizado pelo delito de homic\u00eddio."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

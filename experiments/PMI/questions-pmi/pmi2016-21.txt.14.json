@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "O Governador do Estado E, diante da informa\u00e7\u00e3o de que poderia dispor de um lastro or\u00e7ament\u00e1rio mais amplo para a execu\u00e7\u00e3o de despesas com a seguridade social, convocou seu secretariado a fim de planejar o encaminhamento a ser dado a tais recursos. Na reuni\u00e3o foram apresentadas quatro propostas, mas o governador, consultando sua equipe de assessoramento jur\u00eddico, foi informado de que apenas uma das propostas era adequada para assegurar diretamente direitos relativos \u00e0 seguridade social, segundo a defini\u00e7\u00e3o que lhe d\u00e1 a CRFB/88.\n\n Dentre as op\u00e7\u00f5es a seguir, assinale-a.",
-        "valid": true,
         "filename": "2016-21.txt",
         "number": "14",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Amplia\u00e7\u00e3o da rede escolar do ensino fundamental e do ensino m\u00e9dio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Amplia\u00e7\u00e3o da rede escolar do ensino fundamental e do ensino m\u00e9dio."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "Amplia\u00e7\u00e3o da rede hospitalar de atendimento \u00e0 popula\u00e7\u00e3o da regi\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Amplia\u00e7\u00e3o da rede hospitalar de atendimento \u00e0 popula\u00e7\u00e3o da regi\u00e3o."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "Desenvolvimento de programa de preserva\u00e7\u00e3o da diversidade cultural da popula\u00e7\u00e3o.",
                 "pmi": [
-                    -0.06692419297928989,
+                    0.048959708641000965,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Desenvolvimento de programa de preserva\u00e7\u00e3o da diversidade cultural da popula\u00e7\u00e3o."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "Aprimoramento da atua\u00e7\u00e3o da guarda municipal na seguran\u00e7a do patrim\u00f4nio p\u00fablico.",
                 "pmi": [
-                    -0.05657283569992131,
+                    0.04275622283175658,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Aprimoramento da atua\u00e7\u00e3o da guarda municipal na seguran\u00e7a do patrim\u00f4nio p\u00fablico."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

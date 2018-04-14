@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
+        "enum": "Dentre as op\u00e7\u00f5es listadas a seguir, assinale aquela que indica o empregado que j\u00e1 tem os dias de repouso remunerados em seu sal\u00e1rio, sem que haja o acr\u00e9scimo da remunera\u00e7\u00e3o do seu repouso semanal.",
+        "filename": "2014-14.txt",
+        "number": "74",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "Germano, que \u00e9 empregado horista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Germano, que \u00e9 empregado horista."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "Gabriela, que \u00e9 empregada diarista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Gabriela, que \u00e9 empregada diarista."
             },
             {
-                "letter": "C",
                 "correct": true,
-                "text": "Robson, que \u00e9 empregado mensalista.",
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Robson, que \u00e9 empregado mensalista."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "Diego, que \u00e9 empregado comissionista puro.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Diego, que \u00e9 empregado comissionista puro."
             }
         ],
-        "enum": "Dentre as op\u00e7\u00f5es listadas a seguir, assinale aquela que indica o empregado que j\u00e1 tem os dias de repouso remunerados em seu sal\u00e1rio, sem que haja o acr\u00e9scimo da remunera\u00e7\u00e3o do seu repouso semanal.",
-        "valid": true,
-        "filename": "2014-14.txt",
-        "number": "74"
+        "valid": true
     }
 ]

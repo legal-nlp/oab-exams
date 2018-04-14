@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "number": "18",
         "enum": "A argui\u00e7\u00e3o de descumprimento de preceito fundamental (ADPF), regulada pela Lei n\u00ba 9.882/99, tem por objeto evitar ou reparar les\u00e3o a preceito fundamental, resultante de ato do Poder P\u00fablico.\n\n Com base no legalmente disposto sobre a ADPF, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-13.txt",
+        "number": "18",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.02852597518843681,
+                    0.011532657470429164,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "Face \u00e0 extraordinariedade da ADPF, a decis\u00e3o de indeferimento liminar da peti\u00e7\u00e3o inicial \u00e9 irrecorr\u00edvel."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.3558445502531636,
+                    -0.028092101226078314,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": true,
                 "text": "De acordo com a Lei n\u00ba 9.882/99, vige o principio da subsidiariedade quanto ao cabimento da ADPF."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.1508999557030068,
+                    0.009334574932457122,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "A decis\u00e3o proferida em ADPF produzir\u00e1 somente efeitos erga omnes e ex tunc."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.41509361831236874,
+                    0.005522024605723996,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "O prefeito de qualquer munic\u00edpio pode propor ADPF contra lei local perante o STF."
             }
         ],
-        "filename": "2014-13.txt"
+        "valid": true
     }
 ]

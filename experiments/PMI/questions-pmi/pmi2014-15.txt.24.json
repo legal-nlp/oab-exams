@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "filename": "2014-15.txt",
         "enum": "Violento torcedor estrangeiro, integrante de torcida organizada e arrolado como impedido de entrar em est\u00e1dios de futebol durante a Copa do Mundo, por figurar na lista da Interpol, ap\u00f3s ter ingressado irregularmente em territ\u00f3rio nacional e ser capturado dentro de um dos est\u00e1dios, tem a sua deporta\u00e7\u00e3o promovida, por n\u00e3o se retirar voluntariamente.\n\n Sobre o caso apresentado, assinale a afirmativa correta.",
-        "valid": true,
+        "filename": "2014-15.txt",
+        "number": "24",
         "options": [
             {
-                "text": "Nunca mais poder\u00e1 o torcedor estrangeiro deportado reingressar no territ\u00f3rio nacional.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.14296113005420819,
+                    0.06637753093728498,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Nunca mais poder\u00e1 o torcedor estrangeiro deportado reingressar no territ\u00f3rio nacional."
             },
             {
-                "text": "O torcedor estrangeiro deportado s\u00f3 poder\u00e1 reingressar no territ\u00f3rio nacional se ressarcir o Tesouro Nacional, com corre\u00e7\u00e3o monet\u00e1ria, das despesas com a sua deporta\u00e7\u00e3o e efetuar, se for o caso, o pagamento da multa devida \u00e0 \u00e9poca, tamb\u00e9m corrigida.",
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.06626582957587523,
+                    0.027936567870296688,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "O torcedor estrangeiro deportado s\u00f3 poder\u00e1 reingressar no territ\u00f3rio nacional se ressarcir o Tesouro Nacional, com corre\u00e7\u00e3o monet\u00e1ria, das despesas com a sua deporta\u00e7\u00e3o e efetuar, se for o caso, o pagamento da multa devida \u00e0 \u00e9poca, tamb\u00e9m corrigida."
             },
             {
-                "text": "O torcedor estrangeiro deportado s\u00f3 poder\u00e1 reingressar no territ\u00f3rio nacional ap\u00f3s o transcurso do lapso prescricional quinquenal para ressarcimento do Tesouro Nacional.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.07847905801325943,
+                    0.042293246404909716,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O torcedor estrangeiro deportado s\u00f3 poder\u00e1 reingressar no territ\u00f3rio nacional ap\u00f3s o transcurso do lapso prescricional quinquenal para ressarcimento do Tesouro Nacional."
             },
             {
-                "text": "O torcedor estrangeiro deportado poder\u00e1 retornar se comprovadamente n\u00e3o tiver condi\u00e7\u00f5es de arcar com o pagamento da quantia devida, sem preju\u00edzo de sua pr\u00f3pria subsist\u00eancia.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.03624663754363453,
+                    0.016088027704238762,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O torcedor estrangeiro deportado poder\u00e1 retornar se comprovadamente n\u00e3o tiver condi\u00e7\u00f5es de arcar com o pagamento da quantia devida, sem preju\u00edzo de sua pr\u00f3pria subsist\u00eancia."
             }
         ],
-        "number": "24"
+        "valid": true
     }
 ]

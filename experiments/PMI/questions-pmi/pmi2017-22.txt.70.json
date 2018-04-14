@@ -1,13 +1,17 @@
 [
     {
+        "areas": [
+            null
+        ],
         "enum": "Lino trabalha como diagramador na sociedade empres\u00e1ria XYZ Ltda., localizada em um grande centro urbano, e recebe do empregador, al\u00e9m do sal\u00e1rio, moradia e plano de assist\u00eancia odontol\u00f3gica, graciosamente.  Sobre o caso narrado, de acordo com a CLT, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
+        "number": "70",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.03664689693191891,
+                    0.06069558042912543,
                     0.0,
                     0.0,
                     0.0
@@ -18,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.033618771833077515,
+                    0.044255210055757936,
                     0.0,
                     0.0,
                     0.0
@@ -29,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.029317517545535125,
+                    0.04855646434330034,
                     0.0,
                     0.0,
                     0.0
@@ -40,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.05054972953662522,
+                    0.06069881601885399,
                     0.0,
                     0.0,
                     0.0
@@ -48,10 +52,6 @@
                 "text": "Somente o benef\u00edcio do plano de assist\u00eancia odontol\u00f3gica ser\u00e1 integrado ao sal\u00e1rio de Lino."
             }
         ],
-        "valid": true,
-        "number": "70",
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Florinda, assistindo a um canal de TV fechada, interessou-se por um produto para exerc\u00edcios f\u00edsicos. Acompanhando a exposi\u00e7\u00e3o de imagens, sentiu-se atra\u00edda pela forma de \u201cpagamento sem juros, podendo ser parcelado em at\u00e9 doze vezes\u201d. Ao telefonar para a loja virtual, foi informada de que o parcelamento sem juros limitava-se a duas presta\u00e7\u00f5es. Al\u00e9m disso, a liga\u00e7\u00e3o tarifada foi a \u00fanica forma de Florinda obter as informa\u00e7\u00f5es a respeito do valor do produto, j\u00e1 que o site da fornecedora limitava-se a indicar o que j\u00e1 estava no an\u00fancio de TV. Sentindo-se enganada por ter sido obrigada a telefonar pagando a tarifa, bem como por ter sido induzida a acreditar que o pagamento poderia ser parcelado em doze vezes sem juros, Florinda procurou um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a orienta\u00e7\u00e3o dada pelo advogado.",
+        "filename": "2016-20a.txt",
+        "number": "47",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "H\u00e1 publicidade enganosa somente em raz\u00e3o da obscuridade quanto ao parcelamento sem juros, n\u00e3o havendo abusividade quanto \u00e0 necessidade de liga\u00e7\u00e3o tarifada para obten\u00e7\u00e3o de informa\u00e7\u00e3o a respeito de valor e formas de pagamento.",
-                "letter": "A"
+                "text": "H\u00e1 publicidade enganosa somente em raz\u00e3o da obscuridade quanto ao parcelamento sem juros, n\u00e3o havendo abusividade quanto \u00e0 necessidade de liga\u00e7\u00e3o tarifada para obten\u00e7\u00e3o de informa\u00e7\u00e3o a respeito de valor e formas de pagamento."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "N\u00e3o h\u00e1 publicidade enganosa na situa\u00e7\u00e3o narrada, na medida em que essa deve se dar por conduta ativa do fornecedor, n\u00e3o havendo previs\u00e3o para a modalidade omissiva.",
-                "letter": "B"
+                "text": "N\u00e3o h\u00e1 publicidade enganosa na situa\u00e7\u00e3o narrada, na medida em que essa deve se dar por conduta ativa do fornecedor, n\u00e3o havendo previs\u00e3o para a modalidade omissiva."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.005506261047689439,
+                    0.018264795694934326,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Inexiste publicidade enganosa, na medida em que as informa\u00e7\u00f5es sobre o produto foram claras. Quanto ao pre\u00e7o e \u00e0 forma de pagamento, essas somente devem ser passadas \u00e0queles que se interessam pelo produto.",
-                "letter": "C"
+                "text": "Inexiste publicidade enganosa, na medida em que as informa\u00e7\u00f5es sobre o produto foram claras. Quanto ao pre\u00e7o e \u00e0 forma de pagamento, essas somente devem ser passadas \u00e0queles que se interessam pelo produto."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.003767441769471722,
+                    0.01249696547548138,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "H\u00e1 publicidade enganosa por omiss\u00e3o quanto ao pre\u00e7o e \u00e0 forma de pagamento, que n\u00e3o foram fornecidos de forma clara para o consumidor, bem como caracterizou-se abuso a imposi\u00e7\u00e3o do \u00f4nus da liga\u00e7\u00e3o tarifada \u00e0 consumidora que buscava obter tais informa\u00e7\u00f5es.",
-                "letter": "D"
+                "text": "H\u00e1 publicidade enganosa por omiss\u00e3o quanto ao pre\u00e7o e \u00e0 forma de pagamento, que n\u00e3o foram fornecidos de forma clara para o consumidor, bem como caracterizou-se abuso a imposi\u00e7\u00e3o do \u00f4nus da liga\u00e7\u00e3o tarifada \u00e0 consumidora que buscava obter tais informa\u00e7\u00f5es."
             }
         ],
-        "enum": "Florinda, assistindo a um canal de TV fechada, interessou-se por um produto para exerc\u00edcios f\u00edsicos. Acompanhando a exposi\u00e7\u00e3o de imagens, sentiu-se atra\u00edda pela forma de \u201cpagamento sem juros, podendo ser parcelado em at\u00e9 doze vezes\u201d. Ao telefonar para a loja virtual, foi informada de que o parcelamento sem juros limitava-se a duas presta\u00e7\u00f5es. Al\u00e9m disso, a liga\u00e7\u00e3o tarifada foi a \u00fanica forma de Florinda obter as informa\u00e7\u00f5es a respeito do valor do produto, j\u00e1 que o site da fornecedora limitava-se a indicar o que j\u00e1 estava no an\u00fancio de TV. Sentindo-se enganada por ter sido obrigada a telefonar pagando a tarifa, bem como por ter sido induzida a acreditar que o pagamento poderia ser parcelado em doze vezes sem juros, Florinda procurou um advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a orienta\u00e7\u00e3o dada pelo advogado.",
-        "filename": "2016-20a.txt",
-        "areas": [],
-        "valid": true,
-        "number": "47"
+        "valid": true
     }
 ]

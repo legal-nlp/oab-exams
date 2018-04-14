@@ -3,55 +3,55 @@
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "number": "17",
-        "valid": true,
         "enum": "O Presidente da Rep\u00fablica possui uma s\u00e9rie de compet\u00eancias privativas, que lhe s\u00e3o atribu\u00eddas diretamente pela Constitui\u00e7\u00e3o. Admite-se que algumas delas possam ser delegadas ao Ministro de Estado da pasta relacionada ao tema. Dentre as compet\u00eancias deleg\u00e1veis, inclui-se",
         "filename": "2014-13.txt",
+        "number": "17",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1926538364292906,
+                    0.02366277992858569,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "editar medidas provis\u00f3rias com for\u00e7a de lei, nos termos do artigo 62 da Constitui\u00e7\u00e3o."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.18117099341487125,
+                    0.0892247770324741,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "nomear, observado o disposto no artigo 73, os Ministros do Tribunal de Contas da Uni\u00e3o."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.22258159891722246,
+                    0.02077459448538833,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "prover e extinguir os cargos p\u00fablicos federais, na forma da lei."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.1597077588928397,
+                    0.03497719582924895,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "iniciar o processo legislativo, na forma e nos casos previstos na Constitui\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

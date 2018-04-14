@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "enum": "Um empregado recebeu o contracheque de determinado m\u00eas com descontos, a t\u00edtulo de contribui\u00e7\u00e3o confederativa e de contribui\u00e7\u00e3o sindical. Por n\u00e3o ser sindicalizado, reclama junto ao empregador contra ambas as subtra\u00e7\u00f5es e este encaminha o caso ao setor jur\u00eddico para an\u00e1lise. Diante da situa\u00e7\u00e3o retratada, de acordo com a CLT e o entendimento consolidado do TST e do STF, assinale a afirmativa correta.",
-        "number": "70",
         "areas": [
             null
         ],
+        "enum": "Um empregado recebeu o contracheque de determinado m\u00eas com descontos, a t\u00edtulo de contribui\u00e7\u00e3o confederativa e de contribui\u00e7\u00e3o sindical. Por n\u00e3o ser sindicalizado, reclama junto ao empregador contra ambas as subtra\u00e7\u00f5es e este encaminha o caso ao setor jur\u00eddico para an\u00e1lise. Diante da situa\u00e7\u00e3o retratada, de acordo com a CLT e o entendimento consolidado do TST e do STF, assinale a afirmativa correta.",
+        "filename": "2017-23.txt",
+        "number": "70",
         "options": [
             {
-                "text": "O desconto de contribui\u00e7\u00e3o sindical n\u00e3o \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa est\u00e1 correto, posto que obrigat\u00f3rio.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O desconto de contribui\u00e7\u00e3o sindical n\u00e3o \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa est\u00e1 correto, posto que obrigat\u00f3rio."
             },
             {
-                "text": "Os descontos s\u00e3o inv\u00e1lidos, porque o empregado n\u00e3o \u00e9 sindicalizado e, portanto, n\u00e3o pode ser obrigado a contribuir.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.04142527219044342,
+                    0.021376326107004535,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Os descontos s\u00e3o inv\u00e1lidos, porque o empregado n\u00e3o \u00e9 sindicalizado e, portanto, n\u00e3o pode ser obrigado a contribuir."
             },
             {
-                "text": "O desconto de contribui\u00e7\u00e3o sindical \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa, n\u00e3o, porque o empregado n\u00e3o \u00e9 sindicalizado.",
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.025890795119027137,
+                    0.013360203816877836,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O desconto de contribui\u00e7\u00e3o sindical \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa, n\u00e3o, porque o empregado n\u00e3o \u00e9 sindicalizado."
             },
             {
-                "text": "As subtra\u00e7\u00f5es s\u00e3o v\u00e1lidas, porque o empregado, mesmo n\u00e3o sendo sindicalizado, beneficia-se da conven\u00e7\u00e3o coletiva.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.029589480136031014,
+                    0.015268804362146097,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As subtra\u00e7\u00f5es s\u00e3o v\u00e1lidas, porque o empregado, mesmo n\u00e3o sendo sindicalizado, beneficia-se da conven\u00e7\u00e3o coletiva."
             }
         ],
-        "filename": "2017-23.txt"
+        "valid": true
     }
 ]

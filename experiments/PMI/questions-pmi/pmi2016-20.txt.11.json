@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "options": [
-            {
-                "letter": "A",
-                "correct": null,
-                "text": "Justi\u00e7a Natural.",
-                "pmi": [
-                    -0.14505971222344016,
-                    0.0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": null,
-                "text": "Justi\u00e7a Comutativa.",
-                "pmi": [
-                    -0.14505971222344016,
-                    0.0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "Justi\u00e7a Corretiva.",
-                "pmi": [
-                    -0.14505971222344016,
-                    0.0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": true,
-                "text": "Justi\u00e7a Distributiva.",
-                "pmi": [
-                    -0.14505971222344016,
-                    0.0,
-                    0,
-                    0
-                ]
-            }
-        ],
         "enum": "A partir da leitura de Arist\u00f3teles (\u00c9tica a Nic\u00f4maco), assinale a alternativa que corresponde \u00e0 classifica\u00e7\u00e3o de justi\u00e7a constante do texto:\n\n \u201c... uma esp\u00e9cie \u00e9 a que se manifesta nas distribui\u00e7\u00f5es de honras, de dinheiro ou das outras coisas que s\u00e3o divididas entre aqueles que t\u00eam parte na constitui\u00e7\u00e3o (pois a\u00ed \u00e9 poss\u00edvel receber um quinh\u00e3o igual ou desigual ao de um outro)...\u201d",
         "filename": "2016-20.txt",
-        "valid": true,
-        "number": "11"
+        "number": "11",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0665543689962214,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Justi\u00e7a Natural."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0665543689962214,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Justi\u00e7a Comutativa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0665543689962214,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Justi\u00e7a Corretiva."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.0665543689962214,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Justi\u00e7a Distributiva."
+            }
+        ],
+        "valid": true
     }
 ]

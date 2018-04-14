@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "text": "a nomea\u00e7\u00e3o de m\u00e9dico pelo juiz para que emita laudo que comprove o estado de gravidez da requerente, assim previsto na lei processual civil, n\u00e3o poder\u00e1 ser dispensado em qualquer hip\u00f3tese.",
-                "pmi": [
-                    -0.193611069659447,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "text": "por se tratar de mera expectativa de nascimento com vida, portanto, n\u00e3o tendo o nascituro personalidade civil, fica dispensada a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico na causa.",
-                "pmi": [
-                    -0.26050519963787705,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "C",
-                "text": "reconhecida a gravidez, a senten\u00e7a declarar\u00e1 que seja a requerente investida na posse dos direitos que assistam ao nascituro; n\u00e3o cabendo \u00e0quela o exerc\u00edcio do p\u00e1trio poder, o juiz nomear\u00e1 curador.",
-                "pmi": [
-                    -0.23593537997381592,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            },
-            {
-                "letter": "D",
-                "text": "s\u00e3o documentos indispens\u00e1veis \u00e0 a\u00e7\u00e3o o laudo comprobat\u00f3rio do estado gestacional emitido pelo m\u00e9dico nomeado pelo juiz e a certid\u00e3o de \u00f3bito da pessoa de quem o nascituro \u00e9 sucessor.",
-                "pmi": [
-                    -0.2144375121396563,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            }
-        ],
-        "filename": "2012-06.txt",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "A Lei Civil afirma que, a despeito de a personalidade civil da pessoa come\u00e7ar com o nascimento com vida, ao nascituro ser\u00e3o assegurados os seus direitos desde a concep\u00e7\u00e3o. Para tanto, \u00e9 correto afirmar que, na a\u00e7\u00e3o de posse em nome de nascituro,",
-        "valid": true,
-        "number": "41"
+        "filename": "2012-06.txt",
+        "number": "41",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.010636488153724595,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a nomea\u00e7\u00e3o de m\u00e9dico pelo juiz para que emita laudo que comprove o estado de gravidez da requerente, assim previsto na lei processual civil, n\u00e3o poder\u00e1 ser dispensado em qualquer hip\u00f3tese."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.02141841313706645,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "por se tratar de mera expectativa de nascimento com vida, portanto, n\u00e3o tendo o nascituro personalidade civil, fica dispensada a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico na causa."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.03529752908172555,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "reconhecida a gravidez, a senten\u00e7a declarar\u00e1 que seja a requerente investida na posse dos direitos que assistam ao nascituro; n\u00e3o cabendo \u00e0quela o exerc\u00edcio do p\u00e1trio poder, o juiz nomear\u00e1 curador."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.009505980853247208,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00e3o documentos indispens\u00e1veis \u00e0 a\u00e7\u00e3o o laudo comprobat\u00f3rio do estado gestacional emitido pelo m\u00e9dico nomeado pelo juiz e a certid\u00e3o de \u00f3bito da pessoa de quem o nascituro \u00e9 sucessor."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
+        "enum": "O Estado ABCD, com vistas \u00e0 interioriza\u00e7\u00e3o e ao incremento das atividades econ\u00f4micas, constituiu empresa p\u00fablica para implantar distritos industriais, elaborar planos de ocupa\u00e7\u00e3o e auxiliar empresas interessadas na aquisi\u00e7\u00e3o dessas \u00e1reas. Considerando que esse objeto significa a explora\u00e7\u00e3o de atividade econ\u00f4mica pelo Estado, assinale a afirmativa correta.",
         "filename": "2013-12.txt",
         "number": "34",
         "options": [
             {
                 "correct": null,
-                "text": "N\u00e3o \u00e9 poss\u00edvel a explora\u00e7\u00e3o de atividade econ\u00f4mica por pessoa jur\u00eddica integrante da Administra\u00e7\u00e3o direta ou indireta.",
+                "letter": "A",
                 "pmi": [
-                    -0.17979709699171345,
+                    0.15586661804637045,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "N\u00e3o \u00e9 poss\u00edvel a explora\u00e7\u00e3o de atividade econ\u00f4mica por pessoa jur\u00eddica integrante da Administra\u00e7\u00e3o direta ou indireta."
             },
             {
                 "correct": null,
-                "text": "As pessoas jur\u00eddicas integrantes da Administra\u00e7\u00e3o indireta n\u00e3o podem explorar atividade econ\u00f4mica.",
+                "letter": "B",
                 "pmi": [
-                    -0.14774284941934657,
+                    0.1399689063275825,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "As pessoas jur\u00eddicas integrantes da Administra\u00e7\u00e3o indireta n\u00e3o podem explorar atividade econ\u00f4mica."
             },
             {
                 "correct": null,
-                "text": "Dentre as figuras da Administra\u00e7\u00e3o P\u00fablica indireta, apenas a autarquia pode desempenhar atividade econ\u00f4mica, na qualidade de ag\u00eancia reguladora.",
+                "letter": "C",
                 "pmi": [
-                    -0.13276588524042743,
+                    0.11898190103813547,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Dentre as figuras da Administra\u00e7\u00e3o P\u00fablica indireta, apenas a autarquia pode desempenhar atividade econ\u00f4mica, na qualidade de ag\u00eancia reguladora."
             },
             {
                 "correct": true,
-                "text": "A constitui\u00e7\u00e3o de empresa p\u00fablica para exercer atividade econ\u00f4mica \u00e9 permitida quando necess\u00e1ria ao atendimento de relevante interesse coletivo.",
+                "letter": "D",
                 "pmi": [
-                    -0.14778323097657678,
-                    0.007433463042840861,
+                    0.15990850780833346,
+                    0.03903816348473837,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "A constitui\u00e7\u00e3o de empresa p\u00fablica para exercer atividade econ\u00f4mica \u00e9 permitida quando necess\u00e1ria ao atendimento de relevante interesse coletivo."
             }
         ],
-        "valid": true,
-        "areas": [
-            "ADMINISTRATIVE"
-        ],
-        "enum": "O Estado ABCD, com vistas \u00e0 interioriza\u00e7\u00e3o e ao incremento das atividades econ\u00f4micas, constituiu empresa p\u00fablica para implantar distritos industriais, elaborar planos de ocupa\u00e7\u00e3o e auxiliar empresas interessadas na aquisi\u00e7\u00e3o dessas \u00e1reas. Considerando que esse objeto significa a explora\u00e7\u00e3o de atividade econ\u00f4mica pelo Estado, assinale a afirmativa correta."
+        "valid": true
     }
 ]

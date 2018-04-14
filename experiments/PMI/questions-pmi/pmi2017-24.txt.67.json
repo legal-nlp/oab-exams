@@ -1,15 +1,17 @@
 [
     {
-        "enum": "Tiago, funcion\u00e1rio p\u00fablico, foi v\u00edtima de crime de difama\u00e7\u00e3o em raz\u00e3o de suas fun\u00e7\u00f5es. Ap\u00f3s Tiago narrar os fatos em sede policial e demonstrar interesse em ver o autor do fato responsabilizado, \u00e9 instaurado inqu\u00e9rito policial para investigar a not\u00edcia de crime.\n\n Quando da elabora\u00e7\u00e3o do relat\u00f3rio conclusivo, a autoridade policial conclui pela pr\u00e1tica delitiva da difama\u00e7\u00e3o, majorada por ser contra funcion\u00e1rio p\u00fablico em raz\u00e3o de suas fun\u00e7\u00f5es, bem como identifica Jo\u00e3o como autor do delito. Tiago, ent\u00e3o, procura seu advogado e informa a este as conclus\u00f5es 1 (um) m\u00eas ap\u00f3s os fatos.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, o advogado de Tiago, de acordo com a jurisprud\u00eancia do Supremo Tribunal Federal, dever\u00e1 esclarecer que",
         "areas": [
             null
         ],
+        "enum": "Tiago, funcion\u00e1rio p\u00fablico, foi v\u00edtima de crime de difama\u00e7\u00e3o em raz\u00e3o de suas fun\u00e7\u00f5es. Ap\u00f3s Tiago narrar os fatos em sede policial e demonstrar interesse em ver o autor do fato responsabilizado, \u00e9 instaurado inqu\u00e9rito policial para investigar a not\u00edcia de crime.\n\n Quando da elabora\u00e7\u00e3o do relat\u00f3rio conclusivo, a autoridade policial conclui pela pr\u00e1tica delitiva da difama\u00e7\u00e3o, majorada por ser contra funcion\u00e1rio p\u00fablico em raz\u00e3o de suas fun\u00e7\u00f5es, bem como identifica Jo\u00e3o como autor do delito. Tiago, ent\u00e3o, procura seu advogado e informa a este as conclus\u00f5es 1 (um) m\u00eas ap\u00f3s os fatos.\n\n Considerando apenas as informa\u00e7\u00f5es narradas, o advogado de Tiago, de acordo com a jurisprud\u00eancia do Supremo Tribunal Federal, dever\u00e1 esclarecer que",
+        "filename": "2017-24.txt",
+        "number": "67",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.0803862973336999,
+                    0.023909214124561897,
                     0.0,
                     0.0,
                     0.0
@@ -20,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.08627906027448201,
+                    0.025259195035047956,
                     0.0,
                     0.0,
                     0.0
@@ -31,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.07502721084478657,
+                    0.02231526651625777,
                     0.0,
                     0.0,
                     0.0
@@ -42,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.08724801500156286,
+                    0.03443008169974255,
                     0.0,
                     0.0,
                     0.0
@@ -50,8 +52,6 @@
                 "text": "caber\u00e1 ao Minist\u00e9rio P\u00fablico oferecer den\u00fancia, independentemente de representa\u00e7\u00e3o do ofendido."
             }
         ],
-        "filename": "2017-24.txt",
-        "number": "67",
         "valid": true
     }
 ]

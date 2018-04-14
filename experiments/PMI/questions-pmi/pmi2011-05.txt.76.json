@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A respeito das nulidades no processo do trabalho, \u00e9 correto afirmar que",
         "areas": [
             "LABOUR-PROCEDURE"
         ],
-        "number": "76",
-        "valid": true,
+        "enum": "A respeito das nulidades no processo do trabalho, \u00e9 correto afirmar que",
         "filename": "2011-05.txt",
+        "number": "76",
         "options": [
             {
-                "text": "declarada a nulidade, por qualquer fundamento, todos os atos processuais posteriores ser\u00e3o nulos.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "declarada a nulidade, por qualquer fundamento, todos os atos processuais posteriores ser\u00e3o nulos."
             },
             {
-                "text": "as partes poder\u00e3o alegar nulidade enquanto estiver aberta a instru\u00e7\u00e3o, mesmo que j\u00e1 tenham tido oportunidade de manifesta\u00e7\u00e3o nos autos.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "as partes poder\u00e3o alegar nulidade enquanto estiver aberta a instru\u00e7\u00e3o, mesmo que j\u00e1 tenham tido oportunidade de manifesta\u00e7\u00e3o nos autos."
             },
             {
-                "text": "\u00e9 desnecess\u00e1ria a provoca\u00e7\u00e3o da parte para a declara\u00e7\u00e3o de nulidade.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "\u00e9 desnecess\u00e1ria a provoca\u00e7\u00e3o da parte para a declara\u00e7\u00e3o de nulidade."
             },
             {
-                "text": "s\u00f3 ser\u00e3o considerados nulos os atos que alegadamente causarem manifesto preju\u00edzo \u00e0s partes litigantes.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "s\u00f3 ser\u00e3o considerados nulos os atos que alegadamente causarem manifesto preju\u00edzo \u00e0s partes litigantes."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

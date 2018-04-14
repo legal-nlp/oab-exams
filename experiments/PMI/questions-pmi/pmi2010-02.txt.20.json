@@ -1,13 +1,17 @@
 [
     {
+        "areas": [
+            "ADMINISTRATIVE"
+        ],
         "enum": "Uma determinada empresa concession\u00e1ria transfere o seu controle acion\u00e1rio para uma outra empresa privada, sem notificar, previamente, o Poder concedente, parte no contrato de concess\u00e3o.\n\n Assinale a alternativa que indique a medida que o Poder concedente poder\u00e1 tomar, se n\u00e3o restarem atendidas as mesmas exig\u00eancias t\u00e9cnicas, de idoneidade financeira e regularidade jur\u00eddica por esta nova empresa.",
+        "filename": "2010-02.txt",
         "number": "20",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.013978701208112966,
+                    0.017625999233784544,
                     0.0,
                     0.0,
                     0.0
@@ -15,10 +19,10 @@
                 "text": "Poder\u00e1 o Poder concedente declarar a caducidade da concess\u00e3o, tendo em vista o car\u00e1ter intuitu personae do contrato de concess\u00e3o."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.07473490619338488,
+                    0.07011997083197871,
                     0.0,
                     0.0,
                     0.0
@@ -26,10 +30,10 @@
                 "text": "Poder\u00e1 retomar o servi\u00e7o, por motivo de interesse p\u00fablico, atrav\u00e9s da encampa\u00e7\u00e3o, autorizada por lei espec\u00edfica, ap\u00f3s pr\u00e9vio pagamento da indeniza\u00e7\u00e3o."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.023705812116891913,
+                    0.058094589026842815,
                     0.0,
                     0.0,
                     0.0
@@ -37,10 +41,10 @@
                 "text": "Poder\u00e1 o Poder concedente anular o contrato de concess\u00e3o, atrav\u00e9s de decis\u00e3o administrativa,, uma vez que a transfer\u00eancia acion\u00e1ria da empresa concession\u00e1ria sem a notifica\u00e7\u00e3o pr\u00e9via ao Poder concedente gera irregularidade, insuscept\u00edvel de convalida\u00e7\u00e3o."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.04639704327303376,
+                    0.09845783375232983,
                     0.0,
                     0.0,
                     0.0
@@ -48,10 +52,6 @@
                 "text": "Nada poder\u00e1 fazer o Poder concedente, uma vez que a empresa concession\u00e1ria, apesar da altera\u00e7\u00e3o societ\u00e1ria, n\u00e3o desnatura o car\u00e1ter intuitu personae do contrato de concess\u00e3o."
             }
         ],
-        "valid": true,
-        "areas": [
-            "ADMINISTRATIVE"
-        ],
-        "filename": "2010-02.txt"
+        "valid": true
     }
 ]

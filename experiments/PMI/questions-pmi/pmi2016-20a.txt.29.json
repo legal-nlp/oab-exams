@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "filename": "2016-20a.txt",
         "enum": "F\u00e1tima exerce o cargo p\u00fablico de servidora da c\u00e2mara de vereadores do Munic\u00edpio Z. Como servidora municipal, sua remunera\u00e7\u00e3o tem um limite remunerat\u00f3rio.\n\n Sobre o caso apresentado, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "29",
         "options": [
             {
+                "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.22357543404475627,
+                    0.09663008359025795,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao teto remunerat\u00f3rio correspondente ao subs\u00eddio do Prefeito."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.22169185387925203,
+                    0.09851366375576216,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao limite remunerat\u00f3rio correspondente ao subs\u00eddio dos vereadores."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.28372590487845506,
+                    0.10052071628356202,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O cargo de F\u00e1tima n\u00e3o est\u00e1 sujeito ao limite remunerat\u00f3rio, uma vez que pode ser cumulado com o cargo de professor."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.24254090685998664,
+                    0.013623507248024759,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Enquanto n\u00e3o for editada lei complementar espec\u00edfica, n\u00e3o pode ser aplicado o limite remunerat\u00f3rio aos vencimentos do cargo de F\u00e1tima."
             }
         ],
-        "valid": true,
-        "number": "29"
+        "valid": true
     }
 ]

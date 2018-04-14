@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    -0.02390772039676374,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "se aplica o duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio a toda decis\u00e3o proferida contra Fazenda P\u00fablica.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "\u00e9 pressuposto de admissibilidade do reexame necess\u00e1rio a interposi\u00e7\u00e3o de apela\u00e7\u00e3o pela Fazenda.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.014344632238058245,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "se aplica o duplo grau obrigat\u00f3rio \u00e0 senten\u00e7a que julga procedente, no todo ou em parte, embargos \u00e0 execu\u00e7\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica, independentemente do valor do d\u00e9bito.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.13357751945164553,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "n\u00e3o se aplica o duplo grau obrigat\u00f3rio se a senten\u00e7a estiver fundada em jurisprud\u00eancia do plen\u00e1rio do Supremo Tribunal Federal.",
-                "letter": "D"
-            }
-        ],
-        "enum": "O duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio, tamb\u00e9m conhecido como reexame necess\u00e1rio ou recurso de of\u00edcio, \u00e9 instituto contemplado no art. 475 do CPC e visa a proteger a Fazenda P\u00fablica, constituindo uma de suas principais prerrogativas.\n\n Com rela\u00e7\u00e3o a esse instituto, \u00e9 correto afirmar que",
-        "number": "40",
-        "filename": "2012-07.txt",
-        "valid": true,
         "areas": [
             "CIVIL-PROCEDURE"
-        ]
+        ],
+        "enum": "O duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio, tamb\u00e9m conhecido como reexame necess\u00e1rio ou recurso de of\u00edcio, \u00e9 instituto contemplado no art. 475 do CPC e visa a proteger a Fazenda P\u00fablica, constituindo uma de suas principais prerrogativas.\n\n Com rela\u00e7\u00e3o a esse instituto, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "40",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.02311763098538328,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "se aplica o duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio a toda decis\u00e3o proferida contra Fazenda P\u00fablica."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 pressuposto de admissibilidade do reexame necess\u00e1rio a interposi\u00e7\u00e3o de apela\u00e7\u00e3o pela Fazenda."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.013870578591229967,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "se aplica o duplo grau obrigat\u00f3rio \u00e0 senten\u00e7a que julga procedente, no todo ou em parte, embargos \u00e0 execu\u00e7\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica, independentemente do valor do d\u00e9bito."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.058798918020774096,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o se aplica o duplo grau obrigat\u00f3rio se a senten\u00e7a estiver fundada em jurisprud\u00eancia do plen\u00e1rio do Supremo Tribunal Federal."
+            }
+        ],
+        "valid": true
     }
 ]

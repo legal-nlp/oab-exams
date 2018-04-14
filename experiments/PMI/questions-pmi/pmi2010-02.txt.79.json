@@ -1,57 +1,57 @@
 [
     {
-        "number": "79",
         "areas": [
             "TAXES"
         ],
-        "filename": "2010-02.txt",
         "enum": "Considere a seguinte situa\u00e7\u00e3o hipot\u00e9tica: lei federal fixou al\u00edquotas aplic\u00e1veis ao ITR e estabeleceu que a al\u00edquota relativa aos im\u00f3veis rurais situados no Rio de Janeiro seria de 5% e a relativa aos demais Estados do Sudeste de 7%.\n\n Tal enunciado normativo viola o princ\u00edpio constitucional",
-        "valid": true,
+        "filename": "2010-02.txt",
+        "number": "79",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
-                "text": "da uniformidade geogr\u00e1fica da tributa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "da uniformidade geogr\u00e1fica da tributa\u00e7\u00e3o."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "da legalidade tribut\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "da legalidade tribut\u00e1ria."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "da liberdade de tr\u00e1fego.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "da liberdade de tr\u00e1fego."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "da n\u00e3o diferencia\u00e7\u00e3o tribut\u00e1ria entre a proced\u00eancia e o destino do produto.",
                 "pmi": [
-                    -0.13526561933165798,
+                    0.07332540358486556,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "da n\u00e3o diferencia\u00e7\u00e3o tribut\u00e1ria entre a proced\u00eancia e o destino do produto."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

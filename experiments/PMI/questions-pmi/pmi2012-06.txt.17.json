@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-06.txt",
-        "number": "17",
-        "enum": "N\u00c3O pode ser objeto de a\u00e7\u00e3o direta de inconstitucionalidade",
-        "options": [
-            {
-                "letter": "A",
-                "text": "decreto que promulga tratado.",
-                "correct": null,
-                "pmi": [
-                    -0.9337384678543684,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "decreto legislativo que aprova tratado.",
-                "correct": null,
-                "pmi": [
-                    -1.4316121813176244,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "resolu\u00e7\u00e3o.",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "s\u00famula vinculante.",
-                "correct": true,
-                "pmi": [
-                    -1.1163673615344865,
-                    0.0,
-                    0,
-                    0
-                ]
-            }
-        ],
-        "valid": true,
         "areas": [
             "CONSTITUTIONAL"
-        ]
+        ],
+        "enum": "N\u00c3O pode ser objeto de a\u00e7\u00e3o direta de inconstitucionalidade",
+        "filename": "2012-06.txt",
+        "number": "17",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.6886361548297036,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "decreto que promulga tratado."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.3935592692019568,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "decreto legislativo que aprova tratado."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "resolu\u00e7\u00e3o."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.10041360547856769,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "s\u00famula vinculante."
+            }
+        ],
+        "valid": true
     }
 ]

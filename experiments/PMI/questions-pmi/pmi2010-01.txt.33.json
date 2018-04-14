@@ -1,12 +1,11 @@
 [
     {
-        "enum": "No que diz respeito \u00e0 extin\u00e7\u00e3o dos contratos, assinale a op\u00e7\u00e3o correta.",
-        "number": "33",
-        "filename": "2010-01.txt",
         "areas": [
             "CIVIL"
         ],
-        "valid": true,
+        "enum": "No que diz respeito \u00e0 extin\u00e7\u00e3o dos contratos, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "33",
         "options": [
             {
                 "correct": null,
@@ -52,6 +51,7 @@
                 ],
                 "text": "A efic\u00e1cia da resolu\u00e7\u00e3o unilateral de determinado contrato independe de pronunciamento judicial e produz efeitos ex nunc."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

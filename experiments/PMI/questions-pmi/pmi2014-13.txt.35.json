@@ -3,55 +3,55 @@
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "Nos termos da Lei n\u00ba 11.445/2007 (Lei de Diretrizes Nacionais para o Saneamento B\u00e1sico), assinale a afirmativa que indica o servi\u00e7o p\u00fablico que n\u00e3o pode ser considerado como saneamento b\u00e1sico.",
         "filename": "2014-13.txt",
+        "number": "35",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "Esgotamento sanit\u00e1rio.",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "text": "Manejo de \u00e1guas pluviais urbanas.",
-                "correct": null
-            },
-            {
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "C",
-                "text": "Limpeza urbana.",
-                "correct": null
+                "text": "Esgotamento sanit\u00e1rio."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.5353693331671975,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Manejo de \u00e1guas pluviais urbanas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Limpeza urbana."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "text": "Administra\u00e7\u00e3o de recursos h\u00eddricos.",
-                "correct": true
+                "pmi": [
+                    -0.023040504951174764,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Administra\u00e7\u00e3o de recursos h\u00eddricos."
             }
         ],
-        "valid": true,
-        "enum": "Nos termos da Lei n\u00ba 11.445/2007 (Lei de Diretrizes Nacionais para o Saneamento B\u00e1sico), assinale a afirmativa que indica o servi\u00e7o p\u00fablico que n\u00e3o pode ser considerado como saneamento b\u00e1sico.",
-        "number": "35"
+        "valid": true
     }
 ]

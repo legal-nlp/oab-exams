@@ -1,18 +1,17 @@
 [
     {
-        "filename": "2012-09.txt",
-        "enum": "Maria foi contratada pela empresa Bolos S.A. para exercer a fun\u00e7\u00e3o de copeira, cumprindo jornada de trabalho de segunda \u00e0 sexta-feira das 13:00 h \u00e0s 17:00 h, sem intervalo alimentar. Decorridos dois anos do in\u00edcio do pacto contratual, foi a empregada dispensada, recebendo as parcelas da ruptura.\n\n Contudo, inconformada porque jamais lhe foi permitido usufruir de intervalo para descanso e alimenta\u00e7\u00e3o, Maria aju\u00edza reclama\u00e7\u00e3o trabalhista postulando o pagamento do per\u00edodo correspondente ao intervalo alimentar n\u00e3o concedido.\n\n Diante da hip\u00f3tese relatada, assinale a afirmativa correta.",
-        "number": "71",
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
+        "enum": "Maria foi contratada pela empresa Bolos S.A. para exercer a fun\u00e7\u00e3o de copeira, cumprindo jornada de trabalho de segunda \u00e0 sexta-feira das 13:00 h \u00e0s 17:00 h, sem intervalo alimentar. Decorridos dois anos do in\u00edcio do pacto contratual, foi a empregada dispensada, recebendo as parcelas da ruptura.\n\n Contudo, inconformada porque jamais lhe foi permitido usufruir de intervalo para descanso e alimenta\u00e7\u00e3o, Maria aju\u00edza reclama\u00e7\u00e3o trabalhista postulando o pagamento do per\u00edodo correspondente ao intervalo alimentar n\u00e3o concedido.\n\n Diante da hip\u00f3tese relatada, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
+        "number": "71",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.27365183838076307,
+                    -0.014617234758936462,
                     0.0,
                     0.0,
                     0.0
@@ -23,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.25356217404793824,
+                    -0.006557041182543224,
                     0.0,
                     0.0,
                     0.0
@@ -34,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.1836851445599515,
+                    -0.007499665173445892,
                     0.0,
                     0.0,
                     0.0
@@ -45,13 +44,14 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.2452232346402299,
+                    -0.02254436486006312,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "A ex-empregada faz jus ao pagamento de indeniza\u00e7\u00e3o correspondente ao valor de uma hora extraordin\u00e1ria di\u00e1ria, haja vista a supress\u00e3o do intervalo intrajornada."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

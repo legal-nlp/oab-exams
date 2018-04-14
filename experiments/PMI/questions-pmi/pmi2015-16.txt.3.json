@@ -1,10 +1,12 @@
 [
     {
         "areas": [],
-        "filename": "2015-16.txt",
         "enum": "Compete ao Conselho Seccional ajuizar, ap\u00f3s delibera\u00e7\u00e3o,",
+        "filename": "2015-16.txt",
+        "number": "3",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -12,10 +14,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "a\u00e7\u00e3o direta de inconstitucionalidade em face de leis ou atos normativos federais.",
-                "correct": null
+                "text": "a\u00e7\u00e3o direta de inconstitucionalidade em face de leis ou atos normativos federais."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -23,10 +25,10 @@
                     0.0,
                     0.0
                 ],
-                "text": "queixa-crime contra quem tenha ofendido os advogados inscritos na respectiva Seccional.",
-                "correct": null
+                "text": "queixa-crime contra quem tenha ofendido os advogados inscritos na respectiva Seccional."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -34,22 +36,20 @@
                     0.0,
                     0.0
                 ],
-                "text": "mandado de seguran\u00e7a individual em favor dos advogados inscritos na respectiva Seccional, independentemente de vincula\u00e7\u00e3o com o exerc\u00edcio da profiss\u00e3o.",
-                "correct": null
+                "text": "mandado de seguran\u00e7a individual em favor dos advogados inscritos na respectiva Seccional, independentemente de vincula\u00e7\u00e3o com o exerc\u00edcio da profiss\u00e3o."
             },
             {
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.18475143586608136,
+                    0.085644334581264,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "mandado de seguran\u00e7a coletivo, em defesa de seus inscritos, independentemente de autoriza\u00e7\u00e3o pessoal dos interessados.",
-                "correct": true
+                "text": "mandado de seguran\u00e7a coletivo, em defesa de seus inscritos, independentemente de autoriza\u00e7\u00e3o pessoal dos interessados."
             }
         ],
-        "number": "3",
         "valid": true
     }
 ]

@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "filename": "2017-23.txt",
-        "valid": true,
         "enum": "Caio, M\u00e1rio e Jo\u00e3o s\u00e3o denunciados pela pr\u00e1tica de um mesmo crime de estupro (Art. 213 do CP). Caio possu\u00eda uma condena\u00e7\u00e3o anterior definitiva pela pr\u00e1tica de crime de deser\u00e7\u00e3o, delito militar pr\u00f3prio, ao cumprimento de pena privativa de liberdade. J\u00e1 M\u00e1rio possu\u00eda uma condena\u00e7\u00e3o anterior, com tr\u00e2nsito em julgado, pela pr\u00e1tica de crime comum, com aplica\u00e7\u00e3o exclusiva de pena de multa.  Por fim, Jo\u00e3o possu\u00eda condena\u00e7\u00e3o definitiva pela pr\u00e1tica de contraven\u00e7\u00e3o penal \u00e0 pena privativa de liberdade. No momento da senten\u00e7a, o juiz reconhece agravante da reincid\u00eancia em rela\u00e7\u00e3o aos tr\u00eas denunciados. Considerando apenas as informa\u00e7\u00f5es narradas, de acordo com o C\u00f3digo Penal, o advogado dos r\u00e9us",
+        "filename": "2017-23.txt",
+        "number": "61",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "n\u00e3o poder\u00e1 buscar o afastamento da agravante, j\u00e1 que todos s\u00e3o reincidentes."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a M\u00e1rio, j\u00e1 que somente Caio e Jo\u00e3o s\u00e3o reincidentes."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Jo\u00e3o, j\u00e1 que somente Caio e M\u00e1rio s\u00e3o reincidentes."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Caio e Jo\u00e3o, j\u00e1 que somente M\u00e1rio \u00e9 reincidente."
             }
         ],
-        "number": "61"
+        "valid": true
     }
 ]

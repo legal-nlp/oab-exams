@@ -1,12 +1,13 @@
 [
     {
-        "filename": "2016-20a.txt",
-        "enum": "Ab\u00edlio, advogado competente, recebe duas cita\u00e7\u00f5es de processos de seus clientes. Ao analisar as peti\u00e7\u00f5es iniciais, bem como a distribui\u00e7\u00e3o dos processos, percebe que o processo A, que deveria ter sido ajuizado na Comarca de Mar\u00e9 de Cima, o foi na Comarca de Cip\u00f3 do Mato, e que o processo B, que deveria correr em uma Vara de Fam\u00edlia, foi distribu\u00eddo para uma Vara C\u00edvel. Ab\u00edlio promete aos seus clientes que ir\u00e1 solucionar esses problemas.\n\n De acordo com o regramento do CPC/15, assinale a op\u00e7\u00e3o que indica o procedimento que ele dever\u00e1 adotar.",
         "areas": [],
+        "enum": "Ab\u00edlio, advogado competente, recebe duas cita\u00e7\u00f5es de processos de seus clientes. Ao analisar as peti\u00e7\u00f5es iniciais, bem como a distribui\u00e7\u00e3o dos processos, percebe que o processo A, que deveria ter sido ajuizado na Comarca de Mar\u00e9 de Cima, o foi na Comarca de Cip\u00f3 do Mato, e que o processo B, que deveria correr em uma Vara de Fam\u00edlia, foi distribu\u00eddo para uma Vara C\u00edvel. Ab\u00edlio promete aos seus clientes que ir\u00e1 solucionar esses problemas.\n\n De acordo com o regramento do CPC/15, assinale a op\u00e7\u00e3o que indica o procedimento que ele dever\u00e1 adotar.",
+        "filename": "2016-20a.txt",
+        "number": "53",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
@@ -16,10 +17,10 @@
                 "text": "Acrescentar uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o, em ambos os casos."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.08064510943854404,
+                    0.03953078853805389,
                     0.0,
                     0.0,
                     0.0
@@ -27,10 +28,10 @@
                 "text": "Redigir, no processo A, uma exce\u00e7\u00e3o de incompet\u00eancia e, no processo B, uma preliminar de incompet\u00eancia da contesta\u00e7\u00e3o."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.08064510943854404,
+                    0.03953078853805389,
                     0.0,
                     0.0,
                     0.0
@@ -38,8 +39,8 @@
                 "text": "Acrescentar, ao processo A, uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o e, ao processo B, uma exce\u00e7\u00e3o de incompet\u00eancia."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
@@ -49,7 +50,6 @@
                 "text": "Redigir uma exce\u00e7\u00e3o de incompet\u00eancia, em ambos os casos."
             }
         ],
-        "number": "53",
         "valid": true
     }
 ]

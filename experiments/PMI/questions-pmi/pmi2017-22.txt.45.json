@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Jo\u00e3o, maior, e sua namorada Lara, com 14 anos de idade, s\u00e3o capturados pela pol\u00edcia logo ap\u00f3s praticarem crime de roubo, majorado pelo emprego de arma de fogo.  O Ju\u00edzo da Inf\u00e2ncia e da Juventude aplicou a medida socioeducativa de interna\u00e7\u00e3o para Lara, ressaltando que a adolescente j\u00e1 sofrera a medida de semiliberdade pela pr\u00e1tica de ato infracional an\u00e1logo ao crime de tr\u00e1fico de drogas.  O Ju\u00edzo Criminal condenou Jo\u00e3o pelo crime de roubo em concurso com corrup\u00e7\u00e3o de menores. Jo\u00e3o apela da condena\u00e7\u00e3o pelo crime de corrup\u00e7\u00e3o de menores, sob o argumento de Lara n\u00e3o ser mais uma crian\u00e7a, bem como alegando que ela j\u00e1 est\u00e1 corrompida.\n\n Com base no caso apresentado, assiste raz\u00e3o \u00e0 defesa de Jo\u00e3o?",
         "areas": [
             null
         ],
+        "enum": "Jo\u00e3o, maior, e sua namorada Lara, com 14 anos de idade, s\u00e3o capturados pela pol\u00edcia logo ap\u00f3s praticarem crime de roubo, majorado pelo emprego de arma de fogo.  O Ju\u00edzo da Inf\u00e2ncia e da Juventude aplicou a medida socioeducativa de interna\u00e7\u00e3o para Lara, ressaltando que a adolescente j\u00e1 sofrera a medida de semiliberdade pela pr\u00e1tica de ato infracional an\u00e1logo ao crime de tr\u00e1fico de drogas.  O Ju\u00edzo Criminal condenou Jo\u00e3o pelo crime de roubo em concurso com corrup\u00e7\u00e3o de menores. Jo\u00e3o apela da condena\u00e7\u00e3o pelo crime de corrup\u00e7\u00e3o de menores, sob o argumento de Lara n\u00e3o ser mais uma crian\u00e7a, bem como alegando que ela j\u00e1 est\u00e1 corrompida.\n\n Com base no caso apresentado, assiste raz\u00e3o \u00e0 defesa de Jo\u00e3o?",
+        "filename": "2017-22.txt",
         "number": "45",
         "options": [
             {
+                "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.03956726747692254,
+                    0.013625343102883098,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "text": "N\u00e3o, pois \u00e9 irrelevante o fato de Lara j\u00e1 ter sofrido medida socioeducativa.",
-                "letter": "A"
+                "text": "N\u00e3o, pois \u00e9 irrelevante o fato de Lara j\u00e1 ter sofrido medida socioeducativa."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "N\u00e3o, pois Lara ainda \u00e9 uma crian\u00e7a.",
-                "letter": "B"
+                "text": "N\u00e3o, pois Lara ainda \u00e9 uma crian\u00e7a."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.02323442016540384,
+                    0.008681146182479548,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Sim, j\u00e1 que o crime de corrup\u00e7\u00e3o de menores exige que o menor n\u00e3o esteja corrompido.",
-                "letter": "C"
+                "text": "Sim, j\u00e1 que o crime de corrup\u00e7\u00e3o de menores exige que o menor n\u00e3o esteja corrompido."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.0193620168045032,
+                    0.007234288485399623,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Sim, visto que no crime de corrup\u00e7\u00e3o de menores, a v\u00edtima tem que ser uma crian\u00e7a.",
-                "letter": "D"
+                "text": "Sim, visto que no crime de corrup\u00e7\u00e3o de menores, a v\u00edtima tem que ser uma crian\u00e7a."
             }
         ],
-        "filename": "2017-22.txt",
         "valid": true
     }
 ]

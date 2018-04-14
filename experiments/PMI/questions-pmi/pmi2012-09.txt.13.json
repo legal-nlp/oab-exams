@@ -1,12 +1,17 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "A respeito da a\u00e7\u00e3o de habeas corpus, assinale a afirmativa incorreta.",
         "filename": "2012-09.txt",
+        "number": "13",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.6735559865665922,
+                    0.02174742315515298,
                     0.0,
                     0.0,
                     0.0
@@ -14,10 +19,10 @@
                 "text": "Pode ser impetrado por estrangeiro residente no pa\u00eds."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.38036838160566905,
+                    0.21560596958439823,
                     0.0,
                     0.0,
                     0.0
@@ -25,10 +30,10 @@
                 "text": "\u00c9 cab\u00edvel contra puni\u00e7\u00e3o disciplinar militar imposta por autoridade incompetente."
             },
             {
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.27939770009790627,
+                    0.0682540047629663,
                     0.0,
                     0.0,
                     0.0
@@ -36,10 +41,10 @@
                 "text": "N\u00e3o \u00e9 meio h\u00e1bil para controle concreto de constitucionalidade."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.7461277863845429,
+                    -0.05082437666279777,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "A Constitui\u00e7\u00e3o assegura a gratuidade para seu ajuizamento."
             }
         ],
-        "enum": "A respeito da a\u00e7\u00e3o de habeas corpus, assinale a afirmativa incorreta.",
-        "valid": true,
-        "number": "13",
-        "areas": [
-            "CONSTITUTIONAL"
-        ]
+        "valid": true
     }
 ]

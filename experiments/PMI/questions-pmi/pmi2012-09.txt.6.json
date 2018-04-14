@@ -1,47 +1,47 @@
 [
     {
-        "valid": true,
-        "enum": "Marcio \u00e9 estagi\u00e1rio de Direito regularmente inscrito na Ordem dos Advogados do Brasil e atua sob supervis\u00e3o da advogada Helena. Atuando em determinado processo, a advogada substabelece ao estagi\u00e1rio os poderes que lhe foram conferidos pelo cliente.\n\n A respeito do caso apresentado, consoante as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-        "filename": "2012-09.txt",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Marcio \u00e9 estagi\u00e1rio de Direito regularmente inscrito na Ordem dos Advogados do Brasil e atua sob supervis\u00e3o da advogada Helena. Atuando em determinado processo, a advogada substabelece ao estagi\u00e1rio os poderes que lhe foram conferidos pelo cliente.\n\n A respeito do caso apresentado, consoante as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
         "number": "6",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.012944122193894734,
+                    0.03621874516016806,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O estagi\u00e1rio poder\u00e1 retirar os autos do cart\u00f3rio conjuntamente com a advogada.",
-                "correct": null
+                "text": "O estagi\u00e1rio poder\u00e1 retirar os autos do cart\u00f3rio conjuntamente com a advogada."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.035122203587812505,
+                    0.014040663766250287,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Os atos do estagi\u00e1rio ocorrem sob a supervis\u00e3o e responsabilidade da advogada.",
-                "correct": true
+                "text": "Os atos do estagi\u00e1rio ocorrem sob a supervis\u00e3o e responsabilidade da advogada."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.015714723414834656,
+                    0.017060521487873872,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "As peti\u00e7\u00f5es apresentadas no processo ter\u00e3o a subscri\u00e7\u00e3o conjunta da advogada inclusive de juntada de documentos.",
-                "correct": null
+                "text": "As peti\u00e7\u00f5es apresentadas no processo ter\u00e3o a subscri\u00e7\u00e3o conjunta da advogada inclusive de juntada de documentos."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -49,9 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "text": "O estagi\u00e1rio poder\u00e1 realizar audi\u00eancias judiciais autonomamente sem a presen\u00e7a da advogada.",
-                "correct": null
+                "text": "O estagi\u00e1rio poder\u00e1 realizar audi\u00eancias judiciais autonomamente sem a presen\u00e7a da advogada."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

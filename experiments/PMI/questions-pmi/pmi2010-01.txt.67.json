@@ -1,22 +1,24 @@
 [
     {
+        "areas": [
+            "TAXES"
+        ],
+        "enum": "Certo contribuinte foi notificado, em 31 de outubro de determinado ano, para pagamento de um tributo, sem que a lei ou a notifica\u00e7\u00e3o tenha determinado o vencimento daquela obriga\u00e7\u00e3o.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica, o vencimento ocorrer\u00e1",
         "filename": "2010-01.txt",
         "number": "67",
-        "enum": "Certo contribuinte foi notificado, em 31 de outubro de determinado ano, para pagamento de um tributo, sem que a lei ou a notifica\u00e7\u00e3o tenha determinado o vencimento daquela obriga\u00e7\u00e3o.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica, o vencimento ocorrer\u00e1",
         "options": [
             {
-                "text": "em 30 de novembro do mesmo ano, independentemente do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o.",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.02494351046160853,
+                    0.04663184053915935,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em 30 de novembro do mesmo ano, independentemente do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o."
             },
             {
-                "text": "na data do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o, por aplica\u00e7\u00e3o da analogia.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
@@ -24,33 +26,31 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "na data do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o, por aplica\u00e7\u00e3o da analogia."
             },
             {
-                "text": "em qualquer data, desde que anterior a 31 de dezembro daquele mesmo ano.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.03508909459275115,
+                    0.10806160740878464,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em qualquer data, desde que anterior a 31 de dezembro daquele mesmo ano."
             },
             {
-                "text": "em qualquer data, desde que n\u00e3o ultrapasse o dia 31 de outubro do ano seguinte.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.13103095997924033,
+                    0.09801016322321689,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em qualquer data, desde que n\u00e3o ultrapasse o dia 31 de outubro do ano seguinte."
             }
-        ],
-        "areas": [
-            "TAXES"
         ],
         "valid": true
     }

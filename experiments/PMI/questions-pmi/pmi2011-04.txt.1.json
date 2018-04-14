@@ -3,14 +3,15 @@
         "areas": [
             "ETHICS"
         ],
-        "valid": true,
         "enum": "Escul\u00e1pio, advogado, inscrito, h\u00e1 longos anos, na OAB, ap\u00f3s aprova\u00e7\u00e3o em Exame de Ordem, \u00e9 surpreendido com a not\u00edcia de que o advogado S\u00f3focles, que atua no seu escrit\u00f3rio em algumas causas, fora entrevistado por jornalista profissional, tendo afirmado ser usu\u00e1rio habitual de drogas. A entrevista foi divulgada amplamente. Ap\u00f3s conversas reservadas entre os advogados, os termos da entrevista s\u00e3o confirmados, bem como o v\u00edcio portado. N\u00e3o h\u00e1 acordo quanto a eventual tratamento de sa\u00fade, afirmando o advogado S\u00f3focles que continuaria a praticar os atos referidos.  Diante dessa narrativa, \u00e0 luz da legisla\u00e7\u00e3o aplic\u00e1vel aos advogados, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "1",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.04206789943533284,
+                    0.02033112451405455,
                     0.0,
                     0.0,
                     0.0
@@ -21,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.00766761710902809,
+                    0.03913165085301245,
                     0.0,
                     0.0,
                     0.0
@@ -32,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.013113189637006237,
+                    0.018086322337687456,
                     0.0,
                     0.0,
                     0.0
@@ -43,7 +44,7 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.08749742451109097,
+                    0.06226023296743876,
                     0.0,
                     0.0,
                     0.0
@@ -51,7 +52,6 @@
                 "text": "no caso em tela, h\u00e1 san\u00e7\u00e3o disciplinar aplic\u00e1vel."
             }
         ],
-        "filename": "2011-04.txt",
-        "number": "1"
+        "valid": true
     }
 ]

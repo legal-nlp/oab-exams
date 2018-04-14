@@ -3,13 +3,13 @@
         "areas": [
             "TAXES"
         ],
-        "number": "76",
         "enum": "De acordo com o C\u00f3digo Tribut\u00e1rio Nacional, aplica-se retroativamente a lei tribut\u00e1ria na hip\u00f3tese de:",
         "filename": "2010-02.txt",
+        "number": "76",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
@@ -19,10 +19,10 @@
                 "text": "analogia, quando esta favorecer o contribuinte."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.11501336732082862,
+                    0.15538240312651672,
                     0.0,
                     0.0,
                     0.0
@@ -30,10 +30,10 @@
                 "text": "extin\u00e7\u00e3o do tributo, ainda n\u00e3o definitivamente constitu\u00eddo."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.14415439654304732,
+                    0.21637329738674646,
                     0.0,
                     0.0,
                     0.0
@@ -41,10 +41,10 @@
                 "text": "gradua\u00e7\u00e3o quanto \u00e0 natureza de tributo aplic\u00e1vel, desde que n\u00e3o seja hip\u00f3tese de crime."
             },
             {
-                "letter": "D",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.6063743931564901,
+                    0.18023148450851448,
                     0.0,
                     0.0,
                     0.0

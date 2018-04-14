@@ -5,53 +5,53 @@
         ],
         "enum": "Leilane, autora da a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos morais, proposta em face de Carlindo na 5\u00aa Vara C\u00edvel da comarca da capital, informou, em sua peti\u00e7\u00e3o inicial, que n\u00e3o possu\u00eda interesse na audi\u00eancia de concilia\u00e7\u00e3o prevista no Art. 334 do CPC/15. Mesmo assim, o magistrado marcou a audi\u00eancia de concilia\u00e7\u00e3o e ordenou a cita\u00e7\u00e3o do r\u00e9u.\n\n O r\u00e9u, regularmente citado, manifestou interesse na realiza\u00e7\u00e3o da referida audi\u00eancia, na qual apenas o r\u00e9u compareceu. O juiz, ent\u00e3o, aplicou \u00e0 autora a multa de 2% sobre o valor da causa.\n\n Sobre o procedimento do magistrado, a partir do caso apresentado, assinale a afirmativa correta.",
         "filename": "2017-24.txt",
-        "valid": true,
+        "number": "51",
         "options": [
             {
-                "text": "O magistrado n\u00e3o deveria ter marcado a audi\u00eancia de concilia\u00e7\u00e3o, j\u00e1 que a autora informou, em sua peti\u00e7\u00e3o inicial, que n\u00e3o possu\u00eda interesse.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.044434071412556356,
+                    0.05038002991313617,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O magistrado n\u00e3o deveria ter marcado a audi\u00eancia de concilia\u00e7\u00e3o, j\u00e1 que a autora informou, em sua peti\u00e7\u00e3o inicial, que n\u00e3o possu\u00eda interesse."
             },
             {
-                "text": "O magistrado agiu corretamente, tendo em vista que a conduta da autora se caracteriza como um ato atentat\u00f3rio \u00e0 dignidade da justi\u00e7a.",
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.05042435246844496,
+                    -0.006967889360835892,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "O magistrado agiu corretamente, tendo em vista que a conduta da autora se caracteriza como um ato atentat\u00f3rio \u00e0 dignidade da justi\u00e7a."
             },
             {
-                "text": "O magistrado deveria ter declarado o processo extinto sem resolu\u00e7\u00e3o do m\u00e9rito, e a multa n\u00e3o possui fundamento legal.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.027651723258944546,
+                    0.019755327403901717,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "O magistrado deveria ter declarado o processo extinto sem resolu\u00e7\u00e3o do m\u00e9rito, e a multa n\u00e3o possui fundamento legal."
             },
             {
-                "text": "A manifesta\u00e7\u00e3o de interesse do r\u00e9u na realiza\u00e7\u00e3o da referida audi\u00eancia pode ser feita em at\u00e9 72 horas antes da sua realiza\u00e7\u00e3o.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.07192625397545434,
+                    0.06327163124821834,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "A manifesta\u00e7\u00e3o de interesse do r\u00e9u na realiza\u00e7\u00e3o da referida audi\u00eancia pode ser feita em at\u00e9 72 horas antes da sua realiza\u00e7\u00e3o."
             }
         ],
-        "number": "51"
+        "valid": true
     }
 ]

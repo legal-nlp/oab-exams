@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-09.txt",
-        "number": "58",
-        "valid": true,
-        "options": [
-            {
-                "pmi": [
-                    -0.05358027007781838,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "A senten\u00e7a arbitral, de acordo com o CPC, possui natureza de t\u00edtulo executivo extrajudicial e poder\u00e1 ser liquidada ou executada, conforme o caso, perante o ju\u00edzo c\u00edvel competente, hip\u00f3tese na qual o mandado inicial incluir\u00e1 a ordem de cita\u00e7\u00e3o do devedor.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.011777445971410446,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "O executado, nas obriga\u00e7\u00f5es de pagar quantia certa ou j\u00e1 fixada em liquida\u00e7\u00e3o, poder\u00e1 oferecer impugna\u00e7\u00e3o para rediscutir qualquer causa impeditiva, modificativa ou extintiva da obriga\u00e7\u00e3o, desde que superveniente \u00e0 senten\u00e7a.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.02199738845406248,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "O CPC prev\u00ea que o juiz pode atribuir efeito suspensivo aos embargos quando ficar demonstrado que o prosseguimento da execu\u00e7\u00e3o manifestamente pode causar ao executado grave dano de dif\u00edcil ou incerta repara\u00e7\u00e3o o que n\u00e3o ocorre na impugna\u00e7\u00e3o, tendo em vista que nesta modalidade de defesa est\u00e1 prevista, expressamente, a impossibilidade de concess\u00e3o de efeitos suspensivos em quaisquer hip\u00f3teses.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.028814619844082724,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "A concess\u00e3o de efeito suspensivo nos embargos do executado obsta o prosseguimento da execu\u00e7\u00e3o principal, impedindo, inclusive, a efetiva\u00e7\u00e3o dos atos de penhora e avalia\u00e7\u00e3o dos bens.",
-                "letter": "D"
-            }
-        ],
-        "enum": "A execu\u00e7\u00e3o tem por finalidade prec\u00edpua a ado\u00e7\u00e3o de medidas necess\u00e1rias \u00e0 satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o prevista em um t\u00edtulo executivo judicial ou extrajudicial. Em um primeiro momento, vigia no ordenamento p\u00e1trio o princ\u00edpio da autonomia, segundo o qual as atividades executivas e de conhecimento deveriam ser desenvolvidas necessariamente por meio de a\u00e7\u00f5es distintas. Contudo, tal sistem\u00e1tica foi alvo de uma s\u00e9rie de reformas que buscaram prestigiar um desenvolvimento sincr\u00e9tico do processo, bem como a pr\u00f3pria efetiva\u00e7\u00e3o do t\u00edtulo executivo.\n\n Com base na legisla\u00e7\u00e3o vigente, assinale a afirmativa correta:",
         "areas": [
             "CIVIL-PROCEDURE"
-        ]
+        ],
+        "enum": "A execu\u00e7\u00e3o tem por finalidade prec\u00edpua a ado\u00e7\u00e3o de medidas necess\u00e1rias \u00e0 satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o prevista em um t\u00edtulo executivo judicial ou extrajudicial. Em um primeiro momento, vigia no ordenamento p\u00e1trio o princ\u00edpio da autonomia, segundo o qual as atividades executivas e de conhecimento deveriam ser desenvolvidas necessariamente por meio de a\u00e7\u00f5es distintas. Contudo, tal sistem\u00e1tica foi alvo de uma s\u00e9rie de reformas que buscaram prestigiar um desenvolvimento sincr\u00e9tico do processo, bem como a pr\u00f3pria efetiva\u00e7\u00e3o do t\u00edtulo executivo.\n\n Com base na legisla\u00e7\u00e3o vigente, assinale a afirmativa correta:",
+        "filename": "2012-09.txt",
+        "number": "58",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.052226770532012405,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A senten\u00e7a arbitral, de acordo com o CPC, possui natureza de t\u00edtulo executivo extrajudicial e poder\u00e1 ser liquidada ou executada, conforme o caso, perante o ju\u00edzo c\u00edvel competente, hip\u00f3tese na qual o mandado inicial incluir\u00e1 a ordem de cita\u00e7\u00e3o do devedor."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.027263654574462944,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O executado, nas obriga\u00e7\u00f5es de pagar quantia certa ou j\u00e1 fixada em liquida\u00e7\u00e3o, poder\u00e1 oferecer impugna\u00e7\u00e3o para rediscutir qualquer causa impeditiva, modificativa ou extintiva da obriga\u00e7\u00e3o, desde que superveniente \u00e0 senten\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.018226775744716164,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O CPC prev\u00ea que o juiz pode atribuir efeito suspensivo aos embargos quando ficar demonstrado que o prosseguimento da execu\u00e7\u00e3o manifestamente pode causar ao executado grave dano de dif\u00edcil ou incerta repara\u00e7\u00e3o o que n\u00e3o ocorre na impugna\u00e7\u00e3o, tendo em vista que nesta modalidade de defesa est\u00e1 prevista, expressamente, a impossibilidade de concess\u00e3o de efeitos suspensivos em quaisquer hip\u00f3teses."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.02649360592923791,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A concess\u00e3o de efeito suspensivo nos embargos do executado obsta o prosseguimento da execu\u00e7\u00e3o principal, impedindo, inclusive, a efetiva\u00e7\u00e3o dos atos de penhora e avalia\u00e7\u00e3o dos bens."
+            }
+        ],
+        "valid": true
     }
 ]

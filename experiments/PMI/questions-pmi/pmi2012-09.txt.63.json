@@ -1,11 +1,14 @@
 [
     {
+        "areas": [
+            "CRIMINAL"
+        ],
         "enum": "Guilherme praticou, em 18/02/2009, contraven\u00e7\u00e3o penal de vias de fato (Art. 21 do Decreto Lei n. 3.688/41), tendo sido condenado \u00e0 pena de multa. A senten\u00e7a transitou definitivamente em julgado no dia 15/03/2010, mas Guilherme n\u00e3o pagou a multa. No dia 10/07/2010, Guilherme praticou crime de ato obsceno (Art. 233 do CP).\n\n Com base na situa\u00e7\u00e3o descrita e na legisla\u00e7\u00e3o, assinale a afirmativa correta.",
         "filename": "2012-09.txt",
-        "valid": true,
         "number": "63",
         "options": [
             {
+                "correct": true,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -13,45 +16,42 @@
                     0.0,
                     0.0
                 ],
-                "text": "Guilherme n\u00e3o pode ser considerado reincidente por conta de uma omiss\u00e3o legislativa.",
-                "correct": true
+                "text": "Guilherme n\u00e3o pode ser considerado reincidente por conta de uma omiss\u00e3o legislativa."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.006331365031842927,
+                    0.03693195823973233,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Guilherme deve ter a pena de multa n\u00e3o paga da primeira condena\u00e7\u00e3o convertida em pena privativa de liberdade.",
-                "correct": null
+                "text": "Guilherme deve ter a pena de multa n\u00e3o paga da primeira condena\u00e7\u00e3o convertida em pena privativa de liberdade."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.017333399055337113,
+                    0.038290873722402495,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Guilherme \u00e9 reincidente, pois praticou novo crime ap\u00f3s condena\u00e7\u00e3o transitada em julgado.",
-                "correct": null
+                "text": "Guilherme \u00e9 reincidente, pois praticou novo crime ap\u00f3s condena\u00e7\u00e3o transitada em julgado."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.03570141738991213,
+                    0.0616410599711322,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A pena de multa n\u00e3o gera reincid\u00eancia.",
-                "correct": null
+                "text": "A pena de multa n\u00e3o gera reincid\u00eancia."
             }
         ],
-        "areas": [
-            "CRIMINAL"
-        ]
+        "valid": true
     }
 ]

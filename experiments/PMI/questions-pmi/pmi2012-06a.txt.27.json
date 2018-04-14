@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    -0.0587023148415243,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A",
-                "text": "moralidade, publicidade e legalidade."
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B",
-                "text": "especificidade, publicidade e moralidade."
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C",
-                "text": "continuidade, atualidade e cortesia."
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D",
-                "text": "atratividade, mutualismo e comutatividade."
-            }
-        ],
         "areas": [
             "ADMINISTRATIVE"
         ],
         "enum": "S\u00e3o princ\u00edpios pr\u00f3prios ou espec\u00edficos dos servi\u00e7os p\u00fablicos, previstos na Lei 8.987/95,",
         "filename": "2012-06a.txt",
         "number": "27",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.3018253790882695,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "moralidade, publicidade e legalidade."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "especificidade, publicidade e moralidade."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "continuidade, atualidade e cortesia."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "atratividade, mutualismo e comutatividade."
+            }
+        ],
         "valid": true
     }
 ]

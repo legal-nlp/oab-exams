@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
         "enum": "Alfredo Chaves exerce, em car\u00e1ter profissional, atividade intelectual de natureza liter\u00e1ria, com a colabora\u00e7\u00e3o de auxiliares. O exerc\u00edcio da profiss\u00e3o constitui elemento de empresa. N\u00e3o h\u00e1 registro da atividade por parte de Alfredo Chaves em nenhum \u00f3rg\u00e3o p\u00fablico.\n\n Com base nessas informa\u00e7\u00f5es e nas disposi\u00e7\u00f5es do C\u00f3digo Civil, assinale a afirmativa correta.",
+        "filename": "2014-15.txt",
         "number": "49",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Alfredo Chaves n\u00e3o \u00e9 empres\u00e1rio, porque exerce atividade intelectual de natureza liter\u00e1ria.",
                 "pmi": [
-                    -0.046144112348391914,
+                    0.03235788552341803,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Alfredo Chaves n\u00e3o \u00e9 empres\u00e1rio, porque exerce atividade intelectual de natureza liter\u00e1ria."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Alfredo Chaves n\u00e3o \u00e9 empres\u00e1rio, porque n\u00e3o possui registro em nenhum \u00f3rg\u00e3o p\u00fablico.",
                 "pmi": [
-                    -0.0653456692298932,
+                    0.013156328641916735,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Alfredo Chaves n\u00e3o \u00e9 empres\u00e1rio, porque n\u00e3o possui registro em nenhum \u00f3rg\u00e3o p\u00fablico."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "Alfredo Chaves \u00e9 empres\u00e1rio, independentemente da falta de inscri\u00e7\u00e3o na Junta Comercial.",
                 "pmi": [
-                    -0.036808209567977646,
+                    0.05290835942837657,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Alfredo Chaves \u00e9 empres\u00e1rio, independentemente da falta de inscri\u00e7\u00e3o na Junta Comercial."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "Alfredo Chaves \u00e9 empres\u00e1rio, porque exerce atividade n\u00e3o organizada em car\u00e1ter profissional.",
                 "pmi": [
-                    -0.1385473290335708,
+                    0.136209663517764,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Alfredo Chaves \u00e9 empres\u00e1rio, porque exerce atividade n\u00e3o organizada em car\u00e1ter profissional."
             }
         ],
-        "areas": [],
-        "filename": "2014-15.txt"
+        "valid": true
     }
 ]

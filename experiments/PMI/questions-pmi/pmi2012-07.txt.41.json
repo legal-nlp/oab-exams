@@ -3,55 +3,55 @@
         "areas": [
             "CIVIL-PROCEDURE"
         ],
+        "enum": "Quando duas ou mais demandas individuais possuem o mesmo pedido e/ou a mesma causa de pedir, diz-se que s\u00e3o conexas. Nessa situa\u00e7\u00e3o, se estiverem tramitando em ju\u00edzos diversos, poder\u00e3o ser reunidas para julgamento conjunto pelo ju\u00edzo prevento.\n\n Caso esses ju\u00edzos tenham compet\u00eancia territorial diversa, \u00e9 correto afirmar que ser\u00e1 considerado prevento aquele",
+        "filename": "2012-07.txt",
+        "number": "41",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "em que se proferiu o primeiro despacho liminar positivo.",
-                "letter": "A"
+                "text": "em que se proferiu o primeiro despacho liminar positivo."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "para o qual primeiro foi distribu\u00edda a peti\u00e7\u00e3o inicial.",
-                "letter": "B"
+                "text": "para o qual primeiro foi distribu\u00edda a peti\u00e7\u00e3o inicial."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.016936845647436475,
+                    0.06418188548676713,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "que tiver, ao tempo da argui\u00e7\u00e3o da conex\u00e3o, praticado o maior n\u00famero de atos processuais.",
-                "letter": "C"
+                "text": "que tiver, ao tempo da argui\u00e7\u00e3o da conex\u00e3o, praticado o maior n\u00famero de atos processuais."
             },
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "em que se realizou a primeira cita\u00e7\u00e3o v\u00e1lida.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "em que se realizou a primeira cita\u00e7\u00e3o v\u00e1lida."
             }
         ],
-        "enum": "Quando duas ou mais demandas individuais possuem o mesmo pedido e/ou a mesma causa de pedir, diz-se que s\u00e3o conexas. Nessa situa\u00e7\u00e3o, se estiverem tramitando em ju\u00edzos diversos, poder\u00e3o ser reunidas para julgamento conjunto pelo ju\u00edzo prevento.\n\n Caso esses ju\u00edzos tenham compet\u00eancia territorial diversa, \u00e9 correto afirmar que ser\u00e1 considerado prevento aquele",
-        "number": "41",
-        "valid": true,
-        "filename": "2012-07.txt"
+        "valid": true
     }
 ]

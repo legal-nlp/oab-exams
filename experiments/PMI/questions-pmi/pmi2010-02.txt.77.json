@@ -1,57 +1,57 @@
 [
     {
-        "number": "77",
-        "filename": "2010-02.txt",
         "areas": [
             "TAXES"
         ],
-        "valid": true,
         "enum": "Caso determinado munic\u00edpio venha a atualizar o valor monet\u00e1rio da base de c\u00e1lculo do IPTU, tal hip\u00f3tese",
+        "filename": "2010-02.txt",
+        "number": "77",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.6038577788796975,
+                    0.04509207019393142,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "deve vir regulada por lei.",
-                "letter": "A"
+                "text": "deve vir regulada por lei."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.45289333415977306,
+                    0.03381905264544856,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "deve vir regulada por lei complementar.",
-                "letter": "B"
+                "text": "deve vir regulada por lei complementar."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "enquadra-se como majora\u00e7\u00e3o de tributo.",
-                "letter": "C"
+                "text": "enquadra-se como majora\u00e7\u00e3o de tributo."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": true,
-                "text": "poder\u00e1 ser disciplinada mediante decreto.",
-                "letter": "D"
+                "text": "poder\u00e1 ser disciplinada mediante decreto."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

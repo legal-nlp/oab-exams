@@ -4,54 +4,54 @@
             "TAXES"
         ],
         "enum": "O imposto cuja al\u00edquota \u00e9 invari\u00e1vel e se aplica sobre base de c\u00e1lculo vari\u00e1vel, \u00e9 classificado como",
-        "valid": true,
+        "filename": "2012-08.txt",
+        "number": "28",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "progressivo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "progressivo."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "proporcional.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "proporcional."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "indireto.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "indireto."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "pessoal.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "pessoal."
             }
         ],
-        "number": "28",
-        "filename": "2012-08.txt"
+        "valid": true
     }
 ]

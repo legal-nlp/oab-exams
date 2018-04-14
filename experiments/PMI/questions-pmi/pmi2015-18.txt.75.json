@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Jorge, Luiz e Pedro trabalham na mesma empresa. Na \u00e9poca designada para o gozo das f\u00e9rias, eles foram informados pelo empregador que Jorge n\u00e3o teria direito \u00e0s f\u00e9rias porque havia faltado, injustificadamente, 34 dias ao longo do per\u00edodo aquisitivo; que Luiz teria que fracionar as f\u00e9rias em tr\u00eas per\u00edodos de 10 dias e que Pedro deveria converter 2/3 das f\u00e9rias em abono pecuni\u00e1rio, podendo gozar de apenas 1/3 destas, em raz\u00e3o da necessidade de servi\u00e7o do setor de ambos.\n\n Diante disso, assinale a afirmativa correta.",
         "filename": "2015-18.txt",
         "number": "75",
-        "enum": "Jorge, Luiz e Pedro trabalham na mesma empresa. Na \u00e9poca designada para o gozo das f\u00e9rias, eles foram informados pelo empregador que Jorge n\u00e3o teria direito \u00e0s f\u00e9rias porque havia faltado, injustificadamente, 34 dias ao longo do per\u00edodo aquisitivo; que Luiz teria que fracionar as f\u00e9rias em tr\u00eas per\u00edodos de 10 dias e que Pedro deveria converter 2/3 das f\u00e9rias em abono pecuni\u00e1rio, podendo gozar de apenas 1/3 destas, em raz\u00e3o da necessidade de servi\u00e7o do setor de ambos.\n\n Diante disso, assinale a afirmativa correta.",
-        "areas": [],
-        "valid": true,
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "A informa\u00e7\u00e3o do empregador foi correta nos tr\u00eas casos."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.06386106218212706,
+                    -0.012083148692209859,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Apenas no caso de Jorge o empregador est\u00e1 correto."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "O empregador agiu corretamente nos casos de Jorge e de Luiz, mas n\u00e3o no de Pedro."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "O empregador est\u00e1 errado nas tr\u00eas hip\u00f3teses."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

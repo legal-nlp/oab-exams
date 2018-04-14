@@ -1,57 +1,57 @@
 [
     {
-        "number": "11",
-        "valid": true,
-        "filename": "2012-08.txt",
         "areas": [
             "ETHICS"
         ],
         "enum": "Pedro, advogado regularmente inscrito nos quadros da OAB, ap\u00f3s regular processo administrativo disciplinar, \u00e9 apenado com a san\u00e7\u00e3o de exclus\u00e3o por ter sido condenado pela pr\u00e1tica de crimes contra o patrim\u00f4nio, tendo a decis\u00e3o judicial transitada em julgado. Ap\u00f3s cumprir a pena e tendo sido a mesma julgada extinta pelo Ju\u00edzo competente, apresenta requerimento de retorno \u00e0 OAB.\n\n Nos termos do Estatuto, deve o requerente",
+        "filename": "2012-08.txt",
+        "number": "11",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "apresentar a documenta\u00e7\u00e3o prevista para inscri\u00e7\u00e3o inaugural no quadro de advogados, al\u00e9m de submeter-se a novo Exame de Ordem.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.025779102134098005,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "apresentar a documenta\u00e7\u00e3o prevista para inscri\u00e7\u00e3o inaugural no quadro de advogados, al\u00e9m de submeter-se a novo Exame de Ordem."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "requerer a restaura\u00e7\u00e3o da sua inscri\u00e7\u00e3o anterior com os documentos previstos para a inscri\u00e7\u00e3o inaugural, sem submiss\u00e3o a novo Exame de Ordem.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.010015922820966418,
+                    0.02079624588554042,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "requerer a restaura\u00e7\u00e3o da sua inscri\u00e7\u00e3o anterior com os documentos previstos para a inscri\u00e7\u00e3o inaugural, sem submiss\u00e3o a novo Exame de Ordem."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "text": "indicar provas para a inscri\u00e7\u00e3o nos quadros da OAB que comprovem a sua capacidade civil apta a permitir o retorno, e os documentos para inscri\u00e7\u00e3o inaugural.",
-                "correct": null
+                "pmi": [
+                    0.008281535329605823,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "indicar provas para a inscri\u00e7\u00e3o nos quadros da OAB que comprovem a sua capacidade civil apta a permitir o retorno, e os documentos para inscri\u00e7\u00e3o inaugural."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "text": "comprovar a sua reabilita\u00e7\u00e3o e apresentar os documentos relacionados \u00e0 idoneidade moral.",
-                "correct": true
+                "text": "comprovar a sua reabilita\u00e7\u00e3o e apresentar os documentos relacionados \u00e0 idoneidade moral."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

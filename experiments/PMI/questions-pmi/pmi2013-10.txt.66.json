@@ -4,54 +4,54 @@
             "CRIMINAL-PROCEDURE"
         ],
         "enum": "Na cidade \u201cA\u201d, o Delegado de Pol\u00edcia instaurou inqu\u00e9rito policial para averiguar a poss\u00edvel ocorr\u00eancia do delito de estelionato praticado por M\u00e1rcio, tudo conforme minuciosamente narrado na requisi\u00e7\u00e3o do Minist\u00e9rio P\u00fablico Estadual. Ao final da apura\u00e7\u00e3o, o Delegado de Pol\u00edcia enviou o inqu\u00e9rito devidamente relatado ao Promotor de Justi\u00e7a. No entendimento do parquet, a conduta praticada por M\u00e1rcio, embora t\u00edpica, estaria prescrita. Nessa situa\u00e7\u00e3o, o Promotor dever\u00e1",
-        "valid": true,
         "filename": "2013-10.txt",
         "number": "66",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "arquivar os autos.",
-                "correct": null
-            },
-            {
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "B",
-                "text": "oferecer den\u00fancia.",
-                "correct": null
+                "text": "arquivar os autos."
             },
             {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "oferecer den\u00fancia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "text": "determinar a baixa dos autos.",
-                "correct": null
+                "text": "determinar a baixa dos autos."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "D",
-                "text": "requerer o arquivamento.",
-                "correct": true
+                "text": "requerer o arquivamento."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

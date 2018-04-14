@@ -1,17 +1,17 @@
 [
     {
-        "enum": "Caio, pr\u00f3spero comerciante, contrata, para presta\u00e7\u00e3o de servi\u00e7os profissionais de advocacia, M\u00e9vio, que se apresenta como advogado. O cliente outorga a devida procura\u00e7\u00e3o com poderes gerais para o foro. Usando o referido instrumento, ocorre a propositura de a\u00e7\u00e3o judicial em face de Tr\u00e1cio. Na contesta\u00e7\u00e3o, o advogado do r\u00e9u alega v\u00edcio na representa\u00e7\u00e3o, uma vez que M\u00e9vio n\u00e3o possui registro na OAB, consoante certid\u00e3o que apresenta nos autos judiciais. Diante de tal circunst\u00e2ncia, \u00e9 correto afirmar que",
-        "number": "5",
         "areas": [
             "ETHICS"
         ],
-        "valid": true,
+        "enum": "Caio, pr\u00f3spero comerciante, contrata, para presta\u00e7\u00e3o de servi\u00e7os profissionais de advocacia, M\u00e9vio, que se apresenta como advogado. O cliente outorga a devida procura\u00e7\u00e3o com poderes gerais para o foro. Usando o referido instrumento, ocorre a propositura de a\u00e7\u00e3o judicial em face de Tr\u00e1cio. Na contesta\u00e7\u00e3o, o advogado do r\u00e9u alega v\u00edcio na representa\u00e7\u00e3o, uma vez que M\u00e9vio n\u00e3o possui registro na OAB, consoante certid\u00e3o que apresenta nos autos judiciais. Diante de tal circunst\u00e2ncia, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "5",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.06977415353419592,
+                    0.05383534152744768,
                     0.0,
                     0.0,
                     0.0
@@ -19,10 +19,10 @@
                 "text": "os atos praticados pelo suposto advogado n\u00e3o ofendem qualquer dispositivo legal."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.061309946108996094,
+                    0.03139717518723659,
                     0.0,
                     0.0,
                     0.0
@@ -30,10 +30,10 @@
                 "text": "verificada a aus\u00eancia de inscri\u00e7\u00e3o profissional, dever\u00e1 ser outorgado prazo para sua regulariza\u00e7\u00e3o."
             },
             {
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.07639441676825841,
+                    0.03176389141067973,
                     0.0,
                     0.0,
                     0.0
@@ -41,10 +41,10 @@
                 "text": "os atos praticados por M\u00e9vio s\u00e3o nulos, pois foram praticados por pessoa n\u00e3o inscrita na OAB."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.06467462375044948,
+                    0.04348368442848866,
                     0.0,
                     0.0,
                     0.0
@@ -52,6 +52,6 @@
                 "text": "a declara\u00e7\u00e3o de nulidade dos atos processuais esgota o rol de atos sancionat\u00f3rios."
             }
         ],
-        "filename": "2012-06.txt"
+        "valid": true
     }
 ]

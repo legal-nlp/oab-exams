@@ -1,57 +1,57 @@
 [
     {
-        "number": "72",
-        "valid": true,
+        "areas": [
+            "LABOUR"
+        ],
+        "enum": "O trabalhador Jos\u00e9 foi dispensado, sem justa causa, em 01/06/2011, quando percebia o sal\u00e1rio mensal de R$ 800,00 (oitocentos reais). Quando da homologa\u00e7\u00e3o de sua rescis\u00e3o, o sindicato de sua categoria profissional determinou \u00e0 empresa o refazimento do termo de quita\u00e7\u00e3o, sob o fundamento de que o empregador compensou a maior, no pagamento que pretendia efetuar, a quantia de R$ 1.200,00 (hum mil e duzentos reais), correspondente a um empr\u00e9stimo concedido pela empresa ao trabalhador no m\u00eas anterior.  Diante do exposto, assinale a alternativa correta.",
         "filename": "2012-07.txt",
+        "number": "72",
         "options": [
             {
+                "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.3738767284734032,
+                    -0.05623285497946905,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "A",
                 "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao valor de R$ 800,00 (oitocentos reais), o que importa na necessidade de refazimento do termo de quita\u00e7\u00e3o, para o ajuste."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.22616889407356994,
+                    0.002872229128887297,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao equivalente a 50% (cinquenta por cento) de um m\u00eas de remunera\u00e7\u00e3o do empregado, devendo o termo ser refeito para o ajuste."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.09154144199499221,
+                    0.005801035366052122,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita no valor fixado."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.11393991097600521,
+                    -0.0057816027970670515,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita em qualquer valor, inexistindo limite legalmente fixado."
             }
         ],
-        "enum": "O trabalhador Jos\u00e9 foi dispensado, sem justa causa, em 01/06/2011, quando percebia o sal\u00e1rio mensal de R$ 800,00 (oitocentos reais). Quando da homologa\u00e7\u00e3o de sua rescis\u00e3o, o sindicato de sua categoria profissional determinou \u00e0 empresa o refazimento do termo de quita\u00e7\u00e3o, sob o fundamento de que o empregador compensou a maior, no pagamento que pretendia efetuar, a quantia de R$ 1.200,00 (hum mil e duzentos reais), correspondente a um empr\u00e9stimo concedido pela empresa ao trabalhador no m\u00eas anterior.  Diante do exposto, assinale a alternativa correta.",
-        "areas": [
-            "LABOUR"
-        ]
+        "valid": true
     }
 ]

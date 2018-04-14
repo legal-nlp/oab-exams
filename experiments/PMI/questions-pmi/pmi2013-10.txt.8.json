@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "pmi": [
-                    -0.3167287153168492,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "assumir a defesa da empresa, por for\u00e7a da rela\u00e7\u00e3o de trabalho.",
-                "letter": "A"
-            },
-            {
-                "correct": true,
-                "pmi": [
-                    -0.16466032590266666,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "comunicar o fato \u00e0 empresa e escusar-se de realizar a defesa.",
-                "letter": "B"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.11032689412548069,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "indicar advogado da sua equipe para realizar a defesa.",
-                "letter": "C"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.20930192216816604,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "renunciar ao cargo por impossibilidade de exerc\u00edcio do mesmo.",
-                "letter": "D"
-            }
-        ],
-        "number": "8",
-        "filename": "2013-10.txt",
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
-        "enum": "Lara, advogada, \u00e9 chefe do departamento jur\u00eddico da empresa N\u00f3s e N\u00f3s, que \u00e9 especializada na produ\u00e7\u00e3o de cordas. O departamento que ela coordena possui cerca de cem advogados. Dez deles resolvem propor a\u00e7\u00e3o judicial para reclamar direitos que s\u00e3o comuns a todos, inclusive \u00e0 advogada chefe do departamento.\n\n Nos termos do C\u00f3digo de \u00c9tica, a advogada chefe do departamento deve"
+        "enum": "Lara, advogada, \u00e9 chefe do departamento jur\u00eddico da empresa N\u00f3s e N\u00f3s, que \u00e9 especializada na produ\u00e7\u00e3o de cordas. O departamento que ela coordena possui cerca de cem advogados. Dez deles resolvem propor a\u00e7\u00e3o judicial para reclamar direitos que s\u00e3o comuns a todos, inclusive \u00e0 advogada chefe do departamento.\n\n Nos termos do C\u00f3digo de \u00c9tica, a advogada chefe do departamento deve",
+        "filename": "2013-10.txt",
+        "number": "8",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.06351533687473021,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "assumir a defesa da empresa, por for\u00e7a da rela\u00e7\u00e3o de trabalho."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.03813650193284236,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "comunicar o fato \u00e0 empresa e escusar-se de realizar a defesa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.13302929927713011,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "indicar advogado da sua equipe para realizar a defesa."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.018844509146781603,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "renunciar ao cargo por impossibilidade de exerc\u00edcio do mesmo."
+            }
+        ],
+        "valid": true
     }
 ]

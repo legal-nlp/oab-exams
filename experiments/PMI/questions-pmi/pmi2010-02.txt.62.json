@@ -3,9 +3,12 @@
         "areas": [
             "CRIMINAL"
         ],
+        "enum": "Funda\u00e7\u00e3o P\u00fablica Federal contrata o t\u00e9cnico de inform\u00e1tica Abelardo Fonseca para que opere o sistema informatizado destinado \u00e0 elabora\u00e7\u00e3o da folha de pagamento de seus funcion\u00e1rios. Abelardo, ao elaborar a referida folha de pagamento, altera as informa\u00e7\u00f5es sobre a remunera\u00e7\u00e3o dos funcion\u00e1rios da Funda\u00e7\u00e3o no sistema, descontando a quantia de cinco reais de cada um deles. A seguir, insere o seu pr\u00f3prio nome e sua pr\u00f3pria conta banc\u00e1ria no sistema, atribuindo-se a condi\u00e7\u00e3o de funcion\u00e1rio da Funda\u00e7\u00e3o e destina \u00e0 sua conta o total dos valores desviados dos demais. Terminada a elabora\u00e7\u00e3o da folha, Abelardo remete as informa\u00e7\u00f5es \u00e0 se\u00e7\u00e3o de pagamentos, a qual efetua os pagamentos de acordo com as informa\u00e7\u00f5es lan\u00e7adas no sistema por ele.\n\n Considerando tal narrativa, \u00e9 correto afirmar que Abelardo praticou crime de:",
         "filename": "2010-02.txt",
+        "number": "62",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -13,10 +16,10 @@
                     0,
                     0
                 ],
-                "correct": null,
                 "text": "estelionato."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -24,10 +27,10 @@
                     0,
                     0
                 ],
-                "correct": null,
                 "text": "peculato."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -35,10 +38,10 @@
                     0,
                     0
                 ],
-                "correct": null,
                 "text": "concuss\u00e3o."
             },
             {
+                "correct": true,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -46,12 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "inser\u00e7\u00e3o de dados falsos em sistema de informa\u00e7\u00f5es."
             }
         ],
-        "number": "62",
-        "enum": "Funda\u00e7\u00e3o P\u00fablica Federal contrata o t\u00e9cnico de inform\u00e1tica Abelardo Fonseca para que opere o sistema informatizado destinado \u00e0 elabora\u00e7\u00e3o da folha de pagamento de seus funcion\u00e1rios. Abelardo, ao elaborar a referida folha de pagamento, altera as informa\u00e7\u00f5es sobre a remunera\u00e7\u00e3o dos funcion\u00e1rios da Funda\u00e7\u00e3o no sistema, descontando a quantia de cinco reais de cada um deles. A seguir, insere o seu pr\u00f3prio nome e sua pr\u00f3pria conta banc\u00e1ria no sistema, atribuindo-se a condi\u00e7\u00e3o de funcion\u00e1rio da Funda\u00e7\u00e3o e destina \u00e0 sua conta o total dos valores desviados dos demais. Terminada a elabora\u00e7\u00e3o da folha, Abelardo remete as informa\u00e7\u00f5es \u00e0 se\u00e7\u00e3o de pagamentos, a qual efetua os pagamentos de acordo com as informa\u00e7\u00f5es lan\u00e7adas no sistema por ele.\n\n Considerando tal narrativa, \u00e9 correto afirmar que Abelardo praticou crime de:",
         "valid": true
     }
 ]

@@ -1,15 +1,15 @@
 [
     {
+        "areas": [],
         "enum": "J.G., empres\u00e1rio do ramo imobili\u00e1rio, surpreendeu-se ao tomar conhecimento de que seu nome constava de um banco de dados de car\u00e1ter p\u00fablico como inadimplente de uma d\u00edvida no valor de R$ 500.000,00 (quinhentos mil reais). Embora reconhe\u00e7a a exist\u00eancia da d\u00edvida, entende que o n\u00e3o pagamento encontra justificativa no fato de o valor a que foi condenado em primeira inst\u00e2ncia ainda estar sob discuss\u00e3o em grau recursal. Com o objetivo de fazer com que essa informa\u00e7\u00e3o complementar passe a constar juntamente com a informa\u00e7\u00e3o principal a respeito da exist\u00eancia do d\u00e9bito, consulta um advogado, que sugere a impetra\u00e7\u00e3o de um habeas data.\n\n Sobre a resposta \u00e0 consulta, assinale a afirmativa correta.",
         "filename": "2015-16.txt",
         "number": "15",
-        "valid": true,
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.09218627976255116,
+                    0.016454878006471507,
                     0.0,
                     0.0,
                     0.0
@@ -20,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.10785498393767545,
+                    0.03286118231553488,
                     0.0,
                     0.0,
                     0.0
@@ -31,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.1463675834632581,
+                    -0.007306901518909084,
                     0.0,
                     0.0,
                     0.0
@@ -42,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.11128109826802147,
+                    0.007652379710698069,
                     0.0,
                     0.0,
                     0.0
@@ -50,6 +50,6 @@
                 "text": "O habeas data n\u00e3o deve ser impetrado, pois a lei ordin\u00e1ria n\u00e3o pode ampliar uma garantia fundamental prevista no texto constitucional, j\u00e1 que tal configuraria viola\u00e7\u00e3o ao regime de imutabilidade que acompanha os direitos e as garantias fundamentais."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

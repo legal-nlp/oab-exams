@@ -1,57 +1,57 @@
 [
     {
-        "number": "75",
-        "enum": "Um cientista \u00e9 contratado como empregado para trabalhar no setor de pesquisa de uma empresa, visando desenvolver atividade inventiva. Ap\u00f3s tr\u00eas anos, com uso de equipamentos e insumos da empresa, o trabalhador inventa um novo maquin\u00e1rio, cuja patente \u00e9 requerida e, em breve, introduzida no processo de produ\u00e7\u00e3o, com previs\u00e3o de alto lucro.\n\n Na hip\u00f3tese, caso nada tenha sido disposto a respeito, assinale a afirmativa correta.",
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
+        "enum": "Um cientista \u00e9 contratado como empregado para trabalhar no setor de pesquisa de uma empresa, visando desenvolver atividade inventiva. Ap\u00f3s tr\u00eas anos, com uso de equipamentos e insumos da empresa, o trabalhador inventa um novo maquin\u00e1rio, cuja patente \u00e9 requerida e, em breve, introduzida no processo de produ\u00e7\u00e3o, com previs\u00e3o de alto lucro.\n\n Na hip\u00f3tese, caso nada tenha sido disposto a respeito, assinale a afirmativa correta.",
         "filename": "2012-08.txt",
+        "number": "75",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.02779617830960489,
+                    0.014343422279591789,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregado, mas os lucros dever\u00e3o ser divididos.",
-                "letter": "A"
+                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregado, mas os lucros dever\u00e3o ser divididos."
             },
             {
-                "pmi": [
-                    -0.055777728675420586,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregador, dada a atividade para a qual foi contratado o empregado.",
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.03242887469453904,
+                    0.017966572355673605,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A inven\u00e7\u00e3o pertence ao empregado e ao empregador, que dividir\u00e3o os lucros.",
-                "letter": "C"
+                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregador, dada a atividade para a qual foi contratado o empregado."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.017688477106112203,
+                    0.01673399265952375,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "A inven\u00e7\u00e3o pertence ao empregado e ao empregador, que dividir\u00e3o os lucros."
+            },
+            {
                 "correct": null,
-                "text": "A inven\u00e7\u00e3o pertence ao empregador, mas \u00e9 dado ao empregado pedir indeniza\u00e7\u00e3o por dano material, a ser arbitrado pela justi\u00e7a.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.009127632359740229,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A inven\u00e7\u00e3o pertence ao empregador, mas \u00e9 dado ao empregado pedir indeniza\u00e7\u00e3o por dano material, a ser arbitrado pela justi\u00e7a."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

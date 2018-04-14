@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2013-10.txt",
-        "enum": "Adriana submete-se a um ato educativo supervisionado, desenvolvido no ambiente de trabalho, que visa \u00e0 prepara\u00e7\u00e3o para o trabalho produtivo daqueles que estejam frequentando o ensino regular em institui\u00e7\u00f5es de educa\u00e7\u00e3o superior, educa\u00e7\u00e3o profissional, ensino m\u00e9dio, da educa\u00e7\u00e3o especial e dos anos finais do ensino fundamental.\n\n Logo, pode-se dizer que Adriana \u00e9 uma",
-        "valid": true,
         "areas": [
             "LABOUR"
         ],
+        "enum": "Adriana submete-se a um ato educativo supervisionado, desenvolvido no ambiente de trabalho, que visa \u00e0 prepara\u00e7\u00e3o para o trabalho produtivo daqueles que estejam frequentando o ensino regular em institui\u00e7\u00f5es de educa\u00e7\u00e3o superior, educa\u00e7\u00e3o profissional, ensino m\u00e9dio, da educa\u00e7\u00e3o especial e dos anos finais do ensino fundamental.\n\n Logo, pode-se dizer que Adriana \u00e9 uma",
+        "filename": "2013-10.txt",
+        "number": "73",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
-                "text": "estagi\u00e1ria.",
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "estagi\u00e1ria."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "aprendiz.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "aprendiz."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "cooperativada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "cooperativada."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "empregada.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "empregada."
             }
         ],
-        "number": "73"
+        "valid": true
     }
 ]

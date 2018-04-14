@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-03.txt",
         "areas": [
             "ETHICS"
         ],
         "enum": "Heitor, advogado regularmente inscrito na OAB, \u00e9 surpreendido com a not\u00edcia de que seu ex adverso havia sido suspenso em processo disciplinar regular, mas que n\u00e3o havia devolvido os documentos oficiais nem comunicado a puni\u00e7\u00e3o ao juiz dirigente do processo.\n\n Em rela\u00e7\u00e3o \u00e0 atua\u00e7\u00e3o de profissional suspenso das atividades, \u00e0 luz do Estatuto, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "52",
         "options": [
             {
                 "correct": true,
-                "text": "caracteriza infra\u00e7\u00e3o disciplinar.",
+                "letter": "A",
                 "pmi": [
-                    -0.05488124525889885,
+                    0.0532770629200393,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "caracteriza infra\u00e7\u00e3o disciplinar."
             },
             {
                 "correct": null,
-                "text": "constitui mera irregularidade.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "constitui mera irregularidade."
             },
             {
                 "correct": null,
-                "text": "viola o sigilo profissional.",
+                "letter": "C",
                 "pmi": [
-                    -0.038438129095969976,
+                    0.06972017908296817,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "viola o sigilo profissional."
             },
             {
                 "correct": null,
-                "text": "gera a exclus\u00e3o da OAB.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "gera a exclus\u00e3o da OAB."
             }
         ],
-        "number": "52",
         "valid": true
     }
 ]

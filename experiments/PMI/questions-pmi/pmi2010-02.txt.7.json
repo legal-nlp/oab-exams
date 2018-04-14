@@ -1,9 +1,14 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Em rela\u00e7\u00e3o \u00e0 inova\u00e7\u00e3o da ordem constitucional que instituiu a nominada S\u00famula Vinculante, \u00e9 correto afirmar que:",
+        "filename": "2010-02.txt",
+        "number": "7",
         "options": [
             {
-                "text": "somente os Tribunais Superiores podem edit\u00e1-la.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -11,47 +16,42 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "somente os Tribunais Superiores podem edit\u00e1-la."
             },
             {
-                "text": "podem ser canceladas, mas vedada a mera revis\u00e3o.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.15971359423872566,
+                    0.11068217620861966,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "podem ser canceladas, mas vedada a mera revis\u00e3o."
             },
             {
-                "text": "a proposta para edi\u00e7\u00e3o da S\u00famula pode ser provocada pelos legitimados para a propositura da a\u00e7\u00e3o direta de inconstitucionalidade.",
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    0.010068832455093487,
+                    0.13024473043169144,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "a proposta para edi\u00e7\u00e3o da S\u00famula pode ser provocada pelos legitimados para a propositura da a\u00e7\u00e3o direta de inconstitucionalidade."
             },
             {
-                "text": "desde que haja reiteradas decis\u00f5es sobre mat\u00e9ria constitucional, o Supremo Tribunal Federal poder\u00e1, de of\u00edcio ou por provoca\u00e7\u00e3o, aprovar a S\u00famula mediante decis\u00e3o da maioria absoluta de seus membros.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.19000714595258544,
-                    -0.031046333562460393,
+                    0.11901659170152351,
+                    0.06255220236162068,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "desde que haja reiteradas decis\u00f5es sobre mat\u00e9ria constitucional, o Supremo Tribunal Federal poder\u00e1, de of\u00edcio ou por provoca\u00e7\u00e3o, aprovar a S\u00famula mediante decis\u00e3o da maioria absoluta de seus membros."
             }
         ],
-        "number": "7",
-        "areas": [
-            "CONSTITUTIONAL"
-        ],
-        "filename": "2010-02.txt",
-        "enum": "Em rela\u00e7\u00e3o \u00e0 inova\u00e7\u00e3o da ordem constitucional que instituiu a nominada S\u00famula Vinculante, \u00e9 correto afirmar que:"
+        "valid": true
     }
 ]

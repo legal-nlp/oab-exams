@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "J\u00falia, casada com Jos\u00e9 sob o regime da comunh\u00e3o universal de bens e m\u00e3e de dois filhos, Ana e Jo\u00e3o, fez testamento no qual destinava metade da parte dispon\u00edvel de seus bens \u00e0 constitui\u00e7\u00e3o de uma funda\u00e7\u00e3o de amparo a mulheres v\u00edtimas de viol\u00eancia obst\u00e9trica. Aberta a sucess\u00e3o, verificou-se que os bens destinados \u00e0 constitui\u00e7\u00e3o da funda\u00e7\u00e3o eram insuficientes para cumprir a finalidade pretendida por J\u00falia, que, por sua vez, nada estipulou em seu testamento caso se apresentasse a hip\u00f3tese de insufici\u00eancia de bens.\n\n Diante da situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "number": "43",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "A disposi\u00e7\u00e3o testament\u00e1ria ser\u00e1 nula e os bens ser\u00e3o distribu\u00eddos integralmente entre Ana e Jo\u00e3o."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "O testamento ser\u00e1 nulo e os bens ser\u00e3o integralmente divididos entre Jos\u00e9, Ana e Jo\u00e3o."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.005289914675906793,
+                    0.011969389820732272,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "C",
                 "text": "Os bens de J\u00falia ser\u00e3o incorporados \u00e0 outra funda\u00e7\u00e3o que tenha prop\u00f3sito igual ou semelhante ao amparo de mulheres v\u00edtimas de viol\u00eancia obst\u00e9trica."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.008659973540358364,
+                    0.010168358637793345,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "Os bens destinados ser\u00e3o incorporados \u00e0 outra funda\u00e7\u00e3o determinada pelos herdeiros necess\u00e1rios de J\u00falia, ap\u00f3s a aprova\u00e7\u00e3o do Minist\u00e9rio P\u00fablico."
             }
         ],
-        "number": "43",
-        "areas": [],
-        "valid": true,
-        "filename": "2016-19.txt"
+        "valid": true
     }
 ]

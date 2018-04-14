@@ -1,9 +1,9 @@
 [
     {
-        "number": "73",
-        "filename": "2015-18.txt",
-        "valid": true,
         "areas": [],
+        "enum": "Nelson foi contratado como vigilante, diretamente pelo Banco Moeda Firme, empresa que assinou a sua carteira profissional. Ele atua em diversas ag\u00eancias banc\u00e1rias e recebe adicional de periculosidade em seu contracheque.\n\n Sobre a categoria profissional de Nelson e em rela\u00e7\u00e3o ao adicional de periculosidade, assinale a op\u00e7\u00e3o correta de acordo com a jurisprud\u00eancia do TST.",
+        "filename": "2015-18.txt",
+        "number": "73",
         "options": [
             {
                 "correct": true,
@@ -50,6 +50,6 @@
                 "text": "A situa\u00e7\u00e3o \u00e9 irregular, pois o servi\u00e7o de vigilante precisa ser terceirizado."
             }
         ],
-        "enum": "Nelson foi contratado como vigilante, diretamente pelo Banco Moeda Firme, empresa que assinou a sua carteira profissional. Ele atua em diversas ag\u00eancias banc\u00e1rias e recebe adicional de periculosidade em seu contracheque.\n\n Sobre a categoria profissional de Nelson e em rela\u00e7\u00e3o ao adicional de periculosidade, assinale a op\u00e7\u00e3o correta de acordo com a jurisprud\u00eancia do TST."
+        "valid": true
     }
 ]

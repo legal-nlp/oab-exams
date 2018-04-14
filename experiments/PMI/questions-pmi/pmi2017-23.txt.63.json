@@ -1,7 +1,11 @@
 [
     {
-        "number": "63",
+        "areas": [
+            null
+        ],
         "enum": "Pedro, quando limpava sua arma de fogo, devidamente registrada em seu nome, que mantinha no interior da resid\u00eancia sem adotar os cuidados necess\u00e1rios, inclusive o de desmunici\u00e1-la, acaba, acidentalmente, por dispar\u00e1-la, vindo a atingir seu vizinho J\u00falio e a esposa deste, Maria. J\u00falio faleceu em raz\u00e3o da les\u00e3o causada pelo proj\u00e9til e Maria sofreu les\u00e3o corporal e debilidade permanente de membro. Preocupado com sua situa\u00e7\u00e3o jur\u00eddica, Pedro o procura para, na condi\u00e7\u00e3o de advogado, orient\u00e1-lo acerca das consequ\u00eancias do seu comportamento.\n\n Na oportunidade, considerando a situa\u00e7\u00e3o narrada, voc\u00ea dever\u00e1 esclarecer, sob o ponto de vista t\u00e9cnico, que ele poder\u00e1 vir a ser responsabilizado pelos crimes de",
+        "filename": "2017-23.txt",
+        "number": "63",
         "options": [
             {
                 "correct": null,
@@ -48,10 +52,6 @@
                 "text": "homic\u00eddio culposo e les\u00e3o corporal culposa, em concurso formal."
             }
         ],
-        "areas": [
-            null
-        ],
-        "valid": true,
-        "filename": "2017-23.txt"
+        "valid": true
     }
 ]

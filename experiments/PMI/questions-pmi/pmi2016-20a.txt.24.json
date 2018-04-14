@@ -1,13 +1,15 @@
 [
     {
-        "valid": true,
         "areas": [],
+        "enum": "Thomas, nacional dos Estados Unidos, deseja passar as f\u00e9rias com a esposa Mary, canadense, no Brasil. Para tanto, o casal obteve visto de turista, na forma da legisla\u00e7\u00e3o brasileira aplic\u00e1vel. Ap\u00f3s meses de expectativa, \u00e9 chegado o tempo de embarcar para o Brasil.\n\n A respeito da entrada e estada do casal no Brasil, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "24",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.11985795410721489,
+                    0.015339931116457768,
                     0.0,
                     0.0,
                     0.0
@@ -15,10 +17,10 @@
                 "text": "Caso desejem fixar resid\u00eancia no Brasil, Thomas e Mary poder\u00e3o pleitear a convers\u00e3o de seu visto para permanente."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.14213670034441436,
+                    0.020100761923992853,
                     0.0,
                     0.0,
                     0.0
@@ -26,10 +28,10 @@
                 "text": "Caso ultrapassem o prazo de estada no Brasil previsto em seus vistos, Thomas e Mary poder\u00e3o ser expulsos do Brasil."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.4030821318530353,
+                    0.01873527004482339,
                     0.0,
                     0.0,
                     0.0
@@ -37,10 +39,10 @@
                 "text": "Thomas e Mary poder\u00e3o solicitar ao Minist\u00e9rio da Justi\u00e7a a prorroga\u00e7\u00e3o de sua estada no Brasil por at\u00e9 1 ano."
             },
             {
-                "letter": "D",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.05152075991875325,
+                    0.018009581053421264,
                     0.0,
                     0.0,
                     0.0
@@ -48,8 +50,6 @@
                 "text": "Os vistos de turista concedidos a Thomas e a Mary configuram mera expectativa de direito, podendo sua entrada no territ\u00f3rio nacional ser obstada."
             }
         ],
-        "enum": "Thomas, nacional dos Estados Unidos, deseja passar as f\u00e9rias com a esposa Mary, canadense, no Brasil. Para tanto, o casal obteve visto de turista, na forma da legisla\u00e7\u00e3o brasileira aplic\u00e1vel. Ap\u00f3s meses de expectativa, \u00e9 chegado o tempo de embarcar para o Brasil.\n\n A respeito da entrada e estada do casal no Brasil, assinale a afirmativa correta.",
-        "filename": "2016-20a.txt",
-        "number": "24"
+        "valid": true
     }
 ]

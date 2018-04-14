@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Pl\u00ednio \u00e9 empregado da empresa Vigil\u00e2ncia e Seguran\u00e7a Ltda., a qual n\u00e3o lhe paga sal\u00e1rio h\u00e1 dois meses e n\u00e3o lhe fornece vale transporte h\u00e1 cinco meses. Pl\u00ednio n\u00e3o tem mais condi\u00e7\u00f5es de ir ao trabalho e n\u00e3o consegue prover seu sustento e de sua fam\u00edlia.\n\n Na qualidade de advogado(a) de Pl\u00ednio, de acordo com a CLT, assinale a op\u00e7\u00e3o que melhor atende aos interesses do seu cliente.",
         "filename": "2016-21.txt",
+        "number": "71",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
-                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por n\u00e3o concess\u00e3o do vale transporte, podendo permanecer, ou n\u00e3o, no servi\u00e7o at\u00e9 decis\u00e3o do processo.",
+                "letter": "A",
                 "pmi": [
-                    -0.03445609716125731,
+                    0.026894203696543734,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por n\u00e3o concess\u00e3o do vale transporte, podendo permanecer, ou n\u00e3o, no servi\u00e7o at\u00e9 decis\u00e3o do processo."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por mora salarial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por mora salarial."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por n\u00e3o concess\u00e3o do vale transporte, mas dever\u00e1 continuar trabalhando at\u00e9 a data da senten\u00e7a.",
                 "pmi": [
-                    -0.02441009232988839,
+                    0.01904637077772069,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo a rescis\u00e3o indireta em raz\u00e3o do descumprimento do contrato por n\u00e3o concess\u00e3o do vale transporte, mas dever\u00e1 continuar trabalhando at\u00e9 a data da senten\u00e7a."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo as parcelas decorrentes da ruptura contratual por pedido de demiss\u00e3o, al\u00e9m do vale transporte e sal\u00e1rios atrasados e indeniza\u00e7\u00e3o por dano moral, mas seu cliente deve pedir demiss\u00e3o.",
+                "letter": "D",
                 "pmi": [
-                    -0.008970314889445304,
+                    0.008412270353598325,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Propor uma a\u00e7\u00e3o trabalhista pedindo as parcelas decorrentes da ruptura contratual por pedido de demiss\u00e3o, al\u00e9m do vale transporte e sal\u00e1rios atrasados e indeniza\u00e7\u00e3o por dano moral, mas seu cliente deve pedir demiss\u00e3o."
             }
         ],
-        "areas": [],
-        "number": "71",
-        "valid": true,
-        "enum": "Pl\u00ednio \u00e9 empregado da empresa Vigil\u00e2ncia e Seguran\u00e7a Ltda., a qual n\u00e3o lhe paga sal\u00e1rio h\u00e1 dois meses e n\u00e3o lhe fornece vale transporte h\u00e1 cinco meses. Pl\u00ednio n\u00e3o tem mais condi\u00e7\u00f5es de ir ao trabalho e n\u00e3o consegue prover seu sustento e de sua fam\u00edlia.\n\n Na qualidade de advogado(a) de Pl\u00ednio, de acordo com a CLT, assinale a op\u00e7\u00e3o que melhor atende aos interesses do seu cliente."
+        "valid": true
     }
 ]

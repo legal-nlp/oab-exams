@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
+        "enum": "Na conven\u00e7\u00e3o coletiva de determinada categoria, ficou estipulado que o adicional de periculosidade seria pago na raz\u00e3o de 15% sobre o sal\u00e1rio-base, pois, comprovadamente, os trabalhadores permaneciam em situa\u00e7\u00e3o de risco durante metade da jornada cumprida.  Sobre a cl\u00e1usula em quest\u00e3o, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
         "number": "73",
         "options": [
             {
+                "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.019158158211155463,
+                    0.04573682669620741,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": true,
                 "text": "A cl\u00e1usula n\u00e3o \u00e9 v\u00e1lida, pois se trata de norma de ordem p\u00fablica."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "A validade da cl\u00e1usula depende de homologa\u00e7\u00e3o judicial."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.04034679767109209,
+                    0.002916525600483162,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "A cl\u00e1usula \u00e9 v\u00e1lida, porque a Constitui\u00e7\u00e3o da Rep\u00fablica garante efic\u00e1cia aos acordos e \u00e0s conven\u00e7\u00f5es coletivas."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "A legalidade da cl\u00e1usula ser\u00e1 avaliada pelo juiz, porque a Lei e o TST s\u00e3o silentes a respeito."
             }
         ],
-        "enum": "Na conven\u00e7\u00e3o coletiva de determinada categoria, ficou estipulado que o adicional de periculosidade seria pago na raz\u00e3o de 15% sobre o sal\u00e1rio-base, pois, comprovadamente, os trabalhadores permaneciam em situa\u00e7\u00e3o de risco durante metade da jornada cumprida.  Sobre a cl\u00e1usula em quest\u00e3o, assinale a afirmativa correta.",
-        "valid": true,
-        "filename": "2017-22.txt"
+        "valid": true
     }
 ]

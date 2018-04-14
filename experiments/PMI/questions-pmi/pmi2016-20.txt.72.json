@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "valid": true,
+        "enum": "L\u00facia trabalha na sede de uma estatal brasileira que fica em Bras\u00edlia. Seu contrato vigora h\u00e1 12 anos e, em raz\u00e3o de sua capacidade e experi\u00eancia, L\u00facia foi designada para trabalhar na nova filial do empregador que est\u00e1 sendo instalada na cidade do M\u00e9xico, o que foi imediatamente aceito.\n\n Em rela\u00e7\u00e3o \u00e0 situa\u00e7\u00e3o retratada e ao FGTS, \u00e0 luz do entendimento consolidado do TST, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "number": "72",
         "options": [
             {
-                "pmi": [
-                    -0.05058023024315536,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": true,
                 "letter": "A",
-                "text": "L\u00facia ter\u00e1 direito ao dep\u00f3sito do FGTS enquanto estiver trabalhando no M\u00e9xico, que dever\u00e1 continuar sendo depositado na sua conta vinculada no Brasil.",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.012901552891632488,
+                    0.03238210841682561,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "L\u00facia ter\u00e1 direito ao dep\u00f3sito do FGTS enquanto estiver trabalhando no M\u00e9xico, que dever\u00e1 continuar sendo depositado na sua conta vinculada no Brasil."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "Usando-se a teoria atomista, chega-se \u00e0 conclus\u00e3o que L\u00facia ter\u00e1 direito \u00e0 metade do FGTS, que ser\u00e1 depositado na sua conta vinculada.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.022116947814227125,
+                    0.01244805058780614,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Usando-se a teoria atomista, chega-se \u00e0 conclus\u00e3o que L\u00facia ter\u00e1 direito \u00e0 metade do FGTS, que ser\u00e1 depositado na sua conta vinculada."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "text": "Uma vez que na legisla\u00e7\u00e3o do M\u00e9xico n\u00e3o h\u00e1 previs\u00e3o de FGTS, L\u00facia n\u00e3o ter\u00e1 esse direito assegurado.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.022116947814227125,
+                    0.021339515293381954,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Uma vez que na legisla\u00e7\u00e3o do M\u00e9xico n\u00e3o h\u00e1 previs\u00e3o de FGTS, L\u00facia n\u00e3o ter\u00e1 esse direito assegurado."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "text": "Para que L\u00facia tenha direito ao FGTS, dever\u00e1 assinar documento pr\u00f3prio para tal fim, devidamente traduzido.",
-                "correct": null
+                "pmi": [
+                    0.021339515293381954,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Para que L\u00facia tenha direito ao FGTS, dever\u00e1 assinar documento pr\u00f3prio para tal fim, devidamente traduzido."
             }
         ],
-        "filename": "2016-20.txt",
-        "enum": "L\u00facia trabalha na sede de uma estatal brasileira que fica em Bras\u00edlia. Seu contrato vigora h\u00e1 12 anos e, em raz\u00e3o de sua capacidade e experi\u00eancia, L\u00facia foi designada para trabalhar na nova filial do empregador que est\u00e1 sendo instalada na cidade do M\u00e9xico, o que foi imediatamente aceito.\n\n Em rela\u00e7\u00e3o \u00e0 situa\u00e7\u00e3o retratada e ao FGTS, \u00e0 luz do entendimento consolidado do TST, assinale a afirmativa correta.",
-        "number": "72"
+        "valid": true
     }
 ]

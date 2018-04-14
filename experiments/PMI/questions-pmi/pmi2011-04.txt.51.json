@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "text": "H\u00e1 direito de prefer\u00eancia do s\u00f3cio no caso de aumento do capital social, exercendo, primeiro, esse direito o s\u00f3cio majorit\u00e1rio, que poder\u00e1 adquirir todas as quotas ou quantas lhe interessarem. Ap\u00f3s exercido esse direito, caso restem quotas a serem adquiridas, ter\u00e1 prefer\u00eancia sobre os demais quem tiver maior n\u00famero de quotas, e assim sucessivamente.",
-                "pmi": [
-                    -0.2607236945965172,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A"
-            },
-            {
-                "correct": null,
-                "text": "Para que haja aumento do capital social, n\u00e3o h\u00e1 necessidade de os s\u00f3cios terem integralizado totalmente suas quotas.",
-                "pmi": [
-                    -0.1056834620933912,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B"
-            },
-            {
-                "correct": true,
-                "text": "Uma das hip\u00f3teses para que haja diminui\u00e7\u00e3o do capital social \u00e9 que a sociedade tenha tido preju\u00edzos que n\u00e3o ser\u00e3o mais recuperados, devendo-se, nesse caso, haver diminui\u00e7\u00e3o proporcional do valor das quotas, tornando-se efetiva essa diminui\u00e7\u00e3o a partir do momento em que for feita a averba\u00e7\u00e3o no cart\u00f3rio competente da ata da assembleia que a aprovou.",
-                "pmi": [
-                    -0.0396312982850217,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C"
-            },
-            {
-                "correct": null,
-                "text": "A diminui\u00e7\u00e3o do valor do capital social \u00e9 direito da sociedade, n\u00e3o podendo haver obje\u00e7\u00e3o por parte dos credores.",
-                "pmi": [
-                    -0.3968124090062198,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D"
-            }
-        ],
         "areas": [
             "BUSINESS"
         ],
-        "filename": "2011-04.txt",
-        "valid": true,
         "enum": "Em rela\u00e7\u00e3o \u00e0 modifica\u00e7\u00e3o do capital social das sociedades limitadas, assinale a alternativa correta.",
-        "number": "51"
+        "filename": "2011-04.txt",
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.12864621484766012,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "H\u00e1 direito de prefer\u00eancia do s\u00f3cio no caso de aumento do capital social, exercendo, primeiro, esse direito o s\u00f3cio majorit\u00e1rio, que poder\u00e1 adquirir todas as quotas ou quantas lhe interessarem. Ap\u00f3s exercido esse direito, caso restem quotas a serem adquiridas, ter\u00e1 prefer\u00eancia sobre os demais quem tiver maior n\u00famero de quotas, e assim sucessivamente."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.16471230835395412,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Para que haja aumento do capital social, n\u00e3o h\u00e1 necessidade de os s\u00f3cios terem integralizado totalmente suas quotas."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.061767115632732794,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Uma das hip\u00f3teses para que haja diminui\u00e7\u00e3o do capital social \u00e9 que a sociedade tenha tido preju\u00edzos que n\u00e3o ser\u00e3o mais recuperados, devendo-se, nesse caso, haver diminui\u00e7\u00e3o proporcional do valor das quotas, tornando-se efetiva essa diminui\u00e7\u00e3o a partir do momento em que for feita a averba\u00e7\u00e3o no cart\u00f3rio competente da ata da assembleia que a aprovou."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.2791770171121436,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A diminui\u00e7\u00e3o do valor do capital social \u00e9 direito da sociedade, n\u00e3o podendo haver obje\u00e7\u00e3o por parte dos credores."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "O Munic\u00edpio Beta foi assolado por chuvas que provocaram o desabamento de v\u00e1rias encostas, que abalaram a estrutura de diversos im\u00f3veis, os quais amea\u00e7am ruir, especialmente se n\u00e3o houver imediata limpeza dos terrenos comprometidos. Diante do iminente perigo p\u00fablico a resid\u00eancias e \u00e0 vida de pessoas, o Poder P\u00fablico deve, prontamente, utilizar maquin\u00e1rio, que n\u00e3o consta de seu patrim\u00f4nio, para realizar as medidas de conten\u00e7\u00e3o pertinentes.\n\n Assinale a op\u00e7\u00e3o que indica a adequada modalidade de interven\u00e7\u00e3o na propriedade privada para a utiliza\u00e7\u00e3o do maquin\u00e1rio necess\u00e1rio.",
+        "filename": "2017-22.txt",
+        "number": "30",
         "options": [
             {
-                "text": "Requisi\u00e7\u00e3o administrativa.",
                 "correct": true,
                 "letter": "A",
                 "pmi": [
@@ -10,10 +15,10 @@
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Requisi\u00e7\u00e3o administrativa."
             },
             {
-                "text": "Tombamento.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
@@ -21,10 +26,10 @@
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "Tombamento."
             },
             {
-                "text": "Desapropria\u00e7\u00e3o.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
@@ -32,10 +37,10 @@
                     0,
                     0,
                     0
-                ]
+                ],
+                "text": "Desapropria\u00e7\u00e3o."
             },
             {
-                "text": "Servid\u00e3o administrativa.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
@@ -43,15 +48,10 @@
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Servid\u00e3o administrativa."
             }
         ],
-        "filename": "2017-22.txt",
-        "number": "30",
-        "areas": [
-            null
-        ],
-        "enum": "O Munic\u00edpio Beta foi assolado por chuvas que provocaram o desabamento de v\u00e1rias encostas, que abalaram a estrutura de diversos im\u00f3veis, os quais amea\u00e7am ruir, especialmente se n\u00e3o houver imediata limpeza dos terrenos comprometidos. Diante do iminente perigo p\u00fablico a resid\u00eancias e \u00e0 vida de pessoas, o Poder P\u00fablico deve, prontamente, utilizar maquin\u00e1rio, que n\u00e3o consta de seu patrim\u00f4nio, para realizar as medidas de conten\u00e7\u00e3o pertinentes.\n\n Assinale a op\u00e7\u00e3o que indica a adequada modalidade de interven\u00e7\u00e3o na propriedade privada para a utiliza\u00e7\u00e3o do maquin\u00e1rio necess\u00e1rio.",
         "valid": true
     }
 ]

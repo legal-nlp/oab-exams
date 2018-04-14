@@ -1,57 +1,57 @@
 [
     {
-        "number": "53",
-        "valid": true,
-        "options": [
-            {
-                "text": "A compet\u00eancia dos Juizados Especiais da Fazenda P\u00fablica \u00e9 absoluta para as causas cujo valor seja de at\u00e9 40 sal\u00e1rios m\u00ednimos, sendo dispens\u00e1vel a presen\u00e7a de advogado, se o valor da causa for de at\u00e9 20 sal\u00e1rios m\u00ednimos.",
-                "pmi": [
-                    -0.040280348608862614,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "A cita\u00e7\u00e3o do Estado como r\u00e9u sendo realizada, ele ter\u00e1 o prazo em qu\u00e1druplo para apresentar defesa.",
-                "pmi": [
-                    -0.108112218370132,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "text": "A senten\u00e7a que julgar procedente o pedido do autor em face da Fazenda P\u00fablica, dever\u00e1, independente do recurso das partes, ser remetida ao Tribunal de Justi\u00e7a, para julgamento da remessa de of\u00edcio.",
-                "pmi": [
-                    -0.17922765386914702,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C"
-            },
-            {
-                "text": "O cumprimento da senten\u00e7a transitada em julgado que imponha obriga\u00e7\u00e3o de fazer, n\u00e3o fazer ou entregar coisa ser\u00e1 efetuado mediante of\u00edcio do juiz \u00e0 autoridade citada para a causa, com c\u00f3pia da senten\u00e7a.",
-                "pmi": [
-                    -0.020361944425009777,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "D"
-            }
+        "areas": [
+            "CIVIL-PROCEDURE"
         ],
         "enum": "Os Juizados Especiais da Fazenda P\u00fablica, \u00f3rg\u00e3os da Justi\u00e7a comum e integrantes do Sistema dos Juizados Especiais, foram institu\u00eddos pela Lei n. 12.153/2009.\n\n Com base nessas disposi\u00e7\u00f5es, asinale a afirmativa correta.",
         "filename": "2012-09.txt",
-        "areas": [
-            "CIVIL-PROCEDURE"
-        ]
+        "number": "53",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.09605365329736193,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A compet\u00eancia dos Juizados Especiais da Fazenda P\u00fablica \u00e9 absoluta para as causas cujo valor seja de at\u00e9 40 sal\u00e1rios m\u00ednimos, sendo dispens\u00e1vel a presen\u00e7a de advogado, se o valor da causa for de at\u00e9 20 sal\u00e1rios m\u00ednimos."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.02432652633877184,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A cita\u00e7\u00e3o do Estado como r\u00e9u sendo realizada, ele ter\u00e1 o prazo em qu\u00e1druplo para apresentar defesa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.03890674918081226,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A senten\u00e7a que julgar procedente o pedido do autor em face da Fazenda P\u00fablica, dever\u00e1, independente do recurso das partes, ser remetida ao Tribunal de Justi\u00e7a, para julgamento da remessa de of\u00edcio."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.010540429340401123,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O cumprimento da senten\u00e7a transitada em julgado que imponha obriga\u00e7\u00e3o de fazer, n\u00e3o fazer ou entregar coisa ser\u00e1 efetuado mediante of\u00edcio do juiz \u00e0 autoridade citada para a causa, com c\u00f3pia da senten\u00e7a."
+            }
+        ],
+        "valid": true
     }
 ]

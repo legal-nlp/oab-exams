@@ -4,54 +4,54 @@
             "ADMINISTRATIVE"
         ],
         "enum": "De acordo com o crit\u00e9rio da titularidade, consideram-se p\u00fablicos os bens do dom\u00ednio nacional pertencentes",
+        "filename": "2011-05.txt",
+        "number": "32",
         "options": [
             {
-                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.3054769316252758,
+                    0.34347291744835307,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta."
             },
             {
-                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta, \u00e0s autarquias e \u00e0s empresas p\u00fablicas.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.21819780830376842,
+                    0.24533779817739504,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta, \u00e0s autarquias e \u00e0s empresas p\u00fablicas."
             },
             {
-                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno e \u00e0s pessoas jur\u00eddicas de direito privado prestadoras de servi\u00e7os p\u00fablicos.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.24917808516055626,
+                    0.29161345573413444,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno e \u00e0s pessoas jur\u00eddicas de direito privado prestadoras de servi\u00e7os p\u00fablicos."
             },
             {
-                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno.",
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.11609063516726802,
+                    0.15430513528007733,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno."
             }
         ],
-        "number": "32",
-        "filename": "2011-05.txt",
         "valid": true
     }
 ]

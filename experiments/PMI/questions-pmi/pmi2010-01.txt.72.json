@@ -1,11 +1,11 @@
 [
     {
-        "enum": "Os requisitos necess\u00e1rios \u00e0 caracteriza\u00e7\u00e3o do v\u00ednculo de emprego abrangem",
-        "valid": true,
-        "number": "72",
         "areas": [
             "LABOUR"
         ],
+        "enum": "Os requisitos necess\u00e1rios \u00e0 caracteriza\u00e7\u00e3o do v\u00ednculo de emprego abrangem",
+        "filename": "2010-01.txt",
+        "number": "72",
         "options": [
             {
                 "correct": null,
@@ -52,6 +52,6 @@
                 "text": "depend\u00eancia econ\u00f4mica, continuidade, subordina\u00e7\u00e3o e alteridade."
             }
         ],
-        "filename": "2010-01.txt"
+        "valid": true
     }
 ]

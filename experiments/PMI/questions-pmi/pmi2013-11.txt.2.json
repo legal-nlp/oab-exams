@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2013-11.txt",
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
+        "enum": "Cl\u00e1udio, advogado com vasta experi\u00eancia profissional, \u00e9 contratado pela sociedade LK Ltda. para gerenciar a carteira de devedores duvidosos, propondo acordos e, em \u00faltimo caso, as devidas a\u00e7\u00f5es judiciais. Ap\u00f3s um ano de sucesso na empreitada, Cl\u00e1udio postula aumento nos seus honor\u00e1rios, o que vem a ser recusado pelos representantes legais da sociedade. Insatisfeito com o desenrolar dos fatos, Cl\u00e1udio comunica que ir\u00e1 renunciar aos mandatos que lhe foram conferidos, notificando pessoalmente os representantes legais da sociedade que apuseram o seu ciente no ato de comunica\u00e7\u00e3o. Dez dias ap\u00f3s, a sociedade contratou novos advogados, que assumiram os processos em curso.\n\n Observado tal relato, baseado nas normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "2",
         "options": [
             {
-                "text": "A comunica\u00e7\u00e3o da ren\u00fancia do mandato n\u00e3o pode ser pessoal, para evitar conflitos com o cliente.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.03463923334564607,
+                    0.008817229761963,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A comunica\u00e7\u00e3o da ren\u00fancia do mandato n\u00e3o pode ser pessoal, para evitar conflitos com o cliente."
             },
             {
-                "text": "A ren\u00fancia ao mandato deve ser comunicada ao cliente, preferencialmente mediante carta com aviso de recep\u00e7\u00e3o.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.015066885776691645,
+                    0.003945316832887323,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A ren\u00fancia ao mandato deve ser comunicada ao cliente, preferencialmente mediante carta com aviso de recep\u00e7\u00e3o."
             },
             {
-                "text": "O advogado deve comunicar a ren\u00fancia ao mandato diretamente ao Ju\u00edzo da causa, que dever\u00e1 intimar a parte.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.04972960414788825,
+                    0.026319206290427628,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O advogado deve comunicar a ren\u00fancia ao mandato diretamente ao Ju\u00edzo da causa, que dever\u00e1 intimar a parte."
             },
             {
-                "text": "O advogado n\u00e3o tem o dever de comunicar \u00e0 parte a ren\u00fancia ao mandato judicial ou extrajudicial.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.06832296086781321,
+                    0.06204642845501401,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O advogado n\u00e3o tem o dever de comunicar \u00e0 parte a ren\u00fancia ao mandato judicial ou extrajudicial."
             }
         ],
-        "number": "2",
-        "enum": "Cl\u00e1udio, advogado com vasta experi\u00eancia profissional, \u00e9 contratado pela sociedade LK Ltda. para gerenciar a carteira de devedores duvidosos, propondo acordos e, em \u00faltimo caso, as devidas a\u00e7\u00f5es judiciais. Ap\u00f3s um ano de sucesso na empreitada, Cl\u00e1udio postula aumento nos seus honor\u00e1rios, o que vem a ser recusado pelos representantes legais da sociedade. Insatisfeito com o desenrolar dos fatos, Cl\u00e1udio comunica que ir\u00e1 renunciar aos mandatos que lhe foram conferidos, notificando pessoalmente os representantes legais da sociedade que apuseram o seu ciente no ato de comunica\u00e7\u00e3o. Dez dias ap\u00f3s, a sociedade contratou novos advogados, que assumiram os processos em curso.\n\n Observado tal relato, baseado nas normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta."
+        "valid": true
     }
 ]

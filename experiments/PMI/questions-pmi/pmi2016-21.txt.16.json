@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
-        "enum": "Finalizadas as Olimp\u00edadas no Brasil, certo deputado federal pelo Estado Beta, ex-desportista conhecido nacionalmente, resolve elaborar projeto de lei visando a melhorar a performance do Brasil nos Jogos Ol\u00edmpicos de 2020.\n\n Para realizar esse objetivo, o projeto disp\u00f5e que os recursos p\u00fablicos devem buscar promover, prioritariamente, o esporte de alto rendimento. Submetida a ideia \u00e0 sua assessoria jur\u00eddica, esta exteriorizou o \u00fanico posicionamento que se mostra harm\u00f4nico com o sistema jur\u00eddico-constitucional brasileiro, afirmando que o projeto",
         "areas": [],
+        "enum": "Finalizadas as Olimp\u00edadas no Brasil, certo deputado federal pelo Estado Beta, ex-desportista conhecido nacionalmente, resolve elaborar projeto de lei visando a melhorar a performance do Brasil nos Jogos Ol\u00edmpicos de 2020.\n\n Para realizar esse objetivo, o projeto disp\u00f5e que os recursos p\u00fablicos devem buscar promover, prioritariamente, o esporte de alto rendimento. Submetida a ideia \u00e0 sua assessoria jur\u00eddica, esta exteriorizou o \u00fanico posicionamento que se mostra harm\u00f4nico com o sistema jur\u00eddico-constitucional brasileiro, afirmando que o projeto",
+        "filename": "2016-21.txt",
+        "number": "16",
         "options": [
             {
-                "text": "\u00e9 constitucional, contanto que o desporto educacional tamb\u00e9m seja contemplado com uma parcela, mesmo que minorit\u00e1ria, dos recursos.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.04327099019941567,
+                    0.008506923290501529,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "\u00e9 constitucional, contanto que o desporto educacional tamb\u00e9m seja contemplado com uma parcela, mesmo que minorit\u00e1ria, dos recursos."
             },
             {
-                "text": "\u00e9 inconstitucional, pois, segundo a Constitui\u00e7\u00e3o da Rep\u00fablica, a destina\u00e7\u00e3o de recursos p\u00fablicos deve priorizar o desporto educacional.",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.07734864652836544,
+                    0.06072578944474708,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "\u00e9 inconstitucional, pois, segundo a Constitui\u00e7\u00e3o da Rep\u00fablica, a destina\u00e7\u00e3o de recursos p\u00fablicos deve priorizar o desporto educacional."
             },
             {
-                "text": "\u00e9 constitucional, pois, n\u00e3o havendo tratamento expl\u00edcito da quest\u00e3o pela Constitui\u00e7\u00e3o da Rep\u00fablica, o poder p\u00fablico tem discricionariedade para definir a destina\u00e7\u00e3o da verba.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.06149430419471333,
+                    0.03264735669604521,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "\u00e9 constitucional, pois, n\u00e3o havendo tratamento expl\u00edcito da quest\u00e3o pela Constitui\u00e7\u00e3o da Rep\u00fablica, o poder p\u00fablico tem discricionariedade para definir a destina\u00e7\u00e3o da verba."
             },
             {
-                "text": "\u00e9 inconstitucional, pois a Constitui\u00e7\u00e3o da Rep\u00fablica prev\u00ea que a destina\u00e7\u00e3o de recursos p\u00fablicos para o desporto contemplar\u00e1 exclusivamente o desporto educacional.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.05801148489627408,
+                    0.04554434208356031,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "\u00e9 inconstitucional, pois a Constitui\u00e7\u00e3o da Rep\u00fablica prev\u00ea que a destina\u00e7\u00e3o de recursos p\u00fablicos para o desporto contemplar\u00e1 exclusivamente o desporto educacional."
             }
         ],
-        "filename": "2016-21.txt",
-        "number": "16"
+        "valid": true
     }
 ]

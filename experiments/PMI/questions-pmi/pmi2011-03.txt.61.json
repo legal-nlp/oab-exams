@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-03.txt",
-        "number": "61",
-        "valid": true,
-        "enum": "A tortura, conduta expressamente proibida pela Constitui\u00e7\u00e3o Federal e lei espec\u00edfica,",
         "areas": [
             "CRIMINAL"
         ],
+        "enum": "A tortura, conduta expressamente proibida pela Constitui\u00e7\u00e3o Federal e lei espec\u00edfica,",
+        "filename": "2011-03.txt",
+        "number": "61",
         "options": [
             {
-                "text": "pode ser praticada por meio de uma conduta comissiva (positiva, por via de uma a\u00e7\u00e3o) ou omissiva (negativa, por via de uma absten\u00e7\u00e3o).",
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "pode ser praticada por meio de uma conduta comissiva (positiva, por via de uma a\u00e7\u00e3o) ou omissiva (negativa, por via de uma absten\u00e7\u00e3o)."
             },
             {
-                "text": "\u00e9 crime inafian\u00e7\u00e1vel, imprescrit\u00edvel e insuscet\u00edvel de gra\u00e7a ou anistia.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.1856170914242519,
+                    0.01717973641125711,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 crime inafian\u00e7\u00e1vel, imprescrit\u00edvel e insuscet\u00edvel de gra\u00e7a ou anistia."
             },
             {
-                "text": "exige, na sua configura\u00e7\u00e3o, que o autor provoque les\u00f5es corporais na v\u00edtima ao lhe proporcionar sofrimento f\u00edsico com o emprego de viol\u00eancia.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.2777377255723859,
+                    0.026457516180877546,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "exige, na sua configura\u00e7\u00e3o, que o autor provoque les\u00f5es corporais na v\u00edtima ao lhe proporcionar sofrimento f\u00edsico com o emprego de viol\u00eancia."
             },
             {
-                "text": "se reconhecida, n\u00e3o implicar\u00e1 aumento de pena, caso seja cometida por agente p\u00fablico.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.16263166008336769,
+                    -0.010534039206735943,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "se reconhecida, n\u00e3o implicar\u00e1 aumento de pena, caso seja cometida por agente p\u00fablico."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

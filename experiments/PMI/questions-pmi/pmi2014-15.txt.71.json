@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Paulo, empregado de uma empresa sider\u00fargica, \u00e9 portador do v\u00edrus HIV. Tomando conhecimento dessa not\u00edcia, o empregador o dispensou imotivadamente e pagou todas as verbas rescis\u00f3rias. No momento da dispensa, o chefe de Paulo afirmou que a dispensa somente ocorreu em raz\u00e3o de sua doen\u00e7a, apesar de ser um excelente profissional. Paulo, inconformado, ajuizou a\u00e7\u00e3o trabalhista para resguardar o seu direito.\n\n No caso, se o pedido for julgado procedente, Paulo tem direito a",
         "filename": "2014-15.txt",
-        "valid": true,
-        "areas": [],
+        "number": "71",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
                 "correct": true,
-                "text": "ser reintegrado.",
-                "letter": "A"
-            },
-            {
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "ser readmitido.",
-                "letter": "B"
+                "text": "ser reintegrado."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.022268351214944734,
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "ser readmitido."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.038570697135707974,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "receber apenas os sal\u00e1rios do per\u00edodo de afastamento.",
-                "letter": "C"
+                "text": "receber apenas os sal\u00e1rios do per\u00edodo de afastamento."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.09961493864857693,
+                    0.08290220640338117,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "receber apenas indeniza\u00e7\u00e3o por dano moral.",
-                "letter": "D"
+                "text": "receber apenas indeniza\u00e7\u00e3o por dano moral."
             }
         ],
-        "number": "71"
+        "valid": true
     }
 ]

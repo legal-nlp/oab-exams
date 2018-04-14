@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "pmi": [
-                    -0.29246630940363766,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em primeiro lugar.",
-                "letter": "A"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.29246630940363766,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em segundo lugar.",
-                "letter": "B"
-            },
-            {
-                "correct": true,
-                "pmi": [
-                    -0.29246630940363766,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em terceiro lugar.",
-                "letter": "C"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.29246630940363766,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em quarto lugar.",
-                "letter": "D"
-            }
-        ],
         "areas": [
             null
         ],
-        "filename": "2017-23.txt",
         "enum": "A massa falida X possui (i) d\u00e9bitos tribut\u00e1rios vencidos de Imposto sobre Circula\u00e7\u00e3o de Mercadorias e Servi\u00e7os \u2013 ICMS; (ii)d\u00e9bitos decorrentes da legisla\u00e7\u00e3o do trabalho, no valor de 30 sal\u00e1rios m\u00ednimos; (iii) d\u00e9bitos com os s\u00f3cios da massa falida X; e (iv) remunera\u00e7\u00e3o devida ao administrador da massa.\n\n Em tal quadro, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "23"
+        "filename": "2017-23.txt",
+        "number": "23",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.19424607740158398,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em primeiro lugar."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.19424607740158398,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em segundo lugar."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.19424607740158398,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em terceiro lugar."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.19424607740158398,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O d\u00e9bito de natureza tribut\u00e1ria ser\u00e1 pago em quarto lugar."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -3,55 +3,55 @@
         "areas": [
             "CIVIL-PROCEDURE"
         ],
+        "enum": "J\u00falia ingressou com a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos morais e materiais em face da Gr\u00e1fica Bela Escrita, bem como do Ateli\u00ea Alta-Costura, sob a alega\u00e7\u00e3o de que o seu casamento n\u00e3o p\u00f4de ser realizado tendo em vista que a Gr\u00e1fica escreveu o endere\u00e7o errado do local da cerim\u00f4nia em todos os convites confeccionados, e o Ateli\u00ea, por sua vez, n\u00e3o entregou o vestido de noiva no dia do casamento. Tendo sido ambos os r\u00e9us regularmente citados, o Ateli\u00ea Alta-Costura apresentou contesta\u00e7\u00e3o tempestiva, em que afirmou se isentar de responsabilidade, uma vez que o vestido de noiva j\u00e1 estava praticamente pronto, quando, na v\u00e9spera da cerim\u00f4nia, a noiva subitamente decidiu solicitar in\u00fameras altera\u00e7\u00f5es no modelo da roupa, o que inviabilizou a sua tempestiva entrega. A Gr\u00e1fica Bela Escrita, por seu turno, n\u00e3o se manifestou nos autos.\n\n A respeito da situa\u00e7\u00e3o descrita, \u00e9 correto afirmar que a contesta\u00e7\u00e3o apresentada pelo Ateli\u00ea Alta-Costura",
+        "filename": "2011-04.txt",
+        "number": "41",
         "options": [
             {
-                "text": "automaticamente aproveita \u00e0 Gr\u00e1fica Bela Escrita, n\u00e3o se operando o efeito material da revelia contra este r\u00e9u.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.03738038973208932,
+                    0.01253882942742059,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "automaticamente aproveita \u00e0 Gr\u00e1fica Bela Escrita, n\u00e3o se operando o efeito material da revelia contra este r\u00e9u."
             },
             {
-                "text": "reabre automaticamente o prazo para a apresenta\u00e7\u00e3o de contesta\u00e7\u00e3o pela Gr\u00e1fica Bela Escrita, operando-se o efeito material da revelia somente se este r\u00e9u, mesmo assim, permanecer inerte.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.02640612958150522,
+                    0.006873349858168052,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "reabre automaticamente o prazo para a apresenta\u00e7\u00e3o de contesta\u00e7\u00e3o pela Gr\u00e1fica Bela Escrita, operando-se o efeito material da revelia somente se este r\u00e9u, mesmo assim, permanecer inerte."
             },
             {
-                "text": "n\u00e3o aproveita \u00e0 Gr\u00e1fica Bela Escrita, operando-se o efeito material da revelia contra este r\u00e9u.",
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.04153376636898813,
+                    0.01393203269713399,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "n\u00e3o aproveita \u00e0 Gr\u00e1fica Bela Escrita, operando-se o efeito material da revelia contra este r\u00e9u."
             },
             {
-                "text": "aproveita \u00e0 Gr\u00e1fica Bela Escrita, n\u00e3o se operando o efeito material da revelia contra este r\u00e9u, desde que o Ateli\u00ea Alta-Costura, uma vez intimado, manifeste expressa concord\u00e2ncia.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.023362743582555825,
+                    0.007836768392137868,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "aproveita \u00e0 Gr\u00e1fica Bela Escrita, n\u00e3o se operando o efeito material da revelia contra este r\u00e9u, desde que o Ateli\u00ea Alta-Costura, uma vez intimado, manifeste expressa concord\u00e2ncia."
             }
         ],
-        "number": "41",
-        "filename": "2011-04.txt",
-        "enum": "J\u00falia ingressou com a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos morais e materiais em face da Gr\u00e1fica Bela Escrita, bem como do Ateli\u00ea Alta-Costura, sob a alega\u00e7\u00e3o de que o seu casamento n\u00e3o p\u00f4de ser realizado tendo em vista que a Gr\u00e1fica escreveu o endere\u00e7o errado do local da cerim\u00f4nia em todos os convites confeccionados, e o Ateli\u00ea, por sua vez, n\u00e3o entregou o vestido de noiva no dia do casamento. Tendo sido ambos os r\u00e9us regularmente citados, o Ateli\u00ea Alta-Costura apresentou contesta\u00e7\u00e3o tempestiva, em que afirmou se isentar de responsabilidade, uma vez que o vestido de noiva j\u00e1 estava praticamente pronto, quando, na v\u00e9spera da cerim\u00f4nia, a noiva subitamente decidiu solicitar in\u00fameras altera\u00e7\u00f5es no modelo da roupa, o que inviabilizou a sua tempestiva entrega. A Gr\u00e1fica Bela Escrita, por seu turno, n\u00e3o se manifestou nos autos.\n\n A respeito da situa\u00e7\u00e3o descrita, \u00e9 correto afirmar que a contesta\u00e7\u00e3o apresentada pelo Ateli\u00ea Alta-Costura",
         "valid": true
     }
 ]

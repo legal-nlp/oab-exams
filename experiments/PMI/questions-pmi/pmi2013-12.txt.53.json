@@ -1,57 +1,57 @@
 [
     {
-        "number": "53",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
-        "valid": true,
+        "enum": "A respeito da rela\u00e7\u00e3o entre a reconven\u00e7\u00e3o e a a\u00e7\u00e3o na qual ela foi oferecida, assinale a afirmativa correta.",
         "filename": "2013-12.txt",
+        "number": "53",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
-                "text": "S\u00e3o a\u00e7\u00f5es aut\u00f4nomas e, por isso, a reconven\u00e7\u00e3o n\u00e3o tem o seu prosseguimento obstado pela desist\u00eancia da a\u00e7\u00e3o primitiva.",
+                "letter": "A",
                 "pmi": [
-                    -0.4991943883193179,
+                    -0.1515426834584453,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "S\u00e3o a\u00e7\u00f5es aut\u00f4nomas e, por isso, a reconven\u00e7\u00e3o n\u00e3o tem o seu prosseguimento obstado pela desist\u00eancia da a\u00e7\u00e3o primitiva."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "Em caso de extin\u00e7\u00e3o da demanda primitiva, sem resolu\u00e7\u00e3o do m\u00e9rito, a reconven\u00e7\u00e3o n\u00e3o pode prosseguir, em raz\u00e3o da sua subordina\u00e7\u00e3o perante aquela.",
                 "pmi": [
-                    -0.22716268285084584,
+                    0.050958681037852234,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Em caso de extin\u00e7\u00e3o da demanda primitiva, sem resolu\u00e7\u00e3o do m\u00e9rito, a reconven\u00e7\u00e3o n\u00e3o pode prosseguir, em raz\u00e3o da sua subordina\u00e7\u00e3o perante aquela."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "A reconven\u00e7\u00e3o, por seu car\u00e1ter acess\u00f3rio, n\u00e3o deve ser conhecida, no caso de desist\u00eancia da a\u00e7\u00e3o primitiva, mas ter\u00e1 prosseguimento nos outros casos de extin\u00e7\u00e3o sem resolu\u00e7\u00e3o de m\u00e9rito.",
                 "pmi": [
-                    -0.45652742440205907,
+                    -0.028648403034831182,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A reconven\u00e7\u00e3o, por seu car\u00e1ter acess\u00f3rio, n\u00e3o deve ser conhecida, no caso de desist\u00eancia da a\u00e7\u00e3o primitiva, mas ter\u00e1 prosseguimento nos outros casos de extin\u00e7\u00e3o sem resolu\u00e7\u00e3o de m\u00e9rito."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "Em raz\u00e3o da prejudicialidade existente entre elas, a a\u00e7\u00e3o primitiva deve ser julgada em momento anterior \u00e0 reconven\u00e7\u00e3o.",
+                "letter": "D",
                 "pmi": [
-                    -0.28631423256499344,
+                    -0.1124883801345571,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Em raz\u00e3o da prejudicialidade existente entre elas, a a\u00e7\u00e3o primitiva deve ser julgada em momento anterior \u00e0 reconven\u00e7\u00e3o."
             }
         ],
-        "enum": "A respeito da rela\u00e7\u00e3o entre a reconven\u00e7\u00e3o e a a\u00e7\u00e3o na qual ela foi oferecida, assinale a afirmativa correta."
+        "valid": true
     }
 ]

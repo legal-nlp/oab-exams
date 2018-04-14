@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "Assinale a op\u00e7\u00e3o correta com rela\u00e7\u00e3o \u00e0 garantia constitucional do habeas corpus.",
+        "filename": "2010-01.txt",
+        "number": "20",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Caso uma decis\u00e3o de turma recursal de juizados especiais criminais constitua ato coator da liberdade de locomo\u00e7\u00e3o de um acusado, ser\u00e1 cab\u00edvel habeas corpus dirigido ao STJ.",
                 "pmi": [
-                    -0.061797826672813465,
+                    0.16996997656776827,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caso uma decis\u00e3o de turma recursal de juizados especiais criminais constitua ato coator da liberdade de locomo\u00e7\u00e3o de um acusado, ser\u00e1 cab\u00edvel habeas corpus dirigido ao STJ."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Caso a senten\u00e7a penal condenat\u00f3ria emanada de juiz militar imponha pena de exclus\u00e3o de militar ou de perda de patente, ser\u00e1 cab\u00edvel a utiliza\u00e7\u00e3o do habeas corpus.",
                 "pmi": [
-                    0.008403361344537815,
+                    0.09020376248827254,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caso a senten\u00e7a penal condenat\u00f3ria emanada de juiz militar imponha pena de exclus\u00e3o de militar ou de perda de patente, ser\u00e1 cab\u00edvel a utiliza\u00e7\u00e3o do habeas corpus."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "Caso ocorra, ao fim de um processo penal, a fixa\u00e7\u00e3o de pena de multa em senten\u00e7a penal condenat\u00f3ria, ficar\u00e1 prejudicada a utiliza\u00e7\u00e3o do habeas corpus, haja vista a sua destina\u00e7\u00e3o exclusiva \u00e0 tutela do direito de ir e vir.",
                 "pmi": [
-                    -0.04115206492127357,
+                    0.09128667978763026,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Caso ocorra, ao fim de um processo penal, a fixa\u00e7\u00e3o de pena de multa em senten\u00e7a penal condenat\u00f3ria, ficar\u00e1 prejudicada a utiliza\u00e7\u00e3o do habeas corpus, haja vista a sua destina\u00e7\u00e3o exclusiva \u00e0 tutela do direito de ir e vir."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "Ainda que j\u00e1 extinta a pena privativa de liberdade, \u00e9 cab\u00edvel a utiliza\u00e7\u00e3o de habeas corpus para pedido de reabilita\u00e7\u00e3o de paciente.",
                 "pmi": [
-                    0.0008716129332277569,
+                    0.2537092164684078,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Ainda que j\u00e1 extinta a pena privativa de liberdade, \u00e9 cab\u00edvel a utiliza\u00e7\u00e3o de habeas corpus para pedido de reabilita\u00e7\u00e3o de paciente."
             }
         ],
-        "areas": [
-            "CONSTITUTIONAL"
-        ],
-        "number": "20",
-        "valid": true,
-        "filename": "2010-01.txt",
-        "enum": "Assinale a op\u00e7\u00e3o correta com rela\u00e7\u00e3o \u00e0 garantia constitucional do habeas corpus."
+        "valid": true
     }
 ]

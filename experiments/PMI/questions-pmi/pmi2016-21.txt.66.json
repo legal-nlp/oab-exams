@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Marlon, Wellington e Vitor foram denunciados pela pr\u00e1tica de um crime de les\u00e3o corporal dolosa grav\u00edssima em concurso de agentes. Ap\u00f3s o recebimento da den\u00fancia, o oficial de justi\u00e7a compareceu ao endere\u00e7o indicado no processo como sendo de resid\u00eancia de Marlon, mas n\u00e3o o encontrou, tendo em vista que estava preso, naquela mesma unidade da Federa\u00e7\u00e3o, por decis\u00e3o oriunda de outro processo. Marlon, ent\u00e3o, foi citado por edital. Wellington, por sua vez, estava em local incerto e n\u00e3o sabido, sendo tamb\u00e9m citado por edital.\n\n Em rela\u00e7\u00e3o a Vitor, o oficial de justi\u00e7a foi \u00e0 sua resid\u00eancia em quatro oportunidades, constatando que ele, de fato, residia no local, mas que estava se ocultando para n\u00e3o ser citado. Ap\u00f3s certificar-se de tal fato, foi realizada a cita\u00e7\u00e3o de Vitor com hora certa.\n\n Considerando a hip\u00f3tese narrada, o(a) advogado(a) dos acusados dever\u00e1 alegar ter sido inv\u00e1lida a cita\u00e7\u00e3o de",
         "filename": "2016-21.txt",
         "number": "66",
-        "valid": true,
         "options": [
             {
+                "correct": true,
                 "letter": "A",
-                "text": "Marlon, apenas.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "correct": true
+                "text": "Marlon, apenas."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "Marlon e Vitor, apenas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "Marlon e Vitor, apenas."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "Vitor, apenas.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "Vitor, apenas."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "Marlon, Wellington e Vitor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Marlon, Wellington e Vitor."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

@@ -3,14 +3,15 @@
         "areas": [
             "CRIMINAL"
         ],
+        "enum": "Em 7 de fevereiro de 2010, Ana, utilizando-se do emprego de grave amea\u00e7a, constrange seu amigo Lucas, bem-sucedido advogado, a com ela praticar ato libidinoso diverso da conjun\u00e7\u00e3o carnal. Em 7 de agosto de 2010, Lucas comparece \u00e0 delegacia policial para noticiar o crime, tendo sido instaurado inqu\u00e9rito a fim de apurar as circunst\u00e2ncias do delito.\n\n A esse respeito, \u00e9 correto afirmar que o promotor de justi\u00e7a",
         "filename": "2011-03.txt",
-        "valid": true,
+        "number": "54",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.02511010642517329,
+                    0.02051917983781624,
                     0.0,
                     0.0,
                     0.0
@@ -21,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.034653058804988604,
+                    0.03171681212299616,
                     0.0,
                     0.0,
                     0.0
@@ -32,7 +33,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.022851399854583378,
+                    0.03509055095556206,
                     0.0,
                     0.0,
                     0.0
@@ -43,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.019471645674092725,
+                    0.01529352481199453,
                     0.0,
                     0.0,
                     0.0
@@ -51,7 +52,6 @@
                 "text": "dever\u00e1 oferecer den\u00fancia contra Ana pela pr\u00e1tica do crime de estupro, haja vista que, com a altera\u00e7\u00e3o do C\u00f3digo Penal, passou-se a admitir que pessoa do sexo masculino seja v\u00edtima de tal delito, sendo a a\u00e7\u00e3o penal p\u00fablica incondicionada."
             }
         ],
-        "enum": "Em 7 de fevereiro de 2010, Ana, utilizando-se do emprego de grave amea\u00e7a, constrange seu amigo Lucas, bem-sucedido advogado, a com ela praticar ato libidinoso diverso da conjun\u00e7\u00e3o carnal. Em 7 de agosto de 2010, Lucas comparece \u00e0 delegacia policial para noticiar o crime, tendo sido instaurado inqu\u00e9rito a fim de apurar as circunst\u00e2ncias do delito.\n\n A esse respeito, \u00e9 correto afirmar que o promotor de justi\u00e7a",
-        "number": "54"
+        "valid": true
     }
 ]

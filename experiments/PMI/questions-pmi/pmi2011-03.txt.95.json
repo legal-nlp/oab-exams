@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "CHILD"
         ],
         "enum": "Considerando a pr\u00e1tica de ato infracional por crian\u00e7a ou adolescente, \u00e9 correto afirmar que",
-        "number": "95",
         "filename": "2011-03.txt",
+        "number": "95",
         "options": [
             {
-                "text": "a presta\u00e7\u00e3o de servi\u00e7os comunit\u00e1rios consiste na realiza\u00e7\u00e3o de tarefas gratuitas de interesse geral, por per\u00edodo n\u00e3o excedente a 1 (um) ano, em entidades assistenciais, hospitais, escolas e outros estabelecimentos cong\u00eaneres, bem como em programas comunit\u00e1rios ou governamentais.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a presta\u00e7\u00e3o de servi\u00e7os comunit\u00e1rios consiste na realiza\u00e7\u00e3o de tarefas gratuitas de interesse geral, por per\u00edodo n\u00e3o excedente a 1 (um) ano, em entidades assistenciais, hospitais, escolas e outros estabelecimentos cong\u00eaneres, bem como em programas comunit\u00e1rios ou governamentais."
             },
             {
-                "text": "em se tratando de ato infracional com reflexos patrimoniais, a autoridade poder\u00e1 determinar, se for o caso, que o adolescente restitua a coisa, promova o ressarcimento do dano, ou, por outra forma, compense o preju\u00edzo da v\u00edtima.",
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.17650853781107886,
+                    0.20373551438050053,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "em se tratando de ato infracional com reflexos patrimoniais, a autoridade poder\u00e1 determinar, se for o caso, que o adolescente restitua a coisa, promova o ressarcimento do dano, ou, por outra forma, compense o preju\u00edzo da v\u00edtima."
             },
             {
-                "text": "a interna\u00e7\u00e3o, por constituir medida privativa de liberdade do menor, n\u00e3o poder\u00e1 exceder o per\u00edodo de 5 (cinco) anos.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.12296130848662552,
+                    0.02913631239000623,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a interna\u00e7\u00e3o, por constituir medida privativa de liberdade do menor, n\u00e3o poder\u00e1 exceder o per\u00edodo de 5 (cinco) anos."
             },
             {
-                "text": "entre as garantias processuais garantidas ao adolescente encontra-se o direito de solicitar a presen\u00e7a de seus pais ou respons\u00e1vel em qualquer fase do procedimento. Contudo, n\u00e3o poder\u00e1 o menor ser ouvido pessoalmente pela autoridade competente, devendo em todo o caso ser assistido pelos genitores.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.08934431117029792,
+                    0.09317283388166019,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "entre as garantias processuais garantidas ao adolescente encontra-se o direito de solicitar a presen\u00e7a de seus pais ou respons\u00e1vel em qualquer fase do procedimento. Contudo, n\u00e3o poder\u00e1 o menor ser ouvido pessoalmente pela autoridade competente, devendo em todo o caso ser assistido pelos genitores."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

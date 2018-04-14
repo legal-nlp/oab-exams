@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-06.txt",
-        "valid": true,
         "areas": [
             "CONSTITUTIONAL"
         ],
         "enum": "Jo\u00e3o, residente no Brasil h\u00e1 cinco anos, \u00e9 acusado em outro pa\u00eds de ter cometido crime pol\u00edtico. Nesse caso, o Brasil",
+        "filename": "2012-06.txt",
         "number": "19",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.17620907553903498,
+                    0.06714711786357583,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "pode conceder a extradi\u00e7\u00e3o se Jo\u00e3o for estrangeiro."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.08858122688060213,
+                    0.03309686982070327,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "pode conceder a extradi\u00e7\u00e3o se Jo\u00e3o for brasileiro naturalizado e tiver cometido o crime antes da naturaliza\u00e7\u00e3o."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "C",
                 "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o, independentemente da nacionalidade de Jo\u00e3o."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "n\u00e3o pode conceder a extradi\u00e7\u00e3o apenas se Jo\u00e3o for brasileiro nato."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

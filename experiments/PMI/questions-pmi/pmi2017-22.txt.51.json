@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "letter": "A",
-                "text": "Procede, porque o pressuposto para a aplica\u00e7\u00e3o da desconsidera\u00e7\u00e3o da personalidade jur\u00eddica \u00e9 sempre a conduta il\u00edcita do s\u00f3cio perpetrada por meio da personalidade da pessoa jur\u00eddica; portanto, \u00e9 imprescind\u00edvel a demonstra\u00e7\u00e3o cabal da culpa em a\u00e7\u00e3o de conhecimento.",
-                "pmi": [
-                    -0.11053054754795565,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": null,
-                "letter": "B",
-                "text": "Procede, porque o requerimento de instaura\u00e7\u00e3o do incidente de desconsidera\u00e7\u00e3o deve demonstrar o preenchimento dos pressupostos legais espec\u00edficos, dentre eles o desvio de finalidade da pessoa jur\u00eddica, que s\u00f3 pode ser feito em a\u00e7\u00e3o de conhecimento, onde estar\u00e3o preservados o contradit\u00f3rio e a ampla defesa.",
-                "pmi": [
-                    -0.1080438285178556,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": null,
-                "letter": "C",
-                "text": "N\u00e3o procede, porque, ao contr\u00e1rio do afirmado pelo advogado, o incidente de desconsidera\u00e7\u00e3o s\u00f3 \u00e9 cab\u00edvel no cumprimento de senten\u00e7a e na execu\u00e7\u00e3o de t\u00edtulo executivo extrajudicial, pois, no processo de conhecimento, a desconsidera\u00e7\u00e3o s\u00f3 pode ser decretada na senten\u00e7a de m\u00e9rito.",
-                "pmi": [
-                    -0.14289857803072314,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "correct": true,
-                "letter": "D",
-                "text": "N\u00e3o procede, porque o incidente de desconsidera\u00e7\u00e3o \u00e9 cab\u00edvel em todas as fases do processo de conhecimento, no cumprimento de senten\u00e7a e na execu\u00e7\u00e3o fundada em t\u00edtulo executivo extrajudicial.",
-                "pmi": [
-                    -0.1706950908320007,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             null
         ],
         "enum": "A instaura\u00e7\u00e3o do incidente de desconsidera\u00e7\u00e3o da personalidade jur\u00eddica foi requerida em um processo de execu\u00e7\u00e3o por t\u00edtulo extrajudicial.  Oadvogado do executado manifestou-se contrariamente ao pedido, sob a alega\u00e7\u00e3o de cerceamento de defesa de seu cliente, somente cabendo a desconsidera\u00e7\u00e3o se requerida em a\u00e7\u00e3o de conhecimento ajuizada especificamente contra o s\u00f3cio da sociedade empres\u00e1ria devedora.\n\n Sobre a argumenta\u00e7\u00e3o acima, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
-        "valid": true,
-        "number": "51"
+        "number": "51",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.035849117656622305,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Procede, porque o pressuposto para a aplica\u00e7\u00e3o da desconsidera\u00e7\u00e3o da personalidade jur\u00eddica \u00e9 sempre a conduta il\u00edcita do s\u00f3cio perpetrada por meio da personalidade da pessoa jur\u00eddica; portanto, \u00e9 imprescind\u00edvel a demonstra\u00e7\u00e3o cabal da culpa em a\u00e7\u00e3o de conhecimento."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.03706297003276948,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Procede, porque o requerimento de instaura\u00e7\u00e3o do incidente de desconsidera\u00e7\u00e3o deve demonstrar o preenchimento dos pressupostos legais espec\u00edficos, dentre eles o desvio de finalidade da pessoa jur\u00eddica, que s\u00f3 pode ser feito em a\u00e7\u00e3o de conhecimento, onde estar\u00e3o preservados o contradit\u00f3rio e a ampla defesa."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.062032953255685946,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o procede, porque, ao contr\u00e1rio do afirmado pelo advogado, o incidente de desconsidera\u00e7\u00e3o s\u00f3 \u00e9 cab\u00edvel no cumprimento de senten\u00e7a e na execu\u00e7\u00e3o de t\u00edtulo executivo extrajudicial, pois, no processo de conhecimento, a desconsidera\u00e7\u00e3o s\u00f3 pode ser decretada na senten\u00e7a de m\u00e9rito."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.0676946496440262,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o procede, porque o incidente de desconsidera\u00e7\u00e3o \u00e9 cab\u00edvel em todas as fases do processo de conhecimento, no cumprimento de senten\u00e7a e na execu\u00e7\u00e3o fundada em t\u00edtulo executivo extrajudicial."
+            }
+        ],
+        "valid": true
     }
 ]

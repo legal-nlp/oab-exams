@@ -3,55 +3,55 @@
         "areas": [
             "ETHICS"
         ],
-        "filename": "2012-07.txt",
-        "valid": true,
-        "number": "12",
         "enum": "Nos termos do Regulamento Geral do Estatuto da Advocacia e da OAB quanto \u00e0 aquisi\u00e7\u00e3o de patrim\u00f4nio pela Ordem dos Advogados do Brasil, revela-se correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "12",
         "options": [
             {
-                "text": "a aliena\u00e7\u00e3o de bens \u00e9 ato privativo do Presidente da Seccional da OAB.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.014882962336041096,
+                    0.09208679300576585,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a aliena\u00e7\u00e3o de bens \u00e9 ato privativo do Presidente da Seccional da OAB."
             },
             {
-                "text": "a aquisi\u00e7\u00e3o de bens depende de aprova\u00e7\u00e3o da Diretoria da OAB.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.017363456058714612,
+                    0.10743459184006014,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a aquisi\u00e7\u00e3o de bens depende de aprova\u00e7\u00e3o da Diretoria da OAB."
             },
             {
-                "text": "a onera\u00e7\u00e3o de bens \u00e9 ato do Presidente do Conselho Federal.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.020836147270457534,
+                    0.1289215102080722,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a onera\u00e7\u00e3o de bens \u00e9 ato do Presidente do Conselho Federal."
             },
             {
-                "text": "a disposi\u00e7\u00e3o sobre os bens m\u00f3veis \u00e9 atribui\u00e7\u00e3o do Presidente da Seccional.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.017363456058714612,
+                    0.10743459184006014,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a disposi\u00e7\u00e3o sobre os bens m\u00f3veis \u00e9 atribui\u00e7\u00e3o do Presidente da Seccional."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

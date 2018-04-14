@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-06.txt",
-        "enum": "Ares, objetivando passear com a bicicleta de \u00c1rtemis, desfere contra esta um soco. \u00c1rtemis cai, Ares pega a bicicleta e a utiliza durante todo o resto do dia, devolvendo-a ao anoitecer. Considerando os dados acima descritos, assinale a alternativa correta.",
-        "options": [
-            {
-                "text": "Ares praticou crime de roubo com a causa de diminui\u00e7\u00e3o de pena do arrependimento posterior.",
-                "letter": "A",
-                "correct": null,
-                "pmi": [
-                    -0.06769705162085948,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Ares praticou at\u00edpico penal.",
-                "letter": "B",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Ares praticou constrangimento ilegal.",
-                "letter": "C",
-                "correct": true,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "Ares praticou constrangimento legal com a causa de diminui\u00e7\u00e3o de pena do arrependimento posterior.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "valid": true,
         "areas": [
             "CRIMINAL"
         ],
-        "number": "62"
+        "enum": "Ares, objetivando passear com a bicicleta de \u00c1rtemis, desfere contra esta um soco. \u00c1rtemis cai, Ares pega a bicicleta e a utiliza durante todo o resto do dia, devolvendo-a ao anoitecer. Considerando os dados acima descritos, assinale a alternativa correta.",
+        "filename": "2012-06.txt",
+        "number": "62",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.026353651143434558,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ares praticou crime de roubo com a causa de diminui\u00e7\u00e3o de pena do arrependimento posterior."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ares praticou at\u00edpico penal."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ares praticou constrangimento ilegal."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ares praticou constrangimento legal com a causa de diminui\u00e7\u00e3o de pena do arrependimento posterior."
+            }
+        ],
+        "valid": true
     }
 ]

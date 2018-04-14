@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-03.txt",
-        "valid": true,
+        "areas": [
+            "LABOUR"
+        ],
         "enum": "Paulo possu\u00eda uma casa de campo, situada em regi\u00e3o rural da cidade de Muzambinho \u2013 MG, onde costumava passar todos os finais de semana e as f\u00e9rias com a sua fam\u00edlia. Contratou Francisco para cuidar de algumas cabe\u00e7as de gado destinadas \u00e0 venda de carne e de leite ao mercado local. Francisco trabalhava com pessoalidade e subordina\u00e7\u00e3o, de segunda a s\u00e1bado, das 11h \u00e0s 21h, recebendo um sal\u00e1rio m\u00ednimo mensal. Dispensado sem justa causa, ajuizou reclama\u00e7\u00e3o trabalhista em face de Paulo, postulando o pagamento de horas extraordin\u00e1rias, de adicional noturno e dos respectivos reflexos nas verbas decorrentes da execu\u00e7\u00e3o e da ruptura do contrato de trabalho. Aduziu, ainda, que n\u00e3o era observada pelo empregador a redu\u00e7\u00e3o da hora noturna. Diante dessa situa\u00e7\u00e3o hipot\u00e9tica e considerando que as verbas postuladas n\u00e3o foram efetivamente pagas pelo empregador, assinale a alternativa correta.",
+        "filename": "2011-03.txt",
         "number": "69",
         "options": [
             {
-                "pmi": [
-                    -0.04359788566244995,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, n\u00e3o lhe assistindo o direito \u00e0 redu\u00e7\u00e3o da hora noturna.",
-                "letter": "A"
-            },
-            {
+                "letter": "A",
                 "pmi": [
-                    -0.053823724577290344,
+                    0.03640962997676457,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias, mas n\u00e3o lhe assiste o direito ao pagamento de adicional noturno, j\u00e1 que n\u00e3o houve presta\u00e7\u00e3o de servi\u00e7os entre as 22h de um dia e as 5h do dia seguinte.",
-                "letter": "B"
+                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, n\u00e3o lhe assistindo o direito \u00e0 redu\u00e7\u00e3o da hora noturna."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.030697172246306022,
+                    0.05094802209310963,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Francisco n\u00e3o tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, por se tratar de empregado dom\u00e9stico.",
-                "letter": "C"
+                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias, mas n\u00e3o lhe assiste o direito ao pagamento de adicional noturno, j\u00e1 que n\u00e3o houve presta\u00e7\u00e3o de servi\u00e7os entre as 22h de um dia e as 5h do dia seguinte."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.007938827215445829,
+                    0.028567654153112142,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Francisco n\u00e3o tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, por se tratar de empregado dom\u00e9stico."
+            },
+            {
                 "correct": null,
-                "text": "A redu\u00e7\u00e3o da hora noturna deveria ter sido observada pelo empregador.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.014285482684335979,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A redu\u00e7\u00e3o da hora noturna deveria ter sido observada pelo empregador."
             }
         ],
-        "areas": [
-            "LABOUR"
-        ]
+        "valid": true
     }
 ]

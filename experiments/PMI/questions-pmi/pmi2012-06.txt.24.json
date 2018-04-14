@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "number": "24",
-        "filename": "2012-06.txt",
-        "options": [
-            {
-                "text": "Fernanda tem raz\u00e3o em seu questionamento, pois a sucess\u00e3o testament\u00e1ria de im\u00f3vel localizado no Brasil rege-se, inclusive quanto \u00e0 forma, pela lei do local onde a coisa se situa (lex rei sitae).",
-                "pmi": [
-                    -0.045582602805422395,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "Fernanda tem raz\u00e3o em questionar a validade do testamento, pois a Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro veda a partilha de bens im\u00f3veis situados no Brasil por ato testament\u00e1rio firmado no exterior.",
-                "pmi": [
-                    -0.11590028310378721,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "Fernanda n\u00e3o tem raz\u00e3o em questionar a validade do testamento, pois o ato testament\u00e1rio se rege, quanto \u00e0 forma, pela lei do local onde foi celebrado (locus regit actum).",
-                "pmi": [
-                    -0.07568106606978452,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": true
-            },
-            {
-                "text": "O questionamento de Fernanda n\u00e3o ser\u00e1 apreciado, pois a Justi\u00e7a brasileira n\u00e3o possui compet\u00eancia para conhecer e julgar o m\u00e9rito de a\u00e7\u00f5es que versem sobre atos testament\u00e1rios realizados no exterior.",
-                "pmi": [
-                    -0.06982663761385051,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "correct": null
-            }
-        ],
-        "enum": "Arnaldo Butti, cidad\u00e3o brasileiro, falece em Roma, It\u00e1lia, local onde residia e tinha domic\u00edlio. Em seu testamento, firmado em sua resid\u00eancia poucos dias antes de sua morte, Butti, que n\u00e3o tinha herdeiros naturais, deixou um im\u00f3vel localizado na Avenida Atl\u00e2ntica, na cidade do Rio de Janeiro, para J\u00falia, neta de sua enfermeira, que vive no Brasil. Inconformada com a partilha, Fernanda, brasileira, sobrinha-neta do falecido, que h\u00e1 dois anos vivia de favor no referido im\u00f3vel, questiona no Judici\u00e1rio brasileiro a validade do testamento. Alega, em s\u00edntese, que, embora obedecesse a todas as formalidades previstas na lei italiana, o ato n\u00e3o seguiu todas as formalidades preconizadas pela lei brasileira.\n\n Com base na hip\u00f3tese acima aventada, assinale a alternativa correta.",
         "areas": [
             "INTERNATIONAL"
-        ]
+        ],
+        "enum": "Arnaldo Butti, cidad\u00e3o brasileiro, falece em Roma, It\u00e1lia, local onde residia e tinha domic\u00edlio. Em seu testamento, firmado em sua resid\u00eancia poucos dias antes de sua morte, Butti, que n\u00e3o tinha herdeiros naturais, deixou um im\u00f3vel localizado na Avenida Atl\u00e2ntica, na cidade do Rio de Janeiro, para J\u00falia, neta de sua enfermeira, que vive no Brasil. Inconformada com a partilha, Fernanda, brasileira, sobrinha-neta do falecido, que h\u00e1 dois anos vivia de favor no referido im\u00f3vel, questiona no Judici\u00e1rio brasileiro a validade do testamento. Alega, em s\u00edntese, que, embora obedecesse a todas as formalidades previstas na lei italiana, o ato n\u00e3o seguiu todas as formalidades preconizadas pela lei brasileira.\n\n Com base na hip\u00f3tese acima aventada, assinale a alternativa correta.",
+        "filename": "2012-06.txt",
+        "number": "24",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0143204601859895,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Fernanda tem raz\u00e3o em seu questionamento, pois a sucess\u00e3o testament\u00e1ria de im\u00f3vel localizado no Brasil rege-se, inclusive quanto \u00e0 forma, pela lei do local onde a coisa se situa (lex rei sitae)."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.04134525724866901,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Fernanda tem raz\u00e3o em questionar a validade do testamento, pois a Lei de Introdu\u00e7\u00e3o \u00e0s Normas do Direito Brasileiro veda a partilha de bens im\u00f3veis situados no Brasil por ato testament\u00e1rio firmado no exterior."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.004957672572500714,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Fernanda n\u00e3o tem raz\u00e3o em questionar a validade do testamento, pois o ato testament\u00e1rio se rege, quanto \u00e0 forma, pela lei do local onde foi celebrado (locus regit actum)."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.005052191125414363,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O questionamento de Fernanda n\u00e3o ser\u00e1 apreciado, pois a Justi\u00e7a brasileira n\u00e3o possui compet\u00eancia para conhecer e julgar o m\u00e9rito de a\u00e7\u00f5es que versem sobre atos testament\u00e1rios realizados no exterior."
+            }
+        ],
+        "valid": true
     }
 ]

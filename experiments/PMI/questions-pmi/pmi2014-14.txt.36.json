@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A defini\u00e7\u00e3o dos espa\u00e7os territoriais especialmente protegidos \u00e9 fundamental para a manuten\u00e7\u00e3o dos processos ecol\u00f3gicos. Sobre o instituto da Reserva Legal, de acordo com o Novo C\u00f3digo Florestal (Lei n. 12.651/2012), assinale a afirmativa correta.",
         "areas": [
             "ENVIRONMENTAL"
         ],
+        "enum": "A defini\u00e7\u00e3o dos espa\u00e7os territoriais especialmente protegidos \u00e9 fundamental para a manuten\u00e7\u00e3o dos processos ecol\u00f3gicos. Sobre o instituto da Reserva Legal, de acordo com o Novo C\u00f3digo Florestal (Lei n. 12.651/2012), assinale a afirmativa correta.",
         "filename": "2014-14.txt",
-        "valid": true,
+        "number": "36",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.026746777653485543,
+                    0.09417555447203535,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Pode ser institu\u00eddo em \u00e1rea rural ou urbana, desde que necess\u00e1rio \u00e0 reabilita\u00e7\u00e3o dos processos ecol\u00f3gicos.",
-                "letter": "A"
+                "text": "Pode ser institu\u00eddo em \u00e1rea rural ou urbana, desde que necess\u00e1rio \u00e0 reabilita\u00e7\u00e3o dos processos ecol\u00f3gicos."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.0636600094698196,
+                    0.02098562301804502,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Incide apenas sobre im\u00f3veis rurais, e sua \u00e1rea deve ser mantida sem preju\u00edzo da aplica\u00e7\u00e3o das normas sobre as \u00c1reas de Preserva\u00e7\u00e3o Permanente.",
-                "letter": "B"
+                "text": "Incide apenas sobre im\u00f3veis rurais, e sua \u00e1rea deve ser mantida sem preju\u00edzo da aplica\u00e7\u00e3o das normas sobre as \u00c1reas de Preserva\u00e7\u00e3o Permanente."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.252175603568272,
+                    -0.021323878601368505,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Foi restringida, de acordo com a Lei n. 12.651/2012, \u00e0s propriedades abrangidas por Unidades de Conserva\u00e7\u00e3o.",
-                "letter": "C"
+                "text": "Foi restringida, de acordo com a Lei n. 12.651/2012, \u00e0s propriedades abrangidas por Unidades de Conserva\u00e7\u00e3o."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.037650614478348145,
+                    0.009374736903798869,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Incide apenas sobre im\u00f3veis p\u00fablicos, consistindo em \u00e1rea protegida para a preserva\u00e7\u00e3o da estabilidade geol\u00f3gica e da biodiversidade.",
-                "letter": "D"
+                "text": "Incide apenas sobre im\u00f3veis p\u00fablicos, consistindo em \u00e1rea protegida para a preserva\u00e7\u00e3o da estabilidade geol\u00f3gica e da biodiversidade."
             }
         ],
-        "number": "36"
+        "valid": true
     }
 ]

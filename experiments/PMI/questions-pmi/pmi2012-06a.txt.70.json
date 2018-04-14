@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "LABOUR"
+        ],
         "enum": "A respeito das altera\u00e7\u00f5es no contrato de trabalho, assinale a alternativa correta.",
+        "filename": "2012-06a.txt",
         "number": "70",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "Nos contratos individuais de trabalho, s\u00f3 \u00e9 l\u00edcita a altera\u00e7\u00e3o com a interveni\u00eancia do sindicato da categoria dos empregados, nos termos da CRFB, que autoriza a flexibiliza\u00e7\u00e3o, desde que por acordo ou conven\u00e7\u00e3o coletiva.",
-                "correct": null,
                 "pmi": [
-                    -0.01944468607768503,
+                    0.08871362210125311,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Nos contratos individuais de trabalho, s\u00f3 \u00e9 l\u00edcita a altera\u00e7\u00e3o com a interveni\u00eancia do sindicato da categoria dos empregados, nos termos da CRFB, que autoriza a flexibiliza\u00e7\u00e3o, desde que por acordo ou conven\u00e7\u00e3o coletiva."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "Desde que por m\u00fatuo consentimento, as altera\u00e7\u00f5es dos contratos ser\u00e3o l\u00edcitas, pois se prestigia a livre manifesta\u00e7\u00e3o de vontade das partes.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Desde que por m\u00fatuo consentimento, as altera\u00e7\u00f5es dos contratos ser\u00e3o l\u00edcitas, pois se prestigia a livre manifesta\u00e7\u00e3o de vontade das partes."
             },
             {
-                "letter": "C",
-                "text": "Nos contratos individuais de trabalho, a altera\u00e7\u00e3o s\u00f3 ser\u00e1 l\u00edcita se de comum acordo entre as partes e desde que n\u00e3o resultem qualquer tipo de preju\u00edzo ao empregado.",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Nos contratos individuais de trabalho, a altera\u00e7\u00e3o s\u00f3 ser\u00e1 l\u00edcita se de comum acordo entre as partes e desde que n\u00e3o resultem qualquer tipo de preju\u00edzo ao empregado."
             },
             {
-                "letter": "D",
-                "text": "A altera\u00e7\u00e3o do turno diurno de trabalho para o noturno ser\u00e1 l\u00edcita, mediante a concord\u00e2ncia do empregado, pois \u00e9 mais ben\u00e9fica a ele, j\u00e1 que a hora noturna \u00e9 menor que a diurna e h\u00e1 pagamento de adicional de 20%.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A altera\u00e7\u00e3o do turno diurno de trabalho para o noturno ser\u00e1 l\u00edcita, mediante a concord\u00e2ncia do empregado, pois \u00e9 mais ben\u00e9fica a ele, j\u00e1 que a hora noturna \u00e9 menor que a diurna e h\u00e1 pagamento de adicional de 20%."
             }
-        ],
-        "filename": "2012-06a.txt",
-        "areas": [
-            "LABOUR"
         ],
         "valid": true
     }

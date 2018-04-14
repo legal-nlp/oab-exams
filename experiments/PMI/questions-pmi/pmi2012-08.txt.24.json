@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    -0.0141086359557599,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A fraude para obter a entrada e perman\u00eancia no territ\u00f3rio brasileiro constitui motivo suficiente para a expuls\u00e3o do estrangeiro, cabendo, exclusivamente, ao Presidente da Rep\u00fablica, de forma discricion\u00e1ria, resolver sobre a conveni\u00eancia e oportunidade da sua retirada compuls\u00f3ria do Pa\u00eds.",
-                "letter": "A",
-                "correct": true
-            },
-            {
-                "pmi": [
-                    -0.012541194174692643,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O il\u00edcito dever\u00e1 ser apurado no \u00e2mbito do Minist\u00e9rio da Rela\u00e7\u00f5es Exteriores, tornando desnecess\u00e1ria a instaura\u00e7\u00e3o de processo administrativo ou inqu\u00e9rito para fins de apura\u00e7\u00e3o dos fatos que ensejam a expuls\u00e3o.",
-                "letter": "B",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.01578927451401883,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O m\u00e9rito do ato de expuls\u00e3o \u00e9 analisado mediante ju\u00edzo de conveni\u00eancia e oportunidade (discricionariedade), sendo descabido o ajuizamento de a\u00e7\u00e3o judicial para impugnar suposta les\u00e3o ou amea\u00e7a de les\u00e3o a direito, devendo, nesse caso, o juiz rejeitar a peti\u00e7\u00e3o inicial por impossibilidade jur\u00eddica do pedido.",
-                "letter": "C",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.0324940128972316,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A fraude para obter entrada e perman\u00eancia no territ\u00f3rio brasileiro n\u00e3o \u00e9 motivo para fundamentar ato de expuls\u00e3o de estrangeiro.",
-                "letter": "D",
-                "correct": null
-            }
-        ],
-        "enum": "Jean Pierre, cidad\u00e3o estrangeiro, foi preso em flagrante em raz\u00e3o de suposta pr\u00e1tica de crime de falsifica\u00e7\u00e3o de passaporte com o objetivo de viabilizar sua perman\u00eancia no Brasil.\n\n Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a afirmativa correta.",
-        "valid": true,
-        "filename": "2012-08.txt",
-        "number": "24",
         "areas": [
             "INTERNATIONAL"
-        ]
+        ],
+        "enum": "Jean Pierre, cidad\u00e3o estrangeiro, foi preso em flagrante em raz\u00e3o de suposta pr\u00e1tica de crime de falsifica\u00e7\u00e3o de passaporte com o objetivo de viabilizar sua perman\u00eancia no Brasil.\n\n Diante dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a afirmativa correta.",
+        "filename": "2012-08.txt",
+        "number": "24",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.028030964633436774,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A fraude para obter a entrada e perman\u00eancia no territ\u00f3rio brasileiro constitui motivo suficiente para a expuls\u00e3o do estrangeiro, cabendo, exclusivamente, ao Presidente da Rep\u00fablica, de forma discricion\u00e1ria, resolver sobre a conveni\u00eancia e oportunidade da sua retirada compuls\u00f3ria do Pa\u00eds."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.014725606206552267,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O il\u00edcito dever\u00e1 ser apurado no \u00e2mbito do Minist\u00e9rio da Rela\u00e7\u00f5es Exteriores, tornando desnecess\u00e1ria a instaura\u00e7\u00e3o de processo administrativo ou inqu\u00e9rito para fins de apura\u00e7\u00e3o dos fatos que ensejam a expuls\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.01854669633643772,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O m\u00e9rito do ato de expuls\u00e3o \u00e9 analisado mediante ju\u00edzo de conveni\u00eancia e oportunidade (discricionariedade), sendo descabido o ajuizamento de a\u00e7\u00e3o judicial para impugnar suposta les\u00e3o ou amea\u00e7a de les\u00e3o a direito, devendo, nesse caso, o juiz rejeitar a peti\u00e7\u00e3o inicial por impossibilidade jur\u00eddica do pedido."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.05178518828116175,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A fraude para obter entrada e perman\u00eancia no territ\u00f3rio brasileiro n\u00e3o \u00e9 motivo para fundamentar ato de expuls\u00e3o de estrangeiro."
+            }
+        ],
+        "valid": true
     }
 ]

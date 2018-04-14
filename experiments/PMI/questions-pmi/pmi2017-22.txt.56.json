@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "number": "56",
-        "valid": true,
         "enum": "Carlos ajuizou, em 18/03/2016, a\u00e7\u00e3o contra o Banco Sucesso, pelo procedimento comum, pretendendo a revis\u00e3o de determinadas cl\u00e1usulas de um contrato de abertura de cr\u00e9dito.  Ap\u00f3s a apresenta\u00e7\u00e3o de contesta\u00e7\u00e3o e r\u00e9plica, iniciou-se a fase de produ\u00e7\u00e3o de provas, tendo o Banco Sucesso requerido a produ\u00e7\u00e3o de prova pericial para demonstrar a aus\u00eancia de abusividade dos juros remunerat\u00f3rios. A prova foi indeferida e o pedido foi julgado procedente para revisar o contrato e limitar a cobran\u00e7a de tais juros.  Sobre a posi\u00e7\u00e3o do Banco Sucesso, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
+        "number": "56",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.06101229014422612,
+                    0.010986583643528558,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Ele deve interpor recurso de agravo de instrumento contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova. N\u00e3o o tendo feito, a quest\u00e3o est\u00e1 preclusa e n\u00e3o admite rediscuss\u00e3o.",
-                "correct": null,
-                "letter": "A"
+                "text": "Ele deve interpor recurso de agravo de instrumento contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova. N\u00e3o o tendo feito, a quest\u00e3o est\u00e1 preclusa e n\u00e3o admite rediscuss\u00e3o."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.0926224109828138,
+                    0.02257578707759367,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Ele deve apresentar peti\u00e7\u00e3o de protesto contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova, evitando-se a preclus\u00e3o, com o objetivo de rediscuti-la em apela\u00e7\u00e3o.",
-                "correct": null,
-                "letter": "B"
+                "text": "Ele deve apresentar peti\u00e7\u00e3o de protesto contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova, evitando-se a preclus\u00e3o, com o objetivo de rediscuti-la em apela\u00e7\u00e3o."
             },
             {
-                "pmi": [
-                    -0.07136281629568733,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Ele deve permanecer inerte em rela\u00e7\u00e3o \u00e0 decis\u00e3o de indeferimento de produ\u00e7\u00e3o de prova, mas poder\u00e1 rediscutir a quest\u00e3o em preliminar de apela\u00e7\u00e3o.",
                 "correct": true,
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.08952222147389582,
+                    0.01183588230349585,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Ele deve interpor recurso de agravo retido contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova, evitando-se a preclus\u00e3o, com o objetivo de rediscuti-la em apela\u00e7\u00e3o.",
+                "text": "Ele deve permanecer inerte em rela\u00e7\u00e3o \u00e0 decis\u00e3o de indeferimento de produ\u00e7\u00e3o de prova, mas poder\u00e1 rediscutir a quest\u00e3o em preliminar de apela\u00e7\u00e3o."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.017447533867911133,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ele deve interpor recurso de agravo retido contra a decis\u00e3o que indeferiu a produ\u00e7\u00e3o de prova, evitando-se a preclus\u00e3o, com o objetivo de rediscuti-la em apela\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

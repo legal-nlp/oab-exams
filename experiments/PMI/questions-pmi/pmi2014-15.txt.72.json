@@ -1,12 +1,12 @@
 [
     {
-        "number": "72",
-        "valid": true,
         "areas": [],
+        "enum": "Marlene trabalhou em uma resid\u00eancia como cozinheira de 5 de maio de 2013 a 6 de julho de 2014. Assinale a op\u00e7\u00e3o que contempla o direito inerente \u00e0 categoria profissional de Marlene, no per\u00edodo indicado, podendo ser exigido seu cumprimento de imediato pelo empregador.",
         "filename": "2014-15.txt",
+        "number": "72",
         "options": [
             {
-                "text": "Adicional noturno.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -14,10 +14,10 @@
                     0,
                     0
                 ],
-                "correct": null
+                "text": "Adicional noturno."
             },
             {
-                "text": "Horas extras.",
+                "correct": true,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -25,10 +25,10 @@
                     0,
                     0
                 ],
-                "correct": true
+                "text": "Horas extras."
             },
             {
-                "text": "FGTS obrigat\u00f3rio.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -36,10 +36,10 @@
                     0,
                     0
                 ],
-                "correct": null
+                "text": "FGTS obrigat\u00f3rio."
             },
             {
-                "text": "Seguro-desemprego obrigat\u00f3rio.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -47,9 +47,9 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Seguro-desemprego obrigat\u00f3rio."
             }
         ],
-        "enum": "Marlene trabalhou em uma resid\u00eancia como cozinheira de 5 de maio de 2013 a 6 de julho de 2014. Assinale a op\u00e7\u00e3o que contempla o direito inerente \u00e0 categoria profissional de Marlene, no per\u00edodo indicado, podendo ser exigido seu cumprimento de imediato pelo empregador."
+        "valid": true
     }
 ]

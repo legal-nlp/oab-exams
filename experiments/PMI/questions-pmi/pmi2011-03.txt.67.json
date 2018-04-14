@@ -3,53 +3,53 @@
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "number": "67",
-        "filename": "2011-03.txt",
         "enum": "Como se sabe, a pris\u00e3o processual (provis\u00f3ria ou cautelar) \u00e9 a decretada antes do tr\u00e2nsito em julgado de senten\u00e7a penal condenat\u00f3ria, nas hip\u00f3teses previstas em lei. A respeito de tal modalidade de pris\u00e3o, \u00e9 correto afirmar que",
+        "filename": "2011-03.txt",
+        "number": "67",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.020975130289942558,
+                    0.08042328362781194,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "em nosso ordenamento jur\u00eddico, a pris\u00e3o processual contempla as seguintes modalidades: pris\u00e3o em flagrante, preventiva, tempor\u00e1ria, por pron\u00fancia e em virtude de senten\u00e7a condenat\u00f3ria recorr\u00edvel.",
-                "correct": null,
-                "letter": "A"
+                "text": "em nosso ordenamento jur\u00eddico, a pris\u00e3o processual contempla as seguintes modalidades: pris\u00e3o em flagrante, preventiva, tempor\u00e1ria, por pron\u00fancia e em virtude de senten\u00e7a condenat\u00f3ria recorr\u00edvel."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.0964039311179282,
+                    0.05501770033258518,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "a pris\u00e3o tempor\u00e1ria tem como pressupostos a exist\u00eancia de ind\u00edcios de autoria e prova da materialidade, e como fundamentos a necessidade de garantia da ordem p\u00fablica, a conveni\u00eancia da instru\u00e7\u00e3o criminal, a necessidade de garantir a futura aplica\u00e7\u00e3o da lei penal e a garantia da ordem p\u00fablica.",
-                "correct": null,
-                "letter": "B"
+                "text": "a pris\u00e3o tempor\u00e1ria tem como pressupostos a exist\u00eancia de ind\u00edcios de autoria e prova da materialidade, e como fundamentos a necessidade de garantia da ordem p\u00fablica, a conveni\u00eancia da instru\u00e7\u00e3o criminal, a necessidade de garantir a futura aplica\u00e7\u00e3o da lei penal e a garantia da ordem p\u00fablica."
             },
             {
-                "pmi": [
-                    -0.09264014257936543,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "o prazo de dura\u00e7\u00e3o da pris\u00e3o tempor\u00e1ria \u00e9 de cinco dias, prorrog\u00e1vel por mais cinco em caso de extrema e comprovada necessidade. Em se tratando, todavia, de crime hediondo, a pris\u00e3o tempor\u00e1ria poder\u00e1 ser decretada pelo prazo de trinta dias, prorrog\u00e1vel por igual per\u00edodo.",
                 "correct": true,
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.02952301532991207,
+                    0.07194858725814914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "s\u00e3o requisitos da pris\u00e3o preventiva a sua imprescindibilidade para as investiga\u00e7\u00f5es do inqu\u00e9rito policial e o fato de o indiciado n\u00e3o ter resid\u00eancia fixa ou n\u00e3o fornecer elementos necess\u00e1rios ao esclarecimento de sua identidade.",
+                "text": "o prazo de dura\u00e7\u00e3o da pris\u00e3o tempor\u00e1ria \u00e9 de cinco dias, prorrog\u00e1vel por mais cinco em caso de extrema e comprovada necessidade. Em se tratando, todavia, de crime hediondo, a pris\u00e3o tempor\u00e1ria poder\u00e1 ser decretada pelo prazo de trinta dias, prorrog\u00e1vel por igual per\u00edodo."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0042764559760060964,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00e3o requisitos da pris\u00e3o preventiva a sua imprescindibilidade para as investiga\u00e7\u00f5es do inqu\u00e9rito policial e o fato de o indiciado n\u00e3o ter resid\u00eancia fixa ou n\u00e3o fornecer elementos necess\u00e1rios ao esclarecimento de sua identidade."
             }
         ],
         "valid": true

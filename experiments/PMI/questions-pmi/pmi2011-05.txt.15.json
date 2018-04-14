@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-05.txt",
+        "areas": [
+            "HUMAN-RIGHTS"
+        ],
         "enum": "No \u00e2mbito dos direitos humanos, a respeito do Incidente de Deslocamento de Compet\u00eancia, institu\u00eddo pela Emenda Constitucional 45, assinale a alternativa correta.",
+        "filename": "2011-05.txt",
+        "number": "15",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
-                "text": "Para assegurar o cumprimento de obriga\u00e7\u00f5es decorrentes de tratados internacionais de direitos humanos de que o Brasil seja parte, o Procurador-Geral da Rep\u00fablica pode suscitar, perante o Superior Tribunal de Justi\u00e7a, incidente de deslocamento de compet\u00eancia para a Justi\u00e7a Federal, nas hip\u00f3teses de graves viola\u00e7\u00f5es aos direitos humanos.",
                 "pmi": [
-                    -0.1687790564243859,
-                    0.011068853693288819,
+                    0.24840298940866132,
+                    0.1046673896173699,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Para assegurar o cumprimento de obriga\u00e7\u00f5es decorrentes de tratados internacionais de direitos humanos de que o Brasil seja parte, o Procurador-Geral da Rep\u00fablica pode suscitar, perante o Superior Tribunal de Justi\u00e7a, incidente de deslocamento de compet\u00eancia para a Justi\u00e7a Federal, nas hip\u00f3teses de graves viola\u00e7\u00f5es aos direitos humanos."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "O incidente de deslocamento de compet\u00eancia, embora garanta o cumprimento de obriga\u00e7\u00f5es do Estado brasileiro em rela\u00e7\u00e3o aos tratados internacionais de direitos humanos, n\u00e3o est\u00e1 relacionado com a razo\u00e1vel dura\u00e7\u00e3o do processo para a consecu\u00e7\u00e3o da finalidade de efetiva prote\u00e7\u00e3o dos direitos humanos.",
                 "pmi": [
-                    -0.0319712151794825,
+                    0.16668690188387328,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O incidente de deslocamento de compet\u00eancia, embora garanta o cumprimento de obriga\u00e7\u00f5es do Estado brasileiro em rela\u00e7\u00e3o aos tratados internacionais de direitos humanos, n\u00e3o est\u00e1 relacionado com a razo\u00e1vel dura\u00e7\u00e3o do processo para a consecu\u00e7\u00e3o da finalidade de efetiva prote\u00e7\u00e3o dos direitos humanos."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "Pelo incidente de deslocamento de compet\u00eancia, a Justi\u00e7a Federal s\u00f3 julgaria os casos relativos aos direitos humanos ap\u00f3s o Brasil ser responsabilizado internacionalmente.",
                 "pmi": [
-                    -0.1698499330764266,
-                    0.029352648938397247,
+                    0.31151396596170466,
+                    0.15415069683717203,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pelo incidente de deslocamento de compet\u00eancia, a Justi\u00e7a Federal s\u00f3 julgaria os casos relativos aos direitos humanos ap\u00f3s o Brasil ser responsabilizado internacionalmente."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "O incidente de deslocamento de compet\u00eancia se efetiva contrariamente ao princ\u00edpio do federalismo cooperativo por n\u00e3o obedecer \u00e0 hierarquia de compet\u00eancia para julgamento dos crimes comuns, mesmo no \u00e2mbito de ferimento aos direitos humanos.",
                 "pmi": [
-                    -0.03374263613609903,
+                    0.1980251671044827,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O incidente de deslocamento de compet\u00eancia se efetiva contrariamente ao princ\u00edpio do federalismo cooperativo por n\u00e3o obedecer \u00e0 hierarquia de compet\u00eancia para julgamento dos crimes comuns, mesmo no \u00e2mbito de ferimento aos direitos humanos."
             }
         ],
-        "valid": true,
-        "areas": [
-            "HUMAN-RIGHTS"
-        ],
-        "number": "15"
+        "valid": true
     }
 ]

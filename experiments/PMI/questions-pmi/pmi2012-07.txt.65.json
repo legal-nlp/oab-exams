@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "A Constitui\u00e7\u00e3o do Estado \u201cX\u201d estabeleceu foro por prerrogativa de fun\u00e7\u00e3o aos Prefeitos de todos os seus Munic\u00edpios, estabelecendo que \u201cos prefeitos ser\u00e3o julgados pelo Tribunal de Justi\u00e7a\".  Jos\u00e9, Prefeito do Munic\u00edpio \u201cY\u201d, pertencente ao Estado \u201cX\u201d, mata Jo\u00e3o, amante de sua esposa.  Pergunta-se, qual o \u00f3rg\u00e3o competente para o Julgamento de Jos\u00e9?",
+        "filename": "2012-07.txt",
         "number": "65",
         "options": [
             {
-                "text": "Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia;",
+                "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.2000408258972412,
+                    0.1476108789636314,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "A"
+                "text": "Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia;"
             },
             {
-                "text": "Tribunal de Justi\u00e7a;",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.4463855030316425,
-                    -0.1576174959481063,
+                    0.24891790669010266,
+                    0.2029101979816875,
                     0,
                     0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "Tribunal de Justi\u00e7a;"
             },
             {
-                "text": "Tribunal Regional Federal;",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.43344381604865734,
+                    0.26185959367308786,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "Tribunal Regional Federal;"
             },
             {
-                "text": "Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia.",
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.2649020086276847,
-                    -0.03787710354843332,
+                    0.16966262244840605,
+                    0.08229879442816462,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D"
+                "text": "Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia."
             }
         ],
-        "filename": "2012-07.txt",
-        "enum": "A Constitui\u00e7\u00e3o do Estado \u201cX\u201d estabeleceu foro por prerrogativa de fun\u00e7\u00e3o aos Prefeitos de todos os seus Munic\u00edpios, estabelecendo que \u201cos prefeitos ser\u00e3o julgados pelo Tribunal de Justi\u00e7a\".  Jos\u00e9, Prefeito do Munic\u00edpio \u201cY\u201d, pertencente ao Estado \u201cX\u201d, mata Jo\u00e3o, amante de sua esposa.  Pergunta-se, qual o \u00f3rg\u00e3o competente para o Julgamento de Jos\u00e9?"
+        "valid": true
     }
 ]

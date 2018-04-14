@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Reconhecida a pr\u00e1tica de um injusto culp\u00e1vel, o juiz realiza o processo de individualiza\u00e7\u00e3o da pena, de acordo com o Art. 68 do C\u00f3digo Penal.\n\n Segundo a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, assinale a afirmativa correta.",
+        "filename": "2015-17.txt",
+        "number": "59",
         "options": [
             {
-                "text": "A condena\u00e7\u00e3o com tr\u00e2nsito em julgado por crime praticado em data posterior ao delito pelo qual o agente est\u00e1 sendo julgado pode funcionar como maus antecedentes.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.09357606176637916,
+                    0.0847068638032991,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "A condena\u00e7\u00e3o com tr\u00e2nsito em julgado por crime praticado em data posterior ao delito pelo qual o agente est\u00e1 sendo julgado pode funcionar como maus antecedentes."
             },
             {
-                "text": "N\u00e3o se mostra poss\u00edvel a compensa\u00e7\u00e3o da agravante da reincid\u00eancia com a atenuante da confiss\u00e3o espont\u00e2nea.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "N\u00e3o se mostra poss\u00edvel a compensa\u00e7\u00e3o da agravante da reincid\u00eancia com a atenuante da confiss\u00e3o espont\u00e2nea."
             },
             {
-                "text": "Nada impede que a pena intermedi\u00e1ria, na segunda fase do crit\u00e9rio trif\u00e1sico, fique acomodada abaixo do m\u00ednimo legal.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.04345480607174296,
+                    0.040824395106650396,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Nada impede que a pena intermedi\u00e1ria, na segunda fase do crit\u00e9rio trif\u00e1sico, fique acomodada abaixo do m\u00ednimo legal."
             },
             {
-                "text": "O aumento da pena na terceira fase no roubo circunstanciado exige fundamenta\u00e7\u00e3o concreta, sendo insuficiente a simples men\u00e7\u00e3o ao n\u00famero de majorantes.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.009579414658246346,
+                    0.029048552548517275,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "O aumento da pena na terceira fase no roubo circunstanciado exige fundamenta\u00e7\u00e3o concreta, sendo insuficiente a simples men\u00e7\u00e3o ao n\u00famero de majorantes."
             }
         ],
-        "areas": [],
-        "valid": true,
-        "filename": "2015-17.txt",
-        "enum": "Reconhecida a pr\u00e1tica de um injusto culp\u00e1vel, o juiz realiza o processo de individualiza\u00e7\u00e3o da pena, de acordo com o Art. 68 do C\u00f3digo Penal.\n\n Segundo a jurisprud\u00eancia do Superior Tribunal de Justi\u00e7a, assinale a afirmativa correta.",
-        "number": "59"
+        "valid": true
     }
 ]

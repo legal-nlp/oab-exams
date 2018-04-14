@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "options": [
-            {
-                "pmi": [
-                    -0.04862575305174696,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "text": "A hipoteca existente em benef\u00edcio de Jovelino prevalece sobre eventual direito de Quincas, tendo em vista o princ\u00edpio da prioridade no registro.",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.0285689091058063,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "text": "A hipoteca \u00e9 um impeditivo para o reconhecimento da usucapi\u00e3o, tendo em vista a fun\u00e7\u00e3o social do cr\u00e9dito garantido.",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    -0.009310748584576074,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "text": "Como a usucapi\u00e3o \u00e9 modo origin\u00e1rio de aquisi\u00e7\u00e3o da propriedade, a hipoteca n\u00e3o \u00e9 capaz de impedir a sua consuma\u00e7\u00e3o.",
-                "correct": true
-            },
-            {
-                "pmi": [
-                    -0.01782783126908844,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "text": "Quincas pode adquirir, pela usucapi\u00e3o, o im\u00f3vel em quest\u00e3o, por\u00e9m ficar\u00e1 com o \u00f4nus de quitar o d\u00e9bito que a hipoteca garantia.",
-                "correct": null
-            }
-        ],
-        "number": "38",
         "enum": "Quincas adentra terreno vazio e, de forma p\u00fablica, passa a construir ali a sua moradia. Ap\u00f3s o exerc\u00edcio ininterrupto da posse por 17 (dezessete) anos, pleiteia judicialmente o reconhecimento da propriedade do bem pela usucapi\u00e3o.\n\n Durante o processo, constatou-se que o im\u00f3vel estava hipotecado em favor de Jovelino, para o pagamento de numer\u00e1rios devidos por Adib, propriet\u00e1rio do im\u00f3vel.\n\n Com base nos fatos apresentados, assinale a afirmativa correta.",
         "filename": "2017-24.txt",
+        "number": "38",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.036950051221698595,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A hipoteca existente em benef\u00edcio de Jovelino prevalece sobre eventual direito de Quincas, tendo em vista o princ\u00edpio da prioridade no registro."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.05486750006080312,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A hipoteca \u00e9 um impeditivo para o reconhecimento da usucapi\u00e3o, tendo em vista a fun\u00e7\u00e3o social do cr\u00e9dito garantido."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.021591625180834823,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Como a usucapi\u00e3o \u00e9 modo origin\u00e1rio de aquisi\u00e7\u00e3o da propriedade, a hipoteca n\u00e3o \u00e9 capaz de impedir a sua consuma\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.08330721014498359,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Quincas pode adquirir, pela usucapi\u00e3o, o im\u00f3vel em quest\u00e3o, por\u00e9m ficar\u00e1 com o \u00f4nus de quitar o d\u00e9bito que a hipoteca garantia."
+            }
+        ],
         "valid": true
     }
 ]

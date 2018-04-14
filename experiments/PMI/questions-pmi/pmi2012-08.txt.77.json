@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "A",
-                "text": "O TST.",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "B",
-                "text": "O STJ.",
-                "correct": null
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "letter": "C",
-                "text": "O TRT de Pernambuco.",
-                "correct": true
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
-                "letter": "D",
-                "text": "O STF.",
-                "correct": null
-            }
-        ],
-        "enum": "Se for instalado conflito de compet\u00eancia positivo entre dois ju\u00edzes do Trabalho do Estado de Pernambuco, qual ser\u00e1 o \u00f3rg\u00e3o competente para julg\u00e1-lo?",
-        "number": "77",
-        "filename": "2012-08.txt",
         "areas": [
             "LABOUR-PROCEDURE"
-        ]
+        ],
+        "enum": "Se for instalado conflito de compet\u00eancia positivo entre dois ju\u00edzes do Trabalho do Estado de Pernambuco, qual ser\u00e1 o \u00f3rg\u00e3o competente para julg\u00e1-lo?",
+        "filename": "2012-08.txt",
+        "number": "77",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "O TST."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "O STJ."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "O TRT de Pernambuco."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "O STF."
+            }
+        ],
+        "valid": true
     }
 ]

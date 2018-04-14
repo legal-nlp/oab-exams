@@ -5,53 +5,53 @@
         ],
         "enum": "O empres\u00e1rio individual Ives Diniz, em conluio com seus dois primos, realizou empr\u00e9stimos simulados a fim de obter cr\u00e9dito para si; por esse e outros motivos, foi decretada sua fal\u00eancia.\n\n No curso do processo falimentar, o administrador judicial verificou a pr\u00e1tica de outros atos praticados pelo devedor e seus primos, antes da fal\u00eancia; entre eles, a transfer\u00eancia de bens do estabelecimento a terceiros lastreados em pagamentos de d\u00edvidas fict\u00edcias, com n\u00edtido preju\u00edzo \u00e0 massa.\n\n De acordo com o enunciado e as disposi\u00e7\u00f5es da Lei de Fal\u00eancia e Recupera\u00e7\u00e3o de Empresas, o advogado contratado pelo administrador judicial para defender os direitos e interesses da massa dever\u00e1",
         "filename": "2017-24.txt",
+        "number": "50",
         "options": [
             {
-                "text": "requerer, no ju\u00edzo da fal\u00eancia, a instaura\u00e7\u00e3o do incidente de desconsidera\u00e7\u00e3o da personalidade jur\u00eddica.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.026540350980319254,
+                    0.01937591192583373,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "requerer, no ju\u00edzo da fal\u00eancia, a instaura\u00e7\u00e3o do incidente de desconsidera\u00e7\u00e3o da personalidade jur\u00eddica."
             },
             {
-                "text": "ajuizar a\u00e7\u00e3o revocat\u00f3ria em nome da massa falida no ju\u00edzo da fal\u00eancia.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.024371887344109527,
+                    0.02810384169149388,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ajuizar a\u00e7\u00e3o revocat\u00f3ria em nome da massa falida no ju\u00edzo da fal\u00eancia."
             },
             {
-                "text": "ajuizar a\u00e7\u00e3o pauliana em nome do administrador judicial no ju\u00edzo c\u00edvel.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.043016862457238625,
+                    0.06193459561396819,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "ajuizar a\u00e7\u00e3o pauliana em nome do administrador judicial no ju\u00edzo c\u00edvel."
             },
             {
-                "text": "requerer, no ju\u00edzo da fal\u00eancia, o sequestro dos bens dos primos do empres\u00e1rio como medida antecedente \u00e0 a\u00e7\u00e3o de responsabilidade civil.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.057183793706828634,
+                    0.019343311136759675,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "requerer, no ju\u00edzo da fal\u00eancia, o sequestro dos bens dos primos do empres\u00e1rio como medida antecedente \u00e0 a\u00e7\u00e3o de responsabilidade civil."
             }
         ],
-        "valid": true,
-        "number": "50"
+        "valid": true
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "Marieta firmou contrato com determinada sociedade empres\u00e1ria de g\u00eaneros aliment\u00edcios para o fornecimento de produtos para a festa de 15 anos de sua filha. O pagamento deveria ter sido feito por meio de boleto, mas a obriga\u00e7\u00e3o foi inadimplida e a sociedade empres\u00e1ria fornecedora de alimentos, observando todas as regras positivadas e sumulares cab\u00edveis, procedeu com a anota\u00e7\u00e3o leg\u00edtima e regular do nome de Marieta no cadastro negativo de cr\u00e9dito. Passados alguns dias, Marieta tentou adquirir um produto numa loja de departamentos mediante financiamento, mas o cr\u00e9dito lhe foi negado, motivo pelo qual a devedora providenciou o imediato pagamento dos valores devidos \u00e0 sociedade empres\u00e1ria de g\u00eaneros aliment\u00edcios. Superada a condi\u00e7\u00e3o de inadimplente, Marieta quer saber como deve proceder a fim de que seu nome seja exclu\u00eddo do cadastro negativo.\n\n A respeito do fato apresentado, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
         "number": "46",
-        "enum": "Marieta firmou contrato com determinada sociedade empres\u00e1ria de g\u00eaneros aliment\u00edcios para o fornecimento de produtos para a festa de 15 anos de sua filha. O pagamento deveria ter sido feito por meio de boleto, mas a obriga\u00e7\u00e3o foi inadimplida e a sociedade empres\u00e1ria fornecedora de alimentos, observando todas as regras positivadas e sumulares cab\u00edveis, procedeu com a anota\u00e7\u00e3o leg\u00edtima e regular do nome de Marieta no cadastro negativo de cr\u00e9dito. Passados alguns dias, Marieta tentou adquirir um produto numa loja de departamentos mediante financiamento, mas o cr\u00e9dito lhe foi negado, motivo pelo qual a devedora providenciou o imediato pagamento dos valores devidos \u00e0 sociedade empres\u00e1ria de g\u00eaneros aliment\u00edcios. Superada a condi\u00e7\u00e3o de inadimplente, Marieta quer saber como deve proceder a fim de que seu nome seja exclu\u00eddo do cadastro negativo.\n\n A respeito do fato apresentado, assinale a afirmativa correta.",
-        "areas": [],
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.0076364587337712925,
+                    0.034034122328319594,
                     0.0,
                     0.0,
                     0.0
@@ -32,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.01722580957592198,
+                    0.03992241588065981,
                     0.0,
                     0.0,
                     0.0
@@ -43,13 +42,14 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.010920380679026776,
+                    0.014478830635009574,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "Marieta dever\u00e1 comunicar a quita\u00e7\u00e3o diretamente ao \u00f3rg\u00e3o de cadastro negativo e, caso n\u00e3o seja feita a exclus\u00e3o imediata, a consumidora poder\u00e1 ingressar em ju\u00edzo pleiteando indeniza\u00e7\u00e3o apenas, pois a hip\u00f3tese comporta exclusivamente san\u00e7\u00e3o civil."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

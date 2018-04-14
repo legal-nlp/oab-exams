@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "letter": "A",
-                "pmi": [
-                    -0.24318045106248007,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "O bacharel em Direito pode exercer as fun\u00e7\u00f5es de Ger\u00eancia Jur\u00eddica mesmo que n\u00e3o tenha os requisitos para ingresso na Ordem dos Advogados."
-            },
-            {
-                "letter": "B",
-                "pmi": [
-                    -0.22113860751793504,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico \u00e9 privativa de advogados com regular inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados."
-            },
-            {
-                "letter": "C",
-                "pmi": [
-                    -0.22082557578478235,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "O bacharel em Direito, caso preencha os requisitos legais, inclusive aprova\u00e7\u00e3o em Exame de Ordem, pode exercer fun\u00e7\u00f5es de Gerente Jur\u00eddico antes da inscri\u00e7\u00e3o na Ordem dos Advogados."
-            },
-            {
-                "letter": "D",
-                "pmi": [
-                    -0.2574262064846048,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico, como \u00e9 de confian\u00e7a da empresa, pode ser exercida por quem n\u00e3o tem forma\u00e7\u00e3o na \u00e1rea."
-            }
-        ],
-        "number": "4",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Laura, advogada na \u00e1rea empresarial, ap\u00f3s concluir o mestrado em renomada institui\u00e7\u00e3o de ensino superior, \u00e9 convidada para integrar a equipe de assessoria jur\u00eddica da empresa K S/A . No dia da entrevista final, \u00e9 inquirida pelo Gerente Jur\u00eddico da empresa, bacharel em Direito, sem inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil, apesar de o mesmo ter logrado \u00eaxito no Exame de Ordem.\n\n Observado tal relato, consoante as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
         "filename": "2012-09.txt",
-        "valid": true,
-        "enum": "Laura, advogada na \u00e1rea empresarial, ap\u00f3s concluir o mestrado em renomada institui\u00e7\u00e3o de ensino superior, \u00e9 convidada para integrar a equipe de assessoria jur\u00eddica da empresa K S/A . No dia da entrevista final, \u00e9 inquirida pelo Gerente Jur\u00eddico da empresa, bacharel em Direito, sem inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil, apesar de o mesmo ter logrado \u00eaxito no Exame de Ordem.\n\n Observado tal relato, consoante as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta."
+        "number": "4",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.06654561326811549,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O bacharel em Direito pode exercer as fun\u00e7\u00f5es de Ger\u00eancia Jur\u00eddica mesmo que n\u00e3o tenha os requisitos para ingresso na Ordem dos Advogados."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.06646416650333219,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico \u00e9 privativa de advogados com regular inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.039448427854373636,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O bacharel em Direito, caso preencha os requisitos legais, inclusive aprova\u00e7\u00e3o em Exame de Ordem, pode exercer fun\u00e7\u00f5es de Gerente Jur\u00eddico antes da inscri\u00e7\u00e3o na Ordem dos Advogados."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.02701609749247273,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico, como \u00e9 de confian\u00e7a da empresa, pode ser exercida por quem n\u00e3o tem forma\u00e7\u00e3o na \u00e1rea."
+            }
+        ],
+        "valid": true
     }
 ]

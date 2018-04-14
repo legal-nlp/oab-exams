@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2014-13.txt",
-        "number": "8",
-        "options": [
-            {
-                "text": "realizar propaganda, mesmo moderada, da sua atividade.",
-                "pmi": [
-                    -0.08937184534610722,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "ofertar servi\u00e7os profissionais que impliquem exposi\u00e7\u00e3o de clientela.",
-                "pmi": [
-                    -0.018056202453664606,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": true
-            },
-            {
-                "text": "apresentar o seu curr\u00edculo profissional em p\u00fablico.",
-                "pmi": [
-                    -0.06308739021125721,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "distribuir cart\u00f5es de visita com seu endere\u00e7o profissional.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "correct": null
-            }
-        ],
         "areas": [
             "ETHICS"
         ],
         "enum": "A advogada Maria Vivian procura apresentar os seus servi\u00e7os profissionais como de excelente qualidade, utilizando a estrat\u00e9gia aprendida em tempos em que atuava no teatro, quando finalizava a pe\u00e7a pedindo indica\u00e7\u00e3o aos amigos, se tivesse aprovado o espet\u00e1culo e, caso negativo, indicasse aos inimigos. A par disso, organiza um sistema sofisticado de divulga\u00e7\u00e3o de material de propaganda, informando o n\u00famero de vit\u00f3rias obtido em v\u00e1rias causas com temas pr\u00f3prios das causas de massa.\n\n Nos termos do C\u00f3digo de \u00c9tica da Advocacia, o advogado n\u00e3o pode",
+        "filename": "2014-13.txt",
+        "number": "8",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.01643519526372358,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "realizar propaganda, mesmo moderada, da sua atividade."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.017212811082945655,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ofertar servi\u00e7os profissionais que impliquem exposi\u00e7\u00e3o de clientela."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.042719650398573575,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "apresentar o seu curr\u00edculo profissional em p\u00fablico."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "distribuir cart\u00f5es de visita com seu endere\u00e7o profissional."
+            }
+        ],
         "valid": true
     }
 ]

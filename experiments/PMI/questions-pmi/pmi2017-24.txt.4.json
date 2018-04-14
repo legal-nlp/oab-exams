@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "T\u00e2nia, advogada, dirigiu-se \u00e0 sala de audi\u00eancias de determinada Vara Criminal, a fim de acompanhar a realiza\u00e7\u00e3o das audi\u00eancias designadas para aquele dia em feitos nos quais n\u00e3o oficia. T\u00e2nia verificou que os processos n\u00e3o envolviam segredo de justi\u00e7a e buscou ingressar na sala de audi\u00eancias no hor\u00e1rio designado.\n\n N\u00e3o obstante, certo funcion\u00e1rio deu-lhe duas orienta\u00e7\u00f5es. A primeira orienta\u00e7\u00e3o foi de que ela n\u00e3o poderia permanecer no local se todas as cadeiras estivessem ocupadas, pois n\u00e3o seria autorizada a perman\u00eancia de advogados de p\u00e9, a fim de evitar tumulto na sala. A segunda orienta\u00e7\u00e3o foi no sentido de que, caso ingressassem na sala, T\u00e2nia e os demais presentes n\u00e3o poderiam sair at\u00e9 o fim de cada ato, salvo se houvesse licen\u00e7a do juiz, para evitar que a entrada e sa\u00edda de pessoas atrapalhasse o regular andamento das audi\u00eancias.\n\n Considerando o caso narrado, assinale a afirmativa correta.",
         "filename": "2017-24.txt",
         "number": "4",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.03165540425092989,
+                    0.024775017407646528,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "A primeira orienta\u00e7\u00e3o dada pelo funcion\u00e1rio viola os direitos assegurados ao advogado, pois T\u00e2nia possui o direito de permanecer, mesmo que de p\u00e9, na sala de audi\u00eancias. Todavia, a segunda orienta\u00e7\u00e3o coaduna-se com o poder-dever do magistrado de presidir e evitar tumulto no ato judicial, n\u00e3o violando, por si, direitos normatizados no Estatuto da OAB."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.03317860664814335,
+                    0.028542167040924608,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "A segunda orienta\u00e7\u00e3o dada pelo funcion\u00e1rio viola os direitos assegurados ao advogado, pois T\u00e2nia possui o direito de retirar-se a qualquer momento, indepentemente de licen\u00e7a do juiz, da sala de audi\u00eancias. Todavia, a primeira orienta\u00e7\u00e3o coaduna-se com o poder-dever do magistrado de presidir e evitar tumulto no ato judicial, n\u00e3o violando, por si, direitos normatizados no Estatuto da OAB."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.025976701081271578,
+                    0.02888620886456662,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "Ambas as orienta\u00e7\u00f5es violam os direitos assegurados, pelo Estatuto da OAB, ao advogado, pois T\u00e2nia possui o direito de permanecer, mesmo que de p\u00e9, na sala de audi\u00eancias, bem como de se retirar a qualquer momento, indepentemente de licen\u00e7a do juiz."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.033533079512534196,
+                    0.02289734214604223,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "Nenhuma das orienta\u00e7\u00f5es viola os direitos assegurados ao advogado, pois se coadunam com o poder-dever do magistrado de presidir e evitar tumulto no ato judicial, n\u00e3o contrariando, por si s\u00f3s, direitos normatizados no Estatuto da OAB."
             }
         ],
-        "areas": [
-            null
-        ],
-        "enum": "T\u00e2nia, advogada, dirigiu-se \u00e0 sala de audi\u00eancias de determinada Vara Criminal, a fim de acompanhar a realiza\u00e7\u00e3o das audi\u00eancias designadas para aquele dia em feitos nos quais n\u00e3o oficia. T\u00e2nia verificou que os processos n\u00e3o envolviam segredo de justi\u00e7a e buscou ingressar na sala de audi\u00eancias no hor\u00e1rio designado.\n\n N\u00e3o obstante, certo funcion\u00e1rio deu-lhe duas orienta\u00e7\u00f5es. A primeira orienta\u00e7\u00e3o foi de que ela n\u00e3o poderia permanecer no local se todas as cadeiras estivessem ocupadas, pois n\u00e3o seria autorizada a perman\u00eancia de advogados de p\u00e9, a fim de evitar tumulto na sala. A segunda orienta\u00e7\u00e3o foi no sentido de que, caso ingressassem na sala, T\u00e2nia e os demais presentes n\u00e3o poderiam sair at\u00e9 o fim de cada ato, salvo se houvesse licen\u00e7a do juiz, para evitar que a entrada e sa\u00edda de pessoas atrapalhasse o regular andamento das audi\u00eancias.\n\n Considerando o caso narrado, assinale a afirmativa correta.",
         "valid": true
     }
 ]

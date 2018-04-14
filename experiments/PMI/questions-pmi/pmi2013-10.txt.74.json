@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "filename": "2013-10.txt",
-        "enum": "Os direitos constitucionais relacionados a seguir j\u00e1 foram regulamentados por Lei, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.",
         "areas": [
             "LABOUR"
         ],
+        "enum": "Os direitos constitucionais relacionados a seguir j\u00e1 foram regulamentados por Lei, \u00e0 exce\u00e7\u00e3o de um. Assinale-o.",
+        "filename": "2013-10.txt",
+        "number": "74",
         "options": [
             {
-                "text": "Aviso pr\u00e9vio proporcional ao tempo de servi\u00e7o.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Aviso pr\u00e9vio proporcional ao tempo de servi\u00e7o."
             },
             {
-                "text": "Participa\u00e7\u00e3o nos lucros ou resultados.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.3892152080133567,
+                    0.016378447657661343,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Participa\u00e7\u00e3o nos lucros ou resultados."
             },
             {
-                "text": "Adicional por atividade penosa.",
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Adicional por atividade penosa."
             },
             {
-                "text": "Licen\u00e7a-paternidade.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Licen\u00e7a-paternidade."
             }
         ],
-        "number": "74"
+        "valid": true
     }
 ]

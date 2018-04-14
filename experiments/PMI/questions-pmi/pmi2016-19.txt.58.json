@@ -1,15 +1,15 @@
 [
     {
-        "filename": "2016-19.txt",
-        "valid": true,
-        "number": "58",
+        "areas": [],
         "enum": "Juliana ajuizou a\u00e7\u00e3o declarat\u00f3ria de inexist\u00eancia de d\u00e9bito cumulada com indeniza\u00e7\u00e3o por danos morais, com pedido de antecipa\u00e7\u00e3o dos efeitos da tutela para retirada de seu nome dos \u00f3rg\u00e3os de prote\u00e7\u00e3o ao cr\u00e9dito, em face de BG Financeira S/A, com quem mant\u00e9m contrato de empr\u00e9stimo banc\u00e1rio. A autora instruiu a inicial com os comprovantes de pagamento das presta\u00e7\u00f5es que atestam a pontualidade no cumprimento das parcelas do empr\u00e9stimo.\n\n Considerando a hip\u00f3tese narrada e as regras sobre a antecipa\u00e7\u00e3o de tutela prevista no C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "number": "58",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.3964824730694232,
+                    -0.007112563625245918,
                     0.0,
                     0.0,
                     0.0
@@ -17,10 +17,10 @@
                 "text": "O juiz somente poder\u00e1 conceder a antecipa\u00e7\u00e3o dos efeitos da tutela ap\u00f3s a BG Financeira S/A apresentar sua contesta\u00e7\u00e3o."
             },
             {
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.37093877960656263,
+                    0.018431129837614624,
                     0.0,
                     0.0,
                     0.0
@@ -28,10 +28,10 @@
                 "text": "Tendo sido demonstrados o fumus boni iuris e o periculum in mora, dever\u00e1 o juiz deferir a antecipa\u00e7\u00e3o dos efeitos da tutela, in limine, para a retirada do nome de Juliana dos \u00f3rg\u00e3os de restri\u00e7\u00e3o ao cr\u00e9dito."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.19218053142021832,
+                    0.021972918774079198,
                     0.0,
                     0.0,
                     0.0
@@ -39,10 +39,10 @@
                 "text": "A concess\u00e3o dos efeitos da tutela antecipada, uma vez deferida, somente perder\u00e1 sua efic\u00e1cia com o tr\u00e2nsito em julgado da senten\u00e7a."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.1487712988613773,
+                    0.015962124365005406,
                     0.0,
                     0.0,
                     0.0
@@ -50,6 +50,6 @@
                 "text": "O CPC veda expressamente a concess\u00e3o dos efeitos da tutela antecipada no bojo da senten\u00e7a que extingue o processo com resolu\u00e7\u00e3o de m\u00e9rito."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

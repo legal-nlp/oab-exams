@@ -3,30 +3,34 @@
         "areas": [
             "CIVIL"
         ],
+        "enum": "Marcelo, brasileiro, solteiro, advogado, sem que tenha qualquer impedimento para doar a casa de campo de sua livre propriedade, resolve faz\u00ea-lo, sem quaisquer \u00f4nus ou encargos, em benef\u00edcio de Marina, sua amiga, tamb\u00e9m absolutamente capaz. Todavia, no \u00e2mbito do contrato de doa\u00e7\u00e3o, Marcelo estipula cl\u00e1usula de revers\u00e3o por meio da qual o bem doado dever\u00e1 se destinar ao patrim\u00f4nio de R\u00f4mulo, irm\u00e3o de Marcelo, caso R\u00f4mulo sobreviva \u00e0 donat\u00e1ria. A respeito dessa situa\u00e7\u00e3o, \u00e9 correto afirmar que",
+        "filename": "2012-06.txt",
+        "number": "38",
         "options": [
             {
+                "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.0049723644848983,
+                    0.02332486730610296,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "diante de expressa previs\u00e3o legal, n\u00e3o prevalece a cl\u00e1usula de revers\u00e3o estipulada em favor de R\u00f4mulo."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.010618113769616182,
+                    0.009961691169293822,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "no caso, em raz\u00e3o de o contrato de doa\u00e7\u00e3o, por ser gratuito, comportar interpreta\u00e7\u00e3o extensiva, a cl\u00e1usula de revers\u00e3o em favor de terceiro \u00e9 v\u00e1lida."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -34,24 +38,20 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "a cl\u00e1usula em exame n\u00e3o \u00e9 v\u00e1lida em raz\u00e3o da rela\u00e7\u00e3o de parentesco entre o doador, Marcelo, e o terceiro benefici\u00e1rio, R\u00f4mulo."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.010156219175080172,
+                    0.02467114302922907,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "diante de expressa previs\u00e3o legal, a cl\u00e1usula de revers\u00e3o pode ser estipulada em favor do pr\u00f3prio doador ou de terceiro benefici\u00e1rio por aquele designado, caso qualquer deles, nessa ordem, sobreviva ao donat\u00e1rio."
             }
         ],
-        "valid": true,
-        "enum": "Marcelo, brasileiro, solteiro, advogado, sem que tenha qualquer impedimento para doar a casa de campo de sua livre propriedade, resolve faz\u00ea-lo, sem quaisquer \u00f4nus ou encargos, em benef\u00edcio de Marina, sua amiga, tamb\u00e9m absolutamente capaz. Todavia, no \u00e2mbito do contrato de doa\u00e7\u00e3o, Marcelo estipula cl\u00e1usula de revers\u00e3o por meio da qual o bem doado dever\u00e1 se destinar ao patrim\u00f4nio de R\u00f4mulo, irm\u00e3o de Marcelo, caso R\u00f4mulo sobreviva \u00e0 donat\u00e1ria. A respeito dessa situa\u00e7\u00e3o, \u00e9 correto afirmar que",
-        "number": "38",
-        "filename": "2012-06.txt"
+        "valid": true
     }
 ]

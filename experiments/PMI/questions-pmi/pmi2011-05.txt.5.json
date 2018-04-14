@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2011-05.txt",
         "areas": [
             "ETHICS"
         ],
-        "number": "5",
         "enum": "A Administra\u00e7\u00e3o P\u00fablica, por meio de determinado \u00f3rg\u00e3o, promove processo administrativo de natureza disciplinar em face do servidor p\u00fablico Francisco. O servidor contrata o advogado S\u00f3crates para defend\u00ea-lo. Munido do instrumento de mandato, S\u00f3crates requer vista dos autos do processo administrativo e posteriores intima\u00e7\u00f5es. O requerimento foi indeferido pela desnecessidade de advogado atuar no referido processo.\n\n Com base no relatado acima, \u00e0 luz das normas estatut\u00e1rias, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "5",
         "options": [
             {
-                "text": "o advogado n\u00e3o tem direito de atuar em processo administrativo.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    -0.2020368861509529,
+                    0.14406970002164915,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o advogado n\u00e3o tem direito de atuar em processo administrativo."
             },
             {
-                "text": "a atua\u00e7\u00e3o do advogado \u00e9 obrigat\u00f3ria nos processos administrativos.",
+                "correct": null,
                 "letter": "B",
-                "correct": null,
                 "pmi": [
-                    -0.04719376761658012,
+                    0.08259620219814565,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a atua\u00e7\u00e3o do advogado \u00e9 obrigat\u00f3ria nos processos administrativos."
             },
             {
-                "text": "o direito de vista \u00e9 aplic\u00e1vel ao processo administrativo.",
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.17411922632332197,
+                    0.12872403657770484,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o direito de vista \u00e9 aplic\u00e1vel ao processo administrativo."
             },
             {
-                "text": "nos processos disciplinares, a regra \u00e9 a da presen\u00e7a do advogado.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.053601984808465536,
+                    0.03292466173468497,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "nos processos disciplinares, a regra \u00e9 a da presen\u00e7a do advogado."
             }
         ],
         "valid": true

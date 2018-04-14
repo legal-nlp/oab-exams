@@ -1,55 +1,55 @@
 [
     {
-        "number": "42",
-        "enum": "A pe\u00e7a Liberdade, do famoso escultor L\u00facio, foi vendida para a Galeria da Vinci pela import\u00e2ncia de R$ 100.000,00 (cem mil reais). Ele se comprometeu a entregar a obra dez dias ap\u00f3s o recebimento da quantia estabelecida, que foi paga \u00e0 vista. A galeria organizou, ent\u00e3o, uma grande exposi\u00e7\u00e3o, na qual a principal atra\u00e7\u00e3o seria a escultura Liberdade. No dia ajustado, quando dirigia seu carro para fazer a entrega, L\u00facio avan\u00e7ou o sinal, colidiu com outro ve\u00edculo, e a obra foi completamente destru\u00edda. O an\u00fancio pela galeria de que a pe\u00e7a n\u00e3o seria mais exposta fez com que diversas pessoas exercessem o direito de restitui\u00e7\u00e3o dos valores pagos a t\u00edtulo de ingresso.\n\n Sobre os fatos narrados, assinale a afirmativa correta.",
         "areas": [],
-        "valid": true,
+        "enum": "A pe\u00e7a Liberdade, do famoso escultor L\u00facio, foi vendida para a Galeria da Vinci pela import\u00e2ncia de R$ 100.000,00 (cem mil reais). Ele se comprometeu a entregar a obra dez dias ap\u00f3s o recebimento da quantia estabelecida, que foi paga \u00e0 vista. A galeria organizou, ent\u00e3o, uma grande exposi\u00e7\u00e3o, na qual a principal atra\u00e7\u00e3o seria a escultura Liberdade. No dia ajustado, quando dirigia seu carro para fazer a entrega, L\u00facio avan\u00e7ou o sinal, colidiu com outro ve\u00edculo, e a obra foi completamente destru\u00edda. O an\u00fancio pela galeria de que a pe\u00e7a n\u00e3o seria mais exposta fez com que diversas pessoas exercessem o direito de restitui\u00e7\u00e3o dos valores pagos a t\u00edtulo de ingresso.\n\n Sobre os fatos narrados, assinale a afirmativa correta.",
+        "filename": "2016-19.txt",
+        "number": "42",
         "options": [
             {
                 "correct": null,
-                "text": "L\u00facio dever\u00e1 entregar outra obra de seu acervo \u00e0 escolha da Galeria da Vinci, em substitui\u00e7\u00e3o \u00e0 escultura Liberdade.",
+                "letter": "A",
                 "pmi": [
-                    -0.039276267076832884,
+                    -0.001325983505275637,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "L\u00facio dever\u00e1 entregar outra obra de seu acervo \u00e0 escolha da Galeria da Vinci, em substitui\u00e7\u00e3o \u00e0 escultura Liberdade."
             },
             {
                 "correct": true,
-                "text": "A Galeria da Vinci poder\u00e1 cobrar de L\u00facio o equivalente pecuni\u00e1rio da escultura Liberdade mais o preju\u00edzo decorrente da devolu\u00e7\u00e3o do valor dos ingressos relativos \u00e0 exposi\u00e7\u00e3o.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "A Galeria da Vinci poder\u00e1 cobrar de L\u00facio o equivalente pecuni\u00e1rio da escultura Liberdade mais o preju\u00edzo decorrente da devolu\u00e7\u00e3o do valor dos ingressos relativos \u00e0 exposi\u00e7\u00e3o."
             },
             {
                 "correct": null,
-                "text": "Por se tratar de obriga\u00e7\u00e3o de fazer infung\u00edvel, a Galeria da Vinci n\u00e3o poder\u00e1 mandar executar a presta\u00e7\u00e3o \u00e0s expensas de L\u00facio, restando-lhe pleitear perdas e danos.",
+                "letter": "C",
                 "pmi": [
-                    -0.05904108901185558,
+                    0.0019504381567185473,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Por se tratar de obriga\u00e7\u00e3o de fazer infung\u00edvel, a Galeria da Vinci n\u00e3o poder\u00e1 mandar executar a presta\u00e7\u00e3o \u00e0s expensas de L\u00facio, restando-lhe pleitear perdas e danos."
             },
             {
                 "correct": null,
-                "text": "Com o pagamento do pre\u00e7o, transferiu-se a propriedade da escultura para a Galeria da Vinci, raz\u00e3o pela qual ela deve suportar o preju\u00edzo pela perda do bem.",
+                "letter": "D",
                 "pmi": [
-                    -0.05536948852322766,
+                    0.0067309755029569185,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "Com o pagamento do pre\u00e7o, transferiu-se a propriedade da escultura para a Galeria da Vinci, raz\u00e3o pela qual ela deve suportar o preju\u00edzo pela perda do bem."
             }
         ],
-        "filename": "2016-19.txt"
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "Augusto, vi\u00favo, pai de Gustavo e Fernanda, conheceu Rita e com ela manteve, por dez anos, um relacionamento amoroso cont\u00ednuo, p\u00fablico, duradouro e com objetivo de constituir fam\u00edlia. Nesse per\u00edodo, Augusto n\u00e3o se preocupou em fazer o invent\u00e1rio dos bens adquiridos quando casado e em realizar a partilha entre os herdeiros Gustavo e Fernanda. Em meados de setembro do corrente ano, Augusto resolveu romper o relacionamento com Rita.\n\n Face aos fatos narrados e considerando as regras de Direito Civil, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-15.txt",
+        "number": "39",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.025879812768220316,
+                    0.012293707765522553,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A aus\u00eancia de partilha dos bens de Augusto com seus herdeiros Gustavo e Fernanda caracteriza causa suspensiva do casamento, o que obsta o reconhecimento da uni\u00e3o est\u00e1vel entre Rita e Augusto."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.05893646526874863,
+                    0.008662477343087708,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Sendo reconhecida a uni\u00e3o est\u00e1vel entre Augusto e Rita, aplicar-se-\u00e3o \u00e0 rela\u00e7\u00e3o patrimonial as regras do regime de comunh\u00e3o universal de bens, salvo se houver contrato dispondo de forma diversa."
             },
             {
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.005178639306512963,
+                    0.02810084013316031,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "Em raz\u00e3o do fim do relacionamento amoroso, Rita poder\u00e1 pleitear alimentos em desfavor de Augusto, devendo, para tanto, comprovar o bin\u00f4mio necessidade-possibilidade."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.016766300916979178,
+                    0.0012600837795105119,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "As d\u00edvidas contra\u00eddas por Augusto, na const\u00e2ncia do relacionamento com Rita, em proveito da entidade familiar, ser\u00e3o suportadas por Rita de forma subsidi\u00e1ria."
             }
         ],
-        "number": "39",
-        "areas": [],
-        "enum": "Augusto, vi\u00favo, pai de Gustavo e Fernanda, conheceu Rita e com ela manteve, por dez anos, um relacionamento amoroso cont\u00ednuo, p\u00fablico, duradouro e com objetivo de constituir fam\u00edlia. Nesse per\u00edodo, Augusto n\u00e3o se preocupou em fazer o invent\u00e1rio dos bens adquiridos quando casado e em realizar a partilha entre os herdeiros Gustavo e Fernanda. Em meados de setembro do corrente ano, Augusto resolveu romper o relacionamento com Rita.\n\n Face aos fatos narrados e considerando as regras de Direito Civil, assinale a op\u00e7\u00e3o correta.",
-        "filename": "2014-15.txt"
+        "valid": true
     }
 ]

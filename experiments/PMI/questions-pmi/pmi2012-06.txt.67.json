@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2012-06.txt",
-        "enum": "A Constitui\u00e7\u00e3o do Estado X estabeleceu foro por prerrogativa de fun\u00e7\u00e3o aos prefeitos de todos os seus Munic\u00edpios, estabelecendo que \u201cos prefeitos ser\u00e3o julgados pelo Tribunal de Justi\u00e7a\u201d. Jos\u00e9, Prefeito do Munic\u00edpio Y, pertencente ao Estado X, est\u00e1 sendo acusado da pr\u00e1tica de corrup\u00e7\u00e3o ativa em face de um policial rodovi\u00e1rio federal.\n\n Com base na situa\u00e7\u00e3o acima, o \u00f3rg\u00e3o competente para o julgamento de Jos\u00e9 \u00e9",
-        "number": "67",
-        "valid": true,
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "A Constitui\u00e7\u00e3o do Estado X estabeleceu foro por prerrogativa de fun\u00e7\u00e3o aos prefeitos de todos os seus Munic\u00edpios, estabelecendo que \u201cos prefeitos ser\u00e3o julgados pelo Tribunal de Justi\u00e7a\u201d. Jos\u00e9, Prefeito do Munic\u00edpio Y, pertencente ao Estado X, est\u00e1 sendo acusado da pr\u00e1tica de corrup\u00e7\u00e3o ativa em face de um policial rodovi\u00e1rio federal.\n\n Com base na situa\u00e7\u00e3o acima, o \u00f3rg\u00e3o competente para o julgamento de Jos\u00e9 \u00e9",
+        "filename": "2012-06.txt",
+        "number": "67",
         "options": [
             {
                 "correct": null,
-                "text": "a Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia.",
+                "letter": "A",
                 "pmi": [
-                    -0.20204916857708347,
+                    0.15582758642675595,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "a Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia."
             },
             {
                 "correct": null,
-                "text": "o Tribunal de Justi\u00e7a.",
+                "letter": "B",
                 "pmi": [
-                    -0.6816795300579299,
-                    -0.12895976941208698,
+                    0.17722468195128466,
+                    0.16601743471228977,
                     0,
                     0
                 ],
-                "letter": "B"
+                "text": "o Tribunal de Justi\u00e7a."
             },
             {
                 "correct": true,
-                "text": "o Tribunal Regional Federal.",
+                "letter": "C",
                 "pmi": [
-                    -0.5663323570809262,
+                    0.19713805359393125,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "o Tribunal Regional Federal."
             },
             {
                 "correct": null,
-                "text": "a Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia.",
+                "letter": "D",
                 "pmi": [
-                    -0.21815459534044623,
-                    -0.030990357448718173,
+                    0.13972215966339321,
+                    0.06733537725940741,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "a Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

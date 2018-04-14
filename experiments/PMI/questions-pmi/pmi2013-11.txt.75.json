@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
+        "enum": "Bernardo \u00e9 contratado a t\u00edtulo de experi\u00eancia para exercer a fun\u00e7\u00e3o de auxiliar de almoxarife, com prazo de 60 dias. Em seu contrato consta uma cl\u00e1usula assecurat\u00f3ria do direito rec\u00edproco de rescis\u00e3o. Quarenta dias depois do in\u00edcio do contrato, a empresa manifesta desejo de n\u00e3o mais permanecer com Bernardo em seus quadros.\n\n Diante disso, e considerando a legisla\u00e7\u00e3o de reg\u00eancia, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "75",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "Bernardo n\u00e3o ter\u00e1 direito a qualquer indeniza\u00e7\u00e3o por tratar-se de contrato de experi\u00eancia, de modo que sabia que a qualquer momento poderia ter o pacto rompido.",
                 "pmi": [
-                    -0.03525475925705362,
+                    0.04059652180350041,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Bernardo n\u00e3o ter\u00e1 direito a qualquer indeniza\u00e7\u00e3o por tratar-se de contrato de experi\u00eancia, de modo que sabia que a qualquer momento poderia ter o pacto rompido."
             },
             {
+                "correct": true,
                 "letter": "B",
-                "text": "Bernardo ter\u00e1 direito de receber aviso pr\u00e9vio e sua integra\u00e7\u00e3o para todos os fins, al\u00e9m dos proporcionais de 13\u00ba sal\u00e1rio, f\u00e9rias acrescidas de 1/3, saque do FGTS e indeniza\u00e7\u00e3o de 40% sobre o FGTS.",
                 "pmi": [
-                    -0.09263196923519246,
+                    0.0244717629284699,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "Bernardo ter\u00e1 direito de receber aviso pr\u00e9vio e sua integra\u00e7\u00e3o para todos os fins, al\u00e9m dos proporcionais de 13\u00ba sal\u00e1rio, f\u00e9rias acrescidas de 1/3, saque do FGTS e indeniza\u00e7\u00e3o de 40% sobre o FGTS."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "Bernardo receber\u00e1 como indeniza\u00e7\u00e3o metade dos dias que faltavam para o t\u00e9rmino do contrato \u2013 20 dias -, al\u00e9m dos proporcionais de 13\u00ba sal\u00e1rio e f\u00e9rias acrescidas de 1/3. Poder\u00e1 ainda sacar o FGTS, mas sem direito \u00e0 indeniza\u00e7\u00e3o de 40%.",
                 "pmi": [
-                    -0.10540983790552595,
+                    0.08421836474585907,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Bernardo receber\u00e1 como indeniza\u00e7\u00e3o metade dos dias que faltavam para o t\u00e9rmino do contrato \u2013 20 dias -, al\u00e9m dos proporcionais de 13\u00ba sal\u00e1rio e f\u00e9rias acrescidas de 1/3. Poder\u00e1 ainda sacar o FGTS, mas sem direito \u00e0 indeniza\u00e7\u00e3o de 40%."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "A empresa ser\u00e1 obrigada a ressarcir Bernardo dos preju\u00edzos que a este deu causa, al\u00e9m de ser obrigada a pagar, pela metade, todos os direitos como se fosse uma dispensa sem justa causa \u2013 aviso pr\u00e9vio, 13\u00ba proporcional, f\u00e9rias proporcionais acrescidas de 1/3 e 20% sobre o FGTS.",
                 "pmi": [
-                    -0.06188282375433991,
+                    0.010670575520972628,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "A empresa ser\u00e1 obrigada a ressarcir Bernardo dos preju\u00edzos que a este deu causa, al\u00e9m de ser obrigada a pagar, pela metade, todos os direitos como se fosse uma dispensa sem justa causa \u2013 aviso pr\u00e9vio, 13\u00ba proporcional, f\u00e9rias proporcionais acrescidas de 1/3 e 20% sobre o FGTS."
             }
         ],
-        "filename": "2013-11.txt",
-        "enum": "Bernardo \u00e9 contratado a t\u00edtulo de experi\u00eancia para exercer a fun\u00e7\u00e3o de auxiliar de almoxarife, com prazo de 60 dias. Em seu contrato consta uma cl\u00e1usula assecurat\u00f3ria do direito rec\u00edproco de rescis\u00e3o. Quarenta dias depois do in\u00edcio do contrato, a empresa manifesta desejo de n\u00e3o mais permanecer com Bernardo em seus quadros.\n\n Diante disso, e considerando a legisla\u00e7\u00e3o de reg\u00eancia, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "75"
+        "valid": true
     }
 ]

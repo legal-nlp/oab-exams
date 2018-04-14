@@ -1,57 +1,57 @@
 [
     {
-        "number": "29",
-        "valid": true,
-        "enum": "Joana D'Arc, benefici\u00e1ria de pens\u00e3o por morte deixada por ex-fiscal de rendas, falecido em 5/1/1999, ajuizou a\u00e7\u00e3o ordin\u00e1ria em face da Uni\u00e3o, alegando que determinado aumento remunerat\u00f3rio gen\u00e9rico concedido aos fiscais de renda em atividade n\u00e3o lhe teria sido repassado. Assim, isso teria violado a regra constitucional da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas. Acerca de tal alega\u00e7\u00e3o, \u00e9 correto afirmar que \u00e9 manifestamente",
-        "options": [
-            {
-                "letter": "A",
-                "correct": true,
-                "text": "procedente, pois, embora a regra da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas tenha sido revogada pela EC 41/2003, a pens\u00e3o por morte rege-se pela lei vigente \u00e0 \u00e9poca do \u00f3bito, quando ainda vigia tal regra.",
-                "pmi": [
-                    -0.13552526521652644,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "correct": null,
-                "text": "improcedente, pois, nos termos do verbete 339 da S\u00famula de Jurisprud\u00eancia do STF, n\u00e3o cabe ao Poder Judici\u00e1rio, que n\u00e3o tem fun\u00e7\u00e3o legislativa, aumentar vencimentos de servidores p\u00fablicos sob fundamento de isonomia.",
-                "pmi": [
-                    -0.13434312044767344,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "correct": null,
-                "text": "improcedente, pois a regra da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas foi revogada pela EC 41/2003, sendo absolutamente irrelevante o fato de o ex-servidor ter falecido antes da edi\u00e7\u00e3o da referida emenda.",
-                "pmi": [
-                    -0.16857512235691258,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "correct": null,
-                "text": "procedente, pois a CRFB garante o reajustamento da pens\u00e3o por morte dos benef\u00edcios para preservar-lhes, em car\u00e1ter permanente, o valor real, conforme crit\u00e9rios estabelecidos em lei.",
-                "pmi": [
-                    -0.17526069804109884,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "filename": "2012-06.txt"
+        "enum": "Joana D'Arc, benefici\u00e1ria de pens\u00e3o por morte deixada por ex-fiscal de rendas, falecido em 5/1/1999, ajuizou a\u00e7\u00e3o ordin\u00e1ria em face da Uni\u00e3o, alegando que determinado aumento remunerat\u00f3rio gen\u00e9rico concedido aos fiscais de renda em atividade n\u00e3o lhe teria sido repassado. Assim, isso teria violado a regra constitucional da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas. Acerca de tal alega\u00e7\u00e3o, \u00e9 correto afirmar que \u00e9 manifestamente",
+        "filename": "2012-06.txt",
+        "number": "29",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.052096289787754005,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "procedente, pois, embora a regra da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas tenha sido revogada pela EC 41/2003, a pens\u00e3o por morte rege-se pela lei vigente \u00e0 \u00e9poca do \u00f3bito, quando ainda vigia tal regra."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.015624281649173554,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "improcedente, pois, nos termos do verbete 339 da S\u00famula de Jurisprud\u00eancia do STF, n\u00e3o cabe ao Poder Judici\u00e1rio, que n\u00e3o tem fun\u00e7\u00e3o legislativa, aumentar vencimentos de servidores p\u00fablicos sob fundamento de isonomia."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.028427510397581894,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "improcedente, pois a regra da paridade remunerat\u00f3ria entre ativos, inativos e pensionistas foi revogada pela EC 41/2003, sendo absolutamente irrelevante o fato de o ex-servidor ter falecido antes da edi\u00e7\u00e3o da referida emenda."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.025604731434071975,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "procedente, pois a CRFB garante o reajustamento da pens\u00e3o por morte dos benef\u00edcios para preservar-lhes, em car\u00e1ter permanente, o valor real, conforme crit\u00e9rios estabelecidos em lei."
+            }
+        ],
+        "valid": true
     }
 ]

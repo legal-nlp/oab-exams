@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2017-22.txt",
+        "areas": [
+            null
+        ],
         "enum": "O Munic\u00edpio X instituiu taxa a ser cobrada, exclusivamente, sobre o servi\u00e7o p\u00fablico de coleta, remo\u00e7\u00e3o e tratamento de lixo e res\u00edduos provenientes de im\u00f3veis. A igreja ABC, com sede no Munic\u00edpio X, foi notificada da cobran\u00e7a da referida taxa.  Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "number": "26",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "As Igrejas s\u00e3o imunes; portanto, n\u00e3o devem pagar a taxa institu\u00edda pelo Munic\u00edpio X.",
                 "pmi": [
-                    -0.19781428427338765,
+                    -0.006006447108768303,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "As Igrejas s\u00e3o imunes; portanto, n\u00e3o devem pagar a taxa institu\u00edda pelo Munic\u00edpio X."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "A taxa \u00e9 inconstitucional, pois n\u00e3o \u00e9 espec\u00edfica e divis\u00edvel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A taxa \u00e9 inconstitucional, pois n\u00e3o \u00e9 espec\u00edfica e divis\u00edvel."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "A taxa \u00e9 inconstitucional, uma vez que os Munic\u00edpios n\u00e3o s\u00e3o competentes para a institui\u00e7\u00e3o de taxas de servi\u00e7o p\u00fablico.",
                 "pmi": [
-                    -0.24833384514677695,
+                    0.0873298698913069,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A taxa \u00e9 inconstitucional, uma vez que os Munic\u00edpios n\u00e3o s\u00e3o competentes para a institui\u00e7\u00e3o de taxas de servi\u00e7o p\u00fablico."
             },
             {
                 "correct": true,
                 "letter": "D",
-                "text": "A taxa \u00e9 constitucional e as Igrejas n\u00e3o s\u00e3o imunes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A taxa \u00e9 constitucional e as Igrejas n\u00e3o s\u00e3o imunes."
             }
         ],
-        "areas": [
-            null
-        ],
-        "valid": true,
-        "number": "26"
+        "valid": true
     }
 ]

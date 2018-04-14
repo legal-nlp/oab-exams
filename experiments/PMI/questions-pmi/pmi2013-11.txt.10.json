@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Ferrari \u00e9 aluno destacado no curso de Direito, tendo, no decorrer dos anos, conseguido v\u00e1rios t\u00edtulos universit\u00e1rios, dentre eles, medalhas e certificados. Indicado para representar a Universidade em que estudou, foi premiado em evento internacional sobre arbitragem. A repercuss\u00e3o desse fato aumentou seu prest\u00edgio e, por isso, recebeu numerosos convites para trabalhar em diversos escrit\u00f3rios de advocacia. Aceito o convite de um deles, passou a redigir minutas de contratos, sempre com supervis\u00e3o de um advogado. Ap\u00f3s um ano de est\u00e1gio, conquistou a confian\u00e7a dos advogados do seu setor e passou a ter autonomia cada vez maior. Diante dessas circunst\u00e2ncias, passou a chancelar contratos sem a interfer\u00eancia de advogado.\n\n Nos termos do Estatuto da Advocacia, o estagi\u00e1rio deve atuar",
-        "valid": true,
         "areas": [
             "ETHICS"
         ],
+        "enum": "Ferrari \u00e9 aluno destacado no curso de Direito, tendo, no decorrer dos anos, conseguido v\u00e1rios t\u00edtulos universit\u00e1rios, dentre eles, medalhas e certificados. Indicado para representar a Universidade em que estudou, foi premiado em evento internacional sobre arbitragem. A repercuss\u00e3o desse fato aumentou seu prest\u00edgio e, por isso, recebeu numerosos convites para trabalhar em diversos escrit\u00f3rios de advocacia. Aceito o convite de um deles, passou a redigir minutas de contratos, sempre com supervis\u00e3o de um advogado. Ap\u00f3s um ano de est\u00e1gio, conquistou a confian\u00e7a dos advogados do seu setor e passou a ter autonomia cada vez maior. Diante dessas circunst\u00e2ncias, passou a chancelar contratos sem a interfer\u00eancia de advogado.\n\n Nos termos do Estatuto da Advocacia, o estagi\u00e1rio deve atuar",
         "filename": "2013-11.txt",
+        "number": "10",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "autonomamente, ap\u00f3s um ano de est\u00e1gio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "autonomamente, ap\u00f3s um ano de est\u00e1gio."
             },
             {
+                "correct": true,
                 "letter": "B",
-                "text": "conjuntamente com um advogado, em todos os atos da advocacia.",
                 "pmi": [
-                    -0.010269895377609544,
+                    0.033186567729999526,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "conjuntamente com um advogado, em todos os atos da advocacia."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "autonomamente, em alguns atos permitidos pelo advogado.",
                 "pmi": [
-                    -0.010269895377609544,
+                    0.033186567729999526,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "autonomamente, em alguns atos permitidos pelo advogado."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "vinculado ao advogado em atos judiciais, mas n\u00e3o em atos contratuais.",
                 "pmi": [
-                    -0.006846596918406363,
+                    0.022124378486666353,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "vinculado ao advogado em atos judiciais, mas n\u00e3o em atos contratuais."
             }
         ],
-        "number": "10"
+        "valid": true
     }
 ]

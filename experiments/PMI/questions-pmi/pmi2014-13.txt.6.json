@@ -3,55 +3,55 @@
         "areas": [
             "ETHICS"
         ],
-        "filename": "2014-13.txt",
         "enum": "Abel, por for\u00e7a de suas atividades como advogado, comparece \u00e0 audi\u00eancia designada para ocorrer \u00e0s 13 horas. Aguarda algum tempo, mas n\u00e3o recebe qualquer not\u00edcia do in\u00edcio dos trabalhos forenses.\n\n Nesse caso, consoante o Estatuto da Advocacia, protocolizando comunica\u00e7\u00e3o em ju\u00edzo, pode retirar-se do recinto passados",
-        "valid": true,
+        "filename": "2014-13.txt",
+        "number": "6",
         "options": [
             {
-                "text": "vinte minutos do hor\u00e1rio designado.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "trinta minutos do hor\u00e1rio designado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "vinte minutos do hor\u00e1rio designado."
+            },
+            {
+                "correct": true,
                 "letter": "B",
-                "correct": true
-            },
-            {
-                "text": "quarenta minutos do hor\u00e1rio designado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "trinta minutos do hor\u00e1rio designado."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "cinquenta minutos do hor\u00e1rio designado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "quarenta minutos do hor\u00e1rio designado."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "cinquenta minutos do hor\u00e1rio designado."
             }
         ],
-        "number": "6"
+        "valid": true
     }
 ]

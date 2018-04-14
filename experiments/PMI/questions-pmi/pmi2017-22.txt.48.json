@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            null
+        ],
+        "enum": "Fagundes e Pilar s\u00e3o noivos e pretendem se casar adotando o regime de separa\u00e7\u00e3o de bens mediante celebra\u00e7\u00e3o de pacto antenupcial. Fagundes \u00e9 empres\u00e1rio individual e titular do estabelecimento Borracharia Dona In\u00eas Ltda. ME. Celebrado o pacto antenupcial entre os nubentes, o advogado contratado por Fagundes providenciar\u00e1 o arquivamento e a averba\u00e7\u00e3o do documento",
+        "filename": "2017-22.txt",
+        "number": "48",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "no Registro P\u00fablico de Empresas Mercantis e a publica\u00e7\u00e3o na imprensa oficial.",
                 "pmi": [
-                    -0.02824845850854607,
+                    0.015208004599063001,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "no Registro P\u00fablico de Empresas Mercantis e a publica\u00e7\u00e3o na imprensa oficial."
             },
             {
                 "correct": true,
                 "letter": "B",
-                "text": "no Registro P\u00fablico de Empresas Mercantis e no Registro Civil de Pessoas Naturais.",
                 "pmi": [
-                    -0.02824845850854607,
+                    0.015208004599063001,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "no Registro P\u00fablico de Empresas Mercantis e no Registro Civil de Pessoas Naturais."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "no Registro Civil de Pessoas Naturais e a publica\u00e7\u00e3o na imprensa oficial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "no Registro Civil de Pessoas Naturais e a publica\u00e7\u00e3o na imprensa oficial."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "no Registro P\u00fablico de Empresas Mercantis e no Registro Civil de T\u00edtulos e Documentos.",
                 "pmi": [
-                    -0.02471740119497781,
+                    0.013307004024180126,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "no Registro P\u00fablico de Empresas Mercantis e no Registro Civil de T\u00edtulos e Documentos."
             }
         ],
-        "filename": "2017-22.txt",
-        "number": "48",
-        "enum": "Fagundes e Pilar s\u00e3o noivos e pretendem se casar adotando o regime de separa\u00e7\u00e3o de bens mediante celebra\u00e7\u00e3o de pacto antenupcial. Fagundes \u00e9 empres\u00e1rio individual e titular do estabelecimento Borracharia Dona In\u00eas Ltda. ME. Celebrado o pacto antenupcial entre os nubentes, o advogado contratado por Fagundes providenciar\u00e1 o arquivamento e a averba\u00e7\u00e3o do documento",
-        "valid": true,
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

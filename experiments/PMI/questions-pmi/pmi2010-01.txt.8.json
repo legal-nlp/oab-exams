@@ -1,9 +1,14 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Prescinde-se de constitui\u00e7\u00e3o de advogado regularmente inscrito na OAB para o ajuizamento de a\u00e7\u00e3o na 1.\u00aa inst\u00e2ncia da justi\u00e7a do trabalho, a\u00e7\u00e3o, no valor de at\u00e9 vinte sal\u00e1rios m\u00ednimos, no juizado especial c\u00edvel,",
         "filename": "2010-01.txt",
+        "number": "8",
         "options": [
             {
-                "text": "e habeas corpus.",
+                "correct": true,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -11,47 +16,42 @@
                     0,
                     0
                 ],
-                "correct": true
+                "text": "e habeas corpus."
             },
             {
-                "text": "habeas corpus e a\u00e7\u00e3o popular.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.9056290769680619,
+                    -0.22963965084969834,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "habeas corpus e a\u00e7\u00e3o popular."
             },
             {
-                "text": "habeas corpus e mandado de seguran\u00e7a.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.27073650892051293,
+                    -0.00034073847316754143,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "habeas corpus e mandado de seguran\u00e7a."
             },
             {
-                "text": "e mandado de seguran\u00e7a.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.5414730178410259,
+                    -0.0006814769463350829,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "e mandado de seguran\u00e7a."
             }
         ],
-        "valid": true,
-        "number": "8",
-        "areas": [
-            "ETHICS"
-        ],
-        "enum": "Prescinde-se de constitui\u00e7\u00e3o de advogado regularmente inscrito na OAB para o ajuizamento de a\u00e7\u00e3o na 1.\u00aa inst\u00e2ncia da justi\u00e7a do trabalho, a\u00e7\u00e3o, no valor de at\u00e9 vinte sal\u00e1rios m\u00ednimos, no juizado especial c\u00edvel,"
+        "valid": true
     }
 ]

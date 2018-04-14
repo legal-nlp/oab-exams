@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Determinada autoridade policial recebeu informa\u00e7\u00f5es de vizinhos de Lucas dando conta de que ele possu\u00eda arma de fogo calibre .38 em sua casa, raz\u00e3o pela qual resolveu indici\u00e1-lo pela pr\u00e1tica de crime de posse de arma de fogo de uso permitido, infra\u00e7\u00e3o de m\u00e9dio potencial ofensivo, punida com pena de deten\u00e7\u00e3o de 01 a 03 anos e multa. No curso das investiga\u00e7\u00f5es, requereu ao Judici\u00e1rio intercepta\u00e7\u00e3o telef\u00f4nica da linha do aparelho celular de Lucas para melhor investigar a pr\u00e1tica do crime mencionado, tendo sido o pedido deferido.\n\n De acordo com a situa\u00e7\u00e3o narrada, a prova oriunda da intercepta\u00e7\u00e3o deve ser considerada",
+        "filename": "2015-18.txt",
+        "number": "68",
         "options": [
             {
                 "correct": null,
-                "text": "il\u00edcita, pois somente o Minist\u00e9rio P\u00fablico tem legitimidade para representar pela medida.",
                 "letter": "A",
                 "pmi": [
-                    -0.11486205966690555,
+                    0.06830926870065097,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "il\u00edcita, pois somente o Minist\u00e9rio P\u00fablico tem legitimidade para representar pela medida."
             },
             {
                 "correct": null,
-                "text": "v\u00e1lida, desde que tenha sido deferida por ordem do juiz competente para a\u00e7\u00e3o principal.",
                 "letter": "B",
                 "pmi": [
-                    -0.014788684103816221,
+                    0.024462314832088747,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "v\u00e1lida, desde que tenha sido deferida por ordem do juiz competente para a\u00e7\u00e3o principal."
             },
             {
                 "correct": true,
-                "text": "il\u00edcita, pois o crime investigado \u00e9 punido com deten\u00e7\u00e3o.",
                 "letter": "C",
                 "pmi": [
-                    -0.016188150476795452,
+                    0.015212648671928522,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "il\u00edcita, pois o crime investigado \u00e9 punido com deten\u00e7\u00e3o."
             },
             {
                 "correct": null,
-                "text": "il\u00edcita, assim como as dela derivadas, ainda que estas pudessem ser obtidas por fonte independente da primeira.",
                 "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "il\u00edcita, assim como as dela derivadas, ainda que estas pudessem ser obtidas por fonte independente da primeira."
             }
         ],
-        "valid": true,
-        "filename": "2015-18.txt",
-        "enum": "Determinada autoridade policial recebeu informa\u00e7\u00f5es de vizinhos de Lucas dando conta de que ele possu\u00eda arma de fogo calibre .38 em sua casa, raz\u00e3o pela qual resolveu indici\u00e1-lo pela pr\u00e1tica de crime de posse de arma de fogo de uso permitido, infra\u00e7\u00e3o de m\u00e9dio potencial ofensivo, punida com pena de deten\u00e7\u00e3o de 01 a 03 anos e multa. No curso das investiga\u00e7\u00f5es, requereu ao Judici\u00e1rio intercepta\u00e7\u00e3o telef\u00f4nica da linha do aparelho celular de Lucas para melhor investigar a pr\u00e1tica do crime mencionado, tendo sido o pedido deferido.\n\n De acordo com a situa\u00e7\u00e3o narrada, a prova oriunda da intercepta\u00e7\u00e3o deve ser considerada",
-        "areas": [],
-        "number": "68"
+        "valid": true
     }
 ]

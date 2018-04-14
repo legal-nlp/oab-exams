@@ -1,12 +1,17 @@
 [
     {
+        "areas": [
+            null
+        ],
         "enum": "Jorge foi dispensado e, no dia designado para homologa\u00e7\u00e3o da ruptura contratual, a empresa informou que n\u00e3o tinha dinheiro para pagar a indeniza\u00e7\u00e3o.  O TRCT estava preenchido, com o valor total de R$ 000,00 que Jorge deveria receber.  Diante da situa\u00e7\u00e3o narrada pela empresa e da extrema necessidade de Jorge, o sindicato concordou em fazer a homologa\u00e7\u00e3o apenas para liberar o FGTS e permitir o acesso ao seguro-desemprego, lan\u00e7ando no TRCT um carimbo de que nada havia sido pago. Jorge, ent\u00e3o, ajuizou a\u00e7\u00e3o monit\u00f3ria na Justi\u00e7a do Trabalho, cobrando a d\u00edvida de R$ 5.000,00.  Sobre a situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "number": "78",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.2239744652095548,
+                    -0.015383442293031216,
                     0.0,
                     0.0,
                     0.0
@@ -14,10 +19,10 @@
                 "text": "O comportamento de Jorge \u00e9 vi\u00e1vel, sendo que, nesse caso, o juiz expedir\u00e1 mandado de pagamento, nos moldes do CPC."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.4355543866765516,
+                    0.022713769730962317,
                     0.0,
                     0.0,
                     0.0
@@ -25,10 +30,10 @@
                 "text": "Na Justi\u00e7a do Trabalho, a a\u00e7\u00e3o monit\u00f3ria somente \u00e9 poss\u00edvel em causas de at\u00e9 dois sal\u00e1rios m\u00ednimos, sendo que da senten\u00e7a n\u00e3o caber\u00e1 recurso, o que n\u00e3o \u00e9 a hip\u00f3tese retratada."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.262629329577462,
+                    -0.030861526336880257,
                     0.0,
                     0.0,
                     0.0
@@ -36,10 +41,10 @@
                 "text": "Jorge deveria ajuizar a\u00e7\u00e3o de execu\u00e7\u00e3o de t\u00edtulo extrajudicial, que \u00e9 a natureza jur\u00eddica do TRCT preenchido, mas n\u00e3o quitado."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.31770084403713655,
+                    -0.06661905719317301,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "Jorge agiu mal, porque n\u00e3o cabe a\u00e7\u00e3o monit\u00f3ria na Justi\u00e7a do Trabalho, em raz\u00e3o da incompatibilidade de procedimentos."
             }
         ],
-        "filename": "2017-22.txt",
-        "valid": true,
-        "number": "78",
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

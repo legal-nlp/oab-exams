@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Assinale a afirmativa que indica como ocorrer\u00e1, em havendo necessidade, a cria\u00e7\u00e3o de novos Conselhos Seccionais, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB.",
+        "filename": "2012-09.txt",
+        "number": "7",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Por meio de Lei aprovada pelo Congresso Nacional.",
                 "pmi": [
-                    -0.24929469321902334,
+                    0.07518023131779109,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Por meio de Lei aprovada pelo Congresso Nacional."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Por meio de Medida Provis\u00f3ria Federal.",
                 "pmi": [
-                    -0.053713007287282274,
+                    0.16260360907059399,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Por meio de Medida Provis\u00f3ria Federal."
             },
             {
                 "correct": null,
                 "letter": "C",
-                "text": "Por Provimento do Conselho Federal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Por Provimento do Conselho Federal."
             },
             {
                 "correct": true,
                 "letter": "D",
-                "text": "Por meio de Resolu\u00e7\u00e3o do Conselho Federal",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "Por meio de Resolu\u00e7\u00e3o do Conselho Federal"
             }
         ],
-        "enum": "Assinale a afirmativa que indica como ocorrer\u00e1, em havendo necessidade, a cria\u00e7\u00e3o de novos Conselhos Seccionais, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB.",
-        "number": "7",
-        "areas": [
-            "ETHICS"
-        ],
-        "filename": "2012-09.txt"
+        "valid": true
     }
 ]

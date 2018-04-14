@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "correct": null,
-                "pmi": [
-                    -0.09169493947010812,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A a\u00e7\u00e3o de invent\u00e1rio deve ser ajuizada no foro do domic\u00edlio dos filhos de Lindalva, pois s\u00e3o eles os inventariantes.",
-                "letter": "A"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.08140107199666709,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O foro competente para o invent\u00e1rio \u00e9 o da situa\u00e7\u00e3o dos bens, de forma que o invent\u00e1rio dever\u00e1 ser aberto na Bahia, local onde a maioria dos bens est\u00e1 localizada.",
-                "letter": "B"
-            },
-            {
-                "correct": null,
-                "pmi": [
-                    -0.16557808990372963,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A a\u00e7\u00e3o de invent\u00e1rio poder\u00e1 ser ajuizada no foro da situa\u00e7\u00e3o de qualquer dos bens, uma vez que o autor da heran\u00e7a possui bens em lugares diferentes.",
-                "letter": "C"
-            },
-            {
-                "correct": true,
-                "pmi": [
-                    -0.0473580601202953,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O invent\u00e1rio dever\u00e1 ser aberto pelos herdeiros no estado de Minas Gerais, uma vez que Lindalva n\u00e3o tinha domic\u00edlio certo e seus bens estavam em lugares diferentes.",
-                "letter": "D"
-            }
-        ],
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "Lindalva faleceu em Minas Gerais, em um acidente durante a pr\u00e1tica de montanhismo. N\u00e3o tinha feito testamento, mas deixou dois filhos maiores que residem em dois estados da Federa\u00e7\u00e3o. Apesar de n\u00e3o ter domic\u00edlio certo, deixou bens situados nos estados da Bahia e de Mato Grosso.\n\n A repeito da a\u00e7\u00e3o de invent\u00e1rio, de acordo com o que disp\u00f5e o C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
         "filename": "2014-13.txt",
-        "valid": true,
-        "number": "56"
+        "number": "56",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.024095996858271778,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A a\u00e7\u00e3o de invent\u00e1rio deve ser ajuizada no foro do domic\u00edlio dos filhos de Lindalva, pois s\u00e3o eles os inventariantes."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.00028234086246347093,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O foro competente para o invent\u00e1rio \u00e9 o da situa\u00e7\u00e3o dos bens, de forma que o invent\u00e1rio dever\u00e1 ser aberto na Bahia, local onde a maioria dos bens est\u00e1 localizada."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.014685757061167292,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A a\u00e7\u00e3o de invent\u00e1rio poder\u00e1 ser ajuizada no foro da situa\u00e7\u00e3o de qualquer dos bens, uma vez que o autor da heran\u00e7a possui bens em lugares diferentes."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.026386240910798883,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O invent\u00e1rio dever\u00e1 ser aberto pelos herdeiros no estado de Minas Gerais, uma vez que Lindalva n\u00e3o tinha domic\u00edlio certo e seus bens estavam em lugares diferentes."
+            }
+        ],
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Ex-dirigente de federa\u00e7\u00e3o sul-americana de futebol, ap\u00f3s deixar o cargo que exercia em seu pa\u00eds de origem, sabedor de que existe uma investiga\u00e7\u00e3o em curso na Col\u00f4mbia, opta por fixar resid\u00eancia no Brasil, pelo fato de ser estrangeiro casado com brasileira, com a qual tem dois filhos pequenos. Anos depois, j\u00e1 tendo se naturalizado brasileiro, o governo da Col\u00f4mbia pede a sua extradi\u00e7\u00e3o em raz\u00e3o de senten\u00e7a que o condenou por crime praticado quando ocupava cargo na federa\u00e7\u00e3o sul-americana de futebol.\n\n Essa extradi\u00e7\u00e3o",
+        "filename": "2016-19.txt",
+        "number": "23",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "n\u00e3o poder\u00e1 ser concedida, porque o Brasil n\u00e3o extradita seus nacionais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "n\u00e3o poder\u00e1 ser concedida, porque o Brasil n\u00e3o extradita seus nacionais."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "n\u00e3o poder\u00e1 ser concedida, porque o extraditando tem filhos menores sob sua depend\u00eancia econ\u00f4mica.",
                 "pmi": [
-                    0.008479654137759206,
+                    0.04453242353073859,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "n\u00e3o poder\u00e1 ser concedida, porque o extraditando tem filhos menores sob sua depend\u00eancia econ\u00f4mica."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "poder\u00e1 ser concedida, porque o extraditando n\u00e3o \u00e9 brasileiro nato.",
                 "pmi": [
-                    -0.013255880179483766,
+                    0.0408232739099853,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "poder\u00e1 ser concedida, porque o extraditando n\u00e3o \u00e9 brasileiro nato."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "poder\u00e1 ser concedida se o pa\u00eds de origem do extraditando tiver tratado de extradi\u00e7\u00e3o com a Fran\u00e7a.",
                 "pmi": [
-                    -0.03564895139120767,
+                    0.02615579613961412,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "poder\u00e1 ser concedida se o pa\u00eds de origem do extraditando tiver tratado de extradi\u00e7\u00e3o com a Fran\u00e7a."
             }
         ],
-        "valid": true,
-        "filename": "2016-19.txt",
-        "number": "23",
-        "areas": []
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Oscar \u00e9 titular da propriedade de um terreno adjacente a uma creche particular. Aproveitando a expans\u00e3o econ\u00f4mica da localidade, decidiu construir em seu terreno um grande galp\u00e3o. Oscar iniciou as obras, sem solicitar \u00e0 prefeitura do munic\u00edpio \u201cX\u201d a necess\u00e1ria licen\u00e7a para construir, usando material de baixa qualidade. Ainda durante a constru\u00e7\u00e3o, a diretora da creche notou que a estrutura n\u00e3o apresentava solidez e corria o risco de desabar sobre as crian\u00e7as. Ao tomar conhecimento do fato, a prefeitura do munic\u00edpio \u201cX\u201d inspecionou o im\u00f3vel e constatou a gravidade da situa\u00e7\u00e3o. Ap\u00f3s a devida notifica\u00e7\u00e3o de Oscar, a estrutura foi demolida.\n\n Assinale a afirmativa que indica o instituto do direito administrativo que autoriza a atitude do munic\u00edpio \u201cX\u201d.",
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "Oscar \u00e9 titular da propriedade de um terreno adjacente a uma creche particular. Aproveitando a expans\u00e3o econ\u00f4mica da localidade, decidiu construir em seu terreno um grande galp\u00e3o. Oscar iniciou as obras, sem solicitar \u00e0 prefeitura do munic\u00edpio \u201cX\u201d a necess\u00e1ria licen\u00e7a para construir, usando material de baixa qualidade. Ainda durante a constru\u00e7\u00e3o, a diretora da creche notou que a estrutura n\u00e3o apresentava solidez e corria o risco de desabar sobre as crian\u00e7as. Ao tomar conhecimento do fato, a prefeitura do munic\u00edpio \u201cX\u201d inspecionou o im\u00f3vel e constatou a gravidade da situa\u00e7\u00e3o. Ap\u00f3s a devida notifica\u00e7\u00e3o de Oscar, a estrutura foi demolida.\n\n Assinale a afirmativa que indica o instituto do direito administrativo que autoriza a atitude do munic\u00edpio \u201cX\u201d.",
+        "filename": "2013-10.txt",
+        "number": "32",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "Tombamento.",
-                "letter": "A"
+                "text": "Tombamento."
             },
             {
-                "pmi": [
-                    0.0,
-                    0,
-                    0,
-                    0
-                ],
                 "correct": true,
-                "text": "Poder de pol\u00edcia.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0,
-                    0
-                ],
-                "correct": null,
-                "text": "Ocupa\u00e7\u00e3o tempor\u00e1ria.",
-                "letter": "C"
-            },
-            {
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
+                "text": "Poder de pol\u00edcia."
+            },
+            {
                 "correct": null,
-                "text": "Desapropria\u00e7\u00e3o.",
-                "letter": "D"
+                "letter": "C",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "text": "Ocupa\u00e7\u00e3o tempor\u00e1ria."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "Desapropria\u00e7\u00e3o."
             }
         ],
-        "valid": true,
-        "filename": "2013-10.txt",
-        "number": "32"
+        "valid": true
     }
 ]

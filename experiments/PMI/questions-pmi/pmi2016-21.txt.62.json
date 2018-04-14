@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2016-21.txt",
         "areas": [],
-        "valid": true,
-        "number": "62",
         "enum": "Felipe sempre sonhou em ser propriet\u00e1rio de um ve\u00edculo de renomada marca mundial. Quando soube que uma moradora de sua rua tinha um dos ve\u00edculos de seu sonho em sua garagem, Felipe combinou com Caio e Bruno de os dois subtra\u00edrem o ve\u00edculo, garantindo que ficaria com o produto do crime e que Caio e Bruno iriam receber determinado valor, o que efetivamente vem a ocorrer.\n\n Ap\u00f3s receber o carro, Felipe o leva para sua casa de praia, localizada em outra cidade do mesmo Estado em que reside. Os fatos s\u00e3o descobertos e o ve\u00edculo \u00e9 apreendido na casa de veraneio de Felipe.\n\n Considerando as informa\u00e7\u00f5es narradas, \u00e9 correto afirmar que Felipe dever\u00e1 ser responsabilizado pela pr\u00e1tica do crime de",
+        "filename": "2016-21.txt",
+        "number": "62",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "furto simples.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "furto simples."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "favorecimento real.",
                 "pmi": [
-                    -0.007508823638408646,
+                    0.08098433759890436,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "favorecimento real."
             },
             {
+                "correct": true,
                 "letter": "C",
-                "text": "furto qualificado pelo concurso de agentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "furto qualificado pelo concurso de agentes."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "recepta\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "recepta\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

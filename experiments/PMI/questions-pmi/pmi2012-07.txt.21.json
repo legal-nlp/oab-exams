@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CONSTITUTIONAL"
+        ],
+        "enum": "O Governador do Estado K, preocupado com o resultado da balan\u00e7a comercial do seu Estado, conhecido pelo setor exportador, pretende regular a importa\u00e7\u00e3o de bens de determinados pa\u00edses, apresentando, nesse sentido, projeto de lei \u00e0 Assembleia Legislativa.  Em termos de compet\u00eancia legislativa, esse tema \u00e9, nos termos da Constitui\u00e7\u00e3o Federal,",
+        "filename": "2012-07.txt",
         "number": "21",
         "options": [
             {
-                "pmi": [
-                    -1.415614604444973,
-                    0,
-                    0,
-                    0
-                ],
                 "correct": null,
-                "text": "dos Estados",
-                "letter": "A"
-            },
-            {
+                "letter": "A",
                 "pmi": [
-                    -1.3009267803461793,
+                    0.026496171274202302,
                     0,
                     0,
                     0
                 ],
-                "correct": true,
-                "text": "da Uni\u00e3o.",
-                "letter": "B"
+                "text": "dos Estados"
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.8065178891805098,
+                    0.14118399537299597,
+                    0,
+                    0,
+                    0
+                ],
+                "text": "da Uni\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.2750651926088717,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "do Distrito Federal",
-                "letter": "C"
+                "text": "do Distrito Federal"
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.16741301214423562,
+                    0.1931146817855582,
                     0,
                     0,
                     0
                 ],
-                "correct": null,
-                "text": "dos Munic\u00edpios.",
-                "letter": "D"
+                "text": "dos Munic\u00edpios."
             }
         ],
-        "areas": [
-            "CONSTITUTIONAL"
-        ],
-        "valid": true,
-        "filename": "2012-07.txt",
-        "enum": "O Governador do Estado K, preocupado com o resultado da balan\u00e7a comercial do seu Estado, conhecido pelo setor exportador, pretende regular a importa\u00e7\u00e3o de bens de determinados pa\u00edses, apresentando, nesse sentido, projeto de lei \u00e0 Assembleia Legislativa.  Em termos de compet\u00eancia legislativa, esse tema \u00e9, nos termos da Constitui\u00e7\u00e3o Federal,"
+        "valid": true
     }
 ]

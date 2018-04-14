@@ -1,12 +1,17 @@
 [
     {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Numa reclama\u00e7\u00e3o trabalhista, o autor teve reconhecido o direito ao pagamento de horas extras, sem qualquer reflexo. Ap\u00f3s liquidado o julgado, foi homologado o valor de R$ 15.000,00, iniciando-se a execu\u00e7\u00e3o. Em seguida, as partes comparecem em ju\u00edzo pleiteando a homologa\u00e7\u00e3o de acordo no valor de R$ 10.000,00.\n\n Com base no narrado acima, \u00e9 correto afirmar que",
         "filename": "2012-06.txt",
+        "number": "77",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.35368210857381227,
+                    -0.05870490444943553,
                     0.0,
                     0.0,
                     0.0
@@ -17,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -1.249401291623317,
+                    -0.1801089266724509,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.3605788713135121,
+                    -0.09837691209184389,
                     0.0,
                     0.0,
                     0.0
@@ -39,7 +44,7 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -1.12043305693948,
+                    -0.12488499301970864,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, e o INSS ser\u00e1 recolhido sobre R$ 10.000,00."
             }
         ],
-        "valid": true,
-        "number": "77",
-        "areas": [
-            "LABOUR-PROCEDURE"
-        ],
-        "enum": "Numa reclama\u00e7\u00e3o trabalhista, o autor teve reconhecido o direito ao pagamento de horas extras, sem qualquer reflexo. Ap\u00f3s liquidado o julgado, foi homologado o valor de R$ 15.000,00, iniciando-se a execu\u00e7\u00e3o. Em seguida, as partes comparecem em ju\u00edzo pleiteando a homologa\u00e7\u00e3o de acordo no valor de R$ 10.000,00.\n\n Com base no narrado acima, \u00e9 correto afirmar que"
+        "valid": true
     }
 ]

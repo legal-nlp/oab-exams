@@ -1,14 +1,17 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
         "enum": "Ap\u00f3s recebida representa\u00e7\u00e3o disciplinar sem fundamentos, cabe ao relator designado pelo presidente do Conselho Seccional da OAB, \u00e0 luz das normas aplic\u00e1veis,",
+        "filename": "2012-06.txt",
         "number": "4",
-        "valid": true,
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.08975524719626718,
+                    0.097441824651895,
                     0.0,
                     0.0,
                     0.0
@@ -16,10 +19,10 @@
                 "text": "arquivar o processo ato cont\u00ednuo."
             },
             {
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.17855109293498897,
+                    0.19584305076133537,
                     0.0,
                     0.0,
                     0.0
@@ -27,8 +30,8 @@
                 "text": "propor ao presidente o arquivamento do processo."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
@@ -38,8 +41,8 @@
                 "text": "designar data para a defesa oral pelo advogado."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
@@ -49,9 +52,6 @@
                 "text": "julgar improcedente a representa\u00e7\u00e3o."
             }
         ],
-        "filename": "2012-06.txt",
-        "areas": [
-            "ETHICS"
-        ]
+        "valid": true
     }
 ]

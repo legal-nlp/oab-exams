@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-04.txt",
-        "enum": "O contrato de presta\u00e7\u00e3o de servi\u00e7os de que a Administra\u00e7\u00e3o P\u00fablica seja a usu\u00e1ria direta ou indireta, ainda que envolva a execu\u00e7\u00e3o de obra ou fornecimento e instala\u00e7\u00e3o de bens, denomina-se concess\u00e3o",
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "O contrato de presta\u00e7\u00e3o de servi\u00e7os de que a Administra\u00e7\u00e3o P\u00fablica seja a usu\u00e1ria direta ou indireta, ainda que envolva a execu\u00e7\u00e3o de obra ou fornecimento e instala\u00e7\u00e3o de bens, denomina-se concess\u00e3o",
+        "filename": "2011-04.txt",
+        "number": "29",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "letter": "A",
                 "text": "comum."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "letter": "B",
                 "text": "patrocinada."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "letter": "C",
                 "text": "administrativa."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.5424388449989855,
+                    0.43098592861145785,
                     0.0,
                     0,
                     0
                 ],
-                "letter": "D",
                 "text": "de uso de bem p\u00fablico."
             }
         ],
-        "number": "29",
         "valid": true
     }
 ]

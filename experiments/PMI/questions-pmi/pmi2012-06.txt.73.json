@@ -3,55 +3,55 @@
         "areas": [
             "LABOUR"
         ],
+        "enum": "A empresa X pagou em 10/6/2011 as parcelas do rompimento do contrato do empregado T\u00edcio, ap\u00f3s da\u00e7\u00e3o de aviso pr\u00e9vio, datado de 30/5/2011, de cujo cumprimento o trabalhador foi dispensado. \u00c0 \u00e9poca da dispensa, o trabalhador, que tinha 11 onze) anos de tempo de servi\u00e7o, recebia sal\u00e1rio de R$ 700,00 mensais, com forma de pagamento semanal.\n\n Com base no exposto, \u00e9 correto afirmar que o empregado",
+        "filename": "2012-06.txt",
+        "number": "73",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.31583215161443084,
+                    0.00032290306246526753,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "n\u00e3o faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque o empregador teria at\u00e9 o dia seguinte ao prazo de 30 (trinta) dias do aviso pr\u00e9vio do qual foi dispensado para fazer o pagamento das verbas resilit\u00f3rias.",
-                "letter": "A"
+                "text": "n\u00e3o faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque o empregador teria at\u00e9 o dia seguinte ao prazo de 30 (trinta) dias do aviso pr\u00e9vio do qual foi dispensado para fazer o pagamento das verbas resilit\u00f3rias."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.512277385814681,
+                    -0.03804480379933675,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 10 (dez) dias previsto em lei para o pagamento.",
-                "letter": "B"
+                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 10 (dez) dias previsto em lei para o pagamento."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.328371223215128,
+                    -0.02885590825806848,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 8 (oito) dias para o pagamento de quem recebe por semana.",
-                "letter": "C"
+                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 8 (oito) dias para o pagamento de quem recebe por semana."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.19779595083785714,
+                    -0.017532103872960267,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "faz jus a aviso pr\u00e9vio em dobro, porque contava com mais de 10 (dez) anos de tempo de servi\u00e7o \u00e0 \u00e9poca da dispensa e a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque superado o prazo para o pagamento das parcelas decorrentes do rompimento do contrato.",
-                "letter": "D"
+                "text": "faz jus a aviso pr\u00e9vio em dobro, porque contava com mais de 10 (dez) anos de tempo de servi\u00e7o \u00e0 \u00e9poca da dispensa e a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque superado o prazo para o pagamento das parcelas decorrentes do rompimento do contrato."
             }
         ],
-        "valid": true,
-        "enum": "A empresa X pagou em 10/6/2011 as parcelas do rompimento do contrato do empregado T\u00edcio, ap\u00f3s da\u00e7\u00e3o de aviso pr\u00e9vio, datado de 30/5/2011, de cujo cumprimento o trabalhador foi dispensado. \u00c0 \u00e9poca da dispensa, o trabalhador, que tinha 11 onze) anos de tempo de servi\u00e7o, recebia sal\u00e1rio de R$ 700,00 mensais, com forma de pagamento semanal.\n\n Com base no exposto, \u00e9 correto afirmar que o empregado",
-        "filename": "2012-06.txt",
-        "number": "73"
+        "valid": true
     }
 ]

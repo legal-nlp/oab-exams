@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
         "enum": "Os advogados Ivan e Dimitri foram nomeados, por determinado magistrado, para prestarem assist\u00eancia jur\u00eddica a certo jurisdicionado, em raz\u00e3o da impossibilidade da Defensoria P\u00fablica. As quest\u00f5es jur\u00eddicas debatidas no processo relacionavam-se \u00e0 interpreta\u00e7\u00e3o dada a um dispositivo legal. Ivan recusou-se ao patroc\u00ednio da causa, alegando que a norma discutida tamb\u00e9m lhe \u00e9 aplic\u00e1vel, n\u00e3o sendo, por isso, poss\u00edvel que ele sustente em ju\u00edzo a interpreta\u00e7\u00e3o legal ben\u00e9fica \u00e0 parte assistida  e prejudicial aos seus pr\u00f3prios interesses. Dimitri tamb\u00e9m se recusou ao patroc\u00ednio, pois j\u00e1 defendeu interpreta\u00e7\u00e3o diversa da mesma norma em outro processo.\n\n Sobre a hip\u00f3tese apresentada, \u00e9 correto afirmar que",
+        "filename": "2016-19.txt",
         "number": "8",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "Ivan e Dimitri cometeram infra\u00e7\u00e3o disciplinar, pois \u00e9 vedado ao advogado recusar-se a prestar assist\u00eancia jur\u00eddica, sem justo motivo, quando nomeado em virtude de impossibilidade da Defensoria P\u00fablica.",
                 "pmi": [
-                    -0.06349762574103031,
-                    0.00024882835905142573,
+                    0.042539931297144326,
+                    0.011700884519174287,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Ivan e Dimitri cometeram infra\u00e7\u00e3o disciplinar, pois \u00e9 vedado ao advogado recusar-se a prestar assist\u00eancia jur\u00eddica, sem justo motivo, quando nomeado em virtude de impossibilidade da Defensoria P\u00fablica."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "apenas Dimitri cometeu infra\u00e7\u00e3o disciplinar, pois n\u00e3o se configura leg\u00edtima a recusa por ele apresentada ao patroc\u00ednio da causa, sendo vedado ao advogado, sem justo motivo, recusar-se a prestar assist\u00eancia jur\u00eddica, quando nomeado em virtude de impossibilidade da Defensoria P\u00fablica.",
                 "pmi": [
-                    -0.0540423884448772,
-                    0.00019227645926701077,
+                    0.03724211717929052,
+                    0.009041592582998312,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "apenas Dimitri cometeu infra\u00e7\u00e3o disciplinar, pois n\u00e3o se configura leg\u00edtima a recusa por ele apresentada ao patroc\u00ednio da causa, sendo vedado ao advogado, sem justo motivo, recusar-se a prestar assist\u00eancia jur\u00eddica, quando nomeado em virtude de impossibilidade da Defensoria P\u00fablica."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "apenas Ivan cometeu infra\u00e7\u00e3o disciplinar, pois n\u00e3o se configura leg\u00edtima a recusa por ele apresentada ao patroc\u00ednio da causa, sendo vedado ao advogado, sem justo motivo, recusar-se a prestar assist\u00eancia jur\u00eddica, quando nomeado.",
                 "pmi": [
-                    -0.04186420067306341,
+                    0.028455442415410308,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "apenas Ivan cometeu infra\u00e7\u00e3o disciplinar, pois n\u00e3o se configura leg\u00edtima a recusa por ele apresentada ao patroc\u00ednio da causa, sendo vedado ao advogado, sem justo motivo, recusar-se a prestar assist\u00eancia jur\u00eddica, quando nomeado."
             },
             {
-                "letter": "D",
                 "correct": true,
-                "text": "nenhum dos advogados cometeu infra\u00e7\u00e3o disciplinar, pois se afiguram leg\u00edtimas as recusas apresentadas ao patroc\u00ednio da causa.",
+                "letter": "D",
                 "pmi": [
-                    -0.02844329756383914,
+                    0.023611503163992055,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "nenhum dos advogados cometeu infra\u00e7\u00e3o disciplinar, pois se afiguram leg\u00edtimas as recusas apresentadas ao patroc\u00ednio da causa."
             }
         ],
-        "filename": "2016-19.txt",
-        "areas": []
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
+        "enum": "A fal\u00eancia da sociedade XYZ Ltda. foi decretada em 5/6/2014. Nessa data, a pessoa jur\u00eddica j\u00e1 possu\u00eda dois im\u00f3veis hipotecados para garantia de d\u00edvidas diversas. A Uni\u00e3o tem cr\u00e9ditos tribut\u00e1rios a receber da sociedade, inscritos em d\u00edvida ativa em abril de 2013.\n\n Baseado nos fatos narrados, assinale a afirmativa correta.",
         "filename": "2016-19.txt",
-        "valid": true,
+        "number": "27",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1448842455754269,
+                    0.07634865751785566,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Uni\u00e3o tem direito de prefer\u00eancia sobre todo e qualquer credor, porque o cr\u00e9dito tribut\u00e1rio foi inscrito em d\u00edvida ativa antes da decreta\u00e7\u00e3o da fal\u00eancia.",
-                "letter": "A"
+                "text": "A Uni\u00e3o tem direito de prefer\u00eancia sobre todo e qualquer credor, porque o cr\u00e9dito tribut\u00e1rio foi inscrito em d\u00edvida ativa antes da decreta\u00e7\u00e3o da fal\u00eancia."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.2588789015235849,
+                    0.10062456600299924,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Uni\u00e3o tem direito de prefer\u00eancia sobre os credores com garantia real, pois o cr\u00e9dito tribut\u00e1rio prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constitui\u00e7\u00e3o.",
-                "letter": "B"
+                "text": "A Uni\u00e3o tem direito de prefer\u00eancia sobre os credores com garantia real, pois o cr\u00e9dito tribut\u00e1rio prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constitui\u00e7\u00e3o."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.07276008010868003,
+                    0.041313135548793796,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Uni\u00e3o tem de respeitar a prefer\u00eancia dos credores hipotec\u00e1rios, no limite do valor dos bens gravados.",
-                "letter": "C"
+                "text": "A Uni\u00e3o tem de respeitar a prefer\u00eancia dos credores hipotec\u00e1rios, no limite do valor dos bens gravados."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.06456305218795039,
+                    0.0030358904238859596,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A Uni\u00e3o tem de respeitar a prefer\u00eancia dos credores hipotec\u00e1rios, no limite do valor das d\u00edvidas garantidas pelas hipotecas.",
-                "letter": "D"
+                "text": "A Uni\u00e3o tem de respeitar a prefer\u00eancia dos credores hipotec\u00e1rios, no limite do valor das d\u00edvidas garantidas pelas hipotecas."
             }
         ],
-        "number": "27",
-        "enum": "A fal\u00eancia da sociedade XYZ Ltda. foi decretada em 5/6/2014. Nessa data, a pessoa jur\u00eddica j\u00e1 possu\u00eda dois im\u00f3veis hipotecados para garantia de d\u00edvidas diversas. A Uni\u00e3o tem cr\u00e9ditos tribut\u00e1rios a receber da sociedade, inscritos em d\u00edvida ativa em abril de 2013.\n\n Baseado nos fatos narrados, assinale a afirmativa correta."
+        "valid": true
     }
 ]

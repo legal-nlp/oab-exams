@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Em reclama\u00e7\u00e3o trabalhista, o advogado do reclamante interp\u00f4s recurso ordin\u00e1rio contra a senten\u00e7a proferida pelo juiz de primeiro grau, que julgou improcedente o pedido de condena\u00e7\u00e3o em horas extras formulado pelo reclamante e indeferiu a oitiva das testemunhas arroladas, por entender que o depoimento do reclamante era suficiente para o julgamento da demanda. Argumentando a tese do cerceamento de defesa, o advogado formulou pedido de anula\u00e7\u00e3o dos atos processuais, sem requerer expressamente a an\u00e1lise, pelo tribunal, das horas extras negadas. Ao se julgar o recurso ordin\u00e1rio no TRT, foi reconhecido o cerceamento de defesa e condenada a empresa a pagar ao reclamante as horas extras pleiteadas.\n\n Em face dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta a respeito da decis\u00e3o do TRT.",
+        "filename": "2010-01.txt",
+        "number": "79",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "O recurso ordin\u00e1rio devolve toda a mat\u00e9ria para a an\u00e1lise do TRT, logo, reconhecido o cerceamento de defesa, deve o tribunal analisar a quest\u00e3o das horas extras.",
                 "pmi": [
-                    -0.06891063818380608,
+                    0.05399653020135089,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O recurso ordin\u00e1rio devolve toda a mat\u00e9ria para a an\u00e1lise do TRT, logo, reconhecido o cerceamento de defesa, deve o tribunal analisar a quest\u00e3o das horas extras."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "N\u00e3o cabe ao TRT fazer nova an\u00e1lise de prova em sede de recurso ordin\u00e1rio, portanto o tribunal n\u00e3o poderia ter estabelecido condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
-                    -0.05018838441138669,
+                    0.048137350296738886,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o cabe ao TRT fazer nova an\u00e1lise de prova em sede de recurso ordin\u00e1rio, portanto o tribunal n\u00e3o poderia ter estabelecido condena\u00e7\u00e3o em horas extras."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "N\u00e3o tendo o advogado requerido an\u00e1lise das horas extras, o julgamento deve limitar-se ao que foi expressamente pedido, logo, n\u00e3o poderia o TRT estabelecer condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o tendo o advogado requerido an\u00e1lise das horas extras, o julgamento deve limitar-se ao que foi expressamente pedido, logo, n\u00e3o poderia o TRT estabelecer condena\u00e7\u00e3o em horas extras."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "O TRT agiu equivocadamente, visto que, reconhecido o cerceamento de defesa, deveria ter designado data para a oitiva de testemunhas, e, s\u00f3 ent\u00e3o, analisar o pedido de condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
-                    -0.014041690329314543,
+                    0.004394384928459002,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O TRT agiu equivocadamente, visto que, reconhecido o cerceamento de defesa, deveria ter designado data para a oitiva de testemunhas, e, s\u00f3 ent\u00e3o, analisar o pedido de condena\u00e7\u00e3o em horas extras."
             }
-        ],
-        "enum": "Em reclama\u00e7\u00e3o trabalhista, o advogado do reclamante interp\u00f4s recurso ordin\u00e1rio contra a senten\u00e7a proferida pelo juiz de primeiro grau, que julgou improcedente o pedido de condena\u00e7\u00e3o em horas extras formulado pelo reclamante e indeferiu a oitiva das testemunhas arroladas, por entender que o depoimento do reclamante era suficiente para o julgamento da demanda. Argumentando a tese do cerceamento de defesa, o advogado formulou pedido de anula\u00e7\u00e3o dos atos processuais, sem requerer expressamente a an\u00e1lise, pelo tribunal, das horas extras negadas. Ao se julgar o recurso ordin\u00e1rio no TRT, foi reconhecido o cerceamento de defesa e condenada a empresa a pagar ao reclamante as horas extras pleiteadas.\n\n Em face dessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta a respeito da decis\u00e3o do TRT.",
-        "number": "79",
-        "filename": "2010-01.txt",
-        "areas": [
-            "LABOUR-PROCEDURE"
         ],
         "valid": true
     }

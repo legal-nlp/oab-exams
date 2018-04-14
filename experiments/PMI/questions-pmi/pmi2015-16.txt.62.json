@@ -1,55 +1,55 @@
 [
     {
-        "filename": "2015-16.txt",
         "areas": [],
-        "valid": true,
-        "number": "62",
         "enum": "Carlos e seu filho de dez anos caminhavam por uma rua com pouco movimento e bastante escura, j\u00e1 de madrugada, quando s\u00e3o surpreendidos com a vinda de um c\u00e3o pitbull na dire\u00e7\u00e3o deles. Quando o animal iniciou o ataque contra a crian\u00e7a, Carlos, que estava armado e tinha autoriza\u00e7\u00e3o para assim se encontrar, efetuou um disparo na dire\u00e7\u00e3o do c\u00e3o, que n\u00e3o foi atingido, ricocheteando a bala em uma pedra e acabando por atingir o dono do animal, Leandro, que chegava correndo em sua busca, pois notou que ele fugira clandestinamente da casa. A v\u00edtima atingida veio a falecer, ficando constatado que Carlos n\u00e3o teria outro modo de agir para evitar o ataque do c\u00e3o contra o seu filho, n\u00e3o sendo sua conduta tachada de descuidada.\n\n Diante desse quadro, assinale a op\u00e7\u00e3o que apresenta a situa\u00e7\u00e3o jur\u00eddica de Carlos.",
+        "filename": "2015-16.txt",
+        "number": "62",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.009231922122935596,
+                    0.0062192647597698525,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Carlos atuou em leg\u00edtima defesa de seu filho, devendo responder, por\u00e9m, pela morte de Leandro.",
-                "letter": "A"
+                "text": "Carlos atuou em leg\u00edtima defesa de seu filho, devendo responder, por\u00e9m, pela morte de Leandro."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Carlos atuou em estado de necessidade defensivo, devendo responder, por\u00e9m, pela morte de Leandro.",
-                "letter": "B"
+                "text": "Carlos atuou em estado de necessidade defensivo, devendo responder, por\u00e9m, pela morte de Leandro."
             },
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Carlos atuou em estado de necessidade e n\u00e3o deve responder pela morte de Leandro.",
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Carlos atuou em estado de necessidade e n\u00e3o deve responder pela morte de Leandro."
+            },
+            {
                 "correct": null,
-                "text": "Carlos atuou em estado de necessidade putativo, raz\u00e3o pela qual n\u00e3o deve responder pela morte de Leandro.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Carlos atuou em estado de necessidade putativo, raz\u00e3o pela qual n\u00e3o deve responder pela morte de Leandro."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

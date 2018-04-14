@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "O restaurante Prato Cheio Ltda. resolveu contratar Gustavo para atuar como gar\u00e7om. Gustavo receber\u00e1, como contrapresta\u00e7\u00e3o, o valor de dois sal\u00e1rios m\u00ednimos e as gorjetas cobradas na nota dos clientes que atender.\n\n Em rela\u00e7\u00e3o \u00e0 carteira profissional de Gustavo, de acordo com a CLT, assinale a afirmativa correta.",
+        "filename": "2016-21.txt",
+        "number": "75",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "correct": null,
-                "text": "O empregador dever\u00e1 anotar a CTPS em 24 horas, n\u00e3o havendo necessidade de anotar as gorjetas, mesmo porque elas variam a cada m\u00eas.",
                 "pmi": [
-                    -0.00703906741895068,
+                    0.033019565239915304,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O empregador dever\u00e1 anotar a CTPS em 24 horas, n\u00e3o havendo necessidade de anotar as gorjetas, mesmo porque elas variam a cada m\u00eas."
             },
             {
-                "letter": "B",
                 "correct": true,
-                "text": "A CTPS do empregado dever\u00e1 ser anotada em 48 horas e nela dever\u00e1 ser anotado o sal\u00e1rio e a estimativa das gorjetas.",
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A CTPS do empregado dever\u00e1 ser anotada em 48 horas e nela dever\u00e1 ser anotado o sal\u00e1rio e a estimativa das gorjetas."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "O empregador tem 30 dias para anotar a carteira profissional e, na hip\u00f3tese, deve anotar apenas a parte fixa da remunera\u00e7\u00e3o.",
                 "pmi": [
-                    -0.0216962259078799,
+                    0.05040931287807886,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O empregador tem 30 dias para anotar a carteira profissional e, na hip\u00f3tese, deve anotar apenas a parte fixa da remunera\u00e7\u00e3o."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "A CTPS, na aus\u00eancia de prazo legal, deve ser anotada em 5 dias com o valor da m\u00e9dia das gorjetas.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A CTPS, na aus\u00eancia de prazo legal, deve ser anotada em 5 dias com o valor da m\u00e9dia das gorjetas."
             }
         ],
-        "areas": [],
-        "valid": true,
-        "enum": "O restaurante Prato Cheio Ltda. resolveu contratar Gustavo para atuar como gar\u00e7om. Gustavo receber\u00e1, como contrapresta\u00e7\u00e3o, o valor de dois sal\u00e1rios m\u00ednimos e as gorjetas cobradas na nota dos clientes que atender.\n\n Em rela\u00e7\u00e3o \u00e0 carteira profissional de Gustavo, de acordo com a CLT, assinale a afirmativa correta.",
-        "number": "75",
-        "filename": "2016-21.txt"
+        "valid": true
     }
 ]

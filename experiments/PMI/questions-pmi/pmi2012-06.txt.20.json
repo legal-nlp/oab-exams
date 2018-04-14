@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A respeito dos direitos pol\u00edticos, assinale a alternativa correta.",
-        "filename": "2012-06.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "valid": true,
+        "enum": "A respeito dos direitos pol\u00edticos, assinale a alternativa correta.",
+        "filename": "2012-06.txt",
+        "number": "20",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.08289387409465222,
+                    0.27763381983514157,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O cancelamento de naturaliza\u00e7\u00e3o por decis\u00e3o do Minist\u00e9rio da Justi\u00e7a \u00e9 caso de perda de direitos pol\u00edticos."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.032640348270810006,
+                    0.12959711399759719,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A condena\u00e7\u00e3o criminal transitada em julgado, enquanto durarem seus efeitos, \u00e9 caso de cassa\u00e7\u00e3o de direitos pol\u00edticos."
             },
             {
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.05440058045135002,
+                    0.21599518999599532,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "A improbidade administrativa \u00e9 caso de suspens\u00e3o de direitos pol\u00edticos."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.10657783812169572,
+                    0.35695776835946774,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A incapacidade civil relativa \u00e9 caso de perda de direitos pol\u00edticos."
             }
         ],
-        "number": "20"
+        "valid": true
     }
 ]

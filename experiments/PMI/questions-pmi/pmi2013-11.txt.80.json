@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "No acordo coletivo em vigor firmado pela empresa Pluma Com\u00e9rcio de \u00d3culos Ltda. existe uma cl\u00e1usula na qual os seus empregados podem adquirir as mercadorias l\u00e1 produzidas a pre\u00e7o de custo. Emerson, empregado desta firma, pretendia comprar um par de \u00f3culos, mas o empregador exigiu que ele pagasse tamb\u00e9m o valor da margem m\u00ednima de lucro do com\u00e9rcio local.\n\n Diante do ocorrido, assinale a alternativa que contempla a a\u00e7\u00e3o que, de acordo com a CLT, dever\u00e1 ser ajuizada por Emerson para fazer prevalecer o seu direito.",
+        "filename": "2013-11.txt",
+        "number": "80",
         "options": [
             {
-                "text": "Execu\u00e7\u00e3o de T\u00edtulo Extrajudicial.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.20777214601838614,
+                    0.0239956572221956,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Execu\u00e7\u00e3o de T\u00edtulo Extrajudicial."
             },
             {
-                "text": "Mandado de Seguran\u00e7a.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.11602993239450553,
+                    -0.0001460307742146606,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "Mandado de Seguran\u00e7a."
             },
             {
-                "text": "A\u00e7\u00e3o de Cumprimento.",
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.19087615504332897,
+                    -0.07499225342303807,
                     0.0,
                     0,
                     0
                 ],
-                "correct": true
+                "text": "A\u00e7\u00e3o de Cumprimento."
             },
             {
-                "text": "A\u00e7\u00e3o Monit\u00f3ria.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.19087615504332897,
+                    -0.07499225342303807,
                     0.0,
                     0,
                     0
                 ],
-                "correct": null
+                "text": "A\u00e7\u00e3o Monit\u00f3ria."
             }
         ],
-        "valid": true,
-        "filename": "2013-11.txt",
-        "number": "80",
-        "areas": [
-            "LABOUR-PROCEDURE"
-        ],
-        "enum": "No acordo coletivo em vigor firmado pela empresa Pluma Com\u00e9rcio de \u00d3culos Ltda. existe uma cl\u00e1usula na qual os seus empregados podem adquirir as mercadorias l\u00e1 produzidas a pre\u00e7o de custo. Emerson, empregado desta firma, pretendia comprar um par de \u00f3culos, mas o empregador exigiu que ele pagasse tamb\u00e9m o valor da margem m\u00ednima de lucro do com\u00e9rcio local.\n\n Diante do ocorrido, assinale a alternativa que contempla a a\u00e7\u00e3o que, de acordo com a CLT, dever\u00e1 ser ajuizada por Emerson para fazer prevalecer o seu direito."
+        "valid": true
     }
 ]

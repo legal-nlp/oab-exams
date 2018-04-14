@@ -1,12 +1,12 @@
 [
     {
-        "enum": "Ao decretar segredo de Justi\u00e7a nos autos de determinada investiga\u00e7\u00e3o policial, o magistrado alertou o Delegado de Pol\u00edcia de que, aos advogados ali constitu\u00eddos, deveria ser facultado o acesso \u00e0 integralidade dos elementos de prova j\u00e1 documentados nos autos, ressaltando, no entanto, expressa e reservadamente, que ningu\u00e9m, nem mesmo advogado constitu\u00eddo por meio de instrumento de procura\u00e7\u00e3o, poderia ter acesso \u00e0 medida cautelar de intercepta\u00e7\u00e3o telef\u00f4nica em andamento.\n\n Sobre a advert\u00eancia do magistrado, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "8",
-        "filename": "2015-16.txt",
         "areas": [],
+        "enum": "Ao decretar segredo de Justi\u00e7a nos autos de determinada investiga\u00e7\u00e3o policial, o magistrado alertou o Delegado de Pol\u00edcia de que, aos advogados ali constitu\u00eddos, deveria ser facultado o acesso \u00e0 integralidade dos elementos de prova j\u00e1 documentados nos autos, ressaltando, no entanto, expressa e reservadamente, que ningu\u00e9m, nem mesmo advogado constitu\u00eddo por meio de instrumento de procura\u00e7\u00e3o, poderia ter acesso \u00e0 medida cautelar de intercepta\u00e7\u00e3o telef\u00f4nica em andamento.\n\n Sobre a advert\u00eancia do magistrado, assinale a afirmativa correta.",
+        "filename": "2015-16.txt",
+        "number": "8",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -14,10 +14,10 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A advert\u00eancia \u00e9 ilegal, pois \u00e9 direito do advogado, apresentando procura\u00e7\u00e3o do investigado, ter vista da integralidade de procedimentos de qualquer natureza."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -25,31 +25,31 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A advert\u00eancia \u00e9 ilegal, pois \u00e9 direito do advogado ter vista de procedimentos de qualquer natureza, independentemente da apresenta\u00e7\u00e3o de procura\u00e7\u00e3o."
             },
             {
+                "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.016551365915797697,
+                    0.020043550385346786,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "A advert\u00eancia \u00e9 l\u00edcita, pois, em se tratando de procedimento sob segredo de Justi\u00e7a, \u00e9 permitido ao advogado, munido de procura\u00e7\u00e3o do investigado, o acesso aos elementos de prova j\u00e1 documentados nos autos, mas n\u00e3o a medidas cautelares ainda em andamento."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.03144759524001562,
+                    0.0380827457321589,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A advert\u00eancia \u00e9 l\u00edcita, pois nem mesmo advogados munidos de procura\u00e7\u00e3o podem ter acesso a autos de procedimentos sob segredo de Justi\u00e7a."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

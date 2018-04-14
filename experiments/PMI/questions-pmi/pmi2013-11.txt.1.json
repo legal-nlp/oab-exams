@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "Christiana, advogada rec\u00e9m-formada, est\u00e1 em d\u00favida quanto ao seu futuro profissional, porque, embora possua habilidade para a advocacia privada, teme a natural instabilidade da profiss\u00e3o. Por for\u00e7a dessas circunst\u00e2ncias, pretende obter um emprego ou cargo p\u00fablico que lhe permita o exerc\u00edcio concomitante da profiss\u00e3o que abra\u00e7ou. Por for\u00e7a disso, necessita, diante dos requisitos usualmente exigidos, comprovar sua efetiva atividade na advocacia.\n\n Diante desse contexto, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
         "number": "1",
         "options": [
             {
                 "correct": null,
-                "text": "O efetivo exerc\u00edcio da advocacia comprova-se pela atua\u00e7\u00e3o em um processo por ano, desde que o advogado subscreva uma pe\u00e7a privativa de advogado.",
                 "letter": "A",
                 "pmi": [
-                    -0.07934364582974751,
+                    0.055319860400946205,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O efetivo exerc\u00edcio da advocacia comprova-se pela atua\u00e7\u00e3o em um processo por ano, desde que o advogado subscreva uma pe\u00e7a privativa de advogado."
             },
             {
                 "correct": true,
-                "text": "O efetivo exerc\u00edcio da advocacia exige a atua\u00e7\u00e3o anual m\u00ednima em cinco causas distintas, que devem ser comprovadas por c\u00f3pia autenticada de atos privativos.",
                 "letter": "B",
                 "pmi": [
-                    -0.06868299947328366,
+                    0.03712404113654713,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O efetivo exerc\u00edcio da advocacia exige a atua\u00e7\u00e3o anual m\u00ednima em cinco causas distintas, que devem ser comprovadas por c\u00f3pia autenticada de atos privativos."
             },
             {
                 "correct": null,
-                "text": "A atividade efetiva da advocacia, como representante judicial ou extrajudicial, cinge-se a dois atos por ano.",
                 "letter": "C",
                 "pmi": [
-                    -0.07446664688698545,
+                    0.05779215387530303,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A atividade efetiva da advocacia, como representante judicial ou extrajudicial, cinge-se a dois atos por ano."
             },
             {
                 "correct": null,
-                "text": "O advogado deve comprovar, anualmente, a atua\u00e7\u00e3o em atos privativos, mediante declara\u00e7\u00e3o do Juiz onde atue, de tr\u00eas atos judiciais.",
                 "letter": "D",
                 "pmi": [
-                    -0.03458988033655464,
+                    0.00388540715792928,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O advogado deve comprovar, anualmente, a atua\u00e7\u00e3o em atos privativos, mediante declara\u00e7\u00e3o do Juiz onde atue, de tr\u00eas atos judiciais."
             }
         ],
-        "filename": "2013-11.txt",
-        "enum": "Christiana, advogada rec\u00e9m-formada, est\u00e1 em d\u00favida quanto ao seu futuro profissional, porque, embora possua habilidade para a advocacia privada, teme a natural instabilidade da profiss\u00e3o. Por for\u00e7a dessas circunst\u00e2ncias, pretende obter um emprego ou cargo p\u00fablico que lhe permita o exerc\u00edcio concomitante da profiss\u00e3o que abra\u00e7ou. Por for\u00e7a disso, necessita, diante dos requisitos usualmente exigidos, comprovar sua efetiva atividade na advocacia.\n\n Diante desse contexto, de acordo com as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-        "valid": true,
-        "areas": [
-            "ETHICS"
-        ]
+        "valid": true
     }
 ]

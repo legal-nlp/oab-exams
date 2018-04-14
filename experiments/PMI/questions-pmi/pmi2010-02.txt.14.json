@@ -1,16 +1,17 @@
 [
     {
-        "valid": true,
         "areas": [
             "ADMINISTRATIVE"
         ],
         "enum": "O poder de pol\u00edcia, conferindo a possibilidade de o Estado limitar o exerc\u00edcio da liberdade ou das faculdades de propriet\u00e1rio, em prol do interesse p\u00fablico",
+        "filename": "2010-02.txt",
+        "number": "14",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.06924506312273956,
+                    0.0782435389394488,
                     0.0,
                     0.0,
                     0.0
@@ -32,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.046163375415159705,
+                    0.052162359292965865,
                     0.0,
                     0.0,
                     0.0
@@ -43,7 +44,7 @@
                 "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.14041630813419378,
+                    -0.013997506366603756,
                     0.0,
                     0.0,
                     0.0
@@ -51,7 +52,6 @@
                 "text": "deve ser exercido nos limites da lei, gerando a possibilidade de cobran\u00e7a de taxa."
             }
         ],
-        "number": "14",
-        "filename": "2010-02.txt"
+        "valid": true
     }
 ]

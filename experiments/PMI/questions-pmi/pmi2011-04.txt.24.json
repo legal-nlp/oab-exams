@@ -1,56 +1,56 @@
 [
     {
-        "enum": "Considere a hip\u00f3tese de Deputado Federal que cometeu crime (comum) ap\u00f3s a diploma\u00e7\u00e3o. Nesse caso, \u00e9 correto afirmar que",
-        "options": [
-            {
-                "text": "a C\u00e2mara dos Deputados pode sustar o andamento da a\u00e7\u00e3o penal.",
-                "letter": "A",
-                "correct": true,
-                "pmi": [
-                    -0.12773412957068989,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a da C\u00e2mara dos Deputados.",
-                "letter": "B",
-                "correct": null,
-                "pmi": [
-                    -0.12773412957068989,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a do Congresso Nacional.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    -0.32244915866723195,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "o Congresso Nacional pode sustar o andamento da a\u00e7\u00e3o penal.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    -0.32244915866723195,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "filename": "2011-04.txt",
-        "number": "24",
         "areas": [
             "CONSTITUTIONAL"
+        ],
+        "enum": "Considere a hip\u00f3tese de Deputado Federal que cometeu crime (comum) ap\u00f3s a diploma\u00e7\u00e3o. Nesse caso, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "24",
+        "options": [
+            {
+                "correct": true,
+                "letter": "A",
+                "pmi": [
+                    0.019754472491498497,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a C\u00e2mara dos Deputados pode sustar o andamento da a\u00e7\u00e3o penal."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.019754472491498497,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a da C\u00e2mara dos Deputados."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.027471954542855198,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a do Congresso Nacional."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.027471954542855198,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o Congresso Nacional pode sustar o andamento da a\u00e7\u00e3o penal."
+            }
         ],
         "valid": true
     }

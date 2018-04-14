@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
+        "areas": [
+            null
+        ],
         "enum": "A sociedade empres\u00e1ria Sanear Conserva\u00e7\u00e3o e Limpeza Ltda. ajuizou a\u00e7\u00e3o de consigna\u00e7\u00e3o em pagamento em face do ex-empregado Pedro Braga, afirmando que ele se negava a receber as verbas resilit\u00f3rias a que faria jus.  Citado, Pedro Braga apresentou resposta sob a forma de contesta\u00e7\u00e3o e reconven\u00e7\u00e3o, postulando diversos direitos alegadamente lesados e incluindo no polo passivo a sociedade empres\u00e1ria R\u00e9ptil Imobili\u00e1ria, tomadora dos servi\u00e7os terceirizados do empregado, requerendo dela a responsabilidade subsidi\u00e1ria.  Diante da situa\u00e7\u00e3o retratada e da norma de reg\u00eancia, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
         "number": "79",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.04948641056678899,
+                    -0.0194424360726395,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "N\u00e3o \u00e9 poss\u00edvel, em sede de reconven\u00e7\u00e3o, ajuizar a\u00e7\u00e3o contra quem n\u00e3o \u00e9 parte na lide principal.",
-                "letter": "A"
+                "text": "N\u00e3o \u00e9 poss\u00edvel, em sede de reconven\u00e7\u00e3o, ajuizar a\u00e7\u00e3o contra quem n\u00e3o \u00e9 parte na lide principal."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.016115037410703723,
+                    0.0019113472857859672,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A pretens\u00e3o de Pedro somente se viabilizar\u00e1 se a sociedade empres\u00e1ria R\u00e9ptil Imobili\u00e1ria concordar em figurar na reconven\u00e7\u00e3o.",
-                "letter": "B"
+                "text": "A pretens\u00e3o de Pedro somente se viabilizar\u00e1 se a sociedade empres\u00e1ria R\u00e9ptil Imobili\u00e1ria concordar em figurar na reconven\u00e7\u00e3o."
             },
             {
-                "pmi": [
-                    -0.07497838000968707,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "N\u00e3o h\u00e1 \u00f3bice a se incluir na reconven\u00e7\u00e3o pessoa que n\u00e3o figure na lide original.",
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.0512275221472368,
+                    0.028029532541682604,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "N\u00e3o h\u00e1 \u00f3bice a se incluir na reconven\u00e7\u00e3o pessoa que n\u00e3o figure na lide original."
+            },
+            {
                 "correct": null,
-                "text": "A Lei processual \u00e9 omissa a respeito; assim ficar\u00e1 a crit\u00e9rio do juiz aceitar a inclus\u00e3o da sociedade empres\u00e1ria R\u00e9ptil Imobili\u00e1ria.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.0042382769188853316,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A Lei processual \u00e9 omissa a respeito; assim ficar\u00e1 a crit\u00e9rio do juiz aceitar a inclus\u00e3o da sociedade empres\u00e1ria R\u00e9ptil Imobili\u00e1ria."
             }
         ],
-        "filename": "2017-22.txt",
-        "areas": [
-            null
-        ]
+        "valid": true
     }
 ]

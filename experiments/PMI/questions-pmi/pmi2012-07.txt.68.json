@@ -3,55 +3,55 @@
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "Huguinho est\u00e1 sendo acusado pela pr\u00e1tica do delito de tr\u00e1fico de entorpecentes.  O Minist\u00e9rio P\u00fablico narra na inicial acusat\u00f3ria que o acusado foi preso em flagrante com 120 papelotes de coca\u00edna, na subida do morro \u201cX\u201d, em conhecido ponto de venda de entorpecentes. O Magistrado competente notifica o denunciado Huguinho para apresentar a defesa preliminar.  Ap\u00f3s a resposta pr\u00e9via, a den\u00fancia \u00e9 recebida, oportunidade em que o Juiz designar\u00e1 dia e hora para a audi\u00eancia de instru\u00e7\u00e3o e julgamento, ordenar\u00e1 a cita\u00e7\u00e3o pessoal do acusado e a intima\u00e7\u00e3o do Minist\u00e9rio P\u00fablico. De acordo com a Lei n\u00ba. 11.343/06, na Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento,",
+        "filename": "2012-07.txt",
         "number": "68",
         "options": [
             {
-                "letter": "A",
                 "correct": true,
-                "text": "o juiz interrogar\u00e1 o acusado, promover\u00e1 a inquiri\u00e7\u00e3o das testemunhas (acusa\u00e7\u00e3o e defesa), dando a palavra, sucessivamente, para a acusa\u00e7\u00e3o e para a defesa, para sustenta\u00e7\u00e3o oral, proferindo, posteriormente, senten\u00e7a.",
+                "letter": "A",
                 "pmi": [
-                    -0.010546244103957077,
+                    0.008767739499424734,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o juiz interrogar\u00e1 o acusado, promover\u00e1 a inquiri\u00e7\u00e3o das testemunhas (acusa\u00e7\u00e3o e defesa), dando a palavra, sucessivamente, para a acusa\u00e7\u00e3o e para a defesa, para sustenta\u00e7\u00e3o oral, proferindo, posteriormente, senten\u00e7a."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "correct": null,
-                "text": "o juiz proceder\u00e1 a inquiri\u00e7\u00e3o das testemunhas (acusa\u00e7\u00e3o e defesa), interrogando-se em seguida o acusado e, ap\u00f3s, proferir\u00e1 senten\u00e7a.",
                 "pmi": [
-                    -0.017257490351929763,
+                    0.014347210089967746,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o juiz proceder\u00e1 a inquiri\u00e7\u00e3o das testemunhas (acusa\u00e7\u00e3o e defesa), interrogando-se em seguida o acusado e, ap\u00f3s, proferir\u00e1 senten\u00e7a."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "correct": null,
-                "text": "o juiz ouvir\u00e1 a v\u00edtima e as testemunhas de acusa\u00e7\u00e3o e defesa, interrogando-se a seguir o acusado, se presente, passando-se imediatamente aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a.",
                 "pmi": [
-                    -0.011864524616951711,
+                    0.009863706936852826,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o juiz ouvir\u00e1 a v\u00edtima e as testemunhas de acusa\u00e7\u00e3o e defesa, interrogando-se a seguir o acusado, se presente, passando-se imediatamente aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a."
             },
             {
-                "letter": "D",
                 "correct": null,
-                "text": "o juiz providenciar\u00e1 o interrogat\u00f3rio do acusado, a oitiva da v\u00edtima e das testemunhas de defesa, nessa ordem, passando aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a.",
+                "letter": "D",
                 "pmi": [
-                    -0.03212122272562548,
+                    0.017543306540213455,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o juiz providenciar\u00e1 o interrogat\u00f3rio do acusado, a oitiva da v\u00edtima e das testemunhas de defesa, nessa ordem, passando aos debates orais e \u00e0 prola\u00e7\u00e3o da senten\u00e7a."
             }
         ],
-        "enum": "Huguinho est\u00e1 sendo acusado pela pr\u00e1tica do delito de tr\u00e1fico de entorpecentes.  O Minist\u00e9rio P\u00fablico narra na inicial acusat\u00f3ria que o acusado foi preso em flagrante com 120 papelotes de coca\u00edna, na subida do morro \u201cX\u201d, em conhecido ponto de venda de entorpecentes. O Magistrado competente notifica o denunciado Huguinho para apresentar a defesa preliminar.  Ap\u00f3s a resposta pr\u00e9via, a den\u00fancia \u00e9 recebida, oportunidade em que o Juiz designar\u00e1 dia e hora para a audi\u00eancia de instru\u00e7\u00e3o e julgamento, ordenar\u00e1 a cita\u00e7\u00e3o pessoal do acusado e a intima\u00e7\u00e3o do Minist\u00e9rio P\u00fablico. De acordo com a Lei n\u00ba. 11.343/06, na Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento,",
-        "valid": true,
-        "filename": "2012-07.txt"
+        "valid": true
     }
 ]

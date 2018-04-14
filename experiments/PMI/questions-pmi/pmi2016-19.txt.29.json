@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "A Uni\u00e3o divulgou edital de licita\u00e7\u00e3o para a contrata\u00e7\u00e3o de parceria p\u00fablico-privada, para a reforma e gest\u00e3o de um pres\u00eddio federal, na modalidade concess\u00e3o administrativa.\n\n A esse respeito, assinale a afirmativa correta.",
-        "number": "29",
         "filename": "2016-19.txt",
-        "valid": true,
+        "number": "29",
         "options": [
             {
-                "text": "A concess\u00e3o administrativa envolve, adicionalmente \u00e0 tarifa cobrada dos usu\u00e1rios, contrapresta\u00e7\u00e3o pecuni\u00e1ria do parceiro p\u00fablico ao parceiro privado.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.015545653440283325,
+                    0.023864256422487656,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A concess\u00e3o administrativa envolve, adicionalmente \u00e0 tarifa cobrada dos usu\u00e1rios, contrapresta\u00e7\u00e3o pecuni\u00e1ria do parceiro p\u00fablico ao parceiro privado."
             },
             {
-                "text": "A contrata\u00e7\u00e3o de parceria p\u00fablico-privada somente pode ser realizada para contratos com valor igual ou superior a R$ 20.000.000,00 (vinte milh\u00f5es de reais).",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.3393277899320143,
+                    -0.031930493002400674,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A contrata\u00e7\u00e3o de parceria p\u00fablico-privada somente pode ser realizada para contratos com valor igual ou superior a R$ 20.000.000,00 (vinte milh\u00f5es de reais)."
             },
             {
-                "text": "Considerando se tratar de concess\u00e3o administrativa, o prazo m\u00e1ximo de vig\u00eancia do contrato \u00e9 de 20 anos.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.08671073120028905,
+                    0.041371475853716644,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Considerando se tratar de concess\u00e3o administrativa, o prazo m\u00e1ximo de vig\u00eancia do contrato \u00e9 de 20 anos."
             },
             {
-                "text": "N\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o de parceria p\u00fablico-privada que envolva a execu\u00e7\u00e3o de obra p\u00fablica.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.21941795309879647,
+                    0.1465312099126483,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o de parceria p\u00fablico-privada que envolva a execu\u00e7\u00e3o de obra p\u00fablica."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

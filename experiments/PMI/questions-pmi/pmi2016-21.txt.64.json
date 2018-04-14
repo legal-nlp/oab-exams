@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Alberto, policial civil, passando por dificuldades financeiras, resolve se valer de sua fun\u00e7\u00e3o para ampliar seus vencimentos. Para tanto, durante o registro de uma ocorr\u00eancia na Delegacia onde est\u00e1 lotado, solicita \u00e0 noticiante R$2.000,00 para realizar as investiga\u00e7\u00f5es necess\u00e1rias \u00e0 elucida\u00e7\u00e3o do fato.\n\n Indignada com a proposta, a noticiante resolve gravar a conversa. Dizendo que iria pensar se aceitaria pagar o valor solicitado, a noticiante deixa o local e procura a Corregedoria de Pol\u00edcia Civil, narrando a conduta do policial e apresentando a grava\u00e7\u00e3o para comprova\u00e7\u00e3o.\n\n Acerca da conduta de Alberto, \u00e9 correto afirmar que configura crime de",
         "areas": [],
+        "enum": "Alberto, policial civil, passando por dificuldades financeiras, resolve se valer de sua fun\u00e7\u00e3o para ampliar seus vencimentos. Para tanto, durante o registro de uma ocorr\u00eancia na Delegacia onde est\u00e1 lotado, solicita \u00e0 noticiante R$2.000,00 para realizar as investiga\u00e7\u00f5es necess\u00e1rias \u00e0 elucida\u00e7\u00e3o do fato.\n\n Indignada com a proposta, a noticiante resolve gravar a conversa. Dizendo que iria pensar se aceitaria pagar o valor solicitado, a noticiante deixa o local e procura a Corregedoria de Pol\u00edcia Civil, narrando a conduta do policial e apresentando a grava\u00e7\u00e3o para comprova\u00e7\u00e3o.\n\n Acerca da conduta de Alberto, \u00e9 correto afirmar que configura crime de",
+        "filename": "2016-21.txt",
+        "number": "64",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "corrup\u00e7\u00e3o ativa, em sua modalidade tentada.",
                 "pmi": [
-                    -0.07003916004667668,
+                    -0.026582696939067597,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "corrup\u00e7\u00e3o ativa, em sua modalidade tentada."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "corrup\u00e7\u00e3o passiva, em sua modalidade tentada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "corrup\u00e7\u00e3o passiva, em sua modalidade tentada."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "corrup\u00e7\u00e3o ativa consumada.",
                 "pmi": [
-                    -0.09338554672890223,
+                    -0.0354435959187568,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "corrup\u00e7\u00e3o ativa consumada."
             },
             {
+                "correct": true,
                 "letter": "D",
-                "text": "corrup\u00e7\u00e3o passiva consumada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "corrup\u00e7\u00e3o passiva consumada."
             }
         ],
-        "filename": "2016-21.txt",
-        "valid": true,
-        "number": "64"
+        "valid": true
     }
 ]

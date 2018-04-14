@@ -1,44 +1,47 @@
 [
     {
+        "areas": [
+            "ETHICS"
+        ],
         "enum": "Marcos, Let\u00edcia e Cristina, advogados, resolvem formar sociedade, para atuar na \u00e1rea c\u00edvel, campo profissional da prefer\u00eancia de todos. No entanto, n\u00e3o regularizam a sociedade perante a Ordem dos Advogados do Brasil.\n\n Observado tal relato, consoante as normas do Regulamento Geral do Estatuto da Advocacia e da OAB, assinale a afirmativa correta.",
-        "number": "3",
         "filename": "2012-09.txt",
+        "number": "3",
         "options": [
             {
-                "text": "A aus\u00eancia de registro da sociedade de advogados na Ordem dos Advogados do Brasil constitui mera irregularidade.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.06764694253299904,
+                    0.1337512864898513,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "A aus\u00eancia de registro da sociedade de advogados na Ordem dos Advogados do Brasil constitui mera irregularidade."
             },
             {
-                "text": "Os atos das sociedades de advogados devem ser restritos \u00e0s atividades de consultoria jur\u00eddica.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.03171712079450602,
+                    0.06418679778780366,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Os atos das sociedades de advogados devem ser restritos \u00e0s atividades de consultoria jur\u00eddica."
             },
             {
-                "text": "Os atos praticados pelos advogados que integram sociedades irregulares s\u00e3o nulos de pleno direito.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.004836356396900276,
+                    0.0324596119406646,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Os atos praticados pelos advogados que integram sociedades irregulares s\u00e3o nulos de pleno direito."
             },
             {
-                "text": "A pr\u00e1tica de atos privativos de advocacia por sociedade irregular tipifica exerc\u00edcio irregular da profiss\u00e3o.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -46,11 +49,8 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "A pr\u00e1tica de atos privativos de advocacia por sociedade irregular tipifica exerc\u00edcio irregular da profiss\u00e3o."
             }
-        ],
-        "areas": [
-            "ETHICS"
         ],
         "valid": null
     }

@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2016-21.txt",
-        "valid": true,
-        "enum": "Pedro \u00e9 advogado empregado da sociedade empres\u00e1ria FJ. Em reclama\u00e7\u00e3o trabalhista proposta por Tiago em face da FJ, \u00e9 designada audi\u00eancia para data na qual os demais empregados da empresa estar\u00e3o em outro Estado, participando de um congresso.\n\n Assim, no dia da audi\u00eancia designada, Pedro se apresenta como preposto da reclamada, na condi\u00e7\u00e3o de empregado da empresa, e advogado com procura\u00e7\u00e3o para patrocinar a causa.\n\n Nesse contexto,",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Pedro \u00e9 advogado empregado da sociedade empres\u00e1ria FJ. Em reclama\u00e7\u00e3o trabalhista proposta por Tiago em face da FJ, \u00e9 designada audi\u00eancia para data na qual os demais empregados da empresa estar\u00e3o em outro Estado, participando de um congresso.\n\n Assim, no dia da audi\u00eancia designada, Pedro se apresenta como preposto da reclamada, na condi\u00e7\u00e3o de empregado da empresa, e advogado com procura\u00e7\u00e3o para patrocinar a causa.\n\n Nesse contexto,",
+        "filename": "2016-21.txt",
+        "number": "9",
         "options": [
             {
-                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, em qualquer hip\u00f3tese.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.036420352307807935,
+                    0.0709426741933439,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, em qualquer hip\u00f3tese."
             },
             {
-                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, pois n\u00e3o h\u00e1 outro empregado dispon\u00edvel na data da audi\u00eancia.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.008767293477908028,
+                    0.04328750724992317,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, pois n\u00e3o h\u00e1 outro empregado dispon\u00edvel na data da audi\u00eancia."
             },
             {
-                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, em qualquer hip\u00f3tese, desde que essa circunst\u00e2ncia seja previamente comunicada ao ju\u00edzo e ao reclamante.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.022412524497112576,
+                    0.04365703027282701,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Pedro pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador, em qualquer hip\u00f3tese, desde que essa circunst\u00e2ncia seja previamente comunicada ao ju\u00edzo e ao reclamante."
             },
             {
-                "text": "Pedro n\u00e3o pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador ou cliente.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.0047627054541403355,
+                    0.031024970046243605,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "Pedro n\u00e3o pode funcionar no mesmo processo, simultaneamente, como patrono e preposto do empregador ou cliente."
             }
         ],
-        "number": "9"
+        "valid": true
     }
 ]

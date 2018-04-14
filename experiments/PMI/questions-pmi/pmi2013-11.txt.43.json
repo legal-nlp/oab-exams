@@ -1,57 +1,57 @@
 [
     {
-        "number": "43",
-        "enum": "Pedro, engenheiro el\u00e9trico, mora na cidade do Rio de Janeiro e trabalha na Concession\u00e1ria Ilumina\u00e7\u00e3o S.A.. Ele \u00e9 vi\u00favo e pai de Bruno, de sete anos de idade, que estuda no col\u00e9gio particular Amarelinho. H\u00e1 tr\u00eas meses, Pedro celebrou contrato de financiamento para aquisi\u00e7\u00e3o de um ve\u00edculo importado, o que comprometeu bastante seu or\u00e7amento e, a partir de ent\u00e3o, deixou de arcar com o pagamento das mensalidades escolares de Bruno. Por raz\u00f5es de trabalho, Pedro ser\u00e1 transferido para uma cidade serrana, no interior do Estado e solicitou ao estabelecimento de ensino o hist\u00f3rico escolar de seu filho, a fim de transferi-lo para outra escola. Contudo, teve seu pedido negado pelo Col\u00e9gio Amarelinho, sendo a negativa justificada pelo col\u00e9gio como consequ\u00eancia da sua inadimpl\u00eancia com o pagamento das mensalidades escolares.\n\n Para surpresa de Pedro, na mesma semana da negativa, \u00e9 informado pela diretora do Col\u00e9gio Amarelinho que seu filho n\u00e3o mais participaria das atividades recreativas diuturnas do col\u00e9gio, enquanto Pedro n\u00e3o quitar o d\u00e9bito das mensalidades vencidas e n\u00e3o pagas.\n\n Com base no caso narrado, assinale a afirmativa correta.",
         "areas": [
             "CIVIL"
         ],
-        "valid": true,
+        "enum": "Pedro, engenheiro el\u00e9trico, mora na cidade do Rio de Janeiro e trabalha na Concession\u00e1ria Ilumina\u00e7\u00e3o S.A.. Ele \u00e9 vi\u00favo e pai de Bruno, de sete anos de idade, que estuda no col\u00e9gio particular Amarelinho. H\u00e1 tr\u00eas meses, Pedro celebrou contrato de financiamento para aquisi\u00e7\u00e3o de um ve\u00edculo importado, o que comprometeu bastante seu or\u00e7amento e, a partir de ent\u00e3o, deixou de arcar com o pagamento das mensalidades escolares de Bruno. Por raz\u00f5es de trabalho, Pedro ser\u00e1 transferido para uma cidade serrana, no interior do Estado e solicitou ao estabelecimento de ensino o hist\u00f3rico escolar de seu filho, a fim de transferi-lo para outra escola. Contudo, teve seu pedido negado pelo Col\u00e9gio Amarelinho, sendo a negativa justificada pelo col\u00e9gio como consequ\u00eancia da sua inadimpl\u00eancia com o pagamento das mensalidades escolares.\n\n Para surpresa de Pedro, na mesma semana da negativa, \u00e9 informado pela diretora do Col\u00e9gio Amarelinho que seu filho n\u00e3o mais participaria das atividades recreativas diuturnas do col\u00e9gio, enquanto Pedro n\u00e3o quitar o d\u00e9bito das mensalidades vencidas e n\u00e3o pagas.\n\n Com base no caso narrado, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "43",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.11313118695311246,
+                    0.06353392622482638,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "O Col\u00e9gio Amarelinho atua no exerc\u00edcio regular do seu direito de cobran\u00e7a e, portanto, n\u00e3o age com abuso de direito ao reter o hist\u00f3rico escolar de Bruno, haja vista a comprovada e imotivada inadimpl\u00eancia de Pedro.",
-                "letter": "A"
+                "text": "O Col\u00e9gio Amarelinho atua no exerc\u00edcio regular do seu direito de cobran\u00e7a e, portanto, n\u00e3o age com abuso de direito ao reter o hist\u00f3rico escolar de Bruno, haja vista a comprovada e imotivada inadimpl\u00eancia de Pedro."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.07659914938252732,
+                    0.018075231782060434,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "As condutas adotadas pelo Col\u00e9gio Amarelinho configuram abuso de direito, pois s\u00e3o eticamente reprov\u00e1veis, mas n\u00e3o configuram atos il\u00edcitos indeniz\u00e1veis.",
-                "letter": "B"
+                "text": "As condutas adotadas pelo Col\u00e9gio Amarelinho configuram abuso de direito, pois s\u00e3o eticamente reprov\u00e1veis, mas n\u00e3o configuram atos il\u00edcitos indeniz\u00e1veis."
             },
             {
-                "pmi": [
-                    -0.07852291466933274,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Tanto a reten\u00e7\u00e3o do hist\u00f3rico escolar de Bruno, quanto a negativa de participa\u00e7\u00e3o do aluno nas atividades recreativas do col\u00e9gio, configuram atos il\u00edcitos objetivos e abusivos, independente da necessidade de provar a inten\u00e7\u00e3o dolosa ou culposa na conduta adotada pela diretora do Col\u00e9gio Amarelinho.",
-                "letter": "C"
-            },
-            {
+                "letter": "C",
                 "pmi": [
-                    -0.05204696971386452,
+                    0.020454847457281725,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Tanto a reten\u00e7\u00e3o do hist\u00f3rico escolar de Bruno, quanto a negativa de participa\u00e7\u00e3o do aluno nas atividades recreativas do col\u00e9gio, configuram atos il\u00edcitos objetivos e abusivos, independente da necessidade de provar a inten\u00e7\u00e3o dolosa ou culposa na conduta adotada pela diretora do Col\u00e9gio Amarelinho."
+            },
+            {
                 "correct": null,
-                "text": "Para existir obriga\u00e7\u00e3o de indenizar do Col\u00e9gio Amarelinho, com fundamento no abuso de direito, \u00e9 imprescind\u00edvel a presen\u00e7a de dolo ou culpa, requisito necess\u00e1rio para caracterizar o comportamento abusivo e o il\u00edcito indeniz\u00e1vel.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.006841401345448442,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Para existir obriga\u00e7\u00e3o de indenizar do Col\u00e9gio Amarelinho, com fundamento no abuso de direito, \u00e9 imprescind\u00edvel a presen\u00e7a de dolo ou culpa, requisito necess\u00e1rio para caracterizar o comportamento abusivo e o il\u00edcito indeniz\u00e1vel."
             }
         ],
-        "filename": "2013-11.txt"
+        "valid": true
     }
 ]

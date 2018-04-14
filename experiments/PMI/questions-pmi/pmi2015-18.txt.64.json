@@ -1,14 +1,15 @@
 [
     {
+        "areas": [],
         "enum": "Vin\u00edcius, prim\u00e1rio e de bons antecedentes e regularmente habilitado, dirigia seu ve\u00edculo em rodovia na qual a velocidade m\u00e1xima permitida era de 80 km/h. No banco do carona estava sua namorada Estef\u00e2nia. Para testar a pot\u00eancia do autom\u00f3vel, ele passou a dirigir a 140 km/h, acabando por perder o controle do carro, vindo a cair em um barranco. Devido ao acidente, Estef\u00e2nia sofreu les\u00e3o corporal e foi socorrida por policiais rodovi\u00e1rios. No marcador do carro ficou registrada a velocidade desenvolvida. Apesar do ferimento sofrido, a v\u00edtima afirmou n\u00e3o querer ver o autor processado por tal comportamento imprudente.\n\n Apresentado o inqu\u00e9rito ao Minist\u00e9rio P\u00fablico, foi oferecida den\u00fancia contra Vin\u00edcius pela pr\u00e1tica do injusto do Art. 303 da Lei n\u00ba 9503/97 (C\u00f3digo de Tr\u00e2nsito Brasileiro), que prev\u00ea a pena de 06 meses a 02 anos de deten\u00e7\u00e3o e a suspens\u00e3o ou proibi\u00e7\u00e3o da permiss\u00e3o ou da habilita\u00e7\u00e3o para dirigir ve\u00edculo automotor.\n\n Considerando o acima exposto, a defesa de Vin\u00edcius dever\u00e1 requerer",
-        "number": "64",
         "filename": "2015-18.txt",
+        "number": "64",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.01626060547405146,
+                    0.021800969251674573,
                     0.0,
                     0.0,
                     0.0
@@ -16,10 +17,10 @@
                 "text": "a extin\u00e7\u00e3o do processo por n\u00e3o ter o Minist\u00e9rio P\u00fablico legitimidade para oferecer den\u00fancia, em raz\u00e3o da aus\u00eancia de representa\u00e7\u00e3o da v\u00edtima."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.058601238557474636,
+                    0.07223542456220859,
                     0.0,
                     0.0,
                     0.0
@@ -27,10 +28,10 @@
                 "text": "a realiza\u00e7\u00e3o de audi\u00eancia de composi\u00e7\u00e3o civil."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.008802661244896719,
+                    0.012131204854252599,
                     0.0,
                     0.0,
                     0.0
@@ -38,10 +39,10 @@
                 "text": "a realiza\u00e7\u00e3o de audi\u00eancia para proposta de transa\u00e7\u00e3o penal."
             },
             {
-                "letter": "D",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.032509835172872564,
+                    0.037269718490958496,
                     0.0,
                     0.0,
                     0.0
@@ -49,7 +50,6 @@
                 "text": "a suspens\u00e3o condicional do processo, caso a den\u00fancia seja recebida."
             }
         ],
-        "valid": true,
-        "areas": []
+        "valid": true
     }
 ]

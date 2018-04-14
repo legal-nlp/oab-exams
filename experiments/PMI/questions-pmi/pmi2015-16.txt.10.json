@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "valid": true,
         "enum": "O advogado Fel\u00edcio \u00e9 contatado pelo seu cliente Paulo que pretende promover a\u00e7\u00e3o de responsabilidade civil em face de Rosa, por danos causados \u00e0 sua honra e ao seu patrim\u00f4nio material. Nas tratativas, o cliente cientifica o advogado que presenciara diversos atos criminosos praticados por Rosa e por seus familiares Marta e F\u00e1bio. Contratado para realizar os seus servi\u00e7os profissionais, apresenta diversas a\u00e7\u00f5es contra o r\u00e9u Rosa em que descreve seus crimes e os praticados por Marta e F\u00e1bio, seus filhos. A peti\u00e7\u00e3o \u00e9 subscrita somente pelo advogado e a procura\u00e7\u00e3o tem os poderes gerais para o foro.\n\n Nos termos do Estatuto da Advocacia,",
+        "filename": "2015-16.txt",
+        "number": "10",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "\u00e9 inerente \u00e0 atividade postulat\u00f3ria a men\u00e7\u00e3o a crimes praticados pelas partes ou terceiros.",
-                "correct": null,
                 "pmi": [
-                    -0.09790885466695147,
+                    0.06279806550458396,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 inerente \u00e0 atividade postulat\u00f3ria a men\u00e7\u00e3o a crimes praticados pelas partes ou terceiros."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "\u00e9 decorrente do processo a indica\u00e7\u00e3o dos fatos essenciais ao deslinde da causa, inclusive os criminosos, que somente demandam ci\u00eancia do advogado.",
-                "correct": null,
                 "pmi": [
-                    -0.11242762870881623,
+                    0.025321160009642713,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 decorrente do processo a indica\u00e7\u00e3o dos fatos essenciais ao deslinde da causa, inclusive os criminosos, que somente demandam ci\u00eancia do advogado."
             },
             {
-                "letter": "C",
-                "text": "\u00e9 essencial a autoriza\u00e7\u00e3o escrita para imputa\u00e7\u00e3o a terceiro de fato definido como crime.",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.09724420444932064,
+                    0.03394511813968789,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 essencial a autoriza\u00e7\u00e3o escrita para imputa\u00e7\u00e3o a terceiro de fato definido como crime."
             },
             {
-                "letter": "D",
-                "text": "\u00e9 poss\u00edvel a descri\u00e7\u00e3o de fatos criminosos atribu\u00eddos a partes ou a terceiros por autoriza\u00e7\u00e3o verbal.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.06443518890308125,
+                    0.027397336909224718,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00e9 poss\u00edvel a descri\u00e7\u00e3o de fatos criminosos atribu\u00eddos a partes ou a terceiros por autoriza\u00e7\u00e3o verbal."
             }
         ],
-        "filename": "2015-16.txt",
-        "number": "10"
+        "valid": true
     }
 ]

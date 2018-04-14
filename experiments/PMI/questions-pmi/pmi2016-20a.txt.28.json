@@ -1,15 +1,15 @@
 [
     {
-        "number": "28",
-        "valid": true,
         "areas": [],
+        "enum": "O Chefe do Poder Executivo da Uni\u00e3o, acreditando ser esta a melhor estrat\u00e9gia econ\u00f4mica para estimular o mercado interno brasileiro, decide reduzir a al\u00edquota do Imposto sobre Produtos Industrializados (IPI) sobre alguns produtos. Neste cen\u00e1rio, voc\u00ea \u00e9 consultado sobre os par\u00e2metros constitucionais dirigidos \u00e0quele imposto.\n\n Assim, voc\u00ea afirmaria que, a respeito do IPI, o Art. 153, \u00a7 3\u00ba, da CRFB/88, estabelece que",
         "filename": "2016-20a.txt",
+        "number": "28",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.08200343894570096,
+                    0.05705724299864808,
                     0.0,
                     0.0,
                     0.0
@@ -17,8 +17,8 @@
                 "text": "n\u00e3o ser\u00e1 seletivo, em fun\u00e7\u00e3o da essencialidade do produto."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0,
@@ -28,21 +28,21 @@
                 "text": "ser\u00e1 cumulativo."
             },
             {
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.09741891023423503,
-                    0.016834607479374892,
+                    0.2919509992099423,
+                    0.08840995848014278,
                     0.0,
                     0.0
                 ],
                 "text": "n\u00e3o incidir\u00e1 sobre produtos industrializados destinados ao exterior."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.05588535570796383,
+                    0.048410155750297945,
                     0.0,
                     0.0,
                     0.0
@@ -50,6 +50,6 @@
                 "text": "ter\u00e1 impacto mais gravoso quando incidente sobre a aquisi\u00e7\u00e3o de bens de capital pelo contribuinte do imposto."
             }
         ],
-        "enum": "O Chefe do Poder Executivo da Uni\u00e3o, acreditando ser esta a melhor estrat\u00e9gia econ\u00f4mica para estimular o mercado interno brasileiro, decide reduzir a al\u00edquota do Imposto sobre Produtos Industrializados (IPI) sobre alguns produtos. Neste cen\u00e1rio, voc\u00ea \u00e9 consultado sobre os par\u00e2metros constitucionais dirigidos \u00e0quele imposto.\n\n Assim, voc\u00ea afirmaria que, a respeito do IPI, o Art. 153, \u00a7 3\u00ba, da CRFB/88, estabelece que"
+        "valid": true
     }
 ]

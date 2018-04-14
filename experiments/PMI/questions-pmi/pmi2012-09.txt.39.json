@@ -1,13 +1,13 @@
 [
     {
-        "enum": "De acordo com as regras atinentes \u00e0 hipoteca, assinale a afirmativa correta.",
         "areas": [
             "CIVIL"
         ],
+        "enum": "De acordo com as regras atinentes \u00e0 hipoteca, assinale a afirmativa correta.",
         "filename": "2012-09.txt",
+        "number": "39",
         "options": [
             {
-                "text": "O C\u00f3digo Civil n\u00e3o admite a divisibilidade da hipoteca em casos de loteamento do im\u00f3vel hipotecado.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
@@ -15,10 +15,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O C\u00f3digo Civil n\u00e3o admite a divisibilidade da hipoteca em casos de loteamento do im\u00f3vel hipotecado."
             },
             {
-                "text": "O ordenamento jur\u00eddico admite a institui\u00e7\u00e3o de nova hipoteca sobre im\u00f3vel hipotecado, desde que seja dada em favor do mesmo credor.",
                 "correct": null,
                 "letter": "B",
                 "pmi": [
@@ -26,10 +26,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "O ordenamento jur\u00eddico admite a institui\u00e7\u00e3o de nova hipoteca sobre im\u00f3vel hipotecado, desde que seja dada em favor do mesmo credor."
             },
             {
-                "text": "Segundo o C\u00f3digo Civil, o adquirente de bem hipotecado n\u00e3o pode remir a hipoteca para que seja extinto o gravame pendente sobre o bem sem autoriza\u00e7\u00e3o expressa de todos credores hipotec\u00e1rios.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
@@ -37,10 +37,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Segundo o C\u00f3digo Civil, o adquirente de bem hipotecado n\u00e3o pode remir a hipoteca para que seja extinto o gravame pendente sobre o bem sem autoriza\u00e7\u00e3o expressa de todos credores hipotec\u00e1rios."
             },
             {
-                "text": "A hipoteca pode ser constitu\u00edda para garantia de d\u00edvida futura ou condicionada, desde que determinado o valor m\u00e1ximo do cr\u00e9dito a ser garantido.",
                 "correct": true,
                 "letter": "D",
                 "pmi": [
@@ -48,10 +48,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A hipoteca pode ser constitu\u00edda para garantia de d\u00edvida futura ou condicionada, desde que determinado o valor m\u00e1ximo do cr\u00e9dito a ser garantido."
             }
         ],
-        "number": "39",
         "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2011-03.txt",
         "areas": [
             "CONSTITUTIONAL"
         ],
-        "valid": true,
+        "enum": "De acordo com a Constitui\u00e7\u00e3o da Rep\u00fablica, s\u00e3o inalist\u00e1veis e ineleg\u00edveis",
+        "filename": "2011-03.txt",
+        "number": "36",
         "options": [
             {
-                "letter": "A",
-                "text": "somente os analfabetos e os conscritos.",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    0.44594316186372973,
+                    1.4193679354741728,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "somente os analfabetos e os conscritos."
             },
             {
-                "letter": "B",
-                "text": "os estrangeiros, os analfabetos e os conscritos.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.29729544124248647,
+                    0.9462452903161153,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "os estrangeiros, os analfabetos e os conscritos."
             },
             {
-                "letter": "C",
-                "text": "somente os estrangeiros e os analfabetos.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    0.44594316186372973,
+                    1.4193679354741728,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "somente os estrangeiros e os analfabetos."
             },
             {
-                "letter": "D",
-                "text": "somente os estrangeiros e os conscritos.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ]
+                ],
+                "text": "somente os estrangeiros e os conscritos."
             }
         ],
-        "enum": "De acordo com a Constitui\u00e7\u00e3o da Rep\u00fablica, s\u00e3o inalist\u00e1veis e ineleg\u00edveis",
-        "number": "36"
+        "valid": true
     }
 ]

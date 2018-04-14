@@ -1,57 +1,57 @@
 [
     {
-        "number": "2",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Andrea e Luciano trocam missivas intermitentes, cujo conte\u00fado diz respeito a processo judicial em que a primeira \u00e9 autora, e o segundo, seu advogado. A parte contr\u00e1ria, ciente da troca de informa\u00e7\u00f5es entre eles, requer ao Ju\u00edzo que esses documentos sejam anexados aos autos do processo em que litigam.\n\n Sob a perspectiva do C\u00f3digo de \u00c9tica e Disciplina da Advocacia, as comunica\u00e7\u00f5es epistolares trocadas entre advogado e cliente",
+        "filename": "2014-14.txt",
+        "number": "2",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "constituem documentos p\u00fablicos a servirem como prova em Ju\u00edzo.",
                 "pmi": [
-                    -0.04044852773439927,
+                    0.11164909314223248,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "constituem documentos p\u00fablicos a servirem como prova em Ju\u00edzo."
             },
             {
+                "correct": true,
                 "letter": "B",
-                "text": "s\u00e3o presumidas confidenciais, n\u00e3o podendo ser reveladas a terceiros.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "s\u00e3o presumidas confidenciais, n\u00e3o podendo ser reveladas a terceiros."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "podem ser publicizadas, de acordo com a prud\u00eancia do advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "podem ser publicizadas, de acordo com a prud\u00eancia do advogado."
             },
             {
+                "correct": null,
                 "letter": "D",
-                "text": "devem ser mantidas em sigilo at\u00e9 o perecimento do advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "devem ser mantidas em sigilo at\u00e9 o perecimento do advogado."
             }
         ],
-        "filename": "2014-14.txt",
-        "valid": true,
-        "enum": "Andrea e Luciano trocam missivas intermitentes, cujo conte\u00fado diz respeito a processo judicial em que a primeira \u00e9 autora, e o segundo, seu advogado. A parte contr\u00e1ria, ciente da troca de informa\u00e7\u00f5es entre eles, requer ao Ju\u00edzo que esses documentos sejam anexados aos autos do processo em que litigam.\n\n Sob a perspectiva do C\u00f3digo de \u00c9tica e Disciplina da Advocacia, as comunica\u00e7\u00f5es epistolares trocadas entre advogado e cliente"
+        "valid": true
     }
 ]

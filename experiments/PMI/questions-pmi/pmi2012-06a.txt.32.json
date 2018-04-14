@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A",
-                "text": "dever\u00e1 prosseguir regularmente, uma vez que as inst\u00e2ncias penal e administrativa s\u00e3o independentes."
-            },
-            {
-                "pmi": [
-                    -0.05158107138695215,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B",
-                "text": "dever\u00e1 prosseguir regularmente, uma vez que a senten\u00e7a absolut\u00f3ria proferida na inst\u00e2ncia penal apenas vincularia a inst\u00e2ncia administrativa em caso de negativa da exist\u00eancia do fato."
-            },
-            {
-                "pmi": [
-                    -0.0655221485255139,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C",
-                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa somente pode configurar efeito secund\u00e1rio da responsabilidade penal."
-            },
-            {
-                "pmi": [
-                    -0.08691990737345251,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "D",
-                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa \u00e9 afastada no caso de absolvi\u00e7\u00e3o criminal que negue a autoria do fato."
-            }
-        ],
-        "valid": true,
         "areas": [
             "ADMINISTRATIVE"
         ],
-        "number": "32",
+        "enum": "T\u00edcio, servidor p\u00fablico pertencente aos quadros de uma autarquia federal, est\u00e1 respondendo a processo administrativo disciplinar por fato que tamb\u00e9m foi objeto de apura\u00e7\u00e3o em processo criminal, j\u00e1 conclu\u00eddo com senten\u00e7a absolut\u00f3ria de negativa de autoria transitada em julgado. Considerando a situa\u00e7\u00e3o hipot\u00e9tica narrada, o processo administrativo disciplinar",
         "filename": "2012-06a.txt",
-        "enum": "T\u00edcio, servidor p\u00fablico pertencente aos quadros de uma autarquia federal, est\u00e1 respondendo a processo administrativo disciplinar por fato que tamb\u00e9m foi objeto de apura\u00e7\u00e3o em processo criminal, j\u00e1 conclu\u00eddo com senten\u00e7a absolut\u00f3ria de negativa de autoria transitada em julgado. Considerando a situa\u00e7\u00e3o hipot\u00e9tica narrada, o processo administrativo disciplinar"
+        "number": "32",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "dever\u00e1 prosseguir regularmente, uma vez que as inst\u00e2ncias penal e administrativa s\u00e3o independentes."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.041126049909280545,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "dever\u00e1 prosseguir regularmente, uma vez que a senten\u00e7a absolut\u00f3ria proferida na inst\u00e2ncia penal apenas vincularia a inst\u00e2ncia administrativa em caso de negativa da exist\u00eancia do fato."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.006583390260444866,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa somente pode configurar efeito secund\u00e1rio da responsabilidade penal."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    0.031070974276298187,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa \u00e9 afastada no caso de absolvi\u00e7\u00e3o criminal que negue a autoria do fato."
+            }
+        ],
+        "valid": true
     }
 ]

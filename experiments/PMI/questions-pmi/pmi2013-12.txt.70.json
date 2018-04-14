@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
+        "enum": "Para que a garantia no emprego em raz\u00e3o da candidatura do empregado a dirigente sindical se consolide, a CLT disp\u00f5e no Art. 543, \u00a7 5\u00ba que: \u201cPara os fins deste artigo, a entidade sindical comunicar\u00e1 por escrito \u00e0 empresa, dentro de 24 (vinte e quatro) horas, o dia e a hora do registro da candidatura do seu empregado e, em igual prazo, sua elei\u00e7\u00e3o e posse, fornecendo, outrossim, a este comprovante no mesmo sentido\u201d.\n\n Gislene registrou sua candidatura a dirigente sindical, na condi\u00e7\u00e3o de Vice-presidente na chapa, mas o sindicato n\u00e3o comunicou tal fato ao seu empregador que, ignorando a situa\u00e7\u00e3o, concedeu aviso pr\u00e9vio \u00e0 empregada 10 dias depois. Nessa hip\u00f3tese, de acordo com o entendimento do TST, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
+        "number": "70",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O empregador, a seu crit\u00e9rio, aceitar\u00e1 ou n\u00e3o a justificativa tardia da empregada que se candidatou a dirigente sindical e mant\u00e9m seu contrato de trabalho.",
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.030186039694562402,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O empregador fica obrigado a respeitar a garantia no emprego, mesmo que seja informado deste fato ap\u00f3s a ruptura da interlocu\u00e7\u00e3o social, devendo readmiti-la.",
+                "text": "O empregador, a seu crit\u00e9rio, aceitar\u00e1 ou n\u00e3o a justificativa tardia da empregada que se candidatou a dirigente sindical e mant\u00e9m seu contrato de trabalho."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    0.001067491085566407,
+                    0.00725337467507003,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O empregador tem de respeitar a garantia, ainda que seja comunicado posteriormente da candidatura da empregada, desde que isso ocorra enquanto o pacto laboral estiver em vigor.",
+                "text": "O empregador fica obrigado a respeitar a garantia no emprego, mesmo que seja informado deste fato ap\u00f3s a ruptura da interlocu\u00e7\u00e3o social, devendo readmiti-la."
+            },
+            {
+                "correct": true,
                 "letter": "C",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.043257328164657494,
+                    0.015816351291785245,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A empresa n\u00e3o precisa respeitar a garantia no emprego porque o prazo legal n\u00e3o foi observado, de modo que isso n\u00e3o a vincula. Ademais, ignorando a garantia da empregada, a empresa n\u00e3o teria agido de m\u00e1-f\u00e9.",
+                "text": "O empregador tem de respeitar a garantia, ainda que seja comunicado posteriormente da candidatura da empregada, desde que isso ocorra enquanto o pacto laboral estiver em vigor."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    0.0378614029695461,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A empresa n\u00e3o precisa respeitar a garantia no emprego porque o prazo legal n\u00e3o foi observado, de modo que isso n\u00e3o a vincula. Ademais, ignorando a garantia da empregada, a empresa n\u00e3o teria agido de m\u00e1-f\u00e9."
             }
         ],
-        "number": "70",
-        "filename": "2013-12.txt",
-        "enum": "Para que a garantia no emprego em raz\u00e3o da candidatura do empregado a dirigente sindical se consolide, a CLT disp\u00f5e no Art. 543, \u00a7 5\u00ba que: \u201cPara os fins deste artigo, a entidade sindical comunicar\u00e1 por escrito \u00e0 empresa, dentro de 24 (vinte e quatro) horas, o dia e a hora do registro da candidatura do seu empregado e, em igual prazo, sua elei\u00e7\u00e3o e posse, fornecendo, outrossim, a este comprovante no mesmo sentido\u201d.\n\n Gislene registrou sua candidatura a dirigente sindical, na condi\u00e7\u00e3o de Vice-presidente na chapa, mas o sindicato n\u00e3o comunicou tal fato ao seu empregador que, ignorando a situa\u00e7\u00e3o, concedeu aviso pr\u00e9vio \u00e0 empregada 10 dias depois. Nessa hip\u00f3tese, de acordo com o entendimento do TST, assinale a afirmativa correta."
+        "valid": true
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2010-01.txt",
-        "options": [
-            {
-                "pmi": [
-                    -0.2226245841176296,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Dadas as partes envolvidas na lide, a compet\u00eancia para process\u00e1-la ser\u00e1 da vara de fam\u00edlia instalada na referida comarca.",
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.30960280666013,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Ser\u00e1 considerado prevento o ju\u00edzo em que tramita a a\u00e7\u00e3o cautelar caso nesta j\u00e1 tenha sido citado o r\u00e9u em primeiro lugar.",
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.20922699805640782,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A compet\u00eancia do ju\u00edzo, no caso, ser\u00e1 fixada em raz\u00e3o da mat\u00e9ria, de modo que caber\u00e1 o julgamento a uma vara c\u00edvel, a ser definida, entre as instaladas na comarca, pelo crit\u00e9rio da preven\u00e7\u00e3o.",
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.32856410262274366,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "Caso a cautelar j\u00e1 tenha sido despachada em primeiro lugar, o juiz que proferiu o despacho estar\u00e1 vinculado a seu julgamento e ser\u00e1, por isso, competente para o julgamento do processo principal.",
-                "correct": null,
-                "letter": "D"
-            }
-        ],
-        "enum": "Jo\u00e3o ajuizou a\u00e7\u00e3o em que pretende a anula\u00e7\u00e3o de t\u00edtulo de cr\u00e9dito emitido em favor de sua ex-esposa. Ao despachar a inicial, o juiz descobriu que a r\u00e9 j\u00e1 havia ajuizado, em outro ju\u00edzo da mesma comarca, a\u00e7\u00e3o cautelar de arresto fundada no mesmo t\u00edtulo.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica apresentada, assinale a op\u00e7\u00e3o correta.",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
-        "valid": true,
-        "number": "46"
+        "enum": "Jo\u00e3o ajuizou a\u00e7\u00e3o em que pretende a anula\u00e7\u00e3o de t\u00edtulo de cr\u00e9dito emitido em favor de sua ex-esposa. Ao despachar a inicial, o juiz descobriu que a r\u00e9 j\u00e1 havia ajuizado, em outro ju\u00edzo da mesma comarca, a\u00e7\u00e3o cautelar de arresto fundada no mesmo t\u00edtulo.\n\n Considerando a situa\u00e7\u00e3o hipot\u00e9tica apresentada, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2010-01.txt",
+        "number": "46",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.020731609284981214,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Dadas as partes envolvidas na lide, a compet\u00eancia para process\u00e1-la ser\u00e1 da vara de fam\u00edlia instalada na referida comarca."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.017575374576997014,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Ser\u00e1 considerado prevento o ju\u00edzo em que tramita a a\u00e7\u00e3o cautelar caso nesta j\u00e1 tenha sido citado o r\u00e9u em primeiro lugar."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.054408878129753896,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A compet\u00eancia do ju\u00edzo, no caso, ser\u00e1 fixada em raz\u00e3o da mat\u00e9ria, de modo que caber\u00e1 o julgamento a uma vara c\u00edvel, a ser definida, entre as instaladas na comarca, pelo crit\u00e9rio da preven\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.14566847939260055,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Caso a cautelar j\u00e1 tenha sido despachada em primeiro lugar, o juiz que proferiu o despacho estar\u00e1 vinculado a seu julgamento e ser\u00e1, por isso, competente para o julgamento do processo principal."
+            }
+        ],
+        "valid": true
     }
 ]

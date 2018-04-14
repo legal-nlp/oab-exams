@@ -1,55 +1,55 @@
 [
     {
-        "enum": "O advogado Carlos dirigiu-se a uma Delegacia de Pol\u00edcia para tentar obter c\u00f3pia de autos de inqu\u00e9rito no \u00e2mbito do qual seu cliente havia sido intimado para prestar esclarecimentos.\n\n No entanto, a vista dos autos foi negada pela autoridade policial, ao fundamento de que os autos estavam sob segredo de Justi\u00e7a. Mesmo ap\u00f3s Carlos ter apresentado procura\u00e7\u00e3o de seu cliente, afirmou o Delegado que, uma vez que o juiz havia decretado sigilo nos autos, a vista somente seria permitida com autoriza\u00e7\u00e3o judicial.\n\n Nos termos do Estatuto da Advocacia, \u00e9 correto afirmar que",
         "areas": [],
+        "enum": "O advogado Carlos dirigiu-se a uma Delegacia de Pol\u00edcia para tentar obter c\u00f3pia de autos de inqu\u00e9rito no \u00e2mbito do qual seu cliente havia sido intimado para prestar esclarecimentos.\n\n No entanto, a vista dos autos foi negada pela autoridade policial, ao fundamento de que os autos estavam sob segredo de Justi\u00e7a. Mesmo ap\u00f3s Carlos ter apresentado procura\u00e7\u00e3o de seu cliente, afirmou o Delegado que, uma vez que o juiz havia decretado sigilo nos autos, a vista somente seria permitida com autoriza\u00e7\u00e3o judicial.\n\n Nos termos do Estatuto da Advocacia, \u00e9 correto afirmar que",
         "filename": "2016-19.txt",
         "number": "2",
-        "valid": true,
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "Carlos pode ter acesso aos autos de qualquer inqu\u00e9rito, mesmo sem procura\u00e7\u00e3o.",
-                "letter": "A"
+                "text": "Carlos pode ter acesso aos autos de qualquer inqu\u00e9rito, mesmo sem procura\u00e7\u00e3o."
             },
             {
-                "pmi": [
-                    -0.034166459837610914,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Carlos pode ter acesso aos autos de inqu\u00e9ritos sob segredo de Justi\u00e7a, desde que esteja munido de procura\u00e7\u00e3o do investigado.",
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.03030264376620242,
+                    0.03957784119348327,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "em caso de inqu\u00e9rito sob segredo de Justi\u00e7a, apenas o magistrado que decretou o sigilo poder\u00e1 afastar parcialmente o sigilo, autorizando o acesso aos autos pelo advogado Carlos.",
-                "letter": "C"
+                "text": "Carlos pode ter acesso aos autos de inqu\u00e9ritos sob segredo de Justi\u00e7a, desde que esteja munido de procura\u00e7\u00e3o do investigado."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.034166459837610914,
+                    0.028692797058672927,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "em caso de inqu\u00e9rito sob segredo de Justi\u00e7a, apenas o magistrado que decretou o sigilo poder\u00e1 afastar parcialmente o sigilo, autorizando o acesso aos autos pelo advogado Carlos."
+            },
+            {
                 "correct": null,
-                "text": "o segredo de Justi\u00e7a de inqu\u00e9ritos em andamento \u00e9 opon\u00edvel ao advogado Carlos, mesmo munido de procura\u00e7\u00e3o.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.03957784119348327,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o segredo de Justi\u00e7a de inqu\u00e9ritos em andamento \u00e9 opon\u00edvel ao advogado Carlos, mesmo munido de procura\u00e7\u00e3o."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

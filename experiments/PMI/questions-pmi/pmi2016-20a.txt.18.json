@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Inconformado com decis\u00e3o proferida em sede de primeiro grau da Justi\u00e7a Estadual, que reconheceu a licitude da exig\u00eancia de pr\u00e9vio dep\u00f3sito de dinheiro como condi\u00e7\u00e3o para a admissibilidade de recurso administrativo, em clara afronta \u00e0 S\u00famula Vinculante editada pelo Supremo Tribunal Federal, Jo\u00e3o busca orienta\u00e7\u00e3o jur\u00eddica com conceituado advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a medida judicial que deve ser apresentada para que, em conson\u00e2ncia com o sistema jur\u00eddico-constitucional brasileiro, Jo\u00e3o, como legitimado, possa buscar a cassa\u00e7\u00e3o da supramencionada decis\u00e3o judicial.",
         "areas": [],
+        "enum": "Inconformado com decis\u00e3o proferida em sede de primeiro grau da Justi\u00e7a Estadual, que reconheceu a licitude da exig\u00eancia de pr\u00e9vio dep\u00f3sito de dinheiro como condi\u00e7\u00e3o para a admissibilidade de recurso administrativo, em clara afronta \u00e0 S\u00famula Vinculante editada pelo Supremo Tribunal Federal, Jo\u00e3o busca orienta\u00e7\u00e3o jur\u00eddica com conceituado advogado.\n\n Assinale a op\u00e7\u00e3o que apresenta a medida judicial que deve ser apresentada para que, em conson\u00e2ncia com o sistema jur\u00eddico-constitucional brasileiro, Jo\u00e3o, como legitimado, possa buscar a cassa\u00e7\u00e3o da supramencionada decis\u00e3o judicial.",
+        "filename": "2016-20a.txt",
         "number": "18",
-        "valid": true,
         "options": [
             {
-                "text": "Ingressar com reclama\u00e7\u00e3o perante o Supremo Tribunal Federal, por contrariar S\u00famula Vinculante por ele aprovada.",
+                "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.18827143450464595,
-                    -0.0015019322758234057,
+                    0.1648985513857643,
+                    0.04919727468305385,
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "Ingressar com reclama\u00e7\u00e3o perante o Supremo Tribunal Federal, por contrariar S\u00famula Vinculante por ele aprovada."
             },
             {
-                "text": "Interpor recurso extraordin\u00e1rio perante o Supremo Tribunal Federal, pelo fato de a decis\u00e3o ofender a interpreta\u00e7\u00e3o constitucional sumulada pelo Tribunal.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.24036408545010926,
-                    -0.005605588004333127,
+                    0.12638936143608606,
+                    0.011294147648625956,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Interpor recurso extraordin\u00e1rio perante o Supremo Tribunal Federal, pelo fato de a decis\u00e3o ofender a interpreta\u00e7\u00e3o constitucional sumulada pelo Tribunal."
             },
             {
-                "text": "Propor a\u00e7\u00e3o direta de inconstitucionalidade, perante o Tribunal de Justi\u00e7a ou o Supremo Tribunal Federal, por a referida decis\u00e3o conter expl\u00edcita inconstitucionalidade.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.2659322914038355,
-                    -0.0051743889270767325,
+                    0.11719407721835065,
+                    0.010425367060270113,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Propor a\u00e7\u00e3o direta de inconstitucionalidade, perante o Tribunal de Justi\u00e7a ou o Supremo Tribunal Federal, por a referida decis\u00e3o conter expl\u00edcita inconstitucionalidade."
             },
             {
-                "text": "Arguir o descumprimento de preceito fundamental, j\u00e1 que a decis\u00e3o est\u00e1 baseada em ato administrativo contr\u00e1rio \u00e0 intelig\u00eancia da CRFB/88.",
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.07551772790581429,
-                    0.0012349937435221462,
+                    0.040366173714476566,
+                    0.019671069001295692,
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "Arguir o descumprimento de preceito fundamental, j\u00e1 que a decis\u00e3o est\u00e1 baseada em ato administrativo contr\u00e1rio \u00e0 intelig\u00eancia da CRFB/88."
             }
         ],
-        "filename": "2016-20a.txt"
+        "valid": true
     }
 ]

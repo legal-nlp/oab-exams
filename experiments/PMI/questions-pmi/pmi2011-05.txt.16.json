@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    -0.27517238343229,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "deferir a penhora, pois a Constitui\u00e7\u00e3o atribui compet\u00eancia \u00e0 justi\u00e7a brasileira para a\u00e7\u00f5es de execu\u00e7\u00e3o contra Estados estrangeiros.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.12932496951903086,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "indeferir a penhora, pois o Estado estrangeiro, no que diz respeito \u00e0 execu\u00e7\u00e3o, possui imunidade, e seus bens s\u00e3o inviol\u00e1veis.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.059987706522638504,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "extinguir o feito sem julgamento do m\u00e9rito por entender que o Estado estrangeiro tem imunidade de jurisdi\u00e7\u00e3o.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.07931561223122621,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "deferir a penhora, pois o Estado estrangeiro n\u00e3o goza de nenhuma imunidade quando se tratar de a\u00e7\u00f5es trabalhistas.",
-                "letter": "D"
-            }
-        ],
-        "enum": "A embaixada de um estado estrangeiro localizada no Brasil contratou um empregado brasileiro para os servi\u00e7os gerais. No final do ano, n\u00e3o pagou o 13\u00ba sal\u00e1rio, por entender que, em seu pa\u00eds, este n\u00e3o era devido. O empregado, insatisfeito, recorreu \u00e0 Justi\u00e7a do Trabalho. A a\u00e7\u00e3o foi julgada procedente, mas a embaixada n\u00e3o cumpriu a senten\u00e7a. Por isso, o reclamante solicitou a penhora de um carro da embaixada. Com base no relatado acima, o Juiz do Trabalho decidiu",
-        "valid": true,
-        "number": "16",
         "areas": [
             "INTERNATIONAL"
         ],
-        "filename": "2011-05.txt"
+        "enum": "A embaixada de um estado estrangeiro localizada no Brasil contratou um empregado brasileiro para os servi\u00e7os gerais. No final do ano, n\u00e3o pagou o 13\u00ba sal\u00e1rio, por entender que, em seu pa\u00eds, este n\u00e3o era devido. O empregado, insatisfeito, recorreu \u00e0 Justi\u00e7a do Trabalho. A a\u00e7\u00e3o foi julgada procedente, mas a embaixada n\u00e3o cumpriu a senten\u00e7a. Por isso, o reclamante solicitou a penhora de um carro da embaixada. Com base no relatado acima, o Juiz do Trabalho decidiu",
+        "filename": "2011-05.txt",
+        "number": "16",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.028232740809926007,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deferir a penhora, pois a Constitui\u00e7\u00e3o atribui compet\u00eancia \u00e0 justi\u00e7a brasileira para a\u00e7\u00f5es de execu\u00e7\u00e3o contra Estados estrangeiros."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.025186899308023637,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "indeferir a penhora, pois o Estado estrangeiro, no que diz respeito \u00e0 execu\u00e7\u00e3o, possui imunidade, e seus bens s\u00e3o inviol\u00e1veis."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.009542634449536014,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "extinguir o feito sem julgamento do m\u00e9rito por entender que o Estado estrangeiro tem imunidade de jurisdi\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.009785271259051691,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "deferir a penhora, pois o Estado estrangeiro n\u00e3o goza de nenhuma imunidade quando se tratar de a\u00e7\u00f5es trabalhistas."
+            }
+        ],
+        "valid": true
     }
 ]

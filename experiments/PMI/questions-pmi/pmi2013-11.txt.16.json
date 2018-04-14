@@ -1,57 +1,57 @@
 [
     {
-        "number": "16",
-        "options": [
-            {
-                "letter": "A",
-                "text": "Desapropriar o terreno, sem que haja pagamento de indeniza\u00e7\u00e3o.",
-                "correct": null,
-                "pmi": [
-                    -0.1712429734936183,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "B",
-                "text": "Desapropriar o terreno, mediante pagamento de indeniza\u00e7\u00e3o justa, pr\u00e9via e em dinheiro.",
-                "correct": null,
-                "pmi": [
-                    -0.09785312771063903,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "C",
-                "text": "Determinar edifica\u00e7\u00e3o compuls\u00f3ria naquele terreno.",
-                "correct": true,
-                "pmi": [
-                    -0.1712429734936183,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "letter": "D",
-                "text": "Instituir multa administrativa no patamar de at\u00e9 100% do valor no IPTU do im\u00f3vel.",
-                "correct": null,
-                "pmi": [
-                    -0.09372659273951321,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "valid": true,
         "areas": [
             "CONSTITUTIONAL"
         ],
+        "enum": "\u201cM\u201d vem desrespeitando o zoneamento estipulado pelo Munic\u00edpio X em seu plano diretor, uma vez que mant\u00e9m, com n\u00edtido car\u00e1ter de especula\u00e7\u00e3o, terreno n\u00e3o utilizado em \u00e1rea residencial.\n\n Assinale a alternativa que indica medida que o Munic\u00edpio X pode tomar para que \u201cM\u201d utilize adequadamente seu terreno.",
         "filename": "2013-11.txt",
-        "enum": "\u201cM\u201d vem desrespeitando o zoneamento estipulado pelo Munic\u00edpio X em seu plano diretor, uma vez que mant\u00e9m, com n\u00edtido car\u00e1ter de especula\u00e7\u00e3o, terreno n\u00e3o utilizado em \u00e1rea residencial.\n\n Assinale a alternativa que indica medida que o Munic\u00edpio X pode tomar para que \u201cM\u201d utilize adequadamente seu terreno."
+        "number": "16",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.01595409835454388,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Desapropriar o terreno, sem que haja pagamento de indeniza\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.009116627631167933,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Desapropriar o terreno, mediante pagamento de indeniza\u00e7\u00e3o justa, pr\u00e9via e em dinheiro."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.01595409835454388,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Determinar edifica\u00e7\u00e3o compuls\u00f3ria naquele terreno."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.01324316260229374,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Instituir multa administrativa no patamar de at\u00e9 100% do valor no IPTU do im\u00f3vel."
+            }
+        ],
+        "valid": true
     }
 ]

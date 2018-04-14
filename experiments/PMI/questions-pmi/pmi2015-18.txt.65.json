@@ -1,15 +1,15 @@
 [
     {
         "areas": [],
-        "number": "65",
         "enum": "Bruna foi presa em flagrante e denunciada pela pr\u00e1tica de um crime de falsifica\u00e7\u00e3o de documento p\u00fablico. Na ocasi\u00e3o da pris\u00e3o, foi apreendida uma mochila que estava dentro do ve\u00edculo de Bruna, sendo que em seu interior existiam algumas joias. Diante da natureza do crime apurado, n\u00e3o existe mais interesse na mochila apreendida com as joias para o desenrolar do processo. Cl\u00e1udia, colega de trabalho de Bruna, requer a restitui\u00e7\u00e3o desses bens, alegando ser propriet\u00e1ria. Existe, por\u00e9m, d\u00favida quanto ao direito da reclamante.\n\n Considerando as informa\u00e7\u00f5es narradas na hip\u00f3tese, \u00e9 correto afirmar que",
-        "valid": true,
+        "filename": "2015-18.txt",
+        "number": "65",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.06950489219204935,
+                    0.036302148417781434,
                     0.0,
                     0.0,
                     0.0
@@ -31,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.033650225151558674,
+                    0.036887801921661856,
                     0.0,
                     0.0,
                     0.0
@@ -42,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.041833062803181435,
+                    0.08513538592861553,
                     0.0,
                     0.0,
                     0.0
@@ -50,6 +50,6 @@
                 "text": "n\u00e3o caber\u00e1 produ\u00e7\u00e3o de provas no incidente de restitui\u00e7\u00e3o."
             }
         ],
-        "filename": "2015-18.txt"
+        "valid": true
     }
 ]

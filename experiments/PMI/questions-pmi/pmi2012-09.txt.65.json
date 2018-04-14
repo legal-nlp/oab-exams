@@ -3,15 +3,15 @@
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "valid": true,
         "enum": "Com rela\u00e7\u00e3o \u00e0 Lei n. 9.099/95, assinale a afirmativa incorreta.",
+        "filename": "2012-09.txt",
         "number": "65",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.0365467632042587,
+                    0.050366163010959454,
                     0.0,
                     0.0,
                     0.0
@@ -22,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.1288723297186151,
+                    -0.007194233017309692,
                     0.0,
                     0.0,
                     0.0
@@ -33,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.2574998334528425,
+                    -0.03626693035955996,
                     0.0,
                     0.0,
                     0.0
@@ -44,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.19884435456541286,
+                    0.003952473270096135,
                     0.0,
                     0.0,
                     0.0
@@ -52,6 +52,6 @@
                 "text": "Se, no curso da suspens\u00e3o condicional do processo, o acusado vier a ser processado por contraven\u00e7\u00e3o penal, o benef\u00edcio poder\u00e1 ser revogado pelo juiz."
             }
         ],
-        "filename": "2012-09.txt"
+        "valid": true
     }
 ]

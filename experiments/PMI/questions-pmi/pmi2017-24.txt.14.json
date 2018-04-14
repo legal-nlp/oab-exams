@@ -4,14 +4,15 @@
             null
         ],
         "enum": "Numerosos partidos pol\u00edticos de oposi\u00e7\u00e3o ao governo federal iniciaram tratativas a fim de se fundirem, criando um novo partido, o Partido Delta.  Almejam, com isso, criar uma for\u00e7a pol\u00edtica de maior relev\u00e2ncia no contexto nacional. Preocupados com a repercuss\u00e3o da iniciativa no \u00e2mbito das pol\u00edticas regionais e percebendo que as tratativas pol\u00edticas est\u00e3o avan\u00e7adas, alguns deputados federais buscam argumentos jur\u00eddico-constitucionais que impe\u00e7am a cria\u00e7\u00e3o desse novo partido.\n\n Em reuni\u00e3o, concluem que, embora o quadro jur\u00eddico- constitucional brasileiro n\u00e3o vede a fus\u00e3o de partidos pol\u00edticos, estes, como pessoas jur\u00eddicas de direito p\u00fablico, somente poder\u00e3o ser criados mediante lei aprovada no Congresso Nacional.\n\n Ao submeterem essas conclus\u00f5es a um competente advogado, este, alicer\u00e7ado na Constitui\u00e7\u00e3o da Rep\u00fablica, afirma que os deputados federais",
-        "valid": true,
+        "filename": "2017-24.txt",
+        "number": "14",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.17245660630348028,
-                    -0.00019984087852719314,
+                    0.09877630275206123,
+                    0.007871674657214459,
                     0.0,
                     0.0
                 ],
@@ -21,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.07468937378383468,
+                    0.0843669617734273,
                     0.0,
                     0.0,
                     0.0
@@ -32,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.09374060100613002,
+                    0.12098545199617364,
                     0.0,
                     0.0,
                     0.0
@@ -43,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.10515023024694883,
+                    0.06813746164964711,
                     0.0,
                     0.0,
                     0.0
@@ -51,7 +52,6 @@
                 "text": "est\u00e3o corretos, pois a Constitui\u00e7\u00e3o da Rep\u00fablica, ao exigir que a cria\u00e7\u00e3o ou a fus\u00e3o de partidos pol\u00edticos se d\u00ea pela via legislativa, concedeu ao Congresso Nacional amplos poderes de fiscaliza\u00e7\u00e3o para sua cria\u00e7\u00e3o ou fus\u00e3o."
             }
         ],
-        "filename": "2017-24.txt",
-        "number": "14"
+        "valid": true
     }
 ]

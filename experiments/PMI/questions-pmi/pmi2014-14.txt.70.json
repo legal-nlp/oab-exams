@@ -1,57 +1,57 @@
 [
     {
-        "number": "70",
-        "valid": true,
-        "filename": "2014-14.txt",
-        "options": [
-            {
-                "letter": "A",
-                "text": "Uma vez que as horas foram prestadas no dia de domingo, a compensa\u00e7\u00e3o dever\u00e1 ser feita em dobro, ou seja, em 16 horas.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "text": "Por imposi\u00e7\u00e3o legal, as horas devidas devem ser compensadas e pagas ao trabalhador, com acr\u00e9scimo de 100%, em fun\u00e7\u00e3o do seu sacrif\u00edcio.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "C",
-                "text": "A compensa\u00e7\u00e3o deve ser feita pela hora simples (8 horas), pois n\u00e3o deve ser confundida com o pagamento, que, no caso, receberia acr\u00e9scimo de 100%.",
-                "pmi": [
-                    -0.05966098930119596,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            },
-            {
-                "letter": "D",
-                "text": "Se a empresa estivesse em dificuldade financeira e n\u00e3o quisesse realizar a compensa\u00e7\u00e3o, poderia criar um banco de horas extras diretamente com o empregado, e lan\u00e7ar nelas as horas extraordin\u00e1rias.",
-                "pmi": [
-                    -0.024153251079335372,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            }
-        ],
         "areas": [
             "LABOUR"
         ],
-        "enum": "Jefferson \u00e9 balconista numa loja e, por determina\u00e7\u00e3o do empregador e necessidade do servi\u00e7o, precisou trabalhar 8 horas em um domingo. Agora Jefferson far\u00e1, na mesma semana, a compensa\u00e7\u00e3o dessas horas.\n\n Sobre essa situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o correta."
+        "enum": "Jefferson \u00e9 balconista numa loja e, por determina\u00e7\u00e3o do empregador e necessidade do servi\u00e7o, precisou trabalhar 8 horas em um domingo. Agora Jefferson far\u00e1, na mesma semana, a compensa\u00e7\u00e3o dessas horas.\n\n Sobre essa situa\u00e7\u00e3o, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "70",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Uma vez que as horas foram prestadas no dia de domingo, a compensa\u00e7\u00e3o dever\u00e1 ser feita em dobro, ou seja, em 16 horas."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Por imposi\u00e7\u00e3o legal, as horas devidas devem ser compensadas e pagas ao trabalhador, com acr\u00e9scimo de 100%, em fun\u00e7\u00e3o do seu sacrif\u00edcio."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.0024007085005816474,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A compensa\u00e7\u00e3o deve ser feita pela hora simples (8 horas), pois n\u00e3o deve ser confundida com o pagamento, que, no caso, receberia acr\u00e9scimo de 100%."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.052193789988150364,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se a empresa estivesse em dificuldade financeira e n\u00e3o quisesse realizar a compensa\u00e7\u00e3o, poderia criar um banco de horas extras diretamente com o empregado, e lan\u00e7ar nelas as horas extraordin\u00e1rias."
+            }
+        ],
+        "valid": true
     }
 ]

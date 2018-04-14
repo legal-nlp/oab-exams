@@ -1,12 +1,15 @@
 [
     {
+        "areas": [],
         "enum": "Isabela e Matheus pretendem ingressar com a\u00e7\u00e3o judicial pr\u00f3pria a fim de adotar a crian\u00e7a P., hoje com 4 anos, que est\u00e1 sob guarda de fato do casal desde quando tinha 1 ano de idade. Os pais biol\u00f3gicos do infante s\u00e3o conhecidos e n\u00e3o se op\u00f5em \u00e0 referida ado\u00e7\u00e3o, at\u00e9 porque as fam\u00edlias mant\u00eam conv\u00edvio em datas festivas, uma vez que Isabela e Matheus consideram importante que P. conhe\u00e7a sua matriz biol\u00f3gica e mantenha conviv\u00eancia com os membros de sua fam\u00edlia origin\u00e1ria.\n\n Partindo das diretrizes impostas pelo ECA e sua interpreta\u00e7\u00e3o \u00e0 luz da norma civilista aplic\u00e1veis \u00e0 situa\u00e7\u00e3o narrada, assinale a afirmativa correta.",
+        "filename": "2015-18.txt",
+        "number": "44",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.11669868266510228,
+                    -5.7369923110174284e-05,
                     0.0,
                     0.0,
                     0.0
@@ -17,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.05581595408363869,
+                    0.004271994904660277,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +31,7 @@
                 "correct": true,
                 "letter": "C",
                 "pmi": [
-                    -0.20132742595972158,
+                    -0.003895593569596444,
                     0.0,
                     0.0,
                     0.0
@@ -39,7 +42,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.19892524052757263,
+                    -0.0014934081374474832,
                     0.0,
                     0.0,
                     0.0
@@ -47,9 +50,6 @@
                 "text": "A ado\u00e7\u00e3o \u00e9 medida excepcional, que decorre de incompatibilidade de os pais biol\u00f3gicos cumprirem os deveres inerentes ao poder familiar, motivo pelo qual, mesmo os pais de P. sendo conhecidos, a oitiva deles no curso do processo \u00e9 mera faculdade e pode ser dispensada."
             }
         ],
-        "filename": "2015-18.txt",
-        "areas": [],
-        "number": "44",
         "valid": true
     }
 ]

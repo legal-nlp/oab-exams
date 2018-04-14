@@ -1,57 +1,57 @@
 [
     {
-        "number": "10",
+        "areas": [
+            "ETHICS"
+        ],
+        "enum": "T\u00edcio, advogado militante h\u00e1 longos anos, tem entrevero com o Juiz da Comarca W que, em altos brados, afirma que o caus\u00eddico \u00e9 praticante de chicanas e atos de m\u00e1-f\u00e9 processual, sendo conhecido como ex\u00edmio procrastinador da atividade processual, obstando o bom desenvolvimento da Justi\u00e7a. \u00c0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, \u00e9 correto afirmar:",
         "filename": "2012-07.txt",
-        "valid": true,
+        "number": "10",
         "options": [
             {
                 "correct": null,
-                "text": "Tais atos permitem o agravo do advogado se houver requerimento pessoal ao Presidente da Seccional.",
+                "letter": "A",
                 "pmi": [
-                    -0.023200008325993098,
+                    0.00957523657671543,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "Tais atos permitem o agravo do advogado se houver requerimento pessoal ao Presidente da Seccional."
             },
             {
                 "correct": null,
-                "text": "Havendo requerimento de qualquer pessoa poder\u00e1 ocorrer o desagravo ap\u00f3s decis\u00e3o do Relator do processo.",
+                "letter": "B",
                 "pmi": [
-                    -0.06450062603277426,
+                    0.046115825513867024,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Havendo requerimento de qualquer pessoa poder\u00e1 ocorrer o desagravo ap\u00f3s decis\u00e3o do Relator do processo."
             },
             {
                 "correct": true,
-                "text": "O desagravo \u00e9 p\u00fablico e promovido pelo Conselho competente podendo ocorrer de of\u00edcio.",
+                "letter": "C",
                 "pmi": [
-                    -0.07224915606045369,
+                    0.05416964570713634,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "O desagravo \u00e9 p\u00fablico e promovido pelo Conselho competente podendo ocorrer de of\u00edcio."
             },
             {
                 "correct": null,
-                "text": "Caso constatado que a ofensa \u00e9 decorrente do exerc\u00edcio da profiss\u00e3o poder\u00e1 ocorrer o arquivamento sum\u00e1rio.",
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "Caso constatado que a ofensa \u00e9 decorrente do exerc\u00edcio da profiss\u00e3o poder\u00e1 ocorrer o arquivamento sum\u00e1rio."
             }
         ],
-        "enum": "T\u00edcio, advogado militante h\u00e1 longos anos, tem entrevero com o Juiz da Comarca W que, em altos brados, afirma que o caus\u00eddico \u00e9 praticante de chicanas e atos de m\u00e1-f\u00e9 processual, sendo conhecido como ex\u00edmio procrastinador da atividade processual, obstando o bom desenvolvimento da Justi\u00e7a. \u00c0 luz das normas do Regulamento Geral do Estatuto da Advocacia e da OAB, \u00e9 correto afirmar:",
-        "areas": [
-            "ETHICS"
-        ]
+        "valid": true
     }
 ]

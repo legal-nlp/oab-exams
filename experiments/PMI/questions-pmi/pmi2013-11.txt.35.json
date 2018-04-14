@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "enum": "T\u00e9cnicos do IBAMA, autarquia federal, verificaram que determinada unidade industrial, licenciada pelo Estado no qual est\u00e1 localizada, est\u00e1 causando degrada\u00e7\u00e3o ambiental significativa, vindo a lavrar auto de infra\u00e7\u00e3o pelos danos cometidos.\n\n Sobre o caso apresentado e aplicando as regras de licenciamento e fiscaliza\u00e7\u00e3o ambiental previstas na Lei Complementar n. 140/2011, assinale a afirmativa correta.",
-        "number": "35",
         "areas": [
             "ENVIRONMENTAL"
         ],
+        "enum": "T\u00e9cnicos do IBAMA, autarquia federal, verificaram que determinada unidade industrial, licenciada pelo Estado no qual est\u00e1 localizada, est\u00e1 causando degrada\u00e7\u00e3o ambiental significativa, vindo a lavrar auto de infra\u00e7\u00e3o pelos danos cometidos.\n\n Sobre o caso apresentado e aplicando as regras de licenciamento e fiscaliza\u00e7\u00e3o ambiental previstas na Lei Complementar n. 140/2011, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "35",
         "options": [
             {
-                "pmi": [
-                    -0.10864119557040106,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "H\u00e1 irregularidade no licenciamento ambiental, uma vez que em se tratando de atividade que cause degrada\u00e7\u00e3o ambiental significativa, o mesmo deveria ser realizado pela Uni\u00e3o.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.17731664976238307,
+                    0.0767730470220643,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "H\u00e1 irregularidade no licenciamento ambiental, uma vez que em se tratando de atividade que cause degrada\u00e7\u00e3o ambiental significativa, o mesmo deveria ser realizado pela Uni\u00e3o."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "text": "\u00c9 ilegal a fiscaliza\u00e7\u00e3o realizada pelo IBAMA, que s\u00f3 pode exercer poder de pol\u00edcia de atividades licenciadas pela Uni\u00e3o, em sendo a atividade regularmente licenciada pelo Estado.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.28690286899796585,
+                    0.031274373154140514,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "\u00c9 ilegal a fiscaliza\u00e7\u00e3o realizada pelo IBAMA, que s\u00f3 pode exercer poder de pol\u00edcia de atividades licenciadas pela Uni\u00e3o, em sendo a atividade regularmente licenciada pelo Estado."
+            },
+            {
+                "correct": true,
                 "letter": "C",
-                "text": "\u00c9 poss\u00edvel a fiscaliza\u00e7\u00e3o do IBAMA o qual pode, inclusive, lavrar auto de infra\u00e7\u00e3o, que, por\u00e9m, n\u00e3o prevalecer\u00e1 caso o \u00f3rg\u00e3o estadual de fiscaliza\u00e7\u00e3o tamb\u00e9m lavre auto de infra\u00e7\u00e3o.",
-                "correct": true
-            },
-            {
                 "pmi": [
-                    -0.18648495099623505,
+                    0.046842767668471855,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "\u00c9 poss\u00edvel a fiscaliza\u00e7\u00e3o do IBAMA o qual pode, inclusive, lavrar auto de infra\u00e7\u00e3o, que, por\u00e9m, n\u00e3o prevalecer\u00e1 caso o \u00f3rg\u00e3o estadual de fiscaliza\u00e7\u00e3o tamb\u00e9m lavre auto de infra\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "text": "Cabe somente  \u00e0 Uni\u00e3o, no exerc\u00edcio da compet\u00eancia de fiscaliza\u00e7\u00e3o, adotar medidas para evitar danos ambientais iminentes, comunicando imediatamente ao \u00f3rg\u00e3o competente, em sendo a atividade licenciada pelo Estado.",
-                "correct": null
+                "pmi": [
+                    0.009836011748728318,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Cabe somente  \u00e0 Uni\u00e3o, no exerc\u00edcio da compet\u00eancia de fiscaliza\u00e7\u00e3o, adotar medidas para evitar danos ambientais iminentes, comunicando imediatamente ao \u00f3rg\u00e3o competente, em sendo a atividade licenciada pelo Estado."
             }
         ],
-        "filename": "2013-11.txt"
+        "valid": true
     }
 ]

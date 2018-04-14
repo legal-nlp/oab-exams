@@ -1,56 +1,56 @@
 [
     {
+        "areas": [
+            "CRIMINAL"
+        ],
         "enum": "Apolo foi amea\u00e7ado de morte por Hades, conhecido matador de aluguel. Tendo tido ci\u00eancia, por fontes seguras, que Hades o mataria naquela noite e, com o intuito de defender-se, Apolo saiu de casa com uma faca no bolso de seu casaco. Naquela noite, ao encontrar Hades em uma rua vazia e escura e, vendo que este colocava a m\u00e3o no bolso, Apolo precipita-se e, objetivando impedir o ataque que imaginava iminente, esfaqueia Hades, provocando-lhe as les\u00f5es corporais que desejava. Todavia, ap\u00f3s o ocorrido, o pr\u00f3prio Hades contou a Apolo que n\u00e3o ia mat\u00e1-lo, pois havia desistido de seu intento e, naquela noite, foi ao seu encontro justamente para dar-lhe a not\u00edcia. Nesse sentido, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "63",
         "options": [
             {
                 "correct": true,
-                "text": "havia dolo na conduta de Apolo.",
                 "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "havia dolo na conduta de Apolo."
             },
             {
                 "correct": null,
-                "text": "mesmo sendo o erro escus\u00e1vel, Apolo n\u00e3o \u00e9 isento de pena.",
                 "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "mesmo sendo o erro escus\u00e1vel, Apolo n\u00e3o \u00e9 isento de pena."
             },
             {
                 "correct": null,
-                "text": "Apolo n\u00e3o agiu em leg\u00edtima defesa putativa.",
                 "letter": "C",
                 "pmi": [
-                    -0.039478854541607565,
+                    -0.0064814045887111905,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Apolo n\u00e3o agiu em leg\u00edtima defesa putativa."
             },
             {
                 "correct": null,
-                "text": "mesmo sendo o erro inescus\u00e1vel, Apolo responde a t\u00edtulo de dolo.",
                 "letter": "D",
                 "pmi": [
-                    -0.04982388988168181,
+                    0.005171860039812164,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "mesmo sendo o erro inescus\u00e1vel, Apolo responde a t\u00edtulo de dolo."
             }
-        ],
-        "number": "63",
-        "filename": "2011-05.txt",
-        "areas": [
-            "CRIMINAL"
         ],
         "valid": true
     }

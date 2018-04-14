@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Helena, condenada a pena privativa de liberdade, sofre, no curso da execu\u00e7\u00e3o da referida pena, superveni\u00eancia de doen\u00e7a mental. Nesse caso, o juiz da execu\u00e7\u00e3o, verificando que a enfermidade mental tem car\u00e1ter permanente, dever\u00e1",
-        "options": [
-            {
-                "text": "aplicar o Art. 41, do CP, que assim disp\u00f5e, verbis: \u201c O condenado a quem sobrev\u00e9m doen\u00e7a mental deve ser recolhido a hospital de cust\u00f3dia e tratamento psiqui\u00e1trico ou, \u00e0 falta, a outro estabelecimento adequado.\u201d",
-                "pmi": [
-                    -0.04620687288838863,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "text": "aplicar o Art. 97, do CP, que assim disp\u00f5e, verbis: \u201c Se o agente for inimput\u00e1vel, o juiz determinar\u00e1 sua interna\u00e7\u00e3o (Art. 26). Se, todavia, o fato previsto como crime for pun\u00edvel com deten\u00e7\u00e3o, poder\u00e1 o juiz submet\u00ea-lo a tratamento ambulatorial.\u201d",
-                "pmi": [
-                    -0.0994342434293072,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "text": "aplicar o Art. 183 da LEP (Lei n. 7.210/84), que assim disp\u00f5e, verbis: \u201cQuando, no curso da execu\u00e7\u00e3o da pena privativa de liberdade, sobrevier doen\u00e7a mental ou perturba\u00e7\u00e3o da sa\u00fade mental, o Juiz, de Of\u00edcio, a requerimento do Minist\u00e9rio P\u00fablico, da Defensoria P\u00fablica ou da autoridade administrativa, poder\u00e1 determinar a substitui\u00e7\u00e3o da pena por medida de seguran\u00e7a.\u201d",
-                "pmi": [
-                    -0.20516116306636223,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "text": "aplicar o Art. 108 da LEP (Lei n. 7.210/84), que assim disp\u00f5e, verbis: \u201cO condenado a quem sobrevier doen\u00e7a mental ser\u00e1 internado em Hospital de Cust\u00f3dia e Tratamento Psiqui\u00e1trico\u201d.",
-                "pmi": [
-                    -0.24286067121067909,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D"
-            }
-        ],
-        "valid": true,
-        "number": "61",
         "areas": [
             "CRIMINAL"
         ],
-        "filename": "2013-11.txt"
+        "enum": "Helena, condenada a pena privativa de liberdade, sofre, no curso da execu\u00e7\u00e3o da referida pena, superveni\u00eancia de doen\u00e7a mental. Nesse caso, o juiz da execu\u00e7\u00e3o, verificando que a enfermidade mental tem car\u00e1ter permanente, dever\u00e1",
+        "filename": "2013-11.txt",
+        "number": "61",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.00832672787410119,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "aplicar o Art. 41, do CP, que assim disp\u00f5e, verbis: \u201c O condenado a quem sobrev\u00e9m doen\u00e7a mental deve ser recolhido a hospital de cust\u00f3dia e tratamento psiqui\u00e1trico ou, \u00e0 falta, a outro estabelecimento adequado.\u201d"
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.03576364179436546,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "aplicar o Art. 97, do CP, que assim disp\u00f5e, verbis: \u201c Se o agente for inimput\u00e1vel, o juiz determinar\u00e1 sua interna\u00e7\u00e3o (Art. 26). Se, todavia, o fato previsto como crime for pun\u00edvel com deten\u00e7\u00e3o, poder\u00e1 o juiz submet\u00ea-lo a tratamento ambulatorial.\u201d"
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    0.07811059644990428,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "aplicar o Art. 183 da LEP (Lei n. 7.210/84), que assim disp\u00f5e, verbis: \u201cQuando, no curso da execu\u00e7\u00e3o da pena privativa de liberdade, sobrevier doen\u00e7a mental ou perturba\u00e7\u00e3o da sa\u00fade mental, o Juiz, de Of\u00edcio, a requerimento do Minist\u00e9rio P\u00fablico, da Defensoria P\u00fablica ou da autoridade administrativa, poder\u00e1 determinar a substitui\u00e7\u00e3o da pena por medida de seguran\u00e7a.\u201d"
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.011092867970097375,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "aplicar o Art. 108 da LEP (Lei n. 7.210/84), que assim disp\u00f5e, verbis: \u201cO condenado a quem sobrevier doen\u00e7a mental ser\u00e1 internado em Hospital de Cust\u00f3dia e Tratamento Psiqui\u00e1trico\u201d."
+            }
+        ],
+        "valid": true
     }
 ]

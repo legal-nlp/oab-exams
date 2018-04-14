@@ -1,57 +1,57 @@
 [
     {
-        "number": "57",
-        "enum": "Gl\u00e1ucia ajuizou, em abril de 2016, a\u00e7\u00e3o de alimentos em face de Miguel com fundamento na paternidade. O r\u00e9u, na contesta\u00e7\u00e3o, alegou n\u00e3o ser pai de Gl\u00e1ucia.  Ap\u00f3s a produ\u00e7\u00e3o de provas e o efetivo contradit\u00f3rio, o magistrado decidiu favoravelmente ao r\u00e9u. Inconformada com a senten\u00e7a de improced\u00eancia que teve por base o exame de DNA negativo, Gl\u00e1ucia resolve agora propor a\u00e7\u00e3o de investiga\u00e7\u00e3o de paternidade em face de Miguel.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
-        "valid": true,
         "areas": [
             null
         ],
+        "enum": "Gl\u00e1ucia ajuizou, em abril de 2016, a\u00e7\u00e3o de alimentos em face de Miguel com fundamento na paternidade. O r\u00e9u, na contesta\u00e7\u00e3o, alegou n\u00e3o ser pai de Gl\u00e1ucia.  Ap\u00f3s a produ\u00e7\u00e3o de provas e o efetivo contradit\u00f3rio, o magistrado decidiu favoravelmente ao r\u00e9u. Inconformada com a senten\u00e7a de improced\u00eancia que teve por base o exame de DNA negativo, Gl\u00e1ucia resolve agora propor a\u00e7\u00e3o de investiga\u00e7\u00e3o de paternidade em face de Miguel.\n\n Sobre a hip\u00f3tese apresentada, assinale a afirmativa correta.",
         "filename": "2017-22.txt",
+        "number": "57",
         "options": [
             {
-                "text": "O magistrado deve rejeitar a nova demanda com base na peremp\u00e7\u00e3o.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.09526771174779575,
+                    -0.004716570016591714,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "O magistrado deve rejeitar a nova demanda com base na peremp\u00e7\u00e3o."
             },
             {
-                "text": "A demanda de paternidade deve ser admitida, j\u00e1 que apenas a quest\u00e3o relativa aos alimentos \u00e9 que transitou em julgado no processo anterior.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.10053846824971469,
+                    0.025227006376957573,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "A demanda de paternidade deve ser admitida, j\u00e1 que apenas a quest\u00e3o relativa aos alimentos \u00e9 que transitou em julgado no processo anterior."
             },
             {
-                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, n\u00e3o \u00e9 alcan\u00e7ada pela coisa julgada, pois a cogni\u00e7\u00e3o judicial foi restrita a provas documentais e testemunhais.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.12728226426728462,
+                    0.037356175243995406,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, n\u00e3o \u00e9 alcan\u00e7ada pela coisa julgada, pois a cogni\u00e7\u00e3o judicial foi restrita a provas documentais e testemunhais."
             },
             {
-                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, \u00e9 atingida pela coisa julgada, e o novo processo deve ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito.",
-                "pmi": [
-                    -0.10053846824971469,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.025227006376957573,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, \u00e9 atingida pela coisa julgada, e o novo processo deve ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

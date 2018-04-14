@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Marina comprometeu-se a obter para M\u00f4nica um neg\u00f3cio de compra e venda de um im\u00f3vel para que ela pudesse abrir seu curso de ingl\u00eas. Marina encontrou uma grande sala em um pr\u00e9dio bem localizado e informou a M\u00f4nica que entraria em contato com o vendedor para saber detalhes do im\u00f3vel.\n\n A partir da hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "41",
         "options": [
             {
-                "text": "Marina marca uma reuni\u00e3o entre o vendedor e M\u00f4nica, mas o neg\u00f3cio n\u00e3o se realiza por arrependimento das partes. Sem pagar a comiss\u00e3o, M\u00f4nica dispensa Marina, que reclama seu pagamento, explicando que conseguiu o neg\u00f3cio e que n\u00e3o importa se n\u00e3o ocorreu a compra da sala.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A"
+                "text": "Marina marca uma reuni\u00e3o entre o vendedor e M\u00f4nica, mas o neg\u00f3cio n\u00e3o se realiza por arrependimento das partes. Sem pagar a comiss\u00e3o, M\u00f4nica dispensa Marina, que reclama seu pagamento, explicando que conseguiu o neg\u00f3cio e que n\u00e3o importa se n\u00e3o ocorreu a compra da sala."
             },
             {
-                "text": "Passado o prazo contratual para a obten\u00e7\u00e3o do neg\u00f3cio, o pr\u00f3prio vendedor entra em contato com M\u00f4nica para celebrar o neg\u00f3cio, liberando-a, portanto, de pagar a comiss\u00e3o de Marina.",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.01784264651136662,
+                    0.004534934491172305,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B"
+                "text": "Passado o prazo contratual para a obten\u00e7\u00e3o do neg\u00f3cio, o pr\u00f3prio vendedor entra em contato com M\u00f4nica para celebrar o neg\u00f3cio, liberando-a, portanto, de pagar a comiss\u00e3o de Marina."
             },
             {
-                "text": "Como a obriga\u00e7\u00e3o de Marina \u00e9 apenas de obten\u00e7\u00e3o do neg\u00f3cio, a responsabilidade pela seguran\u00e7a e pelo risco \u00e9 apenas do vendedor, sendo desnecess\u00e1rio que Marina se procupe com esses detalhes.",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C"
+                "text": "Como a obriga\u00e7\u00e3o de Marina \u00e9 apenas de obten\u00e7\u00e3o do neg\u00f3cio, a responsabilidade pela seguran\u00e7a e pelo risco \u00e9 apenas do vendedor, sendo desnecess\u00e1rio que Marina se procupe com esses detalhes."
             },
             {
-                "text": "A remunera\u00e7\u00e3o de Marina deve ser previamente ajustada entre as partes; caso contr\u00e1rio, M\u00f4nica pagar\u00e1 o valor que achar suficiente.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D"
+                "text": "A remunera\u00e7\u00e3o de Marina deve ser previamente ajustada entre as partes; caso contr\u00e1rio, M\u00f4nica pagar\u00e1 o valor que achar suficiente."
             }
         ],
-        "valid": true,
-        "filename": "2014-14.txt",
-        "enum": "Marina comprometeu-se a obter para M\u00f4nica um neg\u00f3cio de compra e venda de um im\u00f3vel para que ela pudesse abrir seu curso de ingl\u00eas. Marina encontrou uma grande sala em um pr\u00e9dio bem localizado e informou a M\u00f4nica que entraria em contato com o vendedor para saber detalhes do im\u00f3vel.\n\n A partir da hip\u00f3tese apresentada, assinale a op\u00e7\u00e3o correta.",
-        "number": "41",
-        "areas": []
+        "valid": true
     }
 ]

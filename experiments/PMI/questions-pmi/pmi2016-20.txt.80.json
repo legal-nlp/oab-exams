@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
+        "enum": "Em audi\u00eancia trabalhista sob o rito sumar\u00edssimo, o advogado da r\u00e9 aduziu que suas testemunhas estavam ausentes. Sem apresentar qualquer justificativa ou comprovante de comunica\u00e7\u00e3o \u00e0s testemunhas, requereu o adiamento do feito.  Diante disso, estando presentes as testemunhas do autor, o juiz indagou do advogado do autor se ele concordava ou n\u00e3o com o adiamento, requerendo justificativa.\n\n Sobre o caso relatado, na qualidade de advogado do autor, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
+        "number": "80",
         "options": [
             {
-                "text": "Deve concordar com o adiamento, j\u00e1 que ausentes as testemunhas, essas poder\u00e3o ser intimadas para comparecimento na pr\u00f3xima audi\u00eancia.",
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "Deve se opor ao adiamento, requerendo o prosseguimento do feito, pois, n\u00e3o havendo comprova\u00e7\u00e3o do convite \u00e0s testemunhas, a audi\u00eancia n\u00e3o poder\u00e1 ser adiada para intima\u00e7\u00e3o das mesmas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Deve concordar com o adiamento, j\u00e1 que ausentes as testemunhas, essas poder\u00e3o ser intimadas para comparecimento na pr\u00f3xima audi\u00eancia."
+            },
+            {
+                "correct": true,
                 "letter": "B",
-                "correct": true
-            },
-            {
-                "text": "Deve se opor ao adiamento imediato, requerendo a oitiva de suas testemunhas e protestar por depoimentos pessoais para, na pr\u00f3xima audi\u00eancia, serem ouvidas as testemunhas da r\u00e9.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Deve se opor ao adiamento, requerendo o prosseguimento do feito, pois, n\u00e3o havendo comprova\u00e7\u00e3o do convite \u00e0s testemunhas, a audi\u00eancia n\u00e3o poder\u00e1 ser adiada para intima\u00e7\u00e3o das mesmas."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Deve concordar com o adiamento, pois a lei n\u00e3o exige justificativa ou comprova\u00e7\u00e3o de convite \u00e0s testemunhas.",
                 "pmi": [
-                    -0.14237956443676048,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Deve se opor ao adiamento imediato, requerendo a oitiva de suas testemunhas e protestar por depoimentos pessoais para, na pr\u00f3xima audi\u00eancia, serem ouvidas as testemunhas da r\u00e9."
+            },
+            {
+                "correct": null,
                 "letter": "D",
-                "correct": null
+                "pmi": [
+                    -0.014297357382754778,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Deve concordar com o adiamento, pois a lei n\u00e3o exige justificativa ou comprova\u00e7\u00e3o de convite \u00e0s testemunhas."
             }
         ],
-        "number": "80",
-        "enum": "Em audi\u00eancia trabalhista sob o rito sumar\u00edssimo, o advogado da r\u00e9 aduziu que suas testemunhas estavam ausentes. Sem apresentar qualquer justificativa ou comprovante de comunica\u00e7\u00e3o \u00e0s testemunhas, requereu o adiamento do feito.  Diante disso, estando presentes as testemunhas do autor, o juiz indagou do advogado do autor se ele concordava ou n\u00e3o com o adiamento, requerendo justificativa.\n\n Sobre o caso relatado, na qualidade de advogado do autor, assinale a afirmativa correta.",
-        "valid": true,
-        "areas": []
+        "valid": true
     }
 ]

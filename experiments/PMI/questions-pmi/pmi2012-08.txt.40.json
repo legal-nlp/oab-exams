@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Utilizando-se das regras afetas ao direito das obriga\u00e7\u00f5es, assinale a alternativa correta.",
+        "filename": "2012-08.txt",
+        "number": "40",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.05490396778473451,
+                    0.06677412891657089,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
                 "text": "Quando o pagamento de boa-f\u00e9 for efetuado ao credor putativo, somente ser\u00e1 inv\u00e1lido se, em seguida, ficar demonstrado que n\u00e3o era credor."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
                 "text": "Levando em considera\u00e7\u00e3o os elementos contidos na lei para o reconhecimento da onerosidade excessiva, \u00e9 admiss\u00edvel assegurar que a regra se aplica \u00e0s rela\u00e7\u00f5es obrigacionais de execu\u00e7\u00e3o diferida ou continuada."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.06962982192683966,
+                    0.0824677989497921,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
                 "text": "Possui a quita\u00e7\u00e3o determinados requisitos que devem ser obrigatoriamente observados, tais como o valor da d\u00edvida, o nome do pagador, o tempo e o lugar do adimplemento, al\u00e9m da assinatura da parte credora, exigindo-se tamb\u00e9m que a forma da quita\u00e7\u00e3o seja igual \u00e0 forma do contrato."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.10503114478084824,
+                    0.16536462566649712,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
                 "text": "O terceiro, interessado ou n\u00e3o, poder\u00e1 efetuar o pagamento da d\u00edvida em seu pr\u00f3prio nome, ficando sempre sub-rogado nos direitos da parte credora."
             }
         ],
-        "number": "40",
-        "areas": [
-            "CIVIL"
-        ],
-        "valid": true,
-        "enum": "Utilizando-se das regras afetas ao direito das obriga\u00e7\u00f5es, assinale a alternativa correta.",
-        "filename": "2012-08.txt"
+        "valid": true
     }
 ]

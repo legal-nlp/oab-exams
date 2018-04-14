@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
         "areas": [],
-        "options": [
-            {
-                "pmi": [
-                    -0.05042011642653973,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A preliminar apontada por Carlos nos embargos deve ser acolhida, pois \u00e9 vedado pleitear cumprimento de obriga\u00e7\u00e3o de fazer por interm\u00e9dio de a\u00e7\u00e3o monit\u00f3ria.",
-                "correct": null,
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.08643448530263953,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A reconven\u00e7\u00e3o deve ser rejeitada, em virtude do descabimento dessa forma de resposta em a\u00e7\u00e3o monit\u00f3ria.",
-                "correct": null,
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.09430739186134858,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A preliminar indicada por Carlos n\u00e3o deve prosperar, tendo em vista que \u00e9 poss\u00edvel veicular em a\u00e7\u00e3o monit\u00f3ria cumprimento de obriga\u00e7\u00e3o de fazer.",
-                "correct": true,
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.12657373598777422,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "A forma correta de oferecer defesa em a\u00e7\u00e3o monit\u00f3ria \u00e9 via contesta\u00e7\u00e3o, sendo assim, os embargos ofertados por Carlos devem ser rejeitados.",
-                "correct": null,
-                "letter": "D"
-            }
-        ],
         "enum": "Pedro, munido de documento comprobat\u00f3rio de v\u00ednculo jur\u00eddico de presta\u00e7\u00e3o de servi\u00e7o com Carlos e, esgotadas todas as possibilidades consensuais para tentar exigir o cumprimento da obriga\u00e7\u00e3o, promove a\u00e7\u00e3o observando o rito especial monit\u00f3rio.\n\n Citado, Carlos oferece embargos, apontando em preliminar, que o rito da a\u00e7\u00e3o monit\u00f3ria n\u00e3o \u00e9 adequado para pleitear cumprimento de obriga\u00e7\u00e3o de fazer e, no m\u00e9rito, alega exce\u00e7\u00e3o de contrato n\u00e3o cumprido. Oferta, ainda, reconven\u00e7\u00e3o, cobrando os valores supostamente devidos.\n\n Diante da situa\u00e7\u00e3o hipot\u00e9tica, sobre os posicionamentos adotados por Carlos, assinale a afirmativa correta.",
         "filename": "2016-21.txt",
-        "number": "58"
+        "number": "58",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.019809274489104394,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A preliminar apontada por Carlos nos embargos deve ser acolhida, pois \u00e9 vedado pleitear cumprimento de obriga\u00e7\u00e3o de fazer por interm\u00e9dio de a\u00e7\u00e3o monit\u00f3ria."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.03395875626703611,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A reconven\u00e7\u00e3o deve ser rejeitada, em virtude do descabimento dessa forma de resposta em a\u00e7\u00e3o monit\u00f3ria."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.02752010036148969,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A preliminar indicada por Carlos n\u00e3o deve prosperar, tendo em vista que \u00e9 poss\u00edvel veicular em a\u00e7\u00e3o monit\u00f3ria cumprimento de obriga\u00e7\u00e3o de fazer."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.02639279873798589,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A forma correta de oferecer defesa em a\u00e7\u00e3o monit\u00f3ria \u00e9 via contesta\u00e7\u00e3o, sendo assim, os embargos ofertados por Carlos devem ser rejeitados."
+            }
+        ],
+        "valid": true
     }
 ]

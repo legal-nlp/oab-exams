@@ -1,56 +1,56 @@
 [
     {
-        "filename": "2011-03.txt",
+        "areas": [
+            "ETHICS"
+        ],
         "enum": "Tert\u00falio, advogado, testemunha a ocorr\u00eancia de um acidente de tr\u00e2nsito sem v\u00edtimas, envolvendo quatro ve\u00edculos automotores. Seus dados e sua qualifica\u00e7\u00e3o profissional constam nos registros do evento. Posteriormente, em a\u00e7\u00e3o de responsabilidade civil, o advogado Tert\u00falio \u00e9 arrolado como testemunha por uma das partes. No dia designado para o seu depoimento, alega que estaria impossibilitado de realizar o ato porque uma das pessoas envolvidas poderia contrat\u00e1-lo como profissional, embora, naquele momento, nenhuma delas tivesse manifestado qualquer inten\u00e7\u00e3o nesse sentido. A respeito do tema, \u00e9 correto dizer que",
+        "filename": "2011-03.txt",
         "number": "45",
         "options": [
             {
-                "text": "o advogado \u00e9 suspeito para prestar depoimento no caso em tela.",
+                "correct": null,
                 "letter": "A",
-                "correct": null,
                 "pmi": [
-                    -0.09683029986123864,
+                    0.054088269690768055,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o advogado \u00e9 suspeito para prestar depoimento no caso em tela."
             },
             {
-                "text": "a possibilidade decorre da aus\u00eancia de efetiva atua\u00e7\u00e3o profissional.",
-                "letter": "B",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.1668915004900499,
+                    0.09721599622596185,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "a possibilidade decorre da aus\u00eancia de efetiva atua\u00e7\u00e3o profissional."
             },
             {
-                "text": "o depoimento do advogado, no caso, \u00e9 facultativo.",
+                "correct": null,
                 "letter": "C",
-                "correct": null,
                 "pmi": [
-                    -0.14524544979185797,
+                    0.08113240453615207,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "o depoimento do advogado, no caso, \u00e9 facultativo."
             },
             {
-                "text": "somente poderia prestar depoimento ap\u00f3s a interven\u00e7\u00e3o de todas as partes no processo.",
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.06583371513933503,
+                    0.009625569636668312,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "somente poderia prestar depoimento ap\u00f3s a interven\u00e7\u00e3o de todas as partes no processo."
             }
-        ],
-        "areas": [
-            "ETHICS"
         ],
         "valid": true
     }

@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "text": "O usufruto ser\u00e1 mantido em favor de Lu\u00edsa, tendo em vista que o im\u00f3vel n\u00e3o fora destru\u00eddo por culpa sua.",
-                "letter": "A",
-                "correct": null,
-                "pmi": [
-                    -0.0058013751806279806,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "O usufruto ser\u00e1 extinto, consolidando-se a propriedade em favor de No\u00eamia, independentemente do pagamento de indeniza\u00e7\u00e3o a Lu\u00edsa, tendo em vista que No\u00eamia arcou com as despesas de reconstru\u00e7\u00e3o do im\u00f3vel.",
-                "letter": "B",
-                "correct": true,
-                "pmi": [
-                    -0.010140829104516906,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "O usufruto ser\u00e1 extinto, consolidando-se a propriedade em favor de No\u00eamia, desde que esta indenize Lu\u00edsa em valor equivalente a um ano de aluguel do im\u00f3vel.",
-                "letter": "C",
-                "correct": null,
-                "pmi": [
-                    -0.0011473307101826185,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "text": "O usufruto ser\u00e1 mantido em favor de Lu\u00edsa, independentemente do pagamento de qualquer quantia por ela, tendo em vista que No\u00eamia somente poderia ter reconstru\u00eddo o im\u00f3vel mediante autoriza\u00e7\u00e3o expressa de Lu\u00edsa, por escritura p\u00fablica ou instrumento particular.",
-                "letter": "D",
-                "correct": null,
-                "pmi": [
-                    -0.008539645561698447,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        ],
-        "enum": "No\u00eamia, propriet\u00e1ria de uma casa litor\u00e2nea, regularmente constituiu usufruto sobre o aludido im\u00f3vel em favor de Lu\u00edsa, mantendo, contudo, a sua propriedade. Inesperadamente, sobreveio uma severa ressaca mar\u00edtima, que destruiu por completo o im\u00f3vel. Ciente do ocorrido, No\u00eamia decidiu reconstruir integralmente a casa \u00e0s suas expensas, tendo em vista que o im\u00f3vel n\u00e3o se encontrava segurado.\n\n A respeito da situa\u00e7\u00e3o narrada, assinale a alternativa correta.",
         "areas": [
             "CIVIL"
         ],
-        "valid": true,
+        "enum": "No\u00eamia, propriet\u00e1ria de uma casa litor\u00e2nea, regularmente constituiu usufruto sobre o aludido im\u00f3vel em favor de Lu\u00edsa, mantendo, contudo, a sua propriedade. Inesperadamente, sobreveio uma severa ressaca mar\u00edtima, que destruiu por completo o im\u00f3vel. Ciente do ocorrido, No\u00eamia decidiu reconstruir integralmente a casa \u00e0s suas expensas, tendo em vista que o im\u00f3vel n\u00e3o se encontrava segurado.\n\n A respeito da situa\u00e7\u00e3o narrada, assinale a alternativa correta.",
         "filename": "2011-04.txt",
-        "number": "33"
+        "number": "33",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.025398136794065714,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O usufruto ser\u00e1 mantido em favor de Lu\u00edsa, tendo em vista que o im\u00f3vel n\u00e3o fora destru\u00eddo por culpa sua."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.021058682870176787,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O usufruto ser\u00e1 extinto, consolidando-se a propriedade em favor de No\u00eamia, independentemente do pagamento de indeniza\u00e7\u00e3o a Lu\u00edsa, tendo em vista que No\u00eamia arcou com as despesas de reconstru\u00e7\u00e3o do im\u00f3vel."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.023812278869572337,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O usufruto ser\u00e1 extinto, consolidando-se a propriedade em favor de No\u00eamia, desde que esta indenize Lu\u00edsa em valor equivalente a um ano de aluguel do im\u00f3vel."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.017733627680148873,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O usufruto ser\u00e1 mantido em favor de Lu\u00edsa, independentemente do pagamento de qualquer quantia por ela, tendo em vista que No\u00eamia somente poderia ter reconstru\u00eddo o im\u00f3vel mediante autoriza\u00e7\u00e3o expressa de Lu\u00edsa, por escritura p\u00fablica ou instrumento particular."
+            }
+        ],
+        "valid": true
     }
 ]

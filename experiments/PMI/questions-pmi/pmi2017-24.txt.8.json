@@ -1,57 +1,57 @@
 [
     {
-        "number": "8",
         "areas": [
             null
         ],
+        "enum": "O advogado Gennaro exerce suas atividades em sociedade de presta\u00e7\u00e3o de servi\u00e7os de advocacia, sediada na capital paulista. Todas as demandas patrocinadas por Gennaro tramitam perante ju\u00edzos com compet\u00eancia em S\u00e3o Paulo. Todavia, recentemente, a esposa de Gennaro obteve trabalho no Rio de Janeiro.\n\n Ap\u00f3s buscarem a melhor solu\u00e7\u00e3o, o casal resolveu que fixaria sua resid\u00eancia, com \u00e2nimo definitivo, na capital fluminense, cabendo a Gennaro continuar exercendo as mesmas fun\u00e7\u00f5es no escrit\u00f3rio de S\u00e3o Paulo. Nos dias em que n\u00e3o tem atividades profissionais, o advogado, valendo-se da ponte \u00e1rea, retorna ao domic\u00edlio do casal no Rio de Janeiro.\n\n Considerando o caso narrado, assinale a afirmativa correta.",
+        "filename": "2017-24.txt",
+        "number": "8",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.026171344681280673,
+                    0.01126806968835176,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal como advogado para o Conselho Seccional do Rio de Janeiro."
             },
             {
+                "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.024617988335457246,
+                    0.012821426034175186,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Seccional do Rio de Janeiro."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.06723934832187539,
+                    0.01387938281232822,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Federal da OAB."
             },
             {
+                "correct": true,
                 "letter": "D",
                 "pmi": [
-                    -0.014767506549100423,
+                    0.012272070495634115,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "O Estatuto da Advocacia e da OAB n\u00e3o imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal ou requeira inscri\u00e7\u00e3o suplementar."
             }
         ],
-        "filename": "2017-24.txt",
-        "valid": true,
-        "enum": "O advogado Gennaro exerce suas atividades em sociedade de presta\u00e7\u00e3o de servi\u00e7os de advocacia, sediada na capital paulista. Todas as demandas patrocinadas por Gennaro tramitam perante ju\u00edzos com compet\u00eancia em S\u00e3o Paulo. Todavia, recentemente, a esposa de Gennaro obteve trabalho no Rio de Janeiro.\n\n Ap\u00f3s buscarem a melhor solu\u00e7\u00e3o, o casal resolveu que fixaria sua resid\u00eancia, com \u00e2nimo definitivo, na capital fluminense, cabendo a Gennaro continuar exercendo as mesmas fun\u00e7\u00f5es no escrit\u00f3rio de S\u00e3o Paulo. Nos dias em que n\u00e3o tem atividades profissionais, o advogado, valendo-se da ponte \u00e1rea, retorna ao domic\u00edlio do casal no Rio de Janeiro.\n\n Considerando o caso narrado, assinale a afirmativa correta."
+        "valid": true
     }
 ]

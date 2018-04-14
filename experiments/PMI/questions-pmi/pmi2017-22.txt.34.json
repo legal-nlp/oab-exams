@@ -3,55 +3,55 @@
         "areas": [
             null
         ],
-        "valid": true,
         "enum": "A Ag\u00eancia Nacional do Petr\u00f3leo \u2013 ANP, no exerc\u00edcio do poder de pol\u00edcia, promoveu dilig\u00eancia, no dia 05/01/2010, junto \u00e0 sociedade Petrolineous S/A, que culminou na autua\u00e7\u00e3o desta por fatos ocorridos naquela mesma data.  Encerrado o processo administrativo, foi aplicada multa nos limites estabelecidos na lei de reg\u00eancia. O respectivo cr\u00e9dito n\u00e3o tribut\u00e1rio resultou definitivamente constitu\u00eddo em 19/01/2011, e, em 15/10/2015, foi ajuizada a pertinente execu\u00e7\u00e3o fiscal.\n\n Com base na situa\u00e7\u00e3o hipot\u00e9tica descrita, acerca da prescri\u00e7\u00e3o no Direito Administrativo, assinale a afirmativa correta.",
+        "filename": "2017-22.txt",
+        "number": "34",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.09488843051054453,
+                    0.017739229246035677,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "Operou-se a prescri\u00e7\u00e3o para a execu\u00e7\u00e3o do cr\u00e9dito, considerando o lapso de cinco anos transcorrido entre a data da autua\u00e7\u00e3o e a do ajuizamento da a\u00e7\u00e3o."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.20288109990479586,
+                    0.024672743276866214,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": null,
                 "text": "N\u00e3o se operou a prescri\u00e7\u00e3o para a execu\u00e7\u00e3o do cr\u00e9dito, que pode ser cobrado pela administra\u00e7\u00e3o federal a qualquer tempo."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.19394421650006552,
+                    0.02728868659321704,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "Operou-se a prescri\u00e7\u00e3o para a execu\u00e7\u00e3o do cr\u00e9dito, considerando o lapso de tr\u00eas anos decorrido entre a data de sua constitui\u00e7\u00e3o definitiva e a do ajuizamento da a\u00e7\u00e3o."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.1924160556513784,
+                    0.032839263861782056,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": true,
                 "text": "N\u00e3o se operou a prescri\u00e7\u00e3o para a execu\u00e7\u00e3o do cr\u00e9dito, considerando o lapso de cinco anos entre a data de sua constitui\u00e7\u00e3o definitiva e a do ajuizamento da a\u00e7\u00e3o."
             }
         ],
-        "filename": "2017-22.txt",
-        "number": "34"
+        "valid": true
     }
 ]

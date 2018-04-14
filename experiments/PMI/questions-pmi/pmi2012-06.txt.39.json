@@ -1,57 +1,57 @@
 [
     {
-        "number": "39",
-        "valid": true,
         "areas": [
             "CIVIL"
         ],
-        "filename": "2012-06.txt",
         "enum": "Rejane, solteira, com 16 anos de idade, \u00f3rf\u00e3 de m\u00e3e e devidamente autorizada por seu pai, casa-se com Jarbas, filho de sua tia materna, sendo ele solteiro e capaz, com 23 anos de idade.\n\n A respeito do casamento realizado, \u00e9 correto afirmar que \u00e9",
+        "filename": "2012-06.txt",
+        "number": "39",
         "options": [
             {
-                "pmi": [
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "text": "nulo, tendo em vista o parentesco existente entre Rejane e Jarbas.",
-                "correct": null
-            },
-            {
                 "pmi": [
-                    -0.05921282071148938,
+                    0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "text": "\u00e9 anul\u00e1vel, tendo em vista que, por ser \u00f3rf\u00e3 de m\u00e3e, Rejane deveria obter autoriza\u00e7\u00e3o judicial a fim de suprir o consentimento materno.",
-                "correct": null
+                "text": "nulo, tendo em vista o parentesco existente entre Rejane e Jarbas."
             },
             {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    0.005899204279175723,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "\u00e9 anul\u00e1vel, tendo em vista que, por ser \u00f3rf\u00e3 de m\u00e3e, Rejane deveria obter autoriza\u00e7\u00e3o judicial a fim de suprir o consentimento materno."
+            },
+            {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
                 ],
-                "letter": "C",
-                "text": "v\u00e1lido.",
-                "correct": true
+                "text": "v\u00e1lido."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "text": "anul\u00e1vel, tendo em vista o parentesco existente entre Rejane e Jarbas.",
-                "correct": null
+                "text": "anul\u00e1vel, tendo em vista o parentesco existente entre Rejane e Jarbas."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

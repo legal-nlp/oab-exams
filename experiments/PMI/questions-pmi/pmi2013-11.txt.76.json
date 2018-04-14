@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2013-11.txt",
-        "options": [
-            {
-                "pmi": [
-                    -0.13514697462068498,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "ter\u00e1 de aguardar o prazo de seis meses, pois contra ele ser\u00e1 aplicada a pena de peremp\u00e7\u00e3o.",
-                "letter": "A"
-            },
-            {
-                "pmi": [
-                    -0.11735073695796398,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "poder\u00e1 ajuizar a nova a\u00e7\u00e3o de imediato, contanto que pague o valor de uma multa que ser\u00e1 arbitrada pelo juiz.",
-                "letter": "B"
-            },
-            {
-                "pmi": [
-                    -0.1519776203190132,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "text": "n\u00e3o precisar\u00e1 aguardar nenhum prazo para ajuizar nova a\u00e7\u00e3o.",
-                "letter": "C"
-            },
-            {
-                "pmi": [
-                    -0.12874042791708643,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "text": "dever\u00e1 aguardar seis meses para ajuizar a\u00e7\u00e3o contra aquele empregador, mas n\u00e3o para outros que porventura venha a ter.",
-                "letter": "D"
-            }
-        ],
         "areas": [
             "LABOUR-PROCEDURE"
         ],
         "enum": "Um determinado trabalhador ajuizou uma reclama\u00e7\u00e3o trabalhista e, na data designada, faltou injustificadamente \u00e0 audi\u00eancia. Seu advogado requereu o desentranhamento dos documentos, no que foi atendido. Dois meses depois, apresentou a mesma reclama\u00e7\u00e3o, mas posteriormente resolve desistir dela em mesa de audi\u00eancia, o que foi homologado pelo magistrado, sendo extinto o processo sem resolu\u00e7\u00e3o do m\u00e9rito.\n\n Caso queira ajuizar uma nova a\u00e7\u00e3o, o trabalhador",
+        "filename": "2013-11.txt",
         "number": "76",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.041839347853941056,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "ter\u00e1 de aguardar o prazo de seis meses, pois contra ele ser\u00e1 aplicada a pena de peremp\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.006734285411322708,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "poder\u00e1 ajuizar a nova a\u00e7\u00e3o de imediato, contanto que pague o valor de uma multa que ser\u00e1 arbitrada pelo juiz."
+            },
+            {
+                "correct": true,
+                "letter": "C",
+                "pmi": [
+                    -0.004489018256824821,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "n\u00e3o precisar\u00e1 aguardar nenhum prazo para ajuizar nova a\u00e7\u00e3o."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    -0.030414693208960827,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "dever\u00e1 aguardar seis meses para ajuizar a\u00e7\u00e3o contra aquele empregador, mas n\u00e3o para outros que porventura venha a ter."
+            }
+        ],
         "valid": true
     }
 ]

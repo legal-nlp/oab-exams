@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "enum": "Nas hip\u00f3teses de desapropria\u00e7\u00e3o, em regra geral, os requisitos constitucionais a serem observados pela Administra\u00e7\u00e3o P\u00fablica s\u00e3o os seguintes:",
-        "number": "16",
         "areas": [
             "ADMINISTRATIVE"
         ],
+        "enum": "Nas hip\u00f3teses de desapropria\u00e7\u00e3o, em regra geral, os requisitos constitucionais a serem observados pela Administra\u00e7\u00e3o P\u00fablica s\u00e3o os seguintes:",
         "filename": "2010-02.txt",
+        "number": "16",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de ato administrativo, sem contradit\u00f3rio por parte do propriet\u00e1rio.",
-                "correct": null,
                 "pmi": [
-                    -0.11904984981822707,
+                    0.07563510490386158,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de ato administrativo, sem contradit\u00f3rio por parte do propriet\u00e1rio."
             },
             {
-                "letter": "B",
-                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio.",
                 "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.0958311265877156,
+                    0.07346013838801367,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em t\u00edtulos da d\u00edvida p\u00fablica ou quaisquer outros t\u00edtulos p\u00fablicos, negoci\u00e1veis no mercado financeiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio.",
-                "correct": null,
                 "pmi": [
-                    -0.0842114014668536,
+                    0.07279259427676628,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o pr\u00e9via ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em t\u00edtulos da d\u00edvida p\u00fablica ou quaisquer outros t\u00edtulos p\u00fablicos, negoci\u00e1veis no mercado financeiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio."
             },
             {
-                "letter": "D",
-                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o, posteriormente ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.0958311265877156,
+                    0.07346013838801367,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "comprova\u00e7\u00e3o da necessidade ou utilidade p\u00fablica ou de interesse social; pagamento de indeniza\u00e7\u00e3o, posteriormente ao ato de imiss\u00e3o na posse pelo Poder P\u00fablico, e que seja justa e em dinheiro; e observ\u00e2ncia de procedimento administrativo, com respeito ao contradit\u00f3rio e ampla defesa por parte do propriet\u00e1rio."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

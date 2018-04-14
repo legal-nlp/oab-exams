@@ -1,20 +1,24 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Pit\u00e1goras foi definitivamente condenado, com senten\u00e7a penal condenat\u00f3ria transitada em julgado, \u00e0 pena de 6 (seis) anos de reclus\u00e3o a ser cumprida, inicialmente, em regime semi-aberto.  Cerca de quatro meses ap\u00f3s o in\u00edcio do cumprimento da pena privativa de liberdade, sobreveio nova condena\u00e7\u00e3o definitiva, desta vez a 3 (tr\u00eas) anos de reclus\u00e3o no regime inicial aberto, em virtude da pr\u00e1tica de crime anterior.  Atento ao caso narrado, bem como \u00e0s disposi\u00e7\u00f5es pertinentes ao tema presentes tanto no c\u00f3digo penal quanto na lei de execu\u00e7\u00f5es penais, \u00e9 correto afirmar que",
+        "filename": "2012-07.txt",
+        "number": "63",
         "options": [
             {
-                "text": "Pit\u00e1goras poder\u00e1 continuar a cumprir a pena no regime semiaberto.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.002835738842489376,
+                    0.030963732463428793,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pit\u00e1goras poder\u00e1 continuar a cumprir a pena no regime semiaberto."
             },
             {
-                "text": "Pit\u00e1goras dever\u00e1 regredir para o regime fechado.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
@@ -22,10 +26,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pit\u00e1goras dever\u00e1 regredir para o regime fechado."
             },
             {
-                "text": "Pit\u00e1goras dever\u00e1 regredir de regime porque a nova condena\u00e7\u00e3o significa cometimento de falta grave.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
@@ -33,25 +37,21 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Pit\u00e1goras dever\u00e1 regredir de regime porque a nova condena\u00e7\u00e3o significa cometimento de falta grave."
             },
             {
-                "text": "prevalece o regime isolado de cada uma das condena\u00e7\u00f5es, devendo-se executar primeiro a pena mais grave.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.02242283849910158,
+                    0.028276368459775672,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "prevalece o regime isolado de cada uma das condena\u00e7\u00f5es, devendo-se executar primeiro a pena mais grave."
             }
         ],
-        "enum": "Pit\u00e1goras foi definitivamente condenado, com senten\u00e7a penal condenat\u00f3ria transitada em julgado, \u00e0 pena de 6 (seis) anos de reclus\u00e3o a ser cumprida, inicialmente, em regime semi-aberto.  Cerca de quatro meses ap\u00f3s o in\u00edcio do cumprimento da pena privativa de liberdade, sobreveio nova condena\u00e7\u00e3o definitiva, desta vez a 3 (tr\u00eas) anos de reclus\u00e3o no regime inicial aberto, em virtude da pr\u00e1tica de crime anterior.  Atento ao caso narrado, bem como \u00e0s disposi\u00e7\u00f5es pertinentes ao tema presentes tanto no c\u00f3digo penal quanto na lei de execu\u00e7\u00f5es penais, \u00e9 correto afirmar que",
-        "number": "63",
-        "filename": "2012-07.txt",
-        "areas": [
-            "CRIMINAL"
-        ]
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "enum": "Aparecida, advogada da autora no \u00e2mbito de determinada a\u00e7\u00e3o indenizat\u00f3ria, bastante irritada com o conte\u00fado de senten\u00e7a que julgou improcedente o pedido formulado, apresenta recurso de apela\u00e7\u00e3o em cujas raz\u00f5es afirma que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso em exame. Disse ainda que tal senten\u00e7a n\u00e3o poderia ter outra explica\u00e7\u00e3o, sen\u00e3o o fato de o magistrado ter recebido vantagem pecuni\u00e1ria da outra parte. A respeito da conduta de Aparecida, \u00e9 correto afirmar:",
-        "number": "3",
         "areas": [
             "ETHICS"
         ],
+        "enum": "Aparecida, advogada da autora no \u00e2mbito de determinada a\u00e7\u00e3o indenizat\u00f3ria, bastante irritada com o conte\u00fado de senten\u00e7a que julgou improcedente o pedido formulado, apresenta recurso de apela\u00e7\u00e3o em cujas raz\u00f5es afirma que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso em exame. Disse ainda que tal senten\u00e7a n\u00e3o poderia ter outra explica\u00e7\u00e3o, sen\u00e3o o fato de o magistrado ter recebido vantagem pecuni\u00e1ria da outra parte. A respeito da conduta de Aparecida, \u00e9 correto afirmar:",
         "filename": "2012-07.txt",
+        "number": "3",
         "options": [
             {
-                "text": "Aparecida n\u00e3o praticou crime nem conduta anti\u00e9tica, pois fez tais afirma\u00e7\u00f5es no exerc\u00edcio da profiss\u00e3o, devendo atuar sem receio de desagradar ao magistrado.",
-                "pmi": [
-                    -0.0490668184622238,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
+                "correct": null,
                 "letter": "A",
-                "correct": null
-            },
-            {
-                "text": "Aparecida praticou o crime de inj\u00faria, ao afirmar que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso e o de cal\u00fania, quando afirmou que o magistrado prolatara a senten\u00e7a em quest\u00e3o por ter recebido dinheiro da outra parte. Al\u00e9m disso, por todas as ofensas irrogadas, violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, que imp\u00f5e ao advogado o dever de urbanidade.",
                 "pmi": [
-                    -0.03812231195134146,
+                    0.01876766053501963,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Aparecida n\u00e3o praticou crime nem conduta anti\u00e9tica, pois fez tais afirma\u00e7\u00f5es no exerc\u00edcio da profiss\u00e3o, devendo atuar sem receio de desagradar ao magistrado."
+            },
+            {
+                "correct": null,
                 "letter": "B",
-                "correct": null
-            },
-            {
-                "text": "Aparecida violou apenas dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, por desrespeitar o dever de urbanidade, mas n\u00e3o praticou crime, uma vez que tem imunidade profissional, n\u00e3o constituindo inj\u00faria, difama\u00e7\u00e3o ou cal\u00fania pun\u00edveis qualquer manifesta\u00e7\u00e3o de sua parte, no exerc\u00edcio de sua atividade, em ju\u00edzo ou fora dele.",
                 "pmi": [
-                    -0.0584508805169884,
+                    0.015488808546479955,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Aparecida praticou o crime de inj\u00faria, ao afirmar que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso e o de cal\u00fania, quando afirmou que o magistrado prolatara a senten\u00e7a em quest\u00e3o por ter recebido dinheiro da outra parte. Al\u00e9m disso, por todas as ofensas irrogadas, violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, que imp\u00f5e ao advogado o dever de urbanidade."
+            },
+            {
+                "correct": null,
                 "letter": "C",
-                "correct": null
-            },
-            {
-                "text": "Aparecida violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, por desrespeitar o dever de urbanidade e praticou o crime de cal\u00fania ao afirmar que o magistrado prolatara a senten\u00e7a em quest\u00e3o por ter recebido dinheiro da outra parte.  N\u00e3o praticou crime quando afirmou que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso, pois tem imunidade profissional, n\u00e3o constituindo inj\u00faria pun\u00edvel qualquer manifesta\u00e7\u00e3o de sua parte, no exerc\u00edcio de sua atividade, em ju\u00edzo ou fora dele.",
                 "pmi": [
-                    -0.06436371325875649,
+                    0.01380758624094482,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "Aparecida violou apenas dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, por desrespeitar o dever de urbanidade, mas n\u00e3o praticou crime, uma vez que tem imunidade profissional, n\u00e3o constituindo inj\u00faria, difama\u00e7\u00e3o ou cal\u00fania pun\u00edveis qualquer manifesta\u00e7\u00e3o de sua parte, no exerc\u00edcio de sua atividade, em ju\u00edzo ou fora dele."
+            },
+            {
+                "correct": true,
                 "letter": "D",
-                "correct": true
+                "pmi": [
+                    0.0190543622648807,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Aparecida violou dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, por desrespeitar o dever de urbanidade e praticou o crime de cal\u00fania ao afirmar que o magistrado prolatara a senten\u00e7a em quest\u00e3o por ter recebido dinheiro da outra parte.  N\u00e3o praticou crime quando afirmou que o magistrado \u00e9 burro e ignora as leis aplic\u00e1veis ao caso, pois tem imunidade profissional, n\u00e3o constituindo inj\u00faria pun\u00edvel qualquer manifesta\u00e7\u00e3o de sua parte, no exerc\u00edcio de sua atividade, em ju\u00edzo ou fora dele."
             }
         ],
         "valid": true

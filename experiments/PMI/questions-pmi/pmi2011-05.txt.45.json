@@ -1,57 +1,57 @@
 [
     {
-        "enum": "A respeito da liquida\u00e7\u00e3o de senten\u00e7a, assinale a alternativa correta.",
         "areas": [
             "CIVIL-PROCEDURE"
         ],
+        "enum": "A respeito da liquida\u00e7\u00e3o de senten\u00e7a, assinale a alternativa correta.",
+        "filename": "2011-05.txt",
+        "number": "45",
         "options": [
             {
-                "letter": "A",
-                "text": "Para que a senten\u00e7a arbitral seja liquidada, ser\u00e1 necess\u00e1ria a instaura\u00e7\u00e3o de processo judicial, com a cita\u00e7\u00e3o da parte sucumbente.",
                 "correct": true,
+                "letter": "A",
                 "pmi": [
-                    -0.018110623956851868,
+                    0.16215322300804502,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Para que a senten\u00e7a arbitral seja liquidada, ser\u00e1 necess\u00e1ria a instaura\u00e7\u00e3o de processo judicial, com a cita\u00e7\u00e3o da parte sucumbente."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "\u00c9 cab\u00edvel a liquida\u00e7\u00e3o de senten\u00e7a no procedimento dos Juizados Especiais C\u00edveis Estaduais.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00c9 cab\u00edvel a liquida\u00e7\u00e3o de senten\u00e7a no procedimento dos Juizados Especiais C\u00edveis Estaduais."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "\u00c9 incab\u00edvel a liquida\u00e7\u00e3o de senten\u00e7a antes do tr\u00e2nsito em julgado da senten\u00e7a liquidanda.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00c9 incab\u00edvel a liquida\u00e7\u00e3o de senten\u00e7a antes do tr\u00e2nsito em julgado da senten\u00e7a liquidanda."
             },
             {
-                "letter": "D",
-                "text": "A liquida\u00e7\u00e3o por artigos corresponde \u00e0 esp\u00e9cie de liquida\u00e7\u00e3o de senten\u00e7a em que n\u00e3o poder\u00e1 ser produzida prova pericial para a apura\u00e7\u00e3o do valor da condena\u00e7\u00e3o.",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "A liquida\u00e7\u00e3o por artigos corresponde \u00e0 esp\u00e9cie de liquida\u00e7\u00e3o de senten\u00e7a em que n\u00e3o poder\u00e1 ser produzida prova pericial para a apura\u00e7\u00e3o do valor da condena\u00e7\u00e3o."
             }
         ],
-        "number": "45",
-        "filename": "2011-05.txt",
         "valid": true
     }
 ]

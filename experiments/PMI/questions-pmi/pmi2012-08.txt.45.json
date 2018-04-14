@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Acerca das atribui\u00e7\u00f5es do Conselho Tutelar determinadas no Estatuto da Crian\u00e7a e do Adolescente, assinale a alternativa correta.",
-        "number": "45",
-        "valid": true,
         "areas": [
             "CHILDREN"
         ],
+        "enum": "Acerca das atribui\u00e7\u00f5es do Conselho Tutelar determinadas no Estatuto da Crian\u00e7a e do Adolescente, assinale a alternativa correta.",
+        "filename": "2012-08.txt",
+        "number": "45",
         "options": [
             {
-                "pmi": [
-                    0.005929441413005297,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "text": "O Conselho Tutelar, considerando sua natureza n\u00e3o jurisdicional, destaca-se no aconselhamento e na orienta\u00e7\u00e3o \u00e0 fam\u00edlia ou respons\u00e1vel pela crian\u00e7a ou adolescente, inclusive na hip\u00f3tese de inclus\u00e3o em programa oficial ou comunit\u00e1rio de auxilio, orienta\u00e7\u00e3o e tratamento a alco\u00f3latras e toxic\u00f4manos.",
                 "correct": true,
-                "letter": "A"
-            },
-            {
+                "letter": "A",
                 "pmi": [
-                    -0.0749752908468227,
+                    0.05509230876706809,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O Conselho Tutelar, em consequ\u00eancia de sua natureza n\u00e3o jurisdicional, n\u00e3o \u00e9 competente para encaminhar ao Minist\u00e9rio P\u00fablico as ocorr\u00eancias administrativas ou criminais que importem viola\u00e7\u00e3o aos direitos da crian\u00e7a e do adolescente.",
-                "correct": null,
-                "letter": "B"
+                "text": "O Conselho Tutelar, considerando sua natureza n\u00e3o jurisdicional, destaca-se no aconselhamento e na orienta\u00e7\u00e3o \u00e0 fam\u00edlia ou respons\u00e1vel pela crian\u00e7a ou adolescente, inclusive na hip\u00f3tese de inclus\u00e3o em programa oficial ou comunit\u00e1rio de auxilio, orienta\u00e7\u00e3o e tratamento a alco\u00f3latras e toxic\u00f4manos."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.008152981942882283,
+                    0.19542047960052264,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O Conselho Tutelar pode assessorar o Poder Executivo local na elabora\u00e7\u00e3o da proposta or\u00e7ament\u00e1ria para planos e programas de atendimento dos direitos da crian\u00e7a e do adolescente, em decorr\u00eancia de sua natureza jurisdicional n\u00e3o aut\u00f4noma.",
-                "correct": null,
-                "letter": "C"
+                "text": "O Conselho Tutelar, em consequ\u00eancia de sua natureza n\u00e3o jurisdicional, n\u00e3o \u00e9 competente para encaminhar ao Minist\u00e9rio P\u00fablico as ocorr\u00eancias administrativas ou criminais que importem viola\u00e7\u00e3o aos direitos da crian\u00e7a e do adolescente."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.07708839250975393,
+                    0.07575192455471863,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O Conselho Tutelar n\u00e3o poder\u00e1 promover a execu\u00e7\u00e3o de suas decis\u00f5es, raz\u00e3o pela qual s\u00f3 lhe resta encaminhar ao Minist\u00e9rio P\u00fablico not\u00edcia de fato que constitua infra\u00e7\u00e3o administrativa ou penal contra os direitos da crian\u00e7a ou adolescente.",
+                "text": "O Conselho Tutelar pode assessorar o Poder Executivo local na elabora\u00e7\u00e3o da proposta or\u00e7ament\u00e1ria para planos e programas de atendimento dos direitos da crian\u00e7a e do adolescente, em decorr\u00eancia de sua natureza jurisdicional n\u00e3o aut\u00f4noma."
+            },
+            {
                 "correct": null,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.16326340344344192,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O Conselho Tutelar n\u00e3o poder\u00e1 promover a execu\u00e7\u00e3o de suas decis\u00f5es, raz\u00e3o pela qual s\u00f3 lhe resta encaminhar ao Minist\u00e9rio P\u00fablico not\u00edcia de fato que constitua infra\u00e7\u00e3o administrativa ou penal contra os direitos da crian\u00e7a ou adolescente."
             }
         ],
-        "filename": "2012-08.txt"
+        "valid": true
     }
 ]

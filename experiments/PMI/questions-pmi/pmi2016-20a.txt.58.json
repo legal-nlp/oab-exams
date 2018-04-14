@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Alessandra \u00e9 fiadora no contrato de loca\u00e7\u00e3o do apartamento de Mariana. Diante do inadimplemento de v\u00e1rios meses de aluguel, Marcos (locador) decide ajuizar a\u00e7\u00e3o de cobran\u00e7a em face da fiadora. Alessandra, em sua defesa, alegou que Mariana tamb\u00e9m deveria ser chamada ao processo.\n\n Com base no CPC/15, assinale a afirmativa correta.",
+        "filename": "2016-20a.txt",
+        "number": "58",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1052229414629327,
+                    -0.004523826951507532,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "O fiador se compromete com a d\u00edvida do afian\u00e7ado, de modo que n\u00e3o pode exigir a sua participa\u00e7\u00e3o na a\u00e7\u00e3o de cobran\u00e7a promovida."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.05153499802324114,
+                    0.009494768347319571,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "Sendo certo que Alessandra n\u00e3o participou da rela\u00e7\u00e3o jur\u00eddica existente entre Mariana e Marcos, permite-se o chamamento ao processo do locat\u00e1rio a qualquer tempo."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.026872993483897854,
+                    0.0036418897013825,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "Incorreta a atitude de Alessandra, pois o instituto apto a informar ao ju\u00edzo o real devedor da rela\u00e7\u00e3o \u00e9 a nomea\u00e7\u00e3o \u00e0 autoria."
             },
             {
+                "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.15766546977246138,
+                    0.010166387746580527,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "D",
                 "text": "Alessandra deve viabilizar a cita\u00e7\u00e3o de Mariana no prazo de 30 dias, sob pena de o chamamento ao processo ficar sem efeito."
             }
         ],
-        "valid": true,
-        "areas": [],
-        "number": "58",
-        "filename": "2016-20a.txt"
+        "valid": true
     }
 ]

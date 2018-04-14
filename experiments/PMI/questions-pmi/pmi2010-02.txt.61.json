@@ -1,57 +1,57 @@
 [
     {
-        "enum": "Relativamente \u00e0 legisla\u00e7\u00e3o sobre lavagem de capitais (Lei n. 9.613/98), assinale a alternativa correta.",
-        "options": [
-            {
-                "letter": "A",
-                "text": "O crime de lavagem s\u00f3 ocorre quando os bens, direitos ou valores provenientes, direta ou indiretamente, de um dos crimes antecedentes completam todo o processo de lavagem oculta\u00e7\u00e3o, dissimula\u00e7\u00e3o e integra\u00e7\u00e3o).",
-                "pmi": [
-                    -0.11866953206263847,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "B",
-                "text": "N\u00e3o constitui lavagem de dinheiro, mas crime de descaminho, a importa\u00e7\u00e3o ou exporta\u00e7\u00e3o de bens com valores n\u00e3o correspondentes aos verdadeiros, feita com o prop\u00f3sito de ocultar ou dissimular a utiliza\u00e7\u00e3o de bens, direitos ou valores provenientes de qualquer dos crimes antecedentes referidos na Lei n. 9.613/98.",
-                "pmi": [
-                    -0.36302033455066207,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "C",
-                "text": "O processo e julgamento dos crimes previstos na Lei n. 9613/98 dependem do processo e julgamento dos crimes antecedentes.",
-                "pmi": [
-                    -0.574970586938248,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null
-            },
-            {
-                "letter": "D",
-                "text": "Pratica crime de lavagem de dinheiro quem utiliza, na atividade econ\u00f4mica ou financeira, bens, direitos ou valores que sabe serem provenientes de qualquer dos crimes antecedentes previstos na Lei n. 9613/98.",
-                "pmi": [
-                    -0.2996483966964094,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true
-            }
-        ],
         "areas": [
             "CRIMINAL"
         ],
-        "valid": true,
+        "enum": "Relativamente \u00e0 legisla\u00e7\u00e3o sobre lavagem de capitais (Lei n. 9.613/98), assinale a alternativa correta.",
         "filename": "2010-02.txt",
-        "number": "61"
+        "number": "61",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.024481169938897287,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O crime de lavagem s\u00f3 ocorre quando os bens, direitos ou valores provenientes, direta ou indiretamente, de um dos crimes antecedentes completam todo o processo de lavagem oculta\u00e7\u00e3o, dissimula\u00e7\u00e3o e integra\u00e7\u00e3o)."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.07331058049993489,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "N\u00e3o constitui lavagem de dinheiro, mas crime de descaminho, a importa\u00e7\u00e3o ou exporta\u00e7\u00e3o de bens com valores n\u00e3o correspondentes aos verdadeiros, feita com o prop\u00f3sito de ocultar ou dissimular a utiliza\u00e7\u00e3o de bens, direitos ou valores provenientes de qualquer dos crimes antecedentes referidos na Lei n. 9.613/98."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.20057644324192367,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "O processo e julgamento dos crimes previstos na Lei n. 9613/98 dependem do processo e julgamento dos crimes antecedentes."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.09685156886090039,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Pratica crime de lavagem de dinheiro quem utiliza, na atividade econ\u00f4mica ou financeira, bens, direitos ou valores que sabe serem provenientes de qualquer dos crimes antecedentes previstos na Lei n. 9613/98."
+            }
+        ],
+        "valid": true
     }
 ]

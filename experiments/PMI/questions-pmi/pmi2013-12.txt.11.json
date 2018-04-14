@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "pmi": [
-                    -0.15842205472466186,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "correct": null,
-                "text": "Trata-se do fen\u00f4meno chamado na doutrina jur\u00eddica de lacuna material do direito, em que o jurista n\u00e3o consegue dar uma resposta com base no pr\u00f3prio direito positivo para uma situa\u00e7\u00e3o juridicamente relevante."
-            },
-            {
-                "pmi": [
-                    -0.17915132618035523,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": true,
-                "text": "Trata-se da textura aberta do direito, expressa por meio de regras gerais de conduta, que deve ganhar um sentido espec\u00edfico dado pela autoridade competente, \u00e0 luz do caso concreto."
-            },
-            {
-                "pmi": [
-                    -0.18482448584232458,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": null,
-                "text": "Trata-se da incompletude do ordenamento jur\u00eddico que, por isso mesmo, deve recorrer aos princ\u00edpios gerais do direito, a fim de promover uma integra\u00e7\u00e3o do direito positivo."
-            },
-            {
-                "pmi": [
-                    -0.179404065179315,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "correct": null,
-                "text": "Trata-se do fen\u00f4meno denominado de anomia social pelos soci\u00f3logos do direito, em que existe um v\u00e1cuo de normas jur\u00eddicas e a impossibilidade real de regula\u00e7\u00e3o de conflitos juridicamente relevantes."
-            }
-        ],
         "areas": [
             "PHILOSOPHY"
         ],
         "enum": "Considere a seguinte afirma\u00e7\u00e3o de Herbert L. A. Hart:\n\n \u201cSeja qual for o processo escolhido, precedente ou legisla\u00e7\u00e3o, para a comunica\u00e7\u00e3o de padr\u00f5es de comportamentos, estes, n\u00e3o obstante a facilidade com que atuam sobre a grande massa de casos correntes, revelar-se-\u00e3o como indeterminados em certo ponto em que a sua aplica\u00e7\u00e3o esteja em quest\u00e3o.\u201d\n\n (HART, Herbert. O Conceito de Direito. Lisboa: Calouste Gulbenkian, 1986, p. 141)\n\n Hart admite um grau de indetermina\u00e7\u00e3o nos padr\u00f5es de comportamento previstos na legisla\u00e7\u00e3o e nos precedentes judiciais. A respeito, assinale a afirmativa correta.",
+        "filename": "2013-12.txt",
         "number": "11",
-        "filename": "2013-12.txt"
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.0033421275563314348,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se do fen\u00f4meno chamado na doutrina jur\u00eddica de lacuna material do direito, em que o jurista n\u00e3o consegue dar uma resposta com base no pr\u00f3prio direito positivo para uma situa\u00e7\u00e3o juridicamente relevante."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.011716276488359122,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se da textura aberta do direito, expressa por meio de regras gerais de conduta, que deve ganhar um sentido espec\u00edfico dado pela autoridade competente, \u00e0 luz do caso concreto."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.00107260634022536,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se da incompletude do ordenamento jur\u00eddico que, por isso mesmo, deve recorrer aos princ\u00edpios gerais do direito, a fim de promover uma integra\u00e7\u00e3o do direito positivo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.011463537489399333,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Trata-se do fen\u00f4meno denominado de anomia social pelos soci\u00f3logos do direito, em que existe um v\u00e1cuo de normas jur\u00eddicas e a impossibilidade real de regula\u00e7\u00e3o de conflitos juridicamente relevantes."
+            }
+        ],
+        "valid": true
     }
 ]

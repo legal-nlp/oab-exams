@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "CHILDREN"
+        ],
+        "enum": "Com rela\u00e7\u00e3o \u00e0 interna\u00e7\u00e3o, observado o que prev\u00ea o Estatuto da Crian\u00e7a e do Adolescente, assinale a afirmativa correta.",
+        "filename": "2013-10.txt",
         "number": "45",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
-                "text": "Deve obedecer ao per\u00edodo determinado de um ano e meio, prorrog\u00e1vel por igual per\u00edodo, para atos infracionais praticados com emprego de viol\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Deve obedecer ao per\u00edodo determinado de um ano e meio, prorrog\u00e1vel por igual per\u00edodo, para atos infracionais praticados com emprego de viol\u00eancia."
             },
             {
                 "correct": null,
                 "letter": "B",
-                "text": "Deve obedecer ao per\u00edodo determinado de um ano, prorrog\u00e1vel por igual per\u00edodo, para  atos infracionais praticados sem emprego de viol\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Deve obedecer ao per\u00edodo determinado de um ano, prorrog\u00e1vel por igual per\u00edodo, para  atos infracionais praticados sem emprego de viol\u00eancia."
             },
             {
                 "correct": true,
                 "letter": "C",
-                "text": "N\u00e3o comporta per\u00edodo determinado e n\u00e3o pode ultrapassar o m\u00e1ximo de tr\u00eas anos, independente do emprego ou n\u00e3o de viol\u00eancia no ato infracional praticado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o comporta per\u00edodo determinado e n\u00e3o pode ultrapassar o m\u00e1ximo de tr\u00eas anos, independente do emprego ou n\u00e3o de viol\u00eancia no ato infracional praticado."
             },
             {
                 "correct": null,
                 "letter": "D",
-                "text": "N\u00e3o pode ultrapassar o per\u00edodo m\u00e1ximo de tr\u00eas anos, quando o adolescente dever\u00e1 ser colocado em liberdade com o dever de reparar o dano no caso de ato infracional com reflexos patrimoniais.",
                 "pmi": [
-                    -0.055533600439267326,
+                    0.11086379675909905,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "N\u00e3o pode ultrapassar o per\u00edodo m\u00e1ximo de tr\u00eas anos, quando o adolescente dever\u00e1 ser colocado em liberdade com o dever de reparar o dano no caso de ato infracional com reflexos patrimoniais."
             }
         ],
-        "filename": "2013-10.txt",
-        "areas": [
-            "CHILDREN"
-        ],
-        "enum": "Com rela\u00e7\u00e3o \u00e0 interna\u00e7\u00e3o, observado o que prev\u00ea o Estatuto da Crian\u00e7a e do Adolescente, assinale a afirmativa correta."
+        "valid": true
     }
 ]

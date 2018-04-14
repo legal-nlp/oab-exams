@@ -1,12 +1,17 @@
 [
     {
+        "areas": [
+            "HUMAM-RIGHTS"
+        ],
+        "enum": "Em 11 de abril de 2011 passou a vigorar na Fran\u00e7a uma lei que pro\u00edbe o uso, nos espa\u00e7os p\u00fablicos, da burca e do niqab, v\u00e9us que cobrem totalmente os rostos das mulheres e que, para algumas correntes da cultura mu\u00e7ulmana, s\u00e3o de uso obrigat\u00f3rio. Essa situa\u00e7\u00e3o se insere no pol\u00eamico debate acerca da universalidade ou da relatividade cultural dos direitos humanos. Em rela\u00e7\u00e3o a esse debate, assinale a afirmativa correta.",
         "filename": "2013-11.txt",
+        "number": "21",
         "options": [
             {
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.13546977413598513,
+                    0.044794072828911756,
                     0.0,
                     0.0,
                     0.0
@@ -17,7 +22,7 @@
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.07610472832342194,
+                    0.014027195159026508,
                     0.0,
                     0.0,
                     0.0
@@ -28,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.09513091040427743,
+                    0.017533993948783137,
                     0.0,
                     0.0,
                     0.0
@@ -39,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.11415709248513291,
+                    0.021040792738539763,
                     0.0,
                     0.0,
                     0.0
@@ -47,11 +52,6 @@
                 "text": "Os defensores da universalidade dos direitos humanos s\u00e3o contra a lei, alegando que ela viola o direito \u00e0 liberdade religiosa."
             }
         ],
-        "areas": [
-            "HUMAM-RIGHTS"
-        ],
-        "enum": "Em 11 de abril de 2011 passou a vigorar na Fran\u00e7a uma lei que pro\u00edbe o uso, nos espa\u00e7os p\u00fablicos, da burca e do niqab, v\u00e9us que cobrem totalmente os rostos das mulheres e que, para algumas correntes da cultura mu\u00e7ulmana, s\u00e3o de uso obrigat\u00f3rio. Essa situa\u00e7\u00e3o se insere no pol\u00eamico debate acerca da universalidade ou da relatividade cultural dos direitos humanos. Em rela\u00e7\u00e3o a esse debate, assinale a afirmativa correta.",
-        "valid": true,
-        "number": "21"
+        "valid": true
     }
 ]

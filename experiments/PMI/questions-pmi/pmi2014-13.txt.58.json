@@ -3,15 +3,15 @@
         "areas": [
             "CIVIL-PROCEDURE"
         ],
-        "valid": true,
-        "filename": "2014-13.txt",
         "enum": "Mateus ajuizou a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos materiais e compensa\u00e7\u00e3o por danos morais em face de Tiago, pelo rito ordin\u00e1rio. Os autos foram distribu\u00eddos para a 21\u00aa Vara C\u00edvel da Comarca de Salvador/BA. No curso do processo, o juiz proferiu o seguinte despacho: \u201cDesigno Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento para o dia 24.01.2014, \u00e0s 14 horas, a ser realizada na sala de audi\u00eancias do F\u00f3rum Ruy Barbosa. Intimem-se. Diligencie-se.\u201d\n\n Considerando o caso narrado e as regras sobre Audi\u00eancia de Instru\u00e7\u00e3o e Julgamento previstas no C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
+        "filename": "2014-13.txt",
+        "number": "58",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.051400766328020306,
+                    0.03967991424371709,
                     0.0,
                     0.0,
                     0.0
@@ -22,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.022115002351031813,
+                    0.0022816085163978404,
                     0.0,
                     0.0,
                     0.0
@@ -33,7 +33,7 @@
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.0826787023048888,
+                    0.02710604659854464,
                     0.0,
                     0.0,
                     0.0
@@ -44,7 +44,7 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.06136275342692943,
+                    0.009303291844246126,
                     0.0,
                     0.0,
                     0.0
@@ -52,6 +52,6 @@
                 "text": "Na audi\u00eancia de instru\u00e7\u00e3o designada para o dia 24.01.2014, as provas a serem produzidas obedecer\u00e3o \u00e0 seguinte ordem: oitiva de testemunhas arrolados pelo autor e pelo r\u00e9u; depoimento pessoal do autor e do r\u00e9u; e, por fim, presta\u00e7\u00e3o de esclarecimentos do perito e dos assistentes t\u00e9cnicos aos quesitos formulados pelas partes."
             }
         ],
-        "number": "58"
+        "valid": true
     }
 ]

@@ -1,41 +1,46 @@
 [
     {
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
+        "enum": "Os crit\u00e9rios relativos de fixa\u00e7\u00e3o de compet\u00eancia podem ser alterados pela ocorr\u00eancia de alguns fen\u00f4menos processuais. Uma das situa\u00e7\u00f5es que pode levar \u00e0 modifica\u00e7\u00e3o da compet\u00eancia, quando fixada com base em crit\u00e9rios relativos, \u00e9 a ocorr\u00eancia da chamada contin\u00eancia.\n\n Assinale a alternativa que descreve, corretamente, contin\u00eancia.",
+        "filename": "2013-11.txt",
+        "number": "58",
         "options": [
             {
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es, quando lhes for comum o objeto ou a causa de pedir.",
                 "correct": null,
                 "letter": "A",
                 "pmi": [
-                    -0.04619545695532533,
+                    0.06968844466496553,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es, quando lhes for comum o objeto ou a causa de pedir."
             },
             {
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 identidade quanto \u00e0s partes e \u00e0 causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras.",
                 "correct": true,
                 "letter": "B",
                 "pmi": [
-                    0.0019142984109887385,
+                    0.042473663978090534,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 identidade quanto \u00e0s partes e \u00e0 causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
             },
             {
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 entre elas identidade de partes, de causa de pedir e de pedido e todas tramitam em diferentes ju\u00edzos simultaneamente.",
                 "correct": null,
                 "letter": "C",
                 "pmi": [
-                    0.0015952486758239487,
+                    0.035394719981742116,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 entre elas identidade de partes, de causa de pedir e de pedido e todas tramitam em diferentes ju\u00edzos simultaneamente."
             },
             {
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando possuem pedidos que, somados, n\u00e3o ultrapassam o valor de sessenta sal\u00e1rios m\u00ednimos.",
                 "correct": null,
                 "letter": "D",
                 "pmi": [
@@ -43,15 +48,10 @@
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando possuem pedidos que, somados, n\u00e3o ultrapassam o valor de sessenta sal\u00e1rios m\u00ednimos."
             }
         ],
-        "filename": "2013-11.txt",
-        "areas": [
-            "CIVIL-PROCEDURE"
-        ],
-        "enum": "Os crit\u00e9rios relativos de fixa\u00e7\u00e3o de compet\u00eancia podem ser alterados pela ocorr\u00eancia de alguns fen\u00f4menos processuais. Uma das situa\u00e7\u00f5es que pode levar \u00e0 modifica\u00e7\u00e3o da compet\u00eancia, quando fixada com base em crit\u00e9rios relativos, \u00e9 a ocorr\u00eancia da chamada contin\u00eancia.\n\n Assinale a alternativa que descreve, corretamente, contin\u00eancia.",
-        "number": "58",
         "valid": true
     }
 ]

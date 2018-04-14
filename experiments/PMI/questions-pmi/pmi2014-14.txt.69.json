@@ -3,55 +3,55 @@
         "areas": [
             "CRIMINAL-PROCEDURE"
         ],
-        "valid": true,
+        "enum": "F\u00e1bio, v\u00edtima de cal\u00fania realizada por Renato e Abel, decide mover a\u00e7\u00e3o penal privada em face de ambos. Ap\u00f3s o ajuizamento da a\u00e7\u00e3o, os autos s\u00e3o encaminhados ao Minist\u00e9rio P\u00fablico, pois F\u00e1bio pretende desistir da a\u00e7\u00e3o penal privada movida apenas em face de Renato para prosseguir em face de Abel.\n\n Diante dos fatos narrados, assinale a op\u00e7\u00e3o correta.",
+        "filename": "2014-14.txt",
+        "number": "69",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.4469278813574664,
+                    -0.057557971913289006,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "A",
-                "correct": null,
                 "text": "A a\u00e7\u00e3o penal privada \u00e9 divis\u00edvel; logo, F\u00e1bio poder\u00e1 desistir da a\u00e7\u00e3o penal apenas em face de Renato."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.4469278813574664,
+                    -0.057557971913289006,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "B",
-                "correct": true,
                 "text": "A a\u00e7\u00e3o penal privada \u00e9 indivis\u00edvel; logo, F\u00e1bio n\u00e3o poder\u00e1 desistir da a\u00e7\u00e3o penal apenas em face de Renato."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.6828723190512072,
+                    -0.06482484374298914,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "C",
-                "correct": null,
                 "text": "A a\u00e7\u00e3o penal privada \u00e9 obrigat\u00f3ria, por conta do princ\u00edpio da obrigatoriedade da a\u00e7\u00e3o penal."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.4469278813574664,
+                    -0.057557971913289006,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "letter": "D",
-                "correct": null,
                 "text": "A a\u00e7\u00e3o penal privada \u00e9 indispon\u00edvel; logo, F\u00e1bio n\u00e3o poder\u00e1 desistir da a\u00e7\u00e3o penal apenas em face de Renato."
             }
         ],
-        "filename": "2014-14.txt",
-        "enum": "F\u00e1bio, v\u00edtima de cal\u00fania realizada por Renato e Abel, decide mover a\u00e7\u00e3o penal privada em face de ambos. Ap\u00f3s o ajuizamento da a\u00e7\u00e3o, os autos s\u00e3o encaminhados ao Minist\u00e9rio P\u00fablico, pois F\u00e1bio pretende desistir da a\u00e7\u00e3o penal privada movida apenas em face de Renato para prosseguir em face de Abel.\n\n Diante dos fatos narrados, assinale a op\u00e7\u00e3o correta.",
-        "number": "69"
+        "valid": true
     }
 ]

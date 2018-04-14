@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2013-11.txt",
         "areas": [
             "BUSINESS"
         ],
         "enum": "Cinco pessoas naturais residentes no munic\u00edpio X decidiram constituir uma sociedade cooperativa e procuraram uma advogada para a elabora\u00e7\u00e3o do estatuto social. Com base nas disposi\u00e7\u00f5es para esta esp\u00e9cie societ\u00e1ria previstas no C\u00f3digo Civil, \u00e9 correto afirmar que",
+        "filename": "2013-11.txt",
         "number": "49",
-        "valid": true,
         "options": [
             {
-                "text": "o estatuto dever\u00e1 conter cl\u00e1usula indicativa do valor do capital social, que ser\u00e1 fixo durante toda a exist\u00eancia da sociedade.",
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.040292159487128894,
+                    0.05803357522099668,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A"
+                "text": "o estatuto dever\u00e1 conter cl\u00e1usula indicativa do valor do capital social, que ser\u00e1 fixo durante toda a exist\u00eancia da sociedade."
             },
             {
-                "text": "aplicam-se \u00e0s cooperativas as disposi\u00e7\u00f5es do C\u00f3digo Civil referentes \u00e0s sociedades an\u00f4nimas, na omiss\u00e3o da legisla\u00e7\u00e3o especial.",
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.049908872914792506,
+                    0.07076361968154343,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B"
+                "text": "aplicam-se \u00e0s cooperativas as disposi\u00e7\u00f5es do C\u00f3digo Civil referentes \u00e0s sociedades an\u00f4nimas, na omiss\u00e3o da legisla\u00e7\u00e3o especial."
             },
             {
-                "text": "os s\u00f3cios responder\u00e3o sempre de forma solid\u00e1ria, ilimitada e subsidi\u00e1ria pelas obriga\u00e7\u00f5es sociais, por ser a cooperativa uma sociedade de pessoas.",
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.02270083177651302,
+                    0.026462035577549767,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C"
+                "text": "os s\u00f3cios responder\u00e3o sempre de forma solid\u00e1ria, ilimitada e subsidi\u00e1ria pelas obriga\u00e7\u00f5es sociais, por ser a cooperativa uma sociedade de pessoas."
             },
             {
-                "text": "se a cooperativa possuir capital social, as quotas ser\u00e3o intransfer\u00edveis a terceiros estranhos \u00e0 sociedade, ainda que por direito heredit\u00e1rio.",
-                "pmi": [
-                    -0.0799171125672562,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.04075538002907973,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "se a cooperativa possuir capital social, as quotas ser\u00e3o intransfer\u00edveis a terceiros estranhos \u00e0 sociedade, ainda que por direito heredit\u00e1rio."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

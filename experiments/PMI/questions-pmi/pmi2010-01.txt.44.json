@@ -1,57 +1,57 @@
 [
     {
-        "filename": "2010-01.txt",
-        "number": "44",
-        "options": [
-            {
-                "pmi": [
-                    -0.0847446523597069,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A",
-                "text": "a senten\u00e7a \u00e9 nula, por n\u00e3o ter havido a cita\u00e7\u00e3o de Aldo."
-            },
-            {
-                "pmi": [
-                    -0.1811367174537955,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "B",
-                "text": "o juiz poder\u00e1 retratar-se caso Paulo apele da senten\u00e7a."
-            },
-            {
-                "pmi": [
-                    -0.3608675771325987,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C",
-                "text": "caber\u00e1 reclama\u00e7\u00e3o ao tribunal competente, sob o argumento de que houve error in procedendo."
-            },
-            {
-                "pmi": [
-                    -0.2303495034221047,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "D",
-                "text": "a senten\u00e7a n\u00e3o faz coisa julgada material."
-            }
-        ],
         "areas": [
             "CIVIL-PROCEDURE"
         ],
         "enum": "Paulo ajuizou a\u00e7\u00e3o contra Aldo. Ao receber a inicial, o juiz verificou que a mat\u00e9ria controvertida era unicamente de direito e que j\u00e1 havia sido proferida senten\u00e7a de total improced\u00eancia em casos id\u00eanticos, e, por isso, proferiu senten\u00e7a reproduzindo o teor das anteriormente prolatadas, sem a cita\u00e7\u00e3o de Aldo.\n\n Nessa situa\u00e7\u00e3o hipot\u00e9tica, de acordo com o CPC,",
+        "filename": "2010-01.txt",
+        "number": "44",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.04085854423518898,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a senten\u00e7a \u00e9 nula, por n\u00e3o ter havido a cita\u00e7\u00e3o de Aldo."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.08053660878557097,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "o juiz poder\u00e1 retratar-se caso Paulo apele da senten\u00e7a."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.031642412226451,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "caber\u00e1 reclama\u00e7\u00e3o ao tribunal competente, sob o argumento de que houve error in procedendo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.08365848806513504,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a senten\u00e7a n\u00e3o faz coisa julgada material."
+            }
+        ],
         "valid": true
     }
 ]

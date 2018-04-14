@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
+        "enum": "Marcondes, necessitando de dinheiro para comparecer a uma festa no bairro em que residia, decide subtrair R$ 1.000,00 do caixa do a\u00e7ougue de propriedade de seu pai. Para isso, aproveita-se da aus\u00eancia de seu genitor, que, naquele dia, comemorava seu anivers\u00e1rio de 63 anos, para arrombar a porta do estabelecimento e subtrair a quantia em esp\u00e9cie necess\u00e1ria.\n\n Analisando a situa\u00e7\u00e3o f\u00e1tica, \u00e9 correto afirmar que",
+        "filename": "2015-17.txt",
         "number": "62",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.15051631177107846,
+                    -0.026906816709434872,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "Marcondes n\u00e3o ser\u00e1 condenado pela pr\u00e1tica de crime, pois \u00e9 isento de pena, em raz\u00e3o da escusa absolut\u00f3ria."
             },
             {
+                "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.10933781299547843,
+                    -0.02987456617013613,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "B",
                 "text": "Marcondes dever\u00e1 responder pelo crime de furto de coisa comum, por ser herdeiro de seu pai."
             },
             {
+                "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.07603110406230897,
+                    -0.020406831284569348,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "C",
                 "text": "Marcondes dever\u00e1 responder pelo crime de furto qualificado."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.13238732605610967,
+                    -0.028091814597847917,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "Marcondes dever\u00e1 responder pelos crimes de dano e furto simples em concurso formal."
             }
         ],
-        "filename": "2015-17.txt",
-        "enum": "Marcondes, necessitando de dinheiro para comparecer a uma festa no bairro em que residia, decide subtrair R$ 1.000,00 do caixa do a\u00e7ougue de propriedade de seu pai. Para isso, aproveita-se da aus\u00eancia de seu genitor, que, naquele dia, comemorava seu anivers\u00e1rio de 63 anos, para arrombar a porta do estabelecimento e subtrair a quantia em esp\u00e9cie necess\u00e1ria.\n\n Analisando a situa\u00e7\u00e3o f\u00e1tica, \u00e9 correto afirmar que",
-        "areas": []
+        "valid": true
     }
 ]

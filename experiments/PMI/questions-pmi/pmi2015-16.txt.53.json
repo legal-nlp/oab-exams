@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Daniel possui uma pequena mercearia e costuma aceitar cheques de seus clientes, como forma de pagamento. Ocorre que, no \u00faltimo m\u00eas, tr\u00eas dos cheques apresentados no prazo foram devolvidos por insufici\u00eancia de fundos. Daniel n\u00e3o obteve \u00eaxito na cobran\u00e7a amig\u00e1vel, n\u00e3o lhe restando, portanto, outra alternativa sen\u00e3o recorrer ao Poder Judici\u00e1rio.\n\n Com base nessa situa\u00e7\u00e3o hipot\u00e9tica, assinale a afirmativa correta.",
-        "valid": true,
         "filename": "2015-16.txt",
         "number": "53",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diferentes e diversa a forma do processo, desde que o ju\u00edzo seja competente para todas.",
-                "correct": null,
                 "pmi": [
-                    -0.013883756007182781,
+                    0.01377035687947754,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diferentes e diversa a forma do processo, desde que o ju\u00edzo seja competente para todas."
             },
             {
+                "correct": null,
                 "letter": "B",
-                "text": "\u00c9 vedado ao juiz examinar de of\u00edcio os requisitos que autorizam a cumula\u00e7\u00e3o de execu\u00e7\u00f5es.",
-                "correct": null,
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "\u00c9 vedado ao juiz examinar de of\u00edcio os requisitos que autorizam a cumula\u00e7\u00e3o de execu\u00e7\u00f5es."
             },
             {
+                "correct": null,
                 "letter": "C",
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, fundadas em t\u00edtulos diferentes, ainda que diversos os devedores, desde que para todas elas seja competente o ju\u00edzo e id\u00eantica a forma do processo.",
-                "correct": null,
                 "pmi": [
-                    -0.01272677633991755,
+                    0.012622827139521078,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, fundadas em t\u00edtulos diferentes, ainda que diversos os devedores, desde que para todas elas seja competente o ju\u00edzo e id\u00eantica a forma do processo."
             },
             {
-                "letter": "D",
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diversos, desde que seja competente o ju\u00edzo e haja identidade na forma do processo.",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.013883756007182781,
+                    0.01377035687947754,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diversos, desde que seja competente o ju\u00edzo e haja identidade na forma do processo."
             }
         ],
-        "areas": []
+        "valid": true
     }
 ]

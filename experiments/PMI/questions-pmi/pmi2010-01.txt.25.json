@@ -3,55 +3,55 @@
         "areas": [
             "BUSINESS"
         ],
-        "valid": true,
         "enum": "Suponha que Maria tenha ajuizado a\u00e7\u00e3o de cobran\u00e7a contra a pessoa jur\u00eddica Y, a qual, no curso da referida a\u00e7\u00e3o de conhecimento, teve sua fal\u00eancia decretada pelo ju\u00edzo competente. Considerando essa situa\u00e7\u00e3o hipot\u00e9tica, assinale a op\u00e7\u00e3o correta com base na legisla\u00e7\u00e3o de reg\u00eancia.",
+        "filename": "2010-01.txt",
         "number": "25",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.5921529995285588,
+                    -0.008098135362292827,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "A decreta\u00e7\u00e3o da fal\u00eancia de Y n\u00e3o pode suspender o curso da a\u00e7\u00e3o proposta por Maria.",
-                "letter": "A"
+                "text": "A decreta\u00e7\u00e3o da fal\u00eancia de Y n\u00e3o pode suspender o curso da a\u00e7\u00e3o proposta por Maria."
             },
             {
-                "pmi": [
-                    -0.361334218954171,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
                 "correct": true,
-                "text": "Caso a sede de Y esteja localizada fora do pa\u00eds, o ju\u00edzo competente para a decreta\u00e7\u00e3o da fal\u00eancia ser\u00e1 o do local de sua filial no Brasil.",
-                "letter": "B"
-            },
-            {
+                "letter": "B",
                 "pmi": [
-                    -0.27548153139081805,
+                    0.028035690490006322,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "text": "O ju\u00edzo competente para processar a a\u00e7\u00e3o proposta por Maria, poder\u00e1 determinar, de imediato, a reserva da import\u00e2ncia que estimar devida na fal\u00eancia.",
-                "letter": "C"
+                "text": "Caso a sede de Y esteja localizada fora do pa\u00eds, o ju\u00edzo competente para a decreta\u00e7\u00e3o da fal\u00eancia ser\u00e1 o do local de sua filial no Brasil."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.17774415028598953,
+                    -0.005917747929464489,
                     0.0,
                     0.0,
                     0.0
                 ],
+                "text": "O ju\u00edzo competente para processar a a\u00e7\u00e3o proposta por Maria, poder\u00e1 determinar, de imediato, a reserva da import\u00e2ncia que estimar devida na fal\u00eancia."
+            },
+            {
                 "correct": null,
-                "text": "Se a habilita\u00e7\u00e3o do cr\u00e9dito de Maria ocorrer ap\u00f3s a homologa\u00e7\u00e3o do quadro geral de credores e for recebida como retardat\u00e1ria, Maria perder\u00e1 o direito aos rateios eventualmente realizados, mas o valor de seu cr\u00e9dito ser\u00e1 acrescido de juros e atualizado monetariamente at\u00e9 a data de sua integral satisfa\u00e7\u00e3o.",
-                "letter": "D"
+                "letter": "D",
+                "pmi": [
+                    0.008476241187312657,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "Se a habilita\u00e7\u00e3o do cr\u00e9dito de Maria ocorrer ap\u00f3s a homologa\u00e7\u00e3o do quadro geral de credores e for recebida como retardat\u00e1ria, Maria perder\u00e1 o direito aos rateios eventualmente realizados, mas o valor de seu cr\u00e9dito ser\u00e1 acrescido de juros e atualizado monetariamente at\u00e9 a data de sua integral satisfa\u00e7\u00e3o."
             }
         ],
-        "filename": "2010-01.txt"
+        "valid": true
     }
 ]

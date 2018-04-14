@@ -1,11 +1,17 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "Tim\u00f3teo e Leandro, cada qual propriet\u00e1rio de um apartamento no Edif\u00edcio Maison, procuraram a s\u00edndica do condom\u00ednio, Leonor, a fim de solicitar que fossem deduzidas de suas contribui\u00e7\u00f5es condominiais as despesas referentes \u00e0 manuten\u00e7\u00e3o do parque infantil situado no edif\u00edcio. Argumentaram que, por serem os \u00fanicos cond\u00f4minos sem crian\u00e7as na fam\u00edlia, n\u00e3o utilizam o aludido parque, cuja manuten\u00e7\u00e3o incrementa significativamente o valor da contribui\u00e7\u00e3o condominial, bem como que a conven\u00e7\u00e3o de condom\u00ednio nada disp\u00f5e a esse respeito.\n\n Na condi\u00e7\u00e3o de advogado consultado por Leonor, assinale a avalia\u00e7\u00e3o correta do caso acima.",
+        "filename": "2012-06a.txt",
+        "number": "35",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    0.0009456596964857425,
+                    0.036733335196869686,
                     0.0,
                     0.0,
                     0.0
@@ -13,10 +19,10 @@
                 "text": "Tim\u00f3teo e Leandro podem ser temporariamente dispensados do pagamento das despesas referentes \u00e0 manuten\u00e7\u00e3o do parque infantil, retomando-se imediatamente a cobran\u00e7a caso venham a ter crian\u00e7as em sua fam\u00edlia."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    0.004106215130787176,
+                    0.06375234096476042,
                     0.0,
                     0.0,
                     0.0
@@ -24,10 +30,10 @@
                 "text": "Tim\u00f3teo e Leandro podem ser dispensados do pagamento das despesas referentes \u00e0 manuten\u00e7\u00e3o do parque infantil, desde que declarem, por meio de escritura p\u00fablica, que n\u00e3o utilizar\u00e3o o parque infantil em car\u00e1ter permanente."
             },
             {
-                "letter": "C",
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    0.001071747656017175,
+                    0.04163111322311898,
                     0.0,
                     0.0,
                     0.0
@@ -35,10 +41,10 @@
                 "text": "Leonor dever\u00e1 dispensar tratamento ison\u00f4mico a todos os cond\u00f4minos, devendo as despesas de manuten\u00e7\u00e3o do parque infantil ser cobradas, ao final de cada m\u00eas, apenas daqueles cond\u00f4minos que tenham efetivamente utilizado a \u00e1rea naquele per\u00edodo."
             },
             {
-                "letter": "D",
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.003936053614815239,
+                    0.056902994735837466,
                     0.0,
                     0.0,
                     0.0
@@ -46,12 +52,6 @@
                 "text": "Todos os cond\u00f4minos, inclusive Tim\u00f3teo e Leandro, devem arcar com as despesas referentes \u00e0 manuten\u00e7\u00e3o do parque infantil, tendo em vista ser seu dever contribuir para as despesas condominiais proporcionalmente \u00e0 fra\u00e7\u00e3o ideal de seu im\u00f3vel."
             }
         ],
-        "areas": [
-            "CIVIL"
-        ],
-        "valid": true,
-        "number": "35",
-        "enum": "Tim\u00f3teo e Leandro, cada qual propriet\u00e1rio de um apartamento no Edif\u00edcio Maison, procuraram a s\u00edndica do condom\u00ednio, Leonor, a fim de solicitar que fossem deduzidas de suas contribui\u00e7\u00f5es condominiais as despesas referentes \u00e0 manuten\u00e7\u00e3o do parque infantil situado no edif\u00edcio. Argumentaram que, por serem os \u00fanicos cond\u00f4minos sem crian\u00e7as na fam\u00edlia, n\u00e3o utilizam o aludido parque, cuja manuten\u00e7\u00e3o incrementa significativamente o valor da contribui\u00e7\u00e3o condominial, bem como que a conven\u00e7\u00e3o de condom\u00ednio nada disp\u00f5e a esse respeito.\n\n Na condi\u00e7\u00e3o de advogado consultado por Leonor, assinale a avalia\u00e7\u00e3o correta do caso acima.",
-        "filename": "2012-06a.txt"
+        "valid": true
     }
 ]

@@ -1,55 +1,55 @@
 [
     {
-        "valid": true,
+        "areas": [],
         "enum": "Determinado ente da Federa\u00e7\u00e3o instituiu um tributo incidente sobre a folha de sal\u00e1rios e demais rendimentos do trabalho pagos ou creditados, a qualquer t\u00edtulo, \u00e0 pessoa f\u00edsica que preste servi\u00e7o a empregador privado, ainda que sem v\u00ednculo empregat\u00edcio, com o objetivo de financiar a seguridade social. Em sintonia com a CRFB/88, assinale a op\u00e7\u00e3o que indica o ente da federa\u00e7\u00e3o competente para a institui\u00e7\u00e3o do tributo descrito e o nome do tributo em quest\u00e3o.",
         "filename": "2016-20.txt",
-        "areas": [],
+        "number": "25",
         "options": [
             {
                 "correct": null,
-                "text": "Estados-membros e o Distrito Federal. Contribui\u00e7\u00e3o previdenci\u00e1ria.",
                 "letter": "A",
                 "pmi": [
-                    -0.4995932417714144,
+                    0.11427823708201824,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Estados-membros e o Distrito Federal. Contribui\u00e7\u00e3o previdenci\u00e1ria."
             },
             {
                 "correct": true,
-                "text": "Uni\u00e3o. Contribui\u00e7\u00e3o social.",
                 "letter": "B",
                 "pmi": [
-                    -0.7060671714501395,
+                    0.34628393515574496,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Uni\u00e3o. Contribui\u00e7\u00e3o social."
             },
             {
                 "correct": null,
-                "text": "Uni\u00e3o. Imposto sobre a renda.",
                 "letter": "C",
                 "pmi": [
-                    -0.5208936226749777,
+                    0.005281930627964486,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Uni\u00e3o. Imposto sobre a renda."
             },
             {
                 "correct": null,
-                "text": "Todos os entes da Federa\u00e7\u00e3o. Contribui\u00e7\u00f5es sociais.",
                 "letter": "D",
                 "pmi": [
-                    -0.10830871222254396,
+                    0.0232351761031916,
                     0.0,
                     0.0,
                     0.0
-                ]
+                ],
+                "text": "Todos os entes da Federa\u00e7\u00e3o. Contribui\u00e7\u00f5es sociais."
             }
         ],
-        "number": "25"
+        "valid": true
     }
 ]

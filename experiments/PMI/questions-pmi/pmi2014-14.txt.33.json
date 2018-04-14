@@ -1,57 +1,57 @@
 [
     {
-        "options": [
-            {
-                "pmi": [
-                    -0.2100270597849979,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "A",
-                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder disciplinar e autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida, em raz\u00e3o da executoriedade do ato."
-            },
-            {
-                "pmi": [
-                    -0.20954883685077233,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "B",
-                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder de pol\u00edcia e autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida, em raz\u00e3o da executoriedade do ato."
-            },
-            {
-                "pmi": [
-                    -0.23371395231426617,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": null,
-                "letter": "C",
-                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder disciplinar, mas n\u00e3o autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida."
-            },
-            {
-                "pmi": [
-                    -0.23309226249977294,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "correct": true,
-                "letter": "D",
-                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder de pol\u00edcia, mas n\u00e3o autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida."
-            }
-        ],
         "areas": [
             "ADMINISTRATIVE"
         ],
-        "number": "33",
-        "valid": true,
+        "enum": "A Secretaria de Defesa do Meio Ambiente do Estado X lavrou auto de infra\u00e7\u00e3o, cominando multa no valor de R$ 15.000,00 (quinze mil reais) \u00e0 empresa Explora, em raz\u00e3o da instala\u00e7\u00e3o de uma sa\u00edda de esgoto clandestina em uma lagoa naquele Estado.\n\n A empresa n\u00e3o impugnou o auto de infra\u00e7\u00e3o lavrado e n\u00e3o pagou a multa aplicada.\n\n Considerando o exposto, assinale a afirmativa correta.",
         "filename": "2014-14.txt",
-        "enum": "A Secretaria de Defesa do Meio Ambiente do Estado X lavrou auto de infra\u00e7\u00e3o, cominando multa no valor de R$ 15.000,00 (quinze mil reais) \u00e0 empresa Explora, em raz\u00e3o da instala\u00e7\u00e3o de uma sa\u00edda de esgoto clandestina em uma lagoa naquele Estado.\n\n A empresa n\u00e3o impugnou o auto de infra\u00e7\u00e3o lavrado e n\u00e3o pagou a multa aplicada.\n\n Considerando o exposto, assinale a afirmativa correta."
+        "number": "33",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    -0.03887545123810677,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder disciplinar e autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida, em raz\u00e3o da executoriedade do ato."
+            },
+            {
+                "correct": null,
+                "letter": "B",
+                "pmi": [
+                    -0.03839722830388121,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder de pol\u00edcia e autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida, em raz\u00e3o da executoriedade do ato."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    -0.03902899759217751,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder disciplinar, mas n\u00e3o autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida."
+            },
+            {
+                "correct": true,
+                "letter": "D",
+                "pmi": [
+                    -0.038407307777684294,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "A aplica\u00e7\u00e3o de penalidade representa exerc\u00edcio do poder de pol\u00edcia, mas n\u00e3o autoriza a apreens\u00e3o de bens para a quita\u00e7\u00e3o da d\u00edvida."
+            }
+        ],
+        "valid": true
     }
 ]

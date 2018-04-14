@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
-        "options": [
-            {
-                "pmi": [
-                    -0.21735247165463936,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "A",
-                "correct": null,
-                "text": "s\u00f3 se forma coisa julgada em a\u00e7\u00f5es populares julgadas procedentes, ap\u00f3s a aplica\u00e7\u00e3o do duplo grau de jurisdi\u00e7\u00e3o, medida que tem por objetivo preservar os interesses da Fazenda P\u00fablica eventualmente condenada."
-            },
-            {
-                "pmi": [
-                    -0.10637612005487808,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "B",
-                "correct": true,
-                "text": "a produ\u00e7\u00e3o de efeitos erga omnes n\u00e3o ocorre se o pedido for julgado improcedente por insufici\u00eancia de provas."
-            },
-            {
-                "pmi": [
-                    -0.1728092610913891,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "C",
-                "correct": null,
-                "text": "produz efeitos erga omnes, exclusivamente nos casos de proced\u00eancia merit\u00f3ria, ficando seus efeitos, em todos os casos de improced\u00eancia, limitados \u00e0s partes do processo."
-            },
-            {
-                "pmi": [
-                    -0.282493560231844,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "letter": "D",
-                "correct": null,
-                "text": "produz, como regra, efeitos inter partes, cabendo aos interessados em se beneficiarem de eventual proced\u00eancia na a\u00e7\u00e3o requererem sua habilita\u00e7\u00e3o at\u00e9 a prola\u00e7\u00e3o da senten\u00e7a."
-            }
-        ],
         "areas": [
             "CIVIL-PROCEDURE"
         ],
-        "filename": "2011-03.txt",
         "enum": "A a\u00e7\u00e3o popular \u00e9 um importante instrumento para a promo\u00e7\u00e3o da tutela coletiva de direitos. Acerca da coisa julgada formada pelas senten\u00e7as de m\u00e9rito proferidas em tais a\u00e7\u00f5es, \u00e9 correto afirmar que",
-        "number": "19"
+        "filename": "2011-03.txt",
+        "number": "19",
+        "options": [
+            {
+                "correct": null,
+                "letter": "A",
+                "pmi": [
+                    0.05210767328942797,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "s\u00f3 se forma coisa julgada em a\u00e7\u00f5es populares julgadas procedentes, ap\u00f3s a aplica\u00e7\u00e3o do duplo grau de jurisdi\u00e7\u00e3o, medida que tem por objetivo preservar os interesses da Fazenda P\u00fablica eventualmente condenada."
+            },
+            {
+                "correct": true,
+                "letter": "B",
+                "pmi": [
+                    0.008144441546350559,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "a produ\u00e7\u00e3o de efeitos erga omnes n\u00e3o ocorre se o pedido for julgado improcedente por insufici\u00eancia de provas."
+            },
+            {
+                "correct": null,
+                "letter": "C",
+                "pmi": [
+                    0.09440538264481099,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "produz efeitos erga omnes, exclusivamente nos casos de proced\u00eancia merit\u00f3ria, ficando seus efeitos, em todos os casos de improced\u00eancia, limitados \u00e0s partes do processo."
+            },
+            {
+                "correct": null,
+                "letter": "D",
+                "pmi": [
+                    0.0610681245718418,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "text": "produz, como regra, efeitos inter partes, cabendo aos interessados em se beneficiarem de eventual proced\u00eancia na a\u00e7\u00e3o requererem sua habilita\u00e7\u00e3o at\u00e9 a prola\u00e7\u00e3o da senten\u00e7a."
+            }
+        ],
+        "valid": true
     }
 ]

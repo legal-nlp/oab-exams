@@ -1,55 +1,55 @@
 [
     {
+        "areas": [],
         "enum": "Um servidor p\u00fablico federal em S\u00e3o Paulo viajou a servi\u00e7o para Bras\u00edlia, para uma inspe\u00e7\u00e3o, e cobriu todas as despesas com recursos pr\u00f3prios. Passados exatos 3 anos e 10 meses, o servidor formulou pedido na esfera administrativa de reembolso de despesas e pagamento das di\u00e1rias de viagem. A decis\u00e3o final no processo administrativo somente foi proferida 1 (um) ano e 6 (seis) meses ap\u00f3s a formaliza\u00e7\u00e3o do pedido, negando o pleito. Diante desse fato, ele pretende ingressar com demanda para cobrar o referido valor.\n\n Considerando o exposto, assinale a afirmativa correta.",
         "filename": "2016-20.txt",
-        "valid": true,
+        "number": "33",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.3334701825311091,
+                    0.027057511398684717,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "O prazo prescricional \u00e9 de 3 (tr\u00eas) anos, que j\u00e1 se tinha consumado quando o servidor formulou o pedido na esfera administrativa."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.20741314003503808,
+                    0.044956245715817585,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "B",
                 "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e este foi suspenso pelo pedido administrativo. Com a decis\u00e3o negativa, volta a correr a prescri\u00e7\u00e3o contra o servidor."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.1339045476316954,
+                    0.010306529940222091,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "O prazo prescricional \u00e9 de 10 (dez) anos e, a despeito de n\u00e3o haver previs\u00e3o de suspens\u00e3o ou interrup\u00e7\u00e3o do prazo, este ainda n\u00e3o se consumou em desfavor do servidor."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.11950132376306578,
+                    0.030256333715463928,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e, portanto, este j\u00e1 transcorreu integralmente, visto que o pedido formulado na esfera administrativa n\u00e3o suspende e nem interrompe a prescri\u00e7\u00e3o."
             }
         ],
-        "areas": [],
-        "number": "33"
+        "valid": true
     }
 ]

@@ -1,7 +1,10 @@
 [
     {
-        "filename": "2012-09.txt",
+        "areas": [
+            "CIVIL-PROCEDURE"
+        ],
         "enum": "Considerando a assist\u00eancia e as demais formas de interven\u00e7\u00e3o de terceiros previstas no C\u00f3digo de Processo Civil, assinale a afirmativa correta.",
+        "filename": "2012-09.txt",
         "number": "55",
         "options": [
             {
@@ -19,7 +22,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.05547553578572001,
+                    0.034656387696728436,
                     0.0,
                     0.0,
                     0.0
@@ -48,9 +51,6 @@
                 ],
                 "text": "Feita a denuncia\u00e7\u00e3o da lide, se o denunciante aceitar, ele ser\u00e1 assistente simples do denunciado."
             }
-        ],
-        "areas": [
-            "CIVIL-PROCEDURE"
         ],
         "valid": true
     }

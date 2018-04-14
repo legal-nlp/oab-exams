@@ -1,16 +1,15 @@
 [
     {
         "areas": [],
-        "filename": "2016-21.txt",
-        "valid": true,
         "enum": "Lucas foi citado para apresentar defesa em a\u00e7\u00e3o de indeniza\u00e7\u00e3o por danos materiais, em raz\u00e3o de acidente de ve\u00edculo. Contudo, o propriet\u00e1rio e condutor do ve\u00edculo que causou o acidente era Cl\u00e1udio, seu primo, com quem Lucas havia pego uma carona.\n\n Lucas, em contesta\u00e7\u00e3o, dever\u00e1",
+        "filename": "2016-21.txt",
         "number": "53",
         "options": [
             {
                 "correct": true,
                 "letter": "A",
                 "pmi": [
-                    -0.050276010090427155,
+                    0.010185155972333302,
                     0.0,
                     0.0,
                     0.0
@@ -21,7 +20,7 @@
                 "correct": null,
                 "letter": "B",
                 "pmi": [
-                    -0.05704380582045161,
+                    0.013494221252768912,
                     0.0,
                     0.0,
                     0.0
@@ -43,13 +42,14 @@
                 "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.08182707393483653,
+                    0.02397996667499425,
                     0.0,
                     0.0,
                     0.0
                 ],
                 "text": "requerer o chamamento de Cl\u00e1udio ao processo."
             }
-        ]
+        ],
+        "valid": true
     }
 ]

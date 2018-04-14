@@ -1,55 +1,55 @@
 [
     {
         "areas": [],
-        "filename": "2016-20.txt",
         "enum": "A m\u00e9dica Carolina \u00e9 devedora de R$ 100.000,00 (cem mil reais), d\u00e9bito esse originado de contrato particular de m\u00fatuo, vencido e n\u00e3o pago, no qual figura como credora a advogada Z\u00e9lia. Diante do inadimplemento, Z\u00e9lia ajuizou a\u00e7\u00e3o de cobran\u00e7a que, ap\u00f3s instru\u00e7\u00e3o probat\u00f3ria, culminou em senten\u00e7a com resolu\u00e7\u00e3o de m\u00e9rito procedente. O juiz n\u00e3o se pronunciou quanto ao pagamento de honor\u00e1rios advocat\u00edcios de sucumb\u00eancia \u00e0 advogada porque esta atuou em causa pr\u00f3pria. A omissa senten\u00e7a proferida transitou em julgado recentemente.\n\n Sobre o caso apresentado, segundo o CPC/15, assinale a afirmativa correta.",
+        "filename": "2016-20.txt",
+        "number": "55",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.1502468985982636,
+                    0.007483967496021187,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O juiz agiu com acerto ao deixar de condenar Carolina ao pagamento de honor\u00e1rios.",
-                "letter": "A"
+                "text": "O juiz agiu com acerto ao deixar de condenar Carolina ao pagamento de honor\u00e1rios."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.13520251106959233,
+                    -4.625845919664434e-06,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Os honor\u00e1rios advocat\u00edcios de sucumb\u00eancia constituem direito do advogado sem natureza alimentar.",
-                "letter": "B"
+                "text": "Os honor\u00e1rios advocat\u00edcios de sucumb\u00eancia constituem direito do advogado sem natureza alimentar."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.10130717075619432,
+                    0.0068511374227438445,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "A advogada Z\u00e9lia n\u00e3o poder\u00e1 requerer que o pagamento dos honor\u00e1rios seja efetuado em favor da sociedade de advogados no qual figura como s\u00f3cia.",
-                "letter": "C"
+                "text": "A advogada Z\u00e9lia n\u00e3o poder\u00e1 requerer que o pagamento dos honor\u00e1rios seja efetuado em favor da sociedade de advogados no qual figura como s\u00f3cia."
             },
             {
                 "correct": true,
+                "letter": "D",
                 "pmi": [
-                    -0.11174754464694946,
+                    -0.0008159465147052048,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "O recente tr\u00e2nsito em julgado da omissa senten\u00e7a n\u00e3o obsta o ajuizamento de a\u00e7\u00e3o aut\u00f4noma para defini\u00e7\u00e3o e cobran\u00e7a dos honor\u00e1rios de sucumb\u00eancia.",
-                "letter": "D"
+                "text": "O recente tr\u00e2nsito em julgado da omissa senten\u00e7a n\u00e3o obsta o ajuizamento de a\u00e7\u00e3o aut\u00f4noma para defini\u00e7\u00e3o e cobran\u00e7a dos honor\u00e1rios de sucumb\u00eancia."
             }
         ],
-        "valid": true,
-        "number": "55"
+        "valid": true
     }
 ]

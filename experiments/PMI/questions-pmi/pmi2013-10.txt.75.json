@@ -1,57 +1,57 @@
 [
     {
-        "valid": true,
+        "areas": [
+            "LABOUR-PROCEDURE"
+        ],
+        "enum": "Em determinada reclama\u00e7\u00e3o trabalhista o juiz, \u00e0 luz das provas produzidas, considera que a natureza jur\u00eddica da extin\u00e7\u00e3o contratual foi culpa rec\u00edproca (de ambas as partes).\n\n Para a hip\u00f3tese, as alternativas a seguir apresentam direitos deferidos ao trabalhador, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.",
+        "filename": "2013-10.txt",
         "number": "75",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Metade do aviso pr\u00e9vio.",
-                "letter": "A"
+                "text": "Metade do aviso pr\u00e9vio."
             },
             {
                 "correct": null,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Metade do 13\u00ba sal\u00e1rio proporcional.",
-                "letter": "B"
+                "text": "Metade do 13\u00ba sal\u00e1rio proporcional."
             },
             {
                 "correct": true,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
                 ],
-                "text": "Seguro desemprego.",
-                "letter": "C"
+                "text": "Seguro desemprego."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "Indeniza\u00e7\u00e3o de 20% sobre o FGTS.",
-                "letter": "D"
+                "text": "Indeniza\u00e7\u00e3o de 20% sobre o FGTS."
             }
         ],
-        "areas": [
-            "LABOUR-PROCEDURE"
-        ],
-        "enum": "Em determinada reclama\u00e7\u00e3o trabalhista o juiz, \u00e0 luz das provas produzidas, considera que a natureza jur\u00eddica da extin\u00e7\u00e3o contratual foi culpa rec\u00edproca (de ambas as partes).\n\n Para a hip\u00f3tese, as alternativas a seguir apresentam direitos deferidos ao trabalhador, \u00e0 exce\u00e7\u00e3o de uma. Assinale-a.",
-        "filename": "2013-10.txt"
+        "valid": true
     }
 ]

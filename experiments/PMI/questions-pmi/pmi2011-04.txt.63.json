@@ -1,57 +1,57 @@
 [
     {
+        "areas": [
+            "CRIMINAL"
+        ],
+        "enum": "Em rela\u00e7\u00e3o ao c\u00e1lculo da pena, \u00e9 correto afirmar que",
+        "filename": "2011-04.txt",
+        "number": "63",
         "options": [
             {
+                "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "A",
                 "text": "a an\u00e1lise da reincid\u00eancia precede \u00e0 verifica\u00e7\u00e3o dos maus antecedentes, e eventual acr\u00e9scimo de pena com base na reincid\u00eancia deve ser posterior \u00e0 redu\u00e7\u00e3o pela participa\u00e7\u00e3o de menor import\u00e2ncia."
             },
             {
+                "correct": true,
+                "letter": "B",
                 "pmi": [
-                    -0.11225709257502037,
+                    0.10897581051826219,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
-                "letter": "B",
                 "text": "\u00e9 defeso ao juiz fixar a pena intermedi\u00e1ria em patamar acima do m\u00e1ximo previsto, ainda que haja circunst\u00e2ncia agravante a ser considerada."
             },
             {
+                "correct": null,
+                "letter": "C",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "C",
                 "text": "o acr\u00e9scimo de pena pela embriaguez preordenada deve se feito posteriormente \u00e0 redu\u00e7\u00e3o pela confiss\u00e3o espont\u00e2nea."
             },
             {
+                "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.08820200130894458,
+                    0.08562385112149172,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
-                "letter": "D",
                 "text": "\u00e9 poss\u00edvel que o juiz, analisando as circunst\u00e2ncias judiciais do art. 59 do C\u00f3digo Penal, fixe pena-base em patamar acima do m\u00e1ximo previsto."
             }
         ],
-        "number": "63",
-        "valid": true,
-        "enum": "Em rela\u00e7\u00e3o ao c\u00e1lculo da pena, \u00e9 correto afirmar que",
-        "filename": "2011-04.txt",
-        "areas": [
-            "CRIMINAL"
-        ]
+        "valid": true
     }
 ]

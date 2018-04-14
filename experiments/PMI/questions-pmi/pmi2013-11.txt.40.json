@@ -1,7 +1,14 @@
 [
     {
+        "areas": [
+            "CIVIL"
+        ],
+        "enum": "A escritura p\u00fablica, lavrada em notas de tabeli\u00e3o, \u00e9 documento dotado de f\u00e9 p\u00fablica, notadamente no que tange ao fato de o ato de declara\u00e7\u00e3o ter sido praticado na presen\u00e7a do tabeli\u00e3o e ter sido feita sua regular anota\u00e7\u00e3o em assentos pr\u00f3prios, o que n\u00e3o importa na veracidade quanto ao conte\u00fado declarado.\n\n A respeito desse tema, assinale a afirmativa correta.",
+        "filename": "2013-11.txt",
+        "number": "40",
         "options": [
             {
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -9,49 +16,42 @@
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "Aos c\u00f4njuges ou \u00e0 entidade familiar \u00e9 vedado destinar parte do seu patrim\u00f4nio para instituir bem de fam\u00edlia por escritura p\u00fablica, cuja forma legal exige testamento."
             },
             {
+                "correct": true,
                 "letter": "B",
                 "pmi": [
-                    -0.12893188624647786,
+                    0.04851533810959252,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": true,
                 "text": "A escritura p\u00fablica \u00e9 essencial para a validade do pacto antenupcial, devendo ser declarado nulo se n\u00e3o atender \u00e0 forma exigida por lei."
             },
             {
+                "correct": null,
                 "letter": "C",
                 "pmi": [
-                    -0.05193171422124391,
+                    0.029187016912959683,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A partilha amig\u00e1vel entre herdeiros capazes ser\u00e1 feita por termo nos autos do invent\u00e1rio ou por escritura p\u00fablica, n\u00e3o se admitindo escrito particular, ainda que homologado pelo Juiz."
             },
             {
+                "correct": null,
                 "letter": "D",
                 "pmi": [
-                    -0.060814272524096796,
+                    0.020304458610106813,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "correct": null,
                 "text": "A doa\u00e7\u00e3o ser\u00e1 realizada por meio de escritura p\u00fablica ou instrumento particular, n\u00e3o tendo validade a doa\u00e7\u00e3o verbal, tendo em vista ser expressamente vedada pela norma."
             }
         ],
-        "areas": [
-            "CIVIL"
-        ],
-        "filename": "2013-11.txt",
-        "number": "40",
-        "valid": true,
-        "enum": "A escritura p\u00fablica, lavrada em notas de tabeli\u00e3o, \u00e9 documento dotado de f\u00e9 p\u00fablica, notadamente no que tange ao fato de o ato de declara\u00e7\u00e3o ter sido praticado na presen\u00e7a do tabeli\u00e3o e ter sido feita sua regular anota\u00e7\u00e3o em assentos pr\u00f3prios, o que n\u00e3o importa na veracidade quanto ao conte\u00fado declarado.\n\n A respeito desse tema, assinale a afirmativa correta."
+        "valid": true
     }
 ]

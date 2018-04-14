@@ -1,17 +1,17 @@
 [
     {
-        "filename": "2011-05.txt",
-        "enum": "Cr\u00e9sio \u00e9 procurado por cliente que j\u00e1 possui advogado constitu\u00eddo nos autos. Prontamente recusa a atua\u00e7\u00e3o at\u00e9 que seu cliente apresente a quita\u00e7\u00e3o dos honor\u00e1rios acordados e proceda \u00e0 revoga\u00e7\u00e3o dos poderes que foram conferidos para o exerc\u00edcio do mandato. Ap\u00f3s cumpridas essas formalidades, comprovadas documentalmente, Cr\u00e9sio apresenta sua procura\u00e7\u00e3o nos autos e requer o prosseguimento do processo. \u00c0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que",
         "areas": [
             "ETHICS"
         ],
-        "valid": true,
+        "enum": "Cr\u00e9sio \u00e9 procurado por cliente que j\u00e1 possui advogado constitu\u00eddo nos autos. Prontamente recusa a atua\u00e7\u00e3o at\u00e9 que seu cliente apresente a quita\u00e7\u00e3o dos honor\u00e1rios acordados e proceda \u00e0 revoga\u00e7\u00e3o dos poderes que foram conferidos para o exerc\u00edcio do mandato. Ap\u00f3s cumpridas essas formalidades, comprovadas documentalmente, Cr\u00e9sio apresenta sua procura\u00e7\u00e3o nos autos e requer o prosseguimento do processo. \u00c0 luz das normas aplic\u00e1veis, \u00e9 correto afirmar que",
+        "filename": "2011-05.txt",
+        "number": "12",
         "options": [
             {
-                "letter": "A",
                 "correct": null,
+                "letter": "A",
                 "pmi": [
-                    -0.01642785289200319,
+                    0.02115611520106412,
                     0.0,
                     0.0,
                     0.0
@@ -19,10 +19,10 @@
                 "text": "a revoga\u00e7\u00e3o do mandato exime o cliente do pagamento de honor\u00e1rios acordados."
             },
             {
-                "letter": "B",
                 "correct": null,
+                "letter": "B",
                 "pmi": [
-                    -0.022109373665358957,
+                    0.06558655188513143,
                     0.0,
                     0.0,
                     0.0
@@ -30,10 +30,10 @@
                 "text": "permite-se o ingresso do advogado no processo mesmo que atuando outro, sem sua ci\u00eancia."
             },
             {
-                "letter": "C",
                 "correct": true,
+                "letter": "C",
                 "pmi": [
-                    -0.02041403620355677,
+                    0.05475389998257785,
                     0.0,
                     0.0,
                     0.0
@@ -41,10 +41,10 @@
                 "text": "o advogado deve, antes de assumir mandato, procurar a ci\u00eancia e autoriza\u00e7\u00e3o do antecessor."
             },
             {
-                "letter": "D",
                 "correct": null,
+                "letter": "D",
                 "pmi": [
-                    -0.01642785289200319,
+                    0.02115611520106412,
                     0.0,
                     0.0,
                     0.0
@@ -52,6 +52,6 @@
                 "text": "a verba de sucumb\u00eancia deixa de ser devida ap\u00f3s a revoga\u00e7\u00e3o do mandato pelo cliente."
             }
         ],
-        "number": "12"
+        "valid": true
     }
 ]

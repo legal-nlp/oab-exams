@@ -3,55 +3,55 @@
         "areas": [
             "BUSINESS"
         ],
-        "number": "49",
+        "enum": "A respeito do s\u00f3cio ostensivo da sociedade em conta de participa\u00e7\u00e3o, assinale a afirmativa correta.",
         "filename": "2012-08.txt",
-        "valid": true,
+        "number": "49",
         "options": [
             {
                 "correct": null,
+                "letter": "A",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 tamb\u00e9m chamado de s\u00f3cio oculto.",
-                "letter": "A"
+                "text": "\u00c9 tamb\u00e9m chamado de s\u00f3cio oculto."
             },
             {
                 "correct": true,
+                "letter": "B",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 o \u00fanico respons\u00e1vel pela atividade constitutiva do objeto social.",
-                "letter": "B"
+                "text": "\u00c9 o \u00fanico respons\u00e1vel pela atividade constitutiva do objeto social."
             },
             {
                 "correct": null,
+                "letter": "C",
                 "pmi": [
-                    -0.05223803548151542,
+                    0.10227383334553905,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 o novo s\u00f3cio admitido, mesmo que sem o consentimento dos demais, quando a sociedade necessitar de um aporte de capital.",
-                "letter": "C"
+                "text": "\u00c9 o novo s\u00f3cio admitido, mesmo que sem o consentimento dos demais, quando a sociedade necessitar de um aporte de capital."
             },
             {
                 "correct": null,
+                "letter": "D",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
                 ],
-                "text": "\u00c9 o \u00fanico s\u00f3cio ostensivo da sociedade,vedada a pluralidade de s\u00f3cios dessa natureza.",
-                "letter": "D"
+                "text": "\u00c9 o \u00fanico s\u00f3cio ostensivo da sociedade,vedada a pluralidade de s\u00f3cios dessa natureza."
             }
         ],
-        "enum": "A respeito do s\u00f3cio ostensivo da sociedade em conta de participa\u00e7\u00e3o, assinale a afirmativa correta."
+        "valid": true
     }
 ]

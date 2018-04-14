@@ -1,14 +1,14 @@
 [
     {
-        "enum": "A idade m\u00ednima para que algu\u00e9m seja contratado como empregada dom\u00e9stica, aprendiz e no trabalho em subsolo \u00e9 de, respectivamente,",
-        "number": "74",
         "areas": [
             "LABOUR"
         ],
-        "valid": true,
+        "enum": "A idade m\u00ednima para que algu\u00e9m seja contratado como empregada dom\u00e9stica, aprendiz e no trabalho em subsolo \u00e9 de, respectivamente,",
+        "filename": "2012-06a.txt",
+        "number": "74",
         "options": [
             {
-                "text": "16 anos, 14 anos e 25 anos.",
+                "correct": null,
                 "letter": "A",
                 "pmi": [
                     0.0,
@@ -16,10 +16,10 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "16 anos, 14 anos e 25 anos."
             },
             {
-                "text": "21 anos, 16 anos e 18 anos.",
+                "correct": null,
                 "letter": "B",
                 "pmi": [
                     0.0,
@@ -27,10 +27,10 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "21 anos, 16 anos e 18 anos."
             },
             {
-                "text": "14 anos, 16 anos e 30 anos.",
+                "correct": null,
                 "letter": "C",
                 "pmi": [
                     0.0,
@@ -38,10 +38,10 @@
                     0.0,
                     0.0
                 ],
-                "correct": null
+                "text": "14 anos, 16 anos e 30 anos."
             },
             {
-                "text": "18 anos, 14 anos e 21 anos.",
+                "correct": true,
                 "letter": "D",
                 "pmi": [
                     0.0,
@@ -49,9 +49,9 @@
                     0.0,
                     0.0
                 ],
-                "correct": true
+                "text": "18 anos, 14 anos e 21 anos."
             }
         ],
-        "filename": "2012-06a.txt"
+        "valid": true
     }
 ]
