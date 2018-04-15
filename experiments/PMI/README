@@ -10,7 +10,7 @@ If you are using LSF, you can run the jobs in parallel like:
 
 for f in questions/*.json; do bsub python3 pmi.py $f; done
 
-After the PMI calcuation is done, move all the pmi*.json to a separate
+After the PMI calculation is done, move all the pmi*.json to a separate
 directory (say, pmi/) and generate the report as follows:
 
 python3 report.py questions-pmi/*.json | sort | uniq -c
