@@ -31,6 +31,16 @@ def skip_trigram(text, sw):
     return list([ (x[0],x[2]) for x in nltk.ngrams(split(text, sw), 3) ])
 
 def compute_all_pmi(ngram_fn, oab, corpus, sw):
+    """Compute the PMI by extracting all n-grams given by NGRAM_FN from
+the questions in OAB and calculating it against a list of sentences in
+CORPUS."""
+
+    preprocessed_corpus = []
+    for raw in corpus:
+        split_sentence = split(raw, sw)
+        preprocessed_corpus.append((' '.join(split_sentence),
+                                    len(split_sentence)))
+    
     for q in oab:
         enum = ngram_fn(q['enum'], sw)
 
@@ -38,42 +48,20 @@ def compute_all_pmi(ngram_fn, oab, corpus, sw):
             option_text = ngram_fn(o['text'], sw)
 
             sum = 0
-            len = 0
+            l = 0
 
             for x, y in [(x,y) for x in enum for y in option_text]:
-                sum += pmi(x,y,corpus)
-                len += 1
+                sum += pmi(x,y,preprocessed_corpus)
+                l += 1
 
             avg = 0
-            if len > 0:
-                avg = sum/len
+            if l > 0:
+                avg = sum/l
                 
             if 'pmi' in o:
                 o['pmi'].append(avg)
             else:
                 o['pmi'] = [avg]
-
-def compute_q_pmi(ngram_fn, q, corpus, sw):
-    enum = ngram_fn(q['enum'], sw)
-
-    for o in q['options']:
-        option_text = ngram_fn(o['text'], sw)
-
-        sum = 0
-        len = 0
-
-        for x, y in [(x,y) for x in enum for y in option_text]:
-            sum += pmi(x,y,corpus)
-            len += 1
-
-        avg = 0
-        if len > 0:
-            avg = sum/len
-
-        if 'pmi' in o:
-            o['pmi'].append(avg)
-        else:
-            o['pmi'] = [avg]
 
 def main():
 
@@ -86,13 +74,10 @@ def main():
     with open('corpus.json','r') as f:
         corpus = json.load(f)
 
-    preprocessed_corpus = []
-    for raw in corpus:
-        split_sentence = split(raw['text'], sw)
-        preprocessed_corpus.append((' '.join(split_sentence), len(split_sentence)))
-
+    corpus = [ x['text'] for x in corpus ]
+        
     for ngram_fn in [unigram, bigram, trigram, skip_trigram]:
-        compute_all_pmi(ngram_fn, oab, preprocessed_corpus, sw)
+        compute_all_pmi(ngram_fn, oab, corpus, sw)
 
     with open('pmi' + os.path.basename(sys.argv[1]),'w') as f:
         json.dump(oab, f)
