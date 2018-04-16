@@ -1,3 +1,13 @@
+This experiment does not depend on Elastic Search to make it easier to
+run in clusters.
+
+You need to dump your Elastic Search indices and generate oab.json and
+corpus.json via dump.py
+
+$ python3 dump.py
+$ mv corpus.tmp.json corpus.json
+$ mv oab.tmp.json oab.json
+
 If you have a new oab.json file, first run split-oab.py to split it
 into independent JSONs one of each question and put these new JSONs in
 the questions/ directory.
