@@ -4,11 +4,11 @@ the questions/ directory.
 
 To execute, run:
 
-for f in questions/*.json; do python3 pmi.py $f; done
+for f in questions/*.json; do python3 pmi-solver.py $f; done
 
 If you are using LSF, you can run the jobs in parallel like:
 
-for f in questions/*.json; do bsub python3 pmi.py $f; done
+for f in questions/*.json; do bsub python3 pmi-solver.py $f; done
 
 After the PMI calculation is done, move all the pmi*.json to a separate
 directory (say, pmi/) and generate the report as follows:
