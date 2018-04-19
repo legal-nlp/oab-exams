@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O recurso de revista n\u00e3o dever\u00e1 ser admitido, pois o fundamento da decis\u00e3o n\u00e3o \u00e9 contr\u00e1rio \u00e0 Constitui\u00e7\u00e3o Federal ou \u00e0 S\u00famula do TST.",
                 "pmi": [
                     0.057494631081775244,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O recurso de revista n\u00e3o dever\u00e1 ser admitido, pois o fundamento da decis\u00e3o n\u00e3o \u00e9 contr\u00e1rio \u00e0 Constitui\u00e7\u00e3o Federal ou \u00e0 S\u00famula do TST."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 cab\u00edvel o recurso, pois a decis\u00e3o \u00e9 contr\u00e1ria ao entendimento do TST.",
                 "pmi": [
                     0.1087983231932916,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel o recurso, pois a decis\u00e3o \u00e9 contr\u00e1ria ao entendimento do TST."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O recurso de revista \u00e9 incab\u00edvel no procedimento sumar\u00edssimo. Logo, n\u00e3o dever\u00e1 ser admitido.",
                 "pmi": [
                     0.04282978273716758,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O recurso de revista \u00e9 incab\u00edvel no procedimento sumar\u00edssimo. Logo, n\u00e3o dever\u00e1 ser admitido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Dever\u00e1 ser admitido o recurso de revista, em raz\u00e3o do princ\u00edpio do duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio.",
                 "pmi": [
                     0.04939297697771913,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser admitido o recurso de revista, em raz\u00e3o do princ\u00edpio do duplo grau de jurisdi\u00e7\u00e3o obrigat\u00f3rio."
+                ]
             }
         ],
         "valid": true

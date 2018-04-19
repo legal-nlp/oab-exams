@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente a subordina\u00e7\u00e3o, j\u00e1 que inexistente fiscaliza\u00e7\u00e3o efetiva f\u00edsica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente a subordina\u00e7\u00e3o, j\u00e1 que inexistente fiscaliza\u00e7\u00e3o efetiva f\u00edsica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente o pagamento de sal\u00e1rio fixo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente o pagamento de sal\u00e1rio fixo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente o requisito da pessoalidade, j\u00e1 que imposs\u00edvel saber se era Paulo quem efetivamente estaria trabalhando.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo \u00e9 prestador de servi\u00e7os aut\u00f4nomo, n\u00e3o tendo v\u00ednculo de emprego, pois ausente o requisito da pessoalidade, j\u00e1 que imposs\u00edvel saber se era Paulo quem efetivamente estaria trabalhando."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Paulo \u00e9 empregado da empresa, pois presentes todos os requisitos caracterizadores da rela\u00e7\u00e3o de emprego.",
                 "pmi": [
                     0.010518509671700645,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo \u00e9 empregado da empresa, pois presentes todos os requisitos caracterizadores da rela\u00e7\u00e3o de emprego."
+                ]
             }
         ],
         "valid": true

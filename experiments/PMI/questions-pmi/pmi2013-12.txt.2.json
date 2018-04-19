@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00faltima tentativa de concilia\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00faltima tentativa de concilia\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "data fixada pelo Juiz.",
                 "pmi": [
                     0.07130338086597444,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "data fixada pelo Juiz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00faltima presta\u00e7\u00e3o de servi\u00e7o.",
                 "pmi": [
                     0.05077513936889523,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00faltima presta\u00e7\u00e3o de servi\u00e7o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "data do vencimento do contrato.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "data do vencimento do contrato."
+                ]
             }
         ],
         "valid": true

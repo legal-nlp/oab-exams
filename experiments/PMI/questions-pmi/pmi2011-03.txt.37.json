@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "STF, no primeiro caso, e pelo TRF, no segundo caso.",
                 "pmi": [
                     -0.0002805686241189919,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "STF, no primeiro caso, e pelo TRF, no segundo caso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "TRF em ambos os casos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "TRF em ambos os casos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "STF, no primeiro caso, e pelo STJ, no segundo caso.",
                 "pmi": [
                     -0.0002805686241189919,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "STF, no primeiro caso, e pelo STJ, no segundo caso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "TRF, no primeiro caso, e pelo STF, no segundo caso.",
                 "pmi": [
                     -0.0002805686241189919,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "TRF, no primeiro caso, e pelo STF, no segundo caso."
+                ]
             }
         ],
         "valid": true

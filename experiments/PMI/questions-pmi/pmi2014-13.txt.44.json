@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Let\u00edcia poder\u00e1 viajar sem autoriza\u00e7\u00e3o judicial se a sua prima, Ol\u00edvia, que tem 19 anos, aceitar acompanh\u00e1-la. Mila poder\u00e1 viajar sem autoriza\u00e7\u00e3o, se a sua av\u00f3, Filomena, a acompanhar.",
                 "pmi": [
                     0.015287277238215836,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Let\u00edcia poder\u00e1 viajar sem autoriza\u00e7\u00e3o judicial se a sua prima, Ol\u00edvia, que tem 19 anos, aceitar acompanh\u00e1-la. Mila poder\u00e1 viajar sem autoriza\u00e7\u00e3o, se a sua av\u00f3, Filomena, a acompanhar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se houver pr\u00e9via e expressa autoriza\u00e7\u00e3o dos pais ou respons\u00e1veis, Let\u00edcia e Mila ficam dispensadas da autoriza\u00e7\u00e3o judicial e poder\u00e3o viajar desacompanhadas dentro do territ\u00f3rio nacional.",
                 "pmi": [
                     0.030638289031234427,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se houver pr\u00e9via e expressa autoriza\u00e7\u00e3o dos pais ou respons\u00e1veis, Let\u00edcia e Mila ficam dispensadas da autoriza\u00e7\u00e3o judicial e poder\u00e3o viajar desacompanhadas dentro do territ\u00f3rio nacional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Let\u00edcia poder\u00e1 viajar desacompanhada dos pais por todo territ\u00f3rio nacional se houver autoriza\u00e7\u00e3o judicial, que poder\u00e1 ser concedida pelo prazo de dois anos. Mila n\u00e3o precisar\u00e1 de autoriza\u00e7\u00e3o judicial para ir a Maring\u00e1 se seu tio Jos\u00e9 aceitar acompanh\u00e1-la.",
                 "pmi": [
                     0.007561564824884133,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Let\u00edcia poder\u00e1 viajar desacompanhada dos pais por todo territ\u00f3rio nacional se houver autoriza\u00e7\u00e3o judicial, que poder\u00e1 ser concedida pelo prazo de dois anos. Mila n\u00e3o precisar\u00e1 de autoriza\u00e7\u00e3o judicial para ir a Maring\u00e1 se seu tio Jos\u00e9 aceitar acompanh\u00e1-la."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Mila poderia aproveitar a ida de sua vizinha Maria, de 23 anos, para acompanh\u00e1-la, desde que devidamente autorizada por seus pais, enquanto Let\u00edcia n\u00e3o precisaria de autoriza\u00e7\u00e3o judicial se seu padrinho, Ricardo, primo do seu pai, a acompanhasse.",
                 "pmi": [
                     0.0013308068580393702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Mila poderia aproveitar a ida de sua vizinha Maria, de 23 anos, para acompanh\u00e1-la, desde que devidamente autorizada por seus pais, enquanto Let\u00edcia n\u00e3o precisaria de autoriza\u00e7\u00e3o judicial se seu padrinho, Ricardo, primo do seu pai, a acompanhasse."
+                ]
             }
         ],
         "valid": true

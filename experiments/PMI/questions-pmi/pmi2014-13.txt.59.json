@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Paulo responder\u00e1 por tentativa de dano em concurso formal com homic\u00eddio culposo.",
                 "pmi": [
                     0.0028732342555129187,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo responder\u00e1 por tentativa de dano em concurso formal com homic\u00eddio culposo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Paulo responder\u00e1 por homic\u00eddio doloso, tendo agido com dolo eventual.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo responder\u00e1 por homic\u00eddio doloso, tendo agido com dolo eventual."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Paulo responder\u00e1 por homic\u00eddio culposo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo responder\u00e1 por homic\u00eddio culposo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Paulo responder\u00e1 por tentativa de dano em concurso material com homic\u00eddio culposo.",
                 "pmi": [
                     0.0028732342555129187,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo responder\u00e1 por tentativa de dano em concurso material com homic\u00eddio culposo."
+                ]
             }
         ],
         "valid": true

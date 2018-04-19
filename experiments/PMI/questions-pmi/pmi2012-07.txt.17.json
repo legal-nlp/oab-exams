@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo.",
                 "pmi": [
                     0.5359795902066875,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Presidente da C\u00e2mara dos Deputados assume definitivamente o cargo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o Presidente do Senado Federal assume definitivamente o cargo.",
                 "pmi": [
                     0.48251891256027185,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Presidente do Senado Federal assume definitivamente o cargo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta.",
                 "pmi": [
                     0.18024823595797326,
                     0.3440635145394799,
                     0.5850493337860617,
-                    0.0
-                ],
-                "text": "far-se-\u00e1 nova elei\u00e7\u00e3o direta."
+                    0.5850493337860617
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional.",
                 "pmi": [
                     0.19723825630303615,
                     0.3332069765527304,
                     0.29252466689303086,
-                    0.0
-                ],
-                "text": "far-se-\u00e1 elei\u00e7\u00e3o indireta, pelo Congresso Nacional."
+                    0.29252466689303086
+                ]
             }
         ],
         "valid": true

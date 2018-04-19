@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O contrato particular de assun\u00e7\u00e3o de d\u00edvida assinado por L\u00facia \u00e9 anul\u00e1vel por erro substancial, pois L\u00facia manifestou sua vontade de forma distorcida da realidade, por entendimento equivocado do neg\u00f3cio praticado.",
                 "pmi": [
                     0.013072572243157702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato particular de assun\u00e7\u00e3o de d\u00edvida assinado por L\u00facia \u00e9 anul\u00e1vel por erro substancial, pois L\u00facia manifestou sua vontade de forma distorcida da realidade, por entendimento equivocado do neg\u00f3cio praticado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O ato negocial celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel por v\u00edcio de consentimento, em raz\u00e3o de conduta dolosa praticada pelo banco, que ardilosamente falseou a realidade e forjou uma situa\u00e7\u00e3o inexistente, induzindo L\u00facia \u00e0 pr\u00e1tica do ato.",
                 "pmi": [
                     -0.018012279367530255,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ato negocial celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel por v\u00edcio de consentimento, em raz\u00e3o de conduta dolosa praticada pelo banco, que ardilosamente falseou a realidade e forjou uma situa\u00e7\u00e3o inexistente, induzindo L\u00facia \u00e0 pr\u00e1tica do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O instrumento particular firmado entre L\u00facia e o Banco FDC S.A. pode ser anulado sob fundamento de les\u00e3o, uma vez que L\u00facia assumiu obriga\u00e7\u00e3o excessiva sobre premente necessidade.",
                 "pmi": [
                     -0.01161572069086111,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O instrumento particular firmado entre L\u00facia e o Banco FDC S.A. pode ser anulado sob fundamento de les\u00e3o, uma vez que L\u00facia assumiu obriga\u00e7\u00e3o excessiva sobre premente necessidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O neg\u00f3cio jur\u00eddico celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel pelo v\u00edcio da coa\u00e7\u00e3o, uma vez que a amea\u00e7a praticada pelo banco foi iminente e atual, grave, s\u00e9ria e determinante para a celebra\u00e7\u00e3o da aven\u00e7a.",
                 "pmi": [
                     -0.03187584151629733,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O neg\u00f3cio jur\u00eddico celebrado entre L\u00facia e o Banco FDC S.A. \u00e9 anul\u00e1vel pelo v\u00edcio da coa\u00e7\u00e3o, uma vez que a amea\u00e7a praticada pelo banco foi iminente e atual, grave, s\u00e9ria e determinante para a celebra\u00e7\u00e3o da aven\u00e7a."
+                ]
             }
         ],
         "valid": true

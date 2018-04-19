@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O vencimento da letra de c\u00e2mbio ocorrer\u00e1 na data de sua apresenta\u00e7\u00e3o pelo benefici\u00e1rio ao sacado, Sales Oliveira.",
                 "pmi": [
                     -0.009209640131613636,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O vencimento da letra de c\u00e2mbio ocorrer\u00e1 na data de sua apresenta\u00e7\u00e3o pelo benefici\u00e1rio ao sacado, Sales Oliveira."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se o sacador, Fontoura Xavier, inserir a cl\u00e1usula \u201csem despesas\u201d ser\u00e1 facultativo o protesto por falta de pagamento.",
                 "pmi": [
                     0.006937809764553817,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o sacador, Fontoura Xavier, inserir a cl\u00e1usula \u201csem despesas\u201d ser\u00e1 facultativo o protesto por falta de pagamento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O benefici\u00e1rio e portador, Rezende Costa, pode inserir no t\u00edtulo a cl\u00e1usula \u201cn\u00e3o \u00e0 ordem\u201d antes de transferi-lo a terceiro.",
                 "pmi": [
                     -0.03005347642752029,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O benefici\u00e1rio e portador, Rezende Costa, pode inserir no t\u00edtulo a cl\u00e1usula \u201cn\u00e3o \u00e0 ordem\u201d antes de transferi-lo a terceiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Se o sacador, Fontoura Xavier, inserir na letra de c\u00e2mbio cl\u00e1usula de juros e sua taxa, essa estipula\u00e7\u00e3o ser\u00e1 considerada v\u00e1lida.",
                 "pmi": [
                     0.0008595980155741883,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o sacador, Fontoura Xavier, inserir na letra de c\u00e2mbio cl\u00e1usula de juros e sua taxa, essa estipula\u00e7\u00e3o ser\u00e1 considerada v\u00e1lida."
+                ]
             }
         ],
         "valid": true

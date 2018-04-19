@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o juiz n\u00e3o agiu corretamente, pois o interrogat\u00f3rio do acusado, de acordo com o C\u00f3digo de Processo Penal, \u00e9 o \u00faltimo ato a ser realizado.",
                 "pmi": [
                     0.014786373817991623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz n\u00e3o agiu corretamente, pois o interrogat\u00f3rio do acusado, de acordo com o C\u00f3digo de Processo Penal, \u00e9 o \u00faltimo ato a ser realizado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o juiz agiu corretamente, eis que o interrogat\u00f3rio, em raz\u00e3o do princ\u00edpio da especialidade, deve ser o primeiro ato da instru\u00e7\u00e3o nas a\u00e7\u00f5es penais instauradas para a persecu\u00e7\u00e3o dos crimes previstos na Lei de Drogas.",
                 "pmi": [
                     0.0075643672744944235,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz agiu corretamente, eis que o interrogat\u00f3rio, em raz\u00e3o do princ\u00edpio da especialidade, deve ser o primeiro ato da instru\u00e7\u00e3o nas a\u00e7\u00f5es penais instauradas para a persecu\u00e7\u00e3o dos crimes previstos na Lei de Drogas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o juiz n\u00e3o agiu corretamente, pois \u00e9 cab\u00edvel a invers\u00e3o do interrogat\u00f3rio, devendo ser automaticamente reconhecida a nulidade em raz\u00e3o da ado\u00e7\u00e3o de procedimento incorreto.",
                 "pmi": [
                     0.026537730337585802,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz n\u00e3o agiu corretamente, pois \u00e9 cab\u00edvel a invers\u00e3o do interrogat\u00f3rio, devendo ser automaticamente reconhecida a nulidade em raz\u00e3o da ado\u00e7\u00e3o de procedimento incorreto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o juiz agiu corretamente, j\u00e1 que, independentemente do procedimento adotado, n\u00e3o h\u00e1 uma ordem a ser seguida em rela\u00e7\u00e3o ao momento da realiza\u00e7\u00e3o do interrogat\u00f3rio do acusado.",
                 "pmi": [
                     0.02390406671761358,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz agiu corretamente, j\u00e1 que, independentemente do procedimento adotado, n\u00e3o h\u00e1 uma ordem a ser seguida em rela\u00e7\u00e3o ao momento da realiza\u00e7\u00e3o do interrogat\u00f3rio do acusado."
+                ]
             }
         ],
         "valid": true

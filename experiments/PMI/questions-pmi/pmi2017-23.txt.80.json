@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Somente a esposa e os filhos menores, por serem dependentes previdenci\u00e1rios pass\u00edveis de habilita\u00e7\u00e3o junto ao INSS, dividir\u00e3o igualmente a verba decorrente do contrato de trabalho.",
                 "pmi": [
                     0.0345282546302915,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente a esposa e os filhos menores, por serem dependentes previdenci\u00e1rios pass\u00edveis de habilita\u00e7\u00e3o junto ao INSS, dividir\u00e3o igualmente a verba decorrente do contrato de trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A vi\u00fava e todos os filhos s\u00e3o sucessores, motivo pelo qual a verba dever\u00e1 ser rateada igualmente entre todos, conferindo-se isonomia.",
                 "pmi": [
                     0.015962519168162027,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A vi\u00fava e todos os filhos s\u00e3o sucessores, motivo pelo qual a verba dever\u00e1 ser rateada igualmente entre todos, conferindo-se isonomia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A vi\u00fava, por ser herdeira e meeira, ficar\u00e1 com 50% da indeniza\u00e7\u00e3o pela ruptura do contrato de trabalho, dividindo-se o restante, igualmente, entre os filhos.",
                 "pmi": [
                     0.02836123179974336,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A vi\u00fava, por ser herdeira e meeira, ficar\u00e1 com 50% da indeniza\u00e7\u00e3o pela ruptura do contrato de trabalho, dividindo-se o restante, igualmente, entre os filhos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Lei n\u00e3o \u00e9 clara sobre quem deve receber a indeniza\u00e7\u00e3o, raz\u00e3o pela qual caber\u00e1 ao juiz, no caso concreto e verificando a necessidade de cada herdeiro, fazer a divis\u00e3o justa e equ\u00e2nime.",
                 "pmi": [
                     0.008650116257747302,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Lei n\u00e3o \u00e9 clara sobre quem deve receber a indeniza\u00e7\u00e3o, raz\u00e3o pela qual caber\u00e1 ao juiz, no caso concreto e verificando a necessidade de cada herdeiro, fazer a divis\u00e3o justa e equ\u00e2nime."
+                ]
             }
         ],
         "valid": true

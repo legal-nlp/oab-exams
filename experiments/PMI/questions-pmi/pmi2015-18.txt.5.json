@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Paulo poderia ter atuado naquela causa apenas para tomar a medida urgente cab\u00edvel.",
                 "pmi": [
                     -0.0007493809399498558,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo poderia ter atuado naquela causa apenas para tomar a medida urgente cab\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Paulo poderia ter atuado na causa, ainda que n\u00e3o houvesse provid\u00eancia urgente a tomar, uma vez que o advogado constitu\u00eddo estava viajando.",
                 "pmi": [
                     0.0004955582397536349,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo poderia ter atuado na causa, ainda que n\u00e3o houvesse provid\u00eancia urgente a tomar, uma vez que o advogado constitu\u00eddo estava viajando."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois o advogado n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento deste, ainda que haja necessidade da tomada de medidas urgentes.",
                 "pmi": [
                     0.0071228617311403924,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois o advogado n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento deste, ainda que haja necessidade da tomada de medidas urgentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois os prazos estavam suspensos durante o recesso.",
                 "pmi": [
                     -0.000659688440392561,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo n\u00e3o poderia ter atuado na causa, pois os prazos estavam suspensos durante o recesso."
+                ]
             }
         ],
         "valid": true

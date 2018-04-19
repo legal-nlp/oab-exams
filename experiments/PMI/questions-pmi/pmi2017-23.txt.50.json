@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O ju\u00edzo da sede do devedor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ju\u00edzo da sede do devedor."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O ju\u00edzo do principal estabelecimento do devedor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ju\u00edzo do principal estabelecimento do devedor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O ju\u00edzo da sede ou de qualquer filial do devedor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ju\u00edzo da sede ou de qualquer filial do devedor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O ju\u00edzo do principal estabelecimento ou da sede do devedor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ju\u00edzo do principal estabelecimento ou da sede do devedor."
+                ]
             }
         ],
         "valid": true

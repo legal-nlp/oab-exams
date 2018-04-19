@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, s\u00f3 pode ser demitido ap\u00f3s decis\u00e3o judicial transitada em julgado.",
                 "pmi": [
                     0.10433342180958935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, s\u00f3 pode ser demitido ap\u00f3s decis\u00e3o judicial transitada em julgado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, pode ser demitido pela sua inassiduidade ap\u00f3s decis\u00e3o em processo administrativo em que lhe seja assegurada ampla defesa.",
                 "pmi": [
                     0.08272493830906187,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, pode ser demitido pela sua inassiduidade ap\u00f3s decis\u00e3o em processo administrativo em que lhe seja assegurada ampla defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel que nunca sofrera qualquer puni\u00e7\u00e3o na esfera administrativa, n\u00e3o pode ser demitido em raz\u00e3o de sua inassiduidade.",
                 "pmi": [
                     0.07429501230669239,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel que nunca sofrera qualquer puni\u00e7\u00e3o na esfera administrativa, n\u00e3o pode ser demitido em raz\u00e3o de sua inassiduidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, n\u00e3o pode ser demitido em raz\u00e3o de sua inassiduidade, pois esta somente autoriza a aplica\u00e7\u00e3o das san\u00e7\u00f5es de advert\u00eancia e suspens\u00e3o.",
                 "pmi": [
                     0.06661475114287252,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos Paulo, servidor p\u00fablico est\u00e1vel, n\u00e3o pode ser demitido em raz\u00e3o de sua inassiduidade, pois esta somente autoriza a aplica\u00e7\u00e3o das san\u00e7\u00f5es de advert\u00eancia e suspens\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o brasileira, pois Maria encontrava-se domiciliada no Brasil.",
                 "pmi": [
                     0.06627679428465456,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o brasileira, pois Maria encontrava-se domiciliada no Brasil."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o inglesa, local em que foi realizado o ato de disposi\u00e7\u00e3o de \u00faltima vontade de Maria.",
                 "pmi": [
                     0.0024860250355291397,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se houver discuss\u00e3o acerca da validade do testamento, no que diz respeito \u00e0 observ\u00e2ncia das formalidades, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o inglesa, local em que foi realizado o ato de disposi\u00e7\u00e3o de \u00faltima vontade de Maria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A autoridade judici\u00e1ria brasileira n\u00e3o \u00e9 competente para proceder ao invent\u00e1rio e \u00e0 partilha de bens, porquanto Maria faleceu na Fran\u00e7a, e n\u00e3o no Brasil.",
                 "pmi": [
                     0.10591787062231935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A autoridade judici\u00e1ria brasileira n\u00e3o \u00e9 competente para proceder ao invent\u00e1rio e \u00e0 partilha de bens, porquanto Maria faleceu na Fran\u00e7a, e n\u00e3o no Brasil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Se houver discuss\u00e3o acerca do regime sucess\u00f3rio, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o sueca, em raz\u00e3o da nacionalidade do de cujus.",
                 "pmi": [
                     0.005619082594579323,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se houver discuss\u00e3o acerca do regime sucess\u00f3rio, dever\u00e1 ser aplicada a legisla\u00e7\u00e3o sueca, em raz\u00e3o da nacionalidade do de cujus."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O div\u00f3rcio s\u00f3 poder\u00e1 ser requerido no Brasil, eis que o casamento foi realizado no Brasil.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O div\u00f3rcio s\u00f3 poder\u00e1 ser requerido no Brasil, eis que o casamento foi realizado no Brasil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O div\u00f3rcio, se efetivado na Holanda, precisa ser reconhecido e homologado perante o STJ para que tenha validade no Brasil.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O div\u00f3rcio, se efetivado na Holanda, precisa ser reconhecido e homologado perante o STJ para que tenha validade no Brasil."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O div\u00f3rcio consensual pode ser reconhecido no Brasil sem que seja necess\u00e1rio proceder \u00e0 homologa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O div\u00f3rcio consensual pode ser reconhecido no Brasil sem que seja necess\u00e1rio proceder \u00e0 homologa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Para requerer o div\u00f3rcio no Brasil, o casal dever\u00e1, primeiramente, voltar a residir no pa\u00eds.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Para requerer o div\u00f3rcio no Brasil, o casal dever\u00e1, primeiramente, voltar a residir no pa\u00eds."
+                ]
             }
         ],
         "valid": true

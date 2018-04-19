@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "deve circular restritivamente entre os profissionais do escrit\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve circular restritivamente entre os profissionais do escrit\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "pode ser enviado a qualquer pessoa como forma de propaganda.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pode ser enviado a qualquer pessoa como forma de propaganda."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "pode ser remetido a quem o requerer.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "pode ser remetido a quem o requerer."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00e9 considerado como publicidade abusiva e vedado ao advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 considerado como publicidade abusiva e vedado ao advogado."
+                ]
             }
         ],
         "valid": true

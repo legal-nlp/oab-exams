@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Acrescentar uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o, em ambos os casos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Acrescentar uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o, em ambos os casos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Redigir, no processo A, uma exce\u00e7\u00e3o de incompet\u00eancia e, no processo B, uma preliminar de incompet\u00eancia da contesta\u00e7\u00e3o.",
                 "pmi": [
                     0.03953078853805389,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Redigir, no processo A, uma exce\u00e7\u00e3o de incompet\u00eancia e, no processo B, uma preliminar de incompet\u00eancia da contesta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Acrescentar, ao processo A, uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o e, ao processo B, uma exce\u00e7\u00e3o de incompet\u00eancia.",
                 "pmi": [
                     0.03953078853805389,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Acrescentar, ao processo A, uma preliminar de incompet\u00eancia na contesta\u00e7\u00e3o e, ao processo B, uma exce\u00e7\u00e3o de incompet\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Redigir uma exce\u00e7\u00e3o de incompet\u00eancia, em ambos os casos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Redigir uma exce\u00e7\u00e3o de incompet\u00eancia, em ambos os casos."
+                ]
             }
         ],
         "valid": true

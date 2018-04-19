@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Artigos, c\u00e1lculo ou arbitramento. Prazo de 8 dias.",
                 "pmi": [
                     0.05193314777319845,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Artigos, c\u00e1lculo ou arbitramento. Prazo de 8 dias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "C\u00e1lculo, arbitramento ou artigos. Prazo de 10 dias.",
                 "pmi": [
                     0.07240478217696075,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1lculo, arbitramento ou artigos. Prazo de 10 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Artigos ou arbitramento. Prazo de 15 dias.",
                 "pmi": [
                     0.06231977732783813,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Artigos ou arbitramento. Prazo de 15 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "C\u00e1lculo ou arbitramento. Prazo de 5 dias.",
                 "pmi": [
                     0.06231977732783813,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1lculo ou arbitramento. Prazo de 5 dias."
+                ]
             }
         ],
         "valid": true

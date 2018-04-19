@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal, em face da nova\u00e7\u00e3o da d\u00edvida, que teria perdido a sua natureza tribut\u00e1ria pelo seu parcelamento.",
                 "pmi": [
                     0.04787536997411022,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal, em face da nova\u00e7\u00e3o da d\u00edvida, que teria perdido a sua natureza tribut\u00e1ria pelo seu parcelamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a improced\u00eancia da execu\u00e7\u00e3o fiscal, por iliquidez do t\u00edtulo exequendo, pelo fato de que parte da d\u00edvida j\u00e1 foi paga.",
                 "pmi": [
                     0.09148456177621228,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a improced\u00eancia da execu\u00e7\u00e3o fiscal, por iliquidez do t\u00edtulo exequendo, pelo fato de que parte da d\u00edvida j\u00e1 foi paga."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o reconhecimento do direito apenas parcial \u00e0 execu\u00e7\u00e3o fiscal, por parte do Fisco, em face da exist\u00eancia de saldo devedor do parcelamento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reconhecimento do direito apenas parcial \u00e0 execu\u00e7\u00e3o fiscal, por parte do Fisco, em face da exist\u00eancia de saldo devedor do parcelamento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal em face da suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio.",
                 "pmi": [
                     0.0310537994060469,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a car\u00eancia da execu\u00e7\u00e3o fiscal em face da suspens\u00e3o da exigibilidade do cr\u00e9dito tribut\u00e1rio."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a reabilita\u00e7\u00e3o administrativa independe da criminal.",
                 "pmi": [
                     0.13436653284682393,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a reabilita\u00e7\u00e3o administrativa independe da criminal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ambas as reabilita\u00e7\u00f5es podem tramitar paralelamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ambas as reabilita\u00e7\u00f5es podem tramitar paralelamente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a reabilita\u00e7\u00e3o administrativa \u00e9 pressuposto da criminal.",
                 "pmi": [
                     0.13436653284682393,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a reabilita\u00e7\u00e3o administrativa \u00e9 pressuposto da criminal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e9 pressuposto da reabilita\u00e7\u00e3o \u00e0 OAB o deferimento da criminal.",
                 "pmi": [
                     0.10749322627745915,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 pressuposto da reabilita\u00e7\u00e3o \u00e0 OAB o deferimento da criminal."
+                ]
             }
         ],
         "valid": true

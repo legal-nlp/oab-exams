@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Ser\u00e1 adotado o sistema recursal do C\u00f3digo de Processo Civil.",
                 "pmi": [
                     0.16123983941618872,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ser\u00e1 adotado o sistema recursal do C\u00f3digo de Processo Civil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Em todos os recursos, salvo nos embargos de declara\u00e7\u00e3o, o prazo para o Minist\u00e9rio P\u00fablico e para a defesa ser\u00e1 sempre de 30 (trinta) dias.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Em todos os recursos, salvo nos embargos de declara\u00e7\u00e3o, o prazo para o Minist\u00e9rio P\u00fablico e para a defesa ser\u00e1 sempre de 30 (trinta) dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 exigido o preparo para a interposi\u00e7\u00e3o dos recursos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 exigido o preparo para a interposi\u00e7\u00e3o dos recursos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os recursos n\u00e3o ter\u00e3o prefer\u00eancia de julgamento, nem dispensar\u00e3o revisor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os recursos n\u00e3o ter\u00e3o prefer\u00eancia de julgamento, nem dispensar\u00e3o revisor."
+                ]
             }
         ],
         "valid": true

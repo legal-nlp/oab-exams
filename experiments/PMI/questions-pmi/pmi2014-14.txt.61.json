@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "omissivo impr\u00f3prio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "omissivo impr\u00f3prio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "omissivo pr\u00f3prio.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "omissivo pr\u00f3prio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "comissivo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "comissivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "omissivo por comiss\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "omissivo por comiss\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A concess\u00e3o administrativa envolve, adicionalmente \u00e0 tarifa cobrada dos usu\u00e1rios, contrapresta\u00e7\u00e3o pecuni\u00e1ria do parceiro p\u00fablico ao parceiro privado.",
                 "pmi": [
                     0.023864256422487656,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A concess\u00e3o administrativa envolve, adicionalmente \u00e0 tarifa cobrada dos usu\u00e1rios, contrapresta\u00e7\u00e3o pecuni\u00e1ria do parceiro p\u00fablico ao parceiro privado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A contrata\u00e7\u00e3o de parceria p\u00fablico-privada somente pode ser realizada para contratos com valor igual ou superior a R$ 20.000.000,00 (vinte milh\u00f5es de reais).",
                 "pmi": [
                     -0.031930493002400674,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A contrata\u00e7\u00e3o de parceria p\u00fablico-privada somente pode ser realizada para contratos com valor igual ou superior a R$ 20.000.000,00 (vinte milh\u00f5es de reais)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Considerando se tratar de concess\u00e3o administrativa, o prazo m\u00e1ximo de vig\u00eancia do contrato \u00e9 de 20 anos.",
                 "pmi": [
                     0.041371475853716644,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Considerando se tratar de concess\u00e3o administrativa, o prazo m\u00e1ximo de vig\u00eancia do contrato \u00e9 de 20 anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o de parceria p\u00fablico-privada que envolva a execu\u00e7\u00e3o de obra p\u00fablica.",
                 "pmi": [
                     0.1465312099126483,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o de parceria p\u00fablico-privada que envolva a execu\u00e7\u00e3o de obra p\u00fablica."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, tampouco se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
                 "pmi": [
                     0.005320095726978552,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, tampouco se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas n\u00e3o pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
                 "pmi": [
                     0.005763437037560098,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas n\u00e3o pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa.",
                 "pmi": [
                     0.005763437037560098,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juliana pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos e pode se utilizar das informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas pode repassar as informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa, a fim de que sejam utilizadas por terceiro que patrocine a causa de Cristina.",
                 "pmi": [
                     0.012627457291014528,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juliana n\u00e3o pode advogar contra a sociedade empres\u00e1ria OPQ Cosm\u00e9ticos, mas pode repassar as informa\u00e7\u00f5es estrat\u00e9gicas a que teve acesso quando foi empregada da empresa, a fim de que sejam utilizadas por terceiro que patrocine a causa de Cristina."
+                ]
             }
         ],
         "valid": true

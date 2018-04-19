@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "deve vir regulada por lei.",
                 "pmi": [
                     0.04509207019393142,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve vir regulada por lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "deve vir regulada por lei complementar.",
                 "pmi": [
                     0.03381905264544856,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve vir regulada por lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "enquadra-se como majora\u00e7\u00e3o de tributo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "enquadra-se como majora\u00e7\u00e3o de tributo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "poder\u00e1 ser disciplinada mediante decreto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "poder\u00e1 ser disciplinada mediante decreto."
+                ]
             }
         ],
         "valid": true

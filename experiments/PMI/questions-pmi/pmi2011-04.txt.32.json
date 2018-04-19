@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Munic\u00edpio de Mar Azul e o m\u00e9dico, solid\u00e1ria e objetivamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Munic\u00edpio de Mar Azul e o m\u00e9dico, solid\u00e1ria e objetivamente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, regressivamente, em caso de dolo ou culpa.",
                 "pmi": [
                     0.00450679614680288,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, regressivamente, em caso de dolo ou culpa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, subsidiariamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, subsidiariamente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, solid\u00e1ria e subjetivamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Munic\u00edpio de Mar Azul, objetivamente, e o m\u00e9dico, solid\u00e1ria e subjetivamente."
+                ]
             }
         ],
         "valid": true

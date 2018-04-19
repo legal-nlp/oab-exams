@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "interpor agravo de instrumento, uma vez que atendeu o prazo de oito dias para a interposi\u00e7\u00e3o do recurso ordin\u00e1rio e o prazo de cinco dias para a juntada do original.",
                 "pmi": [
                     0.0363212822332583,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpor agravo de instrumento, uma vez que atendeu o prazo de oito dias para a interposi\u00e7\u00e3o do recurso ordin\u00e1rio e o prazo de cinco dias para a juntada do original."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "impetrar mandado de seguran\u00e7a, uma vez que o juiz violou o seu direito l\u00edquido e certo de interpor recurso ordin\u00e1rio no prazo de oito dias a contar da publica\u00e7\u00e3o.",
                 "pmi": [
                     0.03627609898159279,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "impetrar mandado de seguran\u00e7a, uma vez que o juiz violou o seu direito l\u00edquido e certo de interpor recurso ordin\u00e1rio no prazo de oito dias a contar da publica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "ingressar com uma reclama\u00e7\u00e3o correicional, uma vez que o juiz praticou um ato desprovido de amparo legal.",
                 "pmi": [
                     -0.000758186039764154,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ingressar com uma reclama\u00e7\u00e3o correicional, uma vez que o juiz praticou um ato desprovido de amparo legal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ajuizar uma a\u00e7\u00e3o rescis\u00f3ria, uma vez que a senten\u00e7a judicial se tornou irrecorr\u00edvel diante da decis\u00e3o judicial que negou seguimento ao recurso ordin\u00e1rio.",
                 "pmi": [
                     0.09226766315127254,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ajuizar uma a\u00e7\u00e3o rescis\u00f3ria, uma vez que a senten\u00e7a judicial se tornou irrecorr\u00edvel diante da decis\u00e3o judicial que negou seguimento ao recurso ordin\u00e1rio."
+                ]
             }
         ],
         "valid": true

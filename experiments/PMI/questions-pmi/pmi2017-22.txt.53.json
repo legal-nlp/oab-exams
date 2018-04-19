@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "impetrar Mandado de Seguran\u00e7a contra a decis\u00e3o que reputa ilegal, tendo como autoridade coatora o ju\u00edzo sentenciante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "impetrar Mandado de Seguran\u00e7a contra a decis\u00e3o que reputa ilegal, tendo como autoridade coatora o ju\u00edzo sentenciante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "interpor Agravo de Instrumento, impugnando o deferimento da tutela provis\u00f3ria, pois ausentes seus requisitos.",
                 "pmi": [
                     0.016883547258947057,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpor Agravo de Instrumento, impugnando o deferimento da tutela provis\u00f3ria, pois ausentes seus requisitos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "interpor Apela\u00e7\u00e3o, impugnando o deferimento da tutela provis\u00f3ria e a condena\u00e7\u00e3o final \u00e0 obriga\u00e7\u00e3o de fazer.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpor Apela\u00e7\u00e3o, impugnando o deferimento da tutela provis\u00f3ria e a condena\u00e7\u00e3o final \u00e0 obriga\u00e7\u00e3o de fazer."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "interpor Agravo de Instrumento, impugnando a tutela provis\u00f3ria e a condena\u00e7\u00e3o final \u00e0 obriga\u00e7\u00e3o de fazer.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpor Agravo de Instrumento, impugnando a tutela provis\u00f3ria e a condena\u00e7\u00e3o final \u00e0 obriga\u00e7\u00e3o de fazer."
+                ]
             }
         ],
         "valid": true

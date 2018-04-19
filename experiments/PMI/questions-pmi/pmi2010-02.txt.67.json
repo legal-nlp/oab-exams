@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o cabe nova apela\u00e7\u00e3o no caso concreto, em respeito ao princ\u00edpio da soberania dos veredictos.",
                 "pmi": [
                     0.0018073558198670248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o cabe nova apela\u00e7\u00e3o no caso concreto, em respeito ao princ\u00edpio da soberania dos veredictos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A decis\u00e3o do juiz togado foi incorreta, pois violou o princ\u00edpio do ne reformatio in pejus, cabendo apela\u00e7\u00e3o.",
                 "pmi": [
                     0.020044309749237505,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A decis\u00e3o do juiz togado foi incorreta, pois violou o princ\u00edpio do ne reformatio in pejus, cabendo apela\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A decis\u00e3o dos jurados foi incorreta, pois violou o princ\u00edpio do tantum devolutum quantum appelatum.",
                 "pmi": [
                     0.005189695861693124,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A decis\u00e3o dos jurados foi incorreta, pois violou o princ\u00edpio do tantum devolutum quantum appelatum."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o cabe apela\u00e7\u00e3o por falta de interesse jur\u00eddico, j\u00e1 que a fixa\u00e7\u00e3o do regime inicial fechado \u00e9 mais vantajosa do que uma pena a ser cumprida em regime integralmente fechado.",
                 "pmi": [
                     0.034702887977669086,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o cabe apela\u00e7\u00e3o por falta de interesse jur\u00eddico, j\u00e1 que a fixa\u00e7\u00e3o do regime inicial fechado \u00e9 mais vantajosa do que uma pena a ser cumprida em regime integralmente fechado."
+                ]
             }
         ],
         "valid": true

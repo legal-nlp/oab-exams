@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a escritura\u00e7\u00e3o de livros cont\u00e1beis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a escritura\u00e7\u00e3o de livros cont\u00e1beis."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o pagamento de tributo ou penalidade pecuni\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pagamento de tributo ou penalidade pecuni\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a presta\u00e7\u00e3o de informa\u00e7\u00f5es tribut\u00e1rias perante a autoridade fiscal competente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a presta\u00e7\u00e3o de informa\u00e7\u00f5es tribut\u00e1rias perante a autoridade fiscal competente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a inscri\u00e7\u00e3o da pessoa jur\u00eddica junto ao Cadastro Nacional de Pessoa Jur\u00eddica \u2013 CNPJ.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a inscri\u00e7\u00e3o da pessoa jur\u00eddica junto ao Cadastro Nacional de Pessoa Jur\u00eddica \u2013 CNPJ."
+                ]
             }
         ],
         "valid": true

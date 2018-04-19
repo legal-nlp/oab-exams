@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Recurso em Sentido Estrito.",
                 "pmi": [
                     0.024038156696293618,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso em Sentido Estrito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Recurso Ordin\u00e1rio Constitucional.",
                 "pmi": [
                     0.1260376839928288,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso Ordin\u00e1rio Constitucional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Recurso Extraordin\u00e1rio.",
                 "pmi": [
                     0.20034552196994657,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Recurso Extraordin\u00e1rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Embargos Infringentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Embargos Infringentes."
+                ]
             }
         ],
         "valid": true

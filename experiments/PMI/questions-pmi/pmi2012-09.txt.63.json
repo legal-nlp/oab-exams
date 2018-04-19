@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Guilherme n\u00e3o pode ser considerado reincidente por conta de uma omiss\u00e3o legislativa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme n\u00e3o pode ser considerado reincidente por conta de uma omiss\u00e3o legislativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Guilherme deve ter a pena de multa n\u00e3o paga da primeira condena\u00e7\u00e3o convertida em pena privativa de liberdade.",
                 "pmi": [
                     0.03693195823973233,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme deve ter a pena de multa n\u00e3o paga da primeira condena\u00e7\u00e3o convertida em pena privativa de liberdade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Guilherme \u00e9 reincidente, pois praticou novo crime ap\u00f3s condena\u00e7\u00e3o transitada em julgado.",
                 "pmi": [
                     0.038290873722402495,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme \u00e9 reincidente, pois praticou novo crime ap\u00f3s condena\u00e7\u00e3o transitada em julgado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A pena de multa n\u00e3o gera reincid\u00eancia.",
                 "pmi": [
                     0.0616410599711322,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pena de multa n\u00e3o gera reincid\u00eancia."
+                ]
             }
         ],
         "valid": true

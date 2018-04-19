@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A fun\u00e7\u00e3o de acompanhante \u00e9 incompat\u00edvel com o reconhecimento de v\u00ednculo de emprego dom\u00e9stico.",
                 "pmi": [
                     0.01990438100075174,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A fun\u00e7\u00e3o de acompanhante \u00e9 incompat\u00edvel com o reconhecimento de v\u00ednculo de emprego dom\u00e9stico."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Joana faz jus ao reconhecimento de v\u00ednculo de emprego como empregada dom\u00e9stica.",
                 "pmi": [
                     -0.007249964668600464,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Joana faz jus ao reconhecimento de v\u00ednculo de emprego como empregada dom\u00e9stica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Joana n\u00e3o far\u00e1 jus \u00e0 estabilidade gestacional, pois este n\u00e3o \u00e9 um direito garanti do \u00e0 categoria dos empregados dom\u00e9sticos.",
                 "pmi": [
                     0.030436256570504056,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Joana n\u00e3o far\u00e1 jus \u00e0 estabilidade gestacional, pois este n\u00e3o \u00e9 um direito garanti do \u00e0 categoria dos empregados dom\u00e9sticos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Joana n\u00e3o far\u00e1 jus \u00e0 estabilidade gestacional, pois o contrato de tr\u00eas meses \u00e9 automaticamente considerado de experi\u00eancia para o Direito do Trabalho e pode ser rescindido ao atingir o seu termo final.",
                 "pmi": [
                     0.015585013180196616,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Joana n\u00e3o far\u00e1 jus \u00e0 estabilidade gestacional, pois o contrato de tr\u00eas meses \u00e9 automaticamente considerado de experi\u00eancia para o Direito do Trabalho e pode ser rescindido ao atingir o seu termo final."
+                ]
             }
         ],
         "valid": true

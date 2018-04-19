@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015.",
                 "pmi": [
                     0.01615030685199627,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as multas e al\u00edquotas forem as previstas na Lei n\u00ba 123/2015."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador.",
                 "pmi": [
                     0.02053531989788782,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as al\u00edquotas forem as previstas na Lei n\u00ba 123/2015 e as multas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador.",
                 "pmi": [
                     0.019053098687239995,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as multas e as al\u00edquotas forem as previstas na lei vigente ao tempo do fato gerador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador.",
                 "pmi": [
                     0.02053531989788782,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as multas forem as previstas na Lei n\u00ba 123/2015 e as al\u00edquotas forem aquelas previstas na lei vigente ao tempo do fato gerador."
+                ]
             }
         ],
         "valid": true

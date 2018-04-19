@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "corrup\u00e7\u00e3o passiva consumada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "corrup\u00e7\u00e3o passiva consumada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "concuss\u00e3o consumada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concuss\u00e3o consumada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "corrup\u00e7\u00e3o passiva tentada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "corrup\u00e7\u00e3o passiva tentada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "concuss\u00e3o tentada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concuss\u00e3o tentada."
+                ]
             }
         ],
         "valid": true

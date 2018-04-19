@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "N\u00e3o se aplica a idade m\u00e1xima ao aprendiz portador de defici\u00eancia, de modo que a contrata\u00e7\u00e3o \u00e9 poss\u00edvel.",
                 "pmi": [
                     0.09055807060924136,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se aplica a idade m\u00e1xima ao aprendiz portador de defici\u00eancia, de modo que a contrata\u00e7\u00e3o \u00e9 poss\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A idade m\u00e1xima do aprendiz \u00e9 de 24 anos, n\u00e3o havendo exce\u00e7\u00e3o, pelo que n\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A idade m\u00e1xima do aprendiz \u00e9 de 24 anos, n\u00e3o havendo exce\u00e7\u00e3o, pelo que n\u00e3o \u00e9 poss\u00edvel a contrata\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Havendo autoriza\u00e7\u00e3o da Superintend\u00eancia Regional do Trabalho, o jovem poder\u00e1 ser contratado como aprendiz, haja vista sua situa\u00e7\u00e3o especial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Havendo autoriza\u00e7\u00e3o da Superintend\u00eancia Regional do Trabalho, o jovem poder\u00e1 ser contratado como aprendiz, haja vista sua situa\u00e7\u00e3o especial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o existe idade m\u00e1xima para a contrata\u00e7\u00e3o de aprendizes, da\u00ed porque, em qualquer hip\u00f3tese, a admiss\u00e3o \u00e9 poss\u00edvel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o existe idade m\u00e1xima para a contrata\u00e7\u00e3o de aprendizes, da\u00ed porque, em qualquer hip\u00f3tese, a admiss\u00e3o \u00e9 poss\u00edvel."
+                ]
             }
         ],
         "valid": true

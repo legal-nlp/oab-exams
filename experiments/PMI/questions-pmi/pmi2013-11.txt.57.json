@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O curador especial, nomeado em caso de executado citado com hora certa revel, tem legitimidade para opor embargos \u00e0 execu\u00e7\u00e3o.",
                 "pmi": [
                     0.006445630865704763,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O curador especial, nomeado em caso de executado citado com hora certa revel, tem legitimidade para opor embargos \u00e0 execu\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ao curador especial n\u00e3o se aplica o \u00f4nus da impugna\u00e7\u00e3o especificada dos fatos articulados pelo autor.",
                 "pmi": [
                     0.016796424605854014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao curador especial n\u00e3o se aplica o \u00f4nus da impugna\u00e7\u00e3o especificada dos fatos articulados pelo autor."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O juiz dar\u00e1 curador especial ao r\u00e9u revel citado por edital, mas n\u00e3o \u00e0quele citado com hora certa.",
                 "pmi": [
                     0.016931961545342634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz dar\u00e1 curador especial ao r\u00e9u revel citado por edital, mas n\u00e3o \u00e0quele citado com hora certa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz dar\u00e1 curador especial ao incapaz, ainda que tenha representante legal, quando houver colis\u00e3o de interesses entre este e o representado.",
                 "pmi": [
                     0.04863106083874512,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz dar\u00e1 curador especial ao incapaz, ainda que tenha representante legal, quando houver colis\u00e3o de interesses entre este e o representado."
+                ]
             }
         ],
         "valid": true

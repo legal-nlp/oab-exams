@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A nota promiss\u00f3ria vinculada ao contrato de abertura de cr\u00e9dito n\u00e3o goza de autonomia em raz\u00e3o da iliquidez do t\u00edtulo que a originou.",
                 "pmi": [
                     0.028404180042567447,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nota promiss\u00f3ria vinculada ao contrato de abertura de cr\u00e9dito n\u00e3o goza de autonomia em raz\u00e3o da iliquidez do t\u00edtulo que a originou."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A nota promiss\u00f3ria vinculada ao contrato de abertura de cr\u00e9dito goza de autonomia em raz\u00e3o do contrato de abertura de cr\u00e9dito ser t\u00edtulo executivo extrajudicial.",
                 "pmi": [
                     0.045446688068107914,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nota promiss\u00f3ria vinculada ao contrato de abertura de cr\u00e9dito goza de autonomia em raz\u00e3o do contrato de abertura de cr\u00e9dito ser t\u00edtulo executivo extrajudicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O avalista poder\u00e1 arguir exce\u00e7\u00e3o de pr\u00e9-executividade em raz\u00e3o da iliquidez do t\u00edtulo que originou a nota promiss\u00f3ria, mesmo que esta tenha for\u00e7a executiva e autonomia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O avalista poder\u00e1 arguir exce\u00e7\u00e3o de pr\u00e9-executividade em raz\u00e3o da iliquidez do t\u00edtulo que originou a nota promiss\u00f3ria, mesmo que esta tenha for\u00e7a executiva e autonomia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A nota promiss\u00f3ria gozar\u00e1 de autonomia somente com a anu\u00eancia do avalista no contrato de abertura de cr\u00e9dito, al\u00e9m da sua assinatura no t\u00edtulo.",
                 "pmi": [
                     0.030986378228255396,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nota promiss\u00f3ria gozar\u00e1 de autonomia somente com a anu\u00eancia do avalista no contrato de abertura de cr\u00e9dito, al\u00e9m da sua assinatura no t\u00edtulo."
+                ]
             }
         ],
         "valid": true

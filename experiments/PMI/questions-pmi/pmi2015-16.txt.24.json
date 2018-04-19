@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A negocia\u00e7\u00e3o \u00e9 um mecanismo que conta com o envolvimento de um terceiro, cuja fun\u00e7\u00e3o \u00e9 propor uma solu\u00e7\u00e3o pac\u00edfica para o conflito entre as partes.",
                 "pmi": [
                     0.04612485588704597,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A negocia\u00e7\u00e3o \u00e9 um mecanismo que conta com o envolvimento de um terceiro, cuja fun\u00e7\u00e3o \u00e9 propor uma solu\u00e7\u00e3o pac\u00edfica para o conflito entre as partes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Os bons of\u00edcios caracterizam-se pela oferta espont\u00e2nea de um terceiro que colabora com a solu\u00e7\u00e3o de controv\u00e9rsias, podendo ser um Estado, um organismo internacional ou uma autoridade.",
                 "pmi": [
                     0.03483545991955632,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os bons of\u00edcios caracterizam-se pela oferta espont\u00e2nea de um terceiro que colabora com a solu\u00e7\u00e3o de controv\u00e9rsias, podendo ser um Estado, um organismo internacional ou uma autoridade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A media\u00e7\u00e3o caracteriza-se pelo envolvimento de um terceiro, que somente pode ser pessoa natural.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A media\u00e7\u00e3o caracteriza-se pelo envolvimento de um terceiro, que somente pode ser pessoa natural."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A concilia\u00e7\u00e3o \u00e9 muito semelhante \u00e0 media\u00e7\u00e3o. Entretanto, caracteriza-se pela possibilidade de atuar como mediador pessoa natural, Estado ou organismo internacional.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A concilia\u00e7\u00e3o \u00e9 muito semelhante \u00e0 media\u00e7\u00e3o. Entretanto, caracteriza-se pela possibilidade de atuar como mediador pessoa natural, Estado ou organismo internacional."
+                ]
             }
         ],
         "valid": true

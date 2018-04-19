@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "L\u00facia incorreu em inadimplemento absoluto, pois n\u00e3o cumpriu sua presta\u00e7\u00e3o no termo ajustado, o que inutilizou a presta\u00e7\u00e3o para Joana.",
                 "pmi": [
                     0.061052121984175166,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia incorreu em inadimplemento absoluto, pois n\u00e3o cumpriu sua presta\u00e7\u00e3o no termo ajustado, o que inutilizou a presta\u00e7\u00e3o para Joana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "L\u00facia n\u00e3o est\u00e1 em mora, pois Joana n\u00e3o a interpelou, judicial ou extrajudicialmente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia n\u00e3o est\u00e1 em mora, pois Joana n\u00e3o a interpelou, judicial ou extrajudicialmente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "L\u00facia deve indenizar Joana pelos danos causados ao ve\u00edculo, salvo se provar que os mesmos ocorreriam ainda que tivesse adimplido sua presta\u00e7\u00e3o no termo ajustado.",
                 "pmi": [
                     0.07150943302926469,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia deve indenizar Joana pelos danos causados ao ve\u00edculo, salvo se provar que os mesmos ocorreriam ainda que tivesse adimplido sua presta\u00e7\u00e3o no termo ajustado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "L\u00facia n\u00e3o responde pelos danos causados ao ve\u00edculo, pois foram decorrentes de for\u00e7a maior.",
                 "pmi": [
                     0.051464150424573765,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia n\u00e3o responde pelos danos causados ao ve\u00edculo, pois foram decorrentes de for\u00e7a maior."
+                ]
             }
         ],
         "valid": true

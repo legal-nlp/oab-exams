@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "procedente, uma vez que o PIDV efetua a quita\u00e7\u00e3o exclusivamente das parcelas e valores dele constantes.",
                 "pmi": [
                     0.010903624948427672,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "procedente, uma vez que o PIDV efetua a quita\u00e7\u00e3o exclusivamente das parcelas e valores dele constantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "improcedente, haja vista a cl\u00e1usula de quita\u00e7\u00e3o geral prevista no PIDV.",
                 "pmi": [
                     0.004507566346491883,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "improcedente, haja vista a cl\u00e1usula de quita\u00e7\u00e3o geral prevista no PIDV."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "improcedente, haja vista a natureza jur\u00eddica de ren\u00fancia do PIDV.",
                 "pmi": [
                     0.007926372366689959,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "improcedente, haja vista a natureza jur\u00eddica de ren\u00fancia do PIDV."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "procedente, uma vez que Josu\u00e9 de Souza possui prazo de cinco anos ap\u00f3s o t\u00e9rmino do contrato para pleitear tudo o que entender cab\u00edvel.",
                 "pmi": [
                     0.0010149187037176337,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "procedente, uma vez que Josu\u00e9 de Souza possui prazo de cinco anos ap\u00f3s o t\u00e9rmino do contrato para pleitear tudo o que entender cab\u00edvel."
+                ]
             }
         ],
         "valid": true

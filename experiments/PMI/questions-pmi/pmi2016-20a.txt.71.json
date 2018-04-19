@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "L\u00edvia tem direito adquirido ao adicional noturno porque nele permaneceu 12 meses, de modo que o seu pagamento n\u00e3o pode ser suprimido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00edvia tem direito adquirido ao adicional noturno porque nele permaneceu 12 meses, de modo que o seu pagamento n\u00e3o pode ser suprimido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A supress\u00e3o do adicional noturno exigiria, no caso, o pagamento de uma indeniza\u00e7\u00e3o de 1 m\u00eas de adicional noturno.",
                 "pmi": [
                     -0.014430538750820374,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A supress\u00e3o do adicional noturno exigiria, no caso, o pagamento de uma indeniza\u00e7\u00e3o de 1 m\u00eas de adicional noturno."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O adicional noturno poder\u00e1 ser suprimido porque L\u00edvia n\u00e3o mais se ativa em hor\u00e1rio noturno.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O adicional noturno poder\u00e1 ser suprimido porque L\u00edvia n\u00e3o mais se ativa em hor\u00e1rio noturno."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O adicional noturno deva ser pago pela metade, segundo determina\u00e7\u00e3o do TST.",
                 "pmi": [
                     0.03993549561477507,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O adicional noturno deva ser pago pela metade, segundo determina\u00e7\u00e3o do TST."
+                ]
             }
         ],
         "valid": true

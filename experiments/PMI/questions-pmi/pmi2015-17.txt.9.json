@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "est\u00e1 restrito ao espa\u00e7o da plateia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 restrito ao espa\u00e7o da plateia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "depende de autoriza\u00e7\u00e3o do Presidente da C\u00e2mara.",
                 "pmi": [
                     0.11372943421160978,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "depende de autoriza\u00e7\u00e3o do Presidente da C\u00e2mara."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00e9 livre inclusive na parte reservada aos magistrados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 livre inclusive na parte reservada aos magistrados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "depende de concord\u00e2ncia dos julgadores.",
                 "pmi": [
                     0.07450647842294575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "depende de concord\u00e2ncia dos julgadores."
+                ]
             }
         ],
         "valid": true

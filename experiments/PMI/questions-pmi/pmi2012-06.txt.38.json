@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "diante de expressa previs\u00e3o legal, n\u00e3o prevalece a cl\u00e1usula de revers\u00e3o estipulada em favor de R\u00f4mulo.",
                 "pmi": [
                     0.02332486730610296,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "diante de expressa previs\u00e3o legal, n\u00e3o prevalece a cl\u00e1usula de revers\u00e3o estipulada em favor de R\u00f4mulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "no caso, em raz\u00e3o de o contrato de doa\u00e7\u00e3o, por ser gratuito, comportar interpreta\u00e7\u00e3o extensiva, a cl\u00e1usula de revers\u00e3o em favor de terceiro \u00e9 v\u00e1lida.",
                 "pmi": [
                     0.009961691169293822,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "no caso, em raz\u00e3o de o contrato de doa\u00e7\u00e3o, por ser gratuito, comportar interpreta\u00e7\u00e3o extensiva, a cl\u00e1usula de revers\u00e3o em favor de terceiro \u00e9 v\u00e1lida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a cl\u00e1usula em exame n\u00e3o \u00e9 v\u00e1lida em raz\u00e3o da rela\u00e7\u00e3o de parentesco entre o doador, Marcelo, e o terceiro benefici\u00e1rio, R\u00f4mulo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a cl\u00e1usula em exame n\u00e3o \u00e9 v\u00e1lida em raz\u00e3o da rela\u00e7\u00e3o de parentesco entre o doador, Marcelo, e o terceiro benefici\u00e1rio, R\u00f4mulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "diante de expressa previs\u00e3o legal, a cl\u00e1usula de revers\u00e3o pode ser estipulada em favor do pr\u00f3prio doador ou de terceiro benefici\u00e1rio por aquele designado, caso qualquer deles, nessa ordem, sobreviva ao donat\u00e1rio.",
                 "pmi": [
                     0.02467114302922907,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "diante de expressa previs\u00e3o legal, a cl\u00e1usula de revers\u00e3o pode ser estipulada em favor do pr\u00f3prio doador ou de terceiro benefici\u00e1rio por aquele designado, caso qualquer deles, nessa ordem, sobreviva ao donat\u00e1rio."
+                ]
             }
         ],
         "valid": true

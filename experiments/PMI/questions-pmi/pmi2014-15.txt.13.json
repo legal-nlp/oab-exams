@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A perda do mandato do referido senador ser\u00e1 decidida pelo Senado Federal, por maioria absoluta, mediante provoca\u00e7\u00e3o da respectiva mesa ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa.",
                 "pmi": [
                     0.11018391002512568,
                     0.020412389820652847,
                     0.0,
                     0.0
-                ],
-                "text": "A perda do mandato do referido senador ser\u00e1 decidida pelo Senado Federal, por maioria absoluta, mediante provoca\u00e7\u00e3o da respectiva mesa ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o poder\u00e1 o referido parlamentar perder o mandato, j\u00e1 que o afastamento n\u00e3o ultrapassou cento e oitenta dias dentro da mesma sess\u00e3o legislativa.",
                 "pmi": [
                     0.07982462402166818,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o poder\u00e1 o referido parlamentar perder o mandato, j\u00e1 que o afastamento n\u00e3o ultrapassou cento e oitenta dias dentro da mesma sess\u00e3o legislativa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A perda do mandato do referido senador poder\u00e1 ser declarada pela Mesa da Casa Legislativa de of\u00edcio ou mediante provoca\u00e7\u00e3o de qualquer dos seus membros, ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa.",
                 "pmi": [
                     0.11410182326546786,
                     0.004842293720492011,
                     0.0,
                     0.0
-                ],
-                "text": "A perda do mandato do referido senador poder\u00e1 ser declarada pela Mesa da Casa Legislativa de of\u00edcio ou mediante provoca\u00e7\u00e3o de qualquer dos seus membros, ou de partido pol\u00edtico representado no Congresso Nacional, assegurada a ampla defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso o referido senador venha a renunciar ap\u00f3s submetido ao processo que vise ou possa levar \u00e0 perda do seu mandato, haver\u00e1 o arquivamento do processo pela perda do seu objeto.",
                 "pmi": [
                     0.04029804266886324,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso o referido senador venha a renunciar ap\u00f3s submetido ao processo que vise ou possa levar \u00e0 perda do seu mandato, haver\u00e1 o arquivamento do processo pela perda do seu objeto."
+                ]
             }
         ],
         "valid": true

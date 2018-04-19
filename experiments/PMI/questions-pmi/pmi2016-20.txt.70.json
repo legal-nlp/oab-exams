@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Como Joana n\u00e3o optou por receber o vale-transporte, dever\u00e1 custear suas despesas de transporte ou utilizar meio alternativo.",
                 "pmi": [
                     -0.010650877806101114,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como Joana n\u00e3o optou por receber o vale-transporte, dever\u00e1 custear suas despesas de transporte ou utilizar meio alternativo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A empresa dever\u00e1 custear apenas uma tarifa modal de transporte, de acordo com a lei do vale-transporte.",
                 "pmi": [
                     -0.015587720871513276,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa dever\u00e1 custear apenas uma tarifa modal de transporte, de acordo com a lei do vale-transporte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Como o local de resid\u00eancia de Joana \u00e9 o problema, porque n\u00e3o \u00e9 servido por transporte p\u00fablico regular, a empresa est\u00e1 obrigada a pagar apenas a tarifa modal.",
                 "pmi": [
                     0.003968993199204301,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como o local de resid\u00eancia de Joana \u00e9 o problema, porque n\u00e3o \u00e9 servido por transporte p\u00fablico regular, a empresa est\u00e1 obrigada a pagar apenas a tarifa modal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Se Joana \u00e9 transferida por determina\u00e7\u00e3o do empregador para local mais distante, tem direito de receber o acr\u00e9scimo que ter\u00e1 na despesa com transporte.",
                 "pmi": [
                     -0.025461840371978944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Joana \u00e9 transferida por determina\u00e7\u00e3o do empregador para local mais distante, tem direito de receber o acr\u00e9scimo que ter\u00e1 na despesa com transporte."
+                ]
             }
         ],
         "valid": true

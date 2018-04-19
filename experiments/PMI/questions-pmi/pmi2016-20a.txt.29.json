@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao teto remunerat\u00f3rio correspondente ao subs\u00eddio do Prefeito.",
                 "pmi": [
                     0.09663008359025795,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao teto remunerat\u00f3rio correspondente ao subs\u00eddio do Prefeito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao limite remunerat\u00f3rio correspondente ao subs\u00eddio dos vereadores.",
                 "pmi": [
                     0.09851366375576216,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cargo de F\u00e1tima est\u00e1 sujeito ao limite remunerat\u00f3rio correspondente ao subs\u00eddio dos vereadores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O cargo de F\u00e1tima n\u00e3o est\u00e1 sujeito ao limite remunerat\u00f3rio, uma vez que pode ser cumulado com o cargo de professor.",
                 "pmi": [
                     0.10052071628356202,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cargo de F\u00e1tima n\u00e3o est\u00e1 sujeito ao limite remunerat\u00f3rio, uma vez que pode ser cumulado com o cargo de professor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Enquanto n\u00e3o for editada lei complementar espec\u00edfica, n\u00e3o pode ser aplicado o limite remunerat\u00f3rio aos vencimentos do cargo de F\u00e1tima.",
                 "pmi": [
                     0.013623507248024759,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Enquanto n\u00e3o for editada lei complementar espec\u00edfica, n\u00e3o pode ser aplicado o limite remunerat\u00f3rio aos vencimentos do cargo de F\u00e1tima."
+                ]
             }
         ],
         "valid": true

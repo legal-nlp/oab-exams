@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ricardo n\u00e3o \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, pois o adquiriu do brech\u00f3, que n\u00e3o era o verdadeiro dono da coisa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ricardo n\u00e3o \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, pois o adquiriu do brech\u00f3, que n\u00e3o era o verdadeiro dono da coisa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Ricardo \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, uma vez que o adquiriu de boa-f\u00e9, em estabelecimento comercial, que, nas circunst\u00e2ncias do caso, aparentava ser o dono da coisa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ricardo \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, uma vez que o adquiriu de boa-f\u00e9, em estabelecimento comercial, que, nas circunst\u00e2ncias do caso, aparentava ser o dono da coisa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ricardo \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, mas deve indenizar Jo\u00e3o, entregando-lhe soma equivalente ao pre\u00e7o que pagou ao brech\u00f3.",
                 "pmi": [
                     0.018426168172883357,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ricardo \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, mas deve indenizar Jo\u00e3o, entregando-lhe soma equivalente ao pre\u00e7o que pagou ao brech\u00f3."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ricardo n\u00e3o \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, uma vez que o comprou do brech\u00f3 apenas dois meses depois do furto sofrido por Jo\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ricardo n\u00e3o \u00e9 o leg\u00edtimo propriet\u00e1rio do palet\u00f3, uma vez que o comprou do brech\u00f3 apenas dois meses depois do furto sofrido por Jo\u00e3o."
+                ]
             }
         ],
         "valid": true

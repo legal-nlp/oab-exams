@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 buscar o afastamento da agravante, j\u00e1 que todos s\u00e3o reincidentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 buscar o afastamento da agravante, j\u00e1 que todos s\u00e3o reincidentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a M\u00e1rio, j\u00e1 que somente Caio e Jo\u00e3o s\u00e3o reincidentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a M\u00e1rio, j\u00e1 que somente Caio e Jo\u00e3o s\u00e3o reincidentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Jo\u00e3o, j\u00e1 que somente Caio e M\u00e1rio s\u00e3o reincidentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Jo\u00e3o, j\u00e1 que somente Caio e M\u00e1rio s\u00e3o reincidentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Caio e Jo\u00e3o, j\u00e1 que somente M\u00e1rio \u00e9 reincidente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 buscar o afastamento da agravante em rela\u00e7\u00e3o a Caio e Jo\u00e3o, j\u00e1 que somente M\u00e1rio \u00e9 reincidente."
+                ]
             }
         ],
         "valid": true

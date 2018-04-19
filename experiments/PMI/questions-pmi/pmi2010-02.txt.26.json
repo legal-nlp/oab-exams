@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "est\u00e1 incorreta, porque a hipoteca institu\u00edda n\u00e3o produz efeitos, pois, na hip\u00f3tese, o direito real em garanti a a ser institu\u00eddo deveria ser o penhor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta, porque a hipoteca institu\u00edda n\u00e3o produz efeitos, pois, na hip\u00f3tese, o direito real em garanti a a ser institu\u00eddo deveria ser o penhor."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "est\u00e1 incorreta, porque Alexandre est\u00e1 livre para alienar o im\u00f3vel, pois a cl\u00e1usula que pro\u00edbe o propriet\u00e1rio de alienar o bem hipotecado \u00e9 nula.",
                 "pmi": [
                     0.018694636004964554,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta, porque Alexandre est\u00e1 livre para alienar o im\u00f3vel, pois a cl\u00e1usula que pro\u00edbe o propriet\u00e1rio de alienar o bem hipotecado \u00e9 nula."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "est\u00e1 incorreta, uma vez que a hipoteca \u00e9 nula, pois n\u00e3o \u00e9 poss\u00edvel instituir hipoteca sobre bem de fam\u00edlia do devedor hipotec\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta, uma vez que a hipoteca \u00e9 nula, pois n\u00e3o \u00e9 poss\u00edvel instituir hipoteca sobre bem de fam\u00edlia do devedor hipotec\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "est\u00e1 correta, porque em virtude da proibi\u00e7\u00e3o contratual, Alexandre n\u00e3o poderia alienar o im\u00f3vel enquanto reca\u00edsse sobre ele a garanti a hipotec\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 correta, porque em virtude da proibi\u00e7\u00e3o contratual, Alexandre n\u00e3o poderia alienar o im\u00f3vel enquanto reca\u00edsse sobre ele a garanti a hipotec\u00e1ria."
+                ]
             }
         ],
         "valid": true

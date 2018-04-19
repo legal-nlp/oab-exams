@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque o empregador teria at\u00e9 o dia seguinte ao prazo de 30 (trinta) dias do aviso pr\u00e9vio do qual foi dispensado para fazer o pagamento das verbas resilit\u00f3rias.",
                 "pmi": [
                     0.00032290306246526753,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque o empregador teria at\u00e9 o dia seguinte ao prazo de 30 (trinta) dias do aviso pr\u00e9vio do qual foi dispensado para fazer o pagamento das verbas resilit\u00f3rias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 10 (dez) dias previsto em lei para o pagamento.",
                 "pmi": [
                     -0.03804480379933675,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 10 (dez) dias previsto em lei para o pagamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 8 (oito) dias para o pagamento de quem recebe por semana.",
                 "pmi": [
                     -0.02885590825806848,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "faz jus a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, por ter superado o prazo de 8 (oito) dias para o pagamento de quem recebe por semana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "faz jus a aviso pr\u00e9vio em dobro, porque contava com mais de 10 (dez) anos de tempo de servi\u00e7o \u00e0 \u00e9poca da dispensa e a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque superado o prazo para o pagamento das parcelas decorrentes do rompimento do contrato.",
                 "pmi": [
                     -0.017532103872960267,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "faz jus a aviso pr\u00e9vio em dobro, porque contava com mais de 10 (dez) anos de tempo de servi\u00e7o \u00e0 \u00e9poca da dispensa e a uma indeniza\u00e7\u00e3o no valor do sal\u00e1rio, porque superado o prazo para o pagamento das parcelas decorrentes do rompimento do contrato."
+                ]
             }
         ],
         "valid": true

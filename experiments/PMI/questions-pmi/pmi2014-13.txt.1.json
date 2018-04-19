@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "prescindir do conhecimento do cliente por ser ato privativo.",
                 "pmi": [
                     0.040010488416439303,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prescindir do conhecimento do cliente por ser ato privativo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "ser comunicado ao cliente de modo inequ\u00edvoco.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser comunicado ao cliente de modo inequ\u00edvoco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "ser realizado por tempo determinado.",
                 "pmi": [
                     0.0728934624946204,
                     0.0,
                     0,
                     0
-                ],
-                "text": "ser realizado por tempo determinado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "implicar na devolu\u00e7\u00e3o dos honor\u00e1rios pagos antecipadamente pelo cliente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "implicar na devolu\u00e7\u00e3o dos honor\u00e1rios pagos antecipadamente pelo cliente."
+                ]
             }
         ],
         "valid": true

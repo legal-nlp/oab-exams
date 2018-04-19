@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Wilson j\u00e1 ter\u00e1 completado, na data da elei\u00e7\u00e3o, a idade exig\u00edvel para o exerc\u00edcio do cargo pleiteado, mas somente poder\u00e1 concorrer caso adquira a nacionalidade brasileira.",
                 "pmi": [
                     0.04873949882116772,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Wilson j\u00e1 ter\u00e1 completado, na data da elei\u00e7\u00e3o, a idade exig\u00edvel para o exerc\u00edcio do cargo pleiteado, mas somente poder\u00e1 concorrer caso adquira a nacionalidade brasileira."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Wilson poder\u00e1 concorrer, pois n\u00e3o apenas contemplar\u00e1 o requisito da idade, como, pelo simples fato de ser filho de brasileiros, possui automaticamente a nacionalidade de brasileiro nato.",
                 "pmi": [
                     0.03699147487691834,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Wilson poder\u00e1 concorrer, pois n\u00e3o apenas contemplar\u00e1 o requisito da idade, como, pelo simples fato de ser filho de brasileiros, possui automaticamente a nacionalidade de brasileiro nato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Wilson n\u00e3o estar\u00e1 apto a concorrer nesta pr\u00f3xima elei\u00e7\u00e3o para o cargo apontado, pois, mesmo que adquira a nacionalidade brasileira, n\u00e3o possuir\u00e1 a idade m\u00ednima exigida para o cargo.",
                 "pmi": [
                     0.06395655767895328,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Wilson n\u00e3o estar\u00e1 apto a concorrer nesta pr\u00f3xima elei\u00e7\u00e3o para o cargo apontado, pois, mesmo que adquira a nacionalidade brasileira, n\u00e3o possuir\u00e1 a idade m\u00ednima exigida para o cargo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Wilson n\u00e3o poder\u00e1 concorrer, pois, embora a idade n\u00e3o seja um problema, poder\u00e1, no m\u00e1ximo, adquirir o status de brasileiro naturalizado, enquanto o cargo em quest\u00e3o exige o status de brasileiro nato.",
                 "pmi": [
                     0.05953910558606522,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Wilson n\u00e3o poder\u00e1 concorrer, pois, embora a idade n\u00e3o seja um problema, poder\u00e1, no m\u00e1ximo, adquirir o status de brasileiro naturalizado, enquanto o cargo em quest\u00e3o exige o status de brasileiro nato."
+                ]
             }
         ],
         "valid": true

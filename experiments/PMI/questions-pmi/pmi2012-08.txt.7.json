@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "do tr\u00e2nsito em julgado da decis\u00e3o judicial.",
                 "pmi": [
                     -0.025560776381234385,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "do tr\u00e2nsito em julgado da decis\u00e3o judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "da desist\u00eancia judicial formulada.",
                 "pmi": [
                     -0.0072781068628137895,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da desist\u00eancia judicial formulada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "do t\u00e9rmino do mandato judicial.",
                 "pmi": [
                     -0.05593800778080255,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "do t\u00e9rmino do mandato judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "da ultima\u00e7\u00e3o do servi\u00e7o judicial.",
                 "pmi": [
                     0.0002629250028883529,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da ultima\u00e7\u00e3o do servi\u00e7o judicial."
+                ]
             }
         ],
         "valid": true

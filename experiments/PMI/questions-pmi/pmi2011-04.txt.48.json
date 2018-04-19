@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Ag\u00eancia.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Ag\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Mandato.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Mandato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Comiss\u00e3o mercantil.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Comiss\u00e3o mercantil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Corretagem.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Corretagem."
+                ]
             }
         ],
         "valid": true

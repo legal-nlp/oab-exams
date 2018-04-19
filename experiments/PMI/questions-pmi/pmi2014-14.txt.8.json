@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A advogada deve aceitar a imposi\u00e7\u00e3o do cliente por ser inerente ao mandato.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A advogada deve aceitar a imposi\u00e7\u00e3o do cliente por ser inerente ao mandato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A advogada deve aceitar a indica\u00e7\u00e3o de um advogado para atuar conjuntamente no processo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A advogada deve aceitar a indica\u00e7\u00e3o de um advogado para atuar conjuntamente no processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A advogada deve acolher o comando, por ser natural na vida forense a colabora\u00e7\u00e3o.",
                 "pmi": [
                     0.029045349953597702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A advogada deve acolher o comando, por ser natural na vida forense a colabora\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A advogada n\u00e3o \u00e9 obrigada a aceitar a imposi\u00e7\u00e3o de seu cliente no caso.",
                 "pmi": [
                     0.03036821368488717,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A advogada n\u00e3o \u00e9 obrigada a aceitar a imposi\u00e7\u00e3o de seu cliente no caso."
+                ]
             }
         ],
         "valid": true

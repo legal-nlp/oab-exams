@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O desconto de contribui\u00e7\u00e3o sindical n\u00e3o \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa est\u00e1 correto, posto que obrigat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto de contribui\u00e7\u00e3o sindical n\u00e3o \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa est\u00e1 correto, posto que obrigat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Os descontos s\u00e3o inv\u00e1lidos, porque o empregado n\u00e3o \u00e9 sindicalizado e, portanto, n\u00e3o pode ser obrigado a contribuir.",
                 "pmi": [
                     0.021376326107004535,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os descontos s\u00e3o inv\u00e1lidos, porque o empregado n\u00e3o \u00e9 sindicalizado e, portanto, n\u00e3o pode ser obrigado a contribuir."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O desconto de contribui\u00e7\u00e3o sindical \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa, n\u00e3o, porque o empregado n\u00e3o \u00e9 sindicalizado.",
                 "pmi": [
                     0.013360203816877836,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto de contribui\u00e7\u00e3o sindical \u00e9 v\u00e1lido, mas o da contribui\u00e7\u00e3o confederativa, n\u00e3o, porque o empregado n\u00e3o \u00e9 sindicalizado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "As subtra\u00e7\u00f5es s\u00e3o v\u00e1lidas, porque o empregado, mesmo n\u00e3o sendo sindicalizado, beneficia-se da conven\u00e7\u00e3o coletiva.",
                 "pmi": [
                     0.015268804362146097,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As subtra\u00e7\u00f5es s\u00e3o v\u00e1lidas, porque o empregado, mesmo n\u00e3o sendo sindicalizado, beneficia-se da conven\u00e7\u00e3o coletiva."
+                ]
             }
         ],
         "valid": true

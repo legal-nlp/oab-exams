@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "conceder prazo improrrog\u00e1vel de 10 dias para o impetrante sanar o v\u00edcio, sob pena de indeferimento da peti\u00e7\u00e3o inicial.",
                 "pmi": [
                     0.015789557396438007,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "conceder prazo improrrog\u00e1vel de 10 dias para o impetrante sanar o v\u00edcio, sob pena de indeferimento da peti\u00e7\u00e3o inicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "prosseguir normalmente no tr\u00e2mite processual, pois a mat\u00e9ria n\u00e3o pode ser conhecida de of\u00edcio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prosseguir normalmente no tr\u00e2mite processual, pois a mat\u00e9ria n\u00e3o pode ser conhecida de of\u00edcio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "indeferir a peti\u00e7\u00e3o inicial de plano e extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito.",
                 "pmi": [
                     0.025451957731648534,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "indeferir a peti\u00e7\u00e3o inicial de plano e extinguir o processo sem resolu\u00e7\u00e3o do m\u00e9rito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "solicitar \u00e0 autoridade coatora que, juntamente com as informa\u00e7\u00f5es que ser\u00e3o prestadas, envie c\u00f3pia dos documentos faltantes.",
                 "pmi": [
                     0.010191183200890902,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "solicitar \u00e0 autoridade coatora que, juntamente com as informa\u00e7\u00f5es que ser\u00e3o prestadas, envie c\u00f3pia dos documentos faltantes."
+                ]
             }
         ],
         "valid": true

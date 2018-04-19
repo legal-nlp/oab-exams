@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A conduta do Estado n\u00e3o \u00e9 vedada pelo ordenamento jur\u00eddico, n\u00e3o obstante a destina\u00e7\u00e3o diversa dada ao im\u00f3vel.",
                 "pmi": [
                     0.019393975400178683,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A conduta do Estado n\u00e3o \u00e9 vedada pelo ordenamento jur\u00eddico, n\u00e3o obstante a destina\u00e7\u00e3o diversa dada ao im\u00f3vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A conduta do Estado n\u00e3o \u00e9 pass\u00edvel de controle judicial, porque diz respeito ao m\u00e9rito administrativo, o que \u00e9 vedado segundo nosso ordenamento jur\u00eddico.",
                 "pmi": [
                     -0.000992244720072139,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A conduta do Estado n\u00e3o \u00e9 pass\u00edvel de controle judicial, porque diz respeito ao m\u00e9rito administrativo, o que \u00e9 vedado segundo nosso ordenamento jur\u00eddico."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Uma demanda judicial deve ser ajuizada, visando declarar a nulidade do ato de desapropria\u00e7\u00e3o ao argumento de ocorr\u00eancia de tredestina\u00e7\u00e3o il\u00edcita.",
                 "pmi": [
                     0.033595987662245246,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uma demanda judicial deve ser ajuizada, visando declarar a nulidade do ato de desapropria\u00e7\u00e3o ao argumento de ocorr\u00eancia de tredestina\u00e7\u00e3o il\u00edcita."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O ato n\u00e3o pode ser invalidado judicialmente, somente restando a Gilberto ajuizar uma demanda, postulando repara\u00e7\u00e3o pelos danos materiais e morais sofridos.",
                 "pmi": [
                     0.015615195955144563,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ato n\u00e3o pode ser invalidado judicialmente, somente restando a Gilberto ajuizar uma demanda, postulando repara\u00e7\u00e3o pelos danos materiais e morais sofridos."
+                ]
             }
         ],
         "valid": true

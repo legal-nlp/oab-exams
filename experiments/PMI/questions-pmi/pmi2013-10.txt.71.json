@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Fernanda pode ter o contrato extinto porque o pacto foi feito a termo, de modo que no seu implemento a ruptura se imp\u00f5e.",
                 "pmi": [
                     0.01685156761395819,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fernanda pode ter o contrato extinto porque o pacto foi feito a termo, de modo que no seu implemento a ruptura se imp\u00f5e."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Fernanda n\u00e3o poder\u00e1 ser dispensada, pois, em raz\u00e3o da gravidez, possui garantia no emprego, mesmo sendo o contrato a termo.",
                 "pmi": [
                     0.05376993069731236,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fernanda n\u00e3o poder\u00e1 ser dispensada, pois, em raz\u00e3o da gravidez, possui garantia no emprego, mesmo sendo o contrato a termo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Fernanda poder\u00e1 ser desligada porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade do contrato.",
                 "pmi": [
                     0.03334034404137557,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fernanda poder\u00e1 ser desligada porque a natureza jur\u00eddica da ruptura n\u00e3o ser\u00e1 resili\u00e7\u00e3o unilateral, mas caducidade do contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Fernanda n\u00e3o pode ter o contrato rompido, pois em raz\u00e3o da gravidez tem garantia no emprego durante 12 meses.",
                 "pmi": [
                     0.049716613768062315,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fernanda n\u00e3o pode ter o contrato rompido, pois em raz\u00e3o da gravidez tem garantia no emprego durante 12 meses."
+                ]
             }
         ],
         "valid": true

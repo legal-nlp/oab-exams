@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A condena\u00e7\u00e3o com tr\u00e2nsito em julgado por crime praticado em data posterior ao delito pelo qual o agente est\u00e1 sendo julgado pode funcionar como maus antecedentes.",
                 "pmi": [
                     0.0847068638032991,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A condena\u00e7\u00e3o com tr\u00e2nsito em julgado por crime praticado em data posterior ao delito pelo qual o agente est\u00e1 sendo julgado pode funcionar como maus antecedentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o se mostra poss\u00edvel a compensa\u00e7\u00e3o da agravante da reincid\u00eancia com a atenuante da confiss\u00e3o espont\u00e2nea.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se mostra poss\u00edvel a compensa\u00e7\u00e3o da agravante da reincid\u00eancia com a atenuante da confiss\u00e3o espont\u00e2nea."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Nada impede que a pena intermedi\u00e1ria, na segunda fase do crit\u00e9rio trif\u00e1sico, fique acomodada abaixo do m\u00ednimo legal.",
                 "pmi": [
                     0.040824395106650396,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nada impede que a pena intermedi\u00e1ria, na segunda fase do crit\u00e9rio trif\u00e1sico, fique acomodada abaixo do m\u00ednimo legal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O aumento da pena na terceira fase no roubo circunstanciado exige fundamenta\u00e7\u00e3o concreta, sendo insuficiente a simples men\u00e7\u00e3o ao n\u00famero de majorantes.",
                 "pmi": [
                     0.029048552548517275,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O aumento da pena na terceira fase no roubo circunstanciado exige fundamenta\u00e7\u00e3o concreta, sendo insuficiente a simples men\u00e7\u00e3o ao n\u00famero de majorantes."
+                ]
             }
         ],
         "valid": true

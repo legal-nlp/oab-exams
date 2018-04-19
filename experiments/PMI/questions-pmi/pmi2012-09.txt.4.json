@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O bacharel em Direito pode exercer as fun\u00e7\u00f5es de Ger\u00eancia Jur\u00eddica mesmo que n\u00e3o tenha os requisitos para ingresso na Ordem dos Advogados.",
                 "pmi": [
                     0.06654561326811549,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O bacharel em Direito pode exercer as fun\u00e7\u00f5es de Ger\u00eancia Jur\u00eddica mesmo que n\u00e3o tenha os requisitos para ingresso na Ordem dos Advogados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico \u00e9 privativa de advogados com regular inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados.",
                 "pmi": [
                     0.06646416650333219,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico \u00e9 privativa de advogados com regular inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O bacharel em Direito, caso preencha os requisitos legais, inclusive aprova\u00e7\u00e3o em Exame de Ordem, pode exercer fun\u00e7\u00f5es de Gerente Jur\u00eddico antes da inscri\u00e7\u00e3o na Ordem dos Advogados.",
                 "pmi": [
                     0.039448427854373636,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O bacharel em Direito, caso preencha os requisitos legais, inclusive aprova\u00e7\u00e3o em Exame de Ordem, pode exercer fun\u00e7\u00f5es de Gerente Jur\u00eddico antes da inscri\u00e7\u00e3o na Ordem dos Advogados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico, como \u00e9 de confian\u00e7a da empresa, pode ser exercida por quem n\u00e3o tem forma\u00e7\u00e3o na \u00e1rea.",
                 "pmi": [
                     0.02701609749247273,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A fun\u00e7\u00e3o de Gerente Jur\u00eddico, como \u00e9 de confian\u00e7a da empresa, pode ser exercida por quem n\u00e3o tem forma\u00e7\u00e3o na \u00e1rea."
+                ]
             }
         ],
         "valid": true

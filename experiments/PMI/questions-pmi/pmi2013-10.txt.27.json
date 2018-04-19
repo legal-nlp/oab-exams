@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e produzir\u00e1 efeitos a partir da data de sua publica\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e produzir\u00e1 efeitos a partir da data de sua publica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "violaria o princ\u00edpio da legalidade, por ser incompat\u00edvel com o processo legislativo previsto na Constitui\u00e7\u00e3o Federal/88.",
                 "pmi": [
                     0.04674024968799802,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "violaria o princ\u00edpio da legalidade, por ser incompat\u00edvel com o processo legislativo previsto na Constitui\u00e7\u00e3o Federal/88."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e produzir\u00e1 efeitos a partir de 90 (noventa) dias contados a partir da data de sua publica\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e produzir\u00e1 efeitos a partir de 90 (noventa) dias contados a partir da data de sua publica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e s\u00f3 produzir\u00e1 efeitos a partir do primeiro dia do exerc\u00edcio financeiro subsequente \u00e0 data de sua convers\u00e3o em lei.",
                 "pmi": [
                     0.023764552538643097,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o violaria o princ\u00edpio da legalidade e s\u00f3 produzir\u00e1 efeitos a partir do primeiro dia do exerc\u00edcio financeiro subsequente \u00e0 data de sua convers\u00e3o em lei."
+                ]
             }
         ],
         "valid": true

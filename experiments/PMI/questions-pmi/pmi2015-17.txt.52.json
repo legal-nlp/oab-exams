@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Por se tratar de nota promiss\u00f3ria com vencimento a dia certo, \u00e9 v\u00e1lida a cl\u00e1usula de juros remunerat\u00f3rios.",
                 "pmi": [
                     0.03974678900761147,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por se tratar de nota promiss\u00f3ria com vencimento a dia certo, \u00e9 v\u00e1lida a cl\u00e1usula de juros remunerat\u00f3rios."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O avalista em branco poder\u00e1 alegar v\u00edcio de forma como exce\u00e7\u00e3o ao pagamento perante a sociedade empres\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O avalista em branco poder\u00e1 alegar v\u00edcio de forma como exce\u00e7\u00e3o ao pagamento perante a sociedade empres\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A aus\u00eancia do lugar de emiss\u00e3o na nota promiss\u00f3ria acarreta sua nulidade, em raz\u00e3o da autonomia das obriga\u00e7\u00f5es cambiais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A aus\u00eancia do lugar de emiss\u00e3o na nota promiss\u00f3ria acarreta sua nulidade, em raz\u00e3o da autonomia das obriga\u00e7\u00f5es cambiais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Todos os dados omitidos na nota promiss\u00f3ria deveriam ter sido preenchidos pela sociedade empres\u00e1ria at\u00e9 o dia do vencimento. Portanto, a a\u00e7\u00e3o de cobran\u00e7a dever\u00e1 observar o procedimento da a\u00e7\u00e3o monit\u00f3ria.",
                 "pmi": [
                     0.018702158762018944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Todos os dados omitidos na nota promiss\u00f3ria deveriam ter sido preenchidos pela sociedade empres\u00e1ria at\u00e9 o dia do vencimento. Portanto, a a\u00e7\u00e3o de cobran\u00e7a dever\u00e1 observar o procedimento da a\u00e7\u00e3o monit\u00f3ria."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A decis\u00e3o proferida pelo STF produz efic\u00e1cia contra todos e efeito vinculante relativamente aos \u00f3rg\u00e3os dos Poderes Executivo, Legislativo e Judici\u00e1rio, inclusive nas suas fun\u00e7\u00f5es t\u00edpicas; logo, o novo projeto de lei ordin\u00e1ria, uma vez aprovado pelo Congresso Nacional, ser\u00e1 nulo por ofensa \u00e0 coisa julgada.",
                 "pmi": [
                     0.0628303093140418,
                     0.020798662799004126,
                     0.0,
                     0.0
-                ],
-                "text": "A decis\u00e3o proferida pelo STF produz efic\u00e1cia contra todos e efeito vinculante relativamente aos \u00f3rg\u00e3os dos Poderes Executivo, Legislativo e Judici\u00e1rio, inclusive nas suas fun\u00e7\u00f5es t\u00edpicas; logo, o novo projeto de lei ordin\u00e1ria, uma vez aprovado pelo Congresso Nacional, ser\u00e1 nulo por ofensa \u00e0 coisa julgada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Em observ\u00e2ncia ao precedente firmado na referida A\u00e7\u00e3o Direta de Inconstitucionalidade, o plen\u00e1rio do STF pode, em sede de controle preventivo, obstar a vota\u00e7\u00e3o do novo projeto de lei por conter regras id\u00eanticas \u00e0quelas j\u00e1 declaradas inconstitucionais.",
                 "pmi": [
                     0.048760244961544935,
                     0.00529422726301094,
                     0.0,
                     0.0
-                ],
-                "text": "Em observ\u00e2ncia ao precedente firmado na referida A\u00e7\u00e3o Direta de Inconstitucionalidade, o plen\u00e1rio do STF pode, em sede de controle preventivo, obstar a vota\u00e7\u00e3o do novo projeto de lei por conter regras id\u00eanticas \u00e0quelas j\u00e1 declaradas inconstitucionais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A decis\u00e3o proferida pelo STF n\u00e3o vincula o Poder Legislativo ou o plen\u00e1rio do pr\u00f3prio Tribunal em rela\u00e7\u00e3o a aprecia\u00e7\u00f5es futuras da tem\u00e1tica; logo, caso o novo projeto de lei venha a ser aprovado e sancionado, a Corte pode vir a declarar a constitucionalidade da nova lei.",
                 "pmi": [
                     0.04173800451079527,
                     0.005558938626161487,
                     0.0,
                     0.0
-                ],
-                "text": "A decis\u00e3o proferida pelo STF n\u00e3o vincula o Poder Legislativo ou o plen\u00e1rio do pr\u00f3prio Tribunal em rela\u00e7\u00e3o a aprecia\u00e7\u00f5es futuras da tem\u00e1tica; logo, caso o novo projeto de lei venha a ser aprovado e sancionado, a Corte pode vir a declarar a constitucionalidade da nova lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A decis\u00e3o proferida pelo STF \u00e9 ineficaz em rela\u00e7\u00e3o a terceiros, porque o partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional n\u00e3o est\u00e1 elencado no rol constitucional de legitimados aptos a instaurar o processo objetivo de controle normativo abstrato.",
                 "pmi": [
                     0.08060600306014577,
                     0.020213255750837274,
                     0.0,
                     0.0
-                ],
-                "text": "A decis\u00e3o proferida pelo STF \u00e9 ineficaz em rela\u00e7\u00e3o a terceiros, porque o partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional n\u00e3o est\u00e1 elencado no rol constitucional de legitimados aptos a instaurar o processo objetivo de controle normativo abstrato."
+                ]
             }
         ],
         "valid": true

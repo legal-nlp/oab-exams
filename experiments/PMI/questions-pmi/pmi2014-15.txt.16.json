@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "constitucional, por tratar de prote\u00e7\u00e3o de direito fundamental.",
                 "pmi": [
                     0.02974710667732474,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constitucional, por tratar de prote\u00e7\u00e3o de direito fundamental."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "inconstitucional, por tratar de mat\u00e9ria de compet\u00eancia privativa da Uni\u00e3o.",
                 "pmi": [
                     0.011928644756178301,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por tratar de mat\u00e9ria de compet\u00eancia privativa da Uni\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "inconstitucional, por v\u00edcio formal relacionado ao qu\u00f3rum m\u00ednimo para vota\u00e7\u00e3o.",
                 "pmi": [
                     0.015844545604504483,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por v\u00edcio formal relacionado ao qu\u00f3rum m\u00ednimo para vota\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "constitucional, por tratar de assunto de interesse local e ter sido aprovada por processo legislativo id\u00f4neo.",
                 "pmi": [
                     0.0009177158227579467,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constitucional, por tratar de assunto de interesse local e ter sido aprovada por processo legislativo id\u00f4neo."
+                ]
             }
         ],
         "valid": true

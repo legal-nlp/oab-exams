@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Reclama\u00e7\u00e3o na qual se postulou, com sucesso, o reconhecimento de v\u00ednculo empregat\u00edcio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Reclama\u00e7\u00e3o na qual se postulou, com sucesso, o reconhecimento de v\u00ednculo empregat\u00edcio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A\u00e7\u00e3o trabalhista na qual se deferiu o pagamento de diferen\u00e7a por equipara\u00e7\u00e3o salarial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A\u00e7\u00e3o trabalhista na qual se deferiu o pagamento de diferen\u00e7a por equipara\u00e7\u00e3o salarial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Demanda na qual o empregado teve a CTPS assinada mas n\u00e3o teve o INSS recolhido durante todo o contrato.",
                 "pmi": [
                     0.04982866837009544,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Demanda na qual o empregado teve a CTPS assinada mas n\u00e3o teve o INSS recolhido durante todo o contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Reclama\u00e7\u00e3o trabalhista na qual foi reconhecido o pagamento de sal\u00e1rio \u00e0 margem dos contracheques.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Reclama\u00e7\u00e3o trabalhista na qual foi reconhecido o pagamento de sal\u00e1rio \u00e0 margem dos contracheques."
+                ]
             }
         ],
         "valid": true

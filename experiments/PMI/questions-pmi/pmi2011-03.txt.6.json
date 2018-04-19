@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a decis\u00e3o absolut\u00f3ria n\u00e3o influir\u00e1 na decis\u00e3o administrativa do processo administrativo disciplinar, por serem independentes.",
                 "pmi": [
                     0.15225672291658546,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a decis\u00e3o absolut\u00f3ria n\u00e3o influir\u00e1 na decis\u00e3o administrativa do processo administrativo disciplinar, por serem independentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "haver\u00e1 repercuss\u00e3o no \u00e2mbito do processo administrativo disciplinar, n\u00e3o podendo a administra\u00e7\u00e3o p\u00fablica punir o servidor pelo fato decidido na esfera penal.",
                 "pmi": [
                     0.08032437926376552,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "haver\u00e1 repercuss\u00e3o no \u00e2mbito do processo administrativo disciplinar, n\u00e3o podendo a administra\u00e7\u00e3o p\u00fablica punir o servidor pelo fato decidido na esfera penal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "em nenhuma hip\u00f3tese a decis\u00e3o penal surtir\u00e1 efeito na esfera administrativa, mesmo que a conduta praticada pelo servidor seja prevista como il\u00edcito penal e il\u00edcito administrativo.",
                 "pmi": [
                     0.09828576825430699,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em nenhuma hip\u00f3tese a decis\u00e3o penal surtir\u00e1 efeito na esfera administrativa, mesmo que a conduta praticada pelo servidor seja prevista como il\u00edcito penal e il\u00edcito administrativo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a puni\u00e7\u00e3o na inst\u00e2ncia administrativa nunca poder\u00e1 ser anulada, caso tenha sido aplicada.",
                 "pmi": [
                     0.07276727921005399,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a puni\u00e7\u00e3o na inst\u00e2ncia administrativa nunca poder\u00e1 ser anulada, caso tenha sido aplicada."
+                ]
             }
         ],
         "valid": true

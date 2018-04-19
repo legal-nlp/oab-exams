@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Se o invent\u00e1rio de Roger for processado no Brasil, sua sucess\u00e3o dever\u00e1 ser regulada pela lei su\u00ed\u00e7a, que \u00e9 a lei de nacionalidade de Roger.",
                 "pmi": [
                     0.007410161032945436,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o invent\u00e1rio de Roger for processado no Brasil, sua sucess\u00e3o dever\u00e1 ser regulada pela lei su\u00ed\u00e7a, que \u00e9 a lei de nacionalidade de Roger."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A capacidade do filho de Roger para suced\u00ea-lo ser\u00e1 regulada pela lei su\u00ed\u00e7a.",
                 "pmi": [
                     -0.011624600896424525,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A capacidade do filho de Roger para suced\u00ea-lo ser\u00e1 regulada pela lei su\u00ed\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Se Roger tivesse deixado testamento, seria aplicada, quanto \u00e0 sua forma, a lei da nacionalidade dele, independentemente de onde houvesse sido lavrado.",
                 "pmi": [
                     0.024013697160105454,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Roger tivesse deixado testamento, seria aplicada, quanto \u00e0 sua forma, a lei da nacionalidade dele, independentemente de onde houvesse sido lavrado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O invent\u00e1rio de Roger n\u00e3o poder\u00e1 ser processado no Brasil, em raz\u00e3o de existirem bens no estrangeiro a partilhar.",
                 "pmi": [
                     0.05736502190549244,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O invent\u00e1rio de Roger n\u00e3o poder\u00e1 ser processado no Brasil, em raz\u00e3o de existirem bens no estrangeiro a partilhar."
+                ]
             }
         ],
         "valid": true

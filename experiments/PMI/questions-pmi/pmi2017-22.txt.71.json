@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "C\u00e9lio e Paulo n\u00e3o t\u00eam direito ao adicional de transfer\u00eancia.",
                 "pmi": [
                     0.021031059370795965,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e9lio e Paulo n\u00e3o t\u00eam direito ao adicional de transfer\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Apenas Paulo tem direito ao adicional de transfer\u00eancia.",
                 "pmi": [
                     0.026288824213494957,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas Paulo tem direito ao adicional de transfer\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Apenas C\u00e9lio tem direito ao adicional de transfer\u00eancia.",
                 "pmi": [
                     0.026288824213494957,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas C\u00e9lio tem direito ao adicional de transfer\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ambos t\u00eam direito ao adicional de transfer\u00eancia.",
                 "pmi": [
                     0.03505176561799328,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambos t\u00eam direito ao adicional de transfer\u00eancia."
+                ]
             }
         ],
         "valid": true

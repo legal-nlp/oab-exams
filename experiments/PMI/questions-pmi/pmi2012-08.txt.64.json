@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jaime praticou delito de furto em sua modalidade tentada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jaime praticou delito de furto em sua modalidade tentada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Jaime consumou a pr\u00e1tica do delito de furto simples.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jaime consumou a pr\u00e1tica do delito de furto simples."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jaime consumou a pr\u00e1tica do delito de furto qualificado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jaime consumou a pr\u00e1tica do delito de furto qualificado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jaime consumou a pr\u00e1tica de latroc\u00ednio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jaime consumou a pr\u00e1tica de latroc\u00ednio."
+                ]
             }
         ],
         "valid": true

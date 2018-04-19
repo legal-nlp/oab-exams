@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "metade dos honor\u00e1rios \u00e9 devida no in\u00edcio do servi\u00e7o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "metade dos honor\u00e1rios \u00e9 devida no in\u00edcio do servi\u00e7o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "um quinto dos honor\u00e1rios \u00e9 devido ao in\u00edcio do processo judicial.",
                 "pmi": [
                     0.03250963536426877,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "um quinto dos honor\u00e1rios \u00e9 devido ao in\u00edcio do processo judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a integralidade dos honor\u00e1rios \u00e9 devida at\u00e9 a decis\u00e3o de primeira inst\u00e2ncia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a integralidade dos honor\u00e1rios \u00e9 devida at\u00e9 a decis\u00e3o de primeira inst\u00e2ncia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "um ter\u00e7o dos honor\u00e1rios \u00e9 devido no in\u00edcio do servi\u00e7o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "um ter\u00e7o dos honor\u00e1rios \u00e9 devido no in\u00edcio do servi\u00e7o."
+                ]
             }
         ],
         "valid": true

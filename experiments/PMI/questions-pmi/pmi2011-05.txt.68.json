@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A prova objetiva demonstra a exist\u00eancia/inexist\u00eancia de um determinado fato ou a veracidade/falsidade de uma determinada alega\u00e7\u00e3o. Todos os fatos, em sede de processo penal, devem ser provados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prova objetiva demonstra a exist\u00eancia/inexist\u00eancia de um determinado fato ou a veracidade/falsidade de uma determinada alega\u00e7\u00e3o. Todos os fatos, em sede de processo penal, devem ser provados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "S\u00e3o consideradas provas il\u00edcitas aquelas obtidas com a viola\u00e7\u00e3o do direito processual. Por outro lado, s\u00e3o consideradas provas ileg\u00edtimas as obtidas com a viola\u00e7\u00e3o das regras de direito material.",
                 "pmi": [
                     0.10473602039941167,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "S\u00e3o consideradas provas il\u00edcitas aquelas obtidas com a viola\u00e7\u00e3o do direito processual. Por outro lado, s\u00e3o consideradas provas ileg\u00edtimas as obtidas com a viola\u00e7\u00e3o das regras de direito material."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "As leis em geral e os costumes n\u00e3o precisam ser comprovados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As leis em geral e os costumes n\u00e3o precisam ser comprovados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A lei processual p\u00e1tria prev\u00ea expressamente a inadmissibilidade da prova il\u00edcita por deriva\u00e7\u00e3o, perfilhando-se \u00e0 \u201cteoria dos frutos da \u00e1rvore envenenada\u201d (\u201cfruits of poisonous tree\u201d).",
                 "pmi": [
                     0.08728001699950973,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei processual p\u00e1tria prev\u00ea expressamente a inadmissibilidade da prova il\u00edcita por deriva\u00e7\u00e3o, perfilhando-se \u00e0 \u201cteoria dos frutos da \u00e1rvore envenenada\u201d (\u201cfruits of poisonous tree\u201d)."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A entidade pode regularmente acolher crian\u00e7as e adolescentes, independentemente de determina\u00e7\u00e3o da autoridade competente e da expedi\u00e7\u00e3o de guia de acolhimento.",
                 "pmi": [
                     0.042581692989592496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A entidade pode regularmente acolher crian\u00e7as e adolescentes, independentemente de determina\u00e7\u00e3o da autoridade competente e da expedi\u00e7\u00e3o de guia de acolhimento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A entidade somente pode acolher crian\u00e7as e adolescentes encaminhados pela autoridade competente por meio de guia de acolhimento.",
                 "pmi": [
                     0.05140846782721845,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A entidade somente pode acolher crian\u00e7as e adolescentes encaminhados pela autoridade competente por meio de guia de acolhimento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A entidade pode acolher regularmente crian\u00e7as e adolescentes sem a expedi\u00e7\u00e3o da guia de acolhimento apenas quando o encaminhamento for feito pelo Conselho Tutelar.",
                 "pmi": [
                     0.012397394368650588,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A entidade pode acolher regularmente crian\u00e7as e adolescentes sem a expedi\u00e7\u00e3o da guia de acolhimento apenas quando o encaminhamento for feito pelo Conselho Tutelar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A entidade pode, em car\u00e1ter excepcional e de urg\u00eancia, acolher uma crian\u00e7a sem determina\u00e7\u00e3o da autoridade competente e guia de acolhimento, desde que fa\u00e7a a comunica\u00e7\u00e3o do fato \u00e0 autoridade judicial em at\u00e9 24 horas.",
                 "pmi": [
                     0.08135055373830091,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A entidade pode, em car\u00e1ter excepcional e de urg\u00eancia, acolher uma crian\u00e7a sem determina\u00e7\u00e3o da autoridade competente e guia de acolhimento, desde que fa\u00e7a a comunica\u00e7\u00e3o do fato \u00e0 autoridade judicial em at\u00e9 24 horas."
+                ]
             }
         ],
         "valid": true

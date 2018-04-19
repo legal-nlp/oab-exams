@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o prazo ser\u00e1 computado em dobro porque h\u00e1 litiscons\u00f3rcio passivo com procuradores diferentes.",
                 "pmi": [
                     0.08592891167173615,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o prazo ser\u00e1 computado em dobro porque h\u00e1 litiscons\u00f3rcio passivo com procuradores diferentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o prazo ser\u00e1 contado normalmente.",
                 "pmi": [
                     0.0016235671653655598,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o prazo ser\u00e1 contado normalmente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o prazo ser\u00e1 de 10 dias.",
                 "pmi": [
                     -0.0006144290445171844,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o prazo ser\u00e1 de 10 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "fica a crit\u00e9rio do juiz deferir a dila\u00e7\u00e3o do prazo para n\u00e3o prejudicar os r\u00e9us quanto \u00e0 ampla defesa.",
                 "pmi": [
                     0.01626197798753041,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "fica a crit\u00e9rio do juiz deferir a dila\u00e7\u00e3o do prazo para n\u00e3o prejudicar os r\u00e9us quanto \u00e0 ampla defesa."
+                ]
             }
         ],
         "valid": true

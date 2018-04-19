@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00e9 uma sociedade empres\u00e1ria personificada e de pessoas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 uma sociedade empres\u00e1ria personificada e de pessoas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a atividade constitutiva do objeto social deve ser exercida unicamente pelo s\u00f3cio ostensivo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a atividade constitutiva do objeto social deve ser exercida unicamente pelo s\u00f3cio ostensivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o contrato social produz efeito somente entre os s\u00f3cios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o contrato social produz efeito somente entre os s\u00f3cios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "as contribui\u00e7\u00f5es dos s\u00f3cios participante e ostensivo constituem patrim\u00f4nio especial.",
                 "pmi": [
                     0.3543661889980865,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as contribui\u00e7\u00f5es dos s\u00f3cios participante e ostensivo constituem patrim\u00f4nio especial."
+                ]
             }
         ],
         "valid": true

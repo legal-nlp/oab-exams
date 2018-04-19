@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal.",
                 "pmi": [
                     0.009854125262734506,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Andrea e Tiago ser\u00e3o absolvidos, pois os efeitos da decis\u00e3o ser\u00e3o estendidos a este, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal.",
                 "pmi": [
                     0.009197183578552206,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Andrea e Tiago ser\u00e3o absolvidos, pois os efeitos da decis\u00e3o ser\u00e3o estendidos a este, devido ao fato de a decis\u00e3o ter sido fundada em motivos que n\u00e3o s\u00e3o de car\u00e1ter exclusivamente pessoal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Andrea e Tiago ser\u00e3o absolvidos, por\u00e9m ser\u00e1 necess\u00e1rio interpor Recurso Especial.",
                 "pmi": [
                     0.07214205498180232,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Andrea e Tiago ser\u00e3o absolvidos, por\u00e9m ser\u00e1 necess\u00e1rio interpor Recurso Especial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, pois n\u00e3o interp\u00f4s recurso.",
                 "pmi": [
                     0.01476275494002567,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Andrea ser\u00e1 absolvida e Tiago continuar\u00e1 condenado, pois n\u00e3o interp\u00f4s recurso."
+                ]
             }
         ],
         "valid": true

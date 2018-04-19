@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a revoga\u00e7\u00e3o do mandato exime o cliente do pagamento de honor\u00e1rios acordados.",
                 "pmi": [
                     0.02115611520106412,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a revoga\u00e7\u00e3o do mandato exime o cliente do pagamento de honor\u00e1rios acordados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "permite-se o ingresso do advogado no processo mesmo que atuando outro, sem sua ci\u00eancia.",
                 "pmi": [
                     0.06558655188513143,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "permite-se o ingresso do advogado no processo mesmo que atuando outro, sem sua ci\u00eancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o advogado deve, antes de assumir mandato, procurar a ci\u00eancia e autoriza\u00e7\u00e3o do antecessor.",
                 "pmi": [
                     0.05475389998257785,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado deve, antes de assumir mandato, procurar a ci\u00eancia e autoriza\u00e7\u00e3o do antecessor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a verba de sucumb\u00eancia deixa de ser devida ap\u00f3s a revoga\u00e7\u00e3o do mandato pelo cliente.",
                 "pmi": [
                     0.02115611520106412,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a verba de sucumb\u00eancia deixa de ser devida ap\u00f3s a revoga\u00e7\u00e3o do mandato pelo cliente."
+                ]
             }
         ],
         "valid": true

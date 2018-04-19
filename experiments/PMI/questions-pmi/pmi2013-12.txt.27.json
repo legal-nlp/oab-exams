@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Poder\u00e3o ser estabelecidas al\u00edquotas diferenciadas do IPVA em fun\u00e7\u00e3o da proced\u00eancia do ve\u00edculo, se nacional ou estrangeira.",
                 "pmi": [
                     0.12109033829747773,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e3o ser estabelecidas al\u00edquotas diferenciadas do IPVA em fun\u00e7\u00e3o da proced\u00eancia do ve\u00edculo, se nacional ou estrangeira."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O IPVA \u00e9 um imposto de compet\u00eancia dos Estados e do Distrito Federal.",
                 "pmi": [
                     0.023746209806366898,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O IPVA \u00e9 um imposto de compet\u00eancia dos Estados e do Distrito Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Poder\u00e3o ser estabelecidas al\u00edquotas diferenciadas do IPVA em fun\u00e7\u00e3o do tipo e da utiliza\u00e7\u00e3o do ve\u00edculo.",
                 "pmi": [
                     0.16747363599174914,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e3o ser estabelecidas al\u00edquotas diferenciadas do IPVA em fun\u00e7\u00e3o do tipo e da utiliza\u00e7\u00e3o do ve\u00edculo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pertence aos munic\u00edpios parte do produto da arrecada\u00e7\u00e3o do IPVA relativamente aos ve\u00edculos automotores licenciados em seus territ\u00f3rios.",
                 "pmi": [
                     0.5279000268971851,
                     0.4200104854972241,
                     0.18992099193427162,
-                    0.0
-                ],
-                "text": "Pertence aos munic\u00edpios parte do produto da arrecada\u00e7\u00e3o do IPVA relativamente aos ve\u00edculos automotores licenciados em seus territ\u00f3rios."
+                    0.18992099193427162
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "concorr\u00eancia, pois o valor a ser gasto \u00e9 substancioso e os produtos e servi\u00e7os de inform\u00e1tica n\u00e3o podem ser caracterizados como servi\u00e7os comuns.",
                 "pmi": [
                     0.00019064189238033924,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "concorr\u00eancia, pois o valor a ser gasto \u00e9 substancioso e os produtos e servi\u00e7os de inform\u00e1tica n\u00e3o podem ser caracterizados como servi\u00e7os comuns."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "preg\u00e3o, sendo preferencial a sua utiliza\u00e7\u00e3o na forma presencial.",
                 "pmi": [
                     0.02866293219996697,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "preg\u00e3o, sendo preferencial a sua utiliza\u00e7\u00e3o na forma presencial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "convite para a elabora\u00e7\u00e3o de ata de registro de pre\u00e7os para a aquisi\u00e7\u00e3o de cartuchos de impressoras e de concorr\u00eancia para a compra dos demais itens solicitados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "convite para a elabora\u00e7\u00e3o de ata de registro de pre\u00e7os para a aquisi\u00e7\u00e3o de cartuchos de impressoras e de concorr\u00eancia para a compra dos demais itens solicitados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "dois preg\u00f5es eletr\u00f4nicos, um para a elabora\u00e7\u00e3o de ata de registro de pre\u00e7os para a aquisi\u00e7\u00e3o de cartuchos de impressoras e outro para a compra dos demais itens solicitados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dois preg\u00f5es eletr\u00f4nicos, um para a elabora\u00e7\u00e3o de ata de registro de pre\u00e7os para a aquisi\u00e7\u00e3o de cartuchos de impressoras e outro para a compra dos demais itens solicitados."
+                ]
             }
         ],
         "valid": true

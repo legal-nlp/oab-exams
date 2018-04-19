@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "desconsidera\u00e7\u00e3o da pessoa jur\u00eddica, que foi estabelecida para responsabilizar a pessoa f\u00edsica sempre que sua personalidade for obst\u00e1culo ao ressarcimento de preju\u00edzos causados \u00e0 qualidade do meio ambiente.",
                 "pmi": [
                     0.05274950791271182,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desconsidera\u00e7\u00e3o da pessoa jur\u00eddica, que foi estabelecida para responsabilizar a pessoa f\u00edsica sempre que sua personalidade for obst\u00e1culo ao ressarcimento de preju\u00edzos causados \u00e0 qualidade do meio ambiente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "possibilidade de assinatura de termos de ajustamento de conduta, que somente \u00e9 poss\u00edvel pelo cometimento de il\u00edcito ambiental.",
                 "pmi": [
                     -0.0032297903886448417,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "possibilidade de assinatura de termos de ajustamento de conduta, que somente \u00e9 poss\u00edvel pelo cometimento de il\u00edcito ambiental."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "responsabilidade penal objetiva pelo cometimento de crimes ambientais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "responsabilidade penal objetiva pelo cometimento de crimes ambientais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "substitui\u00e7\u00e3o da pena privativa de liberdade pela restritiva de direito quando tratar-se de crime doloso.",
                 "pmi": [
                     0.03753600061766288,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "substitui\u00e7\u00e3o da pena privativa de liberdade pela restritiva de direito quando tratar-se de crime doloso."
+                ]
             }
         ],
         "valid": true

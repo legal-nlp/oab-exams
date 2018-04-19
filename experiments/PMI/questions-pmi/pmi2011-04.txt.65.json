@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O C\u00f3digo de Processo Penal admite a figura da cita\u00e7\u00e3o com hora certa, tal como ocorre no C\u00f3digo de Processo Civil.",
                 "pmi": [
                     0.0045747720328687454,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O C\u00f3digo de Processo Penal admite a figura da cita\u00e7\u00e3o com hora certa, tal como ocorre no C\u00f3digo de Processo Civil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O rito comum ordin\u00e1rio \u00e9 o reservado aos crimes apenados com reclus\u00e3o, independentemente do montante da pena para eles prevista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O rito comum ordin\u00e1rio \u00e9 o reservado aos crimes apenados com reclus\u00e3o, independentemente do montante da pena para eles prevista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Na mutatio libelli (em que a den\u00fancia descreve determinado fato, mas as provas apontam que o fato delituoso \u00e9 diverso), o Minist\u00e9rio P\u00fablico dever\u00e1, ap\u00f3s encerrada a instru\u00e7\u00e3o probat\u00f3ria, aditar a den\u00fancia no prazo de 5 (cinco) dias sob pena de se operar a preclus\u00e3o temporal.",
                 "pmi": [
                     -0.01125178386219917,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na mutatio libelli (em que a den\u00fancia descreve determinado fato, mas as provas apontam que o fato delituoso \u00e9 diverso), o Minist\u00e9rio P\u00fablico dever\u00e1, ap\u00f3s encerrada a instru\u00e7\u00e3o probat\u00f3ria, aditar a den\u00fancia no prazo de 5 (cinco) dias sob pena de se operar a preclus\u00e3o temporal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O rito sum\u00e1rio \u00e9 o reservado para as infra\u00e7\u00f5es penais de menor potencial ofensivo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O rito sum\u00e1rio \u00e9 o reservado para as infra\u00e7\u00f5es penais de menor potencial ofensivo."
+                ]
             }
         ],
         "valid": true

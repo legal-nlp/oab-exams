@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Houve julgamento extra petita no tocante \u00e0 gratuidade, atraindo a nulidade do julgado, j\u00e1 que isso n\u00e3o foi requerido na peti\u00e7\u00e3o inicial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Houve julgamento extra petita no tocante \u00e0 gratuidade, atraindo a nulidade do julgado, j\u00e1 que isso n\u00e3o foi requerido na peti\u00e7\u00e3o inicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A Lei \u00e9 omissa a respeito, da\u00ed porque o juiz, invocando o princ\u00edpio da prote\u00e7\u00e3o, poderia conceder espontaneamente a gratuidade de justi\u00e7a.",
                 "pmi": [
                     0.03008489442176489,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Lei \u00e9 omissa a respeito, da\u00ed porque o juiz, invocando o princ\u00edpio da prote\u00e7\u00e3o, poderia conceder espontaneamente a gratuidade de justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A sociedade empres\u00e1ria poderia recorrer para ver reformada a senten\u00e7a, no tocante \u00e0 concess\u00e3o espont\u00e2nea da gratuidade de justi\u00e7a, tratando-se de julgamento ultra petita.",
                 "pmi": [
                     0.011662860852671179,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria poderia recorrer para ver reformada a senten\u00e7a, no tocante \u00e0 concess\u00e3o espont\u00e2nea da gratuidade de justi\u00e7a, tratando-se de julgamento ultra petita."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O juiz agiu dentro do padr\u00e3o legal, pois \u00e9 poss\u00edvel a concess\u00e3o da gratuidade de justi\u00e7a de of\u00edcio, desde que presentes os requisitos legais, como era o caso.",
                 "pmi": [
                     0.03596959032563131,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz agiu dentro do padr\u00e3o legal, pois \u00e9 poss\u00edvel a concess\u00e3o da gratuidade de justi\u00e7a de of\u00edcio, desde que presentes os requisitos legais, como era o caso."
+                ]
             }
         ],
         "valid": true

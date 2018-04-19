@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "representar a OAB no Conselho de Seguran\u00e7a do MERCOSUL.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "representar a OAB no Conselho de Seguran\u00e7a do MERCOSUL."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "fiscalizar as fun\u00e7\u00f5es e atribui\u00e7\u00f5es do conselho seccional.",
                 "pmi": [
                     0.4924789837192908,
                     0.0,
                     0,
                     0
-                ],
-                "text": "fiscalizar as fun\u00e7\u00f5es e atribui\u00e7\u00f5es do conselho seccional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "instaurar e instruir processos disciplinares, para julgamento pelo Conselho Federal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "instaurar e instruir processos disciplinares, para julgamento pelo Conselho Federal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "receber pedido de inscri\u00e7\u00e3o nos quadros de advogado e estagi\u00e1rio, instruindo e emitindo parecer pr\u00e9vio, para decis\u00e3o do conselho seccional.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "receber pedido de inscri\u00e7\u00e3o nos quadros de advogado e estagi\u00e1rio, instruindo e emitindo parecer pr\u00e9vio, para decis\u00e3o do conselho seccional."
+                ]
             }
         ],
         "valid": true

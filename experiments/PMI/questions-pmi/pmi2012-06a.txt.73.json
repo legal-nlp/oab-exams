@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Marcos tem direito ao recolhimento dos dep\u00f3sitos do FGTS durante esse per\u00edodo de afastamento do trabalho.",
                 "pmi": [
                     0.03644485429756462,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos tem direito ao recolhimento dos dep\u00f3sitos do FGTS durante esse per\u00edodo de afastamento do trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "esse tempo de afastamento previdenci\u00e1rio deve ser considerado no c\u00f4mputo do per\u00edodo aquisitivo das f\u00e9rias.",
                 "pmi": [
                     0.0535102538172248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "esse tempo de afastamento previdenci\u00e1rio deve ser considerado no c\u00f4mputo do per\u00edodo aquisitivo das f\u00e9rias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "durante esse afastamento previdenci\u00e1rio o contrato de trabalho esteve interrompido.",
                 "pmi": [
                     0.0936429441801434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "durante esse afastamento previdenci\u00e1rio o contrato de trabalho esteve interrompido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Marcos deve retornar ao trabalho no prazo de 30 trinta) dias, contados a partir da cessa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, sob pena de se presumir o abandono de emprego caso n\u00e3o justifique o motivo do n\u00e3o retorno.",
                 "pmi": [
                     0.0831098829773439,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos deve retornar ao trabalho no prazo de 30 trinta) dias, contados a partir da cessa\u00e7\u00e3o do benef\u00edcio previdenci\u00e1rio, sob pena de se presumir o abandono de emprego caso n\u00e3o justifique o motivo do n\u00e3o retorno."
+                ]
             }
         ],
         "valid": true

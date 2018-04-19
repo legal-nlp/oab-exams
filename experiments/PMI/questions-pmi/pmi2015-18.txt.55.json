@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O magistrado agiu corretamente, cabendo ao autor apenas cobrar a multa vencida.",
                 "pmi": [
                     0.02610460820619716,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado agiu corretamente, cabendo ao autor apenas cobrar a multa vencida."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A multa poderia ser aumentada, ou at\u00e9 mesmo substitu\u00edda por outra medida de apoio mais efetiva, a fim de concretizar o direito do autor.",
                 "pmi": [
                     0.04815511281784912,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A multa poderia ser aumentada, ou at\u00e9 mesmo substitu\u00edda por outra medida de apoio mais efetiva, a fim de concretizar o direito do autor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A multa somente poderia ser aumentada se o autor conseguisse modificar a senten\u00e7a por meio de uma a\u00e7\u00e3o rescis\u00f3ria.",
                 "pmi": [
                     0.0008561365832809773,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A multa somente poderia ser aumentada se o autor conseguisse modificar a senten\u00e7a por meio de uma a\u00e7\u00e3o rescis\u00f3ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A multa n\u00e3o poderia ser aumentada, mas o juiz poderia condenar a empresa r\u00e9 a pagar danos morais ao autor.",
                 "pmi": [
                     0.030367175528783836,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A multa n\u00e3o poderia ser aumentada, mas o juiz poderia condenar a empresa r\u00e9 a pagar danos morais ao autor."
+                ]
             }
         ],
         "valid": true

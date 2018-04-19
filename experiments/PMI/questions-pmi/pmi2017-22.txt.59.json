@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "N\u00e3o se tipifica o crime imputado ao acusado antes do lan\u00e7amento definitivo.",
                 "pmi": [
                     -0.013520763128761739,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se tipifica o crime imputado ao acusado antes do lan\u00e7amento definitivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Em raz\u00e3o da independ\u00eancia de inst\u00e2ncia, o lan\u00e7amento definitivo \u00e9 irrelevante para configura\u00e7\u00e3o da infra\u00e7\u00e3o penal.",
                 "pmi": [
                     -0.00212636756093623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Em raz\u00e3o da independ\u00eancia de inst\u00e2ncia, o lan\u00e7amento definitivo \u00e9 irrelevante para configura\u00e7\u00e3o da infra\u00e7\u00e3o penal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O crime imputado a M\u00e1rio \u00e9 de natureza formal, consumando-se no momento da omiss\u00e3o de informa\u00e7\u00e3o com o objetivo de reduzir tributo, ainda que a redu\u00e7\u00e3o efetivamente n\u00e3o ocorra.",
                 "pmi": [
                     -0.006024560607959279,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O crime imputado a M\u00e1rio \u00e9 de natureza formal, consumando-se no momento da omiss\u00e3o de informa\u00e7\u00e3o com o objetivo de reduzir tributo, ainda que a redu\u00e7\u00e3o efetivamente n\u00e3o ocorra."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O crime imputado a M\u00e1rio \u00e9 classificado como pr\u00f3prio, de modo que \u00e9 necess\u00e1ria a presen\u00e7a de ao menos um funcion\u00e1rio p\u00fablico como autor ou part\u00edcipe do delito.",
                 "pmi": [
                     -0.014455323770822112,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O crime imputado a M\u00e1rio \u00e9 classificado como pr\u00f3prio, de modo que \u00e9 necess\u00e1ria a presen\u00e7a de ao menos um funcion\u00e1rio p\u00fablico como autor ou part\u00edcipe do delito."
+                ]
             }
         ],
         "valid": true

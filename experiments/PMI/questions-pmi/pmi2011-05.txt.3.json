@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos.",
                 "pmi": [
                     0.027351161699997347,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 direito do advogado a sustenta\u00e7\u00e3o oral em todos os recursos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal.",
                 "pmi": [
                     0.01730043210614618,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral est\u00e1 vinculado \u00e0 sua previsibilidade recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso.",
                 "pmi": [
                     -0.0030757291178220643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a sustenta\u00e7\u00e3o oral depender\u00e1 do relator do recurso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos.",
                 "pmi": [
                     0.015548664373934252,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o direito \u00e0 sustenta\u00e7\u00e3o oral ser\u00e1 por trinta minutos."
+                ]
             }
         ],
         "valid": true

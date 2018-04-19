@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "erro sobre a pessoa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "erro sobre a pessoa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "aberratio ictus.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "aberratio ictus."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "aberratio criminis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "aberratio criminis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "erro determinado por terceiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "erro determinado por terceiro."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "subsidi\u00e1ria integral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "subsidi\u00e1ria integral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "sociedade em conta de participa\u00e7\u00e3o.",
                 "pmi": [
                     0.07626950857127096,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "sociedade em conta de participa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "sociedade limitada.",
                 "pmi": [
                     0.11440426285690644,
                     0.0,
                     0,
                     0
-                ],
-                "text": "sociedade limitada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "sociedade de prop\u00f3sito espec\u00edfico.",
                 "pmi": [
                     0.07626950857127096,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "sociedade de prop\u00f3sito espec\u00edfico."
+                ]
             }
         ],
         "valid": true

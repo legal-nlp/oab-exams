@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Lara agiu corretamente, pois, considerando-se que passaria a atuar em mais do que cinco causas por ano em S\u00e3o Paulo, era necess\u00e1rio que promovesse sua inscri\u00e7\u00e3o suplementar nesse estado.",
                 "pmi": [
                     0.0034570501585228937,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Lara agiu corretamente, pois, considerando-se que passaria a atuar em mais do que cinco causas por ano em S\u00e3o Paulo, era necess\u00e1rio que promovesse sua inscri\u00e7\u00e3o suplementar nesse estado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Lara n\u00e3o agiu corretamente, pois \u00e9 vedado ao advogado integrar mais de uma sociedade de advogados com sede ou filial na mesma \u00e1rea territorial do respectivo Conselho Seccional.",
                 "pmi": [
                     0.00754858797111666,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Lara n\u00e3o agiu corretamente, pois \u00e9 vedado ao advogado integrar mais de uma sociedade de advogados com sede ou filial na mesma \u00e1rea territorial do respectivo Conselho Seccional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Lara n\u00e3o agiu corretamente, pois \u00e9 vedado ao advogado integrar mais de uma sociedade de advogados dentro do territ\u00f3rio nacional.",
                 "pmi": [
                     0.015257426292049663,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Lara n\u00e3o agiu corretamente, pois \u00e9 vedado ao advogado integrar mais de uma sociedade de advogados dentro do territ\u00f3rio nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Lara agiu corretamente e sequer era necess\u00e1rio que promovesse sua inscri\u00e7\u00e3o suplementar, pois passaria a exercer a profiss\u00e3o em S\u00e3o Paulo na qualidade de s\u00f3cia e n\u00e3o de advogada empregada da sociedade em quest\u00e3o.",
                 "pmi": [
                     0.0009154341888857433,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Lara agiu corretamente e sequer era necess\u00e1rio que promovesse sua inscri\u00e7\u00e3o suplementar, pois passaria a exercer a profiss\u00e3o em S\u00e3o Paulo na qualidade de s\u00f3cia e n\u00e3o de advogada empregada da sociedade em quest\u00e3o."
+                ]
             }
         ],
         "valid": true

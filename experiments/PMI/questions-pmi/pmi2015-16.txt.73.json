@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O empregado ter\u00e1 direito, conforme a Lei, a uma participa\u00e7\u00e3o sobre o lucro obtido nessas vendas.",
                 "pmi": [
                     0.01653178015458065,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado ter\u00e1 direito, conforme a Lei, a uma participa\u00e7\u00e3o sobre o lucro obtido nessas vendas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A Lei \u00e9 omissa a esse respeito, de modo que, caso n\u00e3o haja consenso entre as partes, ser\u00e1 necess\u00e1rio o ajuizamento de a\u00e7\u00e3o trabalhista para resolver o impasse.",
                 "pmi": [
                     0.006572403032737835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Lei \u00e9 omissa a esse respeito, de modo que, caso n\u00e3o haja consenso entre as partes, ser\u00e1 necess\u00e1rio o ajuizamento de a\u00e7\u00e3o trabalhista para resolver o impasse."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Todo o lucro obtido pelo invento ser\u00e1 do empregado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Todo o lucro obtido pelo invento ser\u00e1 do empregado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O empregado ter\u00e1 direito apenas ao seu sal\u00e1rio normal, exceto se o seu contrato de trabalho tiver previs\u00e3o de participa\u00e7\u00e3o no lucro do seu invento.",
                 "pmi": [
                     0.004681300181105336,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado ter\u00e1 direito apenas ao seu sal\u00e1rio normal, exceto se o seu contrato de trabalho tiver previs\u00e3o de participa\u00e7\u00e3o no lucro do seu invento."
+                ]
             }
         ],
         "valid": true

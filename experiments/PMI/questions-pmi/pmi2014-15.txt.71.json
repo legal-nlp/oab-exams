@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "ser reintegrado.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "ser reintegrado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ser readmitido.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "ser readmitido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "receber apenas os sal\u00e1rios do per\u00edodo de afastamento.",
                 "pmi": [
                     0.038570697135707974,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "receber apenas os sal\u00e1rios do per\u00edodo de afastamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "receber apenas indeniza\u00e7\u00e3o por dano moral.",
                 "pmi": [
                     0.08290220640338117,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "receber apenas indeniza\u00e7\u00e3o por dano moral."
+                ]
             }
         ],
         "valid": true

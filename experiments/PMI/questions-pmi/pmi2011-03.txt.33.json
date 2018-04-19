@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O CNJ, sendo \u00f3rg\u00e3o do Poder Judici\u00e1rio, atua apenas mediante provoca\u00e7\u00e3o, n\u00e3o podendo atuar de of\u00edcio.",
                 "pmi": [
                     0.13099912783363274,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O CNJ, sendo \u00f3rg\u00e3o do Poder Judici\u00e1rio, atua apenas mediante provoca\u00e7\u00e3o, n\u00e3o podendo atuar de of\u00edcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o cabe ao CNJ, \u00f3rg\u00e3o que integra o Poder Judici\u00e1rio, zelar por princ\u00edpios relativos \u00e0 Administra\u00e7\u00e3o P\u00fablica.",
                 "pmi": [
                     0.12404396862591527,
                     0.030611649713939124,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o cabe ao CNJ, \u00f3rg\u00e3o que integra o Poder Judici\u00e1rio, zelar por princ\u00edpios relativos \u00e0 Administra\u00e7\u00e3o P\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O CNJ n\u00e3o pode julgar magistrados por crime de abuso de autoridade.",
                 "pmi": [
                     0.11992777521772278,
                     0.055100969485090426,
                     0.0,
                     0.0
-                ],
-                "text": "O CNJ n\u00e3o pode julgar magistrados por crime de abuso de autoridade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O CNJ pode rever processos disciplinares de ju\u00edzes julgados a qualquer tempo.",
                 "pmi": [
                     0.26358548562650647,
                     0.13722896599720788,
                     0.09856721774126201,
-                    0.0
-                ],
-                "text": "O CNJ pode rever processos disciplinares de ju\u00edzes julgados a qualquer tempo."
+                    0.09856721774126201
+                ]
             }
         ],
         "valid": true

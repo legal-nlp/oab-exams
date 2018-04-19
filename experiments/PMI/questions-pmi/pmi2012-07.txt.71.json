@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O encerramento da atividade empresarial implicar\u00e1 a resili\u00e7\u00e3o unilateral por vontade do empregador dos contratos de trabalho de seus empregados.",
                 "pmi": [
                     0.09065939203557613,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O encerramento da atividade empresarial implicar\u00e1 a resili\u00e7\u00e3o unilateral por vontade do empregador dos contratos de trabalho de seus empregados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Os empregados t\u00eam direito \u00e0 indeniza\u00e7\u00e3o compensat\u00f3ria de 20% (vinte por cento) sobre os dep\u00f3sitos do FGTS.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os empregados t\u00eam direito \u00e0 indeniza\u00e7\u00e3o compensat\u00f3ria de 20% (vinte por cento) sobre os dep\u00f3sitos do FGTS."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Os empregados n\u00e3o podem movimentar a conta vinculada do FGTS.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os empregados n\u00e3o podem movimentar a conta vinculada do FGTS."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O empregado detentor de estabilidade provis\u00f3ria por ter sido eleito representante dos empregados na Comiss\u00e3o Interna de Preven\u00e7\u00e3o de Acidentes \u2013 CIPA tem direito ao pagamento dos sal\u00e1rios do per\u00edodo compreendido entre a data da ruptura do contrato de trabalho e o final do per\u00edodo da garantia de emprego.",
                 "pmi": [
                     0.018805513379953436,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado detentor de estabilidade provis\u00f3ria por ter sido eleito representante dos empregados na Comiss\u00e3o Interna de Preven\u00e7\u00e3o de Acidentes \u2013 CIPA tem direito ao pagamento dos sal\u00e1rios do per\u00edodo compreendido entre a data da ruptura do contrato de trabalho e o final do per\u00edodo da garantia de emprego."
+                ]
             }
         ],
         "valid": true

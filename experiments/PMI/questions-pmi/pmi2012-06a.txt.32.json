@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "dever\u00e1 prosseguir regularmente, uma vez que as inst\u00e2ncias penal e administrativa s\u00e3o independentes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 prosseguir regularmente, uma vez que as inst\u00e2ncias penal e administrativa s\u00e3o independentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dever\u00e1 prosseguir regularmente, uma vez que a senten\u00e7a absolut\u00f3ria proferida na inst\u00e2ncia penal apenas vincularia a inst\u00e2ncia administrativa em caso de negativa da exist\u00eancia do fato.",
                 "pmi": [
                     0.041126049909280545,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 prosseguir regularmente, uma vez que a senten\u00e7a absolut\u00f3ria proferida na inst\u00e2ncia penal apenas vincularia a inst\u00e2ncia administrativa em caso de negativa da exist\u00eancia do fato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa somente pode configurar efeito secund\u00e1rio da responsabilidade penal.",
                 "pmi": [
                     0.006583390260444866,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa somente pode configurar efeito secund\u00e1rio da responsabilidade penal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa \u00e9 afastada no caso de absolvi\u00e7\u00e3o criminal que negue a autoria do fato.",
                 "pmi": [
                     0.031070974276298187,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ficar\u00e1 prejudicado, uma vez que a responsabilidade administrativa \u00e9 afastada no caso de absolvi\u00e7\u00e3o criminal que negue a autoria do fato."
+                ]
             }
         ],
         "valid": true

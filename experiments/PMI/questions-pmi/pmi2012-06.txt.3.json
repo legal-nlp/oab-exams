@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o advogado deve comparecer ao ato e prestar depoimento como testemunha dos fatos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado deve comparecer ao ato e prestar depoimento como testemunha dos fatos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "\u00e9 caso de recusa justificada ao depoimento por ter tido o advogado ci\u00eancia dos fatos em virtude do exerc\u00edcio da profiss\u00e3o.",
                 "pmi": [
                     0.011635987219673911,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 caso de recusa justificada ao depoimento por ter tido o advogado ci\u00eancia dos fatos em virtude do exerc\u00edcio da profiss\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a simples consulta jur\u00eddica n\u00e3o \u00e9 privativa de advogado, equiparada a mero aconselhamento protocolar.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a simples consulta jur\u00eddica n\u00e3o \u00e9 privativa de advogado, equiparada a mero aconselhamento protocolar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o advogado poder\u00e1 prestar o depoimento, mesmo contra sua vontade, desde que autorizado pelo cliente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado poder\u00e1 prestar o depoimento, mesmo contra sua vontade, desde que autorizado pelo cliente."
+                ]
             }
         ],
         "valid": true

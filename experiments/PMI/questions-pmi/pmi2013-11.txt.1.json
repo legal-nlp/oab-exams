@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O efetivo exerc\u00edcio da advocacia comprova-se pela atua\u00e7\u00e3o em um processo por ano, desde que o advogado subscreva uma pe\u00e7a privativa de advogado.",
                 "pmi": [
                     0.055319860400946205,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O efetivo exerc\u00edcio da advocacia comprova-se pela atua\u00e7\u00e3o em um processo por ano, desde que o advogado subscreva uma pe\u00e7a privativa de advogado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O efetivo exerc\u00edcio da advocacia exige a atua\u00e7\u00e3o anual m\u00ednima em cinco causas distintas, que devem ser comprovadas por c\u00f3pia autenticada de atos privativos.",
                 "pmi": [
                     0.03712404113654713,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O efetivo exerc\u00edcio da advocacia exige a atua\u00e7\u00e3o anual m\u00ednima em cinco causas distintas, que devem ser comprovadas por c\u00f3pia autenticada de atos privativos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A atividade efetiva da advocacia, como representante judicial ou extrajudicial, cinge-se a dois atos por ano.",
                 "pmi": [
                     0.05779215387530303,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A atividade efetiva da advocacia, como representante judicial ou extrajudicial, cinge-se a dois atos por ano."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado deve comprovar, anualmente, a atua\u00e7\u00e3o em atos privativos, mediante declara\u00e7\u00e3o do Juiz onde atue, de tr\u00eas atos judiciais.",
                 "pmi": [
                     0.00388540715792928,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado deve comprovar, anualmente, a atua\u00e7\u00e3o em atos privativos, mediante declara\u00e7\u00e3o do Juiz onde atue, de tr\u00eas atos judiciais."
+                ]
             }
         ],
         "valid": true

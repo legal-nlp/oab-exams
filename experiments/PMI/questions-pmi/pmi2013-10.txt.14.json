@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Podem receber recursos financeiros de governo estrangeiro.",
                 "pmi": [
                     0.01839089273147029,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Podem receber recursos financeiros de governo estrangeiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Devem prestar as contas partid\u00e1rias perante Conselho Especial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Devem prestar as contas partid\u00e1rias perante Conselho Especial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Podem ter car\u00e1ter regional, representando pelo menos duas regi\u00f5es.",
                 "pmi": [
                     0.039065441686550254,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Podem ter car\u00e1ter regional, representando pelo menos duas regi\u00f5es."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "T\u00eam acesso gratuito ao r\u00e1dio e \u00e0 televis\u00e3o nos limites legais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "T\u00eam acesso gratuito ao r\u00e1dio e \u00e0 televis\u00e3o nos limites legais."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O devedor ter, h\u00e1 menos de 5 (cinco) anos, obtido concess\u00e3o de recupera\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.0060050277288916576,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O devedor ter, h\u00e1 menos de 5 (cinco) anos, obtido concess\u00e3o de recupera\u00e7\u00e3o judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O devedor possuir ativo que n\u00e3o corresponda a, pelo menos, 50% (cinquenta por cento) do passivo quirograf\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O devedor possuir ativo que n\u00e3o corresponda a, pelo menos, 50% (cinquenta por cento) do passivo quirograf\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O devedor deixar de requerer sua autofal\u00eancia nos 30 (trinta) dias seguintes ao vencimento de qualquer obriga\u00e7\u00e3o l\u00edquida.",
                 "pmi": [
                     0.07110851842942519,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O devedor deixar de requerer sua autofal\u00eancia nos 30 (trinta) dias seguintes ao vencimento de qualquer obriga\u00e7\u00e3o l\u00edquida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A sociedade ter como administrador pessoa condenada por crime contra o patrim\u00f4nio ou contra a f\u00e9 p\u00fablica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade ter como administrador pessoa condenada por crime contra o patrim\u00f4nio ou contra a f\u00e9 p\u00fablica."
+                ]
             }
         ],
         "valid": true

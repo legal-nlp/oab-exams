@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta.",
                 "pmi": [
                     0.34347291744835307,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta, \u00e0s autarquias e \u00e0s empresas p\u00fablicas.",
                 "pmi": [
                     0.24533779817739504,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e0s entidades da Administra\u00e7\u00e3o P\u00fablica Direta, \u00e0s autarquias e \u00e0s empresas p\u00fablicas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno e \u00e0s pessoas jur\u00eddicas de direito privado prestadoras de servi\u00e7os p\u00fablicos.",
                 "pmi": [
                     0.29161345573413444,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno e \u00e0s pessoas jur\u00eddicas de direito privado prestadoras de servi\u00e7os p\u00fablicos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno.",
                 "pmi": [
                     0.15430513528007733,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e0s pessoas jur\u00eddicas de direito p\u00fablico interno."
+                ]
             }
         ],
         "valid": true

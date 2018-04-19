@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O brasileiro nato n\u00e3o pode perder a nacionalidade.",
                 "pmi": [
                     0.2291746832184335,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O brasileiro nato n\u00e3o pode perder a nacionalidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O filho de pais alem\u00e3es que est\u00e3o no Brasil a servi\u00e7o de empresa privada alem\u00e3 ser\u00e1 brasileiro nato caso venha a nascer no Brasil.",
                 "pmi": [
                     0.2425925726476063,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O filho de pais alem\u00e3es que est\u00e3o no Brasil a servi\u00e7o de empresa privada alem\u00e3 ser\u00e1 brasileiro nato caso venha a nascer no Brasil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O brasileiro naturalizado pode ser extraditado pela pr\u00e1tica de crime comum ap\u00f3s a naturaliza\u00e7\u00e3o.",
                 "pmi": [
                     0.33188057737668253,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O brasileiro naturalizado pode ser extraditado pela pr\u00e1tica de crime comum ap\u00f3s a naturaliza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O brasileiro nato somente poder\u00e1 ser extraditado no caso de envolvimento com o tr\u00e1fico de entorpecentes.",
                 "pmi": [
                     0.13095696183910488,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O brasileiro nato somente poder\u00e1 ser extraditado no caso de envolvimento com o tr\u00e1fico de entorpecentes."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A empresa agiu de forma incorreta, pois n\u00e3o poderia descontar nada de Paulo, dado o princ\u00edpio da intangibilidade salarial.",
                 "pmi": [
                     -0.0021802071323828534,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa agiu de forma incorreta, pois n\u00e3o poderia descontar nada de Paulo, dado o princ\u00edpio da intangibilidade salarial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A empresa agiu de forma incorreta, pois s\u00f3 poderia descontar um dos danos, pois todos os descontos acarretaram bis in idem.",
                 "pmi": [
                     -0.0036632497183572586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa agiu de forma incorreta, pois s\u00f3 poderia descontar um dos danos, pois todos os descontos acarretaram bis in idem."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A empresa agiu corretamente, pois Paulo agiu com culpa e havia previs\u00e3o contratual para tanto.",
                 "pmi": [
                     -0.0027158541164411434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa agiu corretamente, pois Paulo agiu com culpa e havia previs\u00e3o contratual para tanto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A empresa agiu de forma incorreta, pois n\u00e3o houve dolo por parte do empregado e \u00e9 dela o risco do neg\u00f3cio. Logo, o desconto \u00e9 descabido.",
                 "pmi": [
                     -0.006941306048897976,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa agiu de forma incorreta, pois n\u00e3o houve dolo por parte do empregado e \u00e9 dela o risco do neg\u00f3cio. Logo, o desconto \u00e9 descabido."
+                ]
             }
         ],
         "valid": true

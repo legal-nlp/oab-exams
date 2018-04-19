@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "pela metade dos tributos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "pela metade dos tributos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "subsidiariamente pela integralidade dos tributos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "subsidiariamente pela integralidade dos tributos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "integralmente por todos os tributos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "integralmente por todos os tributos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "solidariamente, com o antigo propriet\u00e1rio, por todos os tributos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "solidariamente, com o antigo propriet\u00e1rio, por todos os tributos."
+                ]
             }
         ],
         "valid": true

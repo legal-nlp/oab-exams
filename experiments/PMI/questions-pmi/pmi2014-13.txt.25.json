@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "inconstitucional, por violar o conceito constitucional de taxa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por violar o conceito constitucional de taxa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa, mas ilegal por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional.",
                 "pmi": [
                     0.04231424005751428,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constitucional, por n\u00e3o violar o conceito constitucional de taxa, mas ilegal por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "inconstitucional, por violar o conceito constitucional de taxa, al\u00e9m de ilegal, por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional.",
                 "pmi": [
                     0.04231424005751428,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por violar o conceito constitucional de taxa, al\u00e9m de ilegal, por violar a defini\u00e7\u00e3o de taxa contida no C\u00f3digo Tribut\u00e1rio Nacional."
+                ]
             }
         ],
         "valid": true

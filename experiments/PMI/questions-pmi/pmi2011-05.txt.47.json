@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A imediata substitui\u00e7\u00e3o do produto por outro novo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A imediata substitui\u00e7\u00e3o do produto por outro novo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O dinheiro de volta.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "O dinheiro de volta."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O conserto do produto no prazo m\u00e1ximo de 30 dias.",
                 "pmi": [
                     0.07670499823394167,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O conserto do produto no prazo m\u00e1ximo de 30 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Um produto id\u00eantico emprestado enquanto durar o conserto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Um produto id\u00eantico emprestado enquanto durar o conserto."
+                ]
             }
         ],
         "valid": true

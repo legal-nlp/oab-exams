@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Paulo n\u00e3o tem direito \u00e0s horas extras, pois n\u00e3o havia excesso de jornada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo n\u00e3o tem direito \u00e0s horas extras, pois n\u00e3o havia excesso de jornada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tendo havido extrapola\u00e7\u00e3o de 5 (cinco) minutos no tempo de deslocamento entre o port\u00e3o e o local de trabalho, Paulo faz jus a 10 (dez) minutos extras no in\u00edcio e no fim da jornada.",
                 "pmi": [
                     0.008719289970868323,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tendo havido extrapola\u00e7\u00e3o de 5 (cinco) minutos no tempo de deslocamento entre o port\u00e3o e o local de trabalho, Paulo faz jus a 10 (dez) minutos extras no in\u00edcio e no fim da jornada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Paulo tem direito \u00e0s horas extras (minutos) no in\u00edcio e no fim da jornada, dada a dist\u00e2ncia entre o port\u00e3o da empresa e o local de trabalho, que supera 10 (dez) minutos de deslocamento.",
                 "pmi": [
                     0.015377412678089683,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo tem direito \u00e0s horas extras (minutos) no in\u00edcio e no fim da jornada, dada a dist\u00e2ncia entre o port\u00e3o da empresa e o local de trabalho, que supera 10 (dez) minutos de deslocamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Paulo tem direito \u00e0s horas extras registradas em seu cart\u00e3o de ponto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo tem direito \u00e0s horas extras registradas em seu cart\u00e3o de ponto."
+                ]
             }
         ],
         "valid": true

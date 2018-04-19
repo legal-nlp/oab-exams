@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Por meio de Lei aprovada pelo Congresso Nacional.",
                 "pmi": [
                     0.07518023131779109,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por meio de Lei aprovada pelo Congresso Nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Por meio de Medida Provis\u00f3ria Federal.",
                 "pmi": [
                     0.16260360907059399,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por meio de Medida Provis\u00f3ria Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Por Provimento do Conselho Federal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Por Provimento do Conselho Federal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Por meio de Resolu\u00e7\u00e3o do Conselho Federal",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Por meio de Resolu\u00e7\u00e3o do Conselho Federal"
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O contrato de Pedro ser\u00e1 interrompido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato de Pedro ser\u00e1 interrompido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O contrato de Pedro ser\u00e1 suspenso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato de Pedro ser\u00e1 suspenso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O contrato de Pedro ser\u00e1 extinto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato de Pedro ser\u00e1 extinto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O contrato de Pedro continuar\u00e1 em vigor e ele ter\u00e1 todos os direitos trabalhistas assegurados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato de Pedro continuar\u00e1 em vigor e ele ter\u00e1 todos os direitos trabalhistas assegurados."
+                ]
             }
         ],
         "valid": true

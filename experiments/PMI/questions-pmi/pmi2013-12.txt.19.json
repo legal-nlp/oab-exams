@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A cobran\u00e7a \u00e9 constitucional, pois se trata de uma pol\u00edtica p\u00fablica de redu\u00e7\u00e3o das desigualdades.",
                 "pmi": [
                     -0.019071351460620296,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cobran\u00e7a \u00e9 constitucional, pois se trata de uma pol\u00edtica p\u00fablica de redu\u00e7\u00e3o das desigualdades."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A cobran\u00e7a \u00e9 constitucional em raz\u00e3o do princ\u00edpio da autonomia universit\u00e1ria, previsto na Constitui\u00e7\u00e3o da Rep\u00fablica.",
                 "pmi": [
                     -0.010638098865905572,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cobran\u00e7a \u00e9 constitucional em raz\u00e3o do princ\u00edpio da autonomia universit\u00e1ria, previsto na Constitui\u00e7\u00e3o da Rep\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que a taxa de matr\u00edcula deveria ser institu\u00edda por lei.",
                 "pmi": [
                     -0.010183090212189534,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que a taxa de matr\u00edcula deveria ser institu\u00edda por lei."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que viola o imperativo de gratuidade do ensino p\u00fablico em estabelecimentos oficiais.",
                 "pmi": [
                     -0.01475654987247537,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cobran\u00e7a \u00e9 inconstitucional, uma vez que viola o imperativo de gratuidade do ensino p\u00fablico em estabelecimentos oficiais."
+                ]
             }
         ],
         "valid": true

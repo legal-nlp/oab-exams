@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O controle de ponto dever\u00e1 ser mantido, porque a empresa possui mais de 10 empregados.",
                 "pmi": [
                     0.009986602418429188,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O controle de ponto dever\u00e1 ser mantido, porque a empresa possui mais de 10 empregados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A an\u00e1lise dever\u00e1 ser feita por cada estado da Federa\u00e7\u00e3o, sendo obrigat\u00f3rio o ponto se houver mais de 10 empregados no espa\u00e7o geogr\u00e1fico do estado.",
                 "pmi": [
                     0.04060266104342652,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A an\u00e1lise dever\u00e1 ser feita por cada estado da Federa\u00e7\u00e3o, sendo obrigat\u00f3rio o ponto se houver mais de 10 empregados no espa\u00e7o geogr\u00e1fico do estado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O empres\u00e1rio n\u00e3o precisar\u00e1 manter controle escrito, porque tem menos de 10 empregados por estabelecimento.",
                 "pmi": [
                     0.007489951813821891,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empres\u00e1rio n\u00e3o precisar\u00e1 manter controle escrito, porque tem menos de 10 empregados por estabelecimento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Lei \u00e9 omissa a respeito, da\u00ed porque, a t\u00edtulo de cautela, \u00e9 recomend\u00e1vel que seja marcado o controle, podendo haver a pr\u00e9-assinala\u00e7\u00e3o da pausa alimentar.",
                 "pmi": [
                     0.000189953219199217,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Lei \u00e9 omissa a respeito, da\u00ed porque, a t\u00edtulo de cautela, \u00e9 recomend\u00e1vel que seja marcado o controle, podendo haver a pr\u00e9-assinala\u00e7\u00e3o da pausa alimentar."
+                ]
             }
         ],
         "valid": true

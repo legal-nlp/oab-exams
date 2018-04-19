@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ant\u00f4nio poder\u00e1 ajuizar medida cautelar t\u00edpica preparat\u00f3ria perante o Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.06367493468971847,
                     0.01956634051966272,
                     0.0,
                     0.0
-                ],
-                "text": "Ant\u00f4nio poder\u00e1 ajuizar medida cautelar t\u00edpica preparat\u00f3ria perante o Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O CPC n\u00e3o prev\u00ea medida cautelar incidental t\u00edpica capaz de proteger a altera\u00e7\u00e3o do estado de fato do bem por Maria.",
                 "pmi": [
                     0.020335502309785532,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O CPC n\u00e3o prev\u00ea medida cautelar incidental t\u00edpica capaz de proteger a altera\u00e7\u00e3o do estado de fato do bem por Maria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Ant\u00f4nio poder\u00e1 ajuizar medida cautelar t\u00edpica perante o \u00f3rg\u00e3o jurisdicional que conheceu originariamente da causa.",
                 "pmi": [
                     0.05484031411815666,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ant\u00f4nio poder\u00e1 ajuizar medida cautelar t\u00edpica perante o \u00f3rg\u00e3o jurisdicional que conheceu originariamente da causa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A proced\u00eancia do pedido de concess\u00e3o da medida cautelar incidental t\u00edpica ajuizada por Antonio n\u00e3o acarretar\u00e1 a veda\u00e7\u00e3o de Maria falar nos autos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A proced\u00eancia do pedido de concess\u00e3o da medida cautelar incidental t\u00edpica ajuizada por Antonio n\u00e3o acarretar\u00e1 a veda\u00e7\u00e3o de Maria falar nos autos."
+                ]
             }
         ],
         "valid": true

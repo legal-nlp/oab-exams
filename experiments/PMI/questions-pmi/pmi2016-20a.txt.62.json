@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "causa supralegal excludente da ilicitude e causa supralegal de excludente da culpabilidade.",
                 "pmi": [
                     0.04302802449966438,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "causa supralegal excludente da ilicitude e causa supralegal de excludente da culpabilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "causa excludente da tipicidade, em ambos os casos.",
                 "pmi": [
                     0.04302802449966437,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "causa excludente da tipicidade, em ambos os casos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "causa excludente da tipicidade e causa supralegal de excludente da ilicitude.",
                 "pmi": [
                     0.04917488514247357,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "causa excludente da tipicidade e causa supralegal de excludente da ilicitude."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "causa supralegal de excludente da ilicitude, em ambos os casos.",
                 "pmi": [
                     0.034422419599731496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "causa supralegal de excludente da ilicitude, em ambos os casos."
+                ]
             }
         ],
         "valid": true

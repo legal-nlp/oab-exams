@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A atipicidade de sua conduta.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "A atipicidade de sua conduta."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O afastamento da qualificadora, tendo em vista que esta somente pode ser aplicada aos crimes de aborto provocado por terceiro, com ou sem consentimento da gestante, mas n\u00e3o para o delito de autoaborto de P\u00e2mela.",
                 "pmi": [
                     0.01279374800154055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O afastamento da qualificadora, tendo em vista que esta somente pode ser aplicada aos crimes de aborto provocado por terceiro, com ou sem consentimento da gestante, mas n\u00e3o para o delito de autoaborto de P\u00e2mela."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A desclassifica\u00e7\u00e3o para o crime de les\u00e3o corporal grave, afastando a condena\u00e7\u00e3o pelo aborto.",
                 "pmi": [
                     0.04986578072208454,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A desclassifica\u00e7\u00e3o para o crime de les\u00e3o corporal grave, afastando a condena\u00e7\u00e3o pelo aborto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O reconhecimento da tentativa do crime de aborto qualificado pelo resultado.",
                 "pmi": [
                     0.0026175031618919796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reconhecimento da tentativa do crime de aborto qualificado pelo resultado."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como quirograf\u00e1rio.",
                 "pmi": [
                     0.061932008485625106,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como quirograf\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como extraconcursal.",
                 "pmi": [
                     0.061932008485625106,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como extraconcursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio geral.",
                 "pmi": [
                     0.0655394572782667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio geral."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio especial.",
                 "pmi": [
                     0.05648034526153824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito ser\u00e1 classificado na fal\u00eancia como com privil\u00e9gio especial."
+                ]
             }
         ],
         "valid": true

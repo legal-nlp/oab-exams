@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "estelionato.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "estelionato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "peculato.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "peculato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "concuss\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "concuss\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "inser\u00e7\u00e3o de dados falsos em sistema de informa\u00e7\u00f5es.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inser\u00e7\u00e3o de dados falsos em sistema de informa\u00e7\u00f5es."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Dever\u00e1 ser considerado o menor valor, por se tratar de pedido subsidi\u00e1rio.",
                 "pmi": [
                     0.008039805742240367,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser considerado o menor valor, por se tratar de pedido subsidi\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ser\u00e1 a soma dos valores de todos os pedidos, por se tratar da hip\u00f3tese de cumula\u00e7\u00e3o de pedidos.",
                 "pmi": [
                     -0.0022634928461685044,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ser\u00e1 a soma dos valores de todos os pedidos, por se tratar da hip\u00f3tese de cumula\u00e7\u00e3o de pedidos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Por se tratar de pedidos alternativos, ser\u00e1 considerado o de maior valor.",
                 "pmi": [
                     0.008039805742240367,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por se tratar de pedidos alternativos, ser\u00e1 considerado o de maior valor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Por se tratar de a\u00e7\u00e3o para cumprimento do neg\u00f3cio jur\u00eddico, ser\u00e1 considerado o valor da soma do principal, da pena e dos juros vencidos.",
                 "pmi": [
                     -0.0038627282769944952,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por se tratar de a\u00e7\u00e3o para cumprimento do neg\u00f3cio jur\u00eddico, ser\u00e1 considerado o valor da soma do principal, da pena e dos juros vencidos."
+                ]
             }
         ],
         "valid": true

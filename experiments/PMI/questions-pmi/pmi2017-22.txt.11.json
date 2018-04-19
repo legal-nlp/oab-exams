@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "As duas normas em conflito devem pertencer ao mesmo ordenamento; as duas normas devem ter o mesmo \u00e2mbito de validade, seja temporal, espacial, pessoal ou material.",
                 "pmi": [
                     0.02349949208624242,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As duas normas em conflito devem pertencer ao mesmo ordenamento; as duas normas devem ter o mesmo \u00e2mbito de validade, seja temporal, espacial, pessoal ou material."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ambas as normas devem ter procedido da mesma autoridade legislativa; as duas normas em conflito n\u00e3o devem dispor sobre uma mesma mat\u00e9ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambas as normas devem ter procedido da mesma autoridade legislativa; as duas normas em conflito n\u00e3o devem dispor sobre uma mesma mat\u00e9ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ocorre no \u00e2mbito do processo judicial quando h\u00e1 uma diverg\u00eancia entre a decis\u00e3o de primeira inst\u00e2ncia e a decis\u00e3o de segunda inst\u00e2ncia ou quando um tribunal superior de natureza federal confirma a decis\u00e3o de segunda inst\u00e2ncia.",
                 "pmi": [
                     0.016155900809291662,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ocorre no \u00e2mbito do processo judicial quando h\u00e1 uma diverg\u00eancia entre a decis\u00e3o de primeira inst\u00e2ncia e a decis\u00e3o de segunda inst\u00e2ncia ou quando um tribunal superior de natureza federal confirma a decis\u00e3o de segunda inst\u00e2ncia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "As duas normas aplic\u00e1veis n\u00e3o apresentam uma solu\u00e7\u00e3o satisfat\u00f3ria para o caso; as duas normas n\u00e3o podem ser integradas mediante recurso a analogia ou costumes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As duas normas aplic\u00e1veis n\u00e3o apresentam uma solu\u00e7\u00e3o satisfat\u00f3ria para o caso; as duas normas n\u00e3o podem ser integradas mediante recurso a analogia ou costumes."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o gera altera\u00e7\u00e3o no contrato de trabalho, que permanece intacto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o gera altera\u00e7\u00e3o no contrato de trabalho, que permanece intacto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "gera a suspens\u00e3o do contrato de trabalho pelo per\u00edodo de tr\u00eas anos, prazo necess\u00e1rio para que o servidor p\u00fablico adquira estabilidade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "gera a suspens\u00e3o do contrato de trabalho pelo per\u00edodo de tr\u00eas anos, prazo necess\u00e1rio para que o servidor p\u00fablico adquira estabilidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "gera extin\u00e7\u00e3o do contrato de trabalho, iniciando-se o prazo prescricional da altera\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "gera extin\u00e7\u00e3o do contrato de trabalho, iniciando-se o prazo prescricional da altera\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o gera altera\u00e7\u00e3o no contrato de trabalho, mesmo porque o empregado n\u00e3o \u00e9 obrigado a aceitar a altera\u00e7\u00e3o de regime jur\u00eddico.",
                 "pmi": [
                     0.08836947553640677,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o gera altera\u00e7\u00e3o no contrato de trabalho, mesmo porque o empregado n\u00e3o \u00e9 obrigado a aceitar a altera\u00e7\u00e3o de regime jur\u00eddico."
+                ]
             }
         ],
         "valid": true

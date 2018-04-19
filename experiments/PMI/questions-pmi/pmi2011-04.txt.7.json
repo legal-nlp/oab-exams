@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "pr\u00f3prio Conselho Seccional, impedido o presidente.",
                 "pmi": [
                     0.06213018608339117,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pr\u00f3prio Conselho Seccional, impedido o presidente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Conselho Federal da OAB.",
                 "pmi": [
                     -0.004307008729607912,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Conselho Federal da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Conselho Federal da OAB, quando houver impedimento de dois ter\u00e7os do Conselho Seccional de origem para o julgamento.",
                 "pmi": [
                     0.16257173164335698,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Conselho Federal da OAB, quando houver impedimento de dois ter\u00e7os do Conselho Seccional de origem para o julgamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Conselho Seccional que for escolhido pelo Conselho Federal da OAB, por maioria absoluta.",
                 "pmi": [
                     -0.0017228034918431647,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Conselho Seccional que for escolhido pelo Conselho Federal da OAB, por maioria absoluta."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Homic\u00eddio consumado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Homic\u00eddio consumado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Homic\u00eddio tentado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Homic\u00eddio tentado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Les\u00e3o corporal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Les\u00e3o corporal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Les\u00e3o corporal seguida de morte.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Les\u00e3o corporal seguida de morte."
+                ]
             }
         ],
         "valid": true

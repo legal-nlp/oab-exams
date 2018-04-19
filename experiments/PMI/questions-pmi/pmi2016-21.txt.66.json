@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Marlon, apenas.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Marlon, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Marlon e Vitor, apenas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Marlon e Vitor, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Vitor, apenas.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Vitor, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Marlon, Wellington e Vitor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marlon, Wellington e Vitor."
+                ]
             }
         ],
         "valid": true

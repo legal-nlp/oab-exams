@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Deve-se aceitar que os textos jur\u00eddicos apenas carecem de interpreta\u00e7\u00e3o quando surgem particularmente como obscuros, pouco claros ou contradit\u00f3rios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve-se aceitar que os textos jur\u00eddicos apenas carecem de interpreta\u00e7\u00e3o quando surgem particularmente como obscuros, pouco claros ou contradit\u00f3rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Interpretar um texto significa alcan\u00e7ar o \u00fanico sentido poss\u00edvel de uma norma conforme a inten\u00e7\u00e3o que a ela foi dada pelo legislador.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interpretar um texto significa alcan\u00e7ar o \u00fanico sentido poss\u00edvel de uma norma conforme a inten\u00e7\u00e3o que a ela foi dada pelo legislador."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Os textos jur\u00eddicos, em princ\u00edpio, s\u00e3o suscet\u00edveis e carecem de interpreta\u00e7\u00e3o porque toda linguagem \u00e9 pass\u00edvel de adequa\u00e7\u00e3o a cada situa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os textos jur\u00eddicos, em princ\u00edpio, s\u00e3o suscet\u00edveis e carecem de interpreta\u00e7\u00e3o porque toda linguagem \u00e9 pass\u00edvel de adequa\u00e7\u00e3o a cada situa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A interpreta\u00e7\u00e3o dada por uma autoridade judicial a uma lei \u00e9 uma conclus\u00e3o logicamente vinculante que, por isso mesmo, deve ser repetida sempre que a mesma lei for aplicada.",
                 "pmi": [
                     0.017863056527779836,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A interpreta\u00e7\u00e3o dada por uma autoridade judicial a uma lei \u00e9 uma conclus\u00e3o logicamente vinculante que, por isso mesmo, deve ser repetida sempre que a mesma lei for aplicada."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "organiza\u00e7\u00e3o sindical.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "organiza\u00e7\u00e3o sindical."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional.",
                 "pmi": [
                     0.14197149863982444,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "partido pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "entidade de classe de \u00e2mbito nacional.",
                 "pmi": [
                     0.17746437329978054,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "entidade de classe de \u00e2mbito nacional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "associa\u00e7\u00f5es paramilitares.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "associa\u00e7\u00f5es paramilitares."
+                ]
             }
         ],
         "valid": true

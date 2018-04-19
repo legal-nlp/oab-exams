@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Janu\u00e1rio n\u00e3o pode ajuizar uma a\u00e7\u00e3o possess\u00f3ria, eis que a servid\u00e3o \u00e9 n\u00e3o aparente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Janu\u00e1rio n\u00e3o pode ajuizar uma a\u00e7\u00e3o possess\u00f3ria, eis que a servid\u00e3o \u00e9 n\u00e3o aparente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Diante do falecimento de Laurentino, a servid\u00e3o que havia sido institu\u00edda automaticamente se extinguiu.",
                 "pmi": [
                     0.027933220605978387,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Diante do falecimento de Laurentino, a servid\u00e3o que havia sido institu\u00edda automaticamente se extinguiu."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A servid\u00e3o de vista pode ser considerada aparente quando houver algum tipo de aviso sobre sua exist\u00eancia.",
                 "pmi": [
                     0.01966864640781383,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A servid\u00e3o de vista pode ser considerada aparente quando houver algum tipo de aviso sobre sua exist\u00eancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Janu\u00e1rio pode ajuizar uma a\u00e7\u00e3o possess\u00f3ria, provando a exist\u00eancia da servid\u00e3o com base no t\u00edtulo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Janu\u00e1rio pode ajuizar uma a\u00e7\u00e3o possess\u00f3ria, provando a exist\u00eancia da servid\u00e3o com base no t\u00edtulo."
+                ]
             }
         ],
         "valid": true

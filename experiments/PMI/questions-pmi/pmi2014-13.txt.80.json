@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Justi\u00e7a Comum Federal, dado que o avulso n\u00e3o tem v\u00ednculo de emprego com os r\u00e9us e a mat\u00e9ria portu\u00e1ria \u00e9 de \u00e2mbito nacional.",
                 "pmi": [
                     0.01956633198251219,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Justi\u00e7a Comum Federal, dado que o avulso n\u00e3o tem v\u00ednculo de emprego com os r\u00e9us e a mat\u00e9ria portu\u00e1ria \u00e9 de \u00e2mbito nacional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Justi\u00e7a do Trabalho.",
                 "pmi": [
                     0.04974402817143717,
                     0,
                     0,
                     0
-                ],
-                "text": "Justi\u00e7a do Trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Justi\u00e7a Comum Estadual, pela aus\u00eancia de rela\u00e7\u00e3o empregat\u00edcia, sendo o avulso uma esp\u00e9cie de trabalhador aut\u00f4nomo.",
                 "pmi": [
                     0.0483006543860701,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Justi\u00e7a Comum Estadual, pela aus\u00eancia de rela\u00e7\u00e3o empregat\u00edcia, sendo o avulso uma esp\u00e9cie de trabalhador aut\u00f4nomo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Poder\u00e1 optar pela Justi\u00e7a Comum Estadual ou Justi\u00e7a do Trabalho, caso pretenda o reconhecimento de v\u00ednculo de emprego.",
                 "pmi": [
                     0.027868004007812003,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e1 optar pela Justi\u00e7a Comum Estadual ou Justi\u00e7a do Trabalho, caso pretenda o reconhecimento de v\u00ednculo de emprego."
+                ]
             }
         ],
         "valid": true

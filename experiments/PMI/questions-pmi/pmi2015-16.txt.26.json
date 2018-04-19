@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "determinar\u00e1, primeiramente, a imputa\u00e7\u00e3o do pagamento \u00e0 taxa e, posteriormente, ao imposto.",
                 "pmi": [
                     0.08359331707709997,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "determinar\u00e1, primeiramente, a imputa\u00e7\u00e3o do pagamento \u00e0 taxa e, posteriormente, ao imposto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "determinar\u00e1 o pagamento na ordem decrescente dos prazos prescricionais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "determinar\u00e1 o pagamento na ordem decrescente dos prazos prescricionais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "determinar\u00e1 o pagamento na ordem crescente dos montantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "determinar\u00e1 o pagamento na ordem crescente dos montantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "determinar\u00e1, primeiramente, a imputa\u00e7\u00e3o do pagamento ao imposto e, posteriormente, \u00e0 taxa.",
                 "pmi": [
                     0.08359331707709997,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "determinar\u00e1, primeiramente, a imputa\u00e7\u00e3o do pagamento ao imposto e, posteriormente, \u00e0 taxa."
+                ]
             }
         ],
         "valid": true

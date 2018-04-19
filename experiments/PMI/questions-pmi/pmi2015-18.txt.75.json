@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A informa\u00e7\u00e3o do empregador foi correta nos tr\u00eas casos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A informa\u00e7\u00e3o do empregador foi correta nos tr\u00eas casos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Apenas no caso de Jorge o empregador est\u00e1 correto.",
                 "pmi": [
                     -0.012083148692209859,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas no caso de Jorge o empregador est\u00e1 correto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O empregador agiu corretamente nos casos de Jorge e de Luiz, mas n\u00e3o no de Pedro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregador agiu corretamente nos casos de Jorge e de Luiz, mas n\u00e3o no de Pedro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O empregador est\u00e1 errado nas tr\u00eas hip\u00f3teses.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregador est\u00e1 errado nas tr\u00eas hip\u00f3teses."
+                ]
             }
         ],
         "valid": true

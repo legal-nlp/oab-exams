@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "decorre somente se o advogado exige o valor para aplica\u00e7\u00e3o il\u00edcita.",
                 "pmi": [
                     0.004315568915985079,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "decorre somente se o advogado exige o valor para aplica\u00e7\u00e3o il\u00edcita."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "surge diante do recebimento para aplica\u00e7\u00e3o il\u00edcita.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "surge diante do recebimento para aplica\u00e7\u00e3o il\u00edcita."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "inocorre, pois se trata de mero il\u00edcito moral.",
                 "pmi": [
                     0.016415300536808876,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inocorre, pois se trata de mero il\u00edcito moral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00e9 descaracterizada por aus\u00eancia de previs\u00e3o legal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 descaracterizada por aus\u00eancia de previs\u00e3o legal."
+                ]
             }
         ],
         "valid": true

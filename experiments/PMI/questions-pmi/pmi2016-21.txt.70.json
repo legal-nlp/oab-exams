@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Rita ter\u00e1 garantia no emprego at\u00e9 5 meses ap\u00f3s o parto, enquanto Tereza n\u00e3o.",
                 "pmi": [
                     -0.021908921357917867,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Rita ter\u00e1 garantia no emprego at\u00e9 5 meses ap\u00f3s o parto, enquanto Tereza n\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ambas sair\u00e3o em licen\u00e7a maternidade, mas Tereza, por ser m\u00e3e adotiva, ter\u00e1 per\u00edodo um pouco menor, de 60 dias.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambas sair\u00e3o em licen\u00e7a maternidade, mas Tereza, por ser m\u00e3e adotiva, ter\u00e1 per\u00edodo um pouco menor, de 60 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ambas ter\u00e3o estabilidade de at\u00e9 5 meses, sendo que, para Rita, o per\u00edodo ser\u00e1 contado do parto e para Tereza, do momento da ado\u00e7\u00e3o.",
                 "pmi": [
                     -0.0038118059014965603,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambas ter\u00e3o estabilidade de at\u00e9 5 meses, sendo que, para Rita, o per\u00edodo ser\u00e1 contado do parto e para Tereza, do momento da ado\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ambas ter\u00e3o o sal\u00e1rio pago diretamente pelo empregador, enquanto durar a licen\u00e7a maternidade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambas ter\u00e3o o sal\u00e1rio pago diretamente pelo empregador, enquanto durar a licen\u00e7a maternidade."
+                ]
             }
         ],
         "valid": true

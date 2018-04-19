@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os im\u00f3veis situados no Recreio dos Bandeirantes e em Santa Teresa s\u00e3o bens comuns e, por isso, dever\u00e3o ser partilhados em virtude da separa\u00e7\u00e3o do casal.",
                 "pmi": [
                     0.030381957626872014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os im\u00f3veis situados no Recreio dos Bandeirantes e em Santa Teresa s\u00e3o bens comuns e, por isso, dever\u00e3o ser partilhados em virtude da separa\u00e7\u00e3o do casal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Apenas o im\u00f3vel situado no Recreio dos Bandeirantes deve ser partilhado, sendo o im\u00f3vel situado em Santa Teresa bem particular de Roberto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas o im\u00f3vel situado no Recreio dos Bandeirantes deve ser partilhado, sendo o im\u00f3vel situado em Santa Teresa bem particular de Roberto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Apenas o im\u00f3vel situado em Santa Teresa deve ser partilhado, sendo o im\u00f3vel situado no Recreio dos Bandeirantes exclu\u00eddo da comunh\u00e3o, por ter sido adquirido com o produto de bem advindo de fato eventual.",
                 "pmi": [
                     0.009437468198701596,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas o im\u00f3vel situado em Santa Teresa deve ser partilhado, sendo o im\u00f3vel situado no Recreio dos Bandeirantes exclu\u00eddo da comunh\u00e3o, por ter sido adquirido com o produto de bem advindo de fato eventual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Nenhum dos dois im\u00f3veis dever\u00e1 ser partilhado, tendo em vista que ambos s\u00e3o bens particulares de Roberto.",
                 "pmi": [
                     0.07476881793773273,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nenhum dos dois im\u00f3veis dever\u00e1 ser partilhado, tendo em vista que ambos s\u00e3o bens particulares de Roberto."
+                ]
             }
         ],
         "valid": true

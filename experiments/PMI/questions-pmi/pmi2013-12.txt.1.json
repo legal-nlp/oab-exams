@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O advogado Jo\u00e3o n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois apenas requereu a juntada de procura\u00e7\u00e3o e realizou carga dos autos do processo, sem apresentar peti\u00e7\u00e3o com conte\u00fado relevante para o deslinde da controv\u00e9rsia.",
                 "pmi": [
                     0.016000733228490757,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado Jo\u00e3o n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois apenas requereu a juntada de procura\u00e7\u00e3o e realizou carga dos autos do processo, sem apresentar peti\u00e7\u00e3o com conte\u00fado relevante para o deslinde da controv\u00e9rsia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O advogado Jo\u00e3o cometeu infra\u00e7\u00e3o disciplinar, n\u00e3o por ter requerido a juntada de procura\u00e7\u00e3o nos autos, mas sim por ter realizado carga dos autos do processo em que j\u00e1 havia advogado constitu\u00eddo.",
                 "pmi": [
                     0.022984416691008366,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado Jo\u00e3o cometeu infra\u00e7\u00e3o disciplinar, n\u00e3o por ter requerido a juntada de procura\u00e7\u00e3o nos autos, mas sim por ter realizado carga dos autos do processo em que j\u00e1 havia advogado constitu\u00eddo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado Jo\u00e3o n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois, ao requerer a juntada da procura\u00e7\u00e3o nos autos, j\u00e1 havia celebrado contrato com Jos\u00e9.",
                 "pmi": [
                     0.02234535569401948,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado Jo\u00e3o n\u00e3o cometeu infra\u00e7\u00e3o disciplinar, pois, ao requerer a juntada da procura\u00e7\u00e3o nos autos, j\u00e1 havia celebrado contrato com Jos\u00e9."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O advogado Jo\u00e3o cometeu infra\u00e7\u00e3o disciplinar prevista no C\u00f3digo de \u00c9tica e Disciplina da OAB, pois n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento do mesmo.",
                 "pmi": [
                     0.003196232981314342,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado Jo\u00e3o cometeu infra\u00e7\u00e3o disciplinar prevista no C\u00f3digo de \u00c9tica e Disciplina da OAB, pois n\u00e3o pode aceitar procura\u00e7\u00e3o de quem j\u00e1 tenha patrono constitu\u00eddo, sem pr\u00e9vio conhecimento do mesmo."
+                ]
             }
         ],
         "valid": true

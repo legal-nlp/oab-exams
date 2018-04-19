@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Formar uma base de apoio que contasse com a maioria simples dos membros de uma das casas legislativas, para apresentar, na mesma sess\u00e3o legislativa, projeto de lei de id\u00eantico teor.",
                 "pmi": [
                     0.08017323505990696,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Formar uma base de apoio que contasse com a maioria simples dos membros de uma das casas legislativas, para apresentar, na mesma sess\u00e3o legislativa, projeto de lei de id\u00eantico teor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Recorrer ao Poder Judici\u00e1rio contra o ato do Presidente da Rep\u00fablica, que, valendo-se de instrumento arbitr\u00e1rio e antidemocr\u00e1tico (o veto), impediu o Legislativo de exercer sua fun\u00e7\u00e3o t\u00edpica.",
                 "pmi": [
                     0.04636889376308962,
                     0.01422847124713574,
                     0.0,
                     0.0
-                ],
-                "text": "Recorrer ao Poder Judici\u00e1rio contra o ato do Presidente da Rep\u00fablica, que, valendo-se de instrumento arbitr\u00e1rio e antidemocr\u00e1tico (o veto), impediu o Legislativo de exercer sua fun\u00e7\u00e3o t\u00edpica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Formar maioria absoluta no Congresso Nacional (senadores e deputados federais) que, em sess\u00e3o conjunta, votasse pela derrubada do veto imposto pelo Presidente da Rep\u00fablica.",
                 "pmi": [
                     0.06628971279918609,
                     0.018001354218238196,
                     0.0,
                     0.0
-                ],
-                "text": "Formar maioria absoluta no Congresso Nacional (senadores e deputados federais) que, em sess\u00e3o conjunta, votasse pela derrubada do veto imposto pelo Presidente da Rep\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Entender-se pol\u00edticamente com o Presidente da Rep\u00fablica, de maneira que este \u00faltimo viesse a desistir do veto por interm\u00e9dio da figura jur\u00eddica da retrata\u00e7\u00e3o de veto presidencial.",
                 "pmi": [
                     0.026131095526229504,
                     0.015322969035376952,
                     0.0,
                     0.0
-                ],
-                "text": "Entender-se pol\u00edticamente com o Presidente da Rep\u00fablica, de maneira que este \u00faltimo viesse a desistir do veto por interm\u00e9dio da figura jur\u00eddica da retrata\u00e7\u00e3o de veto presidencial."
+                ]
             }
         ],
         "valid": true

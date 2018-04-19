@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A informa\u00e7\u00e3o foi clara por estar escrita, embora mencionada superficialmente pela operadora de telemarketing, e o per\u00edodo de car\u00eancia \u00e9 l\u00edcito, mesmo nas rela\u00e7\u00f5es de consumo.",
                 "pmi": [
                     0.006417360055901331,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A informa\u00e7\u00e3o foi clara por estar escrita, embora mencionada superficialmente pela operadora de telemarketing, e o per\u00edodo de car\u00eancia \u00e9 l\u00edcito, mesmo nas rela\u00e7\u00f5es de consumo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A fixa\u00e7\u00e3o do per\u00edodo de car\u00eancia \u00e9 l\u00edcita, mesmo nas rela\u00e7\u00f5es de consumo. Todavia, a informa\u00e7\u00e3o prestada quanto ao prazo de car\u00eancia, embora descrita no contrato, n\u00e3o foi clara o suficiente, evidenciando, portanto, a vulnerabilidade do consumidor.",
                 "pmi": [
                     0.013282517959936993,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A fixa\u00e7\u00e3o do per\u00edodo de car\u00eancia \u00e9 l\u00edcita, mesmo nas rela\u00e7\u00f5es de consumo. Todavia, a informa\u00e7\u00e3o prestada quanto ao prazo de car\u00eancia, embora descrita no contrato, n\u00e3o foi clara o suficiente, evidenciando, portanto, a vulnerabilidade do consumidor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A falta de informa\u00e7\u00e3o e o equ\u00edvoco na imposi\u00e7\u00e3o de prazo de car\u00eancia n\u00e3o s\u00e3o admitidas nas rela\u00e7\u00f5es de consumo, e sim nas rela\u00e7\u00f5es genuinamente civilistas.",
                 "pmi": [
                     0.0037358273609438613,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A falta de informa\u00e7\u00e3o e o equ\u00edvoco na imposi\u00e7\u00e3o de prazo de car\u00eancia n\u00e3o s\u00e3o admitidas nas rela\u00e7\u00f5es de consumo, e sim nas rela\u00e7\u00f5es genuinamente civilistas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O dever de informa\u00e7\u00e3o do consumidor foi respeitado, na medida em que estava descrito no contrato, sendo o per\u00edodo de car\u00eancia instituto il\u00edcito, por se tratar de rela\u00e7\u00e3o de consumo.",
                 "pmi": [
                     0.015853047279913372,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O dever de informa\u00e7\u00e3o do consumidor foi respeitado, na medida em que estava descrito no contrato, sendo o per\u00edodo de car\u00eancia instituto il\u00edcito, por se tratar de rela\u00e7\u00e3o de consumo."
+                ]
             }
         ],
         "valid": true

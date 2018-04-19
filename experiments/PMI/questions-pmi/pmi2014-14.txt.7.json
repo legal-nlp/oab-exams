@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Marcos teve sua prerrogativa profissional violada, pois \u00e9 direito do advogado e do estagi\u00e1rio inscrito na OAB dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada.",
                 "pmi": [
                     0.004205795983985424,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos teve sua prerrogativa profissional violada, pois \u00e9 direito do advogado e do estagi\u00e1rio inscrito na OAB dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas deve dirigir-se diretamente ao magistrado quando os advogados que atuam na causa estiverem impossibilitados de faz\u00ea-lo, sendo a atua\u00e7\u00e3o do estagi\u00e1rio subsidi\u00e1ria em rela\u00e7\u00e3o \u00e0 atua\u00e7\u00e3o do advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas deve dirigir-se diretamente ao magistrado quando os advogados que atuam na causa estiverem impossibilitados de faz\u00ea-lo, sendo a atua\u00e7\u00e3o do estagi\u00e1rio subsidi\u00e1ria em rela\u00e7\u00e3o \u00e0 atua\u00e7\u00e3o do advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas o advogado tem direito de dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada. Ao contr\u00e1rio, Marcos praticou ato excedente \u00e0 sua habilita\u00e7\u00e3o e, em raz\u00e3o disso, ficar\u00e1 impedido, posteriormente, de obter sua inscri\u00e7\u00e3o definitiva como advogado.",
                 "pmi": [
                     0.010359129001659325,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas o advogado tem direito de dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada. Ao contr\u00e1rio, Marcos praticou ato excedente \u00e0 sua habilita\u00e7\u00e3o e, em raz\u00e3o disso, ficar\u00e1 impedido, posteriormente, de obter sua inscri\u00e7\u00e3o definitiva como advogado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas o advogado tem direito de dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada. Ao contr\u00e1rio, Marcos praticou ato excedente \u00e0 sua habilita\u00e7\u00e3o e deve ser punido com pena de censura.",
                 "pmi": [
                     0.017037915518041048,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos n\u00e3o teve sua prerrogativa profissional violada, pois apenas o advogado tem direito de dirigir-se diretamente ao magistrado nas salas e gabinetes de trabalho, independentemente de hor\u00e1rio previamente marcado, observando-se a ordem de chegada. Ao contr\u00e1rio, Marcos praticou ato excedente \u00e0 sua habilita\u00e7\u00e3o e deve ser punido com pena de censura."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos da investiga\u00e7\u00e3o, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, por\u00e9m, a possibilidade de emprego do telefone celular para tomada de c\u00f3pias fica a crit\u00e9rio da autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade absoluta do ato e de todos os elementos investigat\u00f3rios dele decorrentes.",
                 "pmi": [
                     0.055173669988134645,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos da investiga\u00e7\u00e3o, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, por\u00e9m, a possibilidade de emprego do telefone celular para tomada de c\u00f3pias fica a crit\u00e9rio da autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade absoluta do ato e de todos os elementos investigat\u00f3rios dele decorrentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, bem como empregue o telefone celular para tomada de c\u00f3pias digitais, o que n\u00e3o pode ser obstado pela autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade absoluta do ato e de todos os elementos investigat\u00f3rios dele decorrentes.",
                 "pmi": [
                     0.06018945816887416,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, bem como empregue o telefone celular para tomada de c\u00f3pias digitais, o que n\u00e3o pode ser obstado pela autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade absoluta do ato e de todos os elementos investigat\u00f3rios dele decorrentes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, bem como empregue o telefone celular para tomada de c\u00f3pias digitais, o que n\u00e3o pode ser obstado pela autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade relativa apenas do ato em que embara\u00e7ava a sua presen\u00e7a.",
                 "pmi": [
                     0.06207037873665148,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 direito de Simone, e de seu cliente Adolfo, que a advogada examine os autos, no que se refere aos atos j\u00e1 conclu\u00eddos e documentados, bem como empregue o telefone celular para tomada de c\u00f3pias digitais, o que n\u00e3o pode ser obstado pela autoridade respons\u00e1vel pela investiga\u00e7\u00e3o. Tamb\u00e9m \u00e9 direito de ambos que Simone esteja presente no depoimento de Adolfo, sob pena de nulidade relativa apenas do ato em que embara\u00e7ava a sua presen\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Considerando cuidar-se de mera investiga\u00e7\u00e3o preliminar, Simone n\u00e3o possui o direito de examinar os atos j\u00e1 conclu\u00eddos e documentados ou tomar c\u00f3pias. Do mesmo modo, por n\u00e3o se tratar de interrogat\u00f3rio formal, mas mera investiga\u00e7\u00e3o preliminar, sujeita \u00e0 disciplina da legisla\u00e7\u00e3o castrense, n\u00e3o configura nulidade se obstada a presen\u00e7a de Simone no depoimento de Adolfo.",
                 "pmi": [
                     0.020839845842385133,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Considerando cuidar-se de mera investiga\u00e7\u00e3o preliminar, Simone n\u00e3o possui o direito de examinar os atos j\u00e1 conclu\u00eddos e documentados ou tomar c\u00f3pias. Do mesmo modo, por n\u00e3o se tratar de interrogat\u00f3rio formal, mas mera investiga\u00e7\u00e3o preliminar, sujeita \u00e0 disciplina da legisla\u00e7\u00e3o castrense, n\u00e3o configura nulidade se obstada a presen\u00e7a de Simone no depoimento de Adolfo."
+                ]
             }
         ],
         "valid": true

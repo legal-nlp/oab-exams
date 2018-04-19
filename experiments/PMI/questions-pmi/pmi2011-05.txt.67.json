@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "inexist\u00eancia do ato.",
                 "pmi": [
                     0.10589629484769965,
                     0.0,
                     0,
                     0
-                ],
-                "text": "inexist\u00eancia do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "nulidade relativa do ato.",
                 "pmi": [
                     0.07059752989846643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "nulidade relativa do ato."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "nulidade absoluta do ato.",
                 "pmi": [
                     0.07059752989846643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "nulidade absoluta do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "irregularidade do ato.",
                 "pmi": [
                     0.10589629484769965,
                     0.0,
                     0,
                     0
-                ],
-                "text": "irregularidade do ato."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es, quando lhes for comum o objeto ou a causa de pedir.",
                 "pmi": [
                     0.06968844466496553,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es, quando lhes for comum o objeto ou a causa de pedir."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 identidade quanto \u00e0s partes e \u00e0 causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras.",
                 "pmi": [
                     0.042473663978090534,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 identidade quanto \u00e0s partes e \u00e0 causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 entre elas identidade de partes, de causa de pedir e de pedido e todas tramitam em diferentes ju\u00edzos simultaneamente.",
                 "pmi": [
                     0.035394719981742116,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando h\u00e1 entre elas identidade de partes, de causa de pedir e de pedido e todas tramitam em diferentes ju\u00edzos simultaneamente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando possuem pedidos que, somados, n\u00e3o ultrapassam o valor de sessenta sal\u00e1rios m\u00ednimos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fen\u00f4meno que ocorre entre duas ou mais a\u00e7\u00f5es quando possuem pedidos que, somados, n\u00e3o ultrapassam o valor de sessenta sal\u00e1rios m\u00ednimos."
+                ]
             }
         ],
         "valid": true

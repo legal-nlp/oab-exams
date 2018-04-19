@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o aceite no cheque \u00e9 dado pelo banco ou institui\u00e7\u00e3o financeira a ele equivalente, devendo ser firmado no verso do t\u00edtulo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o aceite no cheque \u00e9 dado pelo banco ou institui\u00e7\u00e3o financeira a ele equivalente, devendo ser firmado no verso do t\u00edtulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a duplicata, quando de presta\u00e7\u00e3o de servi\u00e7os, pode ser emitida com vencimento a tempo certo da vista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a duplicata, quando de presta\u00e7\u00e3o de servi\u00e7os, pode ser emitida com vencimento a tempo certo da vista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o protesto \u00e9 necess\u00e1rio para garantir o direito de regresso contra o(s) endossante(s) e o(s) avalista(s) do aceitante de uma letra de c\u00e2mbio.",
                 "pmi": [
                     -0.28172800800681813,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o protesto \u00e9 necess\u00e1rio para garantir o direito de regresso contra o(s) endossante(s) e o(s) avalista(s) do aceitante de uma letra de c\u00e2mbio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "o aval dado em uma nota promiss\u00f3ria pode ser parcial, ainda que sucessivo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o aval dado em uma nota promiss\u00f3ria pode ser parcial, ainda que sucessivo."
+                ]
             }
         ],
         "valid": true

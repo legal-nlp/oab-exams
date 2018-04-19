@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal como advogado para o Conselho Seccional do Rio de Janeiro.",
                 "pmi": [
                     0.01126806968835176,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal como advogado para o Conselho Seccional do Rio de Janeiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Seccional do Rio de Janeiro.",
                 "pmi": [
                     0.012821426034175186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Seccional do Rio de Janeiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Federal da OAB.",
                 "pmi": [
                     0.01387938281232822,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Estatuto da Advocacia e da OAB imp\u00f5e que Gennaro requeira a inscri\u00e7\u00e3o suplementar como advogado junto ao Conselho Federal da OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O Estatuto da Advocacia e da OAB n\u00e3o imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal ou requeira inscri\u00e7\u00e3o suplementar.",
                 "pmi": [
                     0.012272070495634115,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Estatuto da Advocacia e da OAB n\u00e3o imp\u00f5e que Gennaro requeira a transfer\u00eancia de sua inscri\u00e7\u00e3o principal ou requeira inscri\u00e7\u00e3o suplementar."
+                ]
             }
         ],
         "valid": true

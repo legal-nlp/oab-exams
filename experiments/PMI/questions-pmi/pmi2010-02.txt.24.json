@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Rubens.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Rubens."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Catarina.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Catarina."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ana.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Ana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A heran\u00e7a ser\u00e1 vacante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "A heran\u00e7a ser\u00e1 vacante."
+                ]
             }
         ],
         "valid": true

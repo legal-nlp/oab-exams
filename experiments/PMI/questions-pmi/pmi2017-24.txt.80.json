@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "suscitar a preclus\u00e3o do direito aos embargos \u00e0 execu\u00e7\u00e3o e expor as raz\u00f5es pelas quais entende pela validade dos c\u00e1lculos do ju\u00edzo.",
                 "pmi": [
                     0.03735146194153619,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "suscitar a preclus\u00e3o do direito aos embargos \u00e0 execu\u00e7\u00e3o e expor as raz\u00f5es pelas quais entende pela validade dos c\u00e1lculos do ju\u00edzo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "suscitar apenas que a conta est\u00e1 correta.",
                 "pmi": [
                     0.09380304094189007,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "suscitar apenas que a conta est\u00e1 correta."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "suscitar a intempestividade dos embargos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "suscitar a intempestividade dos embargos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "suscitar apenas que a conta est\u00e1 correta e requerer o levantamento dos valores incontroversos.",
                 "pmi": [
                     0.04020130326081003,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "suscitar apenas que a conta est\u00e1 correta e requerer o levantamento dos valores incontroversos."
+                ]
             }
         ],
         "valid": true

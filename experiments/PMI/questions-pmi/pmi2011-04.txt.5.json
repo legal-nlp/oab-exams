@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o estagi\u00e1rio n\u00e3o sofre san\u00e7\u00f5es disciplinares.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o estagi\u00e1rio n\u00e3o sofre san\u00e7\u00f5es disciplinares."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o advogado respons\u00e1vel pelo estagi\u00e1rio \u00e9 o destinat\u00e1rio das san\u00e7\u00f5es nesse caso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado respons\u00e1vel pelo estagi\u00e1rio \u00e9 o destinat\u00e1rio das san\u00e7\u00f5es nesse caso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "n\u00e3o h\u00e1 diferen\u00e7a na atua\u00e7\u00e3o do estagi\u00e1rio e do advogado para efeito de san\u00e7\u00f5es disciplinares.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o h\u00e1 diferen\u00e7a na atua\u00e7\u00e3o do estagi\u00e1rio e do advogado para efeito de san\u00e7\u00f5es disciplinares."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "no caso em tela, n\u00e3o haver\u00e1 qualquer san\u00e7\u00e3o nem ao advogado nem ao estagi\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "no caso em tela, n\u00e3o haver\u00e1 qualquer san\u00e7\u00e3o nem ao advogado nem ao estagi\u00e1rio."
+                ]
             }
         ],
         "valid": true

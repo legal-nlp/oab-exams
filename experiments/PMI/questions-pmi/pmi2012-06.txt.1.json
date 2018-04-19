@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a defesa dos interesses dos familiares dos dirigentes da empresa est\u00e1 \u00ednsita na atua\u00e7\u00e3o profissional do advogado empregado.",
                 "pmi": [
                     0.06174019149113136,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a defesa dos interesses dos familiares dos dirigentes da empresa est\u00e1 \u00ednsita na atua\u00e7\u00e3o profissional do advogado empregado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a atua\u00e7\u00e3o do advogado empregado nesses casos pode ocorrer voluntariamente, sem rela\u00e7\u00e3o com o seu emprego.",
                 "pmi": [
                     0.04390048975613023,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a atua\u00e7\u00e3o do advogado empregado nesses casos pode ocorrer voluntariamente, sem rela\u00e7\u00e3o com o seu emprego."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a rela\u00e7\u00e3o de emprego retira do advogado sua independ\u00eancia profissional, pois deve defender os interesses do patr\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a rela\u00e7\u00e3o de emprego retira do advogado sua independ\u00eancia profissional, pois deve defender os interesses do patr\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "em casos de dedica\u00e7\u00e3o exclusiva, a jornada de trabalho m\u00e1xima do advogado ser\u00e1 de quatro horas di\u00e1rias e de vinte horas semanais.",
                 "pmi": [
                     0.03841292853661395,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em casos de dedica\u00e7\u00e3o exclusiva, a jornada de trabalho m\u00e1xima do advogado ser\u00e1 de quatro horas di\u00e1rias e de vinte horas semanais."
+                ]
             }
         ],
         "valid": true

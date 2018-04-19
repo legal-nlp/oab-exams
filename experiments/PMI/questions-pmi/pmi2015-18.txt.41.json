@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido pelo comprador. Contudo, \u00e9 devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O vendedor perde o sinal pago para o comprador, por\u00e9m nada mais lhe pode ser exigido pelo comprador. Contudo, \u00e9 devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.002758049385382805,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, n\u00e3o sendo devida a comiss\u00e3o do corretor, j\u00e1 que o neg\u00f3cio foi desfeito antes de aperfei\u00e7oar-se."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, sendo devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se.",
                 "pmi": [
                     0.0026267137003645764,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O vendedor perde o sinal pago e o comprador pode exigir uma indeniza\u00e7\u00e3o pelos preju\u00edzos a que a desist\u00eancia deu causa, se o seu valor superar o do sinal dado, sendo devida a comiss\u00e3o do corretor, n\u00e3o obstante o desfazimento do neg\u00f3cio antes de aperfei\u00e7oar-se."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "progressivo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "progressivo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "proporcional.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "proporcional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "indireto.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "indireto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "pessoal.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "pessoal."
+                ]
             }
         ],
         "valid": true

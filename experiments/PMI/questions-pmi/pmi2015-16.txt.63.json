@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o reconhecimento da forma tentada do roubo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reconhecimento da forma tentada do roubo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a aplica\u00e7\u00e3o do sursis da pena.",
                 "pmi": [
                     -0.001120019033344157,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a aplica\u00e7\u00e3o do sursis da pena."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o reconhecimento da atipicidade comportamental por for\u00e7a da insignific\u00e2ncia.",
                 "pmi": [
                     -0.007780907088368195,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reconhecimento da atipicidade comportamental por for\u00e7a da insignific\u00e2ncia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a redu\u00e7\u00e3o da pena abaixo do m\u00ednimo legal, em raz\u00e3o das atenuantes da confiss\u00e3o espont\u00e2nea e da senilidade.",
                 "pmi": [
                     -0.001469975965065177,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a redu\u00e7\u00e3o da pena abaixo do m\u00ednimo legal, em raz\u00e3o das atenuantes da confiss\u00e3o espont\u00e2nea e da senilidade."
+                ]
             }
         ],
         "valid": true

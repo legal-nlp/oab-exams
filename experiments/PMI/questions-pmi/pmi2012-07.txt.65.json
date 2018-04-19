@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia;",
                 "pmi": [
                     0.1476108789636314,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia;"
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tribunal de Justi\u00e7a;",
                 "pmi": [
                     0.24891790669010266,
                     0.2029101979816875,
                     0,
                     0
-                ],
-                "text": "Tribunal de Justi\u00e7a;"
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Tribunal Regional Federal;",
                 "pmi": [
                     0.26185959367308786,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tribunal Regional Federal;"
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia.",
                 "pmi": [
                     0.16966262244840605,
                     0.08229879442816462,
                     0.0,
                     0.0
-                ],
-                "text": "Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia."
+                ]
             }
         ],
         "valid": true

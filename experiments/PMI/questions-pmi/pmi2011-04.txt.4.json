@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "mesmo com autoriza\u00e7\u00e3o, fatos considerados confidenciais na rela\u00e7\u00e3o cliente-advogado n\u00e3o podem ser divulgados judicialmente.",
                 "pmi": [
                     0.02851460219376991,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mesmo com autoriza\u00e7\u00e3o, fatos considerados confidenciais na rela\u00e7\u00e3o cliente-advogado n\u00e3o podem ser divulgados judicialmente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "as confid\u00eancias epistolares s\u00e3o protegidas pela imunidade absoluta quanto \u00e0 sua publicidade.",
                 "pmi": [
                     0.03756226208367389,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as confid\u00eancias epistolares s\u00e3o protegidas pela imunidade absoluta quanto \u00e0 sua publicidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "essa divulga\u00e7\u00e3o depende de autoriza\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.1095347030477124,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "essa divulga\u00e7\u00e3o depende de autoriza\u00e7\u00e3o judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "ao advogado \u00e9 permitida a divulga\u00e7\u00e3o de confid\u00eancias, com autoriza\u00e7\u00e3o do cliente.",
                 "pmi": [
                     0.03237643161326258,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao advogado \u00e9 permitida a divulga\u00e7\u00e3o de confid\u00eancias, com autoriza\u00e7\u00e3o do cliente."
+                ]
             }
         ],
         "valid": true

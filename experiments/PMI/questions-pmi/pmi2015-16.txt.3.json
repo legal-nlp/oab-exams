@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a\u00e7\u00e3o direta de inconstitucionalidade em face de leis ou atos normativos federais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a\u00e7\u00e3o direta de inconstitucionalidade em face de leis ou atos normativos federais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "queixa-crime contra quem tenha ofendido os advogados inscritos na respectiva Seccional.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "queixa-crime contra quem tenha ofendido os advogados inscritos na respectiva Seccional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "mandado de seguran\u00e7a individual em favor dos advogados inscritos na respectiva Seccional, independentemente de vincula\u00e7\u00e3o com o exerc\u00edcio da profiss\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mandado de seguran\u00e7a individual em favor dos advogados inscritos na respectiva Seccional, independentemente de vincula\u00e7\u00e3o com o exerc\u00edcio da profiss\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "mandado de seguran\u00e7a coletivo, em defesa de seus inscritos, independentemente de autoriza\u00e7\u00e3o pessoal dos interessados.",
                 "pmi": [
                     0.085644334581264,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mandado de seguran\u00e7a coletivo, em defesa de seus inscritos, independentemente de autoriza\u00e7\u00e3o pessoal dos interessados."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O advogado equivocou-se. Trata-se de tutela cautelar e n\u00e3o antecipada, de modo que o pedido principal ter\u00e1 de ser formulado pela autora no prazo de 30 (trinta) dias nos mesmos autos.",
                 "pmi": [
                     0.03172838098713276,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado equivocou-se. Trata-se de tutela cautelar e n\u00e3o antecipada, de modo que o pedido principal ter\u00e1 de ser formulado pela autora no prazo de 30 (trinta) dias nos mesmos autos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O advogado equivocou-se. A urg\u00eancia \u00e9 contempor\u00e2nea \u00e0 propositura da a\u00e7\u00e3o, pelo que a tutela antecipada pode ser requerida em car\u00e1ter antecedente, com a possibilidade de posterior aditamento \u00e0 peti\u00e7\u00e3o inicial.",
                 "pmi": [
                     0.025311276007995005,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado equivocou-se. A urg\u00eancia \u00e9 contempor\u00e2nea \u00e0 propositura da a\u00e7\u00e3o, pelo que a tutela antecipada pode ser requerida em car\u00e1ter antecedente, com a possibilidade de posterior aditamento \u00e0 peti\u00e7\u00e3o inicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado agiu corretamente. A peti\u00e7\u00e3o inicial \u00e9 o momento correto para a apresenta\u00e7\u00e3o de documentos.",
                 "pmi": [
                     0.02268961751838401,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado agiu corretamente. A peti\u00e7\u00e3o inicial \u00e9 o momento correto para a apresenta\u00e7\u00e3o de documentos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado agiu corretamente. Somente a tutela cautelar e n\u00e3o a antecipada pode ser requerida em car\u00e1ter antecedente.",
                 "pmi": [
                     0.020168548905230232,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado agiu corretamente. Somente a tutela cautelar e n\u00e3o a antecipada pode ser requerida em car\u00e1ter antecedente."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O apresentante, diante da devolu\u00e7\u00e3o do cheque, dever\u00e1 levar o t\u00edtulo a protesto por falta de pagamento, requisito essencial \u00e0 propositura da a\u00e7\u00e3o executiva em face do endossante.",
                 "pmi": [
                     -0.023810425320222414,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O apresentante, diante da devolu\u00e7\u00e3o do cheque, dever\u00e1 levar o t\u00edtulo a protesto por falta de pagamento, requisito essencial \u00e0 propositura da a\u00e7\u00e3o executiva em face do endossante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O emitente do cheque, durante ou ap\u00f3s o prazo de apresenta\u00e7\u00e3o, poder\u00e1 fazer sustar seu pagamento mediante aviso escrito dirigido ao sacado, fundado em relevante raz\u00e3o de direito.",
                 "pmi": [
                     -0.0047298157724017225,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O emitente do cheque, durante ou ap\u00f3s o prazo de apresenta\u00e7\u00e3o, poder\u00e1 fazer sustar seu pagamento mediante aviso escrito dirigido ao sacado, fundado em relevante raz\u00e3o de direito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O prazo de apresenta\u00e7\u00e3o do cheque ao sacado para pagamento \u00e9 de 30 (trinta) dias, contados da data de emiss\u00e3o, quando o lugar de emiss\u00e3o for o mesmo do de pagamento.",
                 "pmi": [
                     0.0182382813705103,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O prazo de apresenta\u00e7\u00e3o do cheque ao sacado para pagamento \u00e9 de 30 (trinta) dias, contados da data de emiss\u00e3o, quando o lugar de emiss\u00e3o for o mesmo do de pagamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O portador, apresentado o cheque e n\u00e3o realizado seu pagamento, dever\u00e1 promover a a\u00e7\u00e3o executiva em face do emitente em at\u00e9 6 (seis) meses ap\u00f3s a expira\u00e7\u00e3o do prazo de apresenta\u00e7\u00e3o.",
                 "pmi": [
                     -0.03743470220282485,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O portador, apresentado o cheque e n\u00e3o realizado seu pagamento, dever\u00e1 promover a a\u00e7\u00e3o executiva em face do emitente em at\u00e9 6 (seis) meses ap\u00f3s a expira\u00e7\u00e3o do prazo de apresenta\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

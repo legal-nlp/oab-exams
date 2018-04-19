@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Busca e Apreens\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Busca e Apreens\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Arresto.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Arresto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Sequestro.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Sequestro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Hipoteca Legal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Hipoteca Legal."
+                ]
             }
         ],
         "valid": true

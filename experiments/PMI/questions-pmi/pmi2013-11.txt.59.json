@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "em branco homog\u00eanea.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "em branco homog\u00eanea."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "em branco heterog\u00eanea.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "em branco heterog\u00eanea."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "incompleta (ou secundariamente remetida).",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "incompleta (ou secundariamente remetida)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "em branco inversa (ou ao avesso).",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em branco inversa (ou ao avesso)."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "a presta\u00e7\u00e3o de contas \u00e9 um dos deveres do advogado.",
                 "pmi": [
                     0.020887134334456627,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a presta\u00e7\u00e3o de contas \u00e9 um dos deveres do advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "enquanto o cliente n\u00e3o apresentar postula\u00e7\u00e3o judicial, a presta\u00e7\u00e3o de contas \u00e9 inexig\u00edvel.",
                 "pmi": [
                     0.006816984421973869,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "enquanto o cliente n\u00e3o apresentar postula\u00e7\u00e3o judicial, a presta\u00e7\u00e3o de contas \u00e9 inexig\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o advogado, exercendo mandato, n\u00e3o necessita prestar contas.",
                 "pmi": [
                     -0.005339253324904545,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado, exercendo mandato, n\u00e3o necessita prestar contas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "essa quest\u00e3o \u00e9 dirimida pelo juiz da causa em que ocorreu a condena\u00e7\u00e3o.",
                 "pmi": [
                     0.0007603591212864055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "essa quest\u00e3o \u00e9 dirimida pelo juiz da causa em que ocorreu a condena\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Fabiana, em raz\u00e3o do regime de bens que rege o casamento, n\u00e3o poder\u00e1 ser nomeada curadora de Mauro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fabiana, em raz\u00e3o do regime de bens que rege o casamento, n\u00e3o poder\u00e1 ser nomeada curadora de Mauro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Como Mauro possui ascendente vivo e capaz, este ser\u00e1 nomeado seu curador, na forma da lei.",
                 "pmi": [
                     0.011094297700260068,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como Mauro possui ascendente vivo e capaz, este ser\u00e1 nomeado seu curador, na forma da lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A filha de Mauro, por ser maior e capaz, ser\u00e1 nomeada sua curadora, na forma da lei.",
                 "pmi": [
                     0.014792396933680093,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A filha de Mauro, por ser maior e capaz, ser\u00e1 nomeada sua curadora, na forma da lei."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Fabiana ser\u00e1 nomeada curadora de Mauro, na forma da lei.",
                 "pmi": [
                     0.01775087632041611,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fabiana ser\u00e1 nomeada curadora de Mauro, na forma da lei."
+                ]
             }
         ],
         "valid": true

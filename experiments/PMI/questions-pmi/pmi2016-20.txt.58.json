@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Por causa do impedimento para que o promotor de justi\u00e7a exer\u00e7a suas fun\u00e7\u00f5es, o fato dever\u00e1 ser informado ao juiz da causa em peti\u00e7\u00e3o espec\u00edfica.",
                 "pmi": [
                     0.05594979039080386,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por causa do impedimento para que o promotor de justi\u00e7a exer\u00e7a suas fun\u00e7\u00f5es, o fato dever\u00e1 ser informado ao juiz da causa em peti\u00e7\u00e3o espec\u00edfica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O advogado da m\u00e3e dever\u00e1 arguir, por meio de exce\u00e7\u00e3o, o impedimento do promotor de justi\u00e7a.",
                 "pmi": [
                     0.06780644444898294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado da m\u00e3e dever\u00e1 arguir, por meio de exce\u00e7\u00e3o, o impedimento do promotor de justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "As causas de impedimento direcionadas ao magistrado, como \u00e9 o caso, n\u00e3o se estendem aos membros do Minist\u00e9rio P\u00fablico.",
                 "pmi": [
                     0.014867165304596058,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As causas de impedimento direcionadas ao magistrado, como \u00e9 o caso, n\u00e3o se estendem aos membros do Minist\u00e9rio P\u00fablico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o se trata de causa de impedimento porque o advogado do pai \u00e9 parente colateral de terceiro grau do promotor de justi\u00e7a.",
                 "pmi": [
                     0.05544197115072835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se trata de causa de impedimento porque o advogado do pai \u00e9 parente colateral de terceiro grau do promotor de justi\u00e7a."
+                ]
             }
         ],
         "valid": true

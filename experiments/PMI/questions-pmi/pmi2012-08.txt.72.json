@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Trabalhador dom\u00e9stico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Trabalhador dom\u00e9stico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trabalhador volunt\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Trabalhador volunt\u00e1rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Trabalhador avulso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Trabalhador avulso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Trabalhador eventual.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Trabalhador eventual."
+                ]
             }
         ],
         "valid": true

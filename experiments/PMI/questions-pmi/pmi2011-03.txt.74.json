@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "integrar o aviso pr\u00e9vio ao pagamento de todas as verbas rescis\u00f3rias por ele devidas, uma vez que o aviso pr\u00e9vio \u00e9 irrenunci\u00e1vel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "integrar o aviso pr\u00e9vio ao pagamento de todas as verbas rescis\u00f3rias por ele devidas, uma vez que o aviso pr\u00e9vio \u00e9 irrenunci\u00e1vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza salarial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza salarial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza indenizat\u00f3ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deduzir o aviso pr\u00e9vio do pagamento de parte das verbas rescis\u00f3rias devidas, uma vez que o empregado renunciou livremente a esse direito, mas o aviso pr\u00e9vio continuar\u00e1 incidindo sobre as parcelas de natureza indenizat\u00f3ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "pagar as verbas rescis\u00f3rias, excluindo o valor equivalente ao dos dias remanescentes do aviso pr\u00e9vio.",
                 "pmi": [
                     0.033285981215531224,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pagar as verbas rescis\u00f3rias, excluindo o valor equivalente ao dos dias remanescentes do aviso pr\u00e9vio."
+                ]
             }
         ],
         "valid": true

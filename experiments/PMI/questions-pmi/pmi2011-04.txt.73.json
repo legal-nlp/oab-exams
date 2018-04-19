@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A terceiriza\u00e7\u00e3o \u00e9 il\u00edcita, acarretando a nulidade do v\u00ednculo de emprego com a empresa prestadora e o reconhecimento do v\u00ednculo de emprego diretamente com a empresa tomadora.",
                 "pmi": [
                     0.018370016497198747,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A terceiriza\u00e7\u00e3o \u00e9 il\u00edcita, acarretando a nulidade do v\u00ednculo de emprego com a empresa prestadora e o reconhecimento do v\u00ednculo de emprego diretamente com a empresa tomadora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A terceiriza\u00e7\u00e3o \u00e9 il\u00edcita, acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora.",
                 "pmi": [
                     0.03545801654301846,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A terceiriza\u00e7\u00e3o \u00e9 il\u00edcita, acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A terceiriza\u00e7\u00e3o \u00e9 l\u00edcita, acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora.",
                 "pmi": [
                     0.03545801654301846,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A terceiriza\u00e7\u00e3o \u00e9 l\u00edcita, acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A terceiriza\u00e7\u00e3o \u00e9 l\u00edcita, n\u00e3o acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora.",
                 "pmi": [
                     0.03545801654301846,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A terceiriza\u00e7\u00e3o \u00e9 l\u00edcita, n\u00e3o acarretando a responsabilidade subsidi\u00e1ria da empresa tomadora pelas obriga\u00e7\u00f5es trabalhistas inadimplidas pela empresa prestadora."
+                ]
             }
         ],
         "valid": true

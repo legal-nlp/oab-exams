@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Somente o gerente de licita\u00e7\u00f5es da empresa p\u00fablica, agente p\u00fablico, est\u00e1 sujeito a eventual a\u00e7\u00e3o de improbidade administrativa.",
                 "pmi": [
                     0.04702162872810306,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente o gerente de licita\u00e7\u00f5es da empresa p\u00fablica, agente p\u00fablico, est\u00e1 sujeito a eventual a\u00e7\u00e3o de improbidade administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Nem o diretor-presidente da construtora e nem o gerente de licita\u00e7\u00f5es da empresa p\u00fablica, que n\u00e3o s\u00e3o agentes p\u00fablicos, est\u00e3o sujeitos a eventual a\u00e7\u00e3o de improbidade administrativa.",
                 "pmi": [
                     0.05919145395577017,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nem o diretor-presidente da construtora e nem o gerente de licita\u00e7\u00f5es da empresa p\u00fablica, que n\u00e3o s\u00e3o agentes p\u00fablicos, est\u00e3o sujeitos a eventual a\u00e7\u00e3o de improbidade administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O diretor-presidente da construtora, benefici\u00e1rio do esquema, est\u00e1 sujeito a eventual a\u00e7\u00e3o de improbidade, mas o gerente da empresa p\u00fablica, por n\u00e3o ser servidor p\u00fablico, n\u00e3o est\u00e1 sujeito a tal a\u00e7\u00e3o.",
                 "pmi": [
                     0.07966186970105589,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O diretor-presidente da construtora, benefici\u00e1rio do esquema, est\u00e1 sujeito a eventual a\u00e7\u00e3o de improbidade, mas o gerente da empresa p\u00fablica, por n\u00e3o ser servidor p\u00fablico, n\u00e3o est\u00e1 sujeito a tal a\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O diretor-presidente da construtora e o gerente de licita\u00e7\u00f5es da empresa p\u00fablica est\u00e3o sujeitos a eventual a\u00e7\u00e3o de improbidade administrativa.",
                 "pmi": [
                     0.06905669628173186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O diretor-presidente da construtora e o gerente de licita\u00e7\u00f5es da empresa p\u00fablica est\u00e3o sujeitos a eventual a\u00e7\u00e3o de improbidade administrativa."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "s\u00f3 poder\u00e1 ser arguida como mat\u00e9ria de defesa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00f3 poder\u00e1 ser arguida como mat\u00e9ria de defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "poder\u00e1 ser arguida em qualquer fase do processo, mesmo na execu\u00e7\u00e3o definitiva da senten\u00e7a.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser arguida em qualquer fase do processo, mesmo na execu\u00e7\u00e3o definitiva da senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a seja proferida pelo juiz de 1\u00aa inst\u00e2ncia.",
                 "pmi": [
                     0.1784910946238203,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a seja proferida pelo juiz de 1\u00aa inst\u00e2ncia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a tenha transitado em julgado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser arguida em qualquer momento, at\u00e9 que a senten\u00e7a tenha transitado em julgado."
+                ]
             }
         ],
         "valid": true

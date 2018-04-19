@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Estado n\u00e3o responde pela morte do paciente, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano.",
                 "pmi": [
                     0.014181021741796342,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado n\u00e3o responde pela morte do paciente, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o Estado responde de forma subjetiva, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano.",
                 "pmi": [
                     0.01575669082421816,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado responde de forma subjetiva, uma vez que n\u00e3o configurado o nexo de causalidade entre a a\u00e7\u00e3o ou omiss\u00e3o estatal e o dano."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o Estado n\u00e3o responde pela morte do paciente, mas, caso comprovada a neglig\u00eancia dos servidores, estes respondem de forma subjetiva.",
                 "pmi": [
                     0.02656679601513089,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado n\u00e3o responde pela morte do paciente, mas, caso comprovada a neglig\u00eancia dos servidores, estes respondem de forma subjetiva."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "o Estado responde pela morte do paciente, garantido o direito de regresso contra os servidores no caso de dolo ou culpa.",
                 "pmi": [
                     0.023910116413617802,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado responde pela morte do paciente, garantido o direito de regresso contra os servidores no caso de dolo ou culpa."
+                ]
             }
         ],
         "valid": true

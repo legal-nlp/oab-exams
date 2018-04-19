@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Festas Ltda. tem raz\u00e3o, pois houve o inadimplemento absoluto por perda da utilidade da presta\u00e7\u00e3o e a multa \u00e9 uma cl\u00e1usula penal compensat\u00f3ria.",
                 "pmi": [
                     -0.014868135593623568,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Festas Ltda. tem raz\u00e3o, pois houve o inadimplemento absoluto por perda da utilidade da presta\u00e7\u00e3o e a multa \u00e9 uma cl\u00e1usula penal compensat\u00f3ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Chocolates S/A n\u00e3o deve pagar a multa, pois a cl\u00e1usula penal, quantificada em valor id\u00eantico ao valor da presta\u00e7\u00e3o principal, \u00e9 abusiva.",
                 "pmi": [
                     -0.10413187162660648,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Chocolates S/A n\u00e3o deve pagar a multa, pois a cl\u00e1usula penal, quantificada em valor id\u00eantico ao valor da presta\u00e7\u00e3o principal, \u00e9 abusiva."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Chocolates S/A adimpliu sua presta\u00e7\u00e3o, ainda que dois dias depois, raz\u00e3o pela qual nada deve a t\u00edtulo de multa.",
                 "pmi": [
                     -0.14598851717605235,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Chocolates S/A adimpliu sua presta\u00e7\u00e3o, ainda que dois dias depois, raz\u00e3o pela qual nada deve a t\u00edtulo de multa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Festas Ltda. s\u00f3 pode exigir 2% de multa (R$ 20,00), teto da cl\u00e1usula penal, segundo o C\u00f3digo de Defesa do Consumidor.",
                 "pmi": [
                     -0.12744243880111167,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Festas Ltda. s\u00f3 pode exigir 2% de multa (R$ 20,00), teto da cl\u00e1usula penal, segundo o C\u00f3digo de Defesa do Consumidor."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 ser conhecido, pois houve ren\u00fancia por parte de Fl\u00e1vio, mas nada impede que o Tribunal, de of\u00edcio, melhore a situa\u00e7\u00e3o do acusado.",
                 "pmi": [
                     0.0010043144835019501,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 ser conhecido, pois houve ren\u00fancia por parte de Fl\u00e1vio, mas nada impede que o Tribunal, de of\u00edcio, melhore a situa\u00e7\u00e3o do acusado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dever\u00e1 ser conhecido, pois n\u00e3o \u00e9 admiss\u00edvel a ren\u00fancia ao direito de recorrer, no \u00e2mbito do processo penal.",
                 "pmi": [
                     0.05517747162346792,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser conhecido, pois n\u00e3o \u00e9 admiss\u00edvel a ren\u00fancia ao direito de recorrer, no \u00e2mbito do processo penal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "n\u00e3o poder\u00e1 ser conhecido, pois a ren\u00fancia expressa de Fl\u00e1vio n\u00e3o pode ser retratada, n\u00e3o podendo o Tribunal, de of\u00edcio, alterar a decis\u00e3o do magistrado.",
                 "pmi": [
                     0.03590674941043178,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 ser conhecido, pois a ren\u00fancia expressa de Fl\u00e1vio n\u00e3o pode ser retratada, n\u00e3o podendo o Tribunal, de of\u00edcio, alterar a decis\u00e3o do magistrado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "dever\u00e1 ser conhecido, pois a ren\u00fancia foi manifestada sem assist\u00eancia do defensor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser conhecido, pois a ren\u00fancia foi manifestada sem assist\u00eancia do defensor."
+                ]
             }
         ],
         "valid": true

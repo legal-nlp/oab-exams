@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a ado\u00e7\u00e3o de uma dessas medidas, dada a prioridade de S manuten\u00e7\u00e3o do menor com a fam\u00edlia natural, \u00e9 precedida pela destitui\u00e7\u00e3o do poder familiar.",
                 "pmi": [
                     -0.014797010728041776,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a ado\u00e7\u00e3o de uma dessas medidas, dada a prioridade de S manuten\u00e7\u00e3o do menor com a fam\u00edlia natural, \u00e9 precedida pela destitui\u00e7\u00e3o do poder familiar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a pessoa que exercer\u00e1 a guarda ou a tutela do menor poder\u00e1 ser indicada por seus genitores em testamento.",
                 "pmi": [
                     0.08105105576970462,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a pessoa que exercer\u00e1 a guarda ou a tutela do menor poder\u00e1 ser indicada por seus genitores em testamento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o tutor assume o poder familiar em rela\u00e7\u00e3o ao menor e, sendo assim, a destitui\u00e7\u00e3o da tutela observa os mesmos requisitos da destitui\u00e7\u00e3o do poder familiar.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o tutor assume o poder familiar em rela\u00e7\u00e3o ao menor e, sendo assim, a destitui\u00e7\u00e3o da tutela observa os mesmos requisitos da destitui\u00e7\u00e3o do poder familiar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o deferimento da tutela n\u00e3o pressup\u00f5e a perda ou suspens\u00e3o do poder familiar e, sendo assim, n\u00e3o implica necessariamente o dever de guarda.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o deferimento da tutela n\u00e3o pressup\u00f5e a perda ou suspens\u00e3o do poder familiar e, sendo assim, n\u00e3o implica necessariamente o dever de guarda."
+                ]
             }
         ],
         "valid": true

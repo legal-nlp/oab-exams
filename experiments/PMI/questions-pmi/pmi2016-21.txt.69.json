@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "o Juiz Presidente do Tribunal do J\u00fari.",
                 "pmi": [
                     0.013890839468397847,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Juiz Presidente do Tribunal do J\u00fari."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o corpo de jurados, que decidiu pela desclassifica\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o corpo de jurados, que decidiu pela desclassifica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o Juiz Criminal da Comarca, a partir de livre distribui\u00e7\u00e3o.",
                 "pmi": [
                     0.011112671574718277,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Juiz Criminal da Comarca, a partir de livre distribui\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Juiz em atua\u00e7\u00e3o perante o Juizado Especial Criminal da Comarca em que ocorreram os fatos.",
                 "pmi": [
                     0.025853346388584234,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Juiz em atua\u00e7\u00e3o perante o Juizado Especial Criminal da Comarca em que ocorreram os fatos."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Laila dever\u00e1 executar os honor\u00e1rios em face de Rita em processo aut\u00f4nomo, sendo vedado o pagamento nos mesmos autos, por se tratar de honor\u00e1rios contratuais e n\u00e3o sucumbenciais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Laila dever\u00e1 executar os honor\u00e1rios em face de Rita em processo aut\u00f4nomo, sendo vedado o pagamento nos mesmos autos, por se tratar de honor\u00e1rios contratuais e n\u00e3o sucumbenciais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o juiz dever\u00e1 determinar que os valores acordados a t\u00edtulo de honor\u00e1rios sejam pagos diretamente a Laila, por dedu\u00e7\u00e3o da quantia a ser recebida por Rita, independentemente de concord\u00e2ncia desta nos autos, salvo se Rita provar que j\u00e1 os pagou.",
                 "pmi": [
                     0.027108453372948246,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz dever\u00e1 determinar que os valores acordados a t\u00edtulo de honor\u00e1rios sejam pagos diretamente a Laila, por dedu\u00e7\u00e3o da quantia a ser recebida por Rita, independentemente de concord\u00e2ncia desta nos autos, salvo se Rita provar que j\u00e1 os pagou."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Laila dever\u00e1 executar os honor\u00e1rios em face do munic\u00edpio de Manaus, em processo aut\u00f4nomo de execu\u00e7\u00e3o, sendo vedado o pagamento nos mesmos autos, por se tratar de honor\u00e1rios contratuais e n\u00e3o sucumbenciais.",
                 "pmi": [
                     0.005811848336898775,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Laila dever\u00e1 executar os honor\u00e1rios em face do munic\u00edpio de Manaus, em processo aut\u00f4nomo de execu\u00e7\u00e3o, sendo vedado o pagamento nos mesmos autos, por se tratar de honor\u00e1rios contratuais e n\u00e3o sucumbenciais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o juiz poder\u00e1 determinar que os valores acordados a t\u00edtulo de honor\u00e1rios sejam pagos diretamente a Laila, por dedu\u00e7\u00e3o da quantia a ser recebida por Rita, caso Rita apresente sua concord\u00e2ncia nos autos.",
                 "pmi": [
                     0.022368466043024702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz poder\u00e1 determinar que os valores acordados a t\u00edtulo de honor\u00e1rios sejam pagos diretamente a Laila, por dedu\u00e7\u00e3o da quantia a ser recebida por Rita, caso Rita apresente sua concord\u00e2ncia nos autos."
+                ]
             }
         ],
         "valid": true

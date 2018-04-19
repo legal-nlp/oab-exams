@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Desconcentra\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Desconcentra\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Imperatividade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Imperatividade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Continuidade dos Servi\u00e7os P\u00fablicos.",
                 "pmi": [
                     0.10169519494757918,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Continuidade dos Servi\u00e7os P\u00fablicos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Subsidiariedade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Subsidiariedade."
+                ]
             }
         ],
         "valid": true

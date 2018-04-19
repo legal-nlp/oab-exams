@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "no caso em tela, houve justa causa, capaz de permitir a revela\u00e7\u00e3o de dados sigilosos.",
                 "pmi": [
                     0.01230156653271151,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "no caso em tela, houve justa causa, capaz de permitir a revela\u00e7\u00e3o de dados sigilosos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "inquirido pelo magistrado, o advogado n\u00e3o pode se escusar de depor e prestar informa\u00e7\u00f5es.",
                 "pmi": [
                     0.0354378462147192,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inquirido pelo magistrado, o advogado n\u00e3o pode se escusar de depor e prestar informa\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a quebra do sigilo profissional, ainda que judicialmente, como no caso, \u00e9 infra\u00e7\u00e3o disciplinar.",
                 "pmi": [
                     0.022719463413991454,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a quebra do sigilo profissional, ainda que judicialmente, como no caso, \u00e9 infra\u00e7\u00e3o disciplinar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o sigilo profissional \u00e9 uma faculdade do advogado.",
                 "pmi": [
                     0.00982934947304453,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o sigilo profissional \u00e9 uma faculdade do advogado."
+                ]
             }
         ],
         "valid": true

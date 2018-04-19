@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "a Uni\u00e3o cobre Imposto de Renda sobre os juros das aplica\u00e7\u00f5es financeiras dos Estados e dos Munic\u00edpios.",
                 "pmi": [
                     0.2533530566386536,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Uni\u00e3o cobre Imposto de Renda sobre os juros das aplica\u00e7\u00f5es financeiras dos Estados e dos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o Munic\u00edpio cobre a taxa de licenciamento de obra da Uni\u00e3o.",
                 "pmi": [
                     0.4560355019495765,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Munic\u00edpio cobre a taxa de licenciamento de obra da Uni\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o Estado cobre contribui\u00e7\u00e3o de melhoria em rela\u00e7\u00e3o a bem do Munic\u00edpio valorizado em decorr\u00eancia de obra p\u00fablica.",
                 "pmi": [
                     0.453393048227154,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado cobre contribui\u00e7\u00e3o de melhoria em rela\u00e7\u00e3o a bem do Munic\u00edpio valorizado em decorr\u00eancia de obra p\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Estado cobre tarifa de \u00e1gua consumida em im\u00f3vel da Uni\u00e3o.",
                 "pmi": [
                     0.38002958495798045,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Estado cobre tarifa de \u00e1gua consumida em im\u00f3vel da Uni\u00e3o."
+                ]
             }
         ],
         "valid": true

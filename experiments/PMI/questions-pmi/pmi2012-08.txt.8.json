@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A fun\u00e7\u00e3o de membro do Poder Legislativo impede o advogado de atuar, mesmo em causa pr\u00f3pria.",
                 "pmi": [
                     0.05338632972415901,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A fun\u00e7\u00e3o de membro do Poder Legislativo impede o advogado de atuar, mesmo em causa pr\u00f3pria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A elei\u00e7\u00e3o para a Mesa Diretora do Poder Legislativo impede o advogado de atuar, gerando uma incompatibilidade.",
                 "pmi": [
                     0.08191270269194367,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A elei\u00e7\u00e3o para a Mesa Diretora do Poder Legislativo impede o advogado de atuar, gerando uma incompatibilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O mandato de vereador n\u00e3o se inclui dentre as situa\u00e7\u00f5es de incompatibilidade, ocupe ou n\u00e3o cargo na Mesa Diretora.",
                 "pmi": [
                     0.06009134945873527,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O mandato de vereador n\u00e3o se inclui dentre as situa\u00e7\u00f5es de incompatibilidade, ocupe ou n\u00e3o cargo na Mesa Diretora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "As incompatibilidades dos membros do Poder Legislativo est\u00e3o circunscritas aos integrantes do Senado e da C\u00e2mara dos Deputados Federal.",
                 "pmi": [
                     0.09655390805194283,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As incompatibilidades dos membros do Poder Legislativo est\u00e3o circunscritas aos integrantes do Senado e da C\u00e2mara dos Deputados Federal."
+                ]
             }
         ],
         "valid": true

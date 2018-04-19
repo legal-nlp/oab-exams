@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "pode ser impetrado em defesa de direitos l\u00edquidos e certos que perten\u00e7am a apenas parte dos membros de uma categoria ou associa\u00e7\u00e3o, substitu\u00eddos pelo impetrante.",
                 "pmi": [
                     0.10753815452868695,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pode ser impetrado em defesa de direitos l\u00edquidos e certos que perten\u00e7am a apenas parte dos membros de uma categoria ou associa\u00e7\u00e3o, substitu\u00eddos pelo impetrante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a senten\u00e7a de proced\u00eancia produz efeitos erga omnes, n\u00e3o limitando seus efeitos aos membros da categoria substitu\u00eddos pelo impetrante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a senten\u00e7a de proced\u00eancia produz efeitos erga omnes, n\u00e3o limitando seus efeitos aos membros da categoria substitu\u00eddos pelo impetrante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "n\u00e3o induz litispend\u00eancia para as a\u00e7\u00f5es individuais, de forma que os efeitos da coisa julgada beneficiam o impetrante individual, ainda que n\u00e3o requeira a desist\u00eancia de seu mandado de seguran\u00e7a.",
                 "pmi": [
                     0.1014916127319198,
                     0.029492706810229256,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o induz litispend\u00eancia para as a\u00e7\u00f5es individuais, de forma que os efeitos da coisa julgada beneficiam o impetrante individual, ainda que n\u00e3o requeira a desist\u00eancia de seu mandado de seguran\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a interposi\u00e7\u00e3o de embargos infringentes \u00e9 admitida para fins de exerc\u00edcio da ampla defesa.",
                 "pmi": [
                     0.10501104115411608,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a interposi\u00e7\u00e3o de embargos infringentes \u00e9 admitida para fins de exerc\u00edcio da ampla defesa."
+                ]
             }
         ],
         "valid": true

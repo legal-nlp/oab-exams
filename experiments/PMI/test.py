@@ -2,8 +2,8 @@
 
 import pmi
 
-x = ('foo','bar')
-y = ('bar','baz')
+x = 'foo (\\w+) bar'
+y = 'bar (\\w+) baz'
 corpus = [("foo bar bar baz this is a test",6),
           ("bar baz is another test",5)]
 

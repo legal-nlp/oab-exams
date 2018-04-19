@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A culpa rec\u00edproca \u00e9 modalidade de resili\u00e7\u00e3o unilateral do contrato de trabalho.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A culpa rec\u00edproca \u00e9 modalidade de resili\u00e7\u00e3o unilateral do contrato de trabalho."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O reclamante tem direito a 50% do valor do aviso pr\u00e9vio, do d\u00e9cimo terceiro sal\u00e1rio e das f\u00e9rias proporcionais.",
                 "pmi": [
                     0.02975181870215023,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reclamante tem direito a 50% do valor do aviso pr\u00e9vio, do d\u00e9cimo terceiro sal\u00e1rio e das f\u00e9rias proporcionais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O reclamante n\u00e3o poder\u00e1 movimentar a conta vinculada do FGTS.",
                 "pmi": [
                     0.005522977917328675,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reclamante n\u00e3o poder\u00e1 movimentar a conta vinculada do FGTS."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O reclamante n\u00e3o tem direito ao pagamento de indeniza\u00e7\u00e3o compensat\u00f3ria sobre os dep\u00f3sitos do FGTS.",
                 "pmi": [
                     0.049674451846823627,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reclamante n\u00e3o tem direito ao pagamento de indeniza\u00e7\u00e3o compensat\u00f3ria sobre os dep\u00f3sitos do FGTS."
+                ]
             }
         ],
         "valid": true

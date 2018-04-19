@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "correta, pois aplica-se a lei vigente \u00e0 \u00e9poca de ocorr\u00eancia do fato gerador.",
                 "pmi": [
                     0.03360035944664697,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "correta, pois aplica-se a lei vigente \u00e0 \u00e9poca de ocorr\u00eancia do fato gerador."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "errada, pois aplica-se retroativamente a lei que defina penalidade menos severa ao contribuinte.",
                 "pmi": [
                     0.013674882048905266,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "errada, pois aplica-se retroativamente a lei que defina penalidade menos severa ao contribuinte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "correta, pois o princ\u00edpio da irretroatividade veda a aplica\u00e7\u00e3o retroagente da lei tribut\u00e1ria.",
                 "pmi": [
                     0.038845278914917805,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "correta, pois o princ\u00edpio da irretroatividade veda a aplica\u00e7\u00e3o retroagente da lei tribut\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "errada, pois a aplica\u00e7\u00e3o retroativa da lei \u00e9 regra geral no direito tribut\u00e1rio.",
                 "pmi": [
                     0.024225867212110428,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "errada, pois a aplica\u00e7\u00e3o retroativa da lei \u00e9 regra geral no direito tribut\u00e1rio."
+                ]
             }
         ],
         "valid": true

@@ -75,15 +75,15 @@ def split(s, stopwords=None):
     split = [ x.lower() for x in re.sub(r'\W+', ' ', s).split() ]
     if stopwords:
         sw_set = set(stopwords)
-        return [ x for x in split if x not in sw_set ]
-    return split
+        return [ x.strip() for x in split if x not in sw_set ]
+    return [ x.strip() for x in split ]
 
 def count_occurrences(x, corpus, normalized=True):
     "Count occurrences of n-gram X in CORPUS."
     total_words = 0
     total_occurrences = 0
     for (sentence,sentence_len) in corpus:
-        total_occurrences += sentence.count(x)
+        total_occurrences += len(re.findall(x, sentence))
         total_words += sentence_len
 
     if normalized:
@@ -94,13 +94,11 @@ def count_co_occurrences(x,y, corpus):
     x_y = " ".join([x,y])
     return count_occurrences(x_y, corpus)
     
-def pmi(x_,y_,corpus):
+def pmi(x,y,corpus):
     """Compute PMI of X and Y in CORPUS; here X and Y are strings
 representing n-grams (each gram separated by space) and CORPUS is an
 array of strings.  For this experiment we are considering the window
 size the extension of each string."""
-    x = " ".join(x_)
-    y = " ".join(y_)
     px = count_occurrences(x, corpus)
     py = count_occurrences(y, corpus)
     pxy = count_co_occurrences(x, y, corpus)

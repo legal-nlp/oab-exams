@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "arquivar os autos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "arquivar os autos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "oferecer den\u00fancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "oferecer den\u00fancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "determinar a baixa dos autos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "determinar a baixa dos autos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "requerer o arquivamento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "requerer o arquivamento."
+                ]
             }
         ],
         "valid": true

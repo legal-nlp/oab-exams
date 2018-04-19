@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o n\u00e3o deve pagar a taxa de coleta, uma vez que a isen\u00e7\u00e3o do IPTU se aplica a qualquer outro tributo.",
                 "pmi": [
                     -0.0015604768902640256,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o deve pagar a taxa de coleta, uma vez que a isen\u00e7\u00e3o do IPTU se aplica a qualquer outro tributo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jo\u00e3o n\u00e3o deve pagar a taxa de coleta, porque, sendo a lei instituidora da taxa posterior \u00e0 lei que concedeu a isen\u00e7\u00e3o, por esta \u00e9 abrangida, ficando Jo\u00e3o desobrigado do IPTU e da taxa.",
                 "pmi": [
                     0.057023610850693844,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o deve pagar a taxa de coleta, porque, sendo a lei instituidora da taxa posterior \u00e0 lei que concedeu a isen\u00e7\u00e3o, por esta \u00e9 abrangida, ficando Jo\u00e3o desobrigado do IPTU e da taxa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jo\u00e3o deve pagar a taxa de coleta, porque a isen\u00e7\u00e3o s\u00f3 \u00e9 extensiva \u00e0s contribui\u00e7\u00f5es de melhoria institu\u00eddas pelo munic\u00edpio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o deve pagar a taxa de coleta, porque a isen\u00e7\u00e3o s\u00f3 \u00e9 extensiva \u00e0s contribui\u00e7\u00f5es de melhoria institu\u00eddas pelo munic\u00edpio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Jo\u00e3o deve pagar a taxa de coleta, porque, salvo disposi\u00e7\u00e3o de lei em contr\u00e1rio, a isen\u00e7\u00e3o n\u00e3o \u00e9 extensiva \u00e0s taxas.",
                 "pmi": [
                     0.03390649331695203,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o deve pagar a taxa de coleta, porque, salvo disposi\u00e7\u00e3o de lei em contr\u00e1rio, a isen\u00e7\u00e3o n\u00e3o \u00e9 extensiva \u00e0s taxas."
+                ]
             }
         ],
         "valid": true

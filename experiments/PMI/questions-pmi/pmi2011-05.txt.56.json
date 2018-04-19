@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Seriam mantidas as al\u00edquotas e multas nos valores previstos na data do fato gerador.",
                 "pmi": [
                     0.0931159325896338,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seriam mantidas as al\u00edquotas e multas nos valores previstos na data do fato gerador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Seriam aplicadas as al\u00edquotas previstas na lei nova e as multas seriam aplicadas nos valores previstos na data do fato gerador.",
                 "pmi": [
                     0.059383824238255174,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seriam aplicadas as al\u00edquotas previstas na lei nova e as multas seriam aplicadas nos valores previstos na data do fato gerador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Seriam mantidas as al\u00edquotas nos valores previstos na data do fato gerador e as multas seriam aplicadas nos valores previstos de acordo com a nova lei.",
                 "pmi": [
                     0.08787115127918298,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seriam mantidas as al\u00edquotas nos valores previstos na data do fato gerador e as multas seriam aplicadas nos valores previstos de acordo com a nova lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Seriam aplicadas as al\u00edquotas e multas nos valores previstos de acordo com a nova lei.",
                 "pmi": [
                     0.05677107227318696,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seriam aplicadas as al\u00edquotas e multas nos valores previstos de acordo com a nova lei."
+                ]
             }
         ],
         "valid": true

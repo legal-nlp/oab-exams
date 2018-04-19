@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Sistema de visitas regulares de seus membros.",
                 "pmi": [
                     0.03929669406059756,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sistema de visitas regulares de seus membros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Mutir\u00f5es judiciais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Mutir\u00f5es judiciais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Medidas legislativas de parlamentares que integrem o Mecanismo.",
                 "pmi": [
                     0.008123444280817705,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Medidas legislativas de parlamentares que integrem o Mecanismo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Cria\u00e7\u00e3o e fortalecimento de defensorias p\u00fablicas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cria\u00e7\u00e3o e fortalecimento de defensorias p\u00fablicas."
+                ]
             }
         ],
         "valid": true

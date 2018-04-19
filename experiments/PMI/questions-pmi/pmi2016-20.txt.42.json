@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o n\u00e3o poder\u00e1 cobrar compensa\u00e7\u00e3o por danos morais, em nome pr\u00f3prio, da Via\u00e7\u00e3o XYZ S.A., porque o dano direto e imediato foi causado exclusivamente a Maria.",
                 "pmi": [
                     -0.04333819360796124,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o poder\u00e1 cobrar compensa\u00e7\u00e3o por danos morais, em nome pr\u00f3prio, da Via\u00e7\u00e3o XYZ S.A., porque o dano direto e imediato foi causado exclusivamente a Maria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ainda que reste comprovado que Maria atravessou a rua fora da faixa e com o sinal de pedestres fechado, tal fato em nada influenciar\u00e1 a responsabilidade da Via\u00e7\u00e3o XYZ S.A..",
                 "pmi": [
                     -0.034103358189424574,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ainda que reste comprovado que Maria atravessou a rua fora da faixa e com o sinal de pedestres fechado, tal fato em nada influenciar\u00e1 a responsabilidade da Via\u00e7\u00e3o XYZ S.A.."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jo\u00e3o poder\u00e1 cobrar pens\u00e3o aliment\u00edcia apenas em nome de Daniel, por se tratar de pessoa incapaz.",
                 "pmi": [
                     -0.014655866708936063,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o poder\u00e1 cobrar pens\u00e3o aliment\u00edcia apenas em nome de Daniel, por se tratar de pessoa incapaz."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Daniel poder\u00e1 cobrar pens\u00e3o aliment\u00edcia da Via\u00e7\u00e3o XYZ S.A., ainda que n\u00e3o reste comprovado que Maria exercia atividade laborativa, se preenchido o crit\u00e9rio da necessidade.",
                 "pmi": [
                     -0.024740261736988386,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniel poder\u00e1 cobrar pens\u00e3o aliment\u00edcia da Via\u00e7\u00e3o XYZ S.A., ainda que n\u00e3o reste comprovado que Maria exercia atividade laborativa, se preenchido o crit\u00e9rio da necessidade."
+                ]
             }
         ],
         "valid": true

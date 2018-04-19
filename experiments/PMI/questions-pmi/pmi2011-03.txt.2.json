@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "agentes p\u00fablicos ocupantes de cargo efetivo e se aposentam aos 70 (setenta) anos de idade.",
                 "pmi": [
                     0.12313401408356077,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "agentes p\u00fablicos ocupantes de cargo efetivo e se aposentam aos 70 (setenta) anos de idade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "agentes p\u00fablicos vital\u00edcios, ocupantes de cargo efetivo, e n\u00e3o se aposentam compulsoriamente.",
                 "pmi": [
                     0.13852576584400586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "agentes p\u00fablicos vital\u00edcios, ocupantes de cargo efetivo, e n\u00e3o se aposentam compulsoriamente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "delegat\u00e1rios de servi\u00e7os p\u00fablicos aprovados em concurso p\u00fablico.",
                 "pmi": [
                     0.16627647049724073,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "delegat\u00e1rios de servi\u00e7os p\u00fablicos aprovados em concurso p\u00fablico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "os not\u00e1rios e registradores s\u00e3o delegat\u00e1rios de servi\u00e7os p\u00fablicos, investidos em cargos efetivos ap\u00f3s aprova\u00e7\u00e3o em concurso.",
                 "pmi": [
                     0.12283201345872674,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os not\u00e1rios e registradores s\u00e3o delegat\u00e1rios de servi\u00e7os p\u00fablicos, investidos em cargos efetivos ap\u00f3s aprova\u00e7\u00e3o em concurso."
+                ]
             }
         ],
         "valid": true

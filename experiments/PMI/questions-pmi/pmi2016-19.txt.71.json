@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A sociedade empres\u00e1ria agiu corretamente, pois a aposentadoria por invalidez rompeu o contrato de trabalho.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria agiu corretamente, pois a aposentadoria por invalidez rompeu o contrato de trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A sociedade empres\u00e1ria poderia, diante da situa\u00e7\u00e3o retratada e a seu exclusivo crit\u00e9rio, manter ou n\u00e3o o plano de sa\u00fade.",
                 "pmi": [
                     0.030872807119457512,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria poderia, diante da situa\u00e7\u00e3o retratada e a seu exclusivo crit\u00e9rio, manter ou n\u00e3o o plano de sa\u00fade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A sociedade empres\u00e1ria ter\u00e1 obriga\u00e7\u00e3o de manter o plano por 12 meses, quando terminaria a estabilidade da obreira.",
                 "pmi": [
                     0.034303119021619456,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria ter\u00e1 obriga\u00e7\u00e3o de manter o plano por 12 meses, quando terminaria a estabilidade da obreira."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A sociedade empres\u00e1ria se equivocou, porque o contrato est\u00e1 suspenso, devendo ser mantido o plano de sa\u00fade.",
                 "pmi": [
                     0.04328724188776004,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria se equivocou, porque o contrato est\u00e1 suspenso, devendo ser mantido o plano de sa\u00fade."
+                ]
             }
         ],
         "valid": null

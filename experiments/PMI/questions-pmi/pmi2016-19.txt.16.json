@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Haveria tal possibilidade, pois o Distrito Federal possui compet\u00eancias legislativas reservadas aos Estados e aos Munic\u00edpios.",
                 "pmi": [
                     0.11162031886415533,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Haveria tal possibilidade, pois o Distrito Federal possui compet\u00eancias legislativas reservadas aos Estados e aos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Haveria tal possibilidade, pois a compet\u00eancia legislativa do Distrito Federal, como sede da Uni\u00e3o, abarca as compet\u00eancias legislativas da Uni\u00e3o, dos Estados e dos Munic\u00edpios.",
                 "pmi": [
                     0.10667453163536186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Haveria tal possibilidade, pois a compet\u00eancia legislativa do Distrito Federal, como sede da Uni\u00e3o, abarca as compet\u00eancias legislativas da Uni\u00e3o, dos Estados e dos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o seria poss\u00edvel, pois o Distrito Federal tem compet\u00eancias taxativamente expressas, que n\u00e3o podem abarcar aquelas concedidas aos Munic\u00edpios.",
                 "pmi": [
                     0.15524612716453864,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o seria poss\u00edvel, pois o Distrito Federal tem compet\u00eancias taxativamente expressas, que n\u00e3o podem abarcar aquelas concedidas aos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o seria poss\u00edvel, pois as compet\u00eancias legislativas do Distrito Federal seriam apenas aquelas reservadas aos Estados-membros da Uni\u00e3o.",
                 "pmi": [
                     0.0763118324237948,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o seria poss\u00edvel, pois as compet\u00eancias legislativas do Distrito Federal seriam apenas aquelas reservadas aos Estados-membros da Uni\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Nas a\u00e7\u00f5es coletivas intentadas para a defesa de interesses ou direitos individuais homog\u00eaneos, a senten\u00e7a sempre produzir\u00e1 efeitos inter partes, atingindo apenas os sujeitos que integram aquela determinada rela\u00e7\u00e3o processual.",
                 "pmi": [
                     0.052858931551618554,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nas a\u00e7\u00f5es coletivas intentadas para a defesa de interesses ou direitos individuais homog\u00eaneos, a senten\u00e7a sempre produzir\u00e1 efeitos inter partes, atingindo apenas os sujeitos que integram aquela determinada rela\u00e7\u00e3o processual."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A Defensoria P\u00fablica possui legitimidade ativa para a propositura de A\u00e7\u00e3o Civil P\u00fablica.",
                 "pmi": [
                     0.031157574420822058,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Defensoria P\u00fablica possui legitimidade ativa para a propositura de A\u00e7\u00e3o Civil P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Apesar de a doutrina mencionar a exist\u00eancia do microssistema da tutela coletiva, a Lei n. 4.717/65, por trazer regras e procedimentos de natureza espec\u00edfica, prev\u00ea expressamente que jamais ser\u00e1 aplicado subsidiariamente o C\u00f3digo de Processo Civil \u00e0 A\u00e7\u00e3o Popular.",
                 "pmi": [
                     -0.006538320370305299,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apesar de a doutrina mencionar a exist\u00eancia do microssistema da tutela coletiva, a Lei n. 4.717/65, por trazer regras e procedimentos de natureza espec\u00edfica, prev\u00ea expressamente que jamais ser\u00e1 aplicado subsidiariamente o C\u00f3digo de Processo Civil \u00e0 A\u00e7\u00e3o Popular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os \u00f3rg\u00e3os p\u00fablicos legitimados, no \u00e2mbito das A\u00e7\u00f5es Civis P\u00fablicas, poder\u00e3o celebrar, com os interessados, Termo de Ajustamento de Conduta (TAC) \u00e0s exig\u00eancias legais, documento que possui efic\u00e1cia de t\u00edtulo executivo judicial.",
                 "pmi": [
                     0.016109424972203575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os \u00f3rg\u00e3os p\u00fablicos legitimados, no \u00e2mbito das A\u00e7\u00f5es Civis P\u00fablicas, poder\u00e3o celebrar, com os interessados, Termo de Ajustamento de Conduta (TAC) \u00e0s exig\u00eancias legais, documento que possui efic\u00e1cia de t\u00edtulo executivo judicial."
+                ]
             }
         ],
         "valid": true

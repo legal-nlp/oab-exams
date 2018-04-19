@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A conduta adotada pelo Banco XYZ \u00e9 pr\u00e1tica abusiva \u00e0 luz do C\u00f3digo do Consumidor, mas como Bruna n\u00e3o \u00e9 consumidora, haja vista a aus\u00eancia de v\u00ednculo contratual, dever\u00e1 se utilizar das regras do C\u00f3digo Civil para fins de eventual indeniza\u00e7\u00e3o.",
                 "pmi": [
                     0.006164156581562203,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A conduta adotada pelo Banco XYZ \u00e9 pr\u00e1tica abusiva \u00e0 luz do C\u00f3digo do Consumidor, mas como Bruna n\u00e3o \u00e9 consumidora, haja vista a aus\u00eancia de v\u00ednculo contratual, dever\u00e1 se utilizar das regras do C\u00f3digo Civil para fins de eventual indeniza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A pessoa exposta a uma pr\u00e1tica abusiva, como na hip\u00f3tese do envio de produto n\u00e3o solicitado, \u00e9 equiparada a consumidor, logo Bruna pode postular indeniza\u00e7\u00e3o com base no C\u00f3digo do Consumidor.",
                 "pmi": [
                     0.01926086946886166,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pessoa exposta a uma pr\u00e1tica abusiva, como na hip\u00f3tese do envio de produto n\u00e3o solicitado, \u00e9 equiparada a consumidor, logo Bruna pode postular indeniza\u00e7\u00e3o com base no C\u00f3digo do Consumidor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A pr\u00e1tica banc\u00e1ria em quest\u00e3o \u00e9 abusiva segundo o C\u00f3digo do Consumidor, mas o furto sofrido pelo preposto do Banco XYZ configura culpa exclusiva de terceiro, excludente da obriga\u00e7\u00e3o da institui\u00e7\u00e3o financeira de indenizar Bruna.",
                 "pmi": [
                     0.007710897002866556,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pr\u00e1tica banc\u00e1ria em quest\u00e3o \u00e9 abusiva segundo o C\u00f3digo do Consumidor, mas o furto sofrido pelo preposto do Banco XYZ configura culpa exclusiva de terceiro, excludente da obriga\u00e7\u00e3o da institui\u00e7\u00e3o financeira de indenizar Bruna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O envio de produto sem solicita\u00e7\u00e3o do consumidor n\u00e3o \u00e9 expressamente vedado pela lei consumerista, que apenas considera o produto como mera amostra gr\u00e1tis, afastando eventual obriga\u00e7\u00e3o do Banco XYZ de indenizar Bruna.",
                 "pmi": [
                     -0.001015704085147792,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O envio de produto sem solicita\u00e7\u00e3o do consumidor n\u00e3o \u00e9 expressamente vedado pela lei consumerista, que apenas considera o produto como mera amostra gr\u00e1tis, afastando eventual obriga\u00e7\u00e3o do Banco XYZ de indenizar Bruna."
+                ]
             }
         ],
         "valid": true

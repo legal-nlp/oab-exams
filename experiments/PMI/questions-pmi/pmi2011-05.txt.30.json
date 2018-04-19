@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "em regra deve ser exercida, sob pena de afronta ao princ\u00edpio da indisponibilidade.",
                 "pmi": [
                     0.1178305470185776,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em regra deve ser exercida, sob pena de afronta ao princ\u00edpio da indisponibilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o prazo prescricional tem in\u00edcio a contar do fato que gerou a a\u00e7\u00e3o indenizat\u00f3ria contra a Administra\u00e7\u00e3o.",
                 "pmi": [
                     -0.022632727253994733,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o prazo prescricional tem in\u00edcio a contar do fato que gerou a a\u00e7\u00e3o indenizat\u00f3ria contra a Administra\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a prescri\u00e7\u00e3o ser\u00e1 decenal, com base na regra geral da legisla\u00e7\u00e3o civil.",
                 "pmi": [
                     0.15063023567595507,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a prescri\u00e7\u00e3o ser\u00e1 decenal, com base na regra geral da legisla\u00e7\u00e3o civil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o prazo prescricional ser\u00e1 o mesmo constante da esfera penal para o tipo criminal correspondente.",
                 "pmi": [
                     0.11537250014684197,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o prazo prescricional ser\u00e1 o mesmo constante da esfera penal para o tipo criminal correspondente."
+                ]
             }
         ],
         "valid": true

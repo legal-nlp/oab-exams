@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "crime de homic\u00eddio doloso consumado, apenas, com causa de aumento em raz\u00e3o da idade da v\u00edtima.",
                 "pmi": [
                     0.009035519909921066,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de homic\u00eddio doloso consumado, apenas, com causa de aumento em raz\u00e3o da idade da v\u00edtima."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "crime de homic\u00eddio doloso consumado, apenas, sem causa de aumento em raz\u00e3o da idade da v\u00edtima.",
                 "pmi": [
                     0.009035519909921066,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de homic\u00eddio doloso consumado, apenas, sem causa de aumento em raz\u00e3o da idade da v\u00edtima."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "crimes de homic\u00eddio culposo consumado e de tentativa de homic\u00eddio doloso em rela\u00e7\u00e3o a Henrique.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crimes de homic\u00eddio culposo consumado e de tentativa de homic\u00eddio doloso em rela\u00e7\u00e3o a Henrique."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "crime de homic\u00eddio culposo consumado, sem causa de aumento pela idade da v\u00edtima.",
                 "pmi": [
                     0.010164959898661199,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de homic\u00eddio culposo consumado, sem causa de aumento pela idade da v\u00edtima."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "comum.",
                 "pmi": [
                     0.5424834462512063,
                     0,
                     0,
                     0
-                ],
-                "text": "comum."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "residual.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "residual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "cumulativa.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "cumulativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "extraordin\u00e1ria.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "extraordin\u00e1ria."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Lino poderia arguir o incidente de falsidade em qualquer tempo, bem como o grau de jurisdi\u00e7\u00e3o, por n\u00e3o haver preclus\u00e3o.",
                 "pmi": [
                     0.01646819861107393,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Lino poderia arguir o incidente de falsidade em qualquer tempo, bem como o grau de jurisdi\u00e7\u00e3o, por n\u00e3o haver preclus\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "No incidente de falsidade instaurado, Paulo ser\u00e1 dispensado de intima\u00e7\u00e3o para se manifestar, uma vez que o procedimento n\u00e3o est\u00e1 submetido ao contradit\u00f3rio.",
                 "pmi": [
                     0.010897570183145796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No incidente de falsidade instaurado, Paulo ser\u00e1 dispensado de intima\u00e7\u00e3o para se manifestar, uma vez que o procedimento n\u00e3o est\u00e1 submetido ao contradit\u00f3rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Ser\u00e1 dispensado o exame pericial dos recibos juntados aos autos se Paulo concordar em retir\u00e1-los e Lino n\u00e3o se opuser ao desentranhamento.",
                 "pmi": [
                     -0.00016284963672691586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ser\u00e1 dispensado o exame pericial dos recibos juntados aos autos se Paulo concordar em retir\u00e1-los e Lino n\u00e3o se opuser ao desentranhamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O incidente de falsidade suscitado por Lino ser\u00e1 processado em apenso aos autos principais, uma vez que o C\u00f3digo de Processo Civil expressamente determina aplica\u00e7\u00e3o subsidi\u00e1ria do procedimento estabelecido \u00e0s exce\u00e7\u00f5es de impedimento e suspei\u00e7\u00e3o.",
                 "pmi": [
                     0.01992736961778046,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O incidente de falsidade suscitado por Lino ser\u00e1 processado em apenso aos autos principais, uma vez que o C\u00f3digo de Processo Civil expressamente determina aplica\u00e7\u00e3o subsidi\u00e1ria do procedimento estabelecido \u00e0s exce\u00e7\u00f5es de impedimento e suspei\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

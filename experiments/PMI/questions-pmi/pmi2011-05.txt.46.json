@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Sim. Quando a compra \u00e9 feita pela internet, o consumidor pode desistir da compra em at\u00e9 30 dias depois que recebe o produto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. Quando a compra \u00e9 feita pela internet, o consumidor pode desistir da compra em at\u00e9 30 dias depois que recebe o produto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o. Quando a compra \u00e9 feita pela internet, o consumidor \u00e9 obrigado a ficar com o produto, a menos que ele apresente v\u00edcio. S\u00f3 nessa hip\u00f3tese o consumidor pode desistir.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. Quando a compra \u00e9 feita pela internet, o consumidor \u00e9 obrigado a ficar com o produto, a menos que ele apresente v\u00edcio. S\u00f3 nessa hip\u00f3tese o consumidor pode desistir."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o. O direito de arrependimento s\u00f3 existe para as compras feitas na pr\u00f3pria loja, e n\u00e3o pela internet.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. O direito de arrependimento s\u00f3 existe para as compras feitas na pr\u00f3pria loja, e n\u00e3o pela internet."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Sim. Quando a compra \u00e9 feita fora do estabelecimento comercial, o consumidor pode desistir do contrato no prazo de sete dias, mesmo sem apresentar seus motivos para a desist\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. Quando a compra \u00e9 feita fora do estabelecimento comercial, o consumidor pode desistir do contrato no prazo de sete dias, mesmo sem apresentar seus motivos para a desist\u00eancia."
+                ]
             }
         ],
         "valid": true

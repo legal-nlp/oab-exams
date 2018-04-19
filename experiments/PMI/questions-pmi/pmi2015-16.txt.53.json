@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diferentes e diversa a forma do processo, desde que o ju\u00edzo seja competente para todas.",
                 "pmi": [
                     0.01377035687947754,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diferentes e diversa a forma do processo, desde que o ju\u00edzo seja competente para todas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 vedado ao juiz examinar de of\u00edcio os requisitos que autorizam a cumula\u00e7\u00e3o de execu\u00e7\u00f5es.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 vedado ao juiz examinar de of\u00edcio os requisitos que autorizam a cumula\u00e7\u00e3o de execu\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, fundadas em t\u00edtulos diferentes, ainda que diversos os devedores, desde que para todas elas seja competente o ju\u00edzo e id\u00eantica a forma do processo.",
                 "pmi": [
                     0.012622827139521078,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, fundadas em t\u00edtulos diferentes, ainda que diversos os devedores, desde que para todas elas seja competente o ju\u00edzo e id\u00eantica a forma do processo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diversos, desde que seja competente o ju\u00edzo e haja identidade na forma do processo.",
                 "pmi": [
                     0.01377035687947754,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniel pode cumular v\u00e1rias execu\u00e7\u00f5es, sendo o mesmo devedor, ainda que fundadas em t\u00edtulos diversos, desde que seja competente o ju\u00edzo e haja identidade na forma do processo."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica.",
                 "pmi": [
                     0.053301049595221875,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica e a contribuinte.",
                 "pmi": [
                     0.06272449195895953,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1, de of\u00edcio, reconhecer e decretar a prescri\u00e7\u00e3o somente depois de ouvida a Fazenda P\u00fablica e a contribuinte."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "poder\u00e1 decretar a prescri\u00e7\u00e3o de of\u00edcio, independentemente da pr\u00e9via oitiva da Fazenda P\u00fablica.",
                 "pmi": [
                     0.09089504329072197,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 decretar a prescri\u00e7\u00e3o de of\u00edcio, independentemente da pr\u00e9via oitiva da Fazenda P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "s\u00f3 poder\u00e1 decretar a prescri\u00e7\u00e3o se esta vier a ser suscitada pela contribuinte.",
                 "pmi": [
                     0.038197629960337987,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00f3 poder\u00e1 decretar a prescri\u00e7\u00e3o se esta vier a ser suscitada pela contribuinte."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "dolo direto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "dolo direto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dolo eventual.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "dolo eventual."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "culpa consciente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "culpa consciente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "culpa inconsciente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "culpa inconsciente."
+                ]
             }
         ],
         "valid": true

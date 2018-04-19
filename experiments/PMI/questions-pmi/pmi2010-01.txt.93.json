@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "ordin\u00e1rio constitucional ao STJ.",
                 "pmi": [
                     0.018463024245738667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ordin\u00e1rio constitucional ao STJ."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ordin\u00e1rio constitucional ao STF.",
                 "pmi": [
                     0.018463024245738667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ordin\u00e1rio constitucional ao STF."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "especial ao STJ e(ou) recurso extraordin\u00e1rio ao STF, conforme o teor da fundamenta\u00e7\u00e3o do ac\u00f3rd\u00e3o.",
                 "pmi": [
                     0.04559035487984671,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "especial ao STJ e(ou) recurso extraordin\u00e1rio ao STF, conforme o teor da fundamenta\u00e7\u00e3o do ac\u00f3rd\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "de embargos infringentes e de nulidade ao grupo criminal competente do TJ/MG.",
                 "pmi": [
                     0.023278908905338354,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "de embargos infringentes e de nulidade ao grupo criminal competente do TJ/MG."
+                ]
             }
         ],
         "valid": true

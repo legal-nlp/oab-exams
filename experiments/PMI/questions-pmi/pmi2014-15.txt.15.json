@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o interessado que tenha tido a repercuss\u00e3o geral de seu recurso extraordin\u00e1rio reconhecida pelo STF.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o interessado que tenha tido a repercuss\u00e3o geral de seu recurso extraordin\u00e1rio reconhecida pelo STF."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a seccional da Ordem dos Advogados do Brasil de qualquer estado da Federa\u00e7\u00e3o.",
                 "pmi": [
                     0.07217960266747471,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a seccional da Ordem dos Advogados do Brasil de qualquer estado da Federa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a Mesa de C\u00e2mara dos Vereadores de munic\u00edpio que tenha interesse direto na s\u00famula.",
                 "pmi": [
                     0.23742136366061894,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Mesa de C\u00e2mara dos Vereadores de munic\u00edpio que tenha interesse direto na s\u00famula."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "o Partido Pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional.",
                 "pmi": [
                     0.04731547507681346,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Partido Pol\u00edtico com representa\u00e7\u00e3o no Congresso Nacional."
+                ]
             }
         ],
         "valid": true

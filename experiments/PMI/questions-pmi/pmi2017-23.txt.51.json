@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Deve oferecer embargos \u00e0 execu\u00e7\u00e3o e, para tanto, dever\u00e1 garantir o ju\u00edzo com penhora, dep\u00f3sito ou cau\u00e7\u00e3o.",
                 "pmi": [
                     0.013529098472434352,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve oferecer embargos \u00e0 execu\u00e7\u00e3o e, para tanto, dever\u00e1 garantir o ju\u00edzo com penhora, dep\u00f3sito ou cau\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Deve oferecer impugna\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o, devendo garantir o ju\u00edzo com penhora, dep\u00f3sito ou cau\u00e7\u00e3o.",
                 "pmi": [
                     0.07165803286841567,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve oferecer impugna\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o, devendo garantir o ju\u00edzo com penhora, dep\u00f3sito ou cau\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Deve oferecer embargos \u00e0 execu\u00e7\u00e3o, sem a necessidade de pr\u00e9via garantia do ju\u00edzo para ser admitido.",
                 "pmi": [
                     0.061022203646172724,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve oferecer embargos \u00e0 execu\u00e7\u00e3o, sem a necessidade de pr\u00e9via garantia do ju\u00edzo para ser admitido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Deve oferecer impugna\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o, sem a necessidade de pr\u00e9via garantia do ju\u00edzo com penhora.",
                 "pmi": [
                     0.09557195618790061,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve oferecer impugna\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o, sem a necessidade de pr\u00e9via garantia do ju\u00edzo com penhora."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O magistrado deve rejeitar a nova demanda com base na peremp\u00e7\u00e3o.",
                 "pmi": [
                     -0.004716570016591714,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado deve rejeitar a nova demanda com base na peremp\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A demanda de paternidade deve ser admitida, j\u00e1 que apenas a quest\u00e3o relativa aos alimentos \u00e9 que transitou em julgado no processo anterior.",
                 "pmi": [
                     0.025227006376957573,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A demanda de paternidade deve ser admitida, j\u00e1 que apenas a quest\u00e3o relativa aos alimentos \u00e9 que transitou em julgado no processo anterior."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, n\u00e3o \u00e9 alcan\u00e7ada pela coisa julgada, pois a cogni\u00e7\u00e3o judicial foi restrita a provas documentais e testemunhais.",
                 "pmi": [
                     0.037356175243995406,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, n\u00e3o \u00e9 alcan\u00e7ada pela coisa julgada, pois a cogni\u00e7\u00e3o judicial foi restrita a provas documentais e testemunhais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, \u00e9 atingida pela coisa julgada, e o novo processo deve ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito.",
                 "pmi": [
                     0.025227006376957573,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A quest\u00e3o prejudicial, relativa \u00e0 paternidade, \u00e9 atingida pela coisa julgada, e o novo processo deve ser extinto sem resolu\u00e7\u00e3o do m\u00e9rito."
+                ]
             }
         ],
         "valid": true

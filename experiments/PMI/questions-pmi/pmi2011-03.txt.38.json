@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Hedging ou hedge.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Hedging ou hedge."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Contrato estimat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Contrato estimat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Venda com reserva de dom\u00ednio.",
                 "pmi": [
                     0.087921271445583,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Venda com reserva de dom\u00ednio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Preemp\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Preemp\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Salvo decis\u00e3o judicial em contr\u00e1rio, a medida cautelar cessa a sua efic\u00e1cia durante o per\u00edodo de suspens\u00e3o do processo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Salvo decis\u00e3o judicial em contr\u00e1rio, a medida cautelar cessa a sua efic\u00e1cia durante o per\u00edodo de suspens\u00e3o do processo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Tratando-se de medida cautelar, o indeferimento da medida n\u00e3o obsta a que a parte intente a a\u00e7\u00e3o nem influi no julgamento desta, salvo se o juiz, no procedimento cautelar, acolher a alega\u00e7\u00e3o de decad\u00eancia do direito do autor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tratando-se de medida cautelar, o indeferimento da medida n\u00e3o obsta a que a parte intente a a\u00e7\u00e3o nem influi no julgamento desta, salvo se o juiz, no procedimento cautelar, acolher a alega\u00e7\u00e3o de decad\u00eancia do direito do autor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Cabe ao requerente da cautelar propor a\u00e7\u00e3o principal no prazo prescricional de trinta dias, contado da data da efetiva\u00e7\u00e3o da medida, quando esta tiver sido concedida em procedimento preparat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe ao requerente da cautelar propor a\u00e7\u00e3o principal no prazo prescricional de trinta dias, contado da data da efetiva\u00e7\u00e3o da medida, quando esta tiver sido concedida em procedimento preparat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Somente quando admitido recurso, eventual medida cautelar ser\u00e1 requerida diretamente ao tribunal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente quando admitido recurso, eventual medida cautelar ser\u00e1 requerida diretamente ao tribunal."
+                ]
             }
         ],
         "valid": true

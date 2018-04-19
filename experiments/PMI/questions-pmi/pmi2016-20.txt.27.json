@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "integralmente inv\u00e1lida, pois lei ordin\u00e1ria n\u00e3o pode alterar lei complementar.",
                 "pmi": [
                     0.17268047932218922,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "integralmente inv\u00e1lida, pois lei ordin\u00e1ria n\u00e3o pode alterar lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "parcialmente v\u00e1lida \u2013 apenas no que concerne \u00e0 altera\u00e7\u00e3o da base de c\u00e1lculo, pois a modifica\u00e7\u00e3o da al\u00edquota s\u00f3 seria poss\u00edvel por meio de lei complementar.",
                 "pmi": [
                     0.09041681355790586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "parcialmente v\u00e1lida \u2013 apenas no que concerne \u00e0 altera\u00e7\u00e3o da base de c\u00e1lculo, pois a modifica\u00e7\u00e3o da al\u00edquota s\u00f3 seria poss\u00edvel por meio de lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "parcialmente v\u00e1lida \u2013 apenas no que concerne \u00e0 altera\u00e7\u00e3o da al\u00edquota, pois a modifica\u00e7\u00e3o da base de c\u00e1lculo s\u00f3 seria poss\u00edvel por meio de lei complementar.",
                 "pmi": [
                     0.09041681355790586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "parcialmente v\u00e1lida \u2013 apenas no que concerne \u00e0 altera\u00e7\u00e3o da al\u00edquota, pois a modifica\u00e7\u00e3o da base de c\u00e1lculo s\u00f3 seria poss\u00edvel por meio de lei complementar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "integralmente v\u00e1lida, pois a mat\u00e9ria por ela disciplinada n\u00e3o \u00e9 constitucionalmente reservada \u00e0 lei complementar.",
                 "pmi": [
                     0.07339194121090846,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "integralmente v\u00e1lida, pois a mat\u00e9ria por ela disciplinada n\u00e3o \u00e9 constitucionalmente reservada \u00e0 lei complementar."
+                ]
             }
         ],
         "valid": true

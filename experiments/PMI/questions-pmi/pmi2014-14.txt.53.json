@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O Minist\u00e9rio P\u00fablico tem a faculdade de intervir nas causas em que h\u00e1 interesses de incapazes.",
                 "pmi": [
                     0.11047251525454822,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Minist\u00e9rio P\u00fablico tem a faculdade de intervir nas causas em que h\u00e1 interesses de incapazes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O Minist\u00e9rio P\u00fablico, intervindo como fiscal da lei, ter\u00e1 vista dos autos depois das partes, sendo intimado de todos os atos do processo.",
                 "pmi": [
                     0.11222505661536573,
                     0.10980360523255035,
                     0.0,
                     0.0
-                ],
-                "text": "O Minist\u00e9rio P\u00fablico, intervindo como fiscal da lei, ter\u00e1 vista dos autos depois das partes, sendo intimado de todos os atos do processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O Minist\u00e9rio P\u00fablico, quando for parte, n\u00e3o gozar\u00e1 de prazos diferenciados para interposi\u00e7\u00e3o de recursos.",
                 "pmi": [
                     0.11047251525454822,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Minist\u00e9rio P\u00fablico, quando for parte, n\u00e3o gozar\u00e1 de prazos diferenciados para interposi\u00e7\u00e3o de recursos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O Minist\u00e9rio P\u00fablico, intervindo como fiscal da lei, n\u00e3o pode requerer dilig\u00eancias com intuito de comprovar a verdade de fatos relevantes para a causa.",
                 "pmi": [
                     0.05446259695192638,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Minist\u00e9rio P\u00fablico, intervindo como fiscal da lei, n\u00e3o pode requerer dilig\u00eancias com intuito de comprovar a verdade de fatos relevantes para a causa."
+                ]
             }
         ],
         "valid": true

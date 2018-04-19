@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "uma norma jur\u00eddica, uma vez emanada, sofre altera\u00e7\u00f5es sem\u00e2nticas pela superveni\u00eancia de mudan\u00e7as no plano dos fatos e valores.",
                 "pmi": [
                     0.02151289007212844,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "uma norma jur\u00eddica, uma vez emanada, sofre altera\u00e7\u00f5es sem\u00e2nticas pela superveni\u00eancia de mudan\u00e7as no plano dos fatos e valores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "toda norma jur\u00eddica \u00e9 interpretada pelo poder discricion\u00e1rio de magistrados, no momento em que estes transformam a vontade abstrata da lei em norma para o caso concreto.",
                 "pmi": [
                     0.0303330837084493,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "toda norma jur\u00eddica \u00e9 interpretada pelo poder discricion\u00e1rio de magistrados, no momento em que estes transformam a vontade abstrata da lei em norma para o caso concreto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o fato social \u00e9 que determina a correta compreens\u00e3o do que \u00e9 a experi\u00eancia jur\u00eddica e, por isso, os costumes devem ter preced\u00eancia sobre a letra fria da lei.",
                 "pmi": [
                     0.019955150384756246,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o fato social \u00e9 que determina a correta compreens\u00e3o do que \u00e9 a experi\u00eancia jur\u00eddica e, por isso, os costumes devem ter preced\u00eancia sobre a letra fria da lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o ativismo judicial n\u00e3o pode ser confundido com o direito mesmo. Ju\u00edzes n\u00e3o podem impor suas pr\u00f3prias ideologias ao julgarem os casos concretos.",
                 "pmi": [
                     0.040151431236475826,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o ativismo judicial n\u00e3o pode ser confundido com o direito mesmo. Ju\u00edzes n\u00e3o podem impor suas pr\u00f3prias ideologias ao julgarem os casos concretos."
+                ]
             }
         ],
         "valid": true

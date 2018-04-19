@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a medida assecurat\u00f3ria decretada pelo magistrado foi inadequada, tendo em vista que caberia o arresto.",
                 "pmi": [
                     -0.005629717061131829,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a medida assecurat\u00f3ria decretada pelo magistrado foi inadequada, tendo em vista que caberia o arresto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a a\u00e7\u00e3o penal n\u00e3o foi intentada nos 60 dias posteriores \u00e0 conclus\u00e3o da dilig\u00eancia.",
                 "pmi": [
                     -0.014933285940684776,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a a\u00e7\u00e3o penal n\u00e3o foi intentada nos 60 dias posteriores \u00e0 conclus\u00e3o da dilig\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a medida assecurat\u00f3ria n\u00e3o poderia ter sido decretada antes do oferecimento da den\u00fancia.",
                 "pmi": [
                     0.04558102096796977,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a medida assecurat\u00f3ria n\u00e3o poderia ter sido decretada antes do oferecimento da den\u00fancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Minist\u00e9rio P\u00fablico n\u00e3o tinha legitimidade para requerer a medida, pois n\u00e3o havia interesse da Fazenda P\u00fablica e o ofendido n\u00e3o era pobre.",
                 "pmi": [
                     0.009791677491737039,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Minist\u00e9rio P\u00fablico n\u00e3o tinha legitimidade para requerer a medida, pois n\u00e3o havia interesse da Fazenda P\u00fablica e o ofendido n\u00e3o era pobre."
+                ]
             }
         ],
         "valid": true

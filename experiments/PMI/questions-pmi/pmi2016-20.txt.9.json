@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, tanto pelo fato de n\u00e3o haver ci\u00eancia de Gabriel, como por n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9.",
                 "pmi": [
                     0.01273912670090371,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, tanto pelo fato de n\u00e3o haver ci\u00eancia de Gabriel, como por n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, pelo fato de n\u00e3o haver ci\u00eancia de Gabriel, mas n\u00e3o por n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9.",
                 "pmi": [
                     0.01273912670090371,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, pelo fato de n\u00e3o haver ci\u00eancia de Gabriel, mas n\u00e3o por n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, pelo fato de n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9, mas n\u00e3o por n\u00e3o haver ci\u00eancia de Gabriel.",
                 "pmi": [
                     0.012739126700903712,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, pelo fato de n\u00e3o haver autoriza\u00e7\u00e3o de Jos\u00e9, mas n\u00e3o por n\u00e3o haver ci\u00eancia de Gabriel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Guilherme n\u00e3o cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, sem ci\u00eancia de Gabriel ou autoriza\u00e7\u00e3o de Jos\u00e9.",
                 "pmi": [
                     0.012520568622583213,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Guilherme n\u00e3o cometeu infra\u00e7\u00e3o disciplinar ao estabelecer entendimento com Bruno, sem ci\u00eancia de Gabriel ou autoriza\u00e7\u00e3o de Jos\u00e9."
+                ]
             }
         ],
         "valid": true

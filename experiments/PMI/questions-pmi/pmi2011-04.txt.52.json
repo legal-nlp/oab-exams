@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Credores concursais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Credores concursais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Credores concorrentes priorit\u00e1rios.",
                 "pmi": [
                     0.01919461489298401,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Credores concorrentes priorit\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Credores reivindicantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Credores reivindicantes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Credores extraconcursais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Credores extraconcursais."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "estagi\u00e1ria.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "estagi\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "aprendiz.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "aprendiz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "cooperativada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "cooperativada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "empregada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "empregada."
+                ]
             }
         ],
         "valid": true

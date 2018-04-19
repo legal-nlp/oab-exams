@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o estatuto jur\u00eddico das empresas p\u00fablicas e sociedades de economia mista.",
                 "pmi": [
                     0.00802209681191576,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o estatuto jur\u00eddico das empresas p\u00fablicas e sociedades de economia mista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "as formas de participa\u00e7\u00e3o do usu\u00e1rio na administra\u00e7\u00e3o p\u00fablica.",
                 "pmi": [
                     0.011230935536682064,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as formas de participa\u00e7\u00e3o do usu\u00e1rio na administra\u00e7\u00e3o p\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "finan\u00e7as p\u00fablicas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "finan\u00e7as p\u00fablicas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "contrata\u00e7\u00e3o por tempo determinado na administra\u00e7\u00e3o p\u00fablica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "contrata\u00e7\u00e3o por tempo determinado na administra\u00e7\u00e3o p\u00fablica."
+                ]
             }
         ],
         "valid": true

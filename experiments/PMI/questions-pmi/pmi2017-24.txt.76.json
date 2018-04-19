@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A prescri\u00e7\u00e3o ocorreu gra\u00e7as ao decurso do tempo e \u00e0 in\u00e9rcia do titular.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prescri\u00e7\u00e3o ocorreu gra\u00e7as ao decurso do tempo e \u00e0 in\u00e9rcia do titular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A prescri\u00e7\u00e3o foi interrompida com o ajuizamento do protesto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prescri\u00e7\u00e3o foi interrompida com o ajuizamento do protesto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A prescri\u00e7\u00e3o ocorreu, porque n\u00e3o cabe protesto judicial na seara trabalhista.",
                 "pmi": [
                     -0.000863247851886561,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prescri\u00e7\u00e3o ocorreu, porque n\u00e3o cabe protesto judicial na seara trabalhista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A prescri\u00e7\u00e3o n\u00e3o corre para os empregados maiores de 60 anos.",
                 "pmi": [
                     -0.005002076041698587,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prescri\u00e7\u00e3o n\u00e3o corre para os empregados maiores de 60 anos."
+                ]
             }
         ],
         "valid": true

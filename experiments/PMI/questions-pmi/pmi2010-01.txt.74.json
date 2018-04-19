@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Caso Paula n\u00e3o tenha informado ao empregador, na data da demiss\u00e3o, o seu estado gestacional, ela n\u00e3o far\u00e1 jus a qualquer indeniza\u00e7\u00e3o decorrente da estabilidade garantida \u00e0 gestante.",
                 "pmi": [
                     0.03211935954639465,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso Paula n\u00e3o tenha informado ao empregador, na data da demiss\u00e3o, o seu estado gestacional, ela n\u00e3o far\u00e1 jus a qualquer indeniza\u00e7\u00e3o decorrente da estabilidade garantida \u00e0 gestante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se ajuizar reclamat\u00f3ria trabalhista at\u00e9 o \u00faltimo dia do prazo prescricional, Paula ter\u00e1 garantido o direito de reintegra\u00e7\u00e3o ao emprego.",
                 "pmi": [
                     0.01912020570287023,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se ajuizar reclamat\u00f3ria trabalhista at\u00e9 o \u00faltimo dia do prazo prescricional, Paula ter\u00e1 garantido o direito de reintegra\u00e7\u00e3o ao emprego."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Caso aju\u00edze reclamat\u00f3ria trabalhista no \u00faltimo dia do prazo prescricional, Paula ter\u00e1 direito t\u00e3o somente aos sal\u00e1rios e demais direitos correspondentes ao per\u00edodo de estabilidade garantido \u00e0 gestante.",
                 "pmi": [
                     0.012746803801913486,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso aju\u00edze reclamat\u00f3ria trabalhista no \u00faltimo dia do prazo prescricional, Paula ter\u00e1 direito t\u00e3o somente aos sal\u00e1rios e demais direitos correspondentes ao per\u00edodo de estabilidade garantido \u00e0 gestante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Se for ajuizada reclamat\u00f3ria ap\u00f3s o per\u00edodo da estabilidade garantido \u00e0 gestante, Paula n\u00e3o ter\u00e1 direito a qualquer efeito jur\u00eddico referente \u00e0 estabilidade.",
                 "pmi": [
                     0.015933504752391858,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se for ajuizada reclamat\u00f3ria ap\u00f3s o per\u00edodo da estabilidade garantido \u00e0 gestante, Paula n\u00e3o ter\u00e1 direito a qualquer efeito jur\u00eddico referente \u00e0 estabilidade."
+                ]
             }
         ],
         "valid": true

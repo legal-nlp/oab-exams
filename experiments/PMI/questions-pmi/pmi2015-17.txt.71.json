@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Josu\u00e9 e Marcos s\u00e3o pass\u00edveis de ser dispensados por justa causa, respectivamente por atos de indisciplina e insubordina\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Josu\u00e9 e Marcos s\u00e3o pass\u00edveis de ser dispensados por justa causa, respectivamente por atos de indisciplina e insubordina\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ambos praticaram ato de indisciplina.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambos praticaram ato de indisciplina."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ambos praticaram ato de insubordina\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambos praticaram ato de insubordina\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A conduta de ambos n\u00e3o encontra tipifica\u00e7\u00e3o legal pass\u00edvel de dispensa por justa causa.",
                 "pmi": [
                     0.012859233141763862,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A conduta de ambos n\u00e3o encontra tipifica\u00e7\u00e3o legal pass\u00edvel de dispensa por justa causa."
+                ]
             }
         ],
         "valid": true

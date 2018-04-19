@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O cheque com cruzamento especial pode ser pago em dinheiro no estabelecimento contra o qual foi sacado ou mediante apresenta\u00e7\u00e3o a uma c\u00e2mara de compensa\u00e7\u00e3o.",
                 "pmi": [
                     -0.057602250129484694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cheque com cruzamento especial pode ser pago em dinheiro no estabelecimento contra o qual foi sacado ou mediante apresenta\u00e7\u00e3o a uma c\u00e2mara de compensa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O cruzamento especial n\u00e3o pode ser convertido em geral e a inutiliza\u00e7\u00e3o do cruzamento ou a do nome do banco \u00e9 reputada como n\u00e3o existente.",
                 "pmi": [
                     -0.021711864209029506,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cruzamento especial n\u00e3o pode ser convertido em geral e a inutiliza\u00e7\u00e3o do cruzamento ou a do nome do banco \u00e9 reputada como n\u00e3o existente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A aposi\u00e7\u00e3o de v\u00e1rios cruzamentos especiais invalida o cheque, exceto se o portador, no primeiro cruzamento, indicar o mesmo banco que o sacado.",
                 "pmi": [
                     0.03402872828482203,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A aposi\u00e7\u00e3o de v\u00e1rios cruzamentos especiais invalida o cheque, exceto se o portador, no primeiro cruzamento, indicar o mesmo banco que o sacado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O cheque com cruzamento especial obriga o sacado a debitar a quantia indicada no t\u00edtulo da conta do emitente e a reserv\u00e1-la em benef\u00edcio do portador legitimado, durante o prazo de apresenta\u00e7\u00e3o.",
                 "pmi": [
                     -0.03350977538493734,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cheque com cruzamento especial obriga o sacado a debitar a quantia indicada no t\u00edtulo da conta do emitente e a reserv\u00e1-la em benef\u00edcio do portador legitimado, durante o prazo de apresenta\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

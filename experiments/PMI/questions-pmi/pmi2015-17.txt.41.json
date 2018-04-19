@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e9 nula a concess\u00e3o de direito de superf\u00edcie por prazo determinado, haja vista s\u00f3 se admitir, no direito brasileiro, a concess\u00e3o perp\u00e9tua.",
                 "pmi": [
                     0.00587800900819647,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 nula a concess\u00e3o de direito de superf\u00edcie por prazo determinado, haja vista s\u00f3 se admitir, no direito brasileiro, a concess\u00e3o perp\u00e9tua."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e9 nula a cl\u00e1usula que prev\u00ea o pagamento de remunera\u00e7\u00e3o em contrapartida \u00e0 concess\u00e3o do direito de superf\u00edcie, haja vista ser a concess\u00e3o ato essencialmente gratuito.",
                 "pmi": [
                     0.005457392903733136,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 nula a cl\u00e1usula que prev\u00ea o pagamento de remunera\u00e7\u00e3o em contrapartida \u00e0 concess\u00e3o do direito de superf\u00edcie, haja vista ser a concess\u00e3o ato essencialmente gratuito."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00e9 nula a cl\u00e1usula que estipula em favor de Mateus o pagamento de determinada quantia em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie.",
                 "pmi": [
                     -0.013675321000458688,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 nula a cl\u00e1usula que estipula em favor de Mateus o pagamento de determinada quantia em caso de aliena\u00e7\u00e3o do direito de superf\u00edcie."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00e9 nula a cl\u00e1usula que obriga Francisco a construir um edif\u00edcio no terreno.",
                 "pmi": [
                     -0.006123293690567555,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 nula a cl\u00e1usula que obriga Francisco a construir um edif\u00edcio no terreno."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Imediatamente para ambos.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Imediatamente para ambos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "No exerc\u00edcio financeiro seguinte para ambos.",
                 "pmi": [
                     0.019032340539887872,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No exerc\u00edcio financeiro seguinte para ambos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "90 dias ap\u00f3s a publica\u00e7\u00e3o da lei para o IPI e imediatamente para o IE.",
                 "pmi": [
                     0.07578008088414996,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "90 dias ap\u00f3s a publica\u00e7\u00e3o da lei para o IPI e imediatamente para o IE."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "90 dias ap\u00f3s o exerc\u00edcio financeiro seguinte para o IPI e no exerc\u00edcio financeiro seguinte para o IE.",
                 "pmi": [
                     0.011419404323932724,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "90 dias ap\u00f3s o exerc\u00edcio financeiro seguinte para o IPI e no exerc\u00edcio financeiro seguinte para o IE."
+                ]
             }
         ],
         "valid": true

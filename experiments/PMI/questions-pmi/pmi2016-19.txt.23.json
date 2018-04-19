@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 ser concedida, porque o Brasil n\u00e3o extradita seus nacionais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 ser concedida, porque o Brasil n\u00e3o extradita seus nacionais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o poder\u00e1 ser concedida, porque o extraditando tem filhos menores sob sua depend\u00eancia econ\u00f4mica.",
                 "pmi": [
                     0.04453242353073859,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 ser concedida, porque o extraditando tem filhos menores sob sua depend\u00eancia econ\u00f4mica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "poder\u00e1 ser concedida, porque o extraditando n\u00e3o \u00e9 brasileiro nato.",
                 "pmi": [
                     0.0408232739099853,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser concedida, porque o extraditando n\u00e3o \u00e9 brasileiro nato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 ser concedida se o pa\u00eds de origem do extraditando tiver tratado de extradi\u00e7\u00e3o com a Fran\u00e7a.",
                 "pmi": [
                     0.02615579613961412,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser concedida se o pa\u00eds de origem do extraditando tiver tratado de extradi\u00e7\u00e3o com a Fran\u00e7a."
+                ]
             }
         ],
         "valid": true

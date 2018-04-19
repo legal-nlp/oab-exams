@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o exclui o cr\u00e9dito tribut\u00e1rio, sendo poss\u00edvel a emiss\u00e3o da CPD-EN.",
                 "pmi": [
                     -0.01691758543031601,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o exclui o cr\u00e9dito tribut\u00e1rio, sendo poss\u00edvel a emiss\u00e3o da CPD-EN."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o, sem o pagamento do cr\u00e9dito, impede a emiss\u00e3o da CPD-EN.",
                 "pmi": [
                     -0.01691758543031601,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o, sem o pagamento do cr\u00e9dito, impede a emiss\u00e3o da CPD-EN."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A pessoa jur\u00eddica XYZ Participa\u00e7\u00f5es Ltda. somente ter\u00e1 direito \u00e0 CPD-EN caso realize o dep\u00f3sito do montante integral.",
                 "pmi": [
                     0.06244007650187471,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pessoa jur\u00eddica XYZ Participa\u00e7\u00f5es Ltda. somente ter\u00e1 direito \u00e0 CPD-EN caso realize o dep\u00f3sito do montante integral."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o suspende a exigibilidade do cr\u00e9dito, sendo poss\u00edvel a emiss\u00e3o da CPD-EN.",
                 "pmi": [
                     -0.01691758543031601,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o ao auto de infra\u00e7\u00e3o suspende a exigibilidade do cr\u00e9dito, sendo poss\u00edvel a emiss\u00e3o da CPD-EN."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O advogado da empresa agiu corretamente, pois trata-se de inqu\u00e9rito para apura\u00e7\u00e3o de falta grave.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado da empresa agiu corretamente, pois trata-se de inqu\u00e9rito para apura\u00e7\u00e3o de falta grave."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O juiz determinou que a empresa dispensasse tr\u00eas das seis testemunhas, pois \u00e9 necess\u00e1rio o equil\u00edbrio com a outra parte. Logo, ambos os advogados agiram corretamente, levando o n\u00famero de testemunhas que entendiam cab\u00edvel.",
                 "pmi": [
                     0.021009642056288105,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz determinou que a empresa dispensasse tr\u00eas das seis testemunhas, pois \u00e9 necess\u00e1rio o equil\u00edbrio com a outra parte. Logo, ambos os advogados agiram corretamente, levando o n\u00famero de testemunhas que entendiam cab\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado do empregado est\u00e1 correto, pois o limite de testemunhas para o processo de rito ordin\u00e1rio \u00e9 de tr\u00eas para cada parte.",
                 "pmi": [
                     0.02801293570981748,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado do empregado est\u00e1 correto, pois o limite de testemunhas para o processo de rito ordin\u00e1rio \u00e9 de tr\u00eas para cada parte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os dois advogados se equivocaram, pois o limite legal \u00e9 de tr\u00eas por processo no rito ordin\u00e1rio, sendo as testemunhas do ju\u00edzo.",
                 "pmi": [
                     0.024900387297615536,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os dois advogados se equivocaram, pois o limite legal \u00e9 de tr\u00eas por processo no rito ordin\u00e1rio, sendo as testemunhas do ju\u00edzo."
+                ]
             }
         ],
         "valid": true

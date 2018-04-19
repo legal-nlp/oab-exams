@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A penhora n\u00e3o ser\u00e1 realizada quando o bem estiver na posse, deten\u00e7\u00e3o ou guarda de terceiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A penhora n\u00e3o ser\u00e1 realizada quando o bem estiver na posse, deten\u00e7\u00e3o ou guarda de terceiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Havendo mais de uma penhora, lavrar-se-\u00e1 um \u00fanico auto de penhora.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Havendo mais de uma penhora, lavrar-se-\u00e1 um \u00fanico auto de penhora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Se o devedor fechar as portas da casa, a fim de obstar a penhora dos bens, o oficial de justi\u00e7a providenciar\u00e1 o arrombamento, independente de qualquer autoriza\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o devedor fechar as portas da casa, a fim de obstar a penhora dos bens, o oficial de justi\u00e7a providenciar\u00e1 o arrombamento, independente de qualquer autoriza\u00e7\u00e3o judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O juiz autorizar\u00e1 a aliena\u00e7\u00e3o antecipada dos bens penhorados quando houver manifesta vantagem.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz autorizar\u00e1 a aliena\u00e7\u00e3o antecipada dos bens penhorados quando houver manifesta vantagem."
+                ]
             }
         ],
         "valid": true

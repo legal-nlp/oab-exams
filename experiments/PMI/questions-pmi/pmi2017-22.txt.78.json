@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O comportamento de Jorge \u00e9 vi\u00e1vel, sendo que, nesse caso, o juiz expedir\u00e1 mandado de pagamento, nos moldes do CPC.",
                 "pmi": [
                     -0.015383442293031216,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O comportamento de Jorge \u00e9 vi\u00e1vel, sendo que, nesse caso, o juiz expedir\u00e1 mandado de pagamento, nos moldes do CPC."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Na Justi\u00e7a do Trabalho, a a\u00e7\u00e3o monit\u00f3ria somente \u00e9 poss\u00edvel em causas de at\u00e9 dois sal\u00e1rios m\u00ednimos, sendo que da senten\u00e7a n\u00e3o caber\u00e1 recurso, o que n\u00e3o \u00e9 a hip\u00f3tese retratada.",
                 "pmi": [
                     0.022713769730962317,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na Justi\u00e7a do Trabalho, a a\u00e7\u00e3o monit\u00f3ria somente \u00e9 poss\u00edvel em causas de at\u00e9 dois sal\u00e1rios m\u00ednimos, sendo que da senten\u00e7a n\u00e3o caber\u00e1 recurso, o que n\u00e3o \u00e9 a hip\u00f3tese retratada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jorge deveria ajuizar a\u00e7\u00e3o de execu\u00e7\u00e3o de t\u00edtulo extrajudicial, que \u00e9 a natureza jur\u00eddica do TRCT preenchido, mas n\u00e3o quitado.",
                 "pmi": [
                     -0.030861526336880257,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jorge deveria ajuizar a\u00e7\u00e3o de execu\u00e7\u00e3o de t\u00edtulo extrajudicial, que \u00e9 a natureza jur\u00eddica do TRCT preenchido, mas n\u00e3o quitado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jorge agiu mal, porque n\u00e3o cabe a\u00e7\u00e3o monit\u00f3ria na Justi\u00e7a do Trabalho, em raz\u00e3o da incompatibilidade de procedimentos.",
                 "pmi": [
                     -0.06661905719317301,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jorge agiu mal, porque n\u00e3o cabe a\u00e7\u00e3o monit\u00f3ria na Justi\u00e7a do Trabalho, em raz\u00e3o da incompatibilidade de procedimentos."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Deve ser declarada a nulidade do ato em quest\u00e3o.",
                 "pmi": [
                     0.14113533711655493,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve ser declarada a nulidade do ato em quest\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Deve ser declarada a caducidade do ato em quest\u00e3o.",
                 "pmi": [
                     0.14113533711655493,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve ser declarada a caducidade do ato em quest\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O ato em quest\u00e3o deve ser cassado.",
                 "pmi": [
                     0.14224737484514374,
                     0.0,
                     0,
                     0
-                ],
-                "text": "O ato em quest\u00e3o deve ser cassado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O ato em quest\u00e3o deve ser revogado.",
                 "pmi": [
                     0.14224737484514374,
                     0.0,
                     0,
                     0
-                ],
-                "text": "O ato em quest\u00e3o deve ser revogado."
+                ]
             }
         ],
         "valid": true

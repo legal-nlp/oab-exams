@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Liberdade Provis\u00f3ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Liberdade Provis\u00f3ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Habeas Corpus.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Habeas Corpus."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Relaxamento de Pris\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Relaxamento de Pris\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Revis\u00e3o Criminal.",
                 "pmi": [
                     -0.012856701388806173,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Revis\u00e3o Criminal."
+                ]
             }
         ],
         "valid": true

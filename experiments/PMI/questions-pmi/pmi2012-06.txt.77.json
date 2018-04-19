@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o juiz n\u00e3o pode homologar o acordo porque isso significaria viola\u00e7\u00e3o \u00e0 coisa julgada.",
                 "pmi": [
                     -0.05870490444943553,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz n\u00e3o pode homologar o acordo porque isso significaria viola\u00e7\u00e3o \u00e0 coisa julgada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, mas o INSS ser\u00e1 recolhido sobre R$ 15.000,00.",
                 "pmi": [
                     -0.1801089266724509,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, mas o INSS ser\u00e1 recolhido sobre R$ 15.000,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a homologa\u00e7\u00e3o do acordo, no caso, dependeria da concord\u00e2ncia do \u00f3rg\u00e3o previdenci\u00e1rio, pois inferior ao valor homologado.",
                 "pmi": [
                     -0.09837691209184389,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a homologa\u00e7\u00e3o do acordo, no caso, dependeria da concord\u00e2ncia do \u00f3rg\u00e3o previdenci\u00e1rio, pois inferior ao valor homologado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, e o INSS ser\u00e1 recolhido sobre R$ 10.000,00.",
                 "pmi": [
                     -0.12488499301970864,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel a homologa\u00e7\u00e3o do acordo, e o INSS ser\u00e1 recolhido sobre R$ 10.000,00."
+                ]
             }
         ],
         "valid": true

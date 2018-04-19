@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00e0 justi\u00e7a do trabalho.",
                 "pmi": [
                     -0.08094620784272534,
                     0,
                     0,
                     0
-                ],
-                "text": "\u00e0 justi\u00e7a do trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e0 justi\u00e7a federal.",
                 "pmi": [
                     -0.0802473563034503,
                     0.0,
                     0,
                     0
-                ],
-                "text": "\u00e0 justi\u00e7a federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00e0 justi\u00e7a comum estadual.",
                 "pmi": [
                     -0.05049566863964688,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e0 justi\u00e7a comum estadual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ao Minist\u00e9rio da Previd\u00eancia Social.",
                 "pmi": [
                     0.023638774898715263,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao Minist\u00e9rio da Previd\u00eancia Social."
+                ]
             }
         ],
         "valid": true

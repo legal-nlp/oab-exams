@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00e9 poss\u00edvel a participa\u00e7\u00e3o de advogados em sociedades sediadas em \u00e1reas territoriais de seccionais diversas.",
                 "pmi": [
                     0.029454886486686746,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel a participa\u00e7\u00e3o de advogados em sociedades sediadas em \u00e1reas territoriais de seccionais diversas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o C\u00f3digo de \u00c9tica n\u00e3o se aplica individualmente aos profissionais que comp\u00f5em sociedade de advogados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o C\u00f3digo de \u00c9tica n\u00e3o se aplica individualmente aos profissionais que comp\u00f5em sociedade de advogados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "podem existir sociedades mistas de advogados e contadores.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "podem existir sociedades mistas de advogados e contadores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a procura\u00e7\u00e3o \u00e9 sempre coletiva quando atuante sociedade de advogados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a procura\u00e7\u00e3o \u00e9 sempre coletiva quando atuante sociedade de advogados."
+                ]
             }
         ],
         "valid": true

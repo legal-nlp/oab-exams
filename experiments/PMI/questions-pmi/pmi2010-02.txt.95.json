@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a coloca\u00e7\u00e3o em fam\u00edlia substituta far-se-\u00e1, exclusivamente, por meio da tutela ou da ado\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a coloca\u00e7\u00e3o em fam\u00edlia substituta far-se-\u00e1, exclusivamente, por meio da tutela ou da ado\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a guarda somente obriga seu detentor \u00e0 assist\u00eancia material a crian\u00e7a ou adolescente.",
                 "pmi": [
                     0.24818202905825346,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a guarda somente obriga seu detentor \u00e0 assist\u00eancia material a crian\u00e7a ou adolescente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o adotando n\u00e3o deve ter mais que 18 anos \u00e0 data do pedido, salvo se j\u00e1 estiver sob a guarda ou tutela dos adotantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o adotando n\u00e3o deve ter mais que 18 anos \u00e0 data do pedido, salvo se j\u00e1 estiver sob a guarda ou tutela dos adotantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "desde que comprovem seu estado civil de casados, somente os maiores de 21 anos podem adotar.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desde que comprovem seu estado civil de casados, somente os maiores de 21 anos podem adotar."
+                ]
             }
         ],
         "valid": true

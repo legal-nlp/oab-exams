@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Especialidade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Especialidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Consun\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Consun\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Subsidiariedade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Subsidiariedade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Alternatividade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Alternatividade."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O prazo prescricional \u00e9 de 3 (tr\u00eas) anos, que j\u00e1 se tinha consumado quando o servidor formulou o pedido na esfera administrativa.",
                 "pmi": [
                     0.027057511398684717,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O prazo prescricional \u00e9 de 3 (tr\u00eas) anos, que j\u00e1 se tinha consumado quando o servidor formulou o pedido na esfera administrativa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e este foi suspenso pelo pedido administrativo. Com a decis\u00e3o negativa, volta a correr a prescri\u00e7\u00e3o contra o servidor.",
                 "pmi": [
                     0.044956245715817585,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e este foi suspenso pelo pedido administrativo. Com a decis\u00e3o negativa, volta a correr a prescri\u00e7\u00e3o contra o servidor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O prazo prescricional \u00e9 de 10 (dez) anos e, a despeito de n\u00e3o haver previs\u00e3o de suspens\u00e3o ou interrup\u00e7\u00e3o do prazo, este ainda n\u00e3o se consumou em desfavor do servidor.",
                 "pmi": [
                     0.010306529940222091,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O prazo prescricional \u00e9 de 10 (dez) anos e, a despeito de n\u00e3o haver previs\u00e3o de suspens\u00e3o ou interrup\u00e7\u00e3o do prazo, este ainda n\u00e3o se consumou em desfavor do servidor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e, portanto, este j\u00e1 transcorreu integralmente, visto que o pedido formulado na esfera administrativa n\u00e3o suspende e nem interrompe a prescri\u00e7\u00e3o.",
                 "pmi": [
                     0.030256333715463928,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O prazo prescricional \u00e9 de 5 (cinco) anos e, portanto, este j\u00e1 transcorreu integralmente, visto que o pedido formulado na esfera administrativa n\u00e3o suspende e nem interrompe a prescri\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

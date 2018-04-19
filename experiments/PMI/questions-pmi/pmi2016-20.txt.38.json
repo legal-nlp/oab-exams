@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Pedro n\u00e3o poder\u00e1 regredir contra Paulo para que participe do rateio do quinh\u00e3o de Jo\u00e3o, pois Fernando o exonerou da solidariedade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro n\u00e3o poder\u00e1 regredir contra Paulo para que participe do rateio do quinh\u00e3o de Jo\u00e3o, pois Fernando o exonerou da solidariedade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Apesar da exonera\u00e7\u00e3o da solidariedade, Pedro pode cobrar de Paulo o valor de R$ 3.000,00 (tr\u00eas mil reais).",
                 "pmi": [
                     -0.04004172503466985,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apesar da exonera\u00e7\u00e3o da solidariedade, Pedro pode cobrar de Paulo o valor de R$ 3.000,00 (tr\u00eas mil reais)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ao pagar integralmente a d\u00edvida, Pedro se sub-roga nos direitos de Fernando, permitindo-se que cobre a integralidade da d\u00edvida dos demais devedores.",
                 "pmi": [
                     -0.007026685887418326,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao pagar integralmente a d\u00edvida, Pedro se sub-roga nos direitos de Fernando, permitindo-se que cobre a integralidade da d\u00edvida dos demais devedores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pedro deveria ter pago a Fernando apenas R$ 2.000,00 (dois mil reais), pois a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a Paulo importa, necessariamente, a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a todos os codevedores.",
                 "pmi": [
                     -0.03638284082169642,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro deveria ter pago a Fernando apenas R$ 2.000,00 (dois mil reais), pois a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a Paulo importa, necessariamente, a exonera\u00e7\u00e3o da solidariedade em rela\u00e7\u00e3o a todos os codevedores."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "qualquer atraso superior a uma hora justifica a retirada do recinto, pelo advogado.",
                 "pmi": [
                     0.03265044201304883,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "qualquer atraso superior a uma hora justifica a retirada do recinto, pelo advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o advogado deveria, no caso narrado, peticionar ao Magistrado e retirar-se do recinto.",
                 "pmi": [
                     0.02794069345430513,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado deveria, no caso narrado, peticionar ao Magistrado e retirar-se do recinto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o atraso que justifica a retirada do advogado est\u00e1 condicionado \u00e0 aus\u00eancia da autoridade judicial no evento.",
                 "pmi": [
                     0.04604920749286699,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o atraso que justifica a retirada do advogado est\u00e1 condicionado \u00e0 aus\u00eancia da autoridade judicial no evento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "meros atrasos da autoridade judicial n\u00e3o permitem a retirada do advogado do recinto.",
                 "pmi": [
                     0.05180535842947536,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "meros atrasos da autoridade judicial n\u00e3o permitem a retirada do advogado do recinto."
+                ]
             }
         ],
         "valid": true

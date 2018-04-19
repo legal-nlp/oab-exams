@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o se submete a prazo prescricional.",
                 "pmi": [
                     0.15310974185056522,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o se submete a prazo prescricional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o se submete a prazo decadencial.",
                 "pmi": [
                     0.15310974185056522,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o se submete a prazo decadencial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "prescreve em 10 (dez) anos, contados da data em que praticado o ato.",
                 "pmi": [
                     0.20221870605128558,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prescreve em 10 (dez) anos, contados da data em que praticado o ato."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "decai em 5 (cinco) anos, contados da data em que praticado o ato.",
                 "pmi": [
                     0.20221870605128558,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "decai em 5 (cinco) anos, contados da data em que praticado o ato."
+                ]
             }
         ],
         "valid": true

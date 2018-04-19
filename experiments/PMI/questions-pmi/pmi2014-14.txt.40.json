@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Para ser decretada a aus\u00eancia, \u00e9 necess\u00e1rio que a pessoa tenha desaparecido h\u00e1 mais de 10 (dez) dias. Como faz apenas uma semana que Raul desapareceu, n\u00e3o pode ser declarada sua aus\u00eancia, com a consequente nomea\u00e7\u00e3o de curador.",
                 "pmi": [
                     0.007195299421142029,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Para ser decretada a aus\u00eancia, \u00e9 necess\u00e1rio que a pessoa tenha desaparecido h\u00e1 mais de 10 (dez) dias. Como faz apenas uma semana que Raul desapareceu, n\u00e3o pode ser declarada sua aus\u00eancia, com a consequente nomea\u00e7\u00e3o de curador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Em sendo declarada a aus\u00eancia, o curador a ser nomeado ser\u00e1 a ex-esposa de Raul.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Em sendo declarada a aus\u00eancia, o curador a ser nomeado ser\u00e1 a ex-esposa de Raul."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A abertura da sucess\u00e3o provis\u00f3ria somente se dar\u00e1 ultrapassados tr\u00eas anos da arrecada\u00e7\u00e3o dos bens de Raul.",
                 "pmi": [
                     0.01243531042367572,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A abertura da sucess\u00e3o provis\u00f3ria somente se dar\u00e1 ultrapassados tr\u00eas anos da arrecada\u00e7\u00e3o dos bens de Raul."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Se Raul contasse com 85 (oitenta e cinco) anos e os parentes e amigos j\u00e1 n\u00e3o soubessem dele h\u00e1 8 (oito) anos, poderia ser feita de forma direta a abertura da sucess\u00e3o definitiva.",
                 "pmi": [
                     -0.002516392727091759,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Raul contasse com 85 (oitenta e cinco) anos e os parentes e amigos j\u00e1 n\u00e3o soubessem dele h\u00e1 8 (oito) anos, poderia ser feita de forma direta a abertura da sucess\u00e3o definitiva."
+                ]
             }
         ],
         "valid": true

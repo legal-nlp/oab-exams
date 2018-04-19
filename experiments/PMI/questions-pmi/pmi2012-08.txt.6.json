@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "quirograf\u00e1ria.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "quirograf\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "real.",
                 "pmi": [
                     -0.046757131028887476,
                     0,
                     0,
                     0
-                ],
-                "text": "real."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "privilegiada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "privilegiada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "natural.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "natural."
+                ]
             }
         ],
         "valid": true

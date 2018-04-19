@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "deve ser ajuizada apenas no lugar da presta\u00e7\u00e3o dos servi\u00e7os.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve ser ajuizada apenas no lugar da presta\u00e7\u00e3o dos servi\u00e7os."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "poder\u00e1 ser ajuizada no local da contrata\u00e7\u00e3o ou da presta\u00e7\u00e3o dos servi\u00e7os.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser ajuizada no local da contrata\u00e7\u00e3o ou da presta\u00e7\u00e3o dos servi\u00e7os."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "deve ser ajuizada no lugar da contrata\u00e7\u00e3o, somente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "deve ser ajuizada no lugar da contrata\u00e7\u00e3o, somente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 ser ajuizada no local da presta\u00e7\u00e3o do servi\u00e7o ou do domic\u00edlio do autor.",
                 "pmi": [
                     0.10349849197896892,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser ajuizada no local da presta\u00e7\u00e3o do servi\u00e7o ou do domic\u00edlio do autor."
+                ]
             }
         ],
         "valid": true

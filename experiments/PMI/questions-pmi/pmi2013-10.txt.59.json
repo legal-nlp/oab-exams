@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "desobedi\u00eancia (Art. 330, do CP).",
                 "pmi": [
                     0.06517599923510306,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desobedi\u00eancia (Art. 330, do CP)."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "prevarica\u00e7\u00e3o (Art. 319, do CP).",
                 "pmi": [
                     -0.013394304050601494,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prevarica\u00e7\u00e3o (Art. 319, do CP)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "corrup\u00e7\u00e3o passiva (Art. 317, do CP).",
                 "pmi": [
                     -0.010715443240481196,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "corrup\u00e7\u00e3o passiva (Art. 317, do CP)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "crime de advocacia administrativa (Art. 321, do CP).",
                 "pmi": [
                     0.02473570623474776,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de advocacia administrativa (Art. 321, do CP)."
+                ]
             }
         ],
         "valid": true

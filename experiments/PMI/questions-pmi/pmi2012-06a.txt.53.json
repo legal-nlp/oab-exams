@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A contribui\u00e7\u00e3o de melhoria \u00e9 um tributo de compet\u00eancia exclusiva dos Estados federados.",
                 "pmi": [
                     0.026879442618844614,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A contribui\u00e7\u00e3o de melhoria \u00e9 um tributo de compet\u00eancia exclusiva dos Estados federados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "As taxas podem ser institu\u00eddas pela Uni\u00e3o, Estados e Distrito Federal e Munic\u00edpios.",
                 "pmi": [
                     -0.011174350793884296,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As taxas podem ser institu\u00eddas pela Uni\u00e3o, Estados e Distrito Federal e Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O ICMS tem destina\u00e7\u00e3o or\u00e7ament\u00e1ria espec\u00edfica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ICMS tem destina\u00e7\u00e3o or\u00e7ament\u00e1ria espec\u00edfica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os impostos t\u00eam por finalidade prec\u00edpua a interven\u00e7\u00e3o do Estado na atividade econ\u00f4mica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os impostos t\u00eam por finalidade prec\u00edpua a interven\u00e7\u00e3o do Estado na atividade econ\u00f4mica."
+                ]
             }
         ],
         "valid": true

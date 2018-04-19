@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, pois a cl\u00e1usula especial configura um termo.",
                 "pmi": [
                     0.03676637144231746,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, pois a cl\u00e1usula especial configura um termo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Prevista uma condi\u00e7\u00e3o na cl\u00e1usula especial, Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel.",
                 "pmi": [
                     0.031232203775031435,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Prevista uma condi\u00e7\u00e3o na cl\u00e1usula especial, Daniela tem direito adquirido \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "H\u00e1 mera expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel por parte de Daniela, pois a cl\u00e1usula especial tem natureza jur\u00eddica de termo.",
                 "pmi": [
                     0.030081576634623373,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "H\u00e1 mera expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel por parte de Daniela, pois a cl\u00e1usula especial tem natureza jur\u00eddica de termo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Daniela tem somente expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, uma vez que h\u00e1 uma condi\u00e7\u00e3o na cl\u00e1usula especial.",
                 "pmi": [
                     0.035136229246910365,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Daniela tem somente expectativa de direito \u00e0 aquisi\u00e7\u00e3o do im\u00f3vel, uma vez que h\u00e1 uma condi\u00e7\u00e3o na cl\u00e1usula especial."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O juiz deve impronunciar Fabr\u00edcio pelo crime de homic\u00eddio, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida.",
                 "pmi": [
                     0.04327282381999615,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve impronunciar Fabr\u00edcio pelo crime de homic\u00eddio, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O juiz deve pronunciar Fabr\u00edcio, remetendo os autos ao Ju\u00edzo comum, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida.",
                 "pmi": [
                     0.03250772405537877,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve pronunciar Fabr\u00edcio, remetendo os autos ao Ju\u00edzo comum, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O juiz deve pronunciar Fabr\u00edcio, submetendo-o ao plen\u00e1rio do J\u00fari, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida.",
                 "pmi": [
                     0.02838428149967308,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve pronunciar Fabr\u00edcio, submetendo-o ao plen\u00e1rio do J\u00fari, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz deve pronunciar Fabr\u00edcio, submetendo-o ao plen\u00e1rio do J\u00fari mediante desclassifica\u00e7\u00e3o do crime comum para crime doloso contra a vida, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida.",
                 "pmi": [
                     0.04348158244236165,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve pronunciar Fabr\u00edcio, submetendo-o ao plen\u00e1rio do J\u00fari mediante desclassifica\u00e7\u00e3o do crime comum para crime doloso contra a vida, diante dos ind\u00edcios de autoria e prova da materialidade, que indicam a pr\u00e1tica de crime doloso contra a vida."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "decreto que promulga tratado.",
                 "pmi": [
                     0.6886361548297036,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "decreto que promulga tratado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "decreto legislativo que aprova tratado.",
                 "pmi": [
                     0.3935592692019568,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "decreto legislativo que aprova tratado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "resolu\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "resolu\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "s\u00famula vinculante.",
                 "pmi": [
                     0.10041360547856769,
                     0.0,
                     0,
                     0
-                ],
-                "text": "s\u00famula vinculante."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o acesso a processo sigiloso \u00e9 poss\u00edvel aos advogados somente quando requeiram a pr\u00e1tica de ato.",
                 "pmi": [
                     0.04735444250684253,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o acesso a processo sigiloso \u00e9 poss\u00edvel aos advogados somente quando requeiram a pr\u00e1tica de ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o acesso dos advogados dos interessados a processos sigilosos romperia com a prote\u00e7\u00e3o que eles mereceriam.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o acesso dos advogados dos interessados a processos sigilosos romperia com a prote\u00e7\u00e3o que eles mereceriam."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o processo sigiloso \u00e9 acess\u00edvel a advogado portando instrumento de mandato.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o processo sigiloso \u00e9 acess\u00edvel a advogado portando instrumento de mandato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "mesmo sem urg\u00eancia, a atua\u00e7\u00e3o do advogado poderia ocorrer, sem mandato, em processo sigiloso.",
                 "pmi": [
                     0.05035775743220424,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mesmo sem urg\u00eancia, a atua\u00e7\u00e3o do advogado poderia ocorrer, sem mandato, em processo sigiloso."
+                ]
             }
         ],
         "valid": true

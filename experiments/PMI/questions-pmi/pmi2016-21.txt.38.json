@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "erro.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "erro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dolo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "dolo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "coa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "coa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "estado de perigo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "estado de perigo."
+                ]
             }
         ],
         "valid": true

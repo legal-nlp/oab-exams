@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A dura\u00e7\u00e3o da licen\u00e7a-maternidade de Maria tem varia\u00e7\u00e3o de acordo com a idade da crian\u00e7a adotada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A dura\u00e7\u00e3o da licen\u00e7a-maternidade de Maria tem varia\u00e7\u00e3o de acordo com a idade da crian\u00e7a adotada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Maria n\u00e3o tem direito \u00e0 licen\u00e7a-maternidade, pois se trata de ado\u00e7\u00e3o e a legisla\u00e7\u00e3o n\u00e3o prev\u00ea essa hip\u00f3tese.",
                 "pmi": [
                     0.022665011352168057,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria n\u00e3o tem direito \u00e0 licen\u00e7a-maternidade, pois se trata de ado\u00e7\u00e3o e a legisla\u00e7\u00e3o n\u00e3o prev\u00ea essa hip\u00f3tese."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Maria tem direito \u00e0 licen\u00e7a-maternidade de 120 dias, sem preju\u00edzo do emprego e do sal\u00e1rio, independentemente da idade da crian\u00e7a adotoda.",
                 "pmi": [
                     0.01280991508021341,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria tem direito \u00e0 licen\u00e7a-maternidade de 120 dias, sem preju\u00edzo do emprego e do sal\u00e1rio, independentemente da idade da crian\u00e7a adotoda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Maria tem direito a duas semanas de licen\u00e7a-maternidade correspondentes ao per\u00edodo de adapta\u00e7\u00e3o necess\u00e1rio na ado\u00e7\u00e3o.",
                 "pmi": [
                     0.016652889604277434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria tem direito a duas semanas de licen\u00e7a-maternidade correspondentes ao per\u00edodo de adapta\u00e7\u00e3o necess\u00e1rio na ado\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

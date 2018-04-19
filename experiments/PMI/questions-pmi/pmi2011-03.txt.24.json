@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A inspe\u00e7\u00e3o judicial poder\u00e1 ser realizada em qualquer fase do processo a fim de esclarecer fato que interesse \u00e0 decis\u00e3o da causa, mas o juiz somente poder\u00e1 agir a requerimento da parte.",
                 "pmi": [
                     0.08528976261503661,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inspe\u00e7\u00e3o judicial poder\u00e1 ser realizada em qualquer fase do processo a fim de esclarecer fato que interesse \u00e0 decis\u00e3o da causa, mas o juiz somente poder\u00e1 agir a requerimento da parte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A inspe\u00e7\u00e3o judicial de coisa ser\u00e1 realizada quando n\u00e3o puder ser apresentada em ju\u00edzo sem consider\u00e1veis despesas ou graves dificuldades, n\u00e3o se admitindo, portanto, a inspe\u00e7\u00e3o de pessoas.",
                 "pmi": [
                     0.04777446917700124,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inspe\u00e7\u00e3o judicial de coisa ser\u00e1 realizada quando n\u00e3o puder ser apresentada em ju\u00edzo sem consider\u00e1veis despesas ou graves dificuldades, n\u00e3o se admitindo, portanto, a inspe\u00e7\u00e3o de pessoas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O juiz poder\u00e1 ser assistido de um ou de mais peritos quando realizar a inspe\u00e7\u00e3o direta, assim como as partes podem assistir ao ato, prestar esclarecimentos e fazer observa\u00e7\u00f5es que reputem de interesse para a causa.",
                 "pmi": [
                     0.046110244757021475,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz poder\u00e1 ser assistido de um ou de mais peritos quando realizar a inspe\u00e7\u00e3o direta, assim como as partes podem assistir ao ato, prestar esclarecimentos e fazer observa\u00e7\u00f5es que reputem de interesse para a causa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O auto circunstanciado que ser\u00e1 lavrado t\u00e3o logo seja conclu\u00edda a inspe\u00e7\u00e3o judicial ter\u00e1 valor de prova e, por isso, a inspe\u00e7\u00e3o somente poder\u00e1 ser realizada na fase probat\u00f3ria do processo cognitivo.",
                 "pmi": [
                     0.09088425604248487,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O auto circunstanciado que ser\u00e1 lavrado t\u00e3o logo seja conclu\u00edda a inspe\u00e7\u00e3o judicial ter\u00e1 valor de prova e, por isso, a inspe\u00e7\u00e3o somente poder\u00e1 ser realizada na fase probat\u00f3ria do processo cognitivo."
+                ]
             }
         ],
         "valid": true

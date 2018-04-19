@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O juiz deve deferir o pedido, pois a juntada do rol das testemunhas de defesa pode ser feita at\u00e9 o encerramento da prova de acusa\u00e7\u00e3o.",
                 "pmi": [
                     0.03070288761475048,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve deferir o pedido, pois a juntada do rol das testemunhas de defesa pode ser feita at\u00e9 o encerramento da prova de acusa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O juiz n\u00e3o deve deferir o pedido, pois o desmembramento da audi\u00eancia una causa nulidade absoluta.",
                 "pmi": [
                     0.02865399947245944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz n\u00e3o deve deferir o pedido, pois o desmembramento da audi\u00eancia una causa nulidade absoluta."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O juiz s\u00f3 deve deferir a oitiva de testemunhas de defesa arroladas posteriormente ao momento da apresenta\u00e7\u00e3o da resposta escrita se ficar demonstrado que a necessidade da oitiva se originou de circunst\u00e2ncias ou fatos apurados na instru\u00e7\u00e3o.",
                 "pmi": [
                     0.00490135728944129,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz s\u00f3 deve deferir a oitiva de testemunhas de defesa arroladas posteriormente ao momento da apresenta\u00e7\u00e3o da resposta escrita se ficar demonstrado que a necessidade da oitiva se originou de circunst\u00e2ncias ou fatos apurados na instru\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz deve deferir o pedido, pois apesar de a juntada do rol de testemunhas da defesa n\u00e3o ter sido feita no momento correto, em nenhuma hip\u00f3tese do processo penal, o juiz deve indeferir dilig\u00eancias requeridas pela defesa.",
                 "pmi": [
                     0.019889864450731837,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz deve deferir o pedido, pois apesar de a juntada do rol de testemunhas da defesa n\u00e3o ter sido feita no momento correto, em nenhuma hip\u00f3tese do processo penal, o juiz deve indeferir dilig\u00eancias requeridas pela defesa."
+                ]
             }
         ],
         "valid": true

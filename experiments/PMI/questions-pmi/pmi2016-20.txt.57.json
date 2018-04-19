@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O magistrado agiu corretamente, uma vez que as regras processuais n\u00e3o podem ser alteradas pela vontade das partes.",
                 "pmi": [
                     0.061211708937853895,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado agiu corretamente, uma vez que as regras processuais n\u00e3o podem ser alteradas pela vontade das partes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se o magistrado tivesse ouvido as partes antes de reconhecer a nulidade, sua decis\u00e3o estaria correta, uma vez que, embora a cl\u00e1usula fosse realmente nula, o princ\u00edpio do contradit\u00f3rio deveria ter sido observado.",
                 "pmi": [
                     0.029876706293757063,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o magistrado tivesse ouvido as partes antes de reconhecer a nulidade, sua decis\u00e3o estaria correta, uma vez que, embora a cl\u00e1usula fosse realmente nula, o princ\u00edpio do contradit\u00f3rio deveria ter sido observado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O magistrado agiu incorretamente, uma vez que, tratando- se de objeto dispon\u00edvel, realizado por partes capazes, eventual neg\u00f3cio processual, que ajuste o procedimento \u00e0s especificidades da causa, deve ser respeitado.",
                 "pmi": [
                     0.033711163746442355,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado agiu incorretamente, uma vez que, tratando- se de objeto dispon\u00edvel, realizado por partes capazes, eventual neg\u00f3cio processual, que ajuste o procedimento \u00e0s especificidades da causa, deve ser respeitado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz n\u00e3o poderia ter reconhecido a nulidade do neg\u00f3cio processual, ainda que se tratasse de contrato de ades\u00e3o realizado por partes em situa\u00e7\u00f5es manifestamente desproporcionais, uma vez que deve ser respeitada a autonomia da vontade.",
                 "pmi": [
                     0.028796362029040908,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz n\u00e3o poderia ter reconhecido a nulidade do neg\u00f3cio processual, ainda que se tratasse de contrato de ades\u00e3o realizado por partes em situa\u00e7\u00f5es manifestamente desproporcionais, uma vez que deve ser respeitada a autonomia da vontade."
+                ]
             }
         ],
         "valid": true

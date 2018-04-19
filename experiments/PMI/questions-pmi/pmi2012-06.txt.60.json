@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "pelo homic\u00eddio de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos.",
                 "pmi": [
                     0.039756062927974095,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pelo homic\u00eddio de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "por tentativa de homic\u00eddio privilegiado de Joaquim e homic\u00eddio culposo de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos.",
                 "pmi": [
                     0.021685125233440416,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "por tentativa de homic\u00eddio privilegiado de Joaquim e homic\u00eddio culposo de Rubem, agravado por ser a v\u00edtima maior de 60 (sessenta) anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "apenas por tentativa de homic\u00eddio privilegiado, uma vez que ocorreu erro quanto \u00e0 pessoa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apenas por tentativa de homic\u00eddio privilegiado, uma vez que ocorreu erro quanto \u00e0 pessoa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "apenas por homic\u00eddio privilegiado consumado, uma vez que ocorreu erro na execu\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apenas por homic\u00eddio privilegiado consumado, uma vez que ocorreu erro na execu\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

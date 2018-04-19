@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Trata-se de a\u00e7\u00e3o de natureza civil e penal, uma vez que a Lei 8.429/92 prev\u00ea san\u00e7\u00f5es de ambas as naturezas.",
                 "pmi": [
                     0.09603811543586833,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de a\u00e7\u00e3o de natureza civil e penal, uma vez que a Lei 8.429/92 prev\u00ea san\u00e7\u00f5es de ambas as naturezas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trata-se de a\u00e7\u00e3o meramente administrativa, uma vez que a Lei 8.429/92 prev\u00ea apenas san\u00e7\u00f5es de car\u00e1ter administrativo.",
                 "pmi": [
                     0.06271529839749417,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de a\u00e7\u00e3o meramente administrativa, uma vez que a Lei 8.429/92 prev\u00ea apenas san\u00e7\u00f5es de car\u00e1ter administrativo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Trata-se de a\u00e7\u00e3o civil, muito embora as san\u00e7\u00f5es previstas pela Lei 8.429/92 ultrapassem o \u00e2mbito da simples a\u00e7\u00e3o de ressarcimento e importem em penalidades de natureza penal e administrativa.",
                 "pmi": [
                     0.08370061972829854,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de a\u00e7\u00e3o civil, muito embora as san\u00e7\u00f5es previstas pela Lei 8.429/92 ultrapassem o \u00e2mbito da simples a\u00e7\u00e3o de ressarcimento e importem em penalidades de natureza penal e administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o se trata de uma a\u00e7\u00e3o judicial e sim de uma a\u00e7\u00e3o administrativa, com a previs\u00e3o legal (Lei 8.429/92) de san\u00e7\u00f5es penais e administrativas.",
                 "pmi": [
                     0.06292893446392328,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se trata de uma a\u00e7\u00e3o judicial e sim de uma a\u00e7\u00e3o administrativa, com a previs\u00e3o legal (Lei 8.429/92) de san\u00e7\u00f5es penais e administrativas."
+                ]
             }
         ],
         "valid": true

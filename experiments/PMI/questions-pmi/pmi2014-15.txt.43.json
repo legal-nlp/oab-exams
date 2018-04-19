@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Francisco deve restituir a Gabriel todos os frutos colhidos e percebidos, mas tem direito de ser ressarcido pelas despesas de produ\u00e7\u00e3o e custeio.",
                 "pmi": [
                     0.007045649997349548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco deve restituir a Gabriel todos os frutos colhidos e percebidos, mas tem direito de ser ressarcido pelas despesas de produ\u00e7\u00e3o e custeio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Francisco tem direito aos frutos percebidos durante o per\u00edodo em que permaneceu na fazenda.",
                 "pmi": [
                     0.011071735710120718,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco tem direito aos frutos percebidos durante o per\u00edodo em que permaneceu na fazenda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Francisco tem direito \u00e0 metade dos frutos colhidos, devendo restituir a outra metade a Gabriel.",
                 "pmi": [
                     0.027333086749104365,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco tem direito \u00e0 metade dos frutos colhidos, devendo restituir a outra metade a Gabriel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Francisco deve restituir a Gabriel todos os frutos colhidos e percebidos, e n\u00e3o tem direito de ser ressarcido pelas despesas de produ\u00e7\u00e3o e custeio.",
                 "pmi": [
                     0.007045649997349548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco deve restituir a Gabriel todos os frutos colhidos e percebidos, e n\u00e3o tem direito de ser ressarcido pelas despesas de produ\u00e7\u00e3o e custeio."
+                ]
             }
         ],
         "valid": true

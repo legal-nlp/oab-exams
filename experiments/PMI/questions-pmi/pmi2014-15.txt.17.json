@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Juan, cidad\u00e3o espanhol, casado com Beatriz, brasileira, ambos residentes em Barcelona.",
                 "pmi": [
                     0.18969799415501787,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juan, cidad\u00e3o espanhol, casado com Beatriz, brasileira, ambos residentes em Barcelona."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Anderson, cidad\u00e3o portugu\u00eas, domiciliado no Brasil h\u00e1 360 dias.",
                 "pmi": [
                     0.08855704586402692,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Anderson, cidad\u00e3o portugu\u00eas, domiciliado no Brasil h\u00e1 360 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Louis, cidad\u00e3o franc\u00eas, domiciliado em Bras\u00edlia h\u00e1 14 anos, que est\u00e1 em liberdade condicional, ap\u00f3s condena\u00e7\u00e3o pelo crime de explora\u00e7\u00e3o sexual de vulner\u00e1vel.",
                 "pmi": [
                     0.022382845978430835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Louis, cidad\u00e3o franc\u00eas, domiciliado em Bras\u00edlia h\u00e1 14 anos, que est\u00e1 em liberdade condicional, ap\u00f3s condena\u00e7\u00e3o pelo crime de explora\u00e7\u00e3o sexual de vulner\u00e1vel."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Maria, 45 anos, cidad\u00e3 russa, residente e domiciliada no Brasil desde seus 25 anos de idade, processada criminalmente por inj\u00faria, mas absolvida por senten\u00e7a transitada em julgado.",
                 "pmi": [
                     0.08546296944593085,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria, 45 anos, cidad\u00e3 russa, residente e domiciliada no Brasil desde seus 25 anos de idade, processada criminalmente por inj\u00faria, mas absolvida por senten\u00e7a transitada em julgado."
+                ]
             }
         ],
         "valid": true

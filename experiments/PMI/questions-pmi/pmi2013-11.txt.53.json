@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O arresto busca garantir a efetividade da futura execu\u00e7\u00e3o de pagar quantia certa, consistindo na apreens\u00e3o de bens indeterminados do patrim\u00f4nio do devedor.",
                 "pmi": [
                     0.07425003224666235,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O arresto busca garantir a efetividade da futura execu\u00e7\u00e3o de pagar quantia certa, consistindo na apreens\u00e3o de bens indeterminados do patrim\u00f4nio do devedor."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "No sequestro, considerando que o objetivo \u00e9 assegurar a entrega de coisa, sempre haver\u00e1 certeza sobre quem \u00e9 o dono da coisa. Ou seja, no sequestro a coisa n\u00e3o \u00e9 e nunca ser\u00e1 litigiosa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No sequestro, considerando que o objetivo \u00e9 assegurar a entrega de coisa, sempre haver\u00e1 certeza sobre quem \u00e9 o dono da coisa. Ou seja, no sequestro a coisa n\u00e3o \u00e9 e nunca ser\u00e1 litigiosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A futura execu\u00e7\u00e3o garantida pelo sequestro n\u00e3o precisa ser desenvolvida, necessariamente, por meio de processo aut\u00f4nomo, sendo admitida que esta seja desenvolvida atrav\u00e9s de mera fase procedimental (cumprimento de senten\u00e7a).",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A futura execu\u00e7\u00e3o garantida pelo sequestro n\u00e3o precisa ser desenvolvida, necessariamente, por meio de processo aut\u00f4nomo, sendo admitida que esta seja desenvolvida atrav\u00e9s de mera fase procedimental (cumprimento de senten\u00e7a)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O sequestro tem por objetivo assegurar a efic\u00e1cia de futura execu\u00e7\u00e3o para a entrega de coisa, consistindo na busca e apreens\u00e3o de determinado bem do patrim\u00f4nio do requerido.",
                 "pmi": [
                     0.04808428406027499,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sequestro tem por objetivo assegurar a efic\u00e1cia de futura execu\u00e7\u00e3o para a entrega de coisa, consistindo na busca e apreens\u00e3o de determinado bem do patrim\u00f4nio do requerido."
+                ]
             }
         ],
         "valid": true

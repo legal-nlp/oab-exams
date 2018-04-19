@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "2 (dois) anos contados da notifica\u00e7\u00e3o do contribuinte da decis\u00e3o administrativa.",
                 "pmi": [
                     0.041917542373050676,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "2 (dois) anos contados da notifica\u00e7\u00e3o do contribuinte da decis\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "5 (cinco) anos contados da notifica\u00e7\u00e3o do contribuinte da decis\u00e3o administrativa.",
                 "pmi": [
                     0.04390463893882405,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "5 (cinco) anos contados da notifica\u00e7\u00e3o do contribuinte da decis\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "5 (cinco) anos contados do primeiro dia do exerc\u00edcio seguinte ao fato gerador.",
                 "pmi": [
                     0.0011638079055589095,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "5 (cinco) anos contados do primeiro dia do exerc\u00edcio seguinte ao fato gerador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "1 (um) ano contado da data do julgamento.",
                 "pmi": [
                     0.03542235403452246,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "1 (um) ano contado da data do julgamento."
+                ]
             }
         ],
         "valid": true

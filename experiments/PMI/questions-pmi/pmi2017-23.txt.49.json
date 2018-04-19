@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O endosso produz seus efeitos legais porque a transmiss\u00e3o do cheque se deu dentro do prazo de apresenta\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O endosso produz seus efeitos legais porque a transmiss\u00e3o do cheque se deu dentro do prazo de apresenta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "No endosso em preto, o endossat\u00e1rio fica dispensado da apresenta\u00e7\u00e3o em tempo h\u00e1bil do cheque ao sacado.",
                 "pmi": [
                     -0.004497201245051228,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No endosso em preto, o endossat\u00e1rio fica dispensado da apresenta\u00e7\u00e3o em tempo h\u00e1bil do cheque ao sacado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O endosso do cheque tem efeito de cess\u00e3o de cr\u00e9dito por ter sido realizado ap\u00f3s o decurso do prazo de apresenta\u00e7\u00e3o.",
                 "pmi": [
                     0.01970310031280217,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O endosso do cheque tem efeito de cess\u00e3o de cr\u00e9dito por ter sido realizado ap\u00f3s o decurso do prazo de apresenta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pedrinho ficou exonerado de responbabilidade pelo pagamento do cheque em raz\u00e3o do car\u00e1ter p\u00f3stumo do endosso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedrinho ficou exonerado de responbabilidade pelo pagamento do cheque em raz\u00e3o do car\u00e1ter p\u00f3stumo do endosso."
+                ]
             }
         ],
         "valid": true

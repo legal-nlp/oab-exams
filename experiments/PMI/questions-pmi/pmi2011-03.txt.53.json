@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "se admite a instaura\u00e7\u00e3o do processo disciplinar por den\u00fancia an\u00f4nima.",
                 "pmi": [
                     0.02814986045499189,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "se admite a instaura\u00e7\u00e3o do processo disciplinar por den\u00fancia an\u00f4nima."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o pode ocorrer a instaura\u00e7\u00e3o, de of\u00edcio, do processo disciplinar.",
                 "pmi": [
                     0.03377983254599027,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o pode ocorrer a instaura\u00e7\u00e3o, de of\u00edcio, do processo disciplinar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "h\u00e1 necessidade de identifica\u00e7\u00e3o do representante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "h\u00e1 necessidade de identifica\u00e7\u00e3o do representante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00e9 instaurado exclusivamente por representa\u00e7\u00e3o do interessado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 instaurado exclusivamente por representa\u00e7\u00e3o do interessado."
+                ]
             }
         ],
         "valid": true

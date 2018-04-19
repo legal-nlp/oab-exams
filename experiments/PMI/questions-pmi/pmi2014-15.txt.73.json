@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A atitude do empregador \u00e9 leg\u00edtima e ele pode suprimir a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o, j\u00e1 que o valor n\u00e3o foi percebido por mais de dez anos.",
                 "pmi": [
                     0.024257731803338244,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A atitude do empregador \u00e9 leg\u00edtima e ele pode suprimir a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o, j\u00e1 que o valor n\u00e3o foi percebido por mais de dez anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O empregador n\u00e3o pode rebaixar Samuel, devendo mant\u00ea-lo como gerente, mas pode reduzir a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o.",
                 "pmi": [
                     0.01698041226233677,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregador n\u00e3o pode rebaixar Samuel, devendo mant\u00ea-lo como gerente, mas pode reduzir a gratifica\u00e7\u00e3o de fun\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O empregador pode revert\u00ea-lo ao cargo de origem, mas a gratifica\u00e7\u00e3o deve ser mantida, pois recebida h\u00e1 mais de cinco anos.",
                 "pmi": [
                     0.03144557738948575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregador pode revert\u00ea-lo ao cargo de origem, mas a gratifica\u00e7\u00e3o deve ser mantida, pois recebida h\u00e1 mais de cinco anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A atitude do empregador \u00e9 il\u00edcita, pois est\u00e1 rebaixando o empregado, em atitude contr\u00e1ria \u00e0s normas trabalhistas.",
                 "pmi": [
                     0.01187573672611363,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A atitude do empregador \u00e9 il\u00edcita, pois est\u00e1 rebaixando o empregado, em atitude contr\u00e1ria \u00e0s normas trabalhistas."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Escrito.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Escrito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Inquisit\u00f3rio.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Inquisit\u00f3rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Indispens\u00e1vel.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Indispens\u00e1vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Formal.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Formal."
+                ]
             }
         ],
         "valid": true

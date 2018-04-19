@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "erro de proibi\u00e7\u00e3o direto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "erro de proibi\u00e7\u00e3o direto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "erro de tipo essencial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "erro de tipo essencial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "erro de tipo acidental.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "erro de tipo acidental."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "erro sobre as descriminantes putativas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "erro sobre as descriminantes putativas."
+                ]
             }
         ],
         "valid": true

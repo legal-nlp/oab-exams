@@ -19,16 +19,16 @@ def load_stopwords():
     return set(sw)
 
 def unigram(text, sw):
-    return list(nltk.ngrams(split(text, sw), 1))
+    return [" ".join(x) for x in (nltk.ngrams(split(text, sw), 1))]
 
 def bigram(text, sw):
-    return list(nltk.ngrams(split(text, sw), 2))
+    return [" ".join(x) for x in (nltk.ngrams(split(text, sw), 2))]
 
 def trigram(text, sw):
-    return list(nltk.ngrams(split(text, sw), 3))
+    return [" ".join(x) for x in (nltk.ngrams(split(text, sw), 3))]
 
 def skip_trigram(text, sw):
-    return list([ (x[0],x[2]) for x in nltk.ngrams(split(text, sw), 3) ])
+    return ([ "{} (\w+) {}".format(x[0],x[2]) for x in nltk.ngrams(split(text, sw), 3) ])
 
 def compute_all_pmi(ngram_fn, oab, corpus, sw):
     """Compute the PMI by extracting all n-grams given by NGRAM_FN from

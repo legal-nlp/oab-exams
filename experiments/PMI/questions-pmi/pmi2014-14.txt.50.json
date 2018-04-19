@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Constitui-se a propriedade fiduci\u00e1ria de coisa im\u00f3vel mediante registro do contrato que lhe serve de t\u00edtulo no Registro de Im\u00f3veis competente.",
                 "pmi": [
                     0.018705333760953107,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constitui-se a propriedade fiduci\u00e1ria de coisa im\u00f3vel mediante registro do contrato que lhe serve de t\u00edtulo no Registro de Im\u00f3veis competente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Somente poder\u00e1 ser contratada por pessoa jur\u00eddica que integre o Sistema de Financiamento Imobili\u00e1rio \u2013 SFI.",
                 "pmi": [
                     0.03798162797059482,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente poder\u00e1 ser contratada por pessoa jur\u00eddica que integre o Sistema de Financiamento Imobili\u00e1rio \u2013 SFI."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o pode ter como objeto a propriedade superfici\u00e1ria do im\u00f3vel do fiduciante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o pode ter como objeto a propriedade superfici\u00e1ria do im\u00f3vel do fiduciante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O fiduciante poder\u00e1 transmitir os direitos de que seja titular sobre o im\u00f3vel objeto da aliena\u00e7\u00e3o fiduci\u00e1ria independentemente da anu\u00eancia do fiduci\u00e1rio.",
                 "pmi": [
                     0.013840729050543092,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O fiduciante poder\u00e1 transmitir os direitos de que seja titular sobre o im\u00f3vel objeto da aliena\u00e7\u00e3o fiduci\u00e1ria independentemente da anu\u00eancia do fiduci\u00e1rio."
+                ]
             }
         ],
         "valid": true

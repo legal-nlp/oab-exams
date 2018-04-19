@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "caso a peti\u00e7\u00e3o inicial se ache desacompanhada do t\u00edtulo executivo, dever\u00e1 ser indeferida de plano, n\u00e3o se admitindo prazo para corre\u00e7\u00e3o, dada a natureza sum\u00e1ria das a\u00e7\u00f5es executivas.",
                 "pmi": [
                     0.11500842964454502,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caso a peti\u00e7\u00e3o inicial se ache desacompanhada do t\u00edtulo executivo, dever\u00e1 ser indeferida de plano, n\u00e3o se admitindo prazo para corre\u00e7\u00e3o, dada a natureza sum\u00e1ria das a\u00e7\u00f5es executivas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "caber\u00e1 ao devedor indicar a esp\u00e9cie de execu\u00e7\u00e3o que prefere, quando de mais de um modo puder ser efetuada.",
                 "pmi": [
                     0.07976529474704092,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caber\u00e1 ao devedor indicar a esp\u00e9cie de execu\u00e7\u00e3o que prefere, quando de mais de um modo puder ser efetuada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "dever\u00e1 ser extinta se o t\u00edtulo n\u00e3o corresponder a obriga\u00e7\u00e3o certa, l\u00edquida e exig\u00edvel.",
                 "pmi": [
                     -0.027228462855538652,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser extinta se o t\u00edtulo n\u00e3o corresponder a obriga\u00e7\u00e3o certa, l\u00edquida e exig\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "cabe ao devedor provar que o credor n\u00e3o adimpliu a contrapresta\u00e7\u00e3o, quando a satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o do executado estiver condicionada \u00e0 realiza\u00e7\u00e3o daquela.",
                 "pmi": [
                     -0.018957474831237046,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe ao devedor provar que o credor n\u00e3o adimpliu a contrapresta\u00e7\u00e3o, quando a satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o do executado estiver condicionada \u00e0 realiza\u00e7\u00e3o daquela."
+                ]
             }
         ],
         "valid": true

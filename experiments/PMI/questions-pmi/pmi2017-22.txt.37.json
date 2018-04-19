@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "o reparo do vazamento na cozinha.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reparo do vazamento na cozinha."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a forma\u00e7\u00e3o de novo c\u00f4modo, destinado a servir de despensa, pelo levantamento de divis\u00f3ria na \u00e1rea de servi\u00e7o.",
                 "pmi": [
                     0.03321866796633869,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a forma\u00e7\u00e3o de novo c\u00f4modo, destinado a servir de despensa, pelo levantamento de divis\u00f3ria na \u00e1rea de servi\u00e7o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a amplia\u00e7\u00e3o do n\u00famero de tomadas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "a amplia\u00e7\u00e3o do n\u00famero de tomadas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a troca do port\u00e3o manual da garagem por um eletr\u00f4nico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a troca do port\u00e3o manual da garagem por um eletr\u00f4nico."
+                ]
             }
         ],
         "valid": true

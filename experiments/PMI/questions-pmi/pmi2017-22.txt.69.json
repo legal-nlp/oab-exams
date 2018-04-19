@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "litispend\u00eancia.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "litispend\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "coisa julgada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "coisa julgada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "incompet\u00eancia.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "incompet\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ilegitimidade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "ilegitimidade."
+                ]
             }
         ],
         "valid": true

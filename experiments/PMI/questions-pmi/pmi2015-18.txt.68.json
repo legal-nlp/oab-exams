@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "il\u00edcita, pois somente o Minist\u00e9rio P\u00fablico tem legitimidade para representar pela medida.",
                 "pmi": [
                     0.06830926870065097,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "il\u00edcita, pois somente o Minist\u00e9rio P\u00fablico tem legitimidade para representar pela medida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "v\u00e1lida, desde que tenha sido deferida por ordem do juiz competente para a\u00e7\u00e3o principal.",
                 "pmi": [
                     0.024462314832088747,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "v\u00e1lida, desde que tenha sido deferida por ordem do juiz competente para a\u00e7\u00e3o principal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "il\u00edcita, pois o crime investigado \u00e9 punido com deten\u00e7\u00e3o.",
                 "pmi": [
                     0.015212648671928522,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "il\u00edcita, pois o crime investigado \u00e9 punido com deten\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "il\u00edcita, assim como as dela derivadas, ainda que estas pudessem ser obtidas por fonte independente da primeira.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "il\u00edcita, assim como as dela derivadas, ainda que estas pudessem ser obtidas por fonte independente da primeira."
+                ]
             }
         ],
         "valid": true

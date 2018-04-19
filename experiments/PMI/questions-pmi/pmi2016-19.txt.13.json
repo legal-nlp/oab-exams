@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Deputado Estadual pelo Estado X.",
                 "pmi": [
                     0.05086733010960131,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deputado Estadual pelo Estado X."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Deputado Federal pelo Estado E.",
                 "pmi": [
                     0.054728192799939526,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Deputado Federal pelo Estado E."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Senador da Rep\u00fablica pelo Estado E.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Senador da Rep\u00fablica pelo Estado E."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Governador pelo Estado E.",
                 "pmi": [
                     0.0004068407082141134,
                     0,
                     0,
                     0
-                ],
-                "text": "Governador pelo Estado E."
+                ]
             }
         ],
         "valid": true

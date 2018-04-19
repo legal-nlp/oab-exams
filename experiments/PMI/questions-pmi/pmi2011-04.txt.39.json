@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o da lei e a inclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, que na situa\u00e7\u00e3o descrita ser\u00e1 o dia 13/06/2011.",
                 "pmi": [
                     0.07476063515209741,
                     0.009237155204410676,
                     0.0,
                     0.0
-                ],
-                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o da lei e a inclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, que na situa\u00e7\u00e3o descrita ser\u00e1 o dia 13/06/2011."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, passando a vigorar no dia 10/06/2011.",
                 "pmi": [
                     0.08396435659360688,
                     0.010658256005089241,
                     0.0,
                     0.0
-                ],
-                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia subsequente \u00e0 sua consuma\u00e7\u00e3o integral, passando a vigorar no dia 10/06/2011."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e exclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia 09/06/2011.",
                 "pmi": [
                     0.0902184322783137,
                     0.015395258674017793,
                     0.0,
                     0.0
-                ],
-                "text": "pela inclus\u00e3o da data de publica\u00e7\u00e3o e exclus\u00e3o do \u00faltimo dia do prazo, entrando em vigor no dia 09/06/2011."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia 11/06/2011.",
                 "pmi": [
                     0.12180703602809496,
                     0.017319666008270018,
                     0.0,
                     0.0
-                ],
-                "text": "pela exclus\u00e3o da data de publica\u00e7\u00e3o e do \u00faltimo dia do prazo, entrando em vigor no dia 11/06/2011."
+                ]
             }
         ],
         "valid": true

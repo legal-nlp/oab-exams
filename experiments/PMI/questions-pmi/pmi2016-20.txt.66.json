@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "se o perito concluir que o acusado era inimput\u00e1vel ao tempo da infra\u00e7\u00e3o, o processo prosseguir\u00e1, mas se a insanidade surgiu ap\u00f3s o ato criminoso imputado, o processo ficar\u00e1 suspenso.",
                 "pmi": [
                     0.06389125705929267,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "se o perito concluir que o acusado era inimput\u00e1vel ao tempo da infra\u00e7\u00e3o, o processo prosseguir\u00e1, mas se a insanidade surgiu ap\u00f3s o ato criminoso imputado, o processo ficar\u00e1 suspenso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "da decis\u00e3o do magistrado que indeferiu a instaura\u00e7\u00e3o do incidente caber\u00e1 recurso em sentido estrito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da decis\u00e3o do magistrado que indeferiu a instaura\u00e7\u00e3o do incidente caber\u00e1 recurso em sentido estrito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "diante da suspeita da autoridade policial, poderia ela mesmo ter instaurado incidente de insanidade mental.",
                 "pmi": [
                     0.04802129652919089,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "diante da suspeita da autoridade policial, poderia ela mesmo ter instaurado incidente de insanidade mental."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o incidente de insanidade mental \u00e9 processado em autos em apartado e n\u00e3o gera, de imediato, qualquer suspens\u00e3o do processo.",
                 "pmi": [
                     0.0513553212532474,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o incidente de insanidade mental \u00e9 processado em autos em apartado e n\u00e3o gera, de imediato, qualquer suspens\u00e3o do processo."
+                ]
             }
         ],
         "valid": true

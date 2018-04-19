@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "requerer o adiamento para data pr\u00f3xima.",
                 "pmi": [
                     0.0006367834712002931,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "requerer o adiamento para data pr\u00f3xima."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dar procura\u00e7\u00e3o com poderes espec\u00edficos ao seu advogado para que este o represente.",
                 "pmi": [
                     -0.01720817330494011,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dar procura\u00e7\u00e3o com poderes espec\u00edficos ao seu advogado para que este o represente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "fazer-se representar por outro empregado da mesma profiss\u00e3o ou pelo seu sindicato.",
                 "pmi": [
                     0.0010834154535504061,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "fazer-se representar por outro empregado da mesma profiss\u00e3o ou pelo seu sindicato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "deixar arquivar a demanda e ajuizar uma nova. Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China.",
                 "pmi": [
                     -0.04732657146195381,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deixar arquivar a demanda e ajuizar uma nova. Jorge, que presta servi\u00e7os a uma companhia a\u00e9rea na China, \u00e9 autor de um processo em face da Via\u00e7\u00e3o Brasil S/A, sua ex-empregadora. Na data da audi\u00eancia, Jorge estar\u00e1, comprovadamente, trabalhando na China."
+                ]
             }
         ],
         "valid": true

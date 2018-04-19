@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "erroneamente, tendo em vista a Lei Processual admite a a\u00e7\u00e3o privada nos crimes de a\u00e7\u00e3o p\u00fablica quando esta n\u00e3o for intentada.",
                 "pmi": [
                     0.03494942133179942,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "erroneamente, tendo em vista a Lei Processual admite a a\u00e7\u00e3o privada nos crimes de a\u00e7\u00e3o p\u00fablica quando esta n\u00e3o for intentada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "corretamente, pois a v\u00edtima n\u00e3o tem legitimidade para ajuizar a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.",
                 "pmi": [
                     0.03478861220423993,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "corretamente, pois a v\u00edtima n\u00e3o tem legitimidade para ajuizar a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "corretamente, j\u00e1 que a Lei Processual n\u00e3o admite a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica nos casos em que o Minist\u00e9rio P\u00fablico n\u00e3o se mant\u00e9m inerte.",
                 "pmi": [
                     0.0484711897100826,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "corretamente, j\u00e1 que a Lei Processual n\u00e3o admite a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica nos casos em que o Minist\u00e9rio P\u00fablico n\u00e3o se mant\u00e9m inerte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "erroneamente, j\u00e1 que a Lei Processual admite, implicitamente, a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica.",
                 "pmi": [
                     0.057641207805166045,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "erroneamente, j\u00e1 que a Lei Processual admite, implicitamente, a a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica."
+                ]
             }
         ],
         "valid": true

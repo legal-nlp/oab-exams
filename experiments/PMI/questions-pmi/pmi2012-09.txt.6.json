@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O estagi\u00e1rio poder\u00e1 retirar os autos do cart\u00f3rio conjuntamente com a advogada.",
                 "pmi": [
                     0.03621874516016806,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O estagi\u00e1rio poder\u00e1 retirar os autos do cart\u00f3rio conjuntamente com a advogada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Os atos do estagi\u00e1rio ocorrem sob a supervis\u00e3o e responsabilidade da advogada.",
                 "pmi": [
                     0.014040663766250287,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os atos do estagi\u00e1rio ocorrem sob a supervis\u00e3o e responsabilidade da advogada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "As peti\u00e7\u00f5es apresentadas no processo ter\u00e3o a subscri\u00e7\u00e3o conjunta da advogada inclusive de juntada de documentos.",
                 "pmi": [
                     0.017060521487873872,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As peti\u00e7\u00f5es apresentadas no processo ter\u00e3o a subscri\u00e7\u00e3o conjunta da advogada inclusive de juntada de documentos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O estagi\u00e1rio poder\u00e1 realizar audi\u00eancias judiciais autonomamente sem a presen\u00e7a da advogada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O estagi\u00e1rio poder\u00e1 realizar audi\u00eancias judiciais autonomamente sem a presen\u00e7a da advogada."
+                ]
             }
         ],
         "valid": true

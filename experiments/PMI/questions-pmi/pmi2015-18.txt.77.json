@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O in\u00edcio do prazo ser\u00e1 na segunda-feira e a contagem do prazo dever\u00e1 ser iniciada na ter\u00e7a-feira, se forem dias \u00fateis.",
                 "pmi": [
                     0.05615330956691026,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O in\u00edcio do prazo ser\u00e1 na segunda-feira e a contagem do prazo dever\u00e1 ser iniciada na ter\u00e7a-feira, se forem dias \u00fateis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O in\u00edcio do prazo ser\u00e1 na segunda-feira e a contagem do prazo tamb\u00e9m dever\u00e1 ser iniciada na pr\u00f3pria segunda-feira, se dia \u00fatil.",
                 "pmi": [
                     0.023578632662165654,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O in\u00edcio do prazo ser\u00e1 na segunda-feira e a contagem do prazo tamb\u00e9m dever\u00e1 ser iniciada na pr\u00f3pria segunda-feira, se dia \u00fatil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O in\u00edcio do prazo ser\u00e1 no s\u00e1bado, mas a contagem do prazo ser\u00e1 iniciada na ter\u00e7a-feira, se dia \u00fatil.",
                 "pmi": [
                     0.020958784588591694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O in\u00edcio do prazo ser\u00e1 no s\u00e1bado, mas a contagem do prazo ser\u00e1 iniciada na ter\u00e7a-feira, se dia \u00fatil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O in\u00edcio do prazo ser\u00e1 no s\u00e1bado, mas a contagem do prazo ser\u00e1 iniciada na segunda-feira, se dia \u00fatil.",
                 "pmi": [
                     0.023578632662165654,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O in\u00edcio do prazo ser\u00e1 no s\u00e1bado, mas a contagem do prazo ser\u00e1 iniciada na segunda-feira, se dia \u00fatil."
+                ]
             }
         ],
         "valid": true

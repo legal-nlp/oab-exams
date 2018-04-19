@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "possuem personalidade jur\u00eddica pr\u00f3pria, respondendo diretamente por seus atos.",
                 "pmi": [
                     0.13192429983735948,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "possuem personalidade jur\u00eddica pr\u00f3pria, respondendo diretamente por seus atos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "suas atua\u00e7\u00f5es s\u00e3o imputadas \u00e0s pessoas jur\u00eddicas a que pertencem.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "suas atua\u00e7\u00f5es s\u00e3o imputadas \u00e0s pessoas jur\u00eddicas a que pertencem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "n\u00e3o possuem cargos, apenas fun\u00e7\u00f5es, e estas s\u00e3o criadas por atos normativos do ocupante do respectivo \u00f3rg\u00e3o.",
                 "pmi": [
                     0.04531739151836571,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o possuem cargos, apenas fun\u00e7\u00f5es, e estas s\u00e3o criadas por atos normativos do ocupante do respectivo \u00f3rg\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o possuem cargos nem fun\u00e7\u00f5es.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o possuem cargos nem fun\u00e7\u00f5es."
+                ]
             }
         ],
         "valid": true

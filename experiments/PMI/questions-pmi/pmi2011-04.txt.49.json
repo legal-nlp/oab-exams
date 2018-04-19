@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "del credere.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "del credere."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "pacto comiss\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "pacto comiss\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "venda com reserva de dom\u00ednio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "venda com reserva de dom\u00ednio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "hedge.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "hedge."
+                ]
             }
         ],
         "valid": true

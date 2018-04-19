@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "N\u00e3o, pois \u00e9 irrelevante o fato de Lara j\u00e1 ter sofrido medida socioeducativa.",
                 "pmi": [
                     0.013625343102883098,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o, pois \u00e9 irrelevante o fato de Lara j\u00e1 ter sofrido medida socioeducativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o, pois Lara ainda \u00e9 uma crian\u00e7a.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "N\u00e3o, pois Lara ainda \u00e9 uma crian\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Sim, j\u00e1 que o crime de corrup\u00e7\u00e3o de menores exige que o menor n\u00e3o esteja corrompido.",
                 "pmi": [
                     0.008681146182479548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim, j\u00e1 que o crime de corrup\u00e7\u00e3o de menores exige que o menor n\u00e3o esteja corrompido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Sim, visto que no crime de corrup\u00e7\u00e3o de menores, a v\u00edtima tem que ser uma crian\u00e7a.",
                 "pmi": [
                     0.007234288485399623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim, visto que no crime de corrup\u00e7\u00e3o de menores, a v\u00edtima tem que ser uma crian\u00e7a."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os participantes n\u00e3o portem armas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os participantes n\u00e3o portem armas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A reuni\u00e3o seja autorizada pela autoridade competente.",
                 "pmi": [
                     0.06597051899860248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A reuni\u00e3o seja autorizada pela autoridade competente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A reuni\u00e3o n\u00e3o frustre outra reuni\u00e3o anteriormente convocada para o mesmo local.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A reuni\u00e3o n\u00e3o frustre outra reuni\u00e3o anteriormente convocada para o mesmo local."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os participantes re\u00fanam-se pacificamente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os participantes re\u00fanam-se pacificamente."
+                ]
             }
         ],
         "valid": true

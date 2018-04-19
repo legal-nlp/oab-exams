@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Aplic\u00e1vel a Lei italiana, haja vista que nenhum dos c\u00f4njuges \u00e9 brasileiro nato.",
                 "pmi": [
                     0.04098548450325327,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplic\u00e1vel a Lei italiana, haja vista que nenhum dos c\u00f4njuges \u00e9 brasileiro nato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Aplic\u00e1vel a Lei italiana, em raz\u00e3o do local em que foi realizado o casamento.",
                 "pmi": [
                     -0.005430458557852334,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplic\u00e1vel a Lei italiana, em raz\u00e3o do local em que foi realizado o casamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Aplic\u00e1vel a Lei brasileira, em raz\u00e3o do domic\u00edlio do c\u00f4njuge var\u00e3o.",
                 "pmi": [
                     -0.004654678763873429,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplic\u00e1vel a Lei brasileira, em raz\u00e3o do domic\u00edlio do c\u00f4njuge var\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Aplic\u00e1vel a Lei brasileira, porque aqui constitu\u00eddo o primeiro domic\u00edlio do casal.",
                 "pmi": [
                     -0.005430458557852334,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplic\u00e1vel a Lei brasileira, porque aqui constitu\u00eddo o primeiro domic\u00edlio do casal."
+                ]
             }
         ],
         "valid": true

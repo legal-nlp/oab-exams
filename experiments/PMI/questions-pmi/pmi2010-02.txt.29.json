@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a obriga\u00e7\u00e3o fica resolvida, com a devolu\u00e7\u00e3o de valores eventualmente pagos.",
                 "pmi": [
                     0.04865040640394808,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a obriga\u00e7\u00e3o fica resolvida, com a devolu\u00e7\u00e3o de valores eventualmente pagos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a obriga\u00e7\u00e3o subsiste, com a entrega da coisa no estado em que se encontra.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a obriga\u00e7\u00e3o subsiste, com a entrega da coisa no estado em que se encontra."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a obriga\u00e7\u00e3o subsiste, com a entrega da coista no estado em que se encontra e abati mento no pre\u00e7o proporcional \u00e0 deteriora\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a obriga\u00e7\u00e3o subsiste, com a entrega da coista no estado em que se encontra e abati mento no pre\u00e7o proporcional \u00e0 deteriora\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "a obriga\u00e7\u00e3o poder\u00e1 ser resolvida, com a devolu\u00e7\u00e3o de valores eventualmente pagos, ou subsisti r, com a entrega da coisa no estado em que se encontra e abati mento no pre\u00e7o proporcional \u00e0 deteriora\u00e7\u00e3o, cabendo ao credor a escolha de uma dentre as duas solu\u00e7\u00f5es.",
                 "pmi": [
                     -0.014529883853819633,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a obriga\u00e7\u00e3o poder\u00e1 ser resolvida, com a devolu\u00e7\u00e3o de valores eventualmente pagos, ou subsisti r, com a entrega da coisa no estado em que se encontra e abati mento no pre\u00e7o proporcional \u00e0 deteriora\u00e7\u00e3o, cabendo ao credor a escolha de uma dentre as duas solu\u00e7\u00f5es."
+                ]
             }
         ],
         "valid": true

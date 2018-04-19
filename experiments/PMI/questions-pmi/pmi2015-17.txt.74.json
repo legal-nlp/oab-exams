@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Jonas poder\u00e1 ser desligado ao t\u00e9rmino do aviso pr\u00e9vio, pois n\u00e3o possui garantia no emprego.",
                 "pmi": [
                     0.029279267270943647,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jonas poder\u00e1 ser desligado ao t\u00e9rmino do aviso pr\u00e9vio, pois n\u00e3o possui garantia no emprego."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jonas tem garantia no emprego por determina\u00e7\u00e3o legal, porque, pelo fato superveniente, o aviso pr\u00e9vio perde seu efeito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jonas tem garantia no emprego por determina\u00e7\u00e3o legal, porque, pelo fato superveniente, o aviso pr\u00e9vio perde seu efeito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jonas passou a ser portador de garantia no emprego, n\u00e3o podendo ter o contrato rompido.",
                 "pmi": [
                     0.014151073242364231,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jonas passou a ser portador de garantia no emprego, n\u00e3o podendo ter o contrato rompido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jonas somente poder\u00e1 ser dispensado se houver concord\u00e2ncia do sindicato de classe obreiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jonas somente poder\u00e1 ser dispensado se houver concord\u00e2ncia do sindicato de classe obreiro."
+                ]
             }
         ],
         "valid": true

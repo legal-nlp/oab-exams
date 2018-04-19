@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Carlos atuou em leg\u00edtima defesa de seu filho, devendo responder, por\u00e9m, pela morte de Leandro.",
                 "pmi": [
                     0.0062192647597698525,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos atuou em leg\u00edtima defesa de seu filho, devendo responder, por\u00e9m, pela morte de Leandro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Carlos atuou em estado de necessidade defensivo, devendo responder, por\u00e9m, pela morte de Leandro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos atuou em estado de necessidade defensivo, devendo responder, por\u00e9m, pela morte de Leandro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Carlos atuou em estado de necessidade e n\u00e3o deve responder pela morte de Leandro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos atuou em estado de necessidade e n\u00e3o deve responder pela morte de Leandro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Carlos atuou em estado de necessidade putativo, raz\u00e3o pela qual n\u00e3o deve responder pela morte de Leandro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos atuou em estado de necessidade putativo, raz\u00e3o pela qual n\u00e3o deve responder pela morte de Leandro."
+                ]
             }
         ],
         "valid": true

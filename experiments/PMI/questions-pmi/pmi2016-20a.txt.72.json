@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O sal\u00e1rio pago a Vinicius \u00e9 ilegal porque inferior ao sal\u00e1rio m\u00ednimo nacional, cabendo ent\u00e3o reivindicar a diferen\u00e7a correspondente.",
                 "pmi": [
                     -0.08483982835253477,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sal\u00e1rio pago a Vinicius \u00e9 ilegal porque inferior ao sal\u00e1rio m\u00ednimo nacional, cabendo ent\u00e3o reivindicar a diferen\u00e7a correspondente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O sal\u00e1rio \u00e9 de livre estipula\u00e7\u00e3o em cada contrato, da\u00ed porque n\u00e3o cabe ao Judici\u00e1rio interferir nos valores fixados livremente pelas partes.",
                 "pmi": [
                     -0.07774303601674794,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sal\u00e1rio \u00e9 de livre estipula\u00e7\u00e3o em cada contrato, da\u00ed porque n\u00e3o cabe ao Judici\u00e1rio interferir nos valores fixados livremente pelas partes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A situa\u00e7\u00e3o retrata discrimina\u00e7\u00e3o salarial, pois n\u00e3o pode haver diverg\u00eancia salarial entre empregados que exercem a mesma fun\u00e7\u00e3o.",
                 "pmi": [
                     -0.022870274652750506,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A situa\u00e7\u00e3o retrata discrimina\u00e7\u00e3o salarial, pois n\u00e3o pode haver diverg\u00eancia salarial entre empregados que exercem a mesma fun\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00c9 poss\u00edvel a estipula\u00e7\u00e3o do sal\u00e1rio de Vinicius nessa base, pois ele guarda rela\u00e7\u00e3o com o de Le\u00f4nidas, que cumpre a jornada constitucional.",
                 "pmi": [
                     -0.04306364565678156,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 poss\u00edvel a estipula\u00e7\u00e3o do sal\u00e1rio de Vinicius nessa base, pois ele guarda rela\u00e7\u00e3o com o de Le\u00f4nidas, que cumpre a jornada constitucional."
+                ]
             }
         ],
         "valid": true

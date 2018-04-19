@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A referida lei \u00e9 inconstitucional, pois \u00e9 vedada \u00e0 Uni\u00e3o instituir benef\u00edcio fiscal de tributo de compet\u00eancia dos Estados, do Distrito Federal e dos Munic\u00edpios.",
                 "pmi": [
                     0.0675298799521975,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A referida lei \u00e9 inconstitucional, pois \u00e9 vedada \u00e0 Uni\u00e3o instituir benef\u00edcio fiscal de tributo de compet\u00eancia dos Estados, do Distrito Federal e dos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O regime de tributa\u00e7\u00e3o simplificada \u00e9 obrigat\u00f3rio a todos os contribuintes que cumpram os requisitos previstos na referida lei complementar.",
                 "pmi": [
                     0.060973370420645136,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O regime de tributa\u00e7\u00e3o simplificada \u00e9 obrigat\u00f3rio a todos os contribuintes que cumpram os requisitos previstos na referida lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A referida lei \u00e9 inconstitucional, no que se refere ao ICMS, pois institui benef\u00edcio fiscal do imposto sem a competente autoriza\u00e7\u00e3o por meio de conv\u00eanio do Conselho Nacional de Pol\u00edtica Fazend\u00e1ria \u2013 CONFAZ.",
                 "pmi": [
                     0.06579217903412235,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A referida lei \u00e9 inconstitucional, no que se refere ao ICMS, pois institui benef\u00edcio fiscal do imposto sem a competente autoriza\u00e7\u00e3o por meio de conv\u00eanio do Conselho Nacional de Pol\u00edtica Fazend\u00e1ria \u2013 CONFAZ."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Segundo a Constitui\u00e7\u00e3o Federal, a fiscaliza\u00e7\u00e3o do cumprimento das obriga\u00e7\u00f5es principais e acess\u00f3rias do regime \u00fanico de arrecada\u00e7\u00e3o poder\u00e1 ser compartilhada pelos entes da Federa\u00e7\u00e3o.",
                 "pmi": [
                     0.026352753313137224,
                     0.011151057363131801,
                     0.0,
                     0.0
-                ],
-                "text": "Segundo a Constitui\u00e7\u00e3o Federal, a fiscaliza\u00e7\u00e3o do cumprimento das obriga\u00e7\u00f5es principais e acess\u00f3rias do regime \u00fanico de arrecada\u00e7\u00e3o poder\u00e1 ser compartilhada pelos entes da Federa\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

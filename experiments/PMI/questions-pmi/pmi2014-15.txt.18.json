@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A lei n\u00e3o pode retroagir, porque a situa\u00e7\u00e3o versa sobre direitos indispon\u00edveis de Pedro.",
                 "pmi": [
                     0.02068004173386318,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei n\u00e3o pode retroagir, porque a situa\u00e7\u00e3o versa sobre direitos indispon\u00edveis de Pedro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A lei n\u00e3o pode retroagir para prejudicar a coisa julgada formada em favor de Pedro.",
                 "pmi": [
                     0.0216711832872056,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei n\u00e3o pode retroagir para prejudicar a coisa julgada formada em favor de Pedro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A lei pode retroagir, pois n\u00e3o h\u00e1 direito adquirido de Pedro diante de nova legisla\u00e7\u00e3o.",
                 "pmi": [
                     0.019984673381359487,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei pode retroagir, pois n\u00e3o h\u00e1 direito adquirido de Pedro diante de nova legisla\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A lei pode retroagir, porque n\u00e3o h\u00e1 ato jur\u00eddico perfeito em favor de Pedro diante de pagamentos pendentes.",
                 "pmi": [
                     0.045135421254496565,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei pode retroagir, porque n\u00e3o h\u00e1 ato jur\u00eddico perfeito em favor de Pedro diante de pagamentos pendentes."
+                ]
             }
         ],
         "valid": true

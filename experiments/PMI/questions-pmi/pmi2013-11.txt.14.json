@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias.",
                 "pmi": [
                     0.13859751797731507,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em dinheiro, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o.",
                 "pmi": [
                     0.3596538948391128,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em dinheiro, mas as benfeitorias n\u00e3o s\u00e3o pass\u00edveis de indeniza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias.",
                 "pmi": [
                     0.18337199641251456,
                     0.15632922249668882,
                     0.21989465591236215,
-                    0.0
-                ],
-                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, incluindo-se as benfeitorias \u00fateis e necess\u00e1rias."
+                    0.21989465591236215
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro.",
                 "pmi": [
                     0.24707394559677215,
                     0.13399647642573329,
                     0.18324554659363512,
-                    0.0
-                ],
-                "text": "em t\u00edtulos da d\u00edvida agr\u00e1ria, mas as benfeitorias \u00fateis e necess\u00e1rias ser\u00e3o indenizadas em dinheiro."
+                    0.18324554659363512
+                ]
             }
         ],
         "valid": true

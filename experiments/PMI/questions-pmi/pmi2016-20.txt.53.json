@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Romero dever\u00e1 ser citado para apresentar defesa com, pelo menos, 15 (quinze) dias de anteced\u00eancia.",
                 "pmi": [
                     -0.0009181682046198769,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Romero dever\u00e1 ser citado para apresentar defesa com, pelo menos, 15 (quinze) dias de anteced\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A audi\u00eancia n\u00e3o ser\u00e1 realizada, uma vez que Ant\u00f4nia manifestou expressamente seu desinteresse pela concilia\u00e7\u00e3o.",
                 "pmi": [
                     0.029587091607714833,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A audi\u00eancia n\u00e3o ser\u00e1 realizada, uma vez que Ant\u00f4nia manifestou expressamente seu desinteresse pela concilia\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ainda que ambas as partes manifestem desinteresse na concilia\u00e7\u00e3o, quando a mat\u00e9ria n\u00e3o admitir autocomposi\u00e7\u00e3o, a audi\u00eancia de concilia\u00e7\u00e3o ocorrer\u00e1 normalmente.",
                 "pmi": [
                     0.010880350262278769,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ainda que ambas as partes manifestem desinteresse na concilia\u00e7\u00e3o, quando a mat\u00e9ria n\u00e3o admitir autocomposi\u00e7\u00e3o, a audi\u00eancia de concilia\u00e7\u00e3o ocorrer\u00e1 normalmente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Ant\u00f4nia deve ser informada que o seu n\u00e3o comparecimento \u00e9 considerado ato atentat\u00f3rio \u00e0 dignidade da justi\u00e7a, sob pena de multa.",
                 "pmi": [
                     0.01598963737828847,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ant\u00f4nia deve ser informada que o seu n\u00e3o comparecimento \u00e9 considerado ato atentat\u00f3rio \u00e0 dignidade da justi\u00e7a, sob pena de multa."
+                ]
             }
         ],
         "valid": true

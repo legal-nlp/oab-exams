@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Paulo tem direito a receber em dobro os dias de feriado trabalhados.",
                 "pmi": [
                     0.06044105806544933,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo tem direito a receber em dobro os dias de feriado trabalhados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Paulo n\u00e3o dever\u00e1 receber os dias de feriado trabalhados, pois os mesmos foram compensados no sistema de escala.",
                 "pmi": [
                     0.04099576506427482,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo n\u00e3o dever\u00e1 receber os dias de feriado trabalhados, pois os mesmos foram compensados no sistema de escala."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Paulo dever\u00e1 receber os dias trabalhados de forma simples, n\u00e3o se considerando trabalho extraordin\u00e1rio normal em decorr\u00eancia do sistema de escala.",
                 "pmi": [
                     0.02869703554499237,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo dever\u00e1 receber os dias trabalhados de forma simples, n\u00e3o se considerando trabalho extraordin\u00e1rio normal em decorr\u00eancia do sistema de escala."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Paulo n\u00e3o dever\u00e1 receber os dias de feriado, pois s\u00e3o equivalentes ao descanso semanal remunerado.",
                 "pmi": [
                     0.035871294431240465,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo n\u00e3o dever\u00e1 receber os dias de feriado, pois s\u00e3o equivalentes ao descanso semanal remunerado."
+                ]
             }
         ],
         "valid": true

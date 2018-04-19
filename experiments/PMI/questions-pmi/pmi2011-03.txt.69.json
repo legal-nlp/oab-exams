@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, n\u00e3o lhe assistindo o direito \u00e0 redu\u00e7\u00e3o da hora noturna.",
                 "pmi": [
                     0.03640962997676457,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, n\u00e3o lhe assistindo o direito \u00e0 redu\u00e7\u00e3o da hora noturna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias, mas n\u00e3o lhe assiste o direito ao pagamento de adicional noturno, j\u00e1 que n\u00e3o houve presta\u00e7\u00e3o de servi\u00e7os entre as 22h de um dia e as 5h do dia seguinte.",
                 "pmi": [
                     0.05094802209310963,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco tem direito ao pagamento de horas extraordin\u00e1rias, mas n\u00e3o lhe assiste o direito ao pagamento de adicional noturno, j\u00e1 que n\u00e3o houve presta\u00e7\u00e3o de servi\u00e7os entre as 22h de um dia e as 5h do dia seguinte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Francisco n\u00e3o tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, por se tratar de empregado dom\u00e9stico.",
                 "pmi": [
                     0.028567654153112142,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco n\u00e3o tem direito ao pagamento de horas extraordin\u00e1rias e de adicional noturno, por se tratar de empregado dom\u00e9stico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A redu\u00e7\u00e3o da hora noturna deveria ter sido observada pelo empregador.",
                 "pmi": [
                     0.014285482684335979,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A redu\u00e7\u00e3o da hora noturna deveria ter sido observada pelo empregador."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 apresentar revis\u00e3o criminal, pois a pena de Jos\u00e9 j\u00e1 havia sido extinta pelo cumprimento.",
                 "pmi": [
                     0.04849833832449636,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 apresentar revis\u00e3o criminal, pois a pena de Jos\u00e9 j\u00e1 havia sido extinta pelo cumprimento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o poder\u00e1 apresentar revis\u00e3o criminal, pois o acusado, que \u00e9 quem teria legitimidade, j\u00e1 \u00e9 falecido.",
                 "pmi": [
                     0.028501991815992958,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 apresentar revis\u00e3o criminal, pois o acusado, que \u00e9 quem teria legitimidade, j\u00e1 \u00e9 falecido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "poder\u00e1 apresentar revis\u00e3o criminal, sendo competente para julgamento o Superior Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.09480196361455011,
                     0.01204082493517706,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 apresentar revis\u00e3o criminal, sendo competente para julgamento o Superior Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "poder\u00e1 apresentar revis\u00e3o criminal, sendo competente para julgamento o Tribunal de Justi\u00e7a de Santa Catarina.",
                 "pmi": [
                     0.07529098373692951,
                     0.010535721818279928,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 apresentar revis\u00e3o criminal, sendo competente para julgamento o Tribunal de Justi\u00e7a de Santa Catarina."
+                ]
             }
         ],
         "valid": true

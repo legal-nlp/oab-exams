@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "seis peti\u00e7\u00f5es iniciais civis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "seis peti\u00e7\u00f5es iniciais civis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "tr\u00eas participa\u00e7\u00f5es em audi\u00eancias.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "tr\u00eas participa\u00e7\u00f5es em audi\u00eancias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "quatro pe\u00e7as defensivas gerais.",
                 "pmi": [
                     0.10174845687061827,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "quatro pe\u00e7as defensivas gerais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "cinco atos privativos de advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cinco atos privativos de advogado."
+                ]
             }
         ],
         "valid": true

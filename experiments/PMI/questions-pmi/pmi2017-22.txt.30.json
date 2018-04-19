@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Requisi\u00e7\u00e3o administrativa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Requisi\u00e7\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tombamento.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Tombamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Desapropria\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Desapropria\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Servid\u00e3o administrativa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Servid\u00e3o administrativa."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "M\u00e9lvio n\u00e3o faz jus ao direito de reten\u00e7\u00e3o por benfeitorias, pois sua posse \u00e9 de m\u00e1-f\u00e9 e as benfeitorias, ainda que necess\u00e1rias, n\u00e3o devem ser indenizadas, porque n\u00e3o mais existiam quando a a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse transitou em julgado.",
                 "pmi": [
                     -0.002891421541864476,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "M\u00e9lvio n\u00e3o faz jus ao direito de reten\u00e7\u00e3o por benfeitorias, pois sua posse \u00e9 de m\u00e1-f\u00e9 e as benfeitorias, ainda que necess\u00e1rias, n\u00e3o devem ser indenizadas, porque n\u00e3o mais existiam quando a a\u00e7\u00e3o de reintegra\u00e7\u00e3o de posse transitou em julgado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "M\u00e9lvio \u00e9 possuidor de boa-f\u00e9, fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias e devendo ser indenizado por Cassandra com base no valor delas.",
                 "pmi": [
                     0.001527148225935263,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "M\u00e9lvio \u00e9 possuidor de boa-f\u00e9, fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias e devendo ser indenizado por Cassandra com base no valor delas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "M\u00e9lvio \u00e9 possuidor de m\u00e1-f\u00e9, n\u00e3o fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias, mas deve ser indenizado por Cassandra com base no valor delas.",
                 "pmi": [
                     -0.00048017789089853694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "M\u00e9lvio \u00e9 possuidor de m\u00e1-f\u00e9, n\u00e3o fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias, mas deve ser indenizado por Cassandra com base no valor delas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "M\u00e9lvio \u00e9 possuidor de m\u00e1-f\u00e9, fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias e devendo ser indenizado pelo valor atual delas.",
                 "pmi": [
                     0.0028901355291170087,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "M\u00e9lvio \u00e9 possuidor de m\u00e1-f\u00e9, fazendo jus ao direito de reten\u00e7\u00e3o por benfeitorias e devendo ser indenizado pelo valor atual delas."
+                ]
             }
         ],
         "valid": true

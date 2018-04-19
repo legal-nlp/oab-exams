@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Sendo o pedido julgado improcedente, haver\u00e1 condena\u00e7\u00e3o em honor\u00e1rios advocat\u00edcios.",
                 "pmi": [
                     0.03053832082086989,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sendo o pedido julgado improcedente, haver\u00e1 condena\u00e7\u00e3o em honor\u00e1rios advocat\u00edcios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A improced\u00eancia por aus\u00eancia de provas caracteriza a m\u00e1-f\u00e9 do autor popular.",
                 "pmi": [
                     0.12366725291205802,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A improced\u00eancia por aus\u00eancia de provas caracteriza a m\u00e1-f\u00e9 do autor popular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A reitera\u00e7\u00e3o na propositura da mesma a\u00e7\u00e3o acarreta o pagamento de custas pelo autor popular.",
                 "pmi": [
                     0.022988749909723247,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A reitera\u00e7\u00e3o na propositura da mesma a\u00e7\u00e3o acarreta o pagamento de custas pelo autor popular."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "As custas ser\u00e3o devidas se declarada, expressamente, a m\u00e1-f\u00e9 do autor popular.",
                 "pmi": [
                     0.04597127248113546,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As custas ser\u00e3o devidas se declarada, expressamente, a m\u00e1-f\u00e9 do autor popular."
+                ]
             }
         ],
         "valid": true

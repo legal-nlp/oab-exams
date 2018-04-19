@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese.",
                 "pmi": [
                     0.09328195825288124,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "cabe recurso ao Conselho Federal, por contrariar decis\u00e3o do Conselho Seccional de Minas Gerais.",
                 "pmi": [
                     0.04664097912644062,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe recurso ao Conselho Federal, por contrariar decis\u00e3o do Conselho Seccional de Minas Gerais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "cabe recurso ao Conselho Federal, se a decis\u00e3o contrariar tamb\u00e9m decis\u00e3o do Conselho Federal, e n\u00e3o apenas decis\u00e3o do Conselho Seccional de Minas Gerais.",
                 "pmi": [
                     0.033920712091956816,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe recurso ao Conselho Federal, se a decis\u00e3o contrariar tamb\u00e9m decis\u00e3o do Conselho Federal, e n\u00e3o apenas decis\u00e3o do Conselho Seccional de Minas Gerais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese, ainda que n\u00e3o existisse decis\u00e3o em sentido contr\u00e1rio do Conselho Seccional de Minas Gerais.",
                 "pmi": [
                     0.033920712091956816,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe recurso ao Conselho Federal, em qualquer hip\u00f3tese, ainda que n\u00e3o existisse decis\u00e3o em sentido contr\u00e1rio do Conselho Seccional de Minas Gerais."
+                ]
             }
         ],
         "valid": true

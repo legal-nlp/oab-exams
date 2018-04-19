@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "n\u00e3o est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de resultado, sendo, ainda, autorizado a Sandro obter ressarcimento por perdas e danos de Danilo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de resultado, sendo, ainda, autorizado a Sandro obter ressarcimento por perdas e danos de Danilo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o est\u00e1 obrigado a efetuar o pagamento a Danilo, por ser o contrato nulo, tendo em vista que Reinaldo n\u00e3o \u00e9 parte contratante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o est\u00e1 obrigado a efetuar o pagamento a Danilo, por ser o contrato nulo, tendo em vista que Reinaldo n\u00e3o \u00e9 parte contratante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de meio, restando a Sandro o direito de cobrar perdas e danos diretamente de Reinaldo.",
                 "pmi": [
                     0.006232140059605681,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de meio, restando a Sandro o direito de cobrar perdas e danos diretamente de Reinaldo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de meio, sendo incab\u00edvel a cobran\u00e7a de perdas e danos de Reinaldo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 obrigado a efetuar o pagamento a Danilo, pois a obriga\u00e7\u00e3o por este assumida \u00e9 de meio, sendo incab\u00edvel a cobran\u00e7a de perdas e danos de Reinaldo."
+                ]
             }
         ],
         "valid": true

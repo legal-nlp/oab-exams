@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O reconhecimento de filho s\u00f3 \u00e9 v\u00e1lido se for realizado por escritura p\u00fablica ou testamento.",
                 "pmi": [
                     0.005968334613508655,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reconhecimento de filho s\u00f3 \u00e9 v\u00e1lido se for realizado por escritura p\u00fablica ou testamento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O reconhecimento de filho realizado por J\u00falio perante o Ju\u00edzo de Fam\u00edlia \u00e9 ato irrevog\u00e1vel.",
                 "pmi": [
                     -0.0050785512340460835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reconhecimento de filho realizado por J\u00falio perante o Ju\u00edzo de Fam\u00edlia \u00e9 ato irrevog\u00e1vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O reconhecimento de filho em Ju\u00edzo s\u00f3 tem validade em a\u00e7\u00e3o pr\u00f3pria com essa finalidade.",
                 "pmi": [
                     -0.030997911478758487,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O reconhecimento de filho em Ju\u00edzo s\u00f3 tem validade em a\u00e7\u00e3o pr\u00f3pria com essa finalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "J\u00falio s\u00f3 poderia revogar o ato se este tivesse sido realizado por testamento.",
                 "pmi": [
                     0.005928406552592612,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "J\u00falio s\u00f3 poderia revogar o ato se este tivesse sido realizado por testamento."
+                ]
             }
         ],
         "valid": true

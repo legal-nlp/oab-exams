@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "em ambos os casos, a aus\u00eancia ao trabalho por tr\u00eas dias consecutivos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em ambos os casos, a aus\u00eancia ao trabalho por tr\u00eas dias consecutivos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "um dia de aus\u00eancia ao trabalho para Paula e de tr\u00eas dias para Joyce.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "um dia de aus\u00eancia ao trabalho para Paula e de tr\u00eas dias para Joyce."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a aus\u00eancia ao trabalho por dois dias consecutivos, no caso de Paula e, de at\u00e9 tr\u00eas dias, para Joyce.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a aus\u00eancia ao trabalho por dois dias consecutivos, no caso de Paula e, de at\u00e9 tr\u00eas dias, para Joyce."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a aus\u00eancia ao trabalho por dois \u00fateis dias no caso de Paula e, de at\u00e9 tr\u00eas dias \u00fateis, para Joyce.",
                 "pmi": [
                     0.09923450428112093,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a aus\u00eancia ao trabalho por dois \u00fateis dias no caso de Paula e, de at\u00e9 tr\u00eas dias \u00fateis, para Joyce."
+                ]
             }
         ],
         "valid": true

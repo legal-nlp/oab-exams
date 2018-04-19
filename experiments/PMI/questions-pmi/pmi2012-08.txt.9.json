@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "abrangido pelas normas que criam regras de incompatibilidade para administradores p\u00fablicos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "abrangido pelas normas que criam regras de incompatibilidade para administradores p\u00fablicos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o previsto, vez que a atua\u00e7\u00e3o como dirigente de entidade p\u00fablica \u00e9 irrelevante para o sistema de incompatibilidades.",
                 "pmi": [
                     0.011502907406127454,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o previsto, vez que a atua\u00e7\u00e3o como dirigente de entidade p\u00fablica \u00e9 irrelevante para o sistema de incompatibilidades."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "excepcionado diante da caracter\u00edstica que o vincularia ao magist\u00e9rio jur\u00eddico.",
                 "pmi": [
                     0.05196211614414798,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "excepcionado diante da caracter\u00edstica que o vincularia ao magist\u00e9rio jur\u00eddico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "inclu\u00eddo no rol de incompatibilidades por n\u00e3o permitir que o advogado exer\u00e7a cargo administrativo nas universidades p\u00fablicas.",
                 "pmi": [
                     0.018647239050988494,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inclu\u00eddo no rol de incompatibilidades por n\u00e3o permitir que o advogado exer\u00e7a cargo administrativo nas universidades p\u00fablicas."
+                ]
             }
         ],
         "valid": true

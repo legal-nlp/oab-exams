@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "rejei\u00e7\u00e3o de den\u00fancia, que far\u00e1 coisa julgada material.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "rejei\u00e7\u00e3o de den\u00fancia, que far\u00e1 coisa julgada material."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "absolvi\u00e7\u00e3o sum\u00e1ria do r\u00e9u, que far\u00e1 coisa julgada material.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "absolvi\u00e7\u00e3o sum\u00e1ria do r\u00e9u, que far\u00e1 coisa julgada material."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "absolvi\u00e7\u00e3o impr\u00f3pria do r\u00e9u, que far\u00e1 coisa julgada material.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "absolvi\u00e7\u00e3o impr\u00f3pria do r\u00e9u, que far\u00e1 coisa julgada material."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "impron\u00fancia do acusado, que n\u00e3o faz coisa julgada material.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "impron\u00fancia do acusado, que n\u00e3o faz coisa julgada material."
+                ]
             }
         ],
         "valid": true

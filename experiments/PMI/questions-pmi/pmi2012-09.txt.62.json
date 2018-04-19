@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jos\u00e9 responde por latroc\u00ednio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 responde por latroc\u00ednio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Jos\u00e9 n\u00e3o responde pela morte de Jo\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 n\u00e3o responde pela morte de Jo\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jos\u00e9 responde em concurso material pelos crimes de roubo e de homic\u00eddio culposo.",
                 "pmi": [
                     0.028303251416151025,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 responde em concurso material pelos crimes de roubo e de homic\u00eddio culposo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jos\u00e9 praticou crime preterdoloso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 praticou crime preterdoloso."
+                ]
             }
         ],
         "valid": true

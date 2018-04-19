@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os projetos s\u00e3o constitucionais, porque cabe ao Estado zelar por suas finan\u00e7as, \u00e0 luz dos princ\u00edpios aplic\u00e1veis \u00e0 Administra\u00e7\u00e3o P\u00fablica.",
                 "pmi": [
                     0.051956716797389176,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os projetos s\u00e3o constitucionais, porque cabe ao Estado zelar por suas finan\u00e7as, \u00e0 luz dos princ\u00edpios aplic\u00e1veis \u00e0 Administra\u00e7\u00e3o P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O projeto que determina o corte de cargos em comiss\u00e3o \u00e9 inconstitucional, pois resultar\u00e1 na exonera\u00e7\u00e3o dos servidores que os ocupam.",
                 "pmi": [
                     0.03165268671469483,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O projeto que determina o corte de cargos em comiss\u00e3o \u00e9 inconstitucional, pois resultar\u00e1 na exonera\u00e7\u00e3o dos servidores que os ocupam."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O projeto que reduz diretamente os subs\u00eddios e vencimentos pagos aos servidores p\u00fablicos \u00e9 inconstitucional.",
                 "pmi": [
                     0.03401065980942774,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O projeto que reduz diretamente os subs\u00eddios e vencimentos pagos aos servidores p\u00fablicos \u00e9 inconstitucional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os projetos s\u00e3o inconstitucionais, porque h\u00e1 direito adquirido \u00e0 imutabilidade de regime jur\u00eddico dos servidores p\u00fablicos.",
                 "pmi": [
                     0.07143770526242893,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os projetos s\u00e3o inconstitucionais, porque h\u00e1 direito adquirido \u00e0 imutabilidade de regime jur\u00eddico dos servidores p\u00fablicos."
+                ]
             }
         ],
         "valid": true

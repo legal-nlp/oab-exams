@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "podem ser destitu\u00eddos pela Assembleia Legislativa (nos Estados) e pela C\u00e2mara Legislativa (no Distrito Federal).",
                 "pmi": [
                     0.384178242393786,
                     0.13724794133112558,
                     0.0,
                     0.0
-                ],
-                "text": "podem ser destitu\u00eddos pela Assembleia Legislativa (nos Estados) e pela C\u00e2mara Legislativa (no Distrito Federal)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "podem ser reconduzidos somente uma vez.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "podem ser reconduzidos somente uma vez."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "devem ser integrantes da carreira e exercem o cargo por mandato de dois anos.",
                 "pmi": [
                     0.05534628399988137,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "devem ser integrantes da carreira e exercem o cargo por mandato de dois anos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "s\u00e3o nomeados pelo Governador (nos Estados) e pelo Presidente da Rep\u00fablica (no Distrito Federal).",
                 "pmi": [
                     0.5204078384743012,
                     0.16012259821964653,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00e3o nomeados pelo Governador (nos Estados) e pelo Presidente da Rep\u00fablica (no Distrito Federal)."
+                ]
             }
         ],
         "valid": true

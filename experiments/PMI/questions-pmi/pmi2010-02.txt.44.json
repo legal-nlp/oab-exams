@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "est\u00e1 correta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o descumpriu reiteradamente as ordens gen\u00e9ricas do empregador contidas no regulamento geral.",
                 "pmi": [
                     0.0189263481129199,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 correta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o descumpriu reiteradamente as ordens gen\u00e9ricas do empregador contidas no regulamento geral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu ato de insubordina\u00e7\u00e3o e n\u00e3o de indisciplina.",
                 "pmi": [
                     -0.0007448845302946075,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu ato de insubordina\u00e7\u00e3o e n\u00e3o de indisciplina."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu mau procedimento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que Jo\u00e3o cometeu mau procedimento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que o empregador praticou bis in idem, ao punir Jo\u00e3o duas vezes pelo mesmo fato.",
                 "pmi": [
                     -0.025786301112090525,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 incorreta a aplica\u00e7\u00e3o da justa causa, uma vez que o empregador praticou bis in idem, ao punir Jo\u00e3o duas vezes pelo mesmo fato."
+                ]
             }
         ],
         "valid": true

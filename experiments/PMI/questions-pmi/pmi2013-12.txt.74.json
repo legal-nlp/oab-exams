@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "trabalho proibido.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "trabalho proibido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "trabalho il\u00edcito.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "trabalho il\u00edcito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "trabalho escravo.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "trabalho escravo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "trabalho v\u00e1lido.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "trabalho v\u00e1lido."
+                ]
             }
         ],
         "valid": true

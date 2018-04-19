@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Apenas Bibiana preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
                 "pmi": [
                     0.035764940164646,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas Bibiana preenche as condi\u00e7\u00f5es de elegibilidade para os cargos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Apenas Rodrigo preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
                 "pmi": [
                     0.035764940164646,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas Rodrigo preenche as condi\u00e7\u00f5es de elegibilidade para os cargos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Bibiana e Rodrigo preenchem as condi\u00e7\u00f5es de elegibilidade para os cargos.",
                 "pmi": [
                     0.029804116803871666,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Bibiana e Rodrigo preenchem as condi\u00e7\u00f5es de elegibilidade para os cargos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Nenhum dos dois advogados preenche as condi\u00e7\u00f5es de elegibilidade para os cargos.",
                 "pmi": [
                     0.029804116803871666,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nenhum dos dois advogados preenche as condi\u00e7\u00f5es de elegibilidade para os cargos."
+                ]
             }
         ],
         "valid": true

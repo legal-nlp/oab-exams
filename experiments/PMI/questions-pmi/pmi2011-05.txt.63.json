@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "havia dolo na conduta de Apolo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havia dolo na conduta de Apolo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "mesmo sendo o erro escus\u00e1vel, Apolo n\u00e3o \u00e9 isento de pena.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mesmo sendo o erro escus\u00e1vel, Apolo n\u00e3o \u00e9 isento de pena."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Apolo n\u00e3o agiu em leg\u00edtima defesa putativa.",
                 "pmi": [
                     -0.0064814045887111905,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apolo n\u00e3o agiu em leg\u00edtima defesa putativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "mesmo sendo o erro inescus\u00e1vel, Apolo responde a t\u00edtulo de dolo.",
                 "pmi": [
                     0.005171860039812164,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mesmo sendo o erro inescus\u00e1vel, Apolo responde a t\u00edtulo de dolo."
+                ]
             }
         ],
         "valid": true
