@@ -13,6 +13,4 @@ cat PMI/report.tsv | awk -F'\t' '$3 == "True" {OFS="\t"; print $1, $2, $3}' > tm
 
 comm -12 tmp.ir tmp.pmi | awk -F'\t' '{OFS=","; print $1, $2}' > easy.csv
 
-
-
-
+rm tmp.ir tmp.pmi
