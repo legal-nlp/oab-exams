@@ -129,7 +129,9 @@
 
 - exam: 2016-19
   question: 3
-  urn: urn:lex:br:federal:lei:1994-07-04;8906!art50_cpt
+  urn: 
+    - urn:lex:br:federal:lei:1994-07-04;8906!art50_cpt
+    - urn:lex:br:supremo.tribunal.federal;plenario:acordao;adi:2006-05-17;1127-1597992!ementa
   comment: depende da jurisprudência do STF, ADI 1127
 
 - exam: 2016-19
