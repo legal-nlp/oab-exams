@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Roberto, Alfredo e Armando agiram correta e eticamente, pois dividiram os clientes, de forma que nenhum deles advogasse, ao mesmo tempo, para clientes com interesses opostos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto, Alfredo e Armando agiram correta e eticamente, pois dividiram os clientes, de forma que nenhum deles advogasse, ao mesmo tempo, para clientes com interesses opostos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Roberto, Alfredo e Armando n\u00e3o agiram corretamente, pois, em causas trabalhistas, os advogados de partes com interesses opostos n\u00e3o podem ter qualquer tipo de rela\u00e7\u00e3o profissional ou pessoal.",
                 "pmi": [
                     0.021446023863152888,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto, Alfredo e Armando n\u00e3o agiram corretamente, pois, em causas trabalhistas, os advogados de partes com interesses opostos n\u00e3o podem ter qualquer tipo de rela\u00e7\u00e3o profissional ou pessoal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Roberto, Alfredo e Armando n\u00e3o agiram correta e eticamente, pois os advogados s\u00f3cios de uma mesma sociedade profissional n\u00e3o podem representar, em ju\u00edzo, clientes com interesses opostos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto, Alfredo e Armando n\u00e3o agiram correta e eticamente, pois os advogados s\u00f3cios de uma mesma sociedade profissional n\u00e3o podem representar, em ju\u00edzo, clientes com interesses opostos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Roberto, Alfredo e Armando n\u00e3o poderiam ter constitu\u00eddo a sociedade em quest\u00e3o, ainda que Armando deixasse de atuar na causa em favor do ex-empregado.",
                 "pmi": [
                     0.0026245689626046226,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto, Alfredo e Armando n\u00e3o poderiam ter constitu\u00eddo a sociedade em quest\u00e3o, ainda que Armando deixasse de atuar na causa em favor do ex-empregado."
+                ]
             }
         ],
         "valid": true

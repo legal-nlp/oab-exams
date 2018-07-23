@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os segredos advindos da pr\u00e1tica profissional, ap\u00f3s determinado per\u00edodo de recesso, podem ser livremente utilizados pelo advogado.",
                 "pmi": [
                     0.013034928232758567,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os segredos advindos da pr\u00e1tica profissional, ap\u00f3s determinado per\u00edodo de recesso, podem ser livremente utilizados pelo advogado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O advogado, ao atuar contra antigos clientes, n\u00e3o pode lan\u00e7ar m\u00e3o de informa\u00e7\u00f5es reservadas que lhe tenham sido confiadas.",
                 "pmi": [
                     0.04312164011372736,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado, ao atuar contra antigos clientes, n\u00e3o pode lan\u00e7ar m\u00e3o de informa\u00e7\u00f5es reservadas que lhe tenham sido confiadas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado n\u00e3o pode ser contratado por concorrentes de antigos clientes, pois o impedimento de com eles contratar n\u00e3o tem prazo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado n\u00e3o pode ser contratado por concorrentes de antigos clientes, pois o impedimento de com eles contratar n\u00e3o tem prazo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado, diante do conflito de interesses entre o antigo e o novo cliente, deve renunciar ao mandato.",
                 "pmi": [
                     0.025800353126861696,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado, diante do conflito de interesses entre o antigo e o novo cliente, deve renunciar ao mandato."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O administrador da EIRELI dever\u00e1 ser nomeado no ato constitutivo e ser\u00e1 apenas o s\u00f3cio, seu c\u00f4njuge ou parente at\u00e9 o 3\u00ba grau dessas pessoas.",
                 "pmi": [
                     0.04588922914589217,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O administrador da EIRELI dever\u00e1 ser nomeado no ato constitutivo e ser\u00e1 apenas o s\u00f3cio, seu c\u00f4njuge ou parente at\u00e9 o 3\u00ba grau dessas pessoas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O ato constitutivo da EIRELI dever\u00e1 ser arquivado no Registro Civil de Pessoas Jur\u00eddicas, independentemente do objeto.",
                 "pmi": [
                     0.09134530155640268,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ato constitutivo da EIRELI dever\u00e1 ser arquivado no Registro Civil de Pessoas Jur\u00eddicas, independentemente do objeto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "As delibera\u00e7\u00f5es infringentes da lei que Almino Jos\u00e9 vier a tomar acarretar\u00e3o sua responsabilidade ilimitada pelas obriga\u00e7\u00f5es da pessoa jur\u00eddica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As delibera\u00e7\u00f5es infringentes da lei que Almino Jos\u00e9 vier a tomar acarretar\u00e3o sua responsabilidade ilimitada pelas obriga\u00e7\u00f5es da pessoa jur\u00eddica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso a receita bruta anual da EIRELI seja inferior a R$ 100.000,00 (cem mil reais), ser\u00e1 poss\u00edvel enquadr\u00e1-la como microempreendedor individual (MEI).",
                 "pmi": [
                     0.0031409901945983207,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso a receita bruta anual da EIRELI seja inferior a R$ 100.000,00 (cem mil reais), ser\u00e1 poss\u00edvel enquadr\u00e1-la como microempreendedor individual (MEI)."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O caso gera a duplicidade de contratos de emprego, sendo as empresas respons\u00e1veis solid\u00e1rias dos d\u00e9bitos trabalhistas.",
                 "pmi": [
                     -0.0023366365569854465,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O caso gera a duplicidade de contratos de emprego, sendo as empresas respons\u00e1veis solid\u00e1rias dos d\u00e9bitos trabalhistas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O caso gera a duplicidade de contratos de emprego, sendo as empresas respons\u00e1veis subsidi\u00e1rias dos d\u00e9bitos trabalhistas.",
                 "pmi": [
                     0.0023694500460977575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O caso gera a duplicidade de contratos de emprego, sendo as empresas respons\u00e1veis subsidi\u00e1rias dos d\u00e9bitos trabalhistas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O caso gera duplicidade de contratos de emprego, cada empresa com sua responsabilidade.",
                 "pmi": [
                     -0.008477267332507941,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O caso gera duplicidade de contratos de emprego, cada empresa com sua responsabilidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O caso n\u00e3o gera coexist\u00eancia de mais de um contrato de trabalho.",
                 "pmi": [
                     0.03575720342606105,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O caso n\u00e3o gera coexist\u00eancia de mais de um contrato de trabalho."
+                ]
             }
         ],
         "valid": true

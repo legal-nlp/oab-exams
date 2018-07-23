@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os Juizados da Fazenda P\u00fablica s\u00e3o relativamente competentes para o processamento e julgamento daquelas causas c\u00edveis que versem sobre interesse dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios at\u00e9 o valor de 60 (sessenta) sal\u00e1rios m\u00ednimos.",
                 "pmi": [
                     0.08749301793376228,
                     0.028001466921290838,
                     0.0,
                     0.0
-                ],
-                "text": "Os Juizados da Fazenda P\u00fablica s\u00e3o relativamente competentes para o processamento e julgamento daquelas causas c\u00edveis que versem sobre interesse dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios at\u00e9 o valor de 60 (sessenta) sal\u00e1rios m\u00ednimos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 expressamente vedada a concess\u00e3o de quaisquer provid\u00eancias cautelares e antecipat\u00f3rias no curso do processo que importem em \u00f4nus para os entes da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta que figurem no polo passivo da demanda.",
                 "pmi": [
                     0.04499579835015286,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 expressamente vedada a concess\u00e3o de quaisquer provid\u00eancias cautelares e antecipat\u00f3rias no curso do processo que importem em \u00f4nus para os entes da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta que figurem no polo passivo da demanda."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "As microempresas e empresas de pequeno porte, assim definidas pela Lei Complementar n. 123/2006, possuem legitimidade ativa para demandar perante os Juizados da Fazenda P\u00fablica.",
                 "pmi": [
                     -0.035903821467691395,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As microempresas e empresas de pequeno porte, assim definidas pela Lei Complementar n. 123/2006, possuem legitimidade ativa para demandar perante os Juizados da Fazenda P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O representante legal da pessoa jur\u00eddica de direito p\u00fablico, no \u00e2mbito dos Juizados Especiais da Fazenda P\u00fablica, dispor\u00e1 de prazo qu\u00e1druplo para contestar e prazo em dobro para recorrer.",
                 "pmi": [
                     0.06909470041497033,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O representante legal da pessoa jur\u00eddica de direito p\u00fablico, no \u00e2mbito dos Juizados Especiais da Fazenda P\u00fablica, dispor\u00e1 de prazo qu\u00e1druplo para contestar e prazo em dobro para recorrer."
+                ]
             }
         ],
         "valid": true

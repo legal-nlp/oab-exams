@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a senten\u00e7a \u00e9 nula, por n\u00e3o ter havido a cita\u00e7\u00e3o de Aldo.",
                 "pmi": [
                     0.04085854423518898,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a senten\u00e7a \u00e9 nula, por n\u00e3o ter havido a cita\u00e7\u00e3o de Aldo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o juiz poder\u00e1 retratar-se caso Paulo apele da senten\u00e7a.",
                 "pmi": [
                     0.08053660878557097,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz poder\u00e1 retratar-se caso Paulo apele da senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "caber\u00e1 reclama\u00e7\u00e3o ao tribunal competente, sob o argumento de que houve error in procedendo.",
                 "pmi": [
                     0.031642412226451,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caber\u00e1 reclama\u00e7\u00e3o ao tribunal competente, sob o argumento de que houve error in procedendo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a senten\u00e7a n\u00e3o faz coisa julgada material.",
                 "pmi": [
                     0.08365848806513504,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a senten\u00e7a n\u00e3o faz coisa julgada material."
+                ]
             }
         ],
         "valid": true

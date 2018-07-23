@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00c9 poss\u00edvel a contrata\u00e7\u00e3o de equipamentos eletr\u00f4nicos de fiscaliza\u00e7\u00e3o, mas o poder decis\u00f3rio n\u00e3o pode ser transferido \u00e0 empresa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 poss\u00edvel a contrata\u00e7\u00e3o de equipamentos eletr\u00f4nicos de fiscaliza\u00e7\u00e3o, mas o poder decis\u00f3rio n\u00e3o pode ser transferido \u00e0 empresa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o \u00e9 cab\u00edvel a terceiriza\u00e7\u00e3o de qualquer dessas atividades, por se tratar de atividade-fim da Administra\u00e7\u00e3o.",
                 "pmi": [
                     0.2411051291921077,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 cab\u00edvel a terceiriza\u00e7\u00e3o de qualquer dessas atividades, por se tratar de atividade-fim da Administra\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A contrata\u00e7\u00e3o \u00e9, a princ\u00edpio, legal, mas somente permanecer\u00e1 v\u00e1lida se o munic\u00edpio comprovar que a terceiriza\u00e7\u00e3o aumentou a efici\u00eancia da atividade.",
                 "pmi": [
                     0.08674932650765638,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A contrata\u00e7\u00e3o \u00e9, a princ\u00edpio, legal, mas somente permanecer\u00e1 v\u00e1lida se o munic\u00edpio comprovar que a terceiriza\u00e7\u00e3o aumentou a efici\u00eancia da atividade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o \u00e9 poss\u00edvel delegar a instala\u00e7\u00e3o e gest\u00e3o de c\u00e2meras do tipo \u201cradar\u201d \u00e0 empresa contratada, mas \u00e9 poss\u00edvel delegar a cria\u00e7\u00e3o e gest\u00e3o do Conselho de Aprecia\u00e7\u00e3o de multas.",
                 "pmi": [
                     0.030526177908364916,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 poss\u00edvel delegar a instala\u00e7\u00e3o e gest\u00e3o de c\u00e2meras do tipo \u201cradar\u201d \u00e0 empresa contratada, mas \u00e9 poss\u00edvel delegar a cria\u00e7\u00e3o e gest\u00e3o do Conselho de Aprecia\u00e7\u00e3o de multas."
+                ]
             }
         ],
         "valid": true

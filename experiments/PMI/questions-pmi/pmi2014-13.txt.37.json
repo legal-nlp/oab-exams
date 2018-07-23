@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O m\u00fatuo poder\u00e1 ser reavido somente se o representante legal de Pedro ratificar o contrato.",
                 "pmi": [
                     -0.014796927628067478,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O m\u00fatuo poder\u00e1 ser reavido somente se o representante legal de Pedro ratificar o contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se o contrato tivesse por fim suprir despesas com a pr\u00f3pria manuten\u00e7\u00e3o, o m\u00fatuo poderia ser reavido, ainda que ausente ao ato o representante legal de Pedro.",
                 "pmi": [
                     -0.005909366290767473,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o contrato tivesse por fim suprir despesas com a pr\u00f3pria manuten\u00e7\u00e3o, o m\u00fatuo poderia ser reavido, ainda que ausente ao ato o representante legal de Pedro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Se Pedro tiver bens obtidos com o seu trabalho, o m\u00fatuo poder\u00e1 ser reavido, ainda que contra\u00eddo sem o consentimento do seu representante legal.",
                 "pmi": [
                     -0.0344280519269914,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Pedro tiver bens obtidos com o seu trabalho, o m\u00fatuo poder\u00e1 ser reavido, ainda que contra\u00eddo sem o consentimento do seu representante legal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O m\u00fatuo tamb\u00e9m poderia ser reavido caso Pedro tivesse obtido o empr\u00e9stimo maliciosamente.",
                 "pmi": [
                     -0.024634088857568178,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O m\u00fatuo tamb\u00e9m poderia ser reavido caso Pedro tivesse obtido o empr\u00e9stimo maliciosamente."
+                ]
             }
         ],
         "valid": true

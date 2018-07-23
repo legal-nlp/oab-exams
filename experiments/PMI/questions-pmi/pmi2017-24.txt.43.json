@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ado\u00e7\u00e3o nacional pela fam\u00edlia brasileira domiciliada na It\u00e1lia.",
                 "pmi": [
                     0.049621993519688753,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ado\u00e7\u00e3o nacional pela fam\u00edlia brasileira domiciliada na It\u00e1lia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ado\u00e7\u00e3o internacional pela fam\u00edlia estrangeira.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ado\u00e7\u00e3o internacional pela fam\u00edlia estrangeira."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ado\u00e7\u00e3o nacional por fam\u00edlias domiciliadas no Brasil, ainda que separados.",
                 "pmi": [
                     0.04097633813716347,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ado\u00e7\u00e3o nacional por fam\u00edlias domiciliadas no Brasil, ainda que separados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Ado\u00e7\u00e3o internacional pela fam\u00edlia brasileira domiciliada na It\u00e1lia",
                 "pmi": [
                     0.02424015807519106,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ado\u00e7\u00e3o internacional pela fam\u00edlia brasileira domiciliada na It\u00e1lia"
+                ]
             }
         ],
         "valid": true

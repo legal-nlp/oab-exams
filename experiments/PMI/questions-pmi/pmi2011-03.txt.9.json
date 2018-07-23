@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Haver\u00e1 resolu\u00e7\u00e3o do contrato pela falta superveniente do objeto, sendo restitu\u00eddo o valor j\u00e1 pago por Maria.",
                 "pmi": [
                     -0.0342069270358949,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Haver\u00e1 resolu\u00e7\u00e3o do contrato pela falta superveniente do objeto, sendo restitu\u00eddo o valor j\u00e1 pago por Maria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o haver\u00e1 resolu\u00e7\u00e3o do contrato, pois Pedro pode alegar caso fortuito.",
                 "pmi": [
                     -0.028533828421094486,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o haver\u00e1 resolu\u00e7\u00e3o do contrato, pois Pedro pode alegar caso fortuito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Maria poder\u00e1 exigir a entrega de outro carro.",
                 "pmi": [
                     -0.02847662610310507,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria poder\u00e1 exigir a entrega de outro carro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pedro poder\u00e1 entregar outro ve\u00edculo no lugar no autom\u00f3vel furtado.",
                 "pmi": [
                     -0.006984223458284152,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro poder\u00e1 entregar outro ve\u00edculo no lugar no autom\u00f3vel furtado."
+                ]
             }
         ],
         "valid": true

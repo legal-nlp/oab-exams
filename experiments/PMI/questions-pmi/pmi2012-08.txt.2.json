@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u201cY\u201d incorre em infra\u00e7\u00e3o disciplinar, consistente na capta\u00e7\u00e3o irregular de causas, ao distribuir panfletos ao p\u00fablico oferecendo seus servi\u00e7os como advogado.",
                 "pmi": [
                     0.02529357687045244,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u201cY\u201d incorre em infra\u00e7\u00e3o disciplinar, consistente na capta\u00e7\u00e3o irregular de causas, ao distribuir panfletos ao p\u00fablico oferecendo seus servi\u00e7os como advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fixar honor\u00e1rios em valores inferiores aos estipulados na tabela de honor\u00e1rios da OAB.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fixar honor\u00e1rios em valores inferiores aos estipulados na tabela de honor\u00e1rios da OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u201cY\u201d pode distribuir panfletos ao p\u00fablico, oferecendo seus servi\u00e7os profissionais, desde que neles n\u00e3o conste sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica.",
                 "pmi": [
                     0.02950917301552785,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u201cY\u201d pode distribuir panfletos ao p\u00fablico, oferecendo seus servi\u00e7os profissionais, desde que neles n\u00e3o conste sua especializa\u00e7\u00e3o t\u00e9cnico-cient\u00edfica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fazer constar de sua placa refer\u00eancias aos valores cobrados por seus servi\u00e7os profissionais.",
                 "pmi": [
                     0.007593878348291969,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u201cY\u201d viola dispositivo do C\u00f3digo de \u00c9tica e Disciplina da OAB, ao fazer constar de sua placa refer\u00eancias aos valores cobrados por seus servi\u00e7os profissionais."
+                ]
             }
         ],
         "valid": true

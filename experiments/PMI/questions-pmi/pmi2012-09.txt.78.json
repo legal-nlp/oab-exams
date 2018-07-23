@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Quando a empresa pretender a condena\u00e7\u00e3o do empregado no valor do aviso pr\u00e9vio por ele n\u00e3o concedido, ao pedir demiss\u00e3o.",
                 "pmi": [
                     0.057577238065602866,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Quando a empresa pretender a condena\u00e7\u00e3o do empregado no valor do aviso pr\u00e9vio por ele n\u00e3o concedido, ao pedir demiss\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Quando a empresa pretender o ressarcimento por dano causado pelo empregado no decorrer do contrato de trabalho.",
                 "pmi": [
                     0.041182243309534926,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Quando a empresa pretender o ressarcimento por dano causado pelo empregado no decorrer do contrato de trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Quando a empresa pretender a devolu\u00e7\u00e3o do valor de um curso pago em benef\u00edcio do empregado e pelo qual o obreiro comprometeu-se a n\u00e3o pedir demiss\u00e3o durante determinado per\u00edodo, o que depois foi descumprido pelo trabalhador.",
                 "pmi": [
                     0.024317278034917417,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Quando a empresa pretender a devolu\u00e7\u00e3o do valor de um curso pago em benef\u00edcio do empregado e pelo qual o obreiro comprometeu-se a n\u00e3o pedir demiss\u00e3o durante determinado per\u00edodo, o que depois foi descumprido pelo trabalhador."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Quando a empresa pretender a devolu\u00e7\u00e3o de valor pago pela compra de um bem do seu empregado que, ap\u00f3s, verificou possuir v\u00edcio redibit\u00f3rio.",
                 "pmi": [
                     0.02565968997975942,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Quando a empresa pretender a devolu\u00e7\u00e3o de valor pago pela compra de um bem do seu empregado que, ap\u00f3s, verificou possuir v\u00edcio redibit\u00f3rio."
+                ]
             }
         ],
         "valid": true

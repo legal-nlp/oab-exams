@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Nas resid\u00eancias de Roberto e M\u00e1rio foram inv\u00e1lidas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nas resid\u00eancias de Roberto e M\u00e1rio foram inv\u00e1lidas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Na resid\u00eancia de Roberto foi inv\u00e1lida, enquanto que, na resid\u00eancia de M\u00e1rio, foi v\u00e1lida.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na resid\u00eancia de Roberto foi inv\u00e1lida, enquanto que, na resid\u00eancia de M\u00e1rio, foi v\u00e1lida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Nas resid\u00eancias de Roberto e M\u00e1rio foram v\u00e1lidas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nas resid\u00eancias de Roberto e M\u00e1rio foram v\u00e1lidas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Na resid\u00eancia de Roberto foi v\u00e1lida, enquanto que, na resid\u00eancia de M\u00e1rio, foi inv\u00e1lida.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na resid\u00eancia de Roberto foi v\u00e1lida, enquanto que, na resid\u00eancia de M\u00e1rio, foi inv\u00e1lida."
+                ]
             }
         ],
         "valid": true

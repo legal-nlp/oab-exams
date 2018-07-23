@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "depende de autoriza\u00e7\u00e3o do poder p\u00fablico e pode ter suas atividades suspensas por decis\u00e3o administrativa.",
                 "pmi": [
                     0.05047577858747266,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "depende de autoriza\u00e7\u00e3o do poder p\u00fablico e pode ter suas atividades suspensas por decis\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas pode ter suas atividades suspensas por decis\u00e3o administrativa.",
                 "pmi": [
                     0.05047577858747266,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas pode ter suas atividades suspensas por decis\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas s\u00f3 pode ter suas atividades suspensas por decis\u00e3o judicial transitada em julgado.",
                 "pmi": [
                     0.03925893890136763,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas s\u00f3 pode ter suas atividades suspensas por decis\u00e3o judicial transitada em julgado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "n\u00e3o depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas s\u00f3 pode ter suas atividades suspensas por decis\u00e3o judicial.",
                 "pmi": [
                     0.05047577858747266,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o depende de autoriza\u00e7\u00e3o do poder p\u00fablico, mas s\u00f3 pode ter suas atividades suspensas por decis\u00e3o judicial."
+                ]
             }
         ],
         "valid": true

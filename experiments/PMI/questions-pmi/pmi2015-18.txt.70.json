@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O empregado ter\u00e1 de ajuizar tantas a\u00e7\u00f5es quantas forem as les\u00f5es, postulando, em cada uma delas, a multa pelo descumprimento de obriga\u00e7\u00f5es previstas nas respectivas cl\u00e1usulas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado ter\u00e1 de ajuizar tantas a\u00e7\u00f5es quantas forem as les\u00f5es, postulando, em cada uma delas, a multa pelo descumprimento de obriga\u00e7\u00f5es previstas nas respectivas cl\u00e1usulas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tratando-se de multa prevista em instrumento normativo em decorr\u00eancia de descumprimento de cl\u00e1usula que reproduz texto de lei, a multa \u00e9 incab\u00edvel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tratando-se de multa prevista em instrumento normativo em decorr\u00eancia de descumprimento de cl\u00e1usula que reproduz texto de lei, a multa \u00e9 incab\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Tendo em vista a reprodu\u00e7\u00e3o de textos de lei em cl\u00e1usulas de instrumentos normativos diversos, ficar\u00e1 a crit\u00e9rio do juiz definir se pode haver esse ac\u00famulo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tendo em vista a reprodu\u00e7\u00e3o de textos de lei em cl\u00e1usulas de instrumentos normativos diversos, ficar\u00e1 a crit\u00e9rio do juiz definir se pode haver esse ac\u00famulo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O descumprimento de qualquer cl\u00e1usula constante de instrumentos normativos diversos n\u00e3o submete o empregado a ajuizar v\u00e1rias a\u00e7\u00f5es, pleiteando, em cada uma, o pagamento de multa referente ao descumprimento de obriga\u00e7\u00f5es previstas nas respectivas cl\u00e1usulas.",
                 "pmi": [
                     0.019279943706321405,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O descumprimento de qualquer cl\u00e1usula constante de instrumentos normativos diversos n\u00e3o submete o empregado a ajuizar v\u00e1rias a\u00e7\u00f5es, pleiteando, em cada uma, o pagamento de multa referente ao descumprimento de obriga\u00e7\u00f5es previstas nas respectivas cl\u00e1usulas."
+                ]
             }
         ],
         "valid": true

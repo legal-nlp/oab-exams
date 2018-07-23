@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente de qualquer um dos cond\u00f4minos.",
                 "pmi": [
                     -0.007162506213422961,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente de qualquer um dos cond\u00f4minos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente apenas de M\u00e1rcia, que, por sua vez, tem direito de regresso contra os demais cond\u00f4minos.",
                 "pmi": [
                     -0.013863208521723007,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente apenas de M\u00e1rcia, que, por sua vez, tem direito de regresso contra os demais cond\u00f4minos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A empreiteira n\u00e3o pode cobrar a remunera\u00e7\u00e3o contratualmente ajustada de M\u00e1rcia ou de qualquer outro cond\u00f4mino, uma vez que o servi\u00e7o foi contratado sem a pr\u00e9via aprova\u00e7\u00e3o da totalidade dos cond\u00f4minos.",
                 "pmi": [
                     -0.013877652979729692,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empreiteira n\u00e3o pode cobrar a remunera\u00e7\u00e3o contratualmente ajustada de M\u00e1rcia ou de qualquer outro cond\u00f4mino, uma vez que o servi\u00e7o foi contratado sem a pr\u00e9via aprova\u00e7\u00e3o da totalidade dos cond\u00f4minos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente apenas de M\u00e1rcia, que dever\u00e1 suportar sozinha a despesa, sem direito de regresso contra os demais cond\u00f4minos, uma vez que contratou a empreiteira sem o pr\u00e9vio consentimento dos demais cond\u00f4minos.",
                 "pmi": [
                     0.004277133932758409,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empreiteira pode cobrar a remunera\u00e7\u00e3o ajustada contratualmente apenas de M\u00e1rcia, que dever\u00e1 suportar sozinha a despesa, sem direito de regresso contra os demais cond\u00f4minos, uma vez que contratou a empreiteira sem o pr\u00e9vio consentimento dos demais cond\u00f4minos."
+                ]
             }
         ],
         "valid": true

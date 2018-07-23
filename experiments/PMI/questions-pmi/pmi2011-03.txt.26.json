@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "justifica\u00e7\u00e3o.",
                 "pmi": [
                     0.056910814734959674,
                     0,
                     0,
                     0
-                ],
-                "text": "justifica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "sequestro.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "sequestro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "arresto.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "arresto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "produ\u00e7\u00e3o antecipada de provas.",
                 "pmi": [
                     0.010732984983562753,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "produ\u00e7\u00e3o antecipada de provas."
+                ]
             }
         ],
         "valid": true

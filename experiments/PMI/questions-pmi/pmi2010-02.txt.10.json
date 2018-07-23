@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "ao Procurador-Geral da Rep\u00fablica, como chefe do Minist\u00e9rio P\u00fablico da Uni\u00e3o, expedir atos para o cumprimento da decis\u00e3o pelos membros do Minist\u00e9rio P\u00fablico Federal e dos Estados.",
                 "pmi": [
                     0.11352665086447854,
                     0.024065374524860947,
                     0.0,
                     0.0
-                ],
-                "text": "ao Procurador-Geral da Rep\u00fablica, como chefe do Minist\u00e9rio P\u00fablico da Uni\u00e3o, expedir atos para o cumprimento da decis\u00e3o pelos membros do Minist\u00e9rio P\u00fablico Federal e dos Estados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ao Presidente da Rep\u00fablica editar decreto para tornar inv\u00e1lida a lei no \u00e2mbito da administra\u00e7\u00e3o p\u00fablica.",
                 "pmi": [
                     0.08386475642427152,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao Presidente da Rep\u00fablica editar decreto para tornar inv\u00e1lida a lei no \u00e2mbito da administra\u00e7\u00e3o p\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "ao Senado Federal suspender a execu\u00e7\u00e3o da lei, total ou parcialmente, conforme o caso, desde que a decis\u00e3o do Supremo Tribunal Federal seja definitiva.",
                 "pmi": [
                     0.2462523463122274,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao Senado Federal suspender a execu\u00e7\u00e3o da lei, total ou parcialmente, conforme o caso, desde que a decis\u00e3o do Supremo Tribunal Federal seja definitiva."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ao Advogado-Geral da Uni\u00e3o interpor o recurso cab\u00edvel para impedir que a Uni\u00e3o seja compelida a cumprir a referida decis\u00e3o.",
                 "pmi": [
                     0.04473414617264718,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao Advogado-Geral da Uni\u00e3o interpor o recurso cab\u00edvel para impedir que a Uni\u00e3o seja compelida a cumprir a referida decis\u00e3o."
+                ]
             }
         ],
         "valid": true

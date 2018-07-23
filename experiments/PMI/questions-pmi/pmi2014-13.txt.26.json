@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "constitucional, sendo poss\u00edvel sua cobran\u00e7a com base nas regras constitucionais em vigor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constitucional, sendo poss\u00edvel sua cobran\u00e7a com base nas regras constitucionais em vigor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia tribut\u00e1ria da Uni\u00e3o Federal.",
                 "pmi": [
                     0.09983247424276213,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia tribut\u00e1ria da Uni\u00e3o Federal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia do Distrito Federal e dos Munic\u00edpios.",
                 "pmi": [
                     0.05181702470016741,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, por ser o referido tributo de compet\u00eancia do Distrito Federal e dos Munic\u00edpios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "inconstitucional, visto que somente lei complementar poder\u00e1 instituir o referido tributo.",
                 "pmi": [
                     0.10129154004011483,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inconstitucional, visto que somente lei complementar poder\u00e1 instituir o referido tributo."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o exige que o crime praticado tenha sido cometido sem viol\u00eancia ou grave amea\u00e7a \u00e0 pessoa.",
                 "pmi": [
                     0.05822124800367706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o exige que o crime praticado tenha sido cometido sem viol\u00eancia ou grave amea\u00e7a \u00e0 pessoa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o pode ser concedido ao reincidente em crime doloso, exceto se a condena\u00e7\u00e3o anterior foi a pena de multa.",
                 "pmi": [
                     0.05822124800367706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o pode ser concedido ao reincidente em crime doloso, exceto se a condena\u00e7\u00e3o anterior foi a pena de multa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Somente pode ser concedido se n\u00e3o for indicada ou se for incab\u00edvel a substitui\u00e7\u00e3o da pena privativa de liberdade por pena restritiva de direitos.",
                 "pmi": [
                     0.3715209367670228,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente pode ser concedido se n\u00e3o for indicada ou se for incab\u00edvel a substitui\u00e7\u00e3o da pena privativa de liberdade por pena restritiva de direitos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Sobrevindo, durante o per\u00edodo de prova, condena\u00e7\u00e3o irrecorr\u00edvel por crime doloso, o benef\u00edcio ser\u00e1 revogado, mas tal per\u00edodo ser\u00e1 computado para efeitos de detra\u00e7\u00e3o.",
                 "pmi": [
                     0.0403070178486995,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sobrevindo, durante o per\u00edodo de prova, condena\u00e7\u00e3o irrecorr\u00edvel por crime doloso, o benef\u00edcio ser\u00e1 revogado, mas tal per\u00edodo ser\u00e1 computado para efeitos de detra\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

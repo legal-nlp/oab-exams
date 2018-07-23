@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "caso a queixa seja recebida, o Minist\u00e9rio P\u00fablico n\u00e3o poder\u00e1 adit\u00e1-la ou interpor recurso no curso do processo.",
                 "pmi": [
                     0.008385781428333782,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caso a queixa seja recebida, o Minist\u00e9rio P\u00fablico n\u00e3o poder\u00e1 adit\u00e1-la ou interpor recurso no curso do processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "caso a queixa seja recebida, havendo neglig\u00eancia do querelante, dever\u00e1 ser reconhecida a peremp\u00e7\u00e3o.",
                 "pmi": [
                     0.0034034300458310536,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caso a queixa seja recebida, havendo neglig\u00eancia do querelante, dever\u00e1 ser reconhecida a peremp\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a queixa proposta deve ser rejeitada pelo magistrado, pois n\u00e3o houve in\u00e9rcia do Minist\u00e9rio P\u00fablico.",
                 "pmi": [
                     0.02637555632246547,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a queixa proposta deve ser rejeitada pelo magistrado, pois n\u00e3o houve in\u00e9rcia do Minist\u00e9rio P\u00fablico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a queixa proposta deve ser rejeitada pelo magistrado, tendo em vista que o instituto da a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica n\u00e3o foi recepcionado pela Constitui\u00e7\u00e3o Federal.",
                 "pmi": [
                     0.013787865746922671,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a queixa proposta deve ser rejeitada pelo magistrado, tendo em vista que o instituto da a\u00e7\u00e3o penal privada subsidi\u00e1ria da p\u00fablica n\u00e3o foi recepcionado pela Constitui\u00e7\u00e3o Federal."
+                ]
             }
         ],
         "valid": true

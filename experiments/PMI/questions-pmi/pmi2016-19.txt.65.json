@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Recurso de Agravo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Recurso de Agravo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Carta Testemunh\u00e1vel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Carta Testemunh\u00e1vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Recurso Ordin\u00e1rio Constitucional.",
                 "pmi": [
                     0.03480936249008741,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso Ordin\u00e1rio Constitucional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Recurso em Sentido Estrito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso em Sentido Estrito."
+                ]
             }
         ],
         "valid": true

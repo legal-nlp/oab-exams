@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "recepta\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "recepta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "recepta\u00e7\u00e3o qualificada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "recepta\u00e7\u00e3o qualificada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "roubo majorado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "roubo majorado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "favorecimento real.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "favorecimento real."
+                ]
             }
         ],
         "valid": true

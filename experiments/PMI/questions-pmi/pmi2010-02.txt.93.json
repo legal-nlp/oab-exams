@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o \u00e9 competente, porque o r\u00e9u \u00e9 pessoa jur\u00eddica estrangeira.",
                 "pmi": [
                     0.12153159577305148,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 competente, porque o r\u00e9u \u00e9 pessoa jur\u00eddica estrangeira."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "ter\u00e1 compet\u00eancia porque os danos \u00e0 imagem ocorreram no Brasil.",
                 "pmi": [
                     -8.178263251868002e-05,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter\u00e1 compet\u00eancia porque os danos \u00e0 imagem ocorreram no Brasil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a norte-americana.",
                 "pmi": [
                     -0.0060423066732128005,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 remeter o caso, por carta rogat\u00f3ria, \u00e0 justi\u00e7a norte-americana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ter\u00e1 compet\u00eancia porque o autor tem nacionalidade brasileira.",
                 "pmi": [
                     0.010596163246592643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter\u00e1 compet\u00eancia porque o autor tem nacionalidade brasileira."
+                ]
             }
         ],
         "valid": true

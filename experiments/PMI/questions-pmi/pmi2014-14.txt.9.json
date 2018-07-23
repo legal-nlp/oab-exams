@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ana ter\u00e1 o dever de depor, pois o bem jur\u00eddico administra\u00e7\u00e3o da justi\u00e7a \u00e9 mais relevante do que o bem jur\u00eddico inviolabilidade dos segredos.",
                 "pmi": [
                     0.0332505502058157,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ana ter\u00e1 o dever de depor, pois o bem jur\u00eddico administra\u00e7\u00e3o da justi\u00e7a \u00e9 mais relevante do que o bem jur\u00eddico inviolabilidade dos segredos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ana ter\u00e1 o dever de depor, pois foi desobrigada por seu ex-cliente do dever de guardar sigilo sobre os fatos de que tomou conhecimento quando atuou como advogada da XYZ Ltda.",
                 "pmi": [
                     0.014197850486311754,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ana ter\u00e1 o dever de depor, pois foi desobrigada por seu ex-cliente do dever de guardar sigilo sobre os fatos de que tomou conhecimento quando atuou como advogada da XYZ Ltda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ana ter\u00e1 o dever de depor, pois n\u00e3o integra mais o departamento jur\u00eddico da empresa XYZ Ltda., tendo cessado, portanto, seu dever de guardar sigilo.",
                 "pmi": [
                     0.03367880681253746,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ana ter\u00e1 o dever de depor, pois n\u00e3o integra mais o departamento jur\u00eddico da empresa XYZ Ltda., tendo cessado, portanto, seu dever de guardar sigilo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Ana n\u00e3o ter\u00e1 o dever de depor, pois o advogado tem o direito de se recusar a depor, como testemunha, sobre fato relacionado \u00e0 pessoa de quem foi ou seja advogado, mesmo quando solicitado pelo cliente.",
                 "pmi": [
                     0.022668913548027997,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ana n\u00e3o ter\u00e1 o dever de depor, pois o advogado tem o direito de se recusar a depor, como testemunha, sobre fato relacionado \u00e0 pessoa de quem foi ou seja advogado, mesmo quando solicitado pelo cliente."
+                ]
             }
         ],
         "valid": true

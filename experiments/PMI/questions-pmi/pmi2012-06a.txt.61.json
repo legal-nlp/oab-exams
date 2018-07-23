@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "crime de homic\u00eddio qualificado pela utiliza\u00e7\u00e3o de recurso que impediu a defesa da v\u00edtima.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de homic\u00eddio qualificado pela utiliza\u00e7\u00e3o de recurso que impediu a defesa da v\u00edtima."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "em concurso material os crimes de aborto tentado e infantic\u00eddio consumado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em concurso material os crimes de aborto tentado e infantic\u00eddio consumado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "apenas o crime de infantic\u00eddio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "apenas o crime de infantic\u00eddio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "em concurso formal os crimes de aborto tentado e infantic\u00eddio consumado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em concurso formal os crimes de aborto tentado e infantic\u00eddio consumado."
+                ]
             }
         ],
         "valid": true

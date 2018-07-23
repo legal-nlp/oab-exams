@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O pr\u00f3prio autor, se maior de 18 anos, os herdeiros ou sucessores do autor, o cession\u00e1rio ou o empregador ou tomador de servi\u00e7os, no caso de patente desenvolvida por empregado ou prestador de servi\u00e7o.",
                 "pmi": [
                     0.0020164663322870006,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pr\u00f3prio autor, se maior de 18 anos, os herdeiros ou sucessores do autor, o cession\u00e1rio ou o empregador ou tomador de servi\u00e7os, no caso de patente desenvolvida por empregado ou prestador de servi\u00e7o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O pr\u00f3prio autor, os herdeiros ou sucessores do autor, o cession\u00e1rio ou aquele a quem a lei ou o contrato de trabalho ou de presta\u00e7\u00e3o de servi\u00e7os determinar que perten\u00e7a a titularidade da patente ou do modelo de utilidade.",
                 "pmi": [
                     -0.00046827736393091716,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pr\u00f3prio autor, os herdeiros ou sucessores do autor, o cession\u00e1rio ou aquele a quem a lei ou o contrato de trabalho ou de presta\u00e7\u00e3o de servi\u00e7os determinar que perten\u00e7a a titularidade da patente ou do modelo de utilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O pr\u00f3prio autor, pessoa natural ou sociedade empres\u00e1ria, o cession\u00e1rio da patente ou aquele a quem a lei ou o contrato de trabalho ou de presta\u00e7\u00e3o de servi\u00e7os determinar que perten\u00e7a a titularidade da patente ou do modelo de utilidade.",
                 "pmi": [
                     0.0368575184959265,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pr\u00f3prio autor, pessoa natural ou sociedade empres\u00e1ria, o cession\u00e1rio da patente ou aquele a quem a lei ou o contrato de trabalho ou de presta\u00e7\u00e3o de servi\u00e7os determinar que perten\u00e7a a titularidade da patente ou do modelo de utilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O pr\u00f3prio autor, os herdeiros ou sucessores do autor at\u00e9 5 (cinco) anos da data do \u00f3bito, o cession\u00e1rio ou o empregador ou tomador de servi\u00e7os, no caso de patente desenvolvida por empregado ou prestador de servi\u00e7o.",
                 "pmi": [
                     -0.025047318636953926,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pr\u00f3prio autor, os herdeiros ou sucessores do autor at\u00e9 5 (cinco) anos da data do \u00f3bito, o cession\u00e1rio ou o empregador ou tomador de servi\u00e7os, no caso de patente desenvolvida por empregado ou prestador de servi\u00e7o."
+                ]
             }
         ],
         "valid": true

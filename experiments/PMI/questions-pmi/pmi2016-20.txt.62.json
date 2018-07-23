@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "latroc\u00ednio consumado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "latroc\u00ednio consumado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "latroc\u00ednio tentado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "latroc\u00ednio tentado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "furto tentado e homic\u00eddio qualificado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "furto tentado e homic\u00eddio qualificado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "furto consumado e homic\u00eddio qualificado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "furto consumado e homic\u00eddio qualificado."
+                ]
             }
         ],
         "valid": true

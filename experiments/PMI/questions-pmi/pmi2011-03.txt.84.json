@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "medida provis\u00f3ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "medida provis\u00f3ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "lei complementar.",
                 "pmi": [
                     -0.041451372981333584,
                     0.0,
                     0,
                     0
-                ],
-                "text": "lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "emenda constitucional.",
                 "pmi": [
                     0.17861384581497056,
                     0.0,
                     0,
                     0
-                ],
-                "text": "emenda constitucional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "lei ordin\u00e1ria.",
                 "pmi": [
                     -0.041451372981333584,
                     0.0,
                     0,
                     0
-                ],
-                "text": "lei ordin\u00e1ria."
+                ]
             }
         ],
         "valid": true

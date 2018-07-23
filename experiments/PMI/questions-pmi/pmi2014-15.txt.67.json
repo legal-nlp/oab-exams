@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Somente o juiz da Vara de Execu\u00e7\u00f5es Penais poder\u00e1 realizar o c\u00f4mputo do tempo de pris\u00e3o provis\u00f3ria para fins de determina\u00e7\u00e3o do regime inicial de cumprimento de pena.",
                 "pmi": [
                     0.025347255228779945,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente o juiz da Vara de Execu\u00e7\u00f5es Penais poder\u00e1 realizar o c\u00f4mputo do tempo de pris\u00e3o provis\u00f3ria para fins de determina\u00e7\u00e3o do regime inicial de cumprimento de pena."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O magistrado sentenciante dever\u00e1 computar o tempo de pris\u00e3o provis\u00f3ria para fins de determina\u00e7\u00e3o do regime inicial de pena privativa de liberdade.",
                 "pmi": [
                     0.026188300365942798,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado sentenciante dever\u00e1 computar o tempo de pris\u00e3o provis\u00f3ria para fins de determina\u00e7\u00e3o do regime inicial de pena privativa de liberdade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O condenado dever\u00e1 iniciar seu cumprimento de pena no regime inicial fechado e, passado o prazo de 1/6, poder\u00e1 requerer ao ju\u00edzo de execu\u00e7\u00e3o a progress\u00e3o para o regime mais ben\u00e9fico, desde que preencha os demais requisitos legais.",
                 "pmi": [
                     0.01609470819545884,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O condenado dever\u00e1 iniciar seu cumprimento de pena no regime inicial fechado e, passado o prazo de 1/6, poder\u00e1 requerer ao ju\u00edzo de execu\u00e7\u00e3o a progress\u00e3o para o regime mais ben\u00e9fico, desde que preencha os demais requisitos legais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O condenado dever\u00e1 iniciar seu cumprimento de pena no regime inicial fechado e, passado o prazo de 1/6, poder\u00e1 requerer ao ju\u00edzo sentenciante a progress\u00e3o para o regime mais ben\u00e9fico, desde que preencha os demais requisitos legais.",
                 "pmi": [
                     0.01518692730292205,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O condenado dever\u00e1 iniciar seu cumprimento de pena no regime inicial fechado e, passado o prazo de 1/6, poder\u00e1 requerer ao ju\u00edzo sentenciante a progress\u00e3o para o regime mais ben\u00e9fico, desde que preencha os demais requisitos legais."
+                ]
             }
         ],
         "valid": true

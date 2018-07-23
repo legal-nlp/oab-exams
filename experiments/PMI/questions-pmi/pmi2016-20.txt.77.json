@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Paulo dever\u00e1 realizar o pagamento, pois honor\u00e1rios periciais n\u00e3o se incluem na gratuidade de justi\u00e7a, que alcan\u00e7a apenas as custas.",
                 "pmi": [
                     0.027396841404969872,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo dever\u00e1 realizar o pagamento, pois honor\u00e1rios periciais n\u00e3o se incluem na gratuidade de justi\u00e7a, que alcan\u00e7a apenas as custas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A sociedade empres\u00e1ria dever\u00e1 pagar a per\u00edcia, j\u00e1 que Paulo n\u00e3o tem condi\u00e7\u00f5es de faz\u00ea-lo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria dever\u00e1 pagar a per\u00edcia, j\u00e1 que Paulo n\u00e3o tem condi\u00e7\u00f5es de faz\u00ea-lo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A Uni\u00e3o ser\u00e1 a respons\u00e1vel pelo pagamento dos honor\u00e1rios periciais.",
                 "pmi": [
                     0.0910018413477194,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Uni\u00e3o ser\u00e1 a respons\u00e1vel pelo pagamento dos honor\u00e1rios periciais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O perito dever\u00e1 se habilitar como credor de Paulo at\u00e9 que esse tenha condi\u00e7\u00e3o de custear a per\u00edcia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O perito dever\u00e1 se habilitar como credor de Paulo at\u00e9 que esse tenha condi\u00e7\u00e3o de custear a per\u00edcia."
+                ]
             }
         ],
         "valid": true

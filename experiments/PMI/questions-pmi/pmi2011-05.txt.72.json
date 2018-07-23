@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Maria n\u00e3o faz jus \u00e0 perman\u00eancia do acr\u00e9scimo remunerat\u00f3rio, uma vez que, por se tratar de sal\u00e1rio-condi\u00e7\u00e3o vinculado \u00e0 confec\u00e7\u00e3o de doces e salgados, seu empregador poderia suprimi-lo quando a situa\u00e7\u00e3o especial deixasse de existir.",
                 "pmi": [
                     -0.017618826582473393,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria n\u00e3o faz jus \u00e0 perman\u00eancia do acr\u00e9scimo remunerat\u00f3rio, uma vez que, por se tratar de sal\u00e1rio-condi\u00e7\u00e3o vinculado \u00e0 confec\u00e7\u00e3o de doces e salgados, seu empregador poderia suprimi-lo quando a situa\u00e7\u00e3o especial deixasse de existir."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Maria faz jus ao pagamento de FGTS, mas sem indeniza\u00e7\u00e3o de 40%, uma vez que voltou a ser empregada dom\u00e9stica.",
                 "pmi": [
                     0.015605614318127053,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria faz jus ao pagamento de FGTS, mas sem indeniza\u00e7\u00e3o de 40%, uma vez que voltou a ser empregada dom\u00e9stica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Maria faz jus \u00e0 perman\u00eancia do acr\u00e9scimo remunerat\u00f3rio, uma vez que, por se tratar de parcela de natureza salarial, n\u00e3o poderia ser reduzida unilateralmente pelo empregador.",
                 "pmi": [
                     -0.01392544165422141,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria faz jus \u00e0 perman\u00eancia do acr\u00e9scimo remunerat\u00f3rio, uma vez que, por se tratar de parcela de natureza salarial, n\u00e3o poderia ser reduzida unilateralmente pelo empregador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Maria n\u00e3o faz jus ao pagamento de FGTS e indeniza\u00e7\u00e3o de 40%, uma vez que era empregada dom\u00e9stica.",
                 "pmi": [
                     0.017556316107892933,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria n\u00e3o faz jus ao pagamento de FGTS e indeniza\u00e7\u00e3o de 40%, uma vez que era empregada dom\u00e9stica."
+                ]
             }
         ],
         "valid": true

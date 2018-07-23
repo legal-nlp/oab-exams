@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade solid\u00e1ria.",
                 "pmi": [
                     0.006707235803398814,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade solid\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade subsidi\u00e1ria.",
                 "pmi": [
                     0.012794711011367138,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de cons\u00f3rcio de empregadores, havendo responsabilidade subsidi\u00e1ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade solid\u00e1ria.",
                 "pmi": [
                     0.02199079498736614,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade solid\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade subsidi\u00e1ria.",
                 "pmi": [
                     0.02929576523692813,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de grupo econ\u00f4mico, havendo responsabilidade subsidi\u00e1ria."
+                ]
             }
         ],
         "valid": true

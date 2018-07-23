@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Diante da situa\u00e7\u00e3o jur\u00eddica das sociedades empres\u00e1rias, elas ficam dispensadas do preparo.",
                 "pmi": [
                     0.0073491208301183115,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Diante da situa\u00e7\u00e3o jur\u00eddica das sociedades empres\u00e1rias, elas ficam dispensadas do preparo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A sociedade empres\u00e1ria Girassol precisar\u00e1 realizar preparo, mas a sociedade empres\u00e1ria Passo Fundo, n\u00e3o.",
                 "pmi": [
                     0.007608107163952594,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria Girassol precisar\u00e1 realizar preparo, mas a sociedade empres\u00e1ria Passo Fundo, n\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ambas as sociedades empres\u00e1rias precisar\u00e3o realizar o preparo integralmente.",
                 "pmi": [
                     0.006922018139765595,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambas as sociedades empres\u00e1rias precisar\u00e3o realizar o preparo integralmente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A sociedade empres\u00e1ria Girassol n\u00e3o precisar\u00e1 realizar preparo, mas a sociedade empres\u00e1ria Passo Fundo, sim.",
                 "pmi": [
                     0.007608107163952594,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria Girassol n\u00e3o precisar\u00e1 realizar preparo, mas a sociedade empres\u00e1ria Passo Fundo, sim."
+                ]
             }
         ],
         "valid": true

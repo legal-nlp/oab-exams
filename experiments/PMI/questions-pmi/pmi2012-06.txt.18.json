@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "ap\u00f3s reiteradas decis\u00f5es no mesmo sentido, o STF poder\u00e1 editar s\u00famula vinculante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ap\u00f3s reiteradas decis\u00f5es no mesmo sentido, o STF poder\u00e1 editar s\u00famula vinculante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o STF dever\u00e1 encaminhar a decis\u00e3o ao Senado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o STF dever\u00e1 encaminhar a decis\u00e3o ao Senado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "os \u00f3rg\u00e3os fracion\u00e1rios dos tribunais, a partir de ent\u00e3o, ficam dispensados de encaminhar a quest\u00e3o ao pleno.",
                 "pmi": [
                     -0.0007303377927373219,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os \u00f3rg\u00e3os fracion\u00e1rios dos tribunais, a partir de ent\u00e3o, ficam dispensados de encaminhar a quest\u00e3o ao pleno."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a efic\u00e1cia da decis\u00e3o \u00e9 erga omnes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a efic\u00e1cia da decis\u00e3o \u00e9 erga omnes."
+                ]
             }
         ],
         "valid": true

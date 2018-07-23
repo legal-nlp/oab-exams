@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O destaque correspondente aos honor\u00e1rios advocat\u00edcios definidos em contrato escrito pode ocorrer a qualquer momento antes do pagamento do precat\u00f3rio.",
                 "pmi": [
                     0.02369600985954927,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O destaque correspondente aos honor\u00e1rios advocat\u00edcios definidos em contrato escrito pode ocorrer a qualquer momento antes do pagamento do precat\u00f3rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O advogado, ocorrendo a exist\u00eancia de honor\u00e1rios advocat\u00edcios contratuais fixados por escrito, deve requerer o seu pagamento com a dedu\u00e7\u00e3o do valor devido ao cliente antes da expedi\u00e7\u00e3o do precat\u00f3rio.",
                 "pmi": [
                     0.008667511122879659,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado, ocorrendo a exist\u00eancia de honor\u00e1rios advocat\u00edcios contratuais fixados por escrito, deve requerer o seu pagamento com a dedu\u00e7\u00e3o do valor devido ao cliente antes da expedi\u00e7\u00e3o do precat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O pagamento dos honor\u00e1rios contratuais fixados em documento escrito deve ser realizado pelo cliente ou em a\u00e7\u00e3o judicial sem que possa ocorrer desconto no valor do precat\u00f3rio expedido em favor do cliente.",
                 "pmi": [
                     0.020183279086777865,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pagamento dos honor\u00e1rios contratuais fixados em documento escrito deve ser realizado pelo cliente ou em a\u00e7\u00e3o judicial sem que possa ocorrer desconto no valor do precat\u00f3rio expedido em favor do cliente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O Juiz fazend\u00e1rio da condena\u00e7\u00e3o, em se tratando de acerto privado, n\u00e3o possui compet\u00eancia para definir se tal valor \u00e9 ou n\u00e3o devido, sendo invi\u00e1vel o desconto no valor do precat\u00f3rio.",
                 "pmi": [
                     0.016638574575207656,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Juiz fazend\u00e1rio da condena\u00e7\u00e3o, em se tratando de acerto privado, n\u00e3o possui compet\u00eancia para definir se tal valor \u00e9 ou n\u00e3o devido, sendo invi\u00e1vel o desconto no valor do precat\u00f3rio."
+                ]
             }
         ],
         "valid": true

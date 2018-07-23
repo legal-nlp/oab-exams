@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado.",
                 "pmi": [
                     0.03009505207084396,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o novo prazo recursal deve ser observado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
                 "pmi": [
                     0.027587131064940294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "tempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado.",
                 "pmi": [
                     0.027587131064940294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "intempestivo, aplicando-se o princ\u00edpio do tempus regit actum (o tempo rege o ato), e o antigo prazo recursal deve ser observado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado.",
                 "pmi": [
                     0.018594701191676083,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "tempestivo, aplicando-se o princ\u00edpio constitucional da irretroatividade da lei mais gravosa, e o antigo prazo recursal deve ser observado."
+                ]
             }
         ],
         "valid": true

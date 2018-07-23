@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Por economia processual admite-se a atua\u00e7\u00e3o do advogado como preposto e advogado no mesmo processo.",
                 "pmi": [
                     0.01439481500539358,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por economia processual admite-se a atua\u00e7\u00e3o do advogado como preposto e advogado no mesmo processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Essa \u00e9 uma situa\u00e7\u00e3o excepcional que permite a atua\u00e7\u00e3o do advogado como preposto da empresa e seu representante judicial.",
                 "pmi": [
                     0.050912092610435375,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Essa \u00e9 uma situa\u00e7\u00e3o excepcional que permite a atua\u00e7\u00e3o do advogado como preposto da empresa e seu representante judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00c9 vedada a atua\u00e7\u00e3o como preposto e como advogado da empresa ao mesmo tempo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 vedada a atua\u00e7\u00e3o como preposto e como advogado da empresa ao mesmo tempo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o havendo oposi\u00e7\u00e3o da parte adversa, pode ocorrer a atua\u00e7\u00e3o do advogado nas duas fun\u00e7\u00f5es: preposto e representante judicial.",
                 "pmi": [
                     0.03595640653271444,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o havendo oposi\u00e7\u00e3o da parte adversa, pode ocorrer a atua\u00e7\u00e3o do advogado nas duas fun\u00e7\u00f5es: preposto e representante judicial."
+                ]
             }
         ],
         "valid": true

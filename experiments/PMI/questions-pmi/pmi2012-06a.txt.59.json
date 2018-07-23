@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O per\u00edodo de aplica\u00e7\u00e3o do Regime Disciplinar Diferenciado n\u00e3o poder\u00e1 ultrapassar 360 (trezentos e sessenta dias), sendo vedada a repeti\u00e7\u00e3o da san\u00e7\u00e3o por nova falta grave.",
                 "pmi": [
                     0.1142121508574541,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O per\u00edodo de aplica\u00e7\u00e3o do Regime Disciplinar Diferenciado n\u00e3o poder\u00e1 ultrapassar 360 (trezentos e sessenta dias), sendo vedada a repeti\u00e7\u00e3o da san\u00e7\u00e3o por nova falta grave."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O Regime Disciplinar diferenciado n\u00e3o poder\u00e1 ser aplicado a presos provis\u00f3rios, mesmo no caso de crimes hediondos.",
                 "pmi": [
                     0.0789411448825183,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Regime Disciplinar diferenciado n\u00e3o poder\u00e1 ser aplicado a presos provis\u00f3rios, mesmo no caso de crimes hediondos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A autoriza\u00e7\u00e3o para a inclus\u00e3o do preso em regime disciplinar depender\u00e1 de requerimento circunstanciado elaborado pelo diretor do estabelecimento ou outra autoridade administrativa e despacho fundamentado da autoridade judicial competente.",
                 "pmi": [
                     0.03947057244125915,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A autoriza\u00e7\u00e3o para a inclus\u00e3o do preso em regime disciplinar depender\u00e1 de requerimento circunstanciado elaborado pelo diretor do estabelecimento ou outra autoridade administrativa e despacho fundamentado da autoridade judicial competente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O preso ter\u00e1 direito a sair de sua cela por um per\u00edodo de 2 (duas) horas semanais para banho de sol, salvo nos casos de crimes inafian\u00e7\u00e1veis.",
                 "pmi": [
                     -0.012048579276262666,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O preso ter\u00e1 direito a sair de sua cela por um per\u00edodo de 2 (duas) horas semanais para banho de sol, salvo nos casos de crimes inafian\u00e7\u00e1veis."
+                ]
             }
         ],
         "valid": true

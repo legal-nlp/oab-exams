@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregado, mas os lucros dever\u00e3o ser divididos.",
                 "pmi": [
                     0.014343422279591789,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregado, mas os lucros dever\u00e3o ser divididos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregador, dada a atividade para a qual foi contratado o empregado.",
                 "pmi": [
                     0.017966572355673605,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inven\u00e7\u00e3o pertence exclusivamente ao empregador, dada a atividade para a qual foi contratado o empregado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A inven\u00e7\u00e3o pertence ao empregado e ao empregador, que dividir\u00e3o os lucros.",
                 "pmi": [
                     0.01673399265952375,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inven\u00e7\u00e3o pertence ao empregado e ao empregador, que dividir\u00e3o os lucros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A inven\u00e7\u00e3o pertence ao empregador, mas \u00e9 dado ao empregado pedir indeniza\u00e7\u00e3o por dano material, a ser arbitrado pela justi\u00e7a.",
                 "pmi": [
                     0.009127632359740229,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A inven\u00e7\u00e3o pertence ao empregador, mas \u00e9 dado ao empregado pedir indeniza\u00e7\u00e3o por dano material, a ser arbitrado pela justi\u00e7a."
+                ]
             }
         ],
         "valid": true

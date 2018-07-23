@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, uma vez que esse \u00e9 um cargo privativo de brasileiro nato.",
                 "pmi": [
                     0.06958518471563259,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, uma vez que esse \u00e9 um cargo privativo de brasileiro nato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jo\u00e3o n\u00e3o poderia ser Deputado Federal, mas poderia ingressar na carreira diplom\u00e1tica em que n\u00e3o \u00e9 exigido o requisito de ser brasileiro nato.",
                 "pmi": [
                     0.04580957291579682,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o poderia ser Deputado Federal, mas poderia ingressar na carreira diplom\u00e1tica em que n\u00e3o \u00e9 exigido o requisito de ser brasileiro nato."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Jo\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, bem como ser eleito, entretanto, n\u00e3o poderia ter sido escolhido Presidente da C\u00e2mara dos Deputados, eis que esse cargo deve ser exercido por brasileiro nato.",
                 "pmi": [
                     0.1067723612079935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, bem como ser eleito, entretanto, n\u00e3o poderia ter sido escolhido Presidente da C\u00e2mara dos Deputados, eis que esse cargo deve ser exercido por brasileiro nato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, mas poderia ter se candidatado ao cargo de Senador da Rep\u00fablica, mesmo sendo brasileiro naturalizado.",
                 "pmi": [
                     0.10420503939856596,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o poderia ter-se candidatado ao cargo de Deputado Federal, mas poderia ter se candidatado ao cargo de Senador da Rep\u00fablica, mesmo sendo brasileiro naturalizado."
+                ]
             }
         ],
         "valid": true

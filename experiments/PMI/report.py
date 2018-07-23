@@ -22,9 +22,14 @@ for fn in sys.argv[1:]:
             if o['pmi'] > max_pmi:
                 max_pmi = o['pmi']
                 chosen_answer = o
+        row = [ q['filename'], q['number'] ]
+
         if chosen_answer:
-            print(chosen_answer['correct'])
+            row.append(str(chosen_answer['correct']))
         else:
-            print(None)
+            row.append(str(None))
+
+        print ("\t".join(row))
+        
         
                                    

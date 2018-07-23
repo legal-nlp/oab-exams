@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "les\u00e3o corporal seguida de morte.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "les\u00e3o corporal seguida de morte."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "tortura qualificada pela morte com causa de aumento.",
                 "pmi": [
                     0.0028849120544519402,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "tortura qualificada pela morte com causa de aumento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "homic\u00eddio qualificado pela tortura.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "homic\u00eddio qualificado pela tortura."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "abuso de autoridade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "abuso de autoridade."
+                ]
             }
         ],
         "valid": true

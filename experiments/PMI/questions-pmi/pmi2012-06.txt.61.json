@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o juiz dever\u00e1 aplicar a pena mais grave e aument\u00e1-la de um sexto at\u00e9 a metade.",
                 "pmi": [
                     0.010317053018178294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz dever\u00e1 aplicar a pena mais grave e aument\u00e1-la de um sexto at\u00e9 a metade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o juiz dever\u00e1 somar as penas.",
                 "pmi": [
                     0.024073123709082683,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o juiz dever\u00e1 somar as penas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00e9 caso de concurso formal homog\u00eaneo.",
                 "pmi": [
                     -0.010921307471805065,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 caso de concurso formal homog\u00eaneo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00e9 caso de concurso formal impr\u00f3prio.",
                 "pmi": [
                     -0.010921307471805065,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 caso de concurso formal impr\u00f3prio."
+                ]
             }
         ],
         "valid": true

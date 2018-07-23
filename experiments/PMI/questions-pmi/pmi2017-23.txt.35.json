@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe.",
                 "pmi": [
                     0.0379106588682294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro e ao pagamento de juros, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe.",
                 "pmi": [
                     0.02794107053423982,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1ssio tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro e ao pagamento de juros, ainda que a perda da coisa n\u00e3o tenha sido por culpa do devedor, Felipe."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "C\u00e1ssio tem direito somente \u00e0 devolu\u00e7\u00e3o de metade do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe.",
                 "pmi": [
                     0.02427876035899376,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1ssio tem direito somente \u00e0 devolu\u00e7\u00e3o de metade do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "C\u00e1ssio n\u00e3o tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe.",
                 "pmi": [
                     0.027313605403867982,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "C\u00e1ssio n\u00e3o tem direito \u00e0 devolu\u00e7\u00e3o do dinheiro, pois a perda da coisa n\u00e3o foi por culpa do devedor, Felipe."
+                ]
             }
         ],
         "valid": true

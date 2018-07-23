@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Mesmo n\u00e3o estando constitu\u00edda nos autos do processo, Maria pode ter vista e obter c\u00f3pias dos autos do processo, j\u00e1 que o mesmo n\u00e3o est\u00e1 sujeito a sigilo.",
                 "pmi": [
                     0.026560413117456577,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Mesmo n\u00e3o estando constitu\u00edda nos autos do processo, Maria pode ter vista e obter c\u00f3pias dos autos do processo, j\u00e1 que o mesmo n\u00e3o est\u00e1 sujeito a sigilo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O serventu\u00e1rio agiu corretamente. O advogado n\u00e3o constitu\u00eddo nos autos de determinado processo apenas pode ter vista dos mesmos em balc\u00e3o, mas n\u00e3o pode retir\u00e1-los de cart\u00f3rio para extra\u00e7\u00e3o de c\u00f3pias.",
                 "pmi": [
                     0.013280206558728289,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O serventu\u00e1rio agiu corretamente. O advogado n\u00e3o constitu\u00eddo nos autos de determinado processo apenas pode ter vista dos mesmos em balc\u00e3o, mas n\u00e3o pode retir\u00e1-los de cart\u00f3rio para extra\u00e7\u00e3o de c\u00f3pias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Tendo em vista que Maria n\u00e3o estava constitu\u00edda nos autos e que n\u00e3o poderia retir\u00e1-los de cart\u00f3rio para a extra\u00e7\u00e3o de c\u00f3pias, o serventu\u00e1rio deveria ter providenciado pessoalmente as c\u00f3pias de que Maria necessitava.",
                 "pmi": [
                     0.009485861827663063,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Tendo em vista que Maria n\u00e3o estava constitu\u00edda nos autos e que n\u00e3o poderia retir\u00e1-los de cart\u00f3rio para a extra\u00e7\u00e3o de c\u00f3pias, o serventu\u00e1rio deveria ter providenciado pessoalmente as c\u00f3pias de que Maria necessitava."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Tendo em vista que Maria n\u00e3o estava constitu\u00edda nos autos do processo, n\u00e3o poderia sequer ter vista dos mesmos.",
                 "pmi": [
                     0.01660025819841036,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O serventu\u00e1rio n\u00e3o agiu corretamente. Tendo em vista que Maria n\u00e3o estava constitu\u00edda nos autos do processo, n\u00e3o poderia sequer ter vista dos mesmos."
+                ]
             }
         ],
         "valid": true

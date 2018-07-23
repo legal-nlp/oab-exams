@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jos\u00e9 recebe R$ 250.000,00 e Mauro, M\u00e1rio, Bruno e Breno recebem cada um R$ 62.500,00.",
                 "pmi": [
                     -0.05571317644035266,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 recebe R$ 250.000,00 e Mauro, M\u00e1rio, Bruno e Breno recebem cada um R$ 62.500,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O monte, no valor total de R$ 500.000,00, deve ser dividido em cinco partes, ou seja, Jos\u00e9, Mauro, M\u00e1rio, Breno e Bruno recebem, cada um, R$ 100.000,00.",
                 "pmi": [
                     -0.0074284668072792754,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O monte, no valor total de R$ 500.000,00, deve ser dividido em cinco partes, ou seja, Jos\u00e9, Mauro, M\u00e1rio, Breno e Bruno recebem, cada um, R$ 100.000,00."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Jos\u00e9 recebe R$ 250.000,00 e Bruno e Breno recebem, cada um, a import\u00e2ncia de R$ 125.000,00.",
                 "pmi": [
                     0.0019276653317107473,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 recebe R$ 250.000,00 e Bruno e Breno recebem, cada um, a import\u00e2ncia de R$ 125.000,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A heran\u00e7a deve ser dividida em tr\u00eas partes, cabendo a Jos\u00e9, Bruno e Breno 1/3 do monte, ou seja, R$ 166.666,66 para cada um.",
                 "pmi": [
                     -0.19577701561944139,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A heran\u00e7a deve ser dividida em tr\u00eas partes, cabendo a Jos\u00e9, Bruno e Breno 1/3 do monte, ou seja, R$ 166.666,66 para cada um."
+                ]
             }
         ],
         "valid": true

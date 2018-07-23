@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o \u00e9 poss\u00edvel a cria\u00e7\u00e3o de autarquia para a gest\u00e3o da previd\u00eancia dos servidores, uma vez que se trata de atividade t\u00edpica da Administra\u00e7\u00e3o P\u00fablica.",
                 "pmi": [
                     0.18210381029167197,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 poss\u00edvel a cria\u00e7\u00e3o de autarquia para a gest\u00e3o da previd\u00eancia dos servidores, uma vez que se trata de atividade t\u00edpica da Administra\u00e7\u00e3o P\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o cabe recurso hier\u00e1rquico impr\u00f3prio em face das decis\u00f5es da autarquia, uma vez que ela goza de autonomia t\u00e9cnica, administrativa e financeira.",
                 "pmi": [
                     0.09417249452153584,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o cabe recurso hier\u00e1rquico impr\u00f3prio em face das decis\u00f5es da autarquia, uma vez que ela goza de autonomia t\u00e9cnica, administrativa e financeira."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A previs\u00e3o de recurso dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada) configura exemplo de recurso hier\u00e1rquico pr\u00f3prio.",
                 "pmi": [
                     0.050946381279219737,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A previs\u00e3o de recurso dirigido \u00e0 Secretaria de Administra\u00e7\u00e3o do Estado (\u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada) configura exemplo de recurso hier\u00e1rquico pr\u00f3prio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "S\u00e3o v\u00e1lidas tanto a constitui\u00e7\u00e3o da autarquia para a gest\u00e3o do regime previdenci\u00e1rio quanto a previs\u00e3o de cabimento do recurso ao \u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada.",
                 "pmi": [
                     0.0947747176367692,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "S\u00e3o v\u00e1lidas tanto a constitui\u00e7\u00e3o da autarquia para a gest\u00e3o do regime previdenci\u00e1rio quanto a previs\u00e3o de cabimento do recurso ao \u00f3rg\u00e3o ao qual a autarquia est\u00e1 vinculada."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Militar n\u00e3o pode, enquanto permanecer na ativa, inscrever-se no quadro de advogados, mas se permite a ele a inscri\u00e7\u00e3o no quadro de estagi\u00e1rios.",
                 "pmi": [
                     0.02626816011254286,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Militar n\u00e3o pode, enquanto permanecer na ativa, inscrever-se no quadro de advogados, mas se permite a ele a inscri\u00e7\u00e3o no quadro de estagi\u00e1rios."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Militar n\u00e3o pode, enquanto na ativa, obter inscri\u00e7\u00e3o no quadro de advogados nem no quadro de estagi\u00e1rios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Militar n\u00e3o pode, enquanto na ativa, obter inscri\u00e7\u00e3o no quadro de advogados nem no quadro de estagi\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Militar da ativa pode atuar na Justi\u00e7a Militar especializada, porque se inscreve no quadro especial de estagi\u00e1rios.",
                 "pmi": [
                     0.02423477718585441,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Militar da ativa pode atuar na Justi\u00e7a Militar especializada, porque se inscreve no quadro especial de estagi\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Militar de alta patente pode obter inscri\u00e7\u00e3o tanto no quadro de estagi\u00e1rios como no de advogados, mediante permiss\u00e3o especial do Presidente da OAB.",
                 "pmi": [
                     0.011883856565926984,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Militar de alta patente pode obter inscri\u00e7\u00e3o tanto no quadro de estagi\u00e1rios como no de advogados, mediante permiss\u00e3o especial do Presidente da OAB."
+                ]
             }
         ],
         "valid": true

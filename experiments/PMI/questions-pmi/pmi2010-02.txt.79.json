@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "da uniformidade geogr\u00e1fica da tributa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da uniformidade geogr\u00e1fica da tributa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "da legalidade tribut\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "da legalidade tribut\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "da liberdade de tr\u00e1fego.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "da liberdade de tr\u00e1fego."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "da n\u00e3o diferencia\u00e7\u00e3o tribut\u00e1ria entre a proced\u00eancia e o destino do produto.",
                 "pmi": [
                     0.07332540358486556,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da n\u00e3o diferencia\u00e7\u00e3o tribut\u00e1ria entre a proced\u00eancia e o destino do produto."
+                ]
             }
         ],
         "valid": true

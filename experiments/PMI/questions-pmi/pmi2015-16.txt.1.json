@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Tal conduta \u00e9 permitida, por ter o bacharel logrado aprova\u00e7\u00e3o no Exame de Ordem.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tal conduta \u00e9 permitida, por ter o bacharel logrado aprova\u00e7\u00e3o no Exame de Ordem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tal conduta \u00e9 proibida, por ser equiparada \u00e0 capta\u00e7\u00e3o de clientela.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tal conduta \u00e9 proibida, por ser equiparada \u00e0 capta\u00e7\u00e3o de clientela."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Tal conduta \u00e9 permitida mediante autoriza\u00e7\u00e3o do Presidente da Seccional da Ordem dos Advogados do Brasil.",
                 "pmi": [
                     0.1725965434936603,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tal conduta \u00e9 permitida mediante autoriza\u00e7\u00e3o do Presidente da Seccional da Ordem dos Advogados do Brasil."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Tal conduta \u00e9 proibida, tendo em vista a aus\u00eancia de inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil.",
                 "pmi": [
                     0.1534191497721425,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tal conduta \u00e9 proibida, tendo em vista a aus\u00eancia de inscri\u00e7\u00e3o na Ordem dos Advogados do Brasil."
+                ]
             }
         ],
         "valid": true

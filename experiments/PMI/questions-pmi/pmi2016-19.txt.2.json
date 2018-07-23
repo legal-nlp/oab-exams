@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Carlos pode ter acesso aos autos de qualquer inqu\u00e9rito, mesmo sem procura\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos pode ter acesso aos autos de qualquer inqu\u00e9rito, mesmo sem procura\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Carlos pode ter acesso aos autos de inqu\u00e9ritos sob segredo de Justi\u00e7a, desde que esteja munido de procura\u00e7\u00e3o do investigado.",
                 "pmi": [
                     0.03957784119348327,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carlos pode ter acesso aos autos de inqu\u00e9ritos sob segredo de Justi\u00e7a, desde que esteja munido de procura\u00e7\u00e3o do investigado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "em caso de inqu\u00e9rito sob segredo de Justi\u00e7a, apenas o magistrado que decretou o sigilo poder\u00e1 afastar parcialmente o sigilo, autorizando o acesso aos autos pelo advogado Carlos.",
                 "pmi": [
                     0.028692797058672927,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em caso de inqu\u00e9rito sob segredo de Justi\u00e7a, apenas o magistrado que decretou o sigilo poder\u00e1 afastar parcialmente o sigilo, autorizando o acesso aos autos pelo advogado Carlos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o segredo de Justi\u00e7a de inqu\u00e9ritos em andamento \u00e9 opon\u00edvel ao advogado Carlos, mesmo munido de procura\u00e7\u00e3o.",
                 "pmi": [
                     0.03957784119348327,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o segredo de Justi\u00e7a de inqu\u00e9ritos em andamento \u00e9 opon\u00edvel ao advogado Carlos, mesmo munido de procura\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

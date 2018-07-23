@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "a Justi\u00e7a Estadual, pelas duas infra\u00e7\u00f5es.",
                 "pmi": [
                     0.10065187993696204,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Estadual, pelas duas infra\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a Justi\u00e7a Federal, no caso da contraven\u00e7\u00e3o praticada em detrimento da Caixa Econ\u00f4mica Federal, e Justi\u00e7a Estadual, no caso da infra\u00e7\u00e3o em detrimento do Banco do Brasil.",
                 "pmi": [
                     0.03213445099322852,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Federal, no caso da contraven\u00e7\u00e3o praticada em detrimento da Caixa Econ\u00f4mica Federal, e Justi\u00e7a Estadual, no caso da infra\u00e7\u00e3o em detrimento do Banco do Brasil."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a Justi\u00e7a Federal, pelas duas infra\u00e7\u00f5es.",
                 "pmi": [
                     0.03444673000471318,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Federal, pelas duas infra\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a Justi\u00e7a Federal, no caso de contraven\u00e7\u00e3o praticada em detrimento do Banco do Brasil, e Justi\u00e7a Estadual pela infra\u00e7\u00e3o em detrimento da Caixa Econ\u00f4mica Federal.",
                 "pmi": [
                     0.03358680561102484,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Federal, no caso de contraven\u00e7\u00e3o praticada em detrimento do Banco do Brasil, e Justi\u00e7a Estadual pela infra\u00e7\u00e3o em detrimento da Caixa Econ\u00f4mica Federal."
+                ]
             }
         ],
         "valid": true

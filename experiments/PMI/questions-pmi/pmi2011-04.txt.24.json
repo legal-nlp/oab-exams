@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "a C\u00e2mara dos Deputados pode sustar o andamento da a\u00e7\u00e3o penal.",
                 "pmi": [
                     0.019754472491498497,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a C\u00e2mara dos Deputados pode sustar o andamento da a\u00e7\u00e3o penal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a da C\u00e2mara dos Deputados.",
                 "pmi": [
                     0.019754472491498497,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a da C\u00e2mara dos Deputados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a do Congresso Nacional.",
                 "pmi": [
                     -0.027471954542855198,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o STF s\u00f3 pode receber a den\u00fancia ap\u00f3s a licen\u00e7a do Congresso Nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Congresso Nacional pode sustar o andamento da a\u00e7\u00e3o penal.",
                 "pmi": [
                     -0.027471954542855198,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Congresso Nacional pode sustar o andamento da a\u00e7\u00e3o penal."
+                ]
             }
         ],
         "valid": true

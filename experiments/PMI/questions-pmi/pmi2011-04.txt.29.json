@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "comum.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "comum."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "patrocinada.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "patrocinada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "administrativa.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "de uso de bem p\u00fablico.",
                 "pmi": [
                     0.43098592861145785,
                     0.0,
                     0,
                     0
-                ],
-                "text": "de uso de bem p\u00fablico."
+                ]
             }
         ],
         "valid": true

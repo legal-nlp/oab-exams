@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "homic\u00eddio culposo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "homic\u00eddio culposo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "homic\u00eddio doloso simples.",
                 "pmi": [
                     0.15349392696324948,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "homic\u00eddio doloso simples."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "infantic\u00eddio.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "infantic\u00eddio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "homic\u00eddio doloso qualificado.",
                 "pmi": [
                     0.15349392696324948,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "homic\u00eddio doloso qualificado."
+                ]
             }
         ],
         "valid": true

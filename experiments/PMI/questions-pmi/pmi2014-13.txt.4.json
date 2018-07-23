@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Conselho Seccional da OAB.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Conselho Seccional da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Conselho Federal da OAB.",
                 "pmi": [
                     -0.0027868880015110018,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Conselho Federal da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Presidente do Conselho Federal da OAB.",
                 "pmi": [
                     -0.0018579253343406679,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Presidente do Conselho Federal da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Presidente do Tribunal de \u00c9tica da OAB.",
                 "pmi": [
                     0.03785510481131879,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Presidente do Tribunal de \u00c9tica da OAB."
+                ]
             }
         ],
         "valid": true

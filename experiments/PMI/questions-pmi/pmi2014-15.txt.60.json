@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "concurso material.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concurso material."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "concurso formal pr\u00f3prio ou perfeito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "concurso formal pr\u00f3prio ou perfeito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "concurso formal impr\u00f3prio ou imperfeito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "concurso formal impr\u00f3prio ou imperfeito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "crime continuado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "crime continuado."
+                ]
             }
         ],
         "valid": true

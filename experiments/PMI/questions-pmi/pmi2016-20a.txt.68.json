@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "recurso em sentido estrito, que permite o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o.",
                 "pmi": [
                     0.0848854533237511,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso em sentido estrito, que permite o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "recurso ordin\u00e1rio constitucional perante o STJ.",
                 "pmi": [
                     0.04685327787558759,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso ordin\u00e1rio constitucional perante o STJ."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "recurso ordin\u00e1rio constitucional perante o STF.",
                 "pmi": [
                     0.04685327787558759,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso ordin\u00e1rio constitucional perante o STF."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "recurso especial perante o STJ.",
                 "pmi": [
                     0.09590209329403598,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso especial perante o STJ."
+                ]
             }
         ],
         "valid": true

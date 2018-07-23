@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o indulto individual.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "o indulto individual."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a anistia.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "a anistia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o indulto coletivo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "o indulto coletivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a gra\u00e7a.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "a gra\u00e7a."
+                ]
             }
         ],
         "valid": true

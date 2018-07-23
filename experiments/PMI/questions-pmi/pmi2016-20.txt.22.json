@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O acusado tem direito de ser assistido gratuitamente por tradutor ou int\u00e9rprete, se n\u00e3o compreender ou n\u00e3o falar o idioma do ju\u00edzo ou tribunal.",
                 "pmi": [
                     0.021856900749498347,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O acusado tem direito de ser assistido gratuitamente por tradutor ou int\u00e9rprete, se n\u00e3o compreender ou n\u00e3o falar o idioma do ju\u00edzo ou tribunal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O acusado tem que garantir por seus pr\u00f3prios meios a assist\u00eancia de tradutor ou int\u00e9rprete, mas tem o direito de que os atos processuais sejam suspensos at\u00e9 que seja providenciado o int\u00e9rprete.",
                 "pmi": [
                     0.01903117787020487,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O acusado tem que garantir por seus pr\u00f3prios meios a assist\u00eancia de tradutor ou int\u00e9rprete, mas tem o direito de que os atos processuais sejam suspensos at\u00e9 que seja providenciado o int\u00e9rprete."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A investiga\u00e7\u00e3o e o processo penal somente poder\u00e3o acontecer quando o acusado tiver assist\u00eancia consular de seu pa\u00eds de origem.",
                 "pmi": [
                     0.021092092769744924,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A investiga\u00e7\u00e3o e o processo penal somente poder\u00e3o acontecer quando o acusado tiver assist\u00eancia consular de seu pa\u00eds de origem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica n\u00e3o d\u00e1 ao acusado o direito de ser assistido por um int\u00e9rprete providenciado pelo Estado signat\u00e1rio ou de ter algum rito especial no processo.",
                 "pmi": [
                     0.05298911947876066,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Pacto de S\u00e3o Jos\u00e9 da Costa Rica n\u00e3o d\u00e1 ao acusado o direito de ser assistido por um int\u00e9rprete providenciado pelo Estado signat\u00e1rio ou de ter algum rito especial no processo."
+                ]
             }
         ],
         "valid": true

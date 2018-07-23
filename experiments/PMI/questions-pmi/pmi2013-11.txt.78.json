@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Dever\u00e1 ser requerido o adiamento da audi\u00eancia sem data posterior e, t\u00e3o logo \u00cdcaro informe quando poder\u00e1 estar no Brasil, ser\u00e1 requerido ao juiz a designa\u00e7\u00e3o da realiza\u00e7\u00e3o da audi\u00eancia.",
                 "pmi": [
                     0.011090648575411012,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser requerido o adiamento da audi\u00eancia sem data posterior e, t\u00e3o logo \u00cdcaro informe quando poder\u00e1 estar no Brasil, ser\u00e1 requerido ao juiz a designa\u00e7\u00e3o da realiza\u00e7\u00e3o da audi\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Como advogado de \u00cdcaro voc\u00ea dever\u00e1 ter procura\u00e7\u00e3o com poderes especiais para represent\u00e1-lo e assisti-lo em audi\u00eancia suprindo assim a aus\u00eancia.",
                 "pmi": [
                     0.003914321386295533,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como advogado de \u00cdcaro voc\u00ea dever\u00e1 ter procura\u00e7\u00e3o com poderes especiais para represent\u00e1-lo e assisti-lo em audi\u00eancia suprindo assim a aus\u00eancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Tendo em vista tratar-se de motivo relevante, e estar devidamente comprovado, \u00cdcaro poder\u00e1 fazer-se representar por outro empregado de mesma profiss\u00e3o ou por seu sindicato de classe.",
                 "pmi": [
                     0.001763134922059426,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tendo em vista tratar-se de motivo relevante, e estar devidamente comprovado, \u00cdcaro poder\u00e1 fazer-se representar por outro empregado de mesma profiss\u00e3o ou por seu sindicato de classe."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Tendo em vista tratar-se de motivo poderoso, e estar devidamente comprovado, \u00cdcaro poder\u00e1 fazer-se representar por membro de sua fam\u00edlia ou outro empregado da mesma empresa empregadora.",
                 "pmi": [
                     -0.006799103209917346,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tendo em vista tratar-se de motivo poderoso, e estar devidamente comprovado, \u00cdcaro poder\u00e1 fazer-se representar por membro de sua fam\u00edlia ou outro empregado da mesma empresa empregadora."
+                ]
             }
         ],
         "valid": true

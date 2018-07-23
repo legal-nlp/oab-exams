@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O dever de amparo, incluindo obriga\u00e7\u00e3o alimentar, d\u00e1-se apenas dos pais para os filhos; portanto, n\u00e3o se pode exigir juridicamente dos filhos a presta\u00e7\u00e3o alimentar para os pais que estejam em necessidade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O dever de amparo, incluindo obriga\u00e7\u00e3o alimentar, d\u00e1-se apenas dos pais para os filhos; portanto, n\u00e3o se pode exigir juridicamente dos filhos a presta\u00e7\u00e3o alimentar para os pais que estejam em necessidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Jo\u00e3o pode exigir judicialmente dos filhos presta\u00e7\u00e3o alimentar que funcione como amparo, mas caso seus filhos se mantenham omissos, o Poder Judici\u00e1rio ou o Minist\u00e9rio P\u00fablico podem determinar medida de orienta\u00e7\u00e3o e apoio tempor\u00e1rios.",
                 "pmi": [
                     0.022715696502073363,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o pode exigir judicialmente dos filhos presta\u00e7\u00e3o alimentar que funcione como amparo, mas caso seus filhos se mantenham omissos, o Poder Judici\u00e1rio ou o Minist\u00e9rio P\u00fablico podem determinar medida de orienta\u00e7\u00e3o e apoio tempor\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A pens\u00e3o aliment\u00edcia por parte dos filhos \u00e9 exig\u00edvel judicialmente, mas se houver inadimpl\u00eancia, n\u00e3o h\u00e1 nenhuma medida de prote\u00e7\u00e3o que o Poder Judici\u00e1rio possa determinar, pois se trata de quest\u00e3o privada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pens\u00e3o aliment\u00edcia por parte dos filhos \u00e9 exig\u00edvel judicialmente, mas se houver inadimpl\u00eancia, n\u00e3o h\u00e1 nenhuma medida de prote\u00e7\u00e3o que o Poder Judici\u00e1rio possa determinar, pois se trata de quest\u00e3o privada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o h\u00e1 alternativa jur\u00eddica para o problema de Jo\u00e3o de acordo com a legisla\u00e7\u00e3o brasileira, sendo a \u00fanica solu\u00e7\u00e3o poss\u00edvel a solidariedade de pessoas pr\u00f3ximas e sens\u00edveis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 alternativa jur\u00eddica para o problema de Jo\u00e3o de acordo com a legisla\u00e7\u00e3o brasileira, sendo a \u00fanica solu\u00e7\u00e3o poss\u00edvel a solidariedade de pessoas pr\u00f3ximas e sens\u00edveis."
+                ]
             }
         ],
         "valid": true

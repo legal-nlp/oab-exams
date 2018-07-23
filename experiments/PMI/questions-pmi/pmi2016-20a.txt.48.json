@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Alvarenga e Belmiro Braga.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Alvarenga e Belmiro Braga."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Banco Botelhos S/A.",
                 "pmi": [
                     -0.23676252141457735,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Banco Botelhos S/A."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Belmiro Braga.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Belmiro Braga."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Alvarenga.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Alvarenga."
+                ]
             }
         ],
         "valid": true

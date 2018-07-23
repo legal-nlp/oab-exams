@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A Justi\u00e7a Federal de Foz de Igua\u00e7u.",
                 "pmi": [
                     0.015710689710785694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Justi\u00e7a Federal de Foz de Igua\u00e7u."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A Justi\u00e7a Federal do Rio de Janeiro.",
                 "pmi": [
                     0.047405460831251835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Justi\u00e7a Federal do Rio de Janeiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A Justi\u00e7a Federal de S\u00e3o Paulo.",
                 "pmi": [
                     0.020947586281047592,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Justi\u00e7a Federal de S\u00e3o Paulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Qualquer das anteriores, independentemente da regra da preven\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Qualquer das anteriores, independentemente da regra da preven\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

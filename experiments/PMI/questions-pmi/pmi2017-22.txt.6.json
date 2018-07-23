@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "por Carolina, apenas.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "por Carolina, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "por Carolina e Bianca, apenas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "por Carolina e Bianca, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "por Carolina, Bianca e Maria, apenas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "por Carolina, Bianca e Maria, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "por Carolina, Julia, Bianca e Maria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "por Carolina, Julia, Bianca e Maria."
+                ]
             }
         ],
         "valid": true

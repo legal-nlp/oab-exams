@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jos\u00e9 tem direito a receber a integralidade dos honor\u00e1rios contratuais e de sucumb\u00eancia, como se tivesse atuado na causa at\u00e9 o final, uma vez que foi substitu\u00eddo por vontade da cliente e n\u00e3o sua.",
                 "pmi": [
                     0.0032482725981106526,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 tem direito a receber a integralidade dos honor\u00e1rios contratuais e de sucumb\u00eancia, como se tivesse atuado na causa at\u00e9 o final, uma vez que foi substitu\u00eddo por vontade da cliente e n\u00e3o sua."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jos\u00e9 n\u00e3o tem direito a receber honor\u00e1rios, porque n\u00e3o atuou na causa at\u00e9 o seu fim.",
                 "pmi": [
                     0.006496545196221305,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 n\u00e3o tem direito a receber honor\u00e1rios, porque n\u00e3o atuou na causa at\u00e9 o seu fim."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jos\u00e9 tem direito a receber honor\u00e1rios contratuais, mas n\u00e3o tem direito a receber honor\u00e1rios de sucumb\u00eancia.",
                 "pmi": [
                     0.012566557697447791,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 tem direito a receber honor\u00e1rios contratuais, mas n\u00e3o tem direito a receber honor\u00e1rios de sucumb\u00eancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Jos\u00e9 tem direito a receber honor\u00e1rios contratuais, bem como honor\u00e1rios de sucumb\u00eancia, calculados proporcionalmente, em face do servi\u00e7o efetivamente prestado.",
                 "pmi": [
                     0.018877117062238186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jos\u00e9 tem direito a receber honor\u00e1rios contratuais, bem como honor\u00e1rios de sucumb\u00eancia, calculados proporcionalmente, em face do servi\u00e7o efetivamente prestado."
+                ]
             }
         ],
         "valid": true

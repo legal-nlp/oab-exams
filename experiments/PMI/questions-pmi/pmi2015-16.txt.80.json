@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A diferen\u00e7a \u00e9 \u00ednfima e deve ser desprezada, n\u00e3o prejudicando a aprecia\u00e7\u00e3o imediata do recurso.",
                 "pmi": [
                     -0.01596362909212773,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A diferen\u00e7a \u00e9 \u00ednfima e deve ser desprezada, n\u00e3o prejudicando a aprecia\u00e7\u00e3o imediata do recurso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Apesar de pequena, a diferen\u00e7a existe, cabendo, ent\u00e3o, ao Ministro Relator, no TST, intimar a parte \u00e0 complementa\u00e7\u00e3o do preparo, sob pena de deser\u00e7\u00e3o.",
                 "pmi": [
                     -0.02183829191302277,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apesar de pequena, a diferen\u00e7a existe, cabendo, ent\u00e3o, ao Ministro Relator, no TST, intimar a parte \u00e0 complementa\u00e7\u00e3o do preparo, sob pena de deser\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O recurso n\u00e3o ser\u00e1 conhecido por deserto, mesmo que a diferen\u00e7a seja de pequeno valor.",
                 "pmi": [
                     -0.028958546272290716,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O recurso n\u00e3o ser\u00e1 conhecido por deserto, mesmo que a diferen\u00e7a seja de pequeno valor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o havendo nenhuma disciplina a respeito, caber\u00e1 a cada magistrado, valendo-se do seu poder diretivo do processo, determinar o que deve ser feito.",
                 "pmi": [
                     -0.01733449189016859,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o havendo nenhuma disciplina a respeito, caber\u00e1 a cada magistrado, valendo-se do seu poder diretivo do processo, determinar o que deve ser feito."
+                ]
             }
         ],
         "valid": true

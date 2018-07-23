@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "o IPTU, por ser \u00e1rea de expans\u00e3o urbana, dotada de melhoramentos.",
                 "pmi": [
                     0.06264846470812137,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o IPTU, por ser \u00e1rea de expans\u00e3o urbana, dotada de melhoramentos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o ITR, por ser s\u00edtio de recreio, n\u00e3o inserido em \u00e1rea urbana.",
                 "pmi": [
                     0.06264846470812137,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o ITR, por ser s\u00edtio de recreio, n\u00e3o inserido em \u00e1rea urbana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o IPTU, por ser s\u00edtio, explorado para fins empresariais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o IPTU, por ser s\u00edtio, explorado para fins empresariais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o ITR, por n\u00e3o haver escola ou hospital pr\u00f3ximos a menos de 3km do im\u00f3vel.",
                 "pmi": [
                     0.04916037423217845,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o ITR, por n\u00e3o haver escola ou hospital pr\u00f3ximos a menos de 3km do im\u00f3vel."
+                ]
             }
         ],
         "valid": true

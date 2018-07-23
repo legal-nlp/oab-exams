@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "L\u00facio est\u00e1 errado, pois seu dever \u00e9 de colabora\u00e7\u00e3o para com o empregador. A resist\u00eancia injustificada \u00e0 sobrejornada d\u00e1 margem \u00e0 ruptura por justa causa, por ato de insubordina\u00e7\u00e3o.",
                 "pmi": [
                     0.020790389359329992,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facio est\u00e1 errado, pois seu dever \u00e9 de colabora\u00e7\u00e3o para com o empregador. A resist\u00eancia injustificada \u00e0 sobrejornada d\u00e1 margem \u00e0 ruptura por justa causa, por ato de insubordina\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "L\u00facio est\u00e1 correto, pois \u00e9 pac\u00edfico e sumulado o entendimento de que nenhum empregado \u00e9 obrigado a realizar horas extras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facio est\u00e1 correto, pois \u00e9 pac\u00edfico e sumulado o entendimento de que nenhum empregado \u00e9 obrigado a realizar horas extras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "L\u00facio est\u00e1 errado, pois a legisla\u00e7\u00e3o em vigor n\u00e3o exige que eventual realiza\u00e7\u00e3o de hora extra seja antecedida de qualquer autoriza\u00e7\u00e3o de \u00f3rg\u00e3o governamental.",
                 "pmi": [
                     0.019241848855459435,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facio est\u00e1 errado, pois a legisla\u00e7\u00e3o em vigor n\u00e3o exige que eventual realiza\u00e7\u00e3o de hora extra seja antecedida de qualquer autoriza\u00e7\u00e3o de \u00f3rg\u00e3o governamental."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "L\u00facio est\u00e1 correto, pois, tratando-se de atividade insalubre, a prorroga\u00e7\u00e3o de jornada precisa ser previamente autorizada pela autoridade competente.",
                 "pmi": [
                     0.016182801662468573,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facio est\u00e1 correto, pois, tratando-se de atividade insalubre, a prorroga\u00e7\u00e3o de jornada precisa ser previamente autorizada pela autoridade competente."
+                ]
             }
         ],
         "valid": true

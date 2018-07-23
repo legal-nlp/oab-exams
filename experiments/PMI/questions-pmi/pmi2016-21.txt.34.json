@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 constitucional, porque a garantia do sal\u00e1rio m\u00ednimo n\u00e3o \u00e9 aplic\u00e1vel aos servidores p\u00fablicos.",
                 "pmi": [
                     0.21284532624360925,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 constitucional, porque a garantia do sal\u00e1rio m\u00ednimo n\u00e3o \u00e9 aplic\u00e1vel aos servidores p\u00fablicos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 inconstitucional, porque o seu vencimento-base teria que ser superior ao sal\u00e1rio m\u00ednimo.",
                 "pmi": [
                     0.16023828370158316,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 inconstitucional, porque o seu vencimento-base teria que ser superior ao sal\u00e1rio m\u00ednimo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 constitucional, porque a garantia do sal\u00e1rio m\u00ednimo se refere ao total da remunera\u00e7\u00e3o percebida.",
                 "pmi": [
                     0.1856447891709786,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 constitucional, porque a garantia do sal\u00e1rio m\u00ednimo se refere ao total da remunera\u00e7\u00e3o percebida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 inconstitucional, pois todo servidor p\u00fablico deve receber por subs\u00eddio, fixado em parcela \u00fanica.",
                 "pmi": [
                     0.23863027744795312,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A remunera\u00e7\u00e3o de Jo\u00e3o \u00e9 inconstitucional, pois todo servidor p\u00fablico deve receber por subs\u00eddio, fixado em parcela \u00fanica."
+                ]
             }
         ],
         "valid": true

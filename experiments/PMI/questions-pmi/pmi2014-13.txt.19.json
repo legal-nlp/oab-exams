@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Conceder-se-\u00e1 habeas data para assegurar o conhecimento de informa\u00e7\u00f5es relativas \u00e0 pessoa do impetrante ou de parente deste at\u00e9 o segundo grau, constantes de registro ou banco de dados de entidades governamentais ou privadas.",
                 "pmi": [
                     0.10997594445015045,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Conceder-se-\u00e1 habeas data para assegurar o conhecimento de informa\u00e7\u00f5es relativas \u00e0 pessoa do impetrante ou de parente deste at\u00e9 o segundo grau, constantes de registro ou banco de dados de entidades governamentais ou privadas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Al\u00e9m dos requisitos previstos no C\u00f3digo de Processo Civil para peti\u00e7\u00e3o inicial, a a\u00e7\u00e3o de habeas data dever\u00e1 vir instru\u00edda com prova da recusa ao acesso \u00e0s informa\u00e7\u00f5es ou o simples decurso de dez dias sem decis\u00e3o.",
                 "pmi": [
                     0.06760797784483498,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Al\u00e9m dos requisitos previstos no C\u00f3digo de Processo Civil para peti\u00e7\u00e3o inicial, a a\u00e7\u00e3o de habeas data dever\u00e1 vir instru\u00edda com prova da recusa ao acesso \u00e0s informa\u00e7\u00f5es ou o simples decurso de dez dias sem decis\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Do despacho de indeferimento da inicial de habeas data por falta de algum requisito legal para o ajuizamento caber\u00e1 agravo de instrumento.",
                 "pmi": [
                     0.028287192407337486,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Do despacho de indeferimento da inicial de habeas data por falta de algum requisito legal para o ajuizamento caber\u00e1 agravo de instrumento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A a\u00e7\u00e3o de habeas data ter\u00e1 prioridade sobre todos os atos judiciais, com exce\u00e7\u00e3o ao habeas corpus e ao mandado de seguran\u00e7a.",
                 "pmi": [
                     0.16504295697958374,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A a\u00e7\u00e3o de habeas data ter\u00e1 prioridade sobre todos os atos judiciais, com exce\u00e7\u00e3o ao habeas corpus e ao mandado de seguran\u00e7a."
+                ]
             }
         ],
         "valid": true

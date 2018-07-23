@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Companhia Aberta.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Companhia Aberta."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Distribuidora de Valores Mobili\u00e1rios.",
                 "pmi": [
                     0.18906738083965113,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Distribuidora de Valores Mobili\u00e1rios."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Sociedade em Comum.",
                 "pmi": [
                     0.09878661072829359,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Sociedade em Comum."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Bolsa de Valores.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Bolsa de Valores."
+                ]
             }
         ],
         "valid": true

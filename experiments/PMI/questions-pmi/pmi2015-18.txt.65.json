@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a restitui\u00e7\u00e3o poder\u00e1 ser ordenada pela autoridade policial ou pelo juiz, sempre ouvido o Minist\u00e9rio P\u00fablico.",
                 "pmi": [
                     0.036302148417781434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a restitui\u00e7\u00e3o poder\u00e1 ser ordenada pela autoridade policial ou pelo juiz, sempre ouvido o Minist\u00e9rio P\u00fablico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o pedido de restitui\u00e7\u00e3o n\u00e3o dever\u00e1 ser autuado em autos em apartado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pedido de restitui\u00e7\u00e3o n\u00e3o dever\u00e1 ser autuado em autos em apartado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "havendo d\u00favida sobre o verdadeiro dono, n\u00e3o superada no incidente, o juiz remeter\u00e1 as partes para o ju\u00edzo c\u00edvel, ordenando o dep\u00f3sito das coisas.",
                 "pmi": [
                     0.036887801921661856,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havendo d\u00favida sobre o verdadeiro dono, n\u00e3o superada no incidente, o juiz remeter\u00e1 as partes para o ju\u00edzo c\u00edvel, ordenando o dep\u00f3sito das coisas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o caber\u00e1 produ\u00e7\u00e3o de provas no incidente de restitui\u00e7\u00e3o.",
                 "pmi": [
                     0.08513538592861553,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o caber\u00e1 produ\u00e7\u00e3o de provas no incidente de restitui\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

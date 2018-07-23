@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade.",
                 "pmi": [
                     0.08726666144193443,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A di\u00e1ria, na hip\u00f3tese retratada, ter\u00e1 natureza salarial na totalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado.",
                 "pmi": [
                     0.07900134202931257,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A di\u00e1ria ter\u00e1 natureza indenizat\u00f3ria porque visa ressarcir gastos realizados pelo empregado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese.",
                 "pmi": [
                     0.07479999552165809,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente o que ultrapassar 50% do sal\u00e1rio ter\u00e1 natureza salarial, logo, 20%, na hip\u00f3tese."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria.",
                 "pmi": [
                     0.04596713152364643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei determina que metade da di\u00e1ria paga tenha natureza salarial e metade, indenizat\u00f3ria."
+                ]
             }
         ],
         "valid": true

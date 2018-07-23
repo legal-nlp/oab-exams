@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "fato at\u00edpico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "fato at\u00edpico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "crime de denuncia\u00e7\u00e3o caluniosa dolosa.",
                 "pmi": [
                     0.005889382114256954,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de denuncia\u00e7\u00e3o caluniosa dolosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "crime de denuncia\u00e7\u00e3o caluniosa culposa.",
                 "pmi": [
                     0.005889382114256954,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "crime de denuncia\u00e7\u00e3o caluniosa culposa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "cal\u00fania.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "cal\u00fania."
+                ]
             }
         ],
         "valid": true

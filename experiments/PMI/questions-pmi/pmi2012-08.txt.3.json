@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O advogado, ao ser inclu\u00eddo em lista s\u00eaxtupla para integrar os quadros de tribunal, deve requerer licen\u00e7a para tratamento de quest\u00f5es particulares.",
                 "pmi": [
                     0.06313745719701415,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado, ao ser inclu\u00eddo em lista s\u00eaxtupla para integrar os quadros de tribunal, deve requerer licen\u00e7a para tratamento de quest\u00f5es particulares."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O advogado que integra lista s\u00eaxtupla ou tr\u00edplice para ingresso pelo quinto constitucional pode continuar exercendo livremente suas atividades.",
                 "pmi": [
                     0.06559945223861496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado que integra lista s\u00eaxtupla ou tr\u00edplice para ingresso pelo quinto constitucional pode continuar exercendo livremente suas atividades."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado que integra lista s\u00eaxtupla ou tr\u00edplice passa a ser considerado incompatibilizado para o exerc\u00edcio da advocacia.",
                 "pmi": [
                     0.08809888318360931,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado que integra lista s\u00eaxtupla ou tr\u00edplice passa a ser considerado incompatibilizado para o exerc\u00edcio da advocacia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado que pretende ingressar na magistratura pelo quinto constitucional passa a ser considerado impedido ao compor lista s\u00eaxtupla.",
                 "pmi": [
                     0.04093984964974196,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado que pretende ingressar na magistratura pelo quinto constitucional passa a ser considerado impedido ao compor lista s\u00eaxtupla."
+                ]
             }
         ],
         "valid": true

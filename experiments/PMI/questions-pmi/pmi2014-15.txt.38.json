@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Cada um arcar\u00e1 com seu pr\u00f3prio preju\u00edzo, visto que a responsabilidade pelos danos causados deve ser repartida entre todos os envolvidos.",
                 "pmi": [
                     0.023670150035472872,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cada um arcar\u00e1 com seu pr\u00f3prio preju\u00edzo, visto que a responsabilidade pelos danos causados deve ser repartida entre todos os envolvidos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados ao ve\u00edculo de Sandro, e este dever\u00e1 indenizar os preju\u00edzos causados ao ve\u00edculo de Ricardo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados ao ve\u00edculo de Sandro, e este dever\u00e1 indenizar os preju\u00edzos causados ao ve\u00edculo de Ricardo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados aos ve\u00edculos de Sandro e Ricardo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caber\u00e1 a Tatiana indenizar os preju\u00edzos causados aos ve\u00edculos de Sandro e Ricardo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Tatiana e Sandro t\u00eam o dever de indenizar Ricardo, na medida de sua culpa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tatiana e Sandro t\u00eam o dever de indenizar Ricardo, na medida de sua culpa."
+                ]
             }
         ],
         "valid": true

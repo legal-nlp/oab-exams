@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o estar\u00e1 desobrigado do pagamento do aluguel desde a data do falecimento de Marcela.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o estar\u00e1 desobrigado do pagamento do aluguel desde a data do falecimento de Marcela."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jo\u00e3o dever\u00e1 proceder \u00e0 imputa\u00e7\u00e3o do pagamento, em sua integralidade, a qualquer dos filhos de Marcela, visto que s\u00e3o seus herdeiros.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o dever\u00e1 proceder \u00e0 imputa\u00e7\u00e3o do pagamento, em sua integralidade, a qualquer dos filhos de Marcela, visto que s\u00e3o seus herdeiros."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Jo\u00e3o estar\u00e1 autorizado a consignar em pagamento o valor do aluguel aos filhos de Marcela.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o estar\u00e1 autorizado a consignar em pagamento o valor do aluguel aos filhos de Marcela."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jo\u00e3o dever\u00e1 utilizar-se da da\u00e7\u00e3o em pagamento para adimplir a obriga\u00e7\u00e3o junto aos filhos maiores de Marcela, estando estes obrigados a aceitar.",
                 "pmi": [
                     0.014599708884724843,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o dever\u00e1 utilizar-se da da\u00e7\u00e3o em pagamento para adimplir a obriga\u00e7\u00e3o junto aos filhos maiores de Marcela, estando estes obrigados a aceitar."
+                ]
             }
         ],
         "valid": true

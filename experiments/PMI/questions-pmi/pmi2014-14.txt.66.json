@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O advogado deve ingressar com agravo em execu\u00e7\u00e3o, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
                 "pmi": [
                     0.008947809941054442,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado deve ingressar com agravo em execu\u00e7\u00e3o, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O advogado deve ingressar com revis\u00e3o criminal, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
                 "pmi": [
                     0.008947809941054442,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado deve ingressar com revis\u00e3o criminal, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado deve ingressar com reclama\u00e7\u00e3o constitucional, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
                 "pmi": [
                     0.008947809941054442,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado deve ingressar com reclama\u00e7\u00e3o constitucional, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado deve ingressar com a\u00e7\u00e3o de habeas corpus, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste.",
                 "pmi": [
                     0.008134372673685856,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado deve ingressar com a\u00e7\u00e3o de habeas corpus, pois Eduardo descobriu uma prova que atesta a sua inoc\u00eancia de forma inconteste."
+                ]
             }
         ],
         "valid": true

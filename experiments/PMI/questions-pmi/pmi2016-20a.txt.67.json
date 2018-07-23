@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00c9 v\u00e1lido o edital que identifica o r\u00e9u por suas caracter\u00edsticas, ainda que desconhecida sua qualifica\u00e7\u00e3o completa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 v\u00e1lido o edital que identifica o r\u00e9u por suas caracter\u00edsticas, ainda que desconhecida sua qualifica\u00e7\u00e3o completa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O r\u00e9u que, citado por edital, n\u00e3o comparecer nem constituir advogado poder\u00e1 ter seu processo e o curso do prazo prescricional suspensos por tempo indefinido.",
                 "pmi": [
                     0.036218745160168056,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O r\u00e9u que, citado por edital, n\u00e3o comparecer nem constituir advogado poder\u00e1 ter seu processo e o curso do prazo prescricional suspensos por tempo indefinido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ainda que Matheus esteja preso na mesma unidade da Federa\u00e7\u00e3o em que foi oferecida a den\u00fancia, a cita\u00e7\u00e3o por edital ser\u00e1 v\u00e1lida.",
                 "pmi": [
                     0.009025068151298573,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ainda que Matheus esteja preso na mesma unidade da Federa\u00e7\u00e3o em que foi oferecida a den\u00fancia, a cita\u00e7\u00e3o por edital ser\u00e1 v\u00e1lida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o existe cita\u00e7\u00e3o por hora certa no \u00e2mbito do Processo Penal brasileiro.",
                 "pmi": [
                     0.06208927741743095,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o existe cita\u00e7\u00e3o por hora certa no \u00e2mbito do Processo Penal brasileiro."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o referido decreto \u00e9 inconstitucional, uma vez que viola o princ\u00edpio da legalidade.",
                 "pmi": [
                     0.04587952397353575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o referido decreto \u00e9 inconstitucional, uma vez que viola o princ\u00edpio da legalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o referido decreto \u00e9 inconstitucional, uma vez que viola o princ\u00edpio do n\u00e3o confisco.",
                 "pmi": [
                     0.04587952397353575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o referido decreto \u00e9 inconstitucional, uma vez que viola o princ\u00edpio do n\u00e3o confisco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "as al\u00edquotas s\u00e3o diferenciadas em raz\u00e3o da progressividade do IPI.",
                 "pmi": [
                     0.06445797228453375,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as al\u00edquotas s\u00e3o diferenciadas em raz\u00e3o da progressividade do IPI."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "as al\u00edquotas s\u00e3o diferenciadas em raz\u00e3o do princ\u00edpio da seletividade do IPI.",
                 "pmi": [
                     0.07033589409184737,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as al\u00edquotas s\u00e3o diferenciadas em raz\u00e3o do princ\u00edpio da seletividade do IPI."
+                ]
             }
         ],
         "valid": true

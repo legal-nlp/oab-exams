@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "ser\u00e3o contados excluindo-se o dia do in\u00edcio e incluindo-se o dia do vencimento, n\u00e3o se admitindo disposi\u00e7\u00e3o em contr\u00e1rio.",
                 "pmi": [
                     0.10242920755371357,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e3o contados excluindo-se o dia do in\u00edcio e incluindo-se o dia do vencimento, n\u00e3o se admitindo disposi\u00e7\u00e3o em contr\u00e1rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "as intima\u00e7\u00f5es somente obrigar\u00e3o o comparecimento depois de decorridas 24 (vinte e quatro) horas, salvo quando for outro o prazo fixado por lei.",
                 "pmi": [
                     0.17894189769479574,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as intima\u00e7\u00f5es somente obrigar\u00e3o o comparecimento depois de decorridas 24 (vinte e quatro) horas, salvo quando for outro o prazo fixado por lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "em caso de litiscons\u00f3rcio, com o mesmo procurador, ser-lhes-\u00e3o contados em dobro os prazos para contestar, recorrer e, de modo geral, falar nos autos.",
                 "pmi": [
                     0.06828613836914238,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em caso de litiscons\u00f3rcio, com o mesmo procurador, ser-lhes-\u00e3o contados em dobro os prazos para contestar, recorrer e, de modo geral, falar nos autos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o havendo previs\u00e3o legal, ou outro fixado pelo juiz, o prazo para a pr\u00e1tica de ato processual a cargo da parte ser\u00e1 de 10 (dez) dias.",
                 "pmi": [
                     0.1147327436157165,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o havendo previs\u00e3o legal, ou outro fixado pelo juiz, o prazo para a pr\u00e1tica de ato processual a cargo da parte ser\u00e1 de 10 (dez) dias."
+                ]
             }
         ],
         "valid": true

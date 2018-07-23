@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "s\u00f3 pode ser cobrado pelo fisco na raz\u00e3o de 33,33% do imposto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00f3 pode ser cobrado pelo fisco na raz\u00e3o de 33,33% do imposto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "\u00e9 devedor solid\u00e1rio em rela\u00e7\u00e3o ao todo do imposto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 devedor solid\u00e1rio em rela\u00e7\u00e3o ao todo do imposto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00e9 devedor na raz\u00e3o de 33,3% do imposto e respons\u00e1vel subsidi\u00e1rio pelo restante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 devedor na raz\u00e3o de 33,3% do imposto e respons\u00e1vel subsidi\u00e1rio pelo restante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o pode ser cobrado judicialmente pela parte de outro irm\u00e3o que tenha recursos para pag\u00e1-la.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o pode ser cobrado judicialmente pela parte de outro irm\u00e3o que tenha recursos para pag\u00e1-la."
+                ]
             }
         ],
         "valid": true

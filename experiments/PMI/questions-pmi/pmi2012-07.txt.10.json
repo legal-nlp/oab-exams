@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Tais atos permitem o agravo do advogado se houver requerimento pessoal ao Presidente da Seccional.",
                 "pmi": [
                     0.00957523657671543,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tais atos permitem o agravo do advogado se houver requerimento pessoal ao Presidente da Seccional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Havendo requerimento de qualquer pessoa poder\u00e1 ocorrer o desagravo ap\u00f3s decis\u00e3o do Relator do processo.",
                 "pmi": [
                     0.046115825513867024,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Havendo requerimento de qualquer pessoa poder\u00e1 ocorrer o desagravo ap\u00f3s decis\u00e3o do Relator do processo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O desagravo \u00e9 p\u00fablico e promovido pelo Conselho competente podendo ocorrer de of\u00edcio.",
                 "pmi": [
                     0.05416964570713634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desagravo \u00e9 p\u00fablico e promovido pelo Conselho competente podendo ocorrer de of\u00edcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso constatado que a ofensa \u00e9 decorrente do exerc\u00edcio da profiss\u00e3o poder\u00e1 ocorrer o arquivamento sum\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso constatado que a ofensa \u00e9 decorrente do exerc\u00edcio da profiss\u00e3o poder\u00e1 ocorrer o arquivamento sum\u00e1rio."
+                ]
             }
         ],
         "valid": true

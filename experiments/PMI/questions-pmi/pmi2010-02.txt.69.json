@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "anular a senten\u00e7a.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "anular a senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "manter a condena\u00e7\u00e3o pela pr\u00e1tica do crime de roubo.",
                 "pmi": [
                     0.019156328574887332,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "manter a condena\u00e7\u00e3o pela pr\u00e1tica do crime de roubo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "abrir vista ao Minist\u00e9rio P\u00fablico para aditamento da den\u00fancia.",
                 "pmi": [
                     0.024382972753787337,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "abrir vista ao Minist\u00e9rio P\u00fablico para aditamento da den\u00fancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "absolver o acusado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "absolver o acusado."
+                ]
             }
         ],
         "valid": true

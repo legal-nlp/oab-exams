@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Mesa de Assembleia Legislativa ou C\u00e2mara Legislativa (DF).",
                 "pmi": [
                     0.025896932434283794,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Mesa de Assembleia Legislativa ou C\u00e2mara Legislativa (DF)."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Conselho Federal da OAB.",
                 "pmi": [
                     -0.04186763408640803,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Conselho Federal da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Entidade de Classe de \u00e2mbito nacional.",
                 "pmi": [
                     0.06365103623512647,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Entidade de Classe de \u00e2mbito nacional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Confedera\u00e7\u00e3o Sindical.",
                 "pmi": [
                     0.09578447661962268,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Confedera\u00e7\u00e3o Sindical."
+                ]
             }
         ],
         "valid": true

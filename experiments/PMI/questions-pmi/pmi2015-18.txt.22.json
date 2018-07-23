@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "estado e munic\u00edpio n\u00e3o possuem capacidade jur\u00eddica para responder pela viola\u00e7\u00e3o de direitos humanos praticados por seus agentes.",
                 "pmi": [
                     0.0753390215005474,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "estado e munic\u00edpio n\u00e3o possuem capacidade jur\u00eddica para responder pela viola\u00e7\u00e3o de direitos humanos praticados por seus agentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o Brasil \u00e9 um estado federativo e, nesses casos, cabe ao governo nacional cumprir todas as disposi\u00e7\u00f5es da Conven\u00e7\u00e3o Americana sobre Direitos Humanos, relacionadas com as mat\u00e9rias sobre as quais exerce compet\u00eancia legislativa e judicial.",
                 "pmi": [
                     0.04508418314016186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Brasil \u00e9 um estado federativo e, nesses casos, cabe ao governo nacional cumprir todas as disposi\u00e7\u00f5es da Conven\u00e7\u00e3o Americana sobre Direitos Humanos, relacionadas com as mat\u00e9rias sobre as quais exerce compet\u00eancia legislativa e judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o falecimento de Dami\u00e3o Ximenes aconteceu em uma cl\u00ednica particular e cabe ao SUS, que \u00e9 federal, a regulamenta\u00e7\u00e3o e supervis\u00e3o do funcionamento de todas as casas de sa\u00fade.",
                 "pmi": [
                     0.05872712782736982,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o falecimento de Dami\u00e3o Ximenes aconteceu em uma cl\u00ednica particular e cabe ao SUS, que \u00e9 federal, a regulamenta\u00e7\u00e3o e supervis\u00e3o do funcionamento de todas as casas de sa\u00fade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a Corte Interamericana de Direitos Humanos possui jurisdi\u00e7\u00e3o internacional e para que a condena\u00e7\u00e3o reca\u00edsse sobre um estado ou um munic\u00edpio seria necess\u00e1ria a homologa\u00e7\u00e3o da decis\u00e3o da Corte pelo Tribunal de Justi\u00e7a do Cear\u00e1.",
                 "pmi": [
                     0.04446592593295496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Corte Interamericana de Direitos Humanos possui jurisdi\u00e7\u00e3o internacional e para que a condena\u00e7\u00e3o reca\u00edsse sobre um estado ou um munic\u00edpio seria necess\u00e1ria a homologa\u00e7\u00e3o da decis\u00e3o da Corte pelo Tribunal de Justi\u00e7a do Cear\u00e1."
+                ]
             }
         ],
         "valid": true

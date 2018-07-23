@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto e \u00e0 multa.",
                 "pmi": [
                     0.04941888958982558,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto e \u00e0 multa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O lan\u00e7amento est\u00e1 incorreto tanto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%) quanto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).",
                 "pmi": [
                     0.011424857301540721,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O lan\u00e7amento est\u00e1 incorreto tanto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%) quanto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o \u00e0 multa, mas incorreto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%).",
                 "pmi": [
                     -0.013601130878422673,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o \u00e0 multa, mas incorreto em rela\u00e7\u00e3o ao imposto (que deveria observar a nova al\u00edquota de 2%)."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto, mas incorreto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido).",
                 "pmi": [
                     0.046860888118513584,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O lan\u00e7amento est\u00e1 correto em rela\u00e7\u00e3o ao imposto, mas incorreto em rela\u00e7\u00e3o \u00e0 multa (que deveria ser de 10% sobre o ISS devido e n\u00e3o recolhido)."
+                ]
             }
         ],
         "valid": true

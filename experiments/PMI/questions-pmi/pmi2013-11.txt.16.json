@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Desapropriar o terreno, sem que haja pagamento de indeniza\u00e7\u00e3o.",
                 "pmi": [
                     0.01595409835454388,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Desapropriar o terreno, sem que haja pagamento de indeniza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Desapropriar o terreno, mediante pagamento de indeniza\u00e7\u00e3o justa, pr\u00e9via e em dinheiro.",
                 "pmi": [
                     0.009116627631167933,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Desapropriar o terreno, mediante pagamento de indeniza\u00e7\u00e3o justa, pr\u00e9via e em dinheiro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Determinar edifica\u00e7\u00e3o compuls\u00f3ria naquele terreno.",
                 "pmi": [
                     0.01595409835454388,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Determinar edifica\u00e7\u00e3o compuls\u00f3ria naquele terreno."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Instituir multa administrativa no patamar de at\u00e9 100% do valor no IPTU do im\u00f3vel.",
                 "pmi": [
                     0.01324316260229374,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Instituir multa administrativa no patamar de at\u00e9 100% do valor no IPTU do im\u00f3vel."
+                ]
             }
         ],
         "valid": true

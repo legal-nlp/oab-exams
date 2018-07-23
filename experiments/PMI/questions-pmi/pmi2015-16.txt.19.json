@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "n\u00e3o houve irregularidade no processo legislativo, porque n\u00e3o h\u00e1 necessidade de reaprecia\u00e7\u00e3o, pela C\u00e2mara dos Deputados, do projeto de lei que tenha express\u00e3o suprimida pelo Senado Federal, quando sentido o normativo da reda\u00e7\u00e3o remanescente n\u00e3o foi alterado.",
                 "pmi": [
                     0.1841335397415249,
                     0.028104164882808556,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o houve irregularidade no processo legislativo, porque n\u00e3o h\u00e1 necessidade de reaprecia\u00e7\u00e3o, pela C\u00e2mara dos Deputados, do projeto de lei que tenha express\u00e3o suprimida pelo Senado Federal, quando sentido o normativo da reda\u00e7\u00e3o remanescente n\u00e3o foi alterado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o houve irregularidade no processo legislativo, porque \u00e9 fun\u00e7\u00e3o prec\u00edpua da Casa revisora estabelecer as mudan\u00e7as que lhe parecerem adequadas, sendo desnecess\u00e1rio o retorno \u00e0 Casa iniciadora, mesmo nas situa\u00e7\u00f5es em que a altera\u00e7\u00e3o modifique o sentido normativo inicial.",
                 "pmi": [
                     0.08548321503607673,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o houve irregularidade no processo legislativo, porque \u00e9 fun\u00e7\u00e3o prec\u00edpua da Casa revisora estabelecer as mudan\u00e7as que lhe parecerem adequadas, sendo desnecess\u00e1rio o retorno \u00e0 Casa iniciadora, mesmo nas situa\u00e7\u00f5es em que a altera\u00e7\u00e3o modifique o sentido normativo inicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "houve irregularidade no processo legislativo, pois qualquer altera\u00e7\u00e3o realizada, pela Casa revisora, no texto do projeto de lei implica a necess\u00e1ria devolu\u00e7\u00e3o \u00e0 Casa iniciadora, a fim de que aprecie tal altera\u00e7\u00e3o.",
                 "pmi": [
                     0.1719216638284282,
                     0.009086726600456277,
                     0.0,
                     0.0
-                ],
-                "text": "houve irregularidade no processo legislativo, pois qualquer altera\u00e7\u00e3o realizada, pela Casa revisora, no texto do projeto de lei implica a necess\u00e1ria devolu\u00e7\u00e3o \u00e0 Casa iniciadora, a fim de que aprecie tal altera\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "houve irregularidade no processo legislativo, mas, por tratar-se de problema de natureza interna corporis do Congresso Nacional, somente uma ADI proposta pela Mesa da C\u00e2mara dos Deputados teria o cond\u00e3o de suscitar a inconstitucionalidade da Lei \u201cL\u201d.",
                 "pmi": [
                     0.050910421531796465,
                     0.03390067372819788,
                     0.0,
                     0.0
-                ],
-                "text": "houve irregularidade no processo legislativo, mas, por tratar-se de problema de natureza interna corporis do Congresso Nacional, somente uma ADI proposta pela Mesa da C\u00e2mara dos Deputados teria o cond\u00e3o de suscitar a inconstitucionalidade da Lei \u201cL\u201d."
+                ]
             }
         ],
         "valid": true

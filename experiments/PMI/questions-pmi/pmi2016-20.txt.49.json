@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a remunera\u00e7\u00e3o n\u00e3o exceder\u00e1 5% (cinco por cento) do valor devido aos credores submetidos \u00e0 recupera\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.013511312390006228,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a remunera\u00e7\u00e3o n\u00e3o exceder\u00e1 5% (cinco por cento) do valor devido aos credores submetidos \u00e0 recupera\u00e7\u00e3o judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "caber\u00e1 ao devedor arcar com as despesas relativas \u00e0 remunera\u00e7\u00e3o do administrador judicial e das pessoas eventualmente contratadas para auxili\u00e1-lo.",
                 "pmi": [
                     0.00019787905910327586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caber\u00e1 ao devedor arcar com as despesas relativas \u00e0 remunera\u00e7\u00e3o do administrador judicial e das pessoas eventualmente contratadas para auxili\u00e1-lo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a remunera\u00e7\u00e3o dever\u00e1 ser paga at\u00e9 o final do encerramento da verifica\u00e7\u00e3o dos cr\u00e9ditos e publica\u00e7\u00e3o do quadro de credores.",
                 "pmi": [
                     -0.0020299794236858758,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a remunera\u00e7\u00e3o dever\u00e1 ser paga at\u00e9 o final do encerramento da verifica\u00e7\u00e3o dos cr\u00e9ditos e publica\u00e7\u00e3o do quadro de credores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ser\u00e1 devida remunera\u00e7\u00e3o proporcional ao trabalho realizado quando o administrador judicial for destitu\u00eddo por descumprimento de deveres legais.",
                 "pmi": [
                     0.08994477827191118,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 devida remunera\u00e7\u00e3o proporcional ao trabalho realizado quando o administrador judicial for destitu\u00eddo por descumprimento de deveres legais."
+                ]
             }
         ],
         "valid": true

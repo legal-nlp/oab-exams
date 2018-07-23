@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida, mediante registro dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'Sociedade Individual de Advocacia'.",
                 "pmi": [
                     0.03949305615909706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida, mediante registro dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'Sociedade Individual de Advocacia'."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Miguel n\u00e3o poder\u00e1 constituir a pessoa jur\u00eddica pretendida, uma vez que o ordenamento jur\u00eddico brasileiro n\u00e3o admite a figura da sociedade unipessoal, ressalvados apenas os casos de unipessoalidade tempor\u00e1ria e da chamada subsidi\u00e1ria integral.",
                 "pmi": [
                     0.03523094123404708,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Miguel n\u00e3o poder\u00e1 constituir a pessoa jur\u00eddica pretendida, uma vez que o ordenamento jur\u00eddico brasileiro n\u00e3o admite a figura da sociedade unipessoal, ressalvados apenas os casos de unipessoalidade tempor\u00e1ria e da chamada subsidi\u00e1ria integral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Conselho Seccional da OAB, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.",
                 "pmi": [
                     0.051834636208814885,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Conselho Seccional da OAB, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Registro Civil de Pessoas Jur\u00eddicas, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'.",
                 "pmi": [
                     0.048785539961237544,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Miguel poder\u00e1 constituir a pessoa jur\u00eddica pretendida mediante registro dos seus atos constitutivos no Registro Civil de Pessoas Jur\u00eddicas, com denomina\u00e7\u00e3o formada pelo nome do titular, seguida da express\u00e3o 'EIRELI'."
+                ]
             }
         ],
         "valid": true

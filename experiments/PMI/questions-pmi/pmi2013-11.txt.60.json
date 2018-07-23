@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Biol\u00f3gico.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Biol\u00f3gico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Psicol\u00f3gico.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Psicol\u00f3gico."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Psiqui\u00e1trico.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Psiqui\u00e1trico."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Biopsicol\u00f3gico.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Biopsicol\u00f3gico."
+                ]
             }
         ],
         "valid": true

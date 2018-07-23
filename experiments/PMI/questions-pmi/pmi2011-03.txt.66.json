@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Caio, vereador de um determinado munic\u00edpio, pratica um crime comum previsto na parte especial do C\u00f3digo Penal. Ser\u00e1, pois, julgado no Tribunal de Justi\u00e7a do Estado onde exerce suas fun\u00e7\u00f5es, uma vez que goza do foro por prerrogativa de fun\u00e7\u00e3o.",
                 "pmi": [
                     0.091034692074271,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio, vereador de um determinado munic\u00edpio, pratica um crime comum previsto na parte especial do C\u00f3digo Penal. Ser\u00e1, pois, julgado no Tribunal de Justi\u00e7a do Estado onde exerce suas fun\u00e7\u00f5es, uma vez que goza do foro por prerrogativa de fun\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "T\u00edcio, juiz estadual, pratica um crime eleitoral. Por ter foro por prerrogativa de fun\u00e7\u00e3o, ser\u00e1 julgado no Tribunal de Justi\u00e7a do Estado onde exerce suas atividades.",
                 "pmi": [
                     0.07778322660737731,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "T\u00edcio, juiz estadual, pratica um crime eleitoral. Por ter foro por prerrogativa de fun\u00e7\u00e3o, ser\u00e1 julgado no Tribunal de Justi\u00e7a do Estado onde exerce suas atividades."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "M\u00e9vio \u00e9 governador do Distrito Federal e pratica um crime comum. Por uma quest\u00e3o de compet\u00eancia origin\u00e1ria decorrente da prerrogativa de fun\u00e7\u00e3o, ser\u00e1 julgado pelo Superior Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.23060951986193717,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "M\u00e9vio \u00e9 governador do Distrito Federal e pratica um crime comum. Por uma quest\u00e3o de compet\u00eancia origin\u00e1ria decorrente da prerrogativa de fun\u00e7\u00e3o, ser\u00e1 julgado pelo Superior Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ter\u00eancio \u00e9 prefeito e pratica um crime comum, devendo ser julgado pelo Tribunal de Justi\u00e7a do respectivo Estado. Segundo entendimento do STF, a situa\u00e7\u00e3o n\u00e3o se alteraria se o crime praticado por Ter\u00eancio fosse um crime eleitoral.",
                 "pmi": [
                     0.09582599165712738,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ter\u00eancio \u00e9 prefeito e pratica um crime comum, devendo ser julgado pelo Tribunal de Justi\u00e7a do respectivo Estado. Segundo entendimento do STF, a situa\u00e7\u00e3o n\u00e3o se alteraria se o crime praticado por Ter\u00eancio fosse um crime eleitoral."
+                ]
             }
         ],
         "valid": true

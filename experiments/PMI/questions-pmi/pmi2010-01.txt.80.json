@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "ser\u00e1 deserto, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 deserto, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ser\u00e1 intempestivo, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 intempestivo, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "dever\u00e1 ser conhecido, mas improvido, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser conhecido, mas improvido, em raz\u00e3o de n\u00e3o ter sido efetuado o dep\u00f3sito recursal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "estar\u00e1 apto a ser conhecido, visto que, sendo a condena\u00e7\u00e3o solid\u00e1ria, o dep\u00f3sito efetuado pela empresa Delta aproveita \u00e0 empresa Echo.",
                 "pmi": [
                     0.03647283275443824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "estar\u00e1 apto a ser conhecido, visto que, sendo a condena\u00e7\u00e3o solid\u00e1ria, o dep\u00f3sito efetuado pela empresa Delta aproveita \u00e0 empresa Echo."
+                ]
             }
         ],
         "valid": true

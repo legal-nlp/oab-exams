@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "configura situa\u00e7\u00e3o at\u00edpica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "configura situa\u00e7\u00e3o at\u00edpica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "configura o crime de resist\u00eancia.",
                 "pmi": [
                     0.08358614145880706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "configura o crime de resist\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "configura o crime de desobedi\u00eancia.",
                 "pmi": [
                     0.08358614145880706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "configura o crime de desobedi\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "configura o crime de desacato.",
                 "pmi": [
                     0.08358614145880706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "configura o crime de desacato."
+                ]
             }
         ],
         "valid": true

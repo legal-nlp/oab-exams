@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Na Lei de Drogas (11.343/06) e na Lei do Crime Organizado (9.034/95).",
                 "pmi": [
                     0.1409351806100638,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na Lei de Drogas (11.343/06) e na Lei do Crime Organizado (9.034/95)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Somente na Lei de Drogas (11.343/06).",
                 "pmi": [
                     0.18108320411708104,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Somente na Lei de Drogas (11.343/06)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Na Lei de Drogas (11.343/06) e na Lei de Crimes Hediondos (8.072/90).",
                 "pmi": [
                     0.11658029861266944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na Lei de Drogas (11.343/06) e na Lei de Crimes Hediondos (8.072/90)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Na Lei do Crime Organizado (9.034/95) e na Lei de Crimes Hediondos (8.072/90).",
                 "pmi": [
                     0.08515318585660464,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na Lei do Crime Organizado (9.034/95) e na Lei de Crimes Hediondos (8.072/90)."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a sociedade de advogados \u00e9 de natureza empresarial.",
                 "pmi": [
                     0.04687045362894871,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a sociedade de advogados \u00e9 de natureza empresarial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "os advogados s\u00f3cios da sociedade de advogados respondem limitadamente por danos causados aos clientes.",
                 "pmi": [
                     0.02768613959644922,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os advogados s\u00f3cios da sociedade de advogados respondem limitadamente por danos causados aos clientes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o registro da sociedade de advogados \u00e9 realizado no Conselho Seccional da OAB onde a mesma mantiver sede.",
                 "pmi": [
                     0.015573453523002686,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o registro da sociedade de advogados \u00e9 realizado no Conselho Seccional da OAB onde a mesma mantiver sede."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o \u00e9 poss\u00edvel associa\u00e7\u00e3o com advogados, sem v\u00ednculo de emprego, para participa\u00e7\u00e3o nos resultados.",
                 "pmi": [
                     0.03168102318990669,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 poss\u00edvel associa\u00e7\u00e3o com advogados, sem v\u00ednculo de emprego, para participa\u00e7\u00e3o nos resultados."
+                ]
             }
         ],
         "valid": true

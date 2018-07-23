@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ambos os delitos dever\u00e3o ser julgados perante a Justi\u00e7a Militar.",
                 "pmi": [
                     0.03505874370672186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambos os delitos dever\u00e3o ser julgados perante a Justi\u00e7a Militar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O crime de abuso de autoridade dever\u00e1 ser julgado perante a Justi\u00e7a Comum Estadual, enquanto que o de corrup\u00e7\u00e3o dever\u00e1 ser julgado pela Justi\u00e7a Militar.",
                 "pmi": [
                     0.018501724747075014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O crime de abuso de autoridade dever\u00e1 ser julgado perante a Justi\u00e7a Comum Estadual, enquanto que o de corrup\u00e7\u00e3o dever\u00e1 ser julgado pela Justi\u00e7a Militar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ambos os delitos dever\u00e3o ser julgados perante a Justi\u00e7a Comum Estadual.",
                 "pmi": [
                     -0.02141783620500618,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ambos os delitos dever\u00e3o ser julgados perante a Justi\u00e7a Comum Estadual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O crime de corrup\u00e7\u00e3o dever\u00e1 ser julgado perante a Justi\u00e7a Comum Estadual, enquanto que o de abuso de autoridade perante a Justi\u00e7a Militar.",
                 "pmi": [
                     0.024395550669169482,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O crime de corrup\u00e7\u00e3o dever\u00e1 ser julgado perante a Justi\u00e7a Comum Estadual, enquanto que o de abuso de autoridade perante a Justi\u00e7a Militar."
+                ]
             }
         ],
         "valid": true

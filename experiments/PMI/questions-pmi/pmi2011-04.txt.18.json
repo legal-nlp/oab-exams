@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O ato do Presidente da Rep\u00fablica que atenta contra o livre exerc\u00edcio do Poder Legislativo, do Poder Judici\u00e1rio, do Minist\u00e9rio P\u00fablico e dos Poderes constitucionais das unidades da Federa\u00e7\u00e3o \u00e9 considerado crime de responsabilidade.",
                 "pmi": [
                     0.20014415248721656,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ato do Presidente da Rep\u00fablica que atenta contra o livre exerc\u00edcio do Poder Legislativo, do Poder Judici\u00e1rio, do Minist\u00e9rio P\u00fablico e dos Poderes constitucionais das unidades da Federa\u00e7\u00e3o \u00e9 considerado crime de responsabilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O Presidente ficar\u00e1 suspenso de suas fun\u00e7\u00f5es nos crimes de responsabilidade somente ap\u00f3s a condena\u00e7\u00e3o pelo \u00f3rg\u00e3o competente.",
                 "pmi": [
                     0.21726613492702615,
                     0.11218370298032625,
                     0.0,
                     0.0
-                ],
-                "text": "O Presidente ficar\u00e1 suspenso de suas fun\u00e7\u00f5es nos crimes de responsabilidade somente ap\u00f3s a condena\u00e7\u00e3o pelo \u00f3rg\u00e3o competente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Compete ao Congresso Nacional processar e julgar o Presidente da Rep\u00fablica nos crimes de responsabilidade.",
                 "pmi": [
                     0.27137924901236676,
                     0.16311762309020938,
                     0.0,
                     0.0
-                ],
-                "text": "Compete ao Congresso Nacional processar e julgar o Presidente da Rep\u00fablica nos crimes de responsabilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "S\u00f3 se admite acusa\u00e7\u00e3o contra o Presidente da Rep\u00fablica por tr\u00eas quintos da C\u00e2mara dos Deputados.",
                 "pmi": [
                     0.33770425700291673,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "S\u00f3 se admite acusa\u00e7\u00e3o contra o Presidente da Rep\u00fablica por tr\u00eas quintos da C\u00e2mara dos Deputados."
+                ]
             }
         ],
         "valid": true

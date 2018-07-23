@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A cess\u00e3o de cr\u00e9dito \u00e9 a forma de transmiss\u00e3o dos t\u00edtulos \u00e0 ordem, enquanto o endosso \u00e9 a forma de transmiss\u00e3o dos t\u00edtulos n\u00e3o \u00e0 ordem.",
                 "pmi": [
                     0.07565661127947249,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cess\u00e3o de cr\u00e9dito \u00e9 a forma de transmiss\u00e3o dos t\u00edtulos \u00e0 ordem, enquanto o endosso \u00e9 a forma de transmiss\u00e3o dos t\u00edtulos n\u00e3o \u00e0 ordem."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A cess\u00e3o de cr\u00e9dito ao cession\u00e1rio pode ser parcial ou total, enquanto o endosso deve ser feito pelo valor integral do t\u00edtulo, sob pena de nulidade.",
                 "pmi": [
                     0.10939998246312166,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cess\u00e3o de cr\u00e9dito ao cession\u00e1rio pode ser parcial ou total, enquanto o endosso deve ser feito pelo valor integral do t\u00edtulo, sob pena de nulidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A efic\u00e1cia do endosso em rela\u00e7\u00e3o aos devedores do t\u00edtulo depende de sua notifica\u00e7\u00e3o; na cess\u00e3o de cr\u00e9dito, a efic\u00e1cia decorre da simples assinatura do cedente no anverso do t\u00edtulo.",
                 "pmi": [
                     0.11505934084489496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A efic\u00e1cia do endosso em rela\u00e7\u00e3o aos devedores do t\u00edtulo depende de sua notifica\u00e7\u00e3o; na cess\u00e3o de cr\u00e9dito, a efic\u00e1cia decorre da simples assinatura do cedente no anverso do t\u00edtulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O direito de cr\u00e9dito do endossat\u00e1rio \u00e9 dependente das rela\u00e7\u00f5es do devedor com portadores anteriores; o direito do cession\u00e1rio \u00e9 literal e aut\u00f4nomo em rela\u00e7\u00e3o aos portadores anteriores.",
                 "pmi": [
                     0.09934242443866877,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O direito de cr\u00e9dito do endossat\u00e1rio \u00e9 dependente das rela\u00e7\u00f5es do devedor com portadores anteriores; o direito do cession\u00e1rio \u00e9 literal e aut\u00f4nomo em rela\u00e7\u00e3o aos portadores anteriores."
+                ]
             }
         ],
         "valid": true

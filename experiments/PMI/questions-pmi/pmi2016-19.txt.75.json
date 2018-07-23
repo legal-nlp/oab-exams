@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "ocorreu acidente do trabalho, sendo irrelevante se o trabalho \u00e9 prestado na resid\u00eancia do empregado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ocorreu acidente do trabalho, sendo irrelevante se o trabalho \u00e9 prestado na resid\u00eancia do empregado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o se pode cogitar de acidente do trabalho no teletrabalho, pois o empregado est\u00e1 em seu domic\u00edlio e n\u00e3o sob as vistas do empregador.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o se pode cogitar de acidente do trabalho no teletrabalho, pois o empregado est\u00e1 em seu domic\u00edlio e n\u00e3o sob as vistas do empregador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o evento jamais poder\u00e1 ser considerado acidente do trabalho, uma vez que a situa\u00e7\u00e3o n\u00e3o foi testemunhada por ningu\u00e9m.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o evento jamais poder\u00e1 ser considerado acidente do trabalho, uma vez que a situa\u00e7\u00e3o n\u00e3o foi testemunhada por ningu\u00e9m."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "todo acidente domiciliar \u00e9 acidente do trabalho, segundo a legisla\u00e7\u00e3o previdenci\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "todo acidente domiciliar \u00e9 acidente do trabalho, segundo a legisla\u00e7\u00e3o previdenci\u00e1ria."
+                ]
             }
         ],
         "valid": true

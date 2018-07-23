@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os vitrais, enquanto separados do pr\u00e9dio do Mercado Municipal durante as obras, s\u00e3o classificados como bens m\u00f3veis.",
                 "pmi": [
                     0.03509582772088283,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os vitrais, enquanto separados do pr\u00e9dio do Mercado Municipal durante as obras, s\u00e3o classificados como bens m\u00f3veis."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Os vitrais retirados na qualidade de material de demoli\u00e7\u00e3o, considerando que o Mercado Municipal resolva descartar-se deles, ser\u00e3o considerados bens m\u00f3veis.",
                 "pmi": [
                     0.024297111499072724,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os vitrais retirados na qualidade de material de demoli\u00e7\u00e3o, considerando que o Mercado Municipal resolva descartar-se deles, ser\u00e3o considerados bens m\u00f3veis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Os vitrais do Mercado Municipal, considerando que foram feitos por grandes artistas europeus, s\u00e3o classificados como bens fung\u00edveis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os vitrais do Mercado Municipal, considerando que foram feitos por grandes artistas europeus, s\u00e3o classificados como bens fung\u00edveis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Os vitrais retirados para restaura\u00e7\u00e3o, por sua natureza, s\u00e3o classificados como bens m\u00f3veis.",
                 "pmi": [
                     0.07563426021735559,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os vitrais retirados para restaura\u00e7\u00e3o, por sua natureza, s\u00e3o classificados como bens m\u00f3veis."
+                ]
             }
         ],
         "valid": true

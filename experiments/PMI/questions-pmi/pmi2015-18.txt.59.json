@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "desist\u00eancia volunt\u00e1ria, n\u00e3o podendo responder por furto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desist\u00eancia volunt\u00e1ria, n\u00e3o podendo responder por furto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "arrependimento eficaz, n\u00e3o podendo responder por furto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "arrependimento eficaz, n\u00e3o podendo responder por furto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "arrependimento posterior, com reflexo exclusivamente no processo dosim\u00e9trico da pena.",
                 "pmi": [
                     0.12328882644935893,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "arrependimento posterior, com reflexo exclusivamente no processo dosim\u00e9trico da pena."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "furto, sendo totalmente irrelevante a devolu\u00e7\u00e3o do bem a partir de convencimento da esposa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "furto, sendo totalmente irrelevante a devolu\u00e7\u00e3o do bem a partir de convencimento da esposa."
+                ]
             }
         ],
         "valid": true

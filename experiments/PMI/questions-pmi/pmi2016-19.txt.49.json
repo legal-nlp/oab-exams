@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Cr\u00e9dito subordinado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Cr\u00e9dito subordinado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Cr\u00e9dito quirograf\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Cr\u00e9dito quirograf\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Cr\u00e9dito subquirograf\u00e1rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Cr\u00e9dito subquirograf\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Cr\u00e9dito equiparado ao trabalhista, at\u00e9 o limite de 150 sal\u00e1rios m\u00ednimos.",
                 "pmi": [
                     0.01272663314366385,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cr\u00e9dito equiparado ao trabalhista, at\u00e9 o limite de 150 sal\u00e1rios m\u00ednimos."
+                ]
             }
         ],
         "valid": true

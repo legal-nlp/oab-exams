@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a nulidade do julgamento, pois foi juntada documenta\u00e7\u00e3o sem a anteced\u00eancia necess\u00e1ria exigida pela lei.",
                 "pmi": [
                     0.034249198758596174,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a nulidade do julgamento, pois foi juntada documenta\u00e7\u00e3o sem a anteced\u00eancia necess\u00e1ria exigida pela lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o afastamento da qualificadora pelo Tribunal, pois foi juntada documenta\u00e7\u00e3o que influenciou seu reconhecimento sem a anteced\u00eancia necess\u00e1ria exigida pela lei.",
                 "pmi": [
                     0.02639738774973232,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o afastamento da qualificadora pelo Tribunal, pois foi juntada documenta\u00e7\u00e3o que influenciou seu reconhecimento sem a anteced\u00eancia necess\u00e1ria exigida pela lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a nulidade do julgamento, pois o direito de tr\u00e9plica da defesa independe da r\u00e9plica do Minist\u00e9rio P\u00fablico.",
                 "pmi": [
                     0.0853867746261255,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a nulidade do julgamento, pois o direito de tr\u00e9plica da defesa independe da r\u00e9plica do Minist\u00e9rio P\u00fablico."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "a nulidade do julgamento, pois houve r\u00e9plica por parte do Minist\u00e9rio P\u00fablico, de modo que deveria ser deferido \u00e0 defesa o direito de tr\u00e9plica.",
                 "pmi": [
                     0.0698619065122845,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a nulidade do julgamento, pois houve r\u00e9plica por parte do Minist\u00e9rio P\u00fablico, de modo que deveria ser deferido \u00e0 defesa o direito de tr\u00e9plica."
+                ]
             }
         ],
         "valid": true

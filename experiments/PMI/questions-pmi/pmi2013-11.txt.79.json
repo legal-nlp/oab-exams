@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Tanto a empresa Alfa Ltda. como o Sindicato da categoria dos empregados poder\u00e1 instaurar a inst\u00e2ncia, sendo o ato privativo das partes litigantes.",
                 "pmi": [
                     0.005988506456733741,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tanto a empresa Alfa Ltda. como o Sindicato da categoria dos empregados poder\u00e1 instaurar a inst\u00e2ncia, sendo o ato privativo das partes litigantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Apenas o Sindicado dos Empregados poder\u00e1 requerer a instaura\u00e7\u00e3o do diss\u00eddio coletivo, j\u00e1 que se trata do sujeito ativo no caso de greve, sendo a empresa Alfa r\u00e9 no processo.",
                 "pmi": [
                     0.03474207713288775,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas o Sindicado dos Empregados poder\u00e1 requerer a instaura\u00e7\u00e3o do diss\u00eddio coletivo, j\u00e1 que se trata do sujeito ativo no caso de greve, sendo a empresa Alfa r\u00e9 no processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Por haver interesse p\u00fablico a legitimidade ativa \u00e9 exclusiva da empresa e do sindicato, bem como do Minist\u00e9rio P\u00fablico do Trabalho, em car\u00e1ter excepcional.",
                 "pmi": [
                     0.026720416326058986,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por haver interesse p\u00fablico a legitimidade ativa \u00e9 exclusiva da empresa e do sindicato, bem como do Minist\u00e9rio P\u00fablico do Trabalho, em car\u00e1ter excepcional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O diss\u00eddio poder\u00e1 ser instaurado pelas partes por representa\u00e7\u00e3o escrita ao Presidente do Tribunal; bem como por iniciativa do pr\u00f3prio Presidente e, ainda, por requerimento do Minist\u00e9rio P\u00fablico do Trabalho.",
                 "pmi": [
                     0.01561446334736235,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O diss\u00eddio poder\u00e1 ser instaurado pelas partes por representa\u00e7\u00e3o escrita ao Presidente do Tribunal; bem como por iniciativa do pr\u00f3prio Presidente e, ainda, por requerimento do Minist\u00e9rio P\u00fablico do Trabalho."
+                ]
             }
         ],
         "valid": true

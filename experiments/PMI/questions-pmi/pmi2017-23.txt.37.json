@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "v\u00e1lido e ineficaz.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "v\u00e1lido e ineficaz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "v\u00e1lido e eficaz.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "v\u00e1lido e eficaz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "inv\u00e1lido e ineficaz.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "inv\u00e1lido e ineficaz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "inv\u00e1lido e eficaz.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "inv\u00e1lido e eficaz."
+                ]
             }
         ],
         "valid": true

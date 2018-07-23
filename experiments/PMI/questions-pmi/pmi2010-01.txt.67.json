@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "em 30 de novembro do mesmo ano, independentemente do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o.",
                 "pmi": [
                     0.04663184053915935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em 30 de novembro do mesmo ano, independentemente do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "na data do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o, por aplica\u00e7\u00e3o da analogia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "na data do vencimento dos outros impostos cobrados pelo mesmo ente da Federa\u00e7\u00e3o, por aplica\u00e7\u00e3o da analogia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "em qualquer data, desde que anterior a 31 de dezembro daquele mesmo ano.",
                 "pmi": [
                     0.10806160740878464,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em qualquer data, desde que anterior a 31 de dezembro daquele mesmo ano."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "em qualquer data, desde que n\u00e3o ultrapasse o dia 31 de outubro do ano seguinte.",
                 "pmi": [
                     0.09801016322321689,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "em qualquer data, desde que n\u00e3o ultrapasse o dia 31 de outubro do ano seguinte."
+                ]
             }
         ],
         "valid": true

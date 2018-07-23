@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o advogado exerce fun\u00e7\u00e3o p\u00fablica.",
                 "pmi": [
                     0.05311357978769024,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado exerce fun\u00e7\u00e3o p\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "exerce minist\u00e9rio privado, exercendo fun\u00e7\u00e3o social.",
                 "pmi": [
                     0.01598915186055065,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "exerce minist\u00e9rio privado, exercendo fun\u00e7\u00e3o social."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "atua na defesa de interesses patrimoniais privados, com fun\u00e7\u00e3o p\u00fablica.",
                 "pmi": [
                     0.038955357919330975,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "atua na defesa de interesses patrimoniais privados, com fun\u00e7\u00e3o p\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "no seu minist\u00e9rio privado, deixa de exercer fun\u00e7\u00e3o social.",
                 "pmi": [
                     0.01613967772905934,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "no seu minist\u00e9rio privado, deixa de exercer fun\u00e7\u00e3o social."
+                ]
             }
         ],
         "valid": true

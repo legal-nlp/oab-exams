@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Sendo o empregador das professoras um banco, elas s\u00e3o banc\u00e1rias e est\u00e3o vinculadas \u00e0 conven\u00e7\u00e3o coletiva dessa categoria profissional.",
                 "pmi": [
                     0.03348726925626294,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sendo o empregador das professoras um banco, elas s\u00e3o banc\u00e1rias e est\u00e3o vinculadas \u00e0 conven\u00e7\u00e3o coletiva dessa categoria profissional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O professor integra categoria conexa, cabendo \u00e0s professoras definir a que sindicatos pretendem se filiar.",
                 "pmi": [
                     0.03709401583101473,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O professor integra categoria conexa, cabendo \u00e0s professoras definir a que sindicatos pretendem se filiar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Uma vez que a atividade desenvolvida pelas professoras n\u00e3o \u00e9 banc\u00e1ria, caber\u00e1 \u00e0 Justi\u00e7a do Trabalho definir as regras que dever\u00e3o permear os seus contratos.",
                 "pmi": [
                     0.02310670051198344,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uma vez que a atividade desenvolvida pelas professoras n\u00e3o \u00e9 banc\u00e1ria, caber\u00e1 \u00e0 Justi\u00e7a do Trabalho definir as regras que dever\u00e3o permear os seus contratos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "As professoras n\u00e3o s\u00e3o banc\u00e1rias, porque integram categoria diferenciada.",
                 "pmi": [
                     0.08291940610014695,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As professoras n\u00e3o s\u00e3o banc\u00e1rias, porque integram categoria diferenciada."
+                ]
             }
         ],
         "valid": true

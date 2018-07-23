@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Maria foi privada de um direito por motivo de convic\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica e, portanto, as autoridades competentes da institui\u00e7\u00e3o de ensino devem assegurar a ela o direito de ter vista de prova e, se for o caso, de pedir a revis\u00e3o da corre\u00e7\u00e3o.",
                 "pmi": [
                     0.027871453652164337,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria foi privada de um direito por motivo de convic\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica e, portanto, as autoridades competentes da institui\u00e7\u00e3o de ensino devem assegurar a ela o direito de ter vista de prova e, se for o caso, de pedir a revis\u00e3o da corre\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Houve um debate livre e leg\u00edtimo em sala de aula e a postura do professor pode ser considerada \"dura\", mas n\u00e3o implicou nenhum tipo de viola\u00e7\u00e3o de direito de Maria.",
                 "pmi": [
                     0.023897725332191214,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Houve um debate livre e leg\u00edtimo em sala de aula e a postura do professor pode ser considerada \"dura\", mas n\u00e3o implicou nenhum tipo de viola\u00e7\u00e3o de direito de Maria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Embora tenha havido um debate acerca de uma quest\u00e3o que envolve convic\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica, n\u00e3o houve priva\u00e7\u00e3o de direito j\u00e1 que a vista de prova e o eventual pedido de revis\u00e3o da corre\u00e7\u00e3o est\u00e1 contido apenas no regimento da institui\u00e7\u00e3o de ensino e n\u00e3o na legisla\u00e7\u00e3o p\u00e1tria.",
                 "pmi": [
                     0.024646606930115375,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Embora tenha havido um debate acerca de uma quest\u00e3o que envolve convic\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica, n\u00e3o houve priva\u00e7\u00e3o de direito j\u00e1 que a vista de prova e o eventual pedido de revis\u00e3o da corre\u00e7\u00e3o est\u00e1 contido apenas no regimento da institui\u00e7\u00e3o de ensino e n\u00e3o na legisla\u00e7\u00e3o p\u00e1tria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A solu\u00e7\u00e3o do impasse instaurado entre a aluna e o professor somente pode acontecer mediante o di\u00e1logo entre as duas partes, em que cada um considere seus eventuais excessos, uma vez que o que houve foi um mero desentendimento e n\u00e3o uma viola\u00e7\u00e3o de direito por convi\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica.",
                 "pmi": [
                     0.02738511881123931,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A solu\u00e7\u00e3o do impasse instaurado entre a aluna e o professor somente pode acontecer mediante o di\u00e1logo entre as duas partes, em que cada um considere seus eventuais excessos, uma vez que o que houve foi um mero desentendimento e n\u00e3o uma viola\u00e7\u00e3o de direito por convi\u00e7\u00e3o filos\u00f3fica ou pol\u00edtica."
+                ]
             }
         ],
         "valid": true

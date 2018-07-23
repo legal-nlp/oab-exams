@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a aliena\u00e7\u00e3o de bens \u00e9 ato privativo do Presidente da Seccional da OAB.",
                 "pmi": [
                     0.09208679300576585,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a aliena\u00e7\u00e3o de bens \u00e9 ato privativo do Presidente da Seccional da OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a aquisi\u00e7\u00e3o de bens depende de aprova\u00e7\u00e3o da Diretoria da OAB.",
                 "pmi": [
                     0.10743459184006014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a aquisi\u00e7\u00e3o de bens depende de aprova\u00e7\u00e3o da Diretoria da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a onera\u00e7\u00e3o de bens \u00e9 ato do Presidente do Conselho Federal.",
                 "pmi": [
                     0.1289215102080722,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a onera\u00e7\u00e3o de bens \u00e9 ato do Presidente do Conselho Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a disposi\u00e7\u00e3o sobre os bens m\u00f3veis \u00e9 atribui\u00e7\u00e3o do Presidente da Seccional.",
                 "pmi": [
                     0.10743459184006014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a disposi\u00e7\u00e3o sobre os bens m\u00f3veis \u00e9 atribui\u00e7\u00e3o do Presidente da Seccional."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Alessandro Bilancia, gra\u00e7as ao seu reconhecido saber jur\u00eddico e \u00e0 sua ilibada reputa\u00e7\u00e3o, poder\u00e1 ser indicado para compor o quadro de ministros do Supremo Tribunal Federal.",
                 "pmi": [
                     0.027797241361015405,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Alessandro Bilancia, gra\u00e7as ao seu reconhecido saber jur\u00eddico e \u00e0 sua ilibada reputa\u00e7\u00e3o, poder\u00e1 ser indicado para compor o quadro de ministros do Supremo Tribunal Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Alessandro Bilancia, na hip\u00f3tese de concorrer ao cargo de deputado federal e ser eleito, poder\u00e1 ser indicado para exercer a Presid\u00eancia da C\u00e2mara dos Deputados.",
                 "pmi": [
                     0.049554807695953516,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Alessandro Bilancia, na hip\u00f3tese de concorrer ao cargo de deputado federal e ser eleito, poder\u00e1 ser indicado para exercer a Presid\u00eancia da C\u00e2mara dos Deputados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Alessandro Bilancia, na hip\u00f3tese de concorrer ao cargo de senador e ser eleito, pode ser o l\u00edder do partido na Casa, embora n\u00e3o possa presidir o Senado Federal.",
                 "pmi": [
                     0.03206973642909405,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Alessandro Bilancia, na hip\u00f3tese de concorrer ao cargo de senador e ser eleito, pode ser o l\u00edder do partido na Casa, embora n\u00e3o possa presidir o Senado Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Alessandro Bilancia, dada a sua ampla e s\u00f3lida condi\u00e7\u00e3o intelectual, pode ser nomeado para assumir qualquer minist\u00e9rio do governo.",
                 "pmi": [
                     0.006301519754948825,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Alessandro Bilancia, dada a sua ampla e s\u00f3lida condi\u00e7\u00e3o intelectual, pode ser nomeado para assumir qualquer minist\u00e9rio do governo."
+                ]
             }
         ],
         "valid": true

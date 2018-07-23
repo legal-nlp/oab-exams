@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Trata-se de compet\u00eancia privativa da Uni\u00e3o",
                 "pmi": [
                     -0.0006846741912113208,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de compet\u00eancia privativa da Uni\u00e3o"
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trata-se de compet\u00eancia da Uni\u00e3o em comum com os Estados.",
                 "pmi": [
                     -0.01212655555735982,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de compet\u00eancia da Uni\u00e3o em comum com os Estados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Trata-se de compet\u00eancia privativa dos Estados",
                 "pmi": [
                     -0.00572450892839264,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de compet\u00eancia privativa dos Estados"
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Trata-se de compet\u00eancia dos Estados em comum com os Munic\u00edpios.",
                 "pmi": [
                     0.015474609811940009,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de compet\u00eancia dos Estados em comum com os Munic\u00edpios."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ser\u00e1 facultado ao autor agravar da senten\u00e7a, caso em que o r\u00e9u ser\u00e1 intimado para oferecer contrarraz\u00f5es.",
                 "pmi": [
                     0.025357930363984763,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ser\u00e1 facultado ao autor agravar da senten\u00e7a, caso em que o r\u00e9u ser\u00e1 intimado para oferecer contrarraz\u00f5es."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Interposto o recurso de apela\u00e7\u00e3o contra a senten\u00e7a liminar, o juiz poder\u00e1 exercer ju\u00edzo de retrata\u00e7\u00e3o no prazo de cinco dias.",
                 "pmi": [
                     0.02557028673638394,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interposto o recurso de apela\u00e7\u00e3o contra a senten\u00e7a liminar, o juiz poder\u00e1 exercer ju\u00edzo de retrata\u00e7\u00e3o no prazo de cinco dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 cab\u00edvel a senten\u00e7a liminar quando a mat\u00e9ria controvertida for de fato e de direito e guardar identidade com outros casos anteriormente julgados pelo ju\u00edzo.",
                 "pmi": [
                     0.0292019824387656,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel a senten\u00e7a liminar quando a mat\u00e9ria controvertida for de fato e de direito e guardar identidade com outros casos anteriormente julgados pelo ju\u00edzo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Proferida senten\u00e7a liminar, o r\u00e9u somente ser\u00e1 citado a responder \u00e0 a\u00e7\u00e3o em caso de provimento de eventual recurso.",
                 "pmi": [
                     0.04177025383065629,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Proferida senten\u00e7a liminar, o r\u00e9u somente ser\u00e1 citado a responder \u00e0 a\u00e7\u00e3o em caso de provimento de eventual recurso."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o advogado \u00e9 suspeito para prestar depoimento no caso em tela.",
                 "pmi": [
                     0.054088269690768055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado \u00e9 suspeito para prestar depoimento no caso em tela."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a possibilidade decorre da aus\u00eancia de efetiva atua\u00e7\u00e3o profissional.",
                 "pmi": [
                     0.09721599622596185,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a possibilidade decorre da aus\u00eancia de efetiva atua\u00e7\u00e3o profissional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o depoimento do advogado, no caso, \u00e9 facultativo.",
                 "pmi": [
                     0.08113240453615207,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o depoimento do advogado, no caso, \u00e9 facultativo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "somente poderia prestar depoimento ap\u00f3s a interven\u00e7\u00e3o de todas as partes no processo.",
                 "pmi": [
                     0.009625569636668312,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "somente poderia prestar depoimento ap\u00f3s a interven\u00e7\u00e3o de todas as partes no processo."
+                ]
             }
         ],
         "valid": true

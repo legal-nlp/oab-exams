@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "ignorar a comunica\u00e7\u00e3o porque s\u00e3o separadas as atividades de advogado e fazendeiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ignorar a comunica\u00e7\u00e3o porque s\u00e3o separadas as atividades de advogado e fazendeiro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "deixar de prestar concurso a atos que atentem contra a dignidade da pessoa humana.",
                 "pmi": [
                     0.03650632841357242,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deixar de prestar concurso a atos que atentem contra a dignidade da pessoa humana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "atuar como advogado na defesa da situa\u00e7\u00e3o considerada irregular, ignorando as acusa\u00e7\u00f5es.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "atuar como advogado na defesa da situa\u00e7\u00e3o considerada irregular, ignorando as acusa\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "defender sua atua\u00e7\u00e3o como fazendeiro que obedece a regras peculiares e costumeiras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "defender sua atua\u00e7\u00e3o como fazendeiro que obedece a regras peculiares e costumeiras."
+                ]
             }
         ],
         "valid": true

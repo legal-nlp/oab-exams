@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O auto de pris\u00e3o em flagrante n\u00e3o \u00e9 nulo, pois s\u00f3 \u00e9 obrigat\u00f3ria a presen\u00e7a de representante da OAB quando a pris\u00e3o decorre de motivo ligado ao exerc\u00edcio da advocacia.",
                 "pmi": [
                     0.026977050272591483,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O auto de pris\u00e3o em flagrante n\u00e3o \u00e9 nulo, pois s\u00f3 \u00e9 obrigat\u00f3ria a presen\u00e7a de representante da OAB quando a pris\u00e3o decorre de motivo ligado ao exerc\u00edcio da advocacia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O auto de pris\u00e3o em flagrante n\u00e3o \u00e9 nulo, pois a presen\u00e7a de representante da OAB \u00e9 facultativa em qualquer caso, podendo sempre ser suprida pela presen\u00e7a de advogado indicado pelo preso.",
                 "pmi": [
                     0.08131125046504177,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O auto de pris\u00e3o em flagrante n\u00e3o \u00e9 nulo, pois a presen\u00e7a de representante da OAB \u00e9 facultativa em qualquer caso, podendo sempre ser suprida pela presen\u00e7a de advogado indicado pelo preso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O auto de pris\u00e3o em flagrante \u00e9 nulo, pois advogados n\u00e3o podem ser presos por crimes afian\u00e7\u00e1veis.",
                 "pmi": [
                     0.034161123856909115,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O auto de pris\u00e3o em flagrante \u00e9 nulo, pois advogados n\u00e3o podem ser presos por crimes afian\u00e7\u00e1veis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O auto de pris\u00e3o em flagrante \u00e9 nulo, pois a presen\u00e7a de representante da OAB em caso de pris\u00e3o em flagrante de advogado \u00e9 sempre obrigat\u00f3ria.",
                 "pmi": [
                     0.060289136228039684,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O auto de pris\u00e3o em flagrante \u00e9 nulo, pois a presen\u00e7a de representante da OAB em caso de pris\u00e3o em flagrante de advogado \u00e9 sempre obrigat\u00f3ria."
+                ]
             }
         ],
         "valid": true

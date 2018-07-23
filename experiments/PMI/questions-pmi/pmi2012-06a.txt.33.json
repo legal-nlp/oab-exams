@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Roberto e Ronaldo receberiam cada um R$ 300.000,00, pois, como Ricardo faleceu antes de Crist\u00f3v\u00e3o, seus filhos nada receberiam em rela\u00e7\u00e3o \u00e0 heran\u00e7a.",
                 "pmi": [
                     -0.033101628126525305,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto e Ronaldo receberiam cada um R$ 300.000,00, pois, como Ricardo faleceu antes de Crist\u00f3v\u00e3o, seus filhos nada receberiam em rela\u00e7\u00e3o \u00e0 heran\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Roberto e Ronaldo receberiam R$ 200.000,00 cada um, e o filho de Ricardo de nome Jorge receberia os outros R$ 200.000,00.",
                 "pmi": [
                     -0.023269008968909786,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Roberto e Ronaldo receberiam R$ 200.000,00 cada um, e o filho de Ricardo de nome Jorge receberia os outros R$ 200.000,00."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Carla receberia R$ 300.000,00. Roberto e Ronaldo receberiam R$ 100.000,00 cada um. Jorge receberia R$ 50.000,00, e Marcos e Mateus receberiam cada um R$ 25.000,00.",
                 "pmi": [
                     -0.06410785012033092,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Carla receberia R$ 300.000,00. Roberto e Ronaldo receberiam R$ 100.000,00 cada um. Jorge receberia R$ 50.000,00, e Marcos e Mateus receberiam cada um R$ 25.000,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A heran\u00e7a seria dividida em quatro partes: Carla, Roberto e Ronaldo receberiam cada um R$ 150.000,00. Os outros R$ 150.000,00 seriam partilhados entre Jorge e os filhos de Jos\u00e9, cabendo ao primeiro R$ 75.000,00 e a Marcos e Mateus R$ 37.500,00 para cada um.",
                 "pmi": [
                     -0.07472600929906797,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A heran\u00e7a seria dividida em quatro partes: Carla, Roberto e Ronaldo receberiam cada um R$ 150.000,00. Os outros R$ 150.000,00 seriam partilhados entre Jorge e os filhos de Jos\u00e9, cabendo ao primeiro R$ 75.000,00 e a Marcos e Mateus R$ 37.500,00 para cada um."
+                ]
             }
         ],
         "valid": true

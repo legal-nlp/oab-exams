@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "apresentar a documenta\u00e7\u00e3o prevista para inscri\u00e7\u00e3o inaugural no quadro de advogados, al\u00e9m de submeter-se a novo Exame de Ordem.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apresentar a documenta\u00e7\u00e3o prevista para inscri\u00e7\u00e3o inaugural no quadro de advogados, al\u00e9m de submeter-se a novo Exame de Ordem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "requerer a restaura\u00e7\u00e3o da sua inscri\u00e7\u00e3o anterior com os documentos previstos para a inscri\u00e7\u00e3o inaugural, sem submiss\u00e3o a novo Exame de Ordem.",
                 "pmi": [
                     0.02079624588554042,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "requerer a restaura\u00e7\u00e3o da sua inscri\u00e7\u00e3o anterior com os documentos previstos para a inscri\u00e7\u00e3o inaugural, sem submiss\u00e3o a novo Exame de Ordem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "indicar provas para a inscri\u00e7\u00e3o nos quadros da OAB que comprovem a sua capacidade civil apta a permitir o retorno, e os documentos para inscri\u00e7\u00e3o inaugural.",
                 "pmi": [
                     0.008281535329605823,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "indicar provas para a inscri\u00e7\u00e3o nos quadros da OAB que comprovem a sua capacidade civil apta a permitir o retorno, e os documentos para inscri\u00e7\u00e3o inaugural."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "comprovar a sua reabilita\u00e7\u00e3o e apresentar os documentos relacionados \u00e0 idoneidade moral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comprovar a sua reabilita\u00e7\u00e3o e apresentar os documentos relacionados \u00e0 idoneidade moral."
+                ]
             }
         ],
         "valid": true

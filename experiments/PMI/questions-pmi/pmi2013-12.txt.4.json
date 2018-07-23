@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Constitui atividade infracional disciplinar receber clientes de pessoa com rela\u00e7\u00e3o de parentesco e prest\u00edgio social.",
                 "pmi": [
                     0.02540234378698475,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constitui atividade infracional disciplinar receber clientes de pessoa com rela\u00e7\u00e3o de parentesco e prest\u00edgio social."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Constitui atividade corriqueira, n\u00e3o infracional, o relacionamento social com parentes ou n\u00e3o.",
                 "pmi": [
                     0.026905626813493805,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constitui atividade corriqueira, n\u00e3o infracional, o relacionamento social com parentes ou n\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Constitui atividade il\u00edcita por valer-se de parentes para obten\u00e7\u00e3o de clientela, mesmo gratuitamente.",
                 "pmi": [
                     0.015043470318963071,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constitui atividade il\u00edcita por valer-se de parentes para obten\u00e7\u00e3o de clientela, mesmo gratuitamente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Constitui atividade vedada, uma vez que a clientela deve ser formada espontaneamente pelo advogado.",
                 "pmi": [
                     0.017192537507386366,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constitui atividade vedada, uma vez que a clientela deve ser formada espontaneamente pelo advogado."
+                ]
             }
         ],
         "valid": true

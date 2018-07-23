@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "participa\u00e7\u00e3o no crime de furto praticado por Baco.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "participa\u00e7\u00e3o no crime de furto praticado por Baco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "recepta\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "recepta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "favorecimento pessoal.",
                 "pmi": [
                     0.07734061357714235,
                     0.0,
                     0,
                     0
-                ],
-                "text": "favorecimento pessoal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "favorecimento real.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "favorecimento real."
+                ]
             }
         ],
         "valid": true

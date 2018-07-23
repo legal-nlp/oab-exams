@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Tribunal de Justi\u00e7a do Estado de Minas Gerais.",
                 "pmi": [
                     0.16032938512758008,
                     0.041504358678072444,
                     0.0,
                     0.0
-                ],
-                "text": "o Tribunal de Justi\u00e7a do Estado de Minas Gerais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "uma das Varas Criminais de Florian\u00f3polis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "uma das Varas Criminais de Florian\u00f3polis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o Tribunal de Justi\u00e7a de Santa Catarina.",
                 "pmi": [
                     0.16032938512758008,
                     0.041504358678072444,
                     0.0,
                     0.0
-                ],
-                "text": "o Tribunal de Justi\u00e7a de Santa Catarina."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o Tribunal do J\u00fari de Florian\u00f3polis.",
                 "pmi": [
                     0.11918196446102784,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Tribunal do J\u00fari de Florian\u00f3polis."
+                ]
             }
         ],
         "valid": true

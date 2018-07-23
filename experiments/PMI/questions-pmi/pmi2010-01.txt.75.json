@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A senten\u00e7a dever\u00e1 conter o nome das partes, o resumo do pedido e da defesa, a aprecia\u00e7\u00e3o das provas, os fundamentos da decis\u00e3o e a respectiva conclus\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a dever\u00e1 conter o nome das partes, o resumo do pedido e da defesa, a aprecia\u00e7\u00e3o das provas, os fundamentos da decis\u00e3o e a respectiva conclus\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o h\u00e1 necessidade de men\u00e7\u00e3o das custas que devam ser pagas pela parte vencida na senten\u00e7a, pois o seu valor ser\u00e1 apurado na fase de liquida\u00e7\u00e3o.",
                 "pmi": [
                     0.12200392070377256,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 necessidade de men\u00e7\u00e3o das custas que devam ser pagas pela parte vencida na senten\u00e7a, pois o seu valor ser\u00e1 apurado na fase de liquida\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Erros evidentes de datilografia ou de c\u00e1lculo existentes na senten\u00e7a somente poder\u00e3o ser corrigidos a requerimento da parte e antes de iniciada a execu\u00e7\u00e3o.",
                 "pmi": [
                     0.03123486323979068,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Erros evidentes de datilografia ou de c\u00e1lculo existentes na senten\u00e7a somente poder\u00e3o ser corrigidos a requerimento da parte e antes de iniciada a execu\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Uni\u00e3o n\u00e3o ser\u00e1 intimada das decis\u00f5es homologat\u00f3rias de acordos que contenham parcela indenizat\u00f3ria, cabendo sempre a execu\u00e7\u00e3o de of\u00edcio.",
                 "pmi": [
                     0.05192652191125553,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Uni\u00e3o n\u00e3o ser\u00e1 intimada das decis\u00f5es homologat\u00f3rias de acordos que contenham parcela indenizat\u00f3ria, cabendo sempre a execu\u00e7\u00e3o de of\u00edcio."
+                ]
             }
         ],
         "valid": true

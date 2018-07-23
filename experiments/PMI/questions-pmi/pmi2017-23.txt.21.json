@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Para que possa solicitar ref\u00fagio, o indiv\u00edduo deve ter ingressado no Brasil de maneira regular.",
                 "pmi": [
                     0.012657961396383978,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Para que possa solicitar ref\u00fagio, o indiv\u00edduo deve ter ingressado no Brasil de maneira regular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Compete ao Minist\u00e9rio da Justi\u00e7a declarar o reconhecimento, em primeira inst\u00e2ncia, da condi\u00e7\u00e3o de refugiado.",
                 "pmi": [
                     0.08434169542866606,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Compete ao Minist\u00e9rio da Justi\u00e7a declarar o reconhecimento, em primeira inst\u00e2ncia, da condi\u00e7\u00e3o de refugiado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O refugiado poder\u00e1 exercer atividade remunerada no Brasil, ainda que pendente o processo de ref\u00fagio.",
                 "pmi": [
                     0.050544083001917865,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O refugiado poder\u00e1 exercer atividade remunerada no Brasil, ainda que pendente o processo de ref\u00fagio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Na hip\u00f3tese de decis\u00e3o negativa no curso do processo de ref\u00fagio, \u00e9 cab\u00edvel a interposi\u00e7\u00e3o de recurso pelo refugiado perante o Supremo Tribunal Federal.",
                 "pmi": [
                     -0.014253887500558208,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na hip\u00f3tese de decis\u00e3o negativa no curso do processo de ref\u00fagio, \u00e9 cab\u00edvel a interposi\u00e7\u00e3o de recurso pelo refugiado perante o Supremo Tribunal Federal."
+                ]
             }
         ],
         "valid": true

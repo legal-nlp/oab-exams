@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A prefeita exerce fun\u00e7\u00e3o incompat\u00edvel com a advocacia.",
                 "pmi": [
                     0.02290020954598858,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prefeita exerce fun\u00e7\u00e3o incompat\u00edvel com a advocacia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O secret\u00e1rio municipal pode atuar em a\u00e7\u00f5es contra o munic\u00edpio.",
                 "pmi": [
                     0.025273135015722537,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O secret\u00e1rio municipal pode atuar em a\u00e7\u00f5es contra o munic\u00edpio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A prefeita deve pedir autoriza\u00e7\u00e3o para exercer a advocacia.",
                 "pmi": [
                     0.008971447367783108,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A prefeita deve pedir autoriza\u00e7\u00e3o para exercer a advocacia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O secret\u00e1rio municipal pode atuar em pleitos contra o Estado federado.",
                 "pmi": [
                     0.0069453237005396755,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O secret\u00e1rio municipal pode atuar em pleitos contra o Estado federado."
+                ]
             }
         ],
         "valid": true

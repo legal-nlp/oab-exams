@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O diploma \u00e9 essencial para a inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados.",
                 "pmi": [
                     0.08735368578693169,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O diploma \u00e9 essencial para a inscri\u00e7\u00e3o nos quadros da Ordem dos Advogados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O bacharel, diante do impedimento de apresentar o diploma, deve apresentar declara\u00e7\u00e3o de autoridade certificando a conclus\u00e3o do curso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O bacharel, diante do impedimento de apresentar o diploma, deve apresentar declara\u00e7\u00e3o de autoridade certificando a conclus\u00e3o do curso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A Ordem, diante do movimento grevista comprovado, poder\u00e1 acolher declara\u00e7\u00e3o de pr\u00f3prio punho do requerente afirmando ter obtido grau.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Ordem, diante do movimento grevista comprovado, poder\u00e1 acolher declara\u00e7\u00e3o de pr\u00f3prio punho do requerente afirmando ter obtido grau."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O bacharel em Direito deve apresentar certid\u00e3o de conclus\u00e3o de curso e hist\u00f3rico escolar autenticado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O bacharel em Direito deve apresentar certid\u00e3o de conclus\u00e3o de curso e hist\u00f3rico escolar autenticado."
+                ]
             }
         ],
         "valid": true

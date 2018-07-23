@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 realizar o cancelamento do protesto por faltar no documento apresentado a anu\u00eancia do endossat\u00e1rio mandat\u00e1rio.",
                 "pmi": [
                     0.01136336584353219,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 realizar o cancelamento do protesto por faltar no documento apresentado a anu\u00eancia do endossat\u00e1rio mandat\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o poder\u00e1 realizar o cancelamento do protesto, porque esse ato \u00e9 privativo do juiz, diferentemente da susta\u00e7\u00e3o do protesto.",
                 "pmi": [
                     -0.0011131207016427463,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 realizar o cancelamento do protesto, porque esse ato \u00e9 privativo do juiz, diferentemente da susta\u00e7\u00e3o do protesto."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "poder\u00e1 realizar o cancelamento do protesto, porque \u00e9 suficiente a declara\u00e7\u00e3o de anu\u00eancia firmada pelo endossante-mandante.",
                 "pmi": [
                     0.010998976368256117,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 realizar o cancelamento do protesto, porque \u00e9 suficiente a declara\u00e7\u00e3o de anu\u00eancia firmada pelo endossante-mandante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 realizar o cancelamento do protesto, porque o pedido foi feito no prazo legal (30 dias) e pelo aceitante, obrigado principal.",
                 "pmi": [
                     -0.011372601847758833,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 realizar o cancelamento do protesto, porque o pedido foi feito no prazo legal (30 dias) e pelo aceitante, obrigado principal."
+                ]
             }
         ],
         "valid": true

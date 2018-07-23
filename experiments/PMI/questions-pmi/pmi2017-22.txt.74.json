@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O FGTS deveria ser depositado na ordem de 8% e n\u00e3o poderia ser descontado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O FGTS deveria ser depositado na ordem de 8% e n\u00e3o poderia ser descontado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A empresa, por se tratar de aprendiz, somente poderia descontar metade do FGTS depositado.",
                 "pmi": [
                     0.026526130290294433,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa, por se tratar de aprendiz, somente poderia descontar metade do FGTS depositado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A empresa est\u00e1 equivocada em rela\u00e7\u00e3o ao desconto, pois o FGTS \u00e9 obriga\u00e7\u00e3o do empregador.",
                 "pmi": [
                     0.035368173720392575,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa est\u00e1 equivocada em rela\u00e7\u00e3o ao desconto, pois o FGTS \u00e9 obriga\u00e7\u00e3o do empregador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A conduta da empresa \u00e9 regular, tanto em rela\u00e7\u00e3o ao percentual quanto ao desconto.",
                 "pmi": [
                     0.04244180846447109,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A conduta da empresa \u00e9 regular, tanto em rela\u00e7\u00e3o ao percentual quanto ao desconto."
+                ]
             }
         ],
         "valid": true

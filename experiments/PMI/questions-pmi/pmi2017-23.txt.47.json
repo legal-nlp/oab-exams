@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A corretora n\u00e3o faz jus ao pagamento da comiss\u00e3o, porque o contrato de corretagem foi celebrado por prazo determinado.",
                 "pmi": [
                     0.03166872119838759,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A corretora n\u00e3o faz jus ao pagamento da comiss\u00e3o, porque o contrato de corretagem foi celebrado por prazo determinado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A corretora faz jus ao pagamento da comiss\u00e3o, porque a corretagem foi ajustada com exclusividade, ainda que verbalmente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A corretora faz jus ao pagamento da comiss\u00e3o, porque a corretagem foi ajustada com exclusividade, ainda que verbalmente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A corretora n\u00e3o faz jus ao pagamento da comiss\u00e3o, porque o neg\u00f3cio foi iniciado e conclu\u00eddo diretamente entre as partes, sem a sua media\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A corretora n\u00e3o faz jus ao pagamento da comiss\u00e3o, porque o neg\u00f3cio foi iniciado e conclu\u00eddo diretamente entre as partes, sem a sua media\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A corretora faz jus ao pagamento da comiss\u00e3o, porque envidou todos os esfor\u00e7os para o \u00eaxito da media\u00e7\u00e3o, que n\u00e3o se concluiu por causa alheia \u00e0 sua vontade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A corretora faz jus ao pagamento da comiss\u00e3o, porque envidou todos os esfor\u00e7os para o \u00eaxito da media\u00e7\u00e3o, que n\u00e3o se concluiu por causa alheia \u00e0 sua vontade."
+                ]
             }
         ],
         "valid": true

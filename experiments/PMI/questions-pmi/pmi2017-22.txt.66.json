@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O processo deve ser extinto sem julgamento do m\u00e9rito, pois a representa\u00e7\u00e3o do ofendido necessariamente deve ser expressa e formal.",
                 "pmi": [
                     0.007704450832714139,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O processo deve ser extinto sem julgamento do m\u00e9rito, pois a representa\u00e7\u00e3o do ofendido necessariamente deve ser expressa e formal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "N\u00e3o existe prova da materialidade, pois, quando a infra\u00e7\u00e3o penal deixa vest\u00edgios, o exame de corpo de delito \u00e9 indispens\u00e1vel, n\u00e3o podendo supri-lo a confiss\u00e3o do acusado.",
                 "pmi": [
                     0.01570329562799233,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o existe prova da materialidade, pois, quando a infra\u00e7\u00e3o penal deixa vest\u00edgios, o exame de corpo de delito \u00e9 indispens\u00e1vel, n\u00e3o podendo supri-lo a confiss\u00e3o do acusado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o existe prova da materialidade, pois o C\u00f3digo de Processo Penal apenas admite o exame de corpo de delito direto.",
                 "pmi": [
                     0.022841157277079752,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o existe prova da materialidade, pois o C\u00f3digo de Processo Penal apenas admite o exame de corpo de delito direto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Existe prova da materialidade, pois o C\u00f3digo de Processo Penal admite a figura do exame de corpo de delito indireto e este ocorreu no caso concreto.",
                 "pmi": [
                     0.01675018200319182,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Existe prova da materialidade, pois o C\u00f3digo de Processo Penal admite a figura do exame de corpo de delito indireto e este ocorreu no caso concreto."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A execu\u00e7\u00e3o da senten\u00e7a penal condenat\u00f3ria no ju\u00edzo c\u00edvel \u00e9 ato personal\u00edssimo do ofendido e n\u00e3o se estende aos seus herdeiros.",
                 "pmi": [
                     0.12784175251068325,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A execu\u00e7\u00e3o da senten\u00e7a penal condenat\u00f3ria no ju\u00edzo c\u00edvel \u00e9 ato personal\u00edssimo do ofendido e n\u00e3o se estende aos seus herdeiros."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Ao proferir senten\u00e7a penal condenat\u00f3ria, o juiz fixar\u00e1 valor m\u00ednimo para a repara\u00e7\u00e3o dos danos causados pela infra\u00e7\u00e3o, considerando os preju\u00edzos sofridos pelo ofendido, sem preju\u00edzo da liquida\u00e7\u00e3o para apura\u00e7\u00e3o do dano efetivamente sofrido.",
                 "pmi": [
                     0.20552039100739958,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao proferir senten\u00e7a penal condenat\u00f3ria, o juiz fixar\u00e1 valor m\u00ednimo para a repara\u00e7\u00e3o dos danos causados pela infra\u00e7\u00e3o, considerando os preju\u00edzos sofridos pelo ofendido, sem preju\u00edzo da liquida\u00e7\u00e3o para apura\u00e7\u00e3o do dano efetivamente sofrido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Segundo o CPP, a senten\u00e7a absolut\u00f3ria no ju\u00edzo criminal impede a propositura da a\u00e7\u00e3o civil para repara\u00e7\u00e3o de eventuais danos resultantes do fato, uma vez que seria contradit\u00f3rio absolver o agente na esfera criminal e process\u00e1-lo no \u00e2mbito c\u00edvel.",
                 "pmi": [
                     0.1460841916076287,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Segundo o CPP, a senten\u00e7a absolut\u00f3ria no ju\u00edzo criminal impede a propositura da a\u00e7\u00e3o civil para repara\u00e7\u00e3o de eventuais danos resultantes do fato, uma vez que seria contradit\u00f3rio absolver o agente na esfera criminal e process\u00e1-lo no \u00e2mbito c\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O despacho de arquivamento do inqu\u00e9rito policial e a decis\u00e3o que julga extinta a punibilidade s\u00e3o causas impeditivas da propositura da a\u00e7\u00e3o civil.",
                 "pmi": [
                     -0.055313908996909064,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O despacho de arquivamento do inqu\u00e9rito policial e a decis\u00e3o que julga extinta a punibilidade s\u00e3o causas impeditivas da propositura da a\u00e7\u00e3o civil."
+                ]
             }
         ],
         "valid": true

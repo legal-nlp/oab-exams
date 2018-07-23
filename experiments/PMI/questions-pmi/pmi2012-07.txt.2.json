@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Censura, com possibilidade de convers\u00e3o em advert\u00eancia, caso o advogado infrator preste contas ao seu cliente antes do fim do processo disciplinar instaurado na OAB.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Censura, com possibilidade de convers\u00e3o em advert\u00eancia, caso o advogado infrator preste contas ao seu cliente antes do fim do processo disciplinar instaurado na OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Suspens\u00e3o pelo prazo de 30 (trinta) dias a 12 (doze) meses, perdurando a suspens\u00e3o at\u00e9 que o advogado satisfa\u00e7a integralmente a d\u00edvida.",
                 "pmi": [
                     0.016458618668970172,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Suspens\u00e3o pelo prazo de 30 (trinta) dias a 12 (doze) meses, perdurando a suspens\u00e3o at\u00e9 que o advogado satisfa\u00e7a integralmente a d\u00edvida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Suspens\u00e3o pelo prazo m\u00e1ximo de 30 (trinta) dias.",
                 "pmi": [
                     0.039500684805528416,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Suspens\u00e3o pelo prazo m\u00e1ximo de 30 (trinta) dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Exclus\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Exclus\u00e3o."
+                ]
             }
         ],
         "valid": true

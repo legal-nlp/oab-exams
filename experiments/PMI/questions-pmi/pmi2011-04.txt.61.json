@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "na senten\u00e7a do crime de furto, T\u00edcio \u00e9 considerado portador de maus antecedentes e, na senten\u00e7a do crime de roubo, \u00e9 considerado reincidente.",
                 "pmi": [
                     0.0004770242932921233,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "na senten\u00e7a do crime de furto, T\u00edcio \u00e9 considerado portador de maus antecedentes e, na senten\u00e7a do crime de roubo, \u00e9 considerado reincidente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "na senten\u00e7a do crime de extors\u00e3o, T\u00edcio possui maus antecedentes em rela\u00e7\u00e3o ao crime de roubo e \u00e9 reincidente em rela\u00e7\u00e3o ao crime de furto.",
                 "pmi": [
                     0.005189778484113613,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "na senten\u00e7a do crime de extors\u00e3o, T\u00edcio possui maus antecedentes em rela\u00e7\u00e3o ao crime de roubo e \u00e9 reincidente em rela\u00e7\u00e3o ao crime de furto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "cinco anos ap\u00f3s o tr\u00e2nsito em julgado definitivo da \u00faltima condena\u00e7\u00e3o, T\u00edcio ser\u00e1 considerado prim\u00e1rio, mas os maus antecedentes persistem.",
                 "pmi": [
                     0.011945290130418165,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cinco anos ap\u00f3s o tr\u00e2nsito em julgado definitivo da \u00faltima condena\u00e7\u00e3o, T\u00edcio ser\u00e1 considerado prim\u00e1rio, mas os maus antecedentes persistem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "nosso ordenamento jur\u00eddico-penal prev\u00ea como tempo m\u00e1ximo para configura\u00e7\u00e3o dos maus antecedentes o prazo de cinco anos a contar do cumprimento ou extin\u00e7\u00e3o da pena e eventual infra\u00e7\u00e3o posterior.",
                 "pmi": [
                     0.003491124382333933,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "nosso ordenamento jur\u00eddico-penal prev\u00ea como tempo m\u00e1ximo para configura\u00e7\u00e3o dos maus antecedentes o prazo de cinco anos a contar do cumprimento ou extin\u00e7\u00e3o da pena e eventual infra\u00e7\u00e3o posterior."
+                ]
             }
         ],
         "valid": true

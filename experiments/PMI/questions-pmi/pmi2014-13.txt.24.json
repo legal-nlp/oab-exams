@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00c9 pass\u00edvel de extradi\u00e7\u00e3o o estrangeiro que, de qualquer forma, atentar contra a seguran\u00e7a nacional, a ordem p\u00fablica ou social, a tranquilidade ou a moralidade p\u00fablica e a economia popular, ou cujo procedimento o torne nocivo \u00e0 conveni\u00eancia e aos interesses nacionais.",
                 "pmi": [
                     0.06371049596713581,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 pass\u00edvel de extradi\u00e7\u00e3o o estrangeiro que, de qualquer forma, atentar contra a seguran\u00e7a nacional, a ordem p\u00fablica ou social, a tranquilidade ou a moralidade p\u00fablica e a economia popular, ou cujo procedimento o torne nocivo \u00e0 conveni\u00eancia e aos interesses nacionais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 pass\u00edvel de extradi\u00e7\u00e3o o estrangeiro que praticar fraude a fim de obter a sua entrada ou perman\u00eancia no Brasil.",
                 "pmi": [
                     0.14157887992696847,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 pass\u00edvel de extradi\u00e7\u00e3o o estrangeiro que praticar fraude a fim de obter a sua entrada ou perman\u00eancia no Brasil."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Caber\u00e1 exclusivamente ao Presidente da Rep\u00fablica resolver sobre a conveni\u00eancia e a oportunidade de expuls\u00e3o do estrangeiro ou de sua revoga\u00e7\u00e3o.",
                 "pmi": [
                     0.3048419838685432,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caber\u00e1 exclusivamente ao Presidente da Rep\u00fablica resolver sobre a conveni\u00eancia e a oportunidade de expuls\u00e3o do estrangeiro ou de sua revoga\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A expuls\u00e3o do estrangeiro n\u00e3o poder\u00e1 efetivar-se se houver processo ou ocorrido condena\u00e7\u00e3o.",
                 "pmi": [
                     0.5080699731142387,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A expuls\u00e3o do estrangeiro n\u00e3o poder\u00e1 efetivar-se se houver processo ou ocorrido condena\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

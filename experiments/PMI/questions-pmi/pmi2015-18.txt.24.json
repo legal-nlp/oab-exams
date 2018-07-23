@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o ser\u00e1 necess\u00e1rio obter exequatur em fun\u00e7\u00e3o do tratado multilateral ratificado por ambos os pa\u00edses.",
                 "pmi": [
                     0.10048893322457292,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o ser\u00e1 necess\u00e1rio obter exequatur em fun\u00e7\u00e3o do tratado multilateral ratificado por ambos os pa\u00edses."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O STJ dever\u00e1 conceder o exequatur, cabendo \u00e0 justi\u00e7a estadual cumprir a ordem de cita\u00e7\u00e3o.",
                 "pmi": [
                     0.0607260320873708,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O STJ dever\u00e1 conceder o exequatur, cabendo \u00e0 justi\u00e7a estadual cumprir a ordem de cita\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A concess\u00e3o de exequatur caber\u00e1 ao STJ e seu posterior cumprimento \u00e0 justi\u00e7a federal.",
                 "pmi": [
                     0.06831678609829216,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A concess\u00e3o de exequatur caber\u00e1 ao STJ e seu posterior cumprimento \u00e0 justi\u00e7a federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A concess\u00e3o de exequatur e seu posterior cumprimento caber\u00e3o \u00e0 autoridade central indicada na Conven\u00e7\u00e3o Interamericana sobre Cartas Rogat\u00f3rias.",
                 "pmi": [
                     0.09930846101530738,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A concess\u00e3o de exequatur e seu posterior cumprimento caber\u00e3o \u00e0 autoridade central indicada na Conven\u00e7\u00e3o Interamericana sobre Cartas Rogat\u00f3rias."
+                ]
             }
         ],
         "valid": true

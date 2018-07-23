@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "express\u00e3o cultural e art\u00edstica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "express\u00e3o cultural e art\u00edstica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "educa\u00e7\u00e3o em escolas pr\u00f3prias.",
                 "pmi": [
                     0.0726580504254912,
                     0.0,
                     0,
                     0
-                ],
-                "text": "educa\u00e7\u00e3o em escolas pr\u00f3prias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "pr\u00e1tica religiosa e lit\u00fargica conforme suas tradi\u00e7\u00f5es.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pr\u00e1tica religiosa e lit\u00fargica conforme suas tradi\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "propriedade definitiva das terras que estejam ocupando.",
                 "pmi": [
                     0.008365063832522673,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "propriedade definitiva das terras que estejam ocupando."
+                ]
             }
         ],
         "valid": true

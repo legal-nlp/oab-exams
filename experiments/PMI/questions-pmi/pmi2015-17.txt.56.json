@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Constituem-se em a\u00e7\u00e3o aut\u00f4noma, raz\u00e3o pela qual ser\u00e3o autuados e distribu\u00eddos livremente, em homenagem ao princ\u00edpio do juiz natural.",
                 "pmi": [
                     0.014978273674726178,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Constituem-se em a\u00e7\u00e3o aut\u00f4noma, raz\u00e3o pela qual ser\u00e3o autuados e distribu\u00eddos livremente, em homenagem ao princ\u00edpio do juiz natural."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "S\u00e3o cab\u00edveis tanto nas execu\u00e7\u00f5es aut\u00f4nomas quanto no cumprimento de senten\u00e7a.",
                 "pmi": [
                     0.18723807891490218,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "S\u00e3o cab\u00edveis tanto nas execu\u00e7\u00f5es aut\u00f4nomas quanto no cumprimento de senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Em regra, suspendem a execu\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Em regra, suspendem a execu\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Seu oferecimento independe de efetiva\u00e7\u00e3o da penhora, dep\u00f3sito ou cau\u00e7\u00e3o.",
                 "pmi": [
                     0.03662755827379891,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seu oferecimento independe de efetiva\u00e7\u00e3o da penhora, dep\u00f3sito ou cau\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e9 uma \u00f3tima ideia e vai peticionar para que o caso seja submetido \u00e0 decis\u00e3o da Corte, bem como tomar todas as provid\u00eancias para que o caso seja julgado o mais cedo poss\u00edvel.",
                 "pmi": [
                     0.014536423588512554,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 uma \u00f3tima ideia e vai peticionar para que o caso seja submetido \u00e0 decis\u00e3o da Corte, bem como tomar todas as provid\u00eancias para que o caso seja julgado o mais cedo poss\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "apesar de ser uma boa ideia, \u00e9 necess\u00e1rio aguardar que hajam sido interpostos e esgotados os recursos de jurisdi\u00e7\u00e3o interna para que a fam\u00edlia possa submeter o caso \u00e0 decis\u00e3o da Corte.",
                 "pmi": [
                     0.020311847769714494,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apesar de ser uma boa ideia, \u00e9 necess\u00e1rio aguardar que hajam sido interpostos e esgotados os recursos de jurisdi\u00e7\u00e3o interna para que a fam\u00edlia possa submeter o caso \u00e0 decis\u00e3o da Corte."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "n\u00e3o \u00e9 poss\u00edvel a fam\u00edlia encaminhar o caso \u00e0 Corte, pois somente os Estados Partes da Conven\u00e7\u00e3o Americana de Direitos Humanos e a Comiss\u00e3o Interamericana de Direitos Humanos t\u00eam direito de submeter um caso \u00e0 decis\u00e3o da Corte.",
                 "pmi": [
                     0.10987543078920543,
                     0.03857800980918634,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 poss\u00edvel a fam\u00edlia encaminhar o caso \u00e0 Corte, pois somente os Estados Partes da Conven\u00e7\u00e3o Americana de Direitos Humanos e a Comiss\u00e3o Interamericana de Direitos Humanos t\u00eam direito de submeter um caso \u00e0 decis\u00e3o da Corte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o \u00e9 poss\u00edvel que o caso seja encaminhado para decis\u00e3o da Corte porque, embora o Brasil seja signat\u00e1rio da Conven\u00e7\u00e3o Americana dos Direitos Humanos, o pa\u00eds n\u00e3o reconheceu a jurisdi\u00e7\u00e3o da Corte.",
                 "pmi": [
                     0.10349593834938015,
                     0.026707852944821312,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 poss\u00edvel que o caso seja encaminhado para decis\u00e3o da Corte porque, embora o Brasil seja signat\u00e1rio da Conven\u00e7\u00e3o Americana dos Direitos Humanos, o pa\u00eds n\u00e3o reconheceu a jurisdi\u00e7\u00e3o da Corte."
+                ]
             }
         ],
         "valid": true

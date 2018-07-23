@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00c9 nulo, pois \u00e9 hip\u00f3tese de doa\u00e7\u00e3o de c\u00f4njuge ad\u00faltero ao seu c\u00famplice.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 nulo, pois \u00e9 hip\u00f3tese de doa\u00e7\u00e3o de c\u00f4njuge ad\u00faltero ao seu c\u00famplice."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Poder\u00e1 ser anulado, desde que Maria pleiteie a anula\u00e7\u00e3o at\u00e9 dois anos depois da assinatura do contrato.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e1 ser anulado, desde que Maria pleiteie a anula\u00e7\u00e3o at\u00e9 dois anos depois da assinatura do contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 plenamente v\u00e1lido, por\u00e9m Jo\u00e3o dever\u00e1 pagar perdas e danos \u00e0 Maria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 plenamente v\u00e1lido, por\u00e9m Jo\u00e3o dever\u00e1 pagar perdas e danos \u00e0 Maria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00c9 plenamente v\u00e1lido, pois Jo\u00e3o e Maria j\u00e1 estavam separados de fato no momento da doa\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 plenamente v\u00e1lido, pois Jo\u00e3o e Maria j\u00e1 estavam separados de fato no momento da doa\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

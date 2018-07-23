@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao valor de R$ 800,00 (oitocentos reais), o que importa na necessidade de refazimento do termo de quita\u00e7\u00e3o, para o ajuste.",
                 "pmi": [
                     -0.05623285497946905,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao valor de R$ 800,00 (oitocentos reais), o que importa na necessidade de refazimento do termo de quita\u00e7\u00e3o, para o ajuste."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao equivalente a 50% (cinquenta por cento) de um m\u00eas de remunera\u00e7\u00e3o do empregado, devendo o termo ser refeito para o ajuste.",
                 "pmi": [
                     0.002872229128887297,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sindicato agiu corretamente. A compensa\u00e7\u00e3o n\u00e3o pode ser feita no valor fixado, devendo se limitar ao equivalente a 50% (cinquenta por cento) de um m\u00eas de remunera\u00e7\u00e3o do empregado, devendo o termo ser refeito para o ajuste."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita no valor fixado.",
                 "pmi": [
                     0.005801035366052122,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita no valor fixado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita em qualquer valor, inexistindo limite legalmente fixado.",
                 "pmi": [
                     -0.0057816027970670515,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sindicato agiu incorretamente.  A compensa\u00e7\u00e3o pode ser feita em qualquer valor, inexistindo limite legalmente fixado."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es de ensino que n\u00e3o sejam superavit\u00e1rias.",
                 "pmi": [
                     0.02736117624979205,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es de ensino que n\u00e3o sejam superavit\u00e1rias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es p\u00fablicas de ensino.",
                 "pmi": [
                     0.05092866782487763,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O fisco agiu corretamente, pois a imunidade tribut\u00e1ria apenas alcan\u00e7a institui\u00e7\u00f5es p\u00fablicas de ensino."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O fisco n\u00e3o agiu corretamente, pois n\u00e3o h\u00e1 impedimento \u00e0 distribui\u00e7\u00e3o de lucro pelo estabelecimento de ensino imune.",
                 "pmi": [
                     0.01995805955280384,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O fisco n\u00e3o agiu corretamente, pois n\u00e3o h\u00e1 impedimento \u00e0 distribui\u00e7\u00e3o de lucro pelo estabelecimento de ensino imune."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O fisco n\u00e3o agiu corretamente, pois, para que seja concedida tal imunidade, a institui\u00e7\u00e3o n\u00e3o precisa ser deficit\u00e1ria, desde que o super\u00e1vit seja revertido para suas finalidades.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O fisco n\u00e3o agiu corretamente, pois, para que seja concedida tal imunidade, a institui\u00e7\u00e3o n\u00e3o precisa ser deficit\u00e1ria, desde que o super\u00e1vit seja revertido para suas finalidades."
+                ]
             }
         ],
         "valid": true

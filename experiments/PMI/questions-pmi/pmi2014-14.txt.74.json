@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Germano, que \u00e9 empregado horista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Germano, que \u00e9 empregado horista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Gabriela, que \u00e9 empregada diarista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Gabriela, que \u00e9 empregada diarista."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Robson, que \u00e9 empregado mensalista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Robson, que \u00e9 empregado mensalista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Diego, que \u00e9 empregado comissionista puro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Diego, que \u00e9 empregado comissionista puro."
+                ]
             }
         ],
         "valid": true

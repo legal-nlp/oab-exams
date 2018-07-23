@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "extinguir o feito sem julgamento de m\u00e9rito, em face da cl\u00e1usula arbitral.",
                 "pmi": [
                     0.013960054598557653,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "extinguir o feito sem julgamento de m\u00e9rito, em face da cl\u00e1usula arbitral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "deferir o pedido, na forma requerida.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deferir o pedido, na forma requerida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "indeferir o pedido porque o local do cumprimento do contrato \u00e9 nos Estados Unidos.",
                 "pmi": [
                     0.03093814677398829,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "indeferir o pedido porque o local do cumprimento do contrato \u00e9 nos Estados Unidos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "deferir o pedido, em raz\u00e3o da compet\u00eancia concorrente da justi\u00e7a brasileira.",
                 "pmi": [
                     0.004785631640301787,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deferir o pedido, em raz\u00e3o da compet\u00eancia concorrente da justi\u00e7a brasileira."
+                ]
             }
         ],
         "valid": true

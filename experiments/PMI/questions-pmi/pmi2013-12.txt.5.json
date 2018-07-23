@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Falecendo o advogado s\u00f3cio, determina-se a sua exclus\u00e3o dos registros da sociedade incluindo a raz\u00e3o social do escrit\u00f3rio.",
                 "pmi": [
                     0.027587758301566578,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Falecendo o advogado s\u00f3cio, determina-se a sua exclus\u00e3o dos registros da sociedade incluindo a raz\u00e3o social do escrit\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Permite-se a manuten\u00e7\u00e3o do s\u00f3cio-fundador nos registros do escrit\u00f3rio, mediante autoriza\u00e7\u00e3o especial do plen\u00e1rio da Seccional.",
                 "pmi": [
                     0.011918536500099079,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Permite-se a manuten\u00e7\u00e3o do s\u00f3cio-fundador nos registros do escrit\u00f3rio, mediante autoriza\u00e7\u00e3o especial do plen\u00e1rio da Seccional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Havendo previs\u00e3o no ato constitutivo da sociedade de advogados, pode permanecer o nome do s\u00f3cio falecido na raz\u00e3o social.",
                 "pmi": [
                     0.028343611344945834,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Havendo previs\u00e3o no ato constitutivo da sociedade de advogados, pode permanecer o nome do s\u00f3cio falecido na raz\u00e3o social."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Existindo acordo entre o escrit\u00f3rio de advocacia, os clientes e a Seccional da Ordem dos Advogados do Brasil, \u00e9 permitida a manuten\u00e7\u00e3o do nome do s\u00f3cio falecido.",
                 "pmi": [
                     0.051359995214467005,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Existindo acordo entre o escrit\u00f3rio de advocacia, os clientes e a Seccional da Ordem dos Advogados do Brasil, \u00e9 permitida a manuten\u00e7\u00e3o do nome do s\u00f3cio falecido."
+                ]
             }
         ],
         "valid": true

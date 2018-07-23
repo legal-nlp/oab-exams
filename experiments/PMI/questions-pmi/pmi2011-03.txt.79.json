@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Seria obrigat\u00f3ria a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho como fiscal da lei nesse processo.",
                 "pmi": [
                     0.014946589572271267,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seria obrigat\u00f3ria a interven\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho como fiscal da lei nesse processo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O ajuizamento dessa a\u00e7\u00e3o civil p\u00fablica visou \u00e0 tutela de interesses ou direitos meramente individuais.",
                 "pmi": [
                     0.02739415359561977,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ajuizamento dessa a\u00e7\u00e3o civil p\u00fablica visou \u00e0 tutela de interesses ou direitos meramente individuais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A senten\u00e7a far\u00e1 coisa julgada \u00e0s partes entre as quais \u00e9 dada (inter partes), n\u00e3o beneficiando nem prejudicando terceiros.",
                 "pmi": [
                     0.04158562859946222,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a far\u00e1 coisa julgada \u00e0s partes entre as quais \u00e9 dada (inter partes), n\u00e3o beneficiando nem prejudicando terceiros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A compet\u00eancia funcional para julgamento dessa a\u00e7\u00e3o civil p\u00fablica \u00e9 do Tribunal Regional do Trabalho que tenha jurisdi\u00e7\u00e3o no local onde se situa a sede da empresa.",
                 "pmi": [
                     0.022572991705986683,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A compet\u00eancia funcional para julgamento dessa a\u00e7\u00e3o civil p\u00fablica \u00e9 do Tribunal Regional do Trabalho que tenha jurisdi\u00e7\u00e3o no local onde se situa a sede da empresa."
+                ]
             }
         ],
         "valid": true

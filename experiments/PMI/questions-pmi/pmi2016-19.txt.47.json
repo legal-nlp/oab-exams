@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Trata-se de responsabilidade civil solid\u00e1ria, podendo Maria acionar tanto o comerciante quanto os produtores.",
                 "pmi": [
                     0.009856340442435616,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de responsabilidade civil solid\u00e1ria, podendo Maria acionar tanto o comerciante quanto os produtores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trata-se de responsabilidade civil subsidi\u00e1ria, pois o comerciante s\u00f3 responde se os demais fornecedores n\u00e3o forem identificados.",
                 "pmi": [
                     0.011088382997740068,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de responsabilidade civil subsidi\u00e1ria, pois o comerciante s\u00f3 responde se os demais fornecedores n\u00e3o forem identificados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Trata-se de responsabilidade civil exclusiva do comerciante, na qualidade de fornecedor imediato.",
                 "pmi": [
                     0.011088382997740068,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de responsabilidade civil exclusiva do comerciante, na qualidade de fornecedor imediato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Trata-se de responsabilidade civil objetiva, motivo pelo qual inexistem excludentes de responsabilidade.",
                 "pmi": [
                     0.022176765995480137,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de responsabilidade civil objetiva, motivo pelo qual inexistem excludentes de responsabilidade."
+                ]
             }
         ],
         "valid": true

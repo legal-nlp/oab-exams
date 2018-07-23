@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os benef\u00edcios da justi\u00e7a gratuita s\u00f3 podem ser concedidos aos reclamantes.",
                 "pmi": [
                     0.038268762172827306,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os benef\u00edcios da justi\u00e7a gratuita s\u00f3 podem ser concedidos aos reclamantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A simples alega\u00e7\u00e3o de dificuldades financeiras \u00e9 suficiente para a concess\u00e3o do referido benef\u00edcio.",
                 "pmi": [
                     0.01975769558061457,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A simples alega\u00e7\u00e3o de dificuldades financeiras \u00e9 suficiente para a concess\u00e3o do referido benef\u00edcio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Para que possa usufruir do benef\u00edcio da justi\u00e7a gratuita, a empresa em quest\u00e3o deve comprovar a sua condi\u00e7\u00e3o de miserabilidade.",
                 "pmi": [
                     0.1098679492065944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Para que possa usufruir do benef\u00edcio da justi\u00e7a gratuita, a empresa em quest\u00e3o deve comprovar a sua condi\u00e7\u00e3o de miserabilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pessoas jur\u00eddicas n\u00e3o fazem jus aos benef\u00edcios da justi\u00e7a gratuita no processo do trabalho, podendo apenas requerer o pagamento das custas ao final do processo.",
                 "pmi": [
                     0.0903624870266531,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pessoas jur\u00eddicas n\u00e3o fazem jus aos benef\u00edcios da justi\u00e7a gratuita no processo do trabalho, podendo apenas requerer o pagamento das custas ao final do processo."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "nem o decreto nem a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria.",
                 "pmi": [
                     0.03073934599234796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "nem o decreto nem a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o decreto insere-se no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; a lei, n\u00e3o.",
                 "pmi": [
                     0.03073934599234796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o decreto insere-se no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; a lei, n\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "tanto o decreto quanto a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria.",
                 "pmi": [
                     0.03073934599234796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "tanto o decreto quanto a lei se inserem no conceito de legisla\u00e7\u00e3o tribut\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a lei se insere no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; o decreto, n\u00e3o.",
                 "pmi": [
                     0.03073934599234796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a lei se insere no conceito de legisla\u00e7\u00e3o tribut\u00e1ria; o decreto, n\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Apela\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Apela\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Agravo de Peti\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Agravo de Peti\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Recurso de Revista.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Recurso de Revista."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Recurso Ordin\u00e1rio.",
                 "pmi": [
                     0.08434576295675027,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Recurso Ordin\u00e1rio."
+                ]
             }
         ],
         "valid": true

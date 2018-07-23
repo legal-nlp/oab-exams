@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "privada propriamente dita.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "privada propriamente dita."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o.",
                 "pmi": [
                     0.03316005641156363,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "privada subsidi\u00e1ria da p\u00fablica.",
                 "pmi": [
                     0.04980743759253823,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "privada subsidi\u00e1ria da p\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "p\u00fablica incondicionada.",
                 "pmi": [
                     0.04974008461734544,
                     0.0,
                     0,
                     0
-                ],
-                "text": "p\u00fablica incondicionada."
+                ]
             }
         ],
         "valid": true

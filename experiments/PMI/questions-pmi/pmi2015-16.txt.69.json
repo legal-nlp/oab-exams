@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "recurso em sentido estrito, no prazo de 05 dias.",
                 "pmi": [
                     0.03069096517144001,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso em sentido estrito, no prazo de 05 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "apela\u00e7\u00e3o, no prazo de 05 dias.",
                 "pmi": [
                     0.0005566515995539062,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apela\u00e7\u00e3o, no prazo de 05 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "recurso em sentido estrito, no prazo de 02 dias.",
                 "pmi": [
                     0.03069096517144001,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "recurso em sentido estrito, no prazo de 02 dias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "apela\u00e7\u00e3o, no prazo de 10 dias.",
                 "pmi": [
                     -0.0002106613866916061,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apela\u00e7\u00e3o, no prazo de 10 dias."
+                ]
             }
         ],
         "valid": true

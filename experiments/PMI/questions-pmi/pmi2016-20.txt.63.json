@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o crime em tese praticado ostenta a natureza de infra\u00e7\u00e3o de menor potencial ofensivo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o crime em tese praticado ostenta a natureza de infra\u00e7\u00e3o de menor potencial ofensivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a viol\u00eancia dom\u00e9stica de que trata a Lei Maria da Penha abrange qualquer rela\u00e7\u00e3o \u00edntima de afeto, sendo indispens\u00e1vel a coabita\u00e7\u00e3o.",
                 "pmi": [
                     0.014096154462193464,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a viol\u00eancia dom\u00e9stica de que trata a Lei Maria da Penha abrange qualquer rela\u00e7\u00e3o \u00edntima de afeto, sendo indispens\u00e1vel a coabita\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a agress\u00e3o do companheiro contra a companheira, mesmo cessado o relacionamento, mas que ocorra em decorr\u00eancia dele, caracteriza a viol\u00eancia dom\u00e9stica e autoriza a incid\u00eancia da Lei n\u00ba 11.340/06.",
                 "pmi": [
                     0.0037705751386562323,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a agress\u00e3o do companheiro contra a companheira, mesmo cessado o relacionamento, mas que ocorra em decorr\u00eancia dele, caracteriza a viol\u00eancia dom\u00e9stica e autoriza a incid\u00eancia da Lei n\u00ba 11.340/06."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ao contr\u00e1rio da transa\u00e7\u00e3o penal, em tese se mostra poss\u00edvel a suspens\u00e3o condicional do processo na hip\u00f3tese de delito sujeito ao rito da Lei Maria da Penha.",
                 "pmi": [
                     0.022494176679326548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao contr\u00e1rio da transa\u00e7\u00e3o penal, em tese se mostra poss\u00edvel a suspens\u00e3o condicional do processo na hip\u00f3tese de delito sujeito ao rito da Lei Maria da Penha."
+                ]
             }
         ],
         "valid": true

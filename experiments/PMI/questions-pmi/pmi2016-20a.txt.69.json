@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "as testemunhas referidas n\u00e3o devem ser computadas para fins do n\u00famero m\u00e1ximo de testemunhas a serem ouvidas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as testemunhas referidas n\u00e3o devem ser computadas para fins do n\u00famero m\u00e1ximo de testemunhas a serem ouvidas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o C\u00f3digo de Processo Penal n\u00e3o traz n\u00famero m\u00e1ximo de testemunhas de defesa, pois previs\u00e3o em contr\u00e1rio violaria o princ\u00edpio da ampla defesa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o C\u00f3digo de Processo Penal n\u00e3o traz n\u00famero m\u00e1ximo de testemunhas de defesa, pois previs\u00e3o em contr\u00e1rio violaria o princ\u00edpio da ampla defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "as testemunhas referidas n\u00e3o podem prestar compromisso de dizer a verdade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "as testemunhas referidas n\u00e3o podem prestar compromisso de dizer a verdade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o testemunho de Rosa, ao inovar os fatos, deve ser considerado prova il\u00edcita, de modo a ser desentranhado dos autos.",
                 "pmi": [
                     0.008428524294861274,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o testemunho de Rosa, ao inovar os fatos, deve ser considerado prova il\u00edcita, de modo a ser desentranhado dos autos."
+                ]
             }
         ],
         "valid": true

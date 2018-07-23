@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "pode se organizar de forma mercantil, com registro na Junta Comercial.",
                 "pmi": [
                     0.11102211842711618,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pode se organizar de forma mercantil, com registro na Junta Comercial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "est\u00e1 vinculada \u00e0s regras de \u00e9tica e disciplina dos advogados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 vinculada \u00e0s regras de \u00e9tica e disciplina dos advogados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "seus s\u00f3cios est\u00e3o imunes ao controle disciplinar da OAB.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "seus s\u00f3cios est\u00e3o imunes ao controle disciplinar da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "seus componentes podem, isoladamente, representar clientes com interesses conflitantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "seus componentes podem, isoladamente, representar clientes com interesses conflitantes."
+                ]
             }
         ],
         "valid": true

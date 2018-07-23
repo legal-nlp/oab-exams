@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A Conven\u00e7\u00e3o n\u00e3o foi ratificada pelo Brasil e, por isso, suas normas n\u00e3o produzem efeito jur\u00eddico em territ\u00f3rio brasileiro.",
                 "pmi": [
                     0.03589479245301059,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Conven\u00e7\u00e3o n\u00e3o foi ratificada pelo Brasil e, por isso, suas normas n\u00e3o produzem efeito jur\u00eddico em territ\u00f3rio brasileiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A Conven\u00e7\u00e3o foi ratificada pelo Brasil e, por isso, suas normas podem ser juridicamente exigidas.",
                 "pmi": [
                     0.03393614451269723,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Conven\u00e7\u00e3o foi ratificada pelo Brasil e, por isso, suas normas podem ser juridicamente exigidas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A Conven\u00e7\u00e3o foi ratificada pelo Brasil, mas n\u00e3o foi regulamentada.  Por isso, suas normas possuem efeito contido no territ\u00f3rio brasileiro.",
                 "pmi": [
                     0.03230531320770953,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Conven\u00e7\u00e3o foi ratificada pelo Brasil, mas n\u00e3o foi regulamentada.  Por isso, suas normas possuem efeito contido no territ\u00f3rio brasileiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Conven\u00e7\u00e3o n\u00e3o foi ratificada pelo Brasil, mas suas normas produzem pleno efeito jur\u00eddico, uma vez que as normas de Direitos Humanos n\u00e3o dependem de ratifica\u00e7\u00e3o para vigorar em territ\u00f3rio brasileiro.",
                 "pmi": [
                     0.03988039849312297,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Conven\u00e7\u00e3o n\u00e3o foi ratificada pelo Brasil, mas suas normas produzem pleno efeito jur\u00eddico, uma vez que as normas de Direitos Humanos n\u00e3o dependem de ratifica\u00e7\u00e3o para vigorar em territ\u00f3rio brasileiro."
+                ]
             }
         ],
         "valid": true

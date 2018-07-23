@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "prejudicial obrigat\u00f3ria, o que levar\u00e1 \u00e0 suspens\u00e3o do processo criminal e do prazo prescricional.",
                 "pmi": [
                     0.04069421615301206,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prejudicial obrigat\u00f3ria, o que levar\u00e1 \u00e0 suspens\u00e3o do processo criminal e do prazo prescricional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "prejudicial facultativa, podendo o magistrado suspender o processo por, no m\u00e1ximo, 06 meses.",
                 "pmi": [
                     0.04607978320551935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prejudicial facultativa, podendo o magistrado suspender o processo por, no m\u00e1ximo, 06 meses."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "prejudicial obrigat\u00f3ria, o que levar\u00e1 \u00e0 suspens\u00e3o do processo criminal, mas n\u00e3o do curso do prazo prescricional.",
                 "pmi": [
                     0.02965069569482206,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prejudicial obrigat\u00f3ria, o que levar\u00e1 \u00e0 suspens\u00e3o do processo criminal, mas n\u00e3o do curso do prazo prescricional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "prejudicial facultativa, podendo o magistrado suspender o processo por, no m\u00e1ximo, 01 ano.",
                 "pmi": [
                     0.04607978320551935,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "prejudicial facultativa, podendo o magistrado suspender o processo por, no m\u00e1ximo, 01 ano."
+                ]
             }
         ],
         "valid": true

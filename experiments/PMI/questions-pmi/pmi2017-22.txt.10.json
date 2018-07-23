@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Raul participar\u00e1 como membro efetivo da Confer\u00eancia Nacional da Advocacia Brasileira, caso em que ter\u00e1 direito a voto. Os demais, mesmo inscritos na Confer\u00eancia, poder\u00e3o participar apenas como convidados ou ouvintes, sem direito a voto.",
                 "pmi": [
                     0.03395847392154719,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Raul participar\u00e1 como membro efetivo da Confer\u00eancia Nacional da Advocacia Brasileira, caso em que ter\u00e1 direito a voto. Os demais, mesmo inscritos na Confer\u00eancia, poder\u00e3o participar apenas como convidados ou ouvintes, sem direito a voto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Francisco, se inscrito, e Raul participar\u00e3o como membros efetivos da Confer\u00eancia Nacional da Advocacia Brasileira. Por\u00e9m, o direito a voto \u00e9 conferido apenas a Raul. Caetano, ainda que inscrito na confer\u00eancia, somente poder\u00e1 participar como ouvinte.",
                 "pmi": [
                     0.015415974221649047,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco, se inscrito, e Raul participar\u00e3o como membros efetivos da Confer\u00eancia Nacional da Advocacia Brasileira. Por\u00e9m, o direito a voto \u00e9 conferido apenas a Raul. Caetano, ainda que inscrito na confer\u00eancia, somente poder\u00e1 participar como ouvinte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Francisco e Caetano, se inscritos na Confer\u00eancia Nacional da Advocacia Brasileira, dela participar\u00e3o como membros efetivos, mas o direito a voto \u00e9 conferido apenas a Francisco. Raul fica impedido de participar como membro efetivo da confer\u00eancia, tendo em vista que j\u00e1 exerce fun\u00e7\u00e3o em \u00f3rg\u00e3o da OAB.",
                 "pmi": [
                     0.020183246728949496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco e Caetano, se inscritos na Confer\u00eancia Nacional da Advocacia Brasileira, dela participar\u00e3o como membros efetivos, mas o direito a voto \u00e9 conferido apenas a Francisco. Raul fica impedido de participar como membro efetivo da confer\u00eancia, tendo em vista que j\u00e1 exerce fun\u00e7\u00e3o em \u00f3rg\u00e3o da OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Raul participar\u00e1 como membro efetivo da Confer\u00eancia Nacional da Advocacia Brasileira. Do mesmo modo, Francisco e Caetano, se inscritos na confer\u00eancia, poder\u00e3o participar como membros efetivos, permitindo-se, aos tr\u00eas, o direito a voto.",
                 "pmi": [
                     0.02033025382711312,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Raul participar\u00e1 como membro efetivo da Confer\u00eancia Nacional da Advocacia Brasileira. Do mesmo modo, Francisco e Caetano, se inscritos na confer\u00eancia, poder\u00e3o participar como membros efetivos, permitindo-se, aos tr\u00eas, o direito a voto."
+                ]
             }
         ],
         "valid": true

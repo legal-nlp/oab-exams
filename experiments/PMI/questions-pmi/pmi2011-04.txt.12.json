@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "a situa\u00e7\u00e3o \u00e9 permitida, diante do poss\u00edvel v\u00edcio alegado pelo advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a situa\u00e7\u00e3o \u00e9 permitida, diante do poss\u00edvel v\u00edcio alegado pelo advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "se caracteriza a hip\u00f3tese de postula\u00e7\u00e3o com m\u00e1-f\u00e9 contra literal disposi\u00e7\u00e3o de lei.",
                 "pmi": [
                     0.02778046112641545,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "se caracteriza a hip\u00f3tese de postula\u00e7\u00e3o com m\u00e1-f\u00e9 contra literal disposi\u00e7\u00e3o de lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "mesmo sendo a lei eivada de v\u00edcio, n\u00e3o seria poss\u00edvel presumir boa-f\u00e9.",
                 "pmi": [
                     0.04444873780226472,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "mesmo sendo a lei eivada de v\u00edcio, n\u00e3o seria poss\u00edvel presumir boa-f\u00e9."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ao pleitear contra expressa disposi\u00e7\u00e3o de lei no caso referido, presume-se a m\u00e1-f\u00e9.",
                 "pmi": [
                     0.051421148524376,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ao pleitear contra expressa disposi\u00e7\u00e3o de lei no caso referido, presume-se a m\u00e1-f\u00e9."
+                ]
             }
         ],
         "valid": true

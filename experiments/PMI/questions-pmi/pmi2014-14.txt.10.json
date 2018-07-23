@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Sim. Considera-se imoderado qualquer an\u00fancio profissional mediante remessa de correspond\u00eancia a uma coletividade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. Considera-se imoderado qualquer an\u00fancio profissional mediante remessa de correspond\u00eancia a uma coletividade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Sim. Ao advogado \u00e9 vedado o envio de correspond\u00eancia a clientes, salvo para tratar de temas que sejam de interesse desses \u00faltimos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. Ao advogado \u00e9 vedado o envio de correspond\u00eancia a clientes, salvo para tratar de temas que sejam de interesse desses \u00faltimos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "N\u00e3o. Armando poderia ter enviado a correspond\u00eancia em quest\u00e3o, pois estava apenas comunicando a altera\u00e7\u00e3o de seu endere\u00e7o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. Armando poderia ter enviado a correspond\u00eancia em quest\u00e3o, pois estava apenas comunicando a altera\u00e7\u00e3o de seu endere\u00e7o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o. A publicidade por meio de correspond\u00eancia \u00e9 permitida em qualquer caso e para comunicar qualquer tipo de informa\u00e7\u00e3o.",
                 "pmi": [
                     0.023725166941318102,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. A publicidade por meio de correspond\u00eancia \u00e9 permitida em qualquer caso e para comunicar qualquer tipo de informa\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

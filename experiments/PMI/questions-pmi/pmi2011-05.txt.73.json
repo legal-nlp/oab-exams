@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A exig\u00eancia \u00e9 legal, pois a experi\u00eancia at\u00e9 1 ano pode ser exigida do candidato a qualquer emprego, estando inserida no poder diretivo do futuro empregador.",
                 "pmi": [
                     0.049597962747311646,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A exig\u00eancia \u00e9 legal, pois a experi\u00eancia at\u00e9 1 ano pode ser exigida do candidato a qualquer emprego, estando inserida no poder diretivo do futuro empregador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A exig\u00eancia n\u00e3o traduz discrimina\u00e7\u00e3o no emprego, de modo que poderia ser exigido qualquer per\u00edodo de experi\u00eancia anterior.",
                 "pmi": [
                     0.05239880876433493,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A exig\u00eancia n\u00e3o traduz discrimina\u00e7\u00e3o no emprego, de modo que poderia ser exigido qualquer per\u00edodo de experi\u00eancia anterior."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A exig\u00eancia \u00e9 ilegal, pois o m\u00e1ximo que o futuro empregador poderia exigir seriam 3 meses de experi\u00eancia.",
                 "pmi": [
                     0.0011071073967868852,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A exig\u00eancia \u00e9 ilegal, pois o m\u00e1ximo que o futuro empregador poderia exigir seriam 3 meses de experi\u00eancia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A exig\u00eancia \u00e9 ilegal, pois o m\u00e1ximo que o futuro empregador poderia exigir seriam 6 meses de experi\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A exig\u00eancia \u00e9 ilegal, pois o m\u00e1ximo que o futuro empregador poderia exigir seriam 6 meses de experi\u00eancia."
+                ]
             }
         ],
         "valid": true

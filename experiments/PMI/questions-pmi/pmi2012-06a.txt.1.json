@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "publicidade imoderada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "publicidade imoderada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "propaganda regular.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "propaganda regular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "patroc\u00ednio cultural.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "patroc\u00ednio cultural."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "atividade permitida pelo Estatuto.",
                 "pmi": [
                     0.010832155722061577,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "atividade permitida pelo Estatuto."
+                ]
             }
         ],
         "valid": true

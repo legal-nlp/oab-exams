@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O recurso ordin\u00e1rio devolve toda a mat\u00e9ria para a an\u00e1lise do TRT, logo, reconhecido o cerceamento de defesa, deve o tribunal analisar a quest\u00e3o das horas extras.",
                 "pmi": [
                     0.05399653020135089,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O recurso ordin\u00e1rio devolve toda a mat\u00e9ria para a an\u00e1lise do TRT, logo, reconhecido o cerceamento de defesa, deve o tribunal analisar a quest\u00e3o das horas extras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o cabe ao TRT fazer nova an\u00e1lise de prova em sede de recurso ordin\u00e1rio, portanto o tribunal n\u00e3o poderia ter estabelecido condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
                     0.048137350296738886,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o cabe ao TRT fazer nova an\u00e1lise de prova em sede de recurso ordin\u00e1rio, portanto o tribunal n\u00e3o poderia ter estabelecido condena\u00e7\u00e3o em horas extras."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "N\u00e3o tendo o advogado requerido an\u00e1lise das horas extras, o julgamento deve limitar-se ao que foi expressamente pedido, logo, n\u00e3o poderia o TRT estabelecer condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o tendo o advogado requerido an\u00e1lise das horas extras, o julgamento deve limitar-se ao que foi expressamente pedido, logo, n\u00e3o poderia o TRT estabelecer condena\u00e7\u00e3o em horas extras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O TRT agiu equivocadamente, visto que, reconhecido o cerceamento de defesa, deveria ter designado data para a oitiva de testemunhas, e, s\u00f3 ent\u00e3o, analisar o pedido de condena\u00e7\u00e3o em horas extras.",
                 "pmi": [
                     0.004394384928459002,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O TRT agiu equivocadamente, visto que, reconhecido o cerceamento de defesa, deveria ter designado data para a oitiva de testemunhas, e, s\u00f3 ent\u00e3o, analisar o pedido de condena\u00e7\u00e3o em horas extras."
+                ]
             }
         ],
         "valid": true

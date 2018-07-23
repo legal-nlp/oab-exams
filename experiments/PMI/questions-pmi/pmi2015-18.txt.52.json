@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A credora n\u00e3o ter\u00e1 direito a voto nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o judicial e o cr\u00e9dito n\u00e3o ser\u00e1 considerado para fins de verifica\u00e7\u00e3o de qu\u00f3rum de delibera\u00e7\u00e3o.",
                 "pmi": [
                     -0.0013420927466991554,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A credora n\u00e3o ter\u00e1 direito a voto nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o judicial e o cr\u00e9dito n\u00e3o ser\u00e1 considerado para fins de verifica\u00e7\u00e3o de qu\u00f3rum de delibera\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O cr\u00e9dito ser\u00e1 novado com a concess\u00e3o da recupera\u00e7\u00e3o judicial, ap\u00f3s a aprova\u00e7\u00e3o do plano pela assembleia de credores, como todos os demais cr\u00e9ditos sujeitos \u00e0 recupera\u00e7\u00e3o.",
                 "pmi": [
                     0.010004340922576967,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito ser\u00e1 novado com a concess\u00e3o da recupera\u00e7\u00e3o judicial, ap\u00f3s a aprova\u00e7\u00e3o do plano pela assembleia de credores, como todos os demais cr\u00e9ditos sujeitos \u00e0 recupera\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A credora poder\u00e1 votar nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o, com base no valor de seu cr\u00e9dito, na classe dos credores microempres\u00e1rios e empres\u00e1rios de pequeno porte (Classe 4).",
                 "pmi": [
                     -0.0022505748867991857,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A credora poder\u00e1 votar nas assembleias de credores realizadas durante a recupera\u00e7\u00e3o, com base no valor de seu cr\u00e9dito, na classe dos credores microempres\u00e1rios e empres\u00e1rios de pequeno porte (Classe 4)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A partir do processamento da recupera\u00e7\u00e3o judicial, \u00e9 permitido \u00e0 credora ajuizar a\u00e7\u00e3o de cobran\u00e7a em face do devedor pela manuten\u00e7\u00e3o das condi\u00e7\u00f5es originais de pagamento do cr\u00e9dito no plano de recupera\u00e7\u00e3o.",
                 "pmi": [
                     -0.018230930932510665,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A partir do processamento da recupera\u00e7\u00e3o judicial, \u00e9 permitido \u00e0 credora ajuizar a\u00e7\u00e3o de cobran\u00e7a em face do devedor pela manuten\u00e7\u00e3o das condi\u00e7\u00f5es originais de pagamento do cr\u00e9dito no plano de recupera\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

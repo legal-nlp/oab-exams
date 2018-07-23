@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Sendo um cliente do escrit\u00f3rio, \u00e9 inerente \u00e0 atividade da advocacia o visto em atos constitutivos de pessoa jur\u00eddica.",
                 "pmi": [
                     0.053474455764805216,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sendo um cliente do escrit\u00f3rio, \u00e9 inerente \u00e0 atividade da advocacia o visto em atos constitutivos de pessoa jur\u00eddica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Ao prestar servi\u00e7os para Junta Comercial, surge impedimento previsto no Regulamento Geral.",
                 "pmi": [
                     0.023098480987410713,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao prestar servi\u00e7os para Junta Comercial, surge impedimento previsto no Regulamento Geral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A an\u00e1lise do conte\u00fado dos atos constitutivos pode ser realizada pelo advogado tanto no escrit\u00f3rio quanto na Junta Comercial.",
                 "pmi": [
                     0.026840183603299563,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A an\u00e1lise do conte\u00fado dos atos constitutivos pode ser realizada pelo advogado tanto no escrit\u00f3rio quanto na Junta Comercial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A atua\u00e7\u00e3o na Junta Comercial gera impedimento para a\u00e7\u00f5es judiciais, mas n\u00e3o para vistos em atos constitutivos.",
                 "pmi": [
                     0.05942565726150965,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A atua\u00e7\u00e3o na Junta Comercial gera impedimento para a\u00e7\u00f5es judiciais, mas n\u00e3o para vistos em atos constitutivos."
+                ]
             }
         ],
         "valid": true

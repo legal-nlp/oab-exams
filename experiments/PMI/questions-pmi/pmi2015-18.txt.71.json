@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A empresa pode descontar o valor mesmo sem previs\u00e3o contratual para tanto, pois a atitude de Pl\u00e1cido, ao praticar o dano, foi dolosa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa pode descontar o valor mesmo sem previs\u00e3o contratual para tanto, pois a atitude de Pl\u00e1cido, ao praticar o dano, foi dolosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O desconto na remunera\u00e7\u00e3o do empregado relativo ao dano causado \u00e9 vedado em qualquer hip\u00f3tese.",
                 "pmi": [
                     0.09116829809344856,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto na remunera\u00e7\u00e3o do empregado relativo ao dano causado \u00e9 vedado em qualquer hip\u00f3tese."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A empresa s\u00f3 poderia descontar o valor do dano causado por Pl\u00e1cido se houvesse previs\u00e3o contratual nesse sentido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa s\u00f3 poderia descontar o valor do dano causado por Pl\u00e1cido se houvesse previs\u00e3o contratual nesse sentido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o estando a parcela relacionada a um desconto tipificado em lei, n\u00e3o pode haver o desconto nas verbas devidas a Pl\u00e1cido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o estando a parcela relacionada a um desconto tipificado em lei, n\u00e3o pode haver o desconto nas verbas devidas a Pl\u00e1cido."
+                ]
             }
         ],
         "valid": true

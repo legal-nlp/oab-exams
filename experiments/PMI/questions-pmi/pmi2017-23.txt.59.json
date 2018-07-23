@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de cal\u00fania.",
                 "pmi": [
                     0.08432156396664678,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de cal\u00fania."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de inj\u00faria.",
                 "pmi": [
                     0.08432156396664678,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "1 crime de difama\u00e7\u00e3o e 1 crime de inj\u00faria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "2 crimes de cal\u00fania.",
                 "pmi": [
                     0.023570065064154495,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "2 crimes de cal\u00fania."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "1 crime de cal\u00fania e 1 crime de inj\u00faria.",
                 "pmi": [
                     0.08432156396664678,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "1 crime de cal\u00fania e 1 crime de inj\u00faria."
+                ]
             }
         ],
         "valid": true

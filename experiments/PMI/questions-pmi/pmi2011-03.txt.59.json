@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano simples, somente.",
                 "pmi": [
                     0.06272009744006055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser responsabilizado pelo crime de dano simples, somente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, somente.",
                 "pmi": [
                     0.06272009744006055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, somente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, sem preju\u00edzo da obriga\u00e7\u00e3o de reparar o dano causado.",
                 "pmi": [
                     0.02787559886224913,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 ser responsabilizado pelo crime de dano qualificado, sem preju\u00edzo da obriga\u00e7\u00e3o de reparar o dano causado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "n\u00e3o ser\u00e1 responsabilizado penalmente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "n\u00e3o ser\u00e1 responsabilizado penalmente."
+                ]
             }
         ],
         "valid": true

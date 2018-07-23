@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Se Ricardo resolver ajuizar demanda em face somente de Joana, as outras irm\u00e3s, ainda assim, permanecer\u00e3o respons\u00e1veis pelo d\u00e9bito.",
                 "pmi": [
                     0.06773162126337706,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Ricardo resolver ajuizar demanda em face somente de Joana, as outras irm\u00e3s, ainda assim, permanecer\u00e3o respons\u00e1veis pelo d\u00e9bito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se Joana pagar o pre\u00e7o total do servi\u00e7o sozinha, poder\u00e1 cobrar das outras, ficando sem receber se uma delas se tornar insolvente.",
                 "pmi": [
                     0.030219934695254975,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se Joana pagar o pre\u00e7o total do servi\u00e7o sozinha, poder\u00e1 cobrar das outras, ficando sem receber se uma delas se tornar insolvente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Se uma das irm\u00e3s de Joana falecer deixando dois filhos, qualquer um deles dever\u00e1 arcar com o total da parte de sua m\u00e3e.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se uma das irm\u00e3s de Joana falecer deixando dois filhos, qualquer um deles dever\u00e1 arcar com o total da parte de sua m\u00e3e."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ricardo deve cobrar de cada irm\u00e3 a sua quota-parte para receber o total do servi\u00e7o, uma vez que se trata de obriga\u00e7\u00e3o divis\u00edvel.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ricardo deve cobrar de cada irm\u00e3 a sua quota-parte para receber o total do servi\u00e7o, uma vez que se trata de obriga\u00e7\u00e3o divis\u00edvel."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "abandono de incapaz qualificado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "abandono de incapaz qualificado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "homic\u00eddio doloso.",
                 "pmi": [
                     0.05969208270793035,
                     0.0,
                     0,
                     0
-                ],
-                "text": "homic\u00eddio doloso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "infantic\u00eddio.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "infantic\u00eddio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "exposi\u00e7\u00e3o ou abandono de rec\u00e9m-nascido qualificado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "exposi\u00e7\u00e3o ou abandono de rec\u00e9m-nascido qualificado."
+                ]
             }
         ],
         "valid": true

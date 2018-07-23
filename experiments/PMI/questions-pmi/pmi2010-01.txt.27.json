@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00c9 l\u00edcita \u00e0s associa\u00e7\u00f5es legalmente constitu\u00eddas h\u00e1 mais de um ano a propositura de a\u00e7\u00e3o coletiva para a defesa dos direitos de seus associados, desde que haja pr\u00e9via autoriza\u00e7\u00e3o em assembleia.",
                 "pmi": [
                     0.06238163171181146,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 l\u00edcita \u00e0s associa\u00e7\u00f5es legalmente constitu\u00eddas h\u00e1 mais de um ano a propositura de a\u00e7\u00e3o coletiva para a defesa dos direitos de seus associados, desde que haja pr\u00e9via autoriza\u00e7\u00e3o em assembleia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Na hip\u00f3tese de a\u00e7\u00e3o coletiva para a defesa de interesses individuais homog\u00eaneos, \u00e9 exclusivamente competente para a execu\u00e7\u00e3o coletiva o ju\u00edzo da liquida\u00e7\u00e3o da senten\u00e7a ou o da a\u00e7\u00e3o condenat\u00f3ria.",
                 "pmi": [
                     0.06829077861493335,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Na hip\u00f3tese de a\u00e7\u00e3o coletiva para a defesa de interesses individuais homog\u00eaneos, \u00e9 exclusivamente competente para a execu\u00e7\u00e3o coletiva o ju\u00edzo da liquida\u00e7\u00e3o da senten\u00e7a ou o da a\u00e7\u00e3o condenat\u00f3ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Tratando-se de a\u00e7\u00f5es coletivas para a defesa de direitos individuais homog\u00eaneos, a senten\u00e7a far\u00e1 coisa julgada erga omnes, no caso de proced\u00eancia ou improced\u00eancia do pedido, para beneficiar todas as v\u00edtimas.",
                 "pmi": [
                     0.0466463274218361,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tratando-se de a\u00e7\u00f5es coletivas para a defesa de direitos individuais homog\u00eaneos, a senten\u00e7a far\u00e1 coisa julgada erga omnes, no caso de proced\u00eancia ou improced\u00eancia do pedido, para beneficiar todas as v\u00edtimas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "De acordo com o C\u00f3digo de Defesa do Consumidor, as a\u00e7\u00f5es coletivas para a defesa de interesses ou de direitos coletivos n\u00e3o induzem litispend\u00eancia para as a\u00e7\u00f5es individuais.",
                 "pmi": [
                     0.18613410044449116,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "De acordo com o C\u00f3digo de Defesa do Consumidor, as a\u00e7\u00f5es coletivas para a defesa de interesses ou de direitos coletivos n\u00e3o induzem litispend\u00eancia para as a\u00e7\u00f5es individuais."
+                ]
             }
         ],
         "valid": true

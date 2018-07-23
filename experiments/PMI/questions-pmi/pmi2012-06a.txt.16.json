@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a\u00e7\u00e3o direta de inconstitucionalidade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a\u00e7\u00e3o direta de inconstitucionalidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "reclama\u00e7\u00e3o.",
                 "pmi": [
                     0.3043808457997595,
                     0,
                     0,
                     0
-                ],
-                "text": "reclama\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "argui\u00e7\u00e3o de descumprimento de preceito fundamental.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "argui\u00e7\u00e3o de descumprimento de preceito fundamental."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "mandado de seguran\u00e7a.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "mandado de seguran\u00e7a."
+                ]
             }
         ],
         "valid": true

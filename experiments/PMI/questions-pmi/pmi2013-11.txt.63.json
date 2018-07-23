@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o \u00e9 aplic\u00e1vel a lei penal brasileira, pois como Pierre foi absolvido no estrangeiro, n\u00e3o ficou satisfeita uma das exig\u00eancias previstas \u00e0 hip\u00f3tese de extraterritorialidade condicionada.",
                 "pmi": [
                     0.04238308590109586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 aplic\u00e1vel a lei penal brasileira, pois como Pierre foi absolvido no estrangeiro, n\u00e3o ficou satisfeita uma das exig\u00eancias previstas \u00e0 hip\u00f3tese de extraterritorialidade condicionada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 aplic\u00e1vel a lei penal brasileira, pois o caso narrado traz hip\u00f3tese de extraterritorialidade incondicionada, exigindo-se, apenas, que o fato n\u00e3o tenha sido alcan\u00e7ado por nenhuma causa extintiva de punibilidade no estrangeiro.",
                 "pmi": [
                     0.02560513005396233,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 aplic\u00e1vel a lei penal brasileira, pois o caso narrado traz hip\u00f3tese de extraterritorialidade incondicionada, exigindo-se, apenas, que o fato n\u00e3o tenha sido alcan\u00e7ado por nenhuma causa extintiva de punibilidade no estrangeiro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00c9 aplic\u00e1vel a lei penal brasileira, pois o caso narrado traz hip\u00f3tese de extraterritorialidade incondicionada, sendo irrelevante o fato de ter sido o agente absolvido no estrangeiro.",
                 "pmi": [
                     0.028805771310707624,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 aplic\u00e1vel a lei penal brasileira, pois o caso narrado traz hip\u00f3tese de extraterritorialidade incondicionada, sendo irrelevante o fato de ter sido o agente absolvido no estrangeiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o \u00e9 aplic\u00e1vel a lei penal brasileira, pois como o agente \u00e9 estrangeiro e a conduta foi praticada em territ\u00f3rio tamb\u00e9m estrangeiro, as exig\u00eancias relativas \u00e0 extraterritorialidade condicionada n\u00e3o foram satisfeitas.",
                 "pmi": [
                     0.0340441041856879,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 aplic\u00e1vel a lei penal brasileira, pois como o agente \u00e9 estrangeiro e a conduta foi praticada em territ\u00f3rio tamb\u00e9m estrangeiro, as exig\u00eancias relativas \u00e0 extraterritorialidade condicionada n\u00e3o foram satisfeitas."
+                ]
             }
         ],
         "valid": true

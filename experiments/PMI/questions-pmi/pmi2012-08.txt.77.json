@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O TST.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "O TST."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O STJ.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "O STJ."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O TRT de Pernambuco.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "O TRT de Pernambuco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O STF.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "O STF."
+                ]
             }
         ],
         "valid": true

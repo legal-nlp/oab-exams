@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o \u00e9 permitido o uso da palavra por advogado em julgamentos de recursos de apela\u00e7\u00e3o.",
                 "pmi": [
                     0.04941385768282957,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 permitido o uso da palavra por advogado em julgamentos de recursos de apela\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "\u00c9 direito do advogado usar da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, para replicar acusa\u00e7\u00e3o ou censura que lhe forem feitas.",
                 "pmi": [
                     0.018087518616503533,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 direito do advogado usar da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, para replicar acusa\u00e7\u00e3o ou censura que lhe forem feitas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 direito do advogado intervir, a qualquer tempo e por qualquer motivo, durante o julgamento de processos em que esteja constitu\u00eddo.",
                 "pmi": [
                     0.06904158803634021,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 direito do advogado intervir, a qualquer tempo e por qualquer motivo, durante o julgamento de processos em que esteja constitu\u00eddo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O uso da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, somente \u00e9 permitido para o esclarecimento de quest\u00f5es f\u00e1ticas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O uso da palavra, pela ordem, mediante interven\u00e7\u00e3o sum\u00e1ria, somente \u00e9 permitido para o esclarecimento de quest\u00f5es f\u00e1ticas."
+                ]
             }
         ],
         "valid": true

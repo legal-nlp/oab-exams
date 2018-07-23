@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "os atos praticados pelo suposto advogado n\u00e3o ofendem qualquer dispositivo legal.",
                 "pmi": [
                     0.05383534152744768,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os atos praticados pelo suposto advogado n\u00e3o ofendem qualquer dispositivo legal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "verificada a aus\u00eancia de inscri\u00e7\u00e3o profissional, dever\u00e1 ser outorgado prazo para sua regulariza\u00e7\u00e3o.",
                 "pmi": [
                     0.03139717518723659,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "verificada a aus\u00eancia de inscri\u00e7\u00e3o profissional, dever\u00e1 ser outorgado prazo para sua regulariza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "os atos praticados por M\u00e9vio s\u00e3o nulos, pois foram praticados por pessoa n\u00e3o inscrita na OAB.",
                 "pmi": [
                     0.03176389141067973,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os atos praticados por M\u00e9vio s\u00e3o nulos, pois foram praticados por pessoa n\u00e3o inscrita na OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a declara\u00e7\u00e3o de nulidade dos atos processuais esgota o rol de atos sancionat\u00f3rios.",
                 "pmi": [
                     0.04348368442848866,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a declara\u00e7\u00e3o de nulidade dos atos processuais esgota o rol de atos sancionat\u00f3rios."
+                ]
             }
         ],
         "valid": true

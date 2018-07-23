@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Pode ser impetrado por estrangeiro residente no pa\u00eds.",
                 "pmi": [
                     0.02174742315515298,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pode ser impetrado por estrangeiro residente no pa\u00eds."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 cab\u00edvel contra puni\u00e7\u00e3o disciplinar militar imposta por autoridade incompetente.",
                 "pmi": [
                     0.21560596958439823,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel contra puni\u00e7\u00e3o disciplinar militar imposta por autoridade incompetente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "N\u00e3o \u00e9 meio h\u00e1bil para controle concreto de constitucionalidade.",
                 "pmi": [
                     0.0682540047629663,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 meio h\u00e1bil para controle concreto de constitucionalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Constitui\u00e7\u00e3o assegura a gratuidade para seu ajuizamento.",
                 "pmi": [
                     -0.05082437666279777,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Constitui\u00e7\u00e3o assegura a gratuidade para seu ajuizamento."
+                ]
             }
         ],
         "valid": true

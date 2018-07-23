@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "havendo ind\u00edcio de viola\u00e7\u00e3o de direitos humanos previstos na legisla\u00e7\u00e3o nacional ou nos tratados internacionais.",
                 "pmi": [
                     0.05116431216620573,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havendo ind\u00edcio de viola\u00e7\u00e3o de direitos humanos previstos na legisla\u00e7\u00e3o nacional ou nos tratados internacionais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "havendo grave viola\u00e7\u00e3o de direitos humanos previstos nos tratados internacionais de direitos humanos dos quais o Brasil seja parte.",
                 "pmi": [
                     0.08765651879514794,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havendo grave viola\u00e7\u00e3o de direitos humanos previstos nos tratados internacionais de direitos humanos dos quais o Brasil seja parte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "havendo viola\u00e7\u00e3o das leis protetivas dos direitos humanos, tais quais as leis citadas na Introdu\u00e7\u00e3o do PNDH 2.",
                 "pmi": [
                     0.019387514292104332,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havendo viola\u00e7\u00e3o das leis protetivas dos direitos humanos, tais quais as leis citadas na Introdu\u00e7\u00e3o do PNDH 2."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "havendo grave viola\u00e7\u00e3o dos direitos humanos previstos na Constitui\u00e7\u00e3o Federal.",
                 "pmi": [
                     0.07358239228229876,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "havendo grave viola\u00e7\u00e3o dos direitos humanos previstos na Constitui\u00e7\u00e3o Federal."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A nova contribui\u00e7\u00e3o viola o princ\u00edpio da anterioridade nonagesimal.",
                 "pmi": [
                     0.0638098235462846,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nova contribui\u00e7\u00e3o viola o princ\u00edpio da anterioridade nonagesimal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A nova contribui\u00e7\u00e3o viola o princ\u00edpio da anterioridade anual.",
                 "pmi": [
                     0.07710845367095231,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nova contribui\u00e7\u00e3o viola o princ\u00edpio da anterioridade anual."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A nova contribui\u00e7\u00e3o somente poderia ser institu\u00edda por meio de lei complementar.",
                 "pmi": [
                     0.08948640919260882,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nova contribui\u00e7\u00e3o somente poderia ser institu\u00edda por meio de lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A Constitui\u00e7\u00e3o da Rep\u00fablica veda a institui\u00e7\u00e3o de contribui\u00e7\u00f5es n\u00e3o cumulativas.",
                 "pmi": [
                     0.10376604312897582,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Constitui\u00e7\u00e3o da Rep\u00fablica veda a institui\u00e7\u00e3o de contribui\u00e7\u00f5es n\u00e3o cumulativas."
+                ]
             }
         ],
         "valid": true

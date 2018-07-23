@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o. O Supremo Tribunal Federal somente pode reconhecer nova norma no sistema jur\u00eddico constitucional a partir de emenda \u00e0 constitui\u00e7\u00e3o produzida pelo poder constituinte derivado reformador.",
                 "pmi": [
                     0.046888332410740106,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. O Supremo Tribunal Federal somente pode reconhecer nova norma no sistema jur\u00eddico constitucional a partir de emenda \u00e0 constitui\u00e7\u00e3o produzida pelo poder constituinte derivado reformador."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Sim. O Supremo Tribunal Federal, reconhecendo o fen\u00f4meno da muta\u00e7\u00e3o constitucional, pode atribuir ao texto inalterado uma nova interpreta\u00e7\u00e3o, que expressa, assim, uma nova norma.",
                 "pmi": [
                     0.049483435999631176,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. O Supremo Tribunal Federal, reconhecendo o fen\u00f4meno da muta\u00e7\u00e3o constitucional, pode atribuir ao texto inalterado uma nova interpreta\u00e7\u00e3o, que expressa, assim, uma nova norma."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o. O surgimento de novas normas constitucionais somente pode ser admitido por interm\u00e9dio das vias formais de altera\u00e7\u00e3o, todas expressamente previstas no pr\u00f3prio texto da Constitui\u00e7\u00e3o.",
                 "pmi": [
                     0.008367242865844494,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o. O surgimento de novas normas constitucionais somente pode ser admitido por interm\u00e9dio das vias formais de altera\u00e7\u00e3o, todas expressamente previstas no pr\u00f3prio texto da Constitui\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Sim. O sistema jur\u00eddico-constitucional brasileiro, seguindo linhas interpretativas contempor\u00e2neas, admite, como regra, a interpreta\u00e7\u00e3o da Constitui\u00e7\u00e3o independentemente de limites sem\u00e2nticos concedidos pelo texto.",
                 "pmi": [
                     0.01610072996148724,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Sim. O sistema jur\u00eddico-constitucional brasileiro, seguindo linhas interpretativas contempor\u00e2neas, admite, como regra, a interpreta\u00e7\u00e3o da Constitui\u00e7\u00e3o independentemente de limites sem\u00e2nticos concedidos pelo texto."
+                ]
             }
         ],
         "valid": true

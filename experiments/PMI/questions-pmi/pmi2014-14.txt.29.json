@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "concess\u00e3o de obra p\u00fablica.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concess\u00e3o de obra p\u00fablica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "concess\u00e3o administrativa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concess\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "concess\u00e3o patrocinada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "concess\u00e3o patrocinada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "concess\u00e3o de servi\u00e7o p\u00fablico precedida da execu\u00e7\u00e3o de obra p\u00fablica.",
                 "pmi": [
                     0.08018432278002571,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "concess\u00e3o de servi\u00e7o p\u00fablico precedida da execu\u00e7\u00e3o de obra p\u00fablica."
+                ]
             }
         ],
         "valid": true

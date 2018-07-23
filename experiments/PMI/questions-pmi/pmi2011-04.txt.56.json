@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Venire Contra Factum Proprium.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Venire Contra Factum Proprium."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Exce\u00e7\u00e3o de contrato n\u00e3o cumprido.",
                 "pmi": [
                     0.014965657802514675,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Exce\u00e7\u00e3o de contrato n\u00e3o cumprido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Solve et Repete.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Solve et Repete."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Contradit\u00f3rio e ampla defesa.",
                 "pmi": [
                     -0.0005145705474750077,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Contradit\u00f3rio e ampla defesa."
+                ]
             }
         ],
         "valid": true

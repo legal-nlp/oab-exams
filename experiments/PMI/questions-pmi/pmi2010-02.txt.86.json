@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "exerc\u00edcio ass\u00edduo e proficiente em mandato realizado na OAB.",
                 "pmi": [
                     0.05466969266092283,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "exerc\u00edcio ass\u00edduo e proficiente em mandato realizado na OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ser reincidente em faltas da mesma natureza.",
                 "pmi": [
                     0.14469429037828796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser reincidente em faltas da mesma natureza."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "presta\u00e7\u00e3o de servi\u00e7os \u00e0 advocacia, mesmo irrelevantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "presta\u00e7\u00e3o de servi\u00e7os \u00e0 advocacia, mesmo irrelevantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ter sido o ato cometi do contra outro integrante de carreira jur\u00eddica.",
                 "pmi": [
                     0.0973227353809265,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter sido o ato cometi do contra outro integrante de carreira jur\u00eddica."
+                ]
             }
         ],
         "valid": true

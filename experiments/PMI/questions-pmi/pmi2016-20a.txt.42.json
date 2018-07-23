@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por les\u00e3o, se Jos\u00e9 n\u00e3o concordar com a redu\u00e7\u00e3o do proveito ou com a oferta de suplemento suficiente.",
                 "pmi": [
                     0.002926645217298189,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por les\u00e3o, se Jos\u00e9 n\u00e3o concordar com a redu\u00e7\u00e3o do proveito ou com a oferta de suplemento suficiente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O neg\u00f3cio jur\u00eddico ser\u00e1 nulo em virtude da ilicitude do objeto.",
                 "pmi": [
                     0.023962829400802643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O neg\u00f3cio jur\u00eddico ser\u00e1 nulo em virtude da ilicitude do objeto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por coa\u00e7\u00e3o em raz\u00e3o da indu\u00e7\u00e3o de Bernardo a erro.",
                 "pmi": [
                     0.01346827695252918,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por coa\u00e7\u00e3o em raz\u00e3o da indu\u00e7\u00e3o de Bernardo a erro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por erro, eis que este foi causa determinante do neg\u00f3cio.",
                 "pmi": [
                     0.008782180933736316,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O neg\u00f3cio jur\u00eddico poder\u00e1 ser anulado por erro, eis que este foi causa determinante do neg\u00f3cio."
+                ]
             }
         ],
         "valid": true

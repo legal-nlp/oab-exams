@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "passa a incidir o IPTU, a ser pago pela autarquia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "passa a incidir o IPTU, a ser pago pela autarquia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "continua a n\u00e3o incidir o IPTU, por for\u00e7a da imunidade da autarquia (cujo nome continua vinculado ao im\u00f3vel no RGI, ainda que agora a autarquia figure como promitente vendedora).",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "continua a n\u00e3o incidir o IPTU, por for\u00e7a da imunidade da autarquia (cujo nome continua vinculado ao im\u00f3vel no RGI, ainda que agora a autarquia figure como promitente vendedora)."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "passa a incidir o IPTU, a ser pago solidariamente pela autarquia e por Fulano de Tal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "passa a incidir o IPTU, a ser pago solidariamente pela autarquia e por Fulano de Tal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "passa a incidir o IPTU, a ser pago por Fulano de Tal, uma vez que registrada no RGI a promessa de compra e venda do im\u00f3vel.",
                 "pmi": [
                     0.07416464689273766,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "passa a incidir o IPTU, a ser pago por Fulano de Tal, uma vez que registrada no RGI a promessa de compra e venda do im\u00f3vel."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O contrato \u00e9 irregular, pois o contrato de experi\u00eancia deve ser feito por 90 dias.",
                 "pmi": [
                     0.048080407378326306,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato \u00e9 irregular, pois o contrato de experi\u00eancia deve ser feito por 90 dias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Ver\u00f4nica ter\u00e1 direito \u00e0 remunera\u00e7\u00e3o, e por metade, a que teria direito at\u00e9 o termo do contrato.",
                 "pmi": [
                     0.12850392879538355,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ver\u00f4nica ter\u00e1 direito \u00e0 remunera\u00e7\u00e3o, e por metade, a que teria direito at\u00e9 o termo do contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ver\u00f4nica, como houve ruptura antecipada, ter\u00e1 direito ao aviso pr\u00e9vio e \u00e0 sua integra\u00e7\u00e3o ao contrato de trabalho.",
                 "pmi": [
                     0.06371420881478167,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ver\u00f4nica, como houve ruptura antecipada, ter\u00e1 direito ao aviso pr\u00e9vio e \u00e0 sua integra\u00e7\u00e3o ao contrato de trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O contrato se transformou em contrato por prazo indeterminado, porque ultrapassou metade da sua vig\u00eancia.",
                 "pmi": [
                     0.09871902203483017,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O contrato se transformou em contrato por prazo indeterminado, porque ultrapassou metade da sua vig\u00eancia."
+                ]
             }
         ],
         "valid": true

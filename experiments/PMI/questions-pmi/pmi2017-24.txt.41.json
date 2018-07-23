@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mais perdas e danos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mais perdas e danos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pode exigir, de qualquer dos tr\u00eas, o equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro e das perdas e danos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro e das perdas e danos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pode exigir, de cada um dos tr\u00eas, um ter\u00e7o do equivalente pecuni\u00e1rio do carro, mas s\u00f3 pode exigir perdas e danos de Renata."
+                ]
             }
         ],
         "valid": true

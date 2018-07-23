@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "legal, desde que seja aprovada pela unanimidade dos s\u00f3cios diante da n\u00e3o integraliza\u00e7\u00e3o do capital social.",
                 "pmi": [
                     0.021182667415533585,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "legal, desde que seja aprovada pela unanimidade dos s\u00f3cios diante da n\u00e3o integraliza\u00e7\u00e3o do capital social."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ilegal, porque n\u00e3o existe no contrato cl\u00e1usula de reg\u00eancia supletiva pela Lei de Sociedades por A\u00e7\u00f5es.",
                 "pmi": [
                     -0.0034789323072514458,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ilegal, porque n\u00e3o existe no contrato cl\u00e1usula de reg\u00eancia supletiva pela Lei de Sociedades por A\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "legal, desde que seja inserida no contrato previamente a possibilidade de a administra\u00e7\u00e3o ser exercida por n\u00e3o s\u00f3cio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "legal, desde que seja inserida no contrato previamente a possibilidade de a administra\u00e7\u00e3o ser exercida por n\u00e3o s\u00f3cio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "ilegal, pois o capital social deveria estar integralizado para que a indica\u00e7\u00e3o seja aprovada por maioria de tr\u00eas quartos do capital.",
                 "pmi": [
                     0.016475407989859456,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ilegal, pois o capital social deveria estar integralizado para que a indica\u00e7\u00e3o seja aprovada por maioria de tr\u00eas quartos do capital."
+                ]
             }
         ],
         "valid": true

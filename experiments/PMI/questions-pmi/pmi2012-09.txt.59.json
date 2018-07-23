@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O sistema progressivo brasileiro \u00e9 compat\u00edvel com a progress\u00e3o \u201cpor saltos\u201d, consistente na possibilidade da passagem direta do regime fechado para o aberto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sistema progressivo brasileiro \u00e9 compat\u00edvel com a progress\u00e3o \u201cpor saltos\u201d, consistente na possibilidade da passagem direta do regime fechado para o aberto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O cumprimento da pena privativa de liberdade nos crimes hediondos \u00e9 uma exce\u00e7\u00e3o ao sistema progressivo. O condenado nesta modalidade criminosa deve iniciar e encerrar o cumprimento da pena no regime fechado, sem possibilidade de passagem para regime mais brando.",
                 "pmi": [
                     0.03592667783366971,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cumprimento da pena privativa de liberdade nos crimes hediondos \u00e9 uma exce\u00e7\u00e3o ao sistema progressivo. O condenado nesta modalidade criminosa deve iniciar e encerrar o cumprimento da pena no regime fechado, sem possibilidade de passagem para regime mais brando."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A progress\u00e3o est\u00e1 condicionada, nos crimes contra a Administra\u00e7\u00e3o P\u00fablica , \u00e0 repara\u00e7\u00e3o do dano causado ou \u00e0 devolu\u00e7\u00e3o do produto do il\u00edcito praticado com os acr\u00e9scimos legais, al\u00e9m do cumprimento de 1/6 da pena no regime anterior e do m\u00e9rito do condenado.",
                 "pmi": [
                     0.0030843560426853196,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A progress\u00e3o est\u00e1 condicionada, nos crimes contra a Administra\u00e7\u00e3o P\u00fablica , \u00e0 repara\u00e7\u00e3o do dano causado ou \u00e0 devolu\u00e7\u00e3o do produto do il\u00edcito praticado com os acr\u00e9scimos legais, al\u00e9m do cumprimento de 1/6 da pena no regime anterior e do m\u00e9rito do condenado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O pedido de progress\u00e3o deve ser endere\u00e7ado ao ju\u00edzo sentenciante, que decidir\u00e1 independente de manifesta\u00e7\u00e3o do Minist\u00e9rio P\u00fablico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pedido de progress\u00e3o deve ser endere\u00e7ado ao ju\u00edzo sentenciante, que decidir\u00e1 independente de manifesta\u00e7\u00e3o do Minist\u00e9rio P\u00fablico."
+                ]
             }
         ],
         "valid": true

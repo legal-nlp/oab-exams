@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o \u00e9 credor do pagamento de aviso pr\u00e9vio na raz\u00e3o de 93 dias, enquanto que Jos\u00e9 far\u00e1 jus ao pagamento de aviso pr\u00e9vio de 105 dias.",
                 "pmi": [
                     0.011790057487568409,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o \u00e9 credor do pagamento de aviso pr\u00e9vio na raz\u00e3o de 93 dias, enquanto que Jos\u00e9 far\u00e1 jus ao pagamento de aviso pr\u00e9vio de 105 dias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Tanto Jo\u00e3o quanto Jos\u00e9 far\u00e3o jus ao pagamento de aviso pr\u00e9vio na raz\u00e3o de 90 dias.",
                 "pmi": [
                     0.012041639204581688,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tanto Jo\u00e3o quanto Jos\u00e9 far\u00e3o jus ao pagamento de aviso pr\u00e9vio na raz\u00e3o de 90 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Uma vez que ambos foram admitidos em data anterior \u00e0 publica\u00e7\u00e3o da Lei n. 12.506/2011, ambos far\u00e3o jus t\u00e3o-somente ao pagamento de aviso pr\u00e9vio de 30 dias.",
                 "pmi": [
                     -0.006367466281983675,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uma vez que ambos foram admitidos em data anterior \u00e0 publica\u00e7\u00e3o da Lei n. 12.506/2011, ambos far\u00e3o jus t\u00e3o-somente ao pagamento de aviso pr\u00e9vio de 30 dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jo\u00e3o \u00e9 credor do pagamento de aviso pr\u00e9vio na raz\u00e3o de 63 dias, enquanto Jos\u00e9 far\u00e1 jus ao pagamento de aviso pr\u00e9vio de 75 dias, uma vez que o aviso pr\u00e9vio \u00e9 calculado proporcionalmente ao tempo de servi\u00e7o.",
                 "pmi": [
                     0.012608568809556532,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o \u00e9 credor do pagamento de aviso pr\u00e9vio na raz\u00e3o de 63 dias, enquanto Jos\u00e9 far\u00e1 jus ao pagamento de aviso pr\u00e9vio de 75 dias, uma vez que o aviso pr\u00e9vio \u00e9 calculado proporcionalmente ao tempo de servi\u00e7o."
+                ]
             }
         ],
         "valid": true

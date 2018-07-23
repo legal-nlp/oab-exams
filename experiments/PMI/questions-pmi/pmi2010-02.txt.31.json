@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Se o v\u00edcio se referir ao autor, deve o juiz aplicar-lhe multa por litig\u00e2ncia de m\u00e1-f\u00e9.",
                 "pmi": [
                     0.046290728128467226,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o v\u00edcio se referir ao autor, deve o juiz aplicar-lhe multa por litig\u00e2ncia de m\u00e1-f\u00e9."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se o v\u00edcio se referir ao autor, deve o juiz proferir o julgamento antecipado da lide.",
                 "pmi": [
                     0.07813864871015835,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o v\u00edcio se referir ao autor, deve o juiz proferir o julgamento antecipado da lide."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz reput\u00e1-lo revel.",
                 "pmi": [
                     0.02266553582524702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz reput\u00e1-lo revel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz julgar a causa em seu desfavor.",
                 "pmi": [
                     0.02266553582524702,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se o v\u00edcio se referir ao r\u00e9u, deve o juiz julgar a causa em seu desfavor."
+                ]
             }
         ],
         "valid": true

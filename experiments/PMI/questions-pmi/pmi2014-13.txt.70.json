@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A empresa p\u00fablica federal responde solidariamente por for\u00e7a da terceiriza\u00e7\u00e3o.",
                 "pmi": [
                     0.08553857768080225,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa p\u00fablica federal responde solidariamente por for\u00e7a da terceiriza\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A empresa p\u00fablica federal responde subsidiariamente por for\u00e7a da terceiriza\u00e7\u00e3o, haja vista o inadimplemento das obriga\u00e7\u00f5es trabalhistas por parte do empregador.",
                 "pmi": [
                     0.05888237349898841,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa p\u00fablica federal responde subsidiariamente por for\u00e7a da terceiriza\u00e7\u00e3o, haja vista o inadimplemento das obriga\u00e7\u00f5es trabalhistas por parte do empregador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A empresa p\u00fablica federal \u00e9 parte ileg\u00edtima para figurar no polo passivo da demanda porque n\u00e3o tem v\u00ednculo de emprego com Paulo.",
                 "pmi": [
                     0.06395744406066725,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa p\u00fablica federal \u00e9 parte ileg\u00edtima para figurar no polo passivo da demanda porque n\u00e3o tem v\u00ednculo de emprego com Paulo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A empresa p\u00fablica federal n\u00e3o responde pelo inadimplemento das verbas trabalhistas porque sua responsabilidade n\u00e3o decorre do simples inadimplemento contratual, tendo ficado provado, no caso, que houve efetiva fiscaliza\u00e7\u00e3o por parte da tomadora dos servi\u00e7os.",
                 "pmi": [
                     0.05103115729276551,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A empresa p\u00fablica federal n\u00e3o responde pelo inadimplemento das verbas trabalhistas porque sua responsabilidade n\u00e3o decorre do simples inadimplemento contratual, tendo ficado provado, no caso, que houve efetiva fiscaliza\u00e7\u00e3o por parte da tomadora dos servi\u00e7os."
+                ]
             }
         ],
         "valid": true

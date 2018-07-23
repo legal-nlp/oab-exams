@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "constituem documentos p\u00fablicos a servirem como prova em Ju\u00edzo.",
                 "pmi": [
                     0.11164909314223248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "constituem documentos p\u00fablicos a servirem como prova em Ju\u00edzo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "s\u00e3o presumidas confidenciais, n\u00e3o podendo ser reveladas a terceiros.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00e3o presumidas confidenciais, n\u00e3o podendo ser reveladas a terceiros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "podem ser publicizadas, de acordo com a prud\u00eancia do advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "podem ser publicizadas, de acordo com a prud\u00eancia do advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "devem ser mantidas em sigilo at\u00e9 o perecimento do advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "devem ser mantidas em sigilo at\u00e9 o perecimento do advogado."
+                ]
             }
         ],
         "valid": true

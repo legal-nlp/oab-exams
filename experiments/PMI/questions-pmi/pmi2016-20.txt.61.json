@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "reconhecimento do arrependimento posterior.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "reconhecimento do arrependimento posterior."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "reconhecimento da tentativa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "reconhecimento da tentativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "afastamento da agravante pela idade da v\u00edtima.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "afastamento da agravante pela idade da v\u00edtima."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "afastamento da agravante da reincid\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "afastamento da agravante da reincid\u00eancia."
+                ]
             }
         ],
         "valid": true

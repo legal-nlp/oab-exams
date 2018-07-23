@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o C\u00f3digo Civil estabeleceu um rol taxativo de posses paralelas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o C\u00f3digo Civil estabeleceu um rol taxativo de posses paralelas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e9 admiss\u00edvel o interdito proibit\u00f3rio para a prote\u00e7\u00e3o do direito autoral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 admiss\u00edvel o interdito proibit\u00f3rio para a prote\u00e7\u00e3o do direito autoral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "f\u00e2mulos da posse s\u00e3o aqueles que exercitam atos de posse em nome pr\u00f3prio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "f\u00e2mulos da posse s\u00e3o aqueles que exercitam atos de posse em nome pr\u00f3prio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "a composse \u00e9 uma situa\u00e7\u00e3o que se verifica na comunh\u00e3o pro indiviso, do qual cada possuidor conta com uma fra\u00e7\u00e3o ideal sobre a posse.",
                 "pmi": [
                     0.02801755456763667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a composse \u00e9 uma situa\u00e7\u00e3o que se verifica na comunh\u00e3o pro indiviso, do qual cada possuidor conta com uma fra\u00e7\u00e3o ideal sobre a posse."
+                ]
             }
         ],
         "valid": true

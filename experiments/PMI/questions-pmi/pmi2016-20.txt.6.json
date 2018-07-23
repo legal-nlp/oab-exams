@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Federal da OAB, dentre os membros do Conselho Seccional respectivo.",
                 "pmi": [
                     0.07017980332940145,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Federal da OAB, dentre os membros do Conselho Seccional respectivo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Seccional respectivo, dentre seus membros.",
                 "pmi": [
                     0.09079518875715528,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pelo Conselho Seccional respectivo, dentre seus membros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O sucessor de Charles dever\u00e1 ser eleito pela Subse\u00e7\u00e3o respectiva, dentre seus membros.",
                 "pmi": [
                     0.02433082969888905,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sucessor de Charles dever\u00e1 ser eleito pela Subse\u00e7\u00e3o respectiva, dentre seus membros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O sucessor de Charles dever\u00e1 ser eleito por vota\u00e7\u00e3o direta dos advogados regularmente inscritos perante o Conselho Seccional respectivo.",
                 "pmi": [
                     0.04652505134078636,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O sucessor de Charles dever\u00e1 ser eleito por vota\u00e7\u00e3o direta dos advogados regularmente inscritos perante o Conselho Seccional respectivo."
+                ]
             }
         ],
         "valid": true

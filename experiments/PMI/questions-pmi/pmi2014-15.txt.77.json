@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Correta a decis\u00e3o do juiz, pois j\u00e1 fora ultrapassada a fase de conhecimento.",
                 "pmi": [
                     0.025278463364281276,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Correta a decis\u00e3o do juiz, pois j\u00e1 fora ultrapassada a fase de conhecimento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Errada a decis\u00e3o do juiz, pois era cab\u00edvel a prova testemunhal em sede de embargos \u00e0 execu\u00e7\u00e3o, podendo o juiz indeferir as testemunhas se desnecess\u00e1rios os depoimentos.",
                 "pmi": [
                     0.0060758094324623625,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Errada a decis\u00e3o do juiz, pois era cab\u00edvel a prova testemunhal em sede de embargos \u00e0 execu\u00e7\u00e3o, podendo o juiz indeferir as testemunhas se desnecess\u00e1rios os depoimentos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Errada a decis\u00e3o do juiz, sendo cab\u00edvel a prova testemunhal, n\u00e3o podendo indeferir as testemunhas, cabendo, nesse caso, argui\u00e7\u00e3o de nulidade da decis\u00e3o.",
                 "pmi": [
                     -0.017112864122933606,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Errada a decis\u00e3o do juiz, sendo cab\u00edvel a prova testemunhal, n\u00e3o podendo indeferir as testemunhas, cabendo, nesse caso, argui\u00e7\u00e3o de nulidade da decis\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Correta a decis\u00e3o do juiz, j\u00e1 que a mat\u00e9ria da execu\u00e7\u00e3o est\u00e1 restrita a valores.",
                 "pmi": [
                     0.00868727945351472,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Correta a decis\u00e3o do juiz, j\u00e1 que a mat\u00e9ria da execu\u00e7\u00e3o est\u00e1 restrita a valores."
+                ]
             }
         ],
         "valid": true

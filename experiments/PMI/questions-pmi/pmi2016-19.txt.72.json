@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A hora noturna de Pedro ser\u00e1 computada como tendo 60 minutos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A hora noturna de Pedro ser\u00e1 computada como tendo 60 minutos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A hora noturna rural \u00e9 reduzida, sendo de 52 minutos e 30 segundos.",
                 "pmi": [
                     0.05181322149724239,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A hora noturna rural \u00e9 reduzida, sendo de 52 minutos e 30 segundos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A hora noturna de Pedro ser\u00e1 acrescida de 20%.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A hora noturna de Pedro ser\u00e1 acrescida de 20%."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o h\u00e1 previs\u00e3o de redu\u00e7\u00e3o de hora noturna nem de adicional noturno para o rural.",
                 "pmi": [
                     0.06044875841344946,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 previs\u00e3o de redu\u00e7\u00e3o de hora noturna nem de adicional noturno para o rural."
+                ]
             }
         ],
         "valid": true

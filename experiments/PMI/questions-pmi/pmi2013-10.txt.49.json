@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Fiscalizar a execu\u00e7\u00e3o do plano de recupera\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fiscalizar a execu\u00e7\u00e3o do plano de recupera\u00e7\u00e3o judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Fornecer, com presteza, todas as informa\u00e7\u00f5es exigidas pelos credores interessados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Fornecer, com presteza, todas as informa\u00e7\u00f5es exigidas pelos credores interessados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Consolidar o quadro geral de credores e providenciar sua publica\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Consolidar o quadro geral de credores e providenciar sua publica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Apresentar ao juiz, para juntada aos autos, relat\u00f3rio mensal das atividades do devedor.",
                 "pmi": [
                     0.059936695785044215,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apresentar ao juiz, para juntada aos autos, relat\u00f3rio mensal das atividades do devedor."
+                ]
             }
         ],
         "valid": true

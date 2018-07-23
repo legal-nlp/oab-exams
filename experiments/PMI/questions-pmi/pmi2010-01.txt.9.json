@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "renunciar ao mandato e continuar representando seu cliente por trinta dias, salvo se este constituir novo advogado antes do t\u00e9rmino do prazo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "renunciar ao mandato e continuar representando seu cliente por trinta dias, salvo se este constituir novo advogado antes do t\u00e9rmino do prazo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "fazer um substabelecimento sem reservas de poderes para outro advogado e depois comunicar o fato ao cliente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "fazer um substabelecimento sem reservas de poderes para outro advogado e depois comunicar o fato ao cliente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "comunicar ao cliente a ren\u00fancia ao mandato e funcionar no processo nos dez dias subsequentes, caso outro advogado n\u00e3o se habilite antes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunicar ao cliente a ren\u00fancia ao mandato e funcionar no processo nos dez dias subsequentes, caso outro advogado n\u00e3o se habilite antes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "comunicar ao cliente a desist\u00eancia do mandato e indicar outro advogado para a causa, o qual deve ser, obrigatoriamente, contratado pelo cliente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunicar ao cliente a desist\u00eancia do mandato e indicar outro advogado para a causa, o qual deve ser, obrigatoriamente, contratado pelo cliente."
+                ]
             }
         ],
         "valid": true

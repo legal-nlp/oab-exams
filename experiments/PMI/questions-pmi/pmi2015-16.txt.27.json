@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "21 de janeiro de 2014",
                 "pmi": [
                     0.03222318354931234,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "21 de janeiro de 2014"
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "02 de junho de 2014",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "02 de junho de 2014"
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "02 de mar\u00e7o de 2015",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "02 de mar\u00e7o de 2015"
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "21 de outubro de 2014",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "21 de outubro de 2014"
+                ]
             }
         ],
         "valid": true

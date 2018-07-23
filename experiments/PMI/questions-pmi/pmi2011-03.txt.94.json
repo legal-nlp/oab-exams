@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo fato do produto em face do fabricante do ve\u00edculo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo fato do produto em face do fabricante do ve\u00edculo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o h\u00e1 a\u00e7\u00e3o a ser proposta porque n\u00e3o houve dano.",
                 "pmi": [
                     0.010718454583448736,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 a\u00e7\u00e3o a ser proposta porque n\u00e3o houve dano."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo fato do produto em face da concession\u00e1ria que vendeu o ve\u00edculo a Joaquim.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo fato do produto em face da concession\u00e1ria que vendeu o ve\u00edculo a Joaquim."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo v\u00edcio do produto em face do fabricante e da concession\u00e1ria, uma vez que a responsabilidade \u00e9 solid\u00e1ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Propositura de a\u00e7\u00e3o de responsabilidade civil pelo v\u00edcio do produto em face do fabricante e da concession\u00e1ria, uma vez que a responsabilidade \u00e9 solid\u00e1ria."
+                ]
             }
         ],
         "valid": true

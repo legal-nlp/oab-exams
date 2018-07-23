@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O magistrado n\u00e3o agiu corretamente, eis que \u00e9 inadmiss\u00edvel a fixa\u00e7\u00e3o de presta\u00e7\u00e3o de servi\u00e7os \u00e0 comunidade (Art. 43, IV, do CP) como condi\u00e7\u00e3o especial para o regime aberto.",
                 "pmi": [
                     0.017320946105442055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado n\u00e3o agiu corretamente, eis que \u00e9 inadmiss\u00edvel a fixa\u00e7\u00e3o de presta\u00e7\u00e3o de servi\u00e7os \u00e0 comunidade (Art. 43, IV, do CP) como condi\u00e7\u00e3o especial para o regime aberto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O magistrado agiu corretamente, uma vez que \u00e9 admiss\u00edvel a fixa\u00e7\u00e3o de presta\u00e7\u00e3o de servi\u00e7os \u00e0 comunidade (Art. 43, IV, do CP) como condi\u00e7\u00e3o especial para o regime aberto.",
                 "pmi": [
                     0.018403505237032183,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado agiu corretamente, uma vez que \u00e9 admiss\u00edvel a fixa\u00e7\u00e3o de presta\u00e7\u00e3o de servi\u00e7os \u00e0 comunidade (Art. 43, IV, do CP) como condi\u00e7\u00e3o especial para o regime aberto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O magistrado n\u00e3o agiu corretamente, tendo em vista que deveria ter fixado mais de uma pena substitutiva prevista no Art. 44, do CP, como condi\u00e7\u00e3o especial para a concess\u00e3o do regime aberto.",
                 "pmi": [
                     0.034473373764498584,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado n\u00e3o agiu corretamente, tendo em vista que deveria ter fixado mais de uma pena substitutiva prevista no Art. 44, do CP, como condi\u00e7\u00e3o especial para a concess\u00e3o do regime aberto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O magistrado agiu corretamente, pois poderia estabelecer qualquer condi\u00e7\u00e3o como requisito para a concess\u00e3o do regime aberto.",
                 "pmi": [
                     0.028828958099535604,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O magistrado agiu corretamente, pois poderia estabelecer qualquer condi\u00e7\u00e3o como requisito para a concess\u00e3o do regime aberto."
+                ]
             }
         ],
         "valid": true

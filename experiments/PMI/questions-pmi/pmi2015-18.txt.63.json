@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "aborto tentado com consentimento da gestante qualificado pelo resultado morte.",
                 "pmi": [
                     0.027882651745558453,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "aborto tentado com consentimento da gestante qualificado pelo resultado morte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "aborto tentado com consentimento da gestante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "aborto tentado com consentimento da gestante."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "homic\u00eddio culposo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "homic\u00eddio culposo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "homic\u00eddio doloso.",
                 "pmi": [
                     0.09298189806427612,
                     0.0,
                     0,
                     0
-                ],
-                "text": "homic\u00eddio doloso."
+                ]
             }
         ],
         "valid": true

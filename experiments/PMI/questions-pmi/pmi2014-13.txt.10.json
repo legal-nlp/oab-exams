@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Valdir n\u00e3o pode revelar o segredo que lhe foi confiado por Andr\u00e9, pois o advogado deve sempre guardar sigilo sobre o que saiba em raz\u00e3o do seu of\u00edcio.",
                 "pmi": [
                     0.0023053543659949456,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Valdir n\u00e3o pode revelar o segredo que lhe foi confiado por Andr\u00e9, pois o advogado deve sempre guardar sigilo sobre o que saiba em raz\u00e3o do seu of\u00edcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Valdir poderia revelar o segredo que lhe foi confiado por Andr\u00e9, mas apenas no caso de ser intimado como testemunha em a\u00e7\u00e3o penal eventualmente deflagrada para a apura\u00e7\u00e3o do homic\u00eddio que viesse a ser efetivamente praticado.",
                 "pmi": [
                     -0.006351010869271924,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Valdir poderia revelar o segredo que lhe foi confiado por Andr\u00e9, mas apenas no caso de ser intimado como testemunha em a\u00e7\u00e3o penal eventualmente deflagrada para a apura\u00e7\u00e3o do homic\u00eddio que viesse a ser efetivamente praticado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Valdir pode revelar o segredo que lhe foi confiado por Andr\u00e9, em raz\u00e3o de estar a vida da ex-esposa deste \u00faltimo em risco.",
                 "pmi": [
                     -0.012305791029455957,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Valdir pode revelar o segredo que lhe foi confiado por Andr\u00e9, em raz\u00e3o de estar a vida da ex-esposa deste \u00faltimo em risco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Valdir n\u00e3o pode revelar o segredo que lhe foi confiado por Andr\u00e9, mas tem obriga\u00e7\u00e3o legal de impedir que o homic\u00eddio seja praticado, sob pena de se tornar part\u00edcipe do crime.",
                 "pmi": [
                     0.005819766292809546,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Valdir n\u00e3o pode revelar o segredo que lhe foi confiado por Andr\u00e9, mas tem obriga\u00e7\u00e3o legal de impedir que o homic\u00eddio seja praticado, sob pena de se tornar part\u00edcipe do crime."
+                ]
             }
         ],
         "valid": true

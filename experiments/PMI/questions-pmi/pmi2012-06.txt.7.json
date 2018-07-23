@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a sustenta\u00e7\u00e3o oral esgota a atividade do advogado no julgamento.",
                 "pmi": [
                     -0.00374957426782801,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a sustenta\u00e7\u00e3o oral esgota a atividade do advogado no julgamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "s\u00f3 esclarecimentos de situa\u00e7\u00e3o de fato ser\u00e3o admitidos no caso.",
                 "pmi": [
                     0.0005627525085917267,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "s\u00f3 esclarecimentos de situa\u00e7\u00e3o de fato ser\u00e3o admitidos no caso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "somente em momento posterior poder\u00e1 o advogado tomar provid\u00eancias.",
                 "pmi": [
                     -0.020953884661605665,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "somente em momento posterior poder\u00e1 o advogado tomar provid\u00eancias."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e9 assegurado ao advogado o direito de usar a palavra para replicar a acusa\u00e7\u00e3o feita contra ele, ainda que j\u00e1 proferida sua sustenta\u00e7\u00e3o oral.",
                 "pmi": [
                     -0.012419081301574384,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 assegurado ao advogado o direito de usar a palavra para replicar a acusa\u00e7\u00e3o feita contra ele, ainda que j\u00e1 proferida sua sustenta\u00e7\u00e3o oral."
+                ]
             }
         ],
         "valid": true

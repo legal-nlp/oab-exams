@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o faz jus \u00e0 devolu\u00e7\u00e3o do pagamento de R$ 20.000,00.",
                 "pmi": [
                     -0.0807444864416087,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o faz jus \u00e0 devolu\u00e7\u00e3o do pagamento de R$ 20.000,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 50% do valor, tendo em vista que Ant\u00f4nio, vendedor, n\u00e3o teve culpa.",
                 "pmi": [
                     0.03404863084425029,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 50% do valor, tendo em vista que Ant\u00f4nio, vendedor, n\u00e3o teve culpa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 50% do valor, tendo em vista que Ant\u00f4nio, vendedor, teve culpa.",
                 "pmi": [
                     0.03404863084425029,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 50% do valor, tendo em vista que Ant\u00f4nio, vendedor, teve culpa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 100% do valor, pois ainda n\u00e3o havia ocorrido a tradi\u00e7\u00e3o no momento do perecimento do bem.",
                 "pmi": [
                     0.0338856080915609,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ter\u00e1 direito \u00e0 devolu\u00e7\u00e3o de 100% do valor, pois ainda n\u00e3o havia ocorrido a tradi\u00e7\u00e3o no momento do perecimento do bem."
+                ]
             }
         ],
         "valid": true

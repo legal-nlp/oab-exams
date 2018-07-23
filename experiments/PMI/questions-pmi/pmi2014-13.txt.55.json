@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Exigir-se-\u00e1 a comprova\u00e7\u00e3o do requisito do pr\u00e9-questionamento para a admiss\u00e3o do recurso ordin\u00e1rio constitucional perante os Tribunais Superiores.",
                 "pmi": [
                     0.06563956875041652,
                     0.027175578973088994,
                     0.0,
                     0.0
-                ],
-                "text": "Exigir-se-\u00e1 a comprova\u00e7\u00e3o do requisito do pr\u00e9-questionamento para a admiss\u00e3o do recurso ordin\u00e1rio constitucional perante os Tribunais Superiores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Apenas ser\u00e1 acolhido o recurso ordin\u00e1rio que versar sobre quest\u00f5es exclusivamente de direito, n\u00e3o se admitindo a rediscuss\u00e3o de mat\u00e9ria f\u00e1tica por meio desta via recursal.",
                 "pmi": [
                     0.043445176298691275,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas ser\u00e1 acolhido o recurso ordin\u00e1rio que versar sobre quest\u00f5es exclusivamente de direito, n\u00e3o se admitindo a rediscuss\u00e3o de mat\u00e9ria f\u00e1tica por meio desta via recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Compete ao Supremo Tribunal Federal julgar o recurso ordin\u00e1rio interposto contra mandado de seguran\u00e7a decidido em \u00fanica inst\u00e2ncia pelos Tribunais Regionais Federais ou pelos Tribunais dos estados, do Distrito Federal e dos territ\u00f3rios, quando denegat\u00f3ria a decis\u00e3o.",
                 "pmi": [
                     0.1378079100649633,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Compete ao Supremo Tribunal Federal julgar o recurso ordin\u00e1rio interposto contra mandado de seguran\u00e7a decidido em \u00fanica inst\u00e2ncia pelos Tribunais Regionais Federais ou pelos Tribunais dos estados, do Distrito Federal e dos territ\u00f3rios, quando denegat\u00f3ria a decis\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Ser\u00e3o julgadas em recurso ordin\u00e1rio pelo Superior Tribunal de Justi\u00e7a as causas em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, do outro, munic\u00edpio ou pessoa residente ou domiciliada no pa\u00eds.",
                 "pmi": [
                     0.1971649249101162,
                     0.053220516420046264,
                     0.015921552118477397,
-                    0.0
-                ],
-                "text": "Ser\u00e3o julgadas em recurso ordin\u00e1rio pelo Superior Tribunal de Justi\u00e7a as causas em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, do outro, munic\u00edpio ou pessoa residente ou domiciliada no pa\u00eds."
+                    0.015921552118477397
+                ]
             }
         ],
         "valid": true

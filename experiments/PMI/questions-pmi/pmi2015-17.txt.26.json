@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a decreta\u00e7\u00e3o de fal\u00eancia autoriza o redirecionamento da execu\u00e7\u00e3o fiscal para Francisco, por ser considerada hip\u00f3tese de infra\u00e7\u00e3o \u00e0 lei, que enseja responsabilidade tribut\u00e1ria.",
                 "pmi": [
                     0.04700692025094627,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a decreta\u00e7\u00e3o de fal\u00eancia autoriza o redirecionamento da execu\u00e7\u00e3o fiscal para Francisco, por ser considerada hip\u00f3tese de infra\u00e7\u00e3o \u00e0 lei, que enseja responsabilidade tribut\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o fato de Francisco ser s\u00f3cio da XYZ Ltda. acarreta, por si s\u00f3, responsabilidade pessoal pelos cr\u00e9ditos correspondentes a obriga\u00e7\u00f5es tribut\u00e1rias da pessoa jur\u00eddica.",
                 "pmi": [
                     0.06020195854932699,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o fato de Francisco ser s\u00f3cio da XYZ Ltda. acarreta, por si s\u00f3, responsabilidade pessoal pelos cr\u00e9ditos correspondentes a obriga\u00e7\u00f5es tribut\u00e1rias da pessoa jur\u00eddica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Francisco n\u00e3o poderia ser inclu\u00eddo no polo passivo, ainda que fosse administrador da XYZ Ltda. e tivesse encerrado ilegalmente as atividades da pessoa jur\u00eddica.",
                 "pmi": [
                     0.08907357753304129,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco n\u00e3o poderia ser inclu\u00eddo no polo passivo, ainda que fosse administrador da XYZ Ltda. e tivesse encerrado ilegalmente as atividades da pessoa jur\u00eddica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Francisco n\u00e3o poderia, unicamente em raz\u00e3o da decreta\u00e7\u00e3o de fal\u00eancia de XYZ Ltda., ser inclu\u00eddo no polo passivo da execu\u00e7\u00e3o fiscal.",
                 "pmi": [
                     0.02345877229875876,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco n\u00e3o poderia, unicamente em raz\u00e3o da decreta\u00e7\u00e3o de fal\u00eancia de XYZ Ltda., ser inclu\u00eddo no polo passivo da execu\u00e7\u00e3o fiscal."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "somente pode ser destitu\u00eddo pelo Ju\u00edzo da Fal\u00eancia na hip\u00f3tese de, ap\u00f3s intimado, n\u00e3o apresentar, no prazo de 5 (cinco) dias, suas contas ou os relat\u00f3rios previstos na Lei 11.101/2005.",
                 "pmi": [
                     0.01351131239000623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "somente pode ser destitu\u00eddo pelo Ju\u00edzo da Fal\u00eancia na hip\u00f3tese de, ap\u00f3s intimado, n\u00e3o apresentar, no prazo de 5 (cinco) dias, suas contas ou os relat\u00f3rios previstos na Lei 11.101/2005."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o Administrador Judicial, pessoa f\u00edsica, pode ser formado em Engenharia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Administrador Judicial, pessoa f\u00edsica, pode ser formado em Engenharia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "ser\u00e1 escolhido pela Assembleia Geral de Credores.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 escolhido pela Assembleia Geral de Credores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "perceber\u00e1 remunera\u00e7\u00e3o fixada pelo Comit\u00ea de Credores.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "perceber\u00e1 remunera\u00e7\u00e3o fixada pelo Comit\u00ea de Credores."
+                ]
             }
         ],
         "valid": true

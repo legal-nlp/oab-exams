@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a publicidade somente vincula o fornecedor se contiver informa\u00e7\u00f5es falsas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a publicidade somente vincula o fornecedor se contiver informa\u00e7\u00f5es falsas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a publicidade que n\u00e3o informa sobre a origem do produto \u00e9 considerada enganosa, mesmo quando n\u00e3o essencial para o produto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a publicidade que n\u00e3o informa sobre a origem do produto \u00e9 considerada enganosa, mesmo quando n\u00e3o essencial para o produto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o \u00f4nus da prova da veracidade da mensagem publicit\u00e1ria cabe ao ve\u00edculo de comunica\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o \u00f4nus da prova da veracidade da mensagem publicit\u00e1ria cabe ao ve\u00edculo de comunica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e9 abusiva a publicidade que desrespeita valores ambientais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 abusiva a publicidade que desrespeita valores ambientais."
+                ]
             }
         ],
         "valid": true

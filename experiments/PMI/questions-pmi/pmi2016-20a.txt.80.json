@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O juiz equivocou-se, pois na seara trabalhista a prescri\u00e7\u00e3o n\u00e3o pode ser decretada de of\u00edcio.",
                 "pmi": [
                     0.07469108870051713,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz equivocou-se, pois na seara trabalhista a prescri\u00e7\u00e3o n\u00e3o pode ser decretada de of\u00edcio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Correto o juiz, pois n\u00e3o se trata de reclama\u00e7\u00e3o trabalhista e, assim, a prescri\u00e7\u00e3o pode ser decretada de of\u00edcio.",
                 "pmi": [
                     0.06535470261295248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Correto o juiz, pois n\u00e3o se trata de reclama\u00e7\u00e3o trabalhista e, assim, a prescri\u00e7\u00e3o pode ser decretada de of\u00edcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o h\u00e1 dispositivo legal a respeito, da\u00ed porque, em raz\u00e3o do princ\u00edpio da prote\u00e7\u00e3o, n\u00e3o deveria haver decreta\u00e7\u00e3o de of\u00edcio da prescri\u00e7\u00e3o.",
                 "pmi": [
                     0.05536387047466557,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 dispositivo legal a respeito, da\u00ed porque, em raz\u00e3o do princ\u00edpio da prote\u00e7\u00e3o, n\u00e3o deveria haver decreta\u00e7\u00e3o de of\u00edcio da prescri\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Uma vez que n\u00e3o existe prescri\u00e7\u00e3o para o cr\u00e9dito fiscal, agiu erroneamente o magistrado ao decretar a prescri\u00e7\u00e3o intercorrente.",
                 "pmi": [
                     -0.002415726870878256,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uma vez que n\u00e3o existe prescri\u00e7\u00e3o para o cr\u00e9dito fiscal, agiu erroneamente o magistrado ao decretar a prescri\u00e7\u00e3o intercorrente."
+                ]
             }
         ],
         "valid": true

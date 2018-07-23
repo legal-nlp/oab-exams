@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Anistia",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Anistia"
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Remiss\u00e3o",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Remiss\u00e3o"
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Prescri\u00e7\u00e3o",
                 "pmi": [
                     0.2560094036144864,
                     0,
                     0,
                     0
-                ],
-                "text": "Prescri\u00e7\u00e3o"
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Compensa\u00e7\u00e3o",
                 "pmi": [
                     0.22375133909835737,
                     0,
                     0,
                     0
-                ],
-                "text": "Compensa\u00e7\u00e3o"
+                ]
             }
         ],
         "valid": true

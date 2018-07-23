@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00c9 cab\u00edvel e a mat\u00e9ria nele veiculada n\u00e3o precisa estar relacionada ao recurso principal.",
                 "pmi": [
                     0.13189865058364508,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel e a mat\u00e9ria nele veiculada n\u00e3o precisa estar relacionada ao recurso principal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 incab\u00edvel na Justi\u00e7a do Trabalho porque n\u00e3o h\u00e1 previs\u00e3o dele na CLT.",
                 "pmi": [
                     0.10933932049379232,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 incab\u00edvel na Justi\u00e7a do Trabalho porque n\u00e3o h\u00e1 previs\u00e3o dele na CLT."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 cab\u00edvel, pressupondo sucumb\u00eancia rec\u00edproca e, caso interposto pela empresa, ela fica isenta de preparo.",
                 "pmi": [
                     0.10551892046691608,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel, pressupondo sucumb\u00eancia rec\u00edproca e, caso interposto pela empresa, ela fica isenta de preparo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00c9 cab\u00edvel, mas a mat\u00e9ria nele veiculada precisa estar relacionada ao recurso principal.",
                 "pmi": [
                     0.13189865058364508,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 cab\u00edvel, mas a mat\u00e9ria nele veiculada precisa estar relacionada ao recurso principal."
+                ]
             }
         ],
         "valid": true

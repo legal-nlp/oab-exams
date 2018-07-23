@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O controle escrito n\u00e3o \u00e9 necess\u00e1rio, porque menos de 10 empregados trabalham na resid\u00eancia de Rog\u00e9rio.",
                 "pmi": [
                     0.02548330070289408,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O controle escrito n\u00e3o \u00e9 necess\u00e1rio, porque menos de 10 empregados trabalham na resid\u00eancia de Rog\u00e9rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A lei de reg\u00eancia prev\u00ea que as partes podem acertar, por escrito, a isen\u00e7\u00e3o de marca\u00e7\u00e3o da jornada normal, assinalando apenas a eventual hora extra.",
                 "pmi": [
                     0.008081859372877968,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei de reg\u00eancia prev\u00ea que as partes podem acertar, por escrito, a isen\u00e7\u00e3o de marca\u00e7\u00e3o da jornada normal, assinalando apenas a eventual hora extra."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A Lei \u00e9 omissa a respeito, da\u00ed por que a exist\u00eancia de controle deve ser acertado entre as partes envolvidas no momento da contrata\u00e7\u00e3o.",
                 "pmi": [
                     0.026880824039722105,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Lei \u00e9 omissa a respeito, da\u00ed por que a exist\u00eancia de controle deve ser acertado entre as partes envolvidas no momento da contrata\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Rog\u00e9rio deve, por for\u00e7a de Lei, manter controle escrito dos hor\u00e1rios de entrada e sa\u00edda da empregada dom\u00e9stica.",
                 "pmi": [
                     0.020811471022471845,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Rog\u00e9rio deve, por for\u00e7a de Lei, manter controle escrito dos hor\u00e1rios de entrada e sa\u00edda da empregada dom\u00e9stica."
+                ]
             }
         ],
         "valid": true

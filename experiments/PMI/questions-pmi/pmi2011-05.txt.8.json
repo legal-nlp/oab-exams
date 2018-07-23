@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "inexistem medidas administrativas a realizar no \u00e2mbito da OAB.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inexistem medidas administrativas a realizar no \u00e2mbito da OAB."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "esses lit\u00edgios devem ser resolvidos no \u00e2mbito do processo judicial.",
                 "pmi": [
                     0.047615888074779074,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "esses lit\u00edgios devem ser resolvidos no \u00e2mbito do processo judicial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a separa\u00e7\u00e3o entre a atividade do juiz e a do advogado bloqueia a atividade da OAB.",
                 "pmi": [
                     0.1207230758362693,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a separa\u00e7\u00e3o entre a atividade do juiz e a do advogado bloqueia a atividade da OAB."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "\u00e9 situa\u00e7\u00e3o t\u00edpica de desagravo pela atua\u00e7\u00e3o profissional dos advogados.",
                 "pmi": [
                     0.04827011765229186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 situa\u00e7\u00e3o t\u00edpica de desagravo pela atua\u00e7\u00e3o profissional dos advogados."
+                ]
             }
         ],
         "valid": true

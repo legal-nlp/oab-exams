@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "somente os analfabetos e os conscritos.",
                 "pmi": [
                     1.4193679354741728,
                     0.0,
                     0,
                     0
-                ],
-                "text": "somente os analfabetos e os conscritos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "os estrangeiros, os analfabetos e os conscritos.",
                 "pmi": [
                     0.9462452903161153,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os estrangeiros, os analfabetos e os conscritos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "somente os estrangeiros e os analfabetos.",
                 "pmi": [
                     1.4193679354741728,
                     0.0,
                     0,
                     0
-                ],
-                "text": "somente os estrangeiros e os analfabetos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "somente os estrangeiros e os conscritos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "somente os estrangeiros e os conscritos."
+                ]
             }
         ],
         "valid": true

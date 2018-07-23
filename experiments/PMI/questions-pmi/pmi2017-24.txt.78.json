@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Interpor Recurso Ordin\u00e1rio para o TST.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interpor Recurso Ordin\u00e1rio para o TST."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Interpor Agravo de Instrumento para o STF.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interpor Agravo de Instrumento para o STF."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Interpor Agravo Interno para o pr\u00f3prio TRT.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interpor Agravo Interno para o pr\u00f3prio TRT."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Nada mais pode ser feito, porque se trata de decis\u00e3o irrecorr\u00edvel.",
                 "pmi": [
                     0.07895481651165148,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nada mais pode ser feito, porque se trata de decis\u00e3o irrecorr\u00edvel."
+                ]
             }
         ],
         "valid": true

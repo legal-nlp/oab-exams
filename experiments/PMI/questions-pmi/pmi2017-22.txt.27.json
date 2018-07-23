@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00c9 inv\u00e1lida, pois deveria ter sido institu\u00edda pelo Estado Beta, onde est\u00e1 localizado o Munic\u00edpio Alfa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 inv\u00e1lida, pois deveria ter sido institu\u00edda pelo Estado Beta, onde est\u00e1 localizado o Munic\u00edpio Alfa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "\u00c9 v\u00e1lida, porque foi institu\u00edda para fazer face ao custo de obra p\u00fablica da qual decorre a valoriza\u00e7\u00e3o imobili\u00e1ria.",
                 "pmi": [
                     0.09137994415870059,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 v\u00e1lida, porque foi institu\u00edda para fazer face ao custo de obra p\u00fablica da qual decorre a valoriza\u00e7\u00e3o imobili\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 v\u00e1lida, mas poderia ter sido institu\u00edda independentemente da valoriza\u00e7\u00e3o dos im\u00f3veis dos contribuintes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 v\u00e1lida, mas poderia ter sido institu\u00edda independentemente da valoriza\u00e7\u00e3o dos im\u00f3veis dos contribuintes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00c9 inv\u00e1lida, porque deveria ter, como limite individual, o valor global da despesa realizada pelo Poder P\u00fablico na obra e n\u00e3o a valoriza\u00e7\u00e3o de cada im\u00f3vel.",
                 "pmi": [
                     0.027387998104139378,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 inv\u00e1lida, porque deveria ter, como limite individual, o valor global da despesa realizada pelo Poder P\u00fablico na obra e n\u00e3o a valoriza\u00e7\u00e3o de cada im\u00f3vel."
+                ]
             }
         ],
         "valid": true

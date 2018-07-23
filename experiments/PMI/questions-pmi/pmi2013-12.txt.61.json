@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Paula responder\u00e1 por homic\u00eddio doloso consumado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paula responder\u00e1 por homic\u00eddio doloso consumado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Paula responder\u00e1 por tentativa de homic\u00eddio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paula responder\u00e1 por tentativa de homic\u00eddio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa relativamente independente superveniente que por si s\u00f3 gerou o resultado.",
                 "pmi": [
                     0.0014520726032887477,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa relativamente independente superveniente que por si s\u00f3 gerou o resultado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa absolutamente independente concomitante.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O veneno, em rela\u00e7\u00e3o \u00e0s facadas, configura concausa absolutamente independente concomitante."
+                ]
             }
         ],
         "valid": true

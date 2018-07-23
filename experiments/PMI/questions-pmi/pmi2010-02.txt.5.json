@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a imunidade profissional n\u00e3o pode sofrer restri\u00e7\u00f5es de qualquer natureza.",
                 "pmi": [
                     0.048243670148063016,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a imunidade profissional n\u00e3o pode sofrer restri\u00e7\u00f5es de qualquer natureza."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "nenhuma demanda judicial, qualquer que seja o \u00f3rg\u00e3o do Poder Judici\u00e1rio pelo qual tramite, independentemente de sua natureza, objeto e partes envolvidas, pode receber a presta\u00e7\u00e3o jurisdicional se n\u00e3o houver atua\u00e7\u00e3o de advogado.",
                 "pmi": [
                     0.11929325030604382,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "nenhuma demanda judicial, qualquer que seja o \u00f3rg\u00e3o do Poder Judici\u00e1rio pelo qual tramite, independentemente de sua natureza, objeto e partes envolvidas, pode receber a presta\u00e7\u00e3o jurisdicional se n\u00e3o houver atua\u00e7\u00e3o de advogado."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a inviolabilidade do escrit\u00f3rio ou local de trabalho \u00e9 assegurada nos termos da lei, n\u00e3o sendo vedadas, contudo, a busca e a apreens\u00e3o judicialmente decretadas, por decis\u00e3o motivada, desde que realizada na presen\u00e7a de representante da OAB, salvo se esta, devidamente notificada ou solicitada, n\u00e3o proceder \u00e0 indica\u00e7\u00e3o.",
                 "pmi": [
                     0.019974034985824337,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a inviolabilidade do escrit\u00f3rio ou local de trabalho \u00e9 assegurada nos termos da lei, n\u00e3o sendo vedadas, contudo, a busca e a apreens\u00e3o judicialmente decretadas, por decis\u00e3o motivada, desde que realizada na presen\u00e7a de representante da OAB, salvo se esta, devidamente notificada ou solicitada, n\u00e3o proceder \u00e0 indica\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a pris\u00e3o do advogado, por motivo de exerc\u00edcio da profiss\u00e3o, somente poder\u00e1 ocorrer em flagrante, mesmo em caso de crime afian\u00e7\u00e1vel.",
                 "pmi": [
                     0.19513751037343896,
                     0.09930509382184137,
                     0.0,
                     0.0
-                ],
-                "text": "a pris\u00e3o do advogado, por motivo de exerc\u00edcio da profiss\u00e3o, somente poder\u00e1 ocorrer em flagrante, mesmo em caso de crime afian\u00e7\u00e1vel."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Por se tratar de ato administrativo discricion\u00e1rio, a autoriza\u00e7\u00e3o e sua revoga\u00e7\u00e3o n\u00e3o podem ser investigadas na via judicial.",
                 "pmi": [
                     0.03199064232617489,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por se tratar de ato administrativo discricion\u00e1rio, a autoriza\u00e7\u00e3o e sua revoga\u00e7\u00e3o n\u00e3o podem ser investigadas na via judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A despeito de se tratar de ato administrativo discricion\u00e1rio, \u00e9 admiss\u00edvel o controle judicial do ato.",
                 "pmi": [
                     0.020425261942460648,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A despeito de se tratar de ato administrativo discricion\u00e1rio, \u00e9 admiss\u00edvel o controle judicial do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A autoriza\u00e7\u00e3o de uso de bem p\u00fablico \u00e9 ato vinculado, de modo que, uma vez preenchidos os pressupostos, n\u00e3o poderia ser negado ao particular o direito ao seu uso, por meio da revoga\u00e7\u00e3o do ato.",
                 "pmi": [
                     0.023929359983442547,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A autoriza\u00e7\u00e3o de uso de bem p\u00fablico \u00e9 ato vinculado, de modo que, uma vez preenchidos os pressupostos, n\u00e3o poderia ser negado ao particular o direito ao seu uso, por meio da revoga\u00e7\u00e3o do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A autoriza\u00e7\u00e3o de uso de bem p\u00fablico \u00e9 ato discricion\u00e1rio, mas, uma vez deferido o uso ao particular, passa-se a estar diante de ato vinculado, que n\u00e3o admite revoga\u00e7\u00e3o.",
                 "pmi": [
                     0.019027340048358966,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A autoriza\u00e7\u00e3o de uso de bem p\u00fablico \u00e9 ato discricion\u00e1rio, mas, uma vez deferido o uso ao particular, passa-se a estar diante de ato vinculado, que n\u00e3o admite revoga\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

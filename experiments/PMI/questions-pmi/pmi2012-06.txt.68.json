@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A senten\u00e7a \u00e9 nula, porque foi prolatada por juiz que n\u00e3o presidiu a instru\u00e7\u00e3o do feito, em desacordo com o princ\u00edpio da identidade f\u00edsica do juiz.",
                 "pmi": [
                     0.11291617675856079,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a \u00e9 nula, porque foi prolatada por juiz que n\u00e3o presidiu a instru\u00e7\u00e3o do feito, em desacordo com o princ\u00edpio da identidade f\u00edsica do juiz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A senten\u00e7a \u00e9 nula, porque ao juiz substituto \u00e9 vedada a prola\u00e7\u00e3o de decis\u00e3o definitiva ou terminativa.",
                 "pmi": [
                     0.1617031208245444,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a \u00e9 nula, porque ao juiz substituto \u00e9 vedada a prola\u00e7\u00e3o de decis\u00e3o definitiva ou terminativa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "N\u00e3o h\u00e1 nulidade na senten\u00e7a, porque n\u00e3o se faz exig\u00edvel a identidade f\u00edsica do juiz diante das peculiaridades narradas no enunciado.",
                 "pmi": [
                     0.08406442576779549,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 nulidade na senten\u00e7a, porque n\u00e3o se faz exig\u00edvel a identidade f\u00edsica do juiz diante das peculiaridades narradas no enunciado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A senten\u00e7a \u00e9 nula, porque viola o princ\u00edpio do juiz natural.",
                 "pmi": [
                     0.12609663865169324,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a \u00e9 nula, porque viola o princ\u00edpio do juiz natural."
+                ]
             }
         ],
         "valid": true

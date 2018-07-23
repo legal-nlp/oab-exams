@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "os honor\u00e1rios devidos no processo judicial se resumem aos sucumbenciais, vedado o desconto de quaisquer outros valores a esse t\u00edtulo.",
                 "pmi": [
                     0.04739759479674326,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os honor\u00e1rios devidos no processo judicial se resumem aos sucumbenciais, vedado o desconto de quaisquer outros valores a esse t\u00edtulo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "os honor\u00e1rios advocat\u00edcios, que gozam de autonomia, quer sucumbenciais, quer contratuais, devem ser cobrados em via pr\u00f3pria diretamente ao cliente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os honor\u00e1rios advocat\u00edcios, que gozam de autonomia, quer sucumbenciais, quer contratuais, devem ser cobrados em via pr\u00f3pria diretamente ao cliente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00e9 poss\u00edvel o pagamento de honor\u00e1rios advocat\u00edcios contratuais no processo em que houve condena\u00e7\u00e3o, havendo precat\u00f3rio, desde que o contrato seja escrito.",
                 "pmi": [
                     0.056934286964901645,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel o pagamento de honor\u00e1rios advocat\u00edcios contratuais no processo em que houve condena\u00e7\u00e3o, havendo precat\u00f3rio, desde que o contrato seja escrito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "seja o contrato escrito ou verbal, pode o advogado requerer o pagamento dos seus honor\u00e1rios contratuais mediante desconto no valor da condena\u00e7\u00e3o.",
                 "pmi": [
                     0.03517953879949792,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "seja o contrato escrito ou verbal, pode o advogado requerer o pagamento dos seus honor\u00e1rios contratuais mediante desconto no valor da condena\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

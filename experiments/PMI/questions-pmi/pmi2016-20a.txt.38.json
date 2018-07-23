@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Francisco exerceu seu direito potestativo de desfazer a aven\u00e7a, e por isso perder\u00e1 em favor de Marcos o sinal pago quando da celebra\u00e7\u00e3o do contrato.",
                 "pmi": [
                     0.01770389416932429,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco exerceu seu direito potestativo de desfazer a aven\u00e7a, e por isso perder\u00e1 em favor de Marcos o sinal pago quando da celebra\u00e7\u00e3o do contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Francisco cometeu um il\u00edcito contratual, pelo que Marcos poder\u00e1 reter o sinal dado pelo comprador no momento da celebra\u00e7\u00e3o da aven\u00e7a.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Francisco cometeu um il\u00edcito contratual, pelo que Marcos poder\u00e1 reter o sinal dado pelo comprador no momento da celebra\u00e7\u00e3o da aven\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Marcos poder\u00e1 pleitear indeniza\u00e7\u00e3o por perdas e danos se provar que seu preju\u00edzo com o desfazimento do neg\u00f3cio foi superior aos R$ 500,00 pagos a t\u00edtulo de sinal.",
                 "pmi": [
                     -0.02474693221757094,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcos poder\u00e1 pleitear indeniza\u00e7\u00e3o por perdas e danos se provar que seu preju\u00edzo com o desfazimento do neg\u00f3cio foi superior aos R$ 500,00 pagos a t\u00edtulo de sinal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "As arras penitenciais refor\u00e7am o v\u00ednculo contratual e impedem o desfazimento do neg\u00f3cio, pelo que Marcos poder\u00e1 pleitear a execu\u00e7\u00e3o espec\u00edfica do contrato.",
                 "pmi": [
                     0.00682946036459721,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As arras penitenciais refor\u00e7am o v\u00ednculo contratual e impedem o desfazimento do neg\u00f3cio, pelo que Marcos poder\u00e1 pleitear a execu\u00e7\u00e3o espec\u00edfica do contrato."
+                ]
             }
         ],
         "valid": true

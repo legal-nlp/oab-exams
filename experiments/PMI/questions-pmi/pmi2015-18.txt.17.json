@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A associa\u00e7\u00e3o n\u00e3o poder\u00e1 sofrer qualquer interven\u00e7\u00e3o do Poder Judici\u00e1rio, pois \u00e9 vedada a interfer\u00eancia estatal no funcionamento das associa\u00e7\u00f5es.",
                 "pmi": [
                     0.08849076293512552,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A associa\u00e7\u00e3o n\u00e3o poder\u00e1 sofrer qualquer interven\u00e7\u00e3o do Poder Judici\u00e1rio, pois \u00e9 vedada a interfer\u00eancia estatal no funcionamento das associa\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Caso o pedido de dissolu\u00e7\u00e3o seja acolhido, a associa\u00e7\u00e3o poder\u00e1 ser compulsoriamente dissolvida, independentemente do tr\u00e2nsito em julgado da senten\u00e7a judicial.",
                 "pmi": [
                     0.01622289776781101,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso o pedido de dissolu\u00e7\u00e3o seja acolhido, a associa\u00e7\u00e3o poder\u00e1 ser compulsoriamente dissolvida, independentemente do tr\u00e2nsito em julgado da senten\u00e7a judicial."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A associa\u00e7\u00e3o poder\u00e1 ter suas atividades imediatamente suspensas por decis\u00e3o judicial, independentemente do seu tr\u00e2nsito em julgado.",
                 "pmi": [
                     0.023600745859079033,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A associa\u00e7\u00e3o poder\u00e1 ter suas atividades imediatamente suspensas por decis\u00e3o judicial, independentemente do seu tr\u00e2nsito em julgado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Apenas se justificaria a interven\u00e7\u00e3o estatal se caracterizada a natureza paramilitar da associa\u00e7\u00e3o em comento.",
                 "pmi": [
                     0.05922756634591964,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Apenas se justificaria a interven\u00e7\u00e3o estatal se caracterizada a natureza paramilitar da associa\u00e7\u00e3o em comento."
+                ]
             }
         ],
         "valid": true

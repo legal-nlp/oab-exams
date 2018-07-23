@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Legalidade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Legalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Efici\u00eancia.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Efici\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Moralidade.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Moralidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Seguran\u00e7a das rela\u00e7\u00f5es jur\u00eddicas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seguran\u00e7a das rela\u00e7\u00f5es jur\u00eddicas."
+                ]
             }
         ],
         "valid": true

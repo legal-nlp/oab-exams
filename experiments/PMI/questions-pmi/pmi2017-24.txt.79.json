@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Correto o advogado, pois, de acordo com o CPC, o advogado far\u00e1 perguntas diretamente \u00e0 testemunha.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Correto o advogado, pois, de acordo com o CPC, o advogado far\u00e1 perguntas diretamente \u00e0 testemunha."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A CLT n\u00e3o tem dispositivo pr\u00f3prio, da\u00ed porque poderia ser admitido tanto o sistema direto quanto o indireto.",
                 "pmi": [
                     0.019893823714328306,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A CLT n\u00e3o tem dispositivo pr\u00f3prio, da\u00ed porque poderia ser admitido tanto o sistema direto quanto o indireto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A CLT determina que o sistema seja h\u00edbrido, intercalando perguntas feitas diretamente pelo advogado, com indaga\u00e7\u00f5es realizadas pelo juiz.",
                 "pmi": [
                     0.013241140135915807,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A CLT determina que o sistema seja h\u00edbrido, intercalando perguntas feitas diretamente pelo advogado, com indaga\u00e7\u00f5es realizadas pelo juiz."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Correto o magistrado, pois a CLT determina que o sistema seja indireto ou presidencial.",
                 "pmi": [
                     0.024275423582512314,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Correto o magistrado, pois a CLT determina que o sistema seja indireto ou presidencial."
+                ]
             }
         ],
         "valid": true

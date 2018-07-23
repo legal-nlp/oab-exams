@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Supremo Tribunal Federal.",
                 "pmi": [
                     0.5201282946996035,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Supremo Tribunal Federal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Superior Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.5354106017617143,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Superior Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00d3rg\u00e3o Especial do Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.393615364844984,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00d3rg\u00e3o Especial do Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Juizo Criminal da capital onde se situa o Tribunal de Justi\u00e7a do Estado respectivo.",
                 "pmi": [
                     0.17779023224543383,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Juizo Criminal da capital onde se situa o Tribunal de Justi\u00e7a do Estado respectivo."
+                ]
             }
         ],
         "valid": true

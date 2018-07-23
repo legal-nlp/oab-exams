@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "semirr\u00edgida, promulgada, heterodoxa.",
                 "pmi": [
                     0.09918175080162057,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "semirr\u00edgida, promulgada, heterodoxa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "flex\u00edvel, outorgada, compromiss\u00f3ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "flex\u00edvel, outorgada, compromiss\u00f3ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "r\u00edgida, bonapartista e ortodoxa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "r\u00edgida, bonapartista e ortodoxa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "semiflex\u00edvel, cesarista e compromiss\u00f3ria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "semiflex\u00edvel, cesarista e compromiss\u00f3ria."
+                ]
             }
         ],
         "valid": true

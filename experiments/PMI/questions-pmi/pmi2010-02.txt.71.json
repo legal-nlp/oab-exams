@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A confiss\u00e3o de Mauro tem o cond\u00e3o de excluir a sua responsabilidade, sem a imposi\u00e7\u00e3o de qualquer penalidade. Entretanto, ele deve pagar o tributo devido acrescido dos juros de mora.",
                 "pmi": [
                     0.012740497414621129,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A confiss\u00e3o de Mauro tem o cond\u00e3o de excluir a sua responsabilidade, sem a imposi\u00e7\u00e3o de qualquer penalidade. Entretanto, ele deve pagar o tributo devido acrescido dos juros de mora."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Mauro somente se apresentou \u00e0 Receita ap\u00f3s a notifica\u00e7\u00e3o, o que exclui qualquer benef\u00edcio oriundo da den\u00fancia espont\u00e2nea, devendo ele recolher o tributo devido, a penalidade imposta e os juros de mora.",
                 "pmi": [
                     0.011682007886618202,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Mauro somente se apresentou \u00e0 Receita ap\u00f3s a notifica\u00e7\u00e3o, o que exclui qualquer benef\u00edcio oriundo da den\u00fancia espont\u00e2nea, devendo ele recolher o tributo devido, a penalidade imposta e os juros de mora."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A incapacidade civil de Ana tem reflexo direto na sua capacidade tribut\u00e1ria, o que significa dizer que, ap\u00f3s a senten\u00e7a judicial de interdi\u00e7\u00e3o, Ana perdeu, igualmente, a sua capacidade tribut\u00e1ria, estando livre de quaisquer obriga\u00e7\u00f5es perante o fisco.",
                 "pmi": [
                     0.04727071845213471,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A incapacidade civil de Ana tem reflexo direto na sua capacidade tribut\u00e1ria, o que significa dizer que, ap\u00f3s a senten\u00e7a judicial de interdi\u00e7\u00e3o, Ana perdeu, igualmente, a sua capacidade tribut\u00e1ria, estando livre de quaisquer obriga\u00e7\u00f5es perante o fisco."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso Mauro tivesse procedido com mera culpa, ou seja, se a sonega\u00e7\u00e3o tivesse ocorrido por mero esquecimento, ele poderia pagar somente o tributo e os juros de mora, excluindo o pagamento de multa.",
                 "pmi": [
                     0.009779471409322648,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso Mauro tivesse procedido com mera culpa, ou seja, se a sonega\u00e7\u00e3o tivesse ocorrido por mero esquecimento, ele poderia pagar somente o tributo e os juros de mora, excluindo o pagamento de multa."
+                ]
             }
         ],
         "valid": true

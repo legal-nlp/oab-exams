@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a hierarquia \u00e9 inerente \u00e0 atividade desenvolvida pelos advogados, que atuam de forma parcial em defesa dos seus clientes.",
                 "pmi": [
                     0.04978873510591134,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a hierarquia \u00e9 inerente \u00e0 atividade desenvolvida pelos advogados, que atuam de forma parcial em defesa dos seus clientes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "como dirigente do processo, o magistrado subordina a atua\u00e7\u00e3o dos advogados como forma de disciplina da audi\u00eancia.",
                 "pmi": [
                     0.08624260864625033,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "como dirigente do processo, o magistrado subordina a atua\u00e7\u00e3o dos advogados como forma de disciplina da audi\u00eancia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "os membros do Minist\u00e9rio P\u00fablico nos atos processuais s\u00e3o hierarquicamente superiores aos advogados.",
                 "pmi": [
                     0.10867813255643627,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os membros do Minist\u00e9rio P\u00fablico nos atos processuais s\u00e3o hierarquicamente superiores aos advogados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "advogados, membros do Minist\u00e9rio P\u00fablico e magistrados n\u00e3o t\u00eam rela\u00e7\u00e3o de hierarquia entre si.",
                 "pmi": [
                     0.1346434782956186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "advogados, membros do Minist\u00e9rio P\u00fablico e magistrados n\u00e3o t\u00eam rela\u00e7\u00e3o de hierarquia entre si."
+                ]
             }
         ],
         "valid": true

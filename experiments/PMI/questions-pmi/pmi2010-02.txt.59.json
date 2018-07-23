@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "denuncia\u00e7\u00e3o caluniosa, cal\u00fania, denuncia\u00e7\u00e3o caluniosa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "denuncia\u00e7\u00e3o caluniosa, cal\u00fania, denuncia\u00e7\u00e3o caluniosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "denuncia\u00e7\u00e3o caluniosa, difama\u00e7\u00e3o, denuncia\u00e7\u00e3o caluniosa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "denuncia\u00e7\u00e3o caluniosa, difama\u00e7\u00e3o, denuncia\u00e7\u00e3o caluniosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, cal\u00fania, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o.",
                 "pmi": [
                     0.03832133590403635,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, cal\u00fania, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, difama\u00e7\u00e3o, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o.",
                 "pmi": [
                     0.03832133590403635,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o, difama\u00e7\u00e3o, comunica\u00e7\u00e3o falsa de crime ou de contraven\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

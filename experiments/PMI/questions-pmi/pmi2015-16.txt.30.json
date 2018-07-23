@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A sociedade empres\u00e1ria \u201cF\u201d pode impedir a realiza\u00e7\u00e3o da nova licita\u00e7\u00e3o, uma vez que a lei atribui car\u00e1ter de exclusividade \u00e0 outorga da concess\u00e3o de servi\u00e7os p\u00fablicos.",
                 "pmi": [
                     0.023652664818229974,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria \u201cF\u201d pode impedir a realiza\u00e7\u00e3o da nova licita\u00e7\u00e3o, uma vez que a lei atribui car\u00e1ter de exclusividade \u00e0 outorga da concess\u00e3o de servi\u00e7os p\u00fablicos."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A outorga de concess\u00e3o ou permiss\u00e3o n\u00e3o ter\u00e1 car\u00e1ter de exclusividade, salvo no caso de inviabilidade t\u00e9cnica ou econ\u00f4mica devidamente justificada.",
                 "pmi": [
                     0.07362075681393039,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A outorga de concess\u00e3o ou permiss\u00e3o n\u00e3o ter\u00e1 car\u00e1ter de exclusividade, salvo no caso de inviabilidade t\u00e9cnica ou econ\u00f4mica devidamente justificada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A lei atribui car\u00e1ter de exclusividade \u00e0 concess\u00e3o de servi\u00e7os p\u00fablicos, mas a viola\u00e7\u00e3o ao comando legal somente confere \u00e0 sociedade empres\u00e1ria \u201cF\u201d direito \u00e0 indeniza\u00e7\u00e3o por perdas e danos.",
                 "pmi": [
                     0.02710867502532021,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei atribui car\u00e1ter de exclusividade \u00e0 concess\u00e3o de servi\u00e7os p\u00fablicos, mas a viola\u00e7\u00e3o ao comando legal somente confere \u00e0 sociedade empres\u00e1ria \u201cF\u201d direito \u00e0 indeniza\u00e7\u00e3o por perdas e danos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A lei veda a atribui\u00e7\u00e3o do car\u00e1ter de exclusividade \u00e0 outorga de concess\u00e3o, o que afasta qualquer pretens\u00e3o por parte da concession\u00e1ria, salvo o direito \u00e0 rescis\u00e3o unilateral do contrato pela concession\u00e1ria, mediante notifica\u00e7\u00e3o extrajudicial.",
                 "pmi": [
                     0.05386676428048304,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei veda a atribui\u00e7\u00e3o do car\u00e1ter de exclusividade \u00e0 outorga de concess\u00e3o, o que afasta qualquer pretens\u00e3o por parte da concession\u00e1ria, salvo o direito \u00e0 rescis\u00e3o unilateral do contrato pela concession\u00e1ria, mediante notifica\u00e7\u00e3o extrajudicial."
+                ]
             }
         ],
         "valid": true

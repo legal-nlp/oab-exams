@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O interrogat\u00f3rio judicial, notadamente ap\u00f3s o advento da Lei n\u00ba 10.792/2003, deve ser interpretado apenas como meio de prova e n\u00e3o tamb\u00e9m como ato de defesa dos acusados.",
                 "pmi": [
                     0.027397919120583692,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O interrogat\u00f3rio judicial, notadamente ap\u00f3s o advento da Lei n\u00ba 10.792/2003, deve ser interpretado apenas como meio de prova e n\u00e3o tamb\u00e9m como ato de defesa dos acusados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Luiz, ainda que n\u00e3o impute crime a terceiro, n\u00e3o poder\u00e1 mentir sobre os fatos a ele imputados, apesar de poder permanecer em sil\u00eancio.",
                 "pmi": [
                     0.003702809350969142,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Luiz, ainda que n\u00e3o impute crime a terceiro, n\u00e3o poder\u00e1 mentir sobre os fatos a ele imputados, apesar de poder permanecer em sil\u00eancio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A defesa t\u00e9cnica de Cristiano n\u00e3o poder\u00e1, em hip\u00f3tese alguma, formular perguntas para o corr\u00e9u Luiz.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A defesa t\u00e9cnica de Cristiano n\u00e3o poder\u00e1, em hip\u00f3tese alguma, formular perguntas para o corr\u00e9u Luiz."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O interrogat\u00f3rio por v\u00eddeoconfer\u00eancia de Cristiano pode ser considerado v\u00e1lido se fundamentado, pelo magistrado, no risco concreto de fuga durante o deslocamento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O interrogat\u00f3rio por v\u00eddeoconfer\u00eancia de Cristiano pode ser considerado v\u00e1lido se fundamentado, pelo magistrado, no risco concreto de fuga durante o deslocamento."
+                ]
             }
         ],
         "valid": true

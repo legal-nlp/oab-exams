@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Cabe ao empregador apresentar todos os requerimentos de vale-transporte feitos pelos seus empregados, a fim de comprovar que Marcos n\u00e3o efetuou o seu pr\u00f3prio requerimento.",
                 "pmi": [
                     0.006217744064070962,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe ao empregador apresentar todos os requerimentos de vale-transporte feitos pelos seus empregados, a fim de comprovar que Marcos n\u00e3o efetuou o seu pr\u00f3prio requerimento."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Cabe a Marcos demonstrar que satisfez os requisitos indispens\u00e1veis \u00e0 obten\u00e7\u00e3o do vale-transporte.",
                 "pmi": [
                     0.004306383946372241,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe a Marcos demonstrar que satisfez os requisitos indispens\u00e1veis \u00e0 obten\u00e7\u00e3o do vale-transporte."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Cabe ao Juiz determinar de of\u00edcio que o empregador apresente todos os requerimentos de vale-transporte feitos pelos seus empregados, a fim de comprovar que Marcos n\u00e3o o efetuou.",
                 "pmi": [
                     0.00367065827452546,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe ao Juiz determinar de of\u00edcio que o empregador apresente todos os requerimentos de vale-transporte feitos pelos seus empregados, a fim de comprovar que Marcos n\u00e3o o efetuou."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "N\u00e3o h\u00e1 mais provas a serem produzidas, devendo o juiz indeferir qualquer requerimento nesse sentido.",
                 "pmi": [
                     -0.011473732498130645,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 mais provas a serem produzidas, devendo o juiz indeferir qualquer requerimento nesse sentido."
+                ]
             }
         ],
         "valid": true

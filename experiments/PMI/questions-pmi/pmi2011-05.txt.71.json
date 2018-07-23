@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Jo\u00e3o n\u00e3o tem direito ao pagamento de horas extras e \u00e0 redu\u00e7\u00e3o da hora noturna.",
                 "pmi": [
                     0.00891676224972445,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o tem direito ao pagamento de horas extras e \u00e0 redu\u00e7\u00e3o da hora noturna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Jo\u00e3o tem direito ao pagamento de horas extras, mas n\u00e3o tem direito \u00e0 redu\u00e7\u00e3o da hora noturna.",
                 "pmi": [
                     0.01528587814238477,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o tem direito ao pagamento de horas extras, mas n\u00e3o tem direito \u00e0 redu\u00e7\u00e3o da hora noturna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Jo\u00e3o n\u00e3o tem direito ao pagamento de horas extras, mas tem direito \u00e0 redu\u00e7\u00e3o da hora noturna.",
                 "pmi": [
                     0.01528587814238477,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o n\u00e3o tem direito ao pagamento de horas extras, mas tem direito \u00e0 redu\u00e7\u00e3o da hora noturna."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Jo\u00e3o tem direito ao pagamento de horas extras e \u00e0 redu\u00e7\u00e3o da hora noturna.",
                 "pmi": [
                     0.00891676224972445,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o tem direito ao pagamento de horas extras e \u00e0 redu\u00e7\u00e3o da hora noturna."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A certid\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica da Uni\u00e3o, dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios, correspondente aos cr\u00e9ditos inscritos na forma da lei.",
                 "pmi": [
                     0.04718230952117679,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A certid\u00e3o de d\u00edvida ativa da Fazenda P\u00fablica da Uni\u00e3o, dos Estados, do Distrito Federal, dos Territ\u00f3rios e dos Munic\u00edpios, correspondente aos cr\u00e9ditos inscritos na forma da lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O instrumento de transa\u00e7\u00e3o referendado pelo Minist\u00e9rio P\u00fablico, pela Defensoria P\u00fablica ou pelos advogados dos transatores.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O instrumento de transa\u00e7\u00e3o referendado pelo Minist\u00e9rio P\u00fablico, pela Defensoria P\u00fablica ou pelos advogados dos transatores."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A senten\u00e7a proferida no processo civil que reconhe\u00e7a a exist\u00eancia de obriga\u00e7\u00e3o de fazer, n\u00e3o fazer, entregar coisa ou pagar quantia.",
                 "pmi": [
                     0.08977589464879683,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A senten\u00e7a proferida no processo civil que reconhe\u00e7a a exist\u00eancia de obriga\u00e7\u00e3o de fazer, n\u00e3o fazer, entregar coisa ou pagar quantia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O cr\u00e9dito, documentalmente comprovado, decorrente de aluguel de im\u00f3vel, bem como de encargos acess\u00f3rios, tais como taxas e despesas de condom\u00ednio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cr\u00e9dito, documentalmente comprovado, decorrente de aluguel de im\u00f3vel, bem como de encargos acess\u00f3rios, tais como taxas e despesas de condom\u00ednio."
+                ]
             }
         ],
         "valid": true

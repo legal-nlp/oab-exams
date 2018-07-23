@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela.",
                 "pmi": [
                     -0.01680049919809548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcelo deve ingressar com a\u00e7\u00e3o de emancipa\u00e7\u00e3o, com pedido de antecipa\u00e7\u00e3o de tutela."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria.",
                 "pmi": [
                     -0.02604524555752555,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio deve ingressar com a\u00e7\u00e3o de guarda de Marcelo, requerendo a sua guarda provis\u00f3ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato.",
                 "pmi": [
                     0.00010479003487758783,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio deve ingressar com a\u00e7\u00e3o, objetivando o direito de assistir Marcelo para a pr\u00e1tica do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar.",
                 "pmi": [
                     -0.01680049919809548,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio deve ingressar com a\u00e7\u00e3o de tutela de Marcelo, com pedido liminar."
+                ]
             }
         ],
         "valid": true

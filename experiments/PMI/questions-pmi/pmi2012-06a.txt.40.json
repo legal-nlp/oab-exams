@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Caber\u00e1 agravo no prazo de cinco dias ao \u00f3rg\u00e3o competente para o julgamento do recurso, n\u00e3o se admitindo ju\u00edzo de retrata\u00e7\u00e3o, devendo o relator proferir voto e apresent\u00e1-lo em mesa para julgamento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caber\u00e1 agravo no prazo de cinco dias ao \u00f3rg\u00e3o competente para o julgamento do recurso, n\u00e3o se admitindo ju\u00edzo de retrata\u00e7\u00e3o, devendo o relator proferir voto e apresent\u00e1-lo em mesa para julgamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Interposto o agravo infundado contra decis\u00e3o monocr\u00e1tica, poder\u00e1 o tribunal condenar o agravante ao pagamento de multa em favor do agravado, desde que n\u00e3o condicione a interposi\u00e7\u00e3o de qualquer outro recurso ao dep\u00f3sito do valor.",
                 "pmi": [
                     0.036934401019143755,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Interposto o agravo infundado contra decis\u00e3o monocr\u00e1tica, poder\u00e1 o tribunal condenar o agravante ao pagamento de multa em favor do agravado, desde que n\u00e3o condicione a interposi\u00e7\u00e3o de qualquer outro recurso ao dep\u00f3sito do valor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Caso o agravante requeira a suspens\u00e3o da decis\u00e3o at\u00e9 o pronunciamento definitivo da turma ou c\u00e2mara, ao argumento de iminente les\u00e3o grave, o relator n\u00e3o poder\u00e1 se manifestar monocraticamente, devendo apresentar o processo em mesa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso o agravante requeira a suspens\u00e3o da decis\u00e3o at\u00e9 o pronunciamento definitivo da turma ou c\u00e2mara, ao argumento de iminente les\u00e3o grave, o relator n\u00e3o poder\u00e1 se manifestar monocraticamente, devendo apresentar o processo em mesa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Poder\u00e1 o relator dar provimento ao recurso, caso a decis\u00e3o recorrida esteja em manifesto confronto com s\u00famula ou jurisprud\u00eancia dominante do Supremo Tribunal Federal ou de Tribunal Superior.",
                 "pmi": [
                     0.13442333248375135,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e1 o relator dar provimento ao recurso, caso a decis\u00e3o recorrida esteja em manifesto confronto com s\u00famula ou jurisprud\u00eancia dominante do Supremo Tribunal Federal ou de Tribunal Superior."
+                ]
             }
         ],
         "valid": true

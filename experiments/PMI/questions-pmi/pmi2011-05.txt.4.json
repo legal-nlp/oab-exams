@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a publicidade do processo constitui mera irregularidade, infensa a medidas de qualquer naipe.",
                 "pmi": [
                     0.03486088419008985,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a publicidade do processo constitui mera irregularidade, infensa a medidas de qualquer naipe."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o advogado atuou corretamente ao reclamar do descumprimento de lei.",
                 "pmi": [
                     0.012615282101221995,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado atuou corretamente ao reclamar do descumprimento de lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a reclama\u00e7\u00e3o deve ser escrita.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "a reclama\u00e7\u00e3o deve ser escrita."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o pode reclamar para outra autoridade, j\u00e1 tendo apresentado a primeira ao juiz da causa.",
                 "pmi": [
                     0.02352676656234126,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o pode reclamar para outra autoridade, j\u00e1 tendo apresentado a primeira ao juiz da causa."
+                ]
             }
         ],
         "valid": true

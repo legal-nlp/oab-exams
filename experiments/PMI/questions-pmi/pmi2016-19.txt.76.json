@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A impugna\u00e7\u00e3o deve ser acolhida, pois n\u00e3o se pode admitir a exist\u00eancia de um preposto que n\u00e3o tenha testemunhado os fatos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o deve ser acolhida, pois n\u00e3o se pode admitir a exist\u00eancia de um preposto que n\u00e3o tenha testemunhado os fatos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A lei \u00e9 omissa acerca de o preposto precisar, ou n\u00e3o, ter testemunhado os fatos, da\u00ed porque, diante da omiss\u00e3o legislativa, caber\u00e1 ao juiz definir.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A lei \u00e9 omissa acerca de o preposto precisar, ou n\u00e3o, ter testemunhado os fatos, da\u00ed porque, diante da omiss\u00e3o legislativa, caber\u00e1 ao juiz definir."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A impugna\u00e7\u00e3o deve ser acolhida, pois \u00e9 necess\u00e1rio que o preposto tenha vivenciado os fatos, tanto assim que ele obrigatoriamente dever\u00e1 ser empregado da empresa.",
                 "pmi": [
                     0.034207016771340776,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o deve ser acolhida, pois \u00e9 necess\u00e1rio que o preposto tenha vivenciado os fatos, tanto assim que ele obrigatoriamente dever\u00e1 ser empregado da empresa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A impugna\u00e7\u00e3o deve ser rejeitada, pois o preposto precisa apenas ter conhecimento dos fatos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o deve ser rejeitada, pois o preposto precisa apenas ter conhecimento dos fatos."
+                ]
             }
         ],
         "valid": true

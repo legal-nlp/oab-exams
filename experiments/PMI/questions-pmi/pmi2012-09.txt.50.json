@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "No endosso de letra de c\u00e2mbio ap\u00f3s o protesto por falta de pagamento, o portador tem a\u00e7\u00e3o cambi\u00e1ria contra o seu endossante.",
                 "pmi": [
                     0.20236036696647533,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No endosso de letra de c\u00e2mbio ap\u00f3s o protesto por falta de pagamento, o portador tem a\u00e7\u00e3o cambi\u00e1ria contra o seu endossante."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A cl\u00e1usula n\u00e3o \u00e0 ordem inserida no cheque impede sua circula\u00e7\u00e3o tanto por endosso quanto por cess\u00e3o de cr\u00e9dito.",
                 "pmi": [
                     0.10149017116407463,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cl\u00e1usula n\u00e3o \u00e0 ordem inserida no cheque impede sua circula\u00e7\u00e3o tanto por endosso quanto por cess\u00e3o de cr\u00e9dito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O endosso de cheque poder\u00e1 ser realizado pelo sacado ou por mandat\u00e1rio deste com poderes especiais.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O endosso de cheque poder\u00e1 ser realizado pelo sacado ou por mandat\u00e1rio deste com poderes especiais."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A duplicata pode ser apresentada para aceite do sacado pelo pr\u00f3prio sacador ou por institui\u00e7\u00e3o financeira.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A duplicata pode ser apresentada para aceite do sacado pelo pr\u00f3prio sacador ou por institui\u00e7\u00e3o financeira."
+                ]
             }
         ],
         "valid": true

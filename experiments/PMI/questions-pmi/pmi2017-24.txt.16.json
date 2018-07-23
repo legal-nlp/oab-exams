@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O pedido formulado por Maria deve ser indeferido, uma vez que incumbe ao Munic\u00edpio atuar apenas na educa\u00e7\u00e3o infantil, a qual \u00e9 prestada at\u00e9 os 5 (cinco) anos de idade por meio de creches e pr\u00e9-escolas. Logo, pelo sistema constitucional de reparti\u00e7\u00e3o de compet\u00eancias, Lucas, pela sua idade, deve cursar o Ensino Fundamental em institui\u00e7\u00e3o estadual de ensino.",
                 "pmi": [
                     0.033378973543488386,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pedido formulado por Maria deve ser indeferido, uma vez que incumbe ao Munic\u00edpio atuar apenas na educa\u00e7\u00e3o infantil, a qual \u00e9 prestada at\u00e9 os 5 (cinco) anos de idade por meio de creches e pr\u00e9-escolas. Logo, pelo sistema constitucional de reparti\u00e7\u00e3o de compet\u00eancias, Lucas, pela sua idade, deve cursar o Ensino Fundamental em institui\u00e7\u00e3o estadual de ensino."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O parecer da assessoria jur\u00eddica deve ser favor\u00e1vel ao pleito formulado por Maria, garantindo ao menor uma vaga na rede de ensino municipal. Pode, ainda, alertar que a Constitui\u00e7\u00e3o da Rep\u00fablica prev\u00ea expressamente a possibilidade de a autoridade competente ser responsabilizada pelo n\u00e3o oferecimento do ensino obrigat\u00f3rio ou mesmo pela sua oferta irregular.",
                 "pmi": [
                     0.04984527810406804,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O parecer da assessoria jur\u00eddica deve ser favor\u00e1vel ao pleito formulado por Maria, garantindo ao menor uma vaga na rede de ensino municipal. Pode, ainda, alertar que a Constitui\u00e7\u00e3o da Rep\u00fablica prev\u00ea expressamente a possibilidade de a autoridade competente ser responsabilizada pelo n\u00e3o oferecimento do ensino obrigat\u00f3rio ou mesmo pela sua oferta irregular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O pleito de Maria deve ser deferido, ressalvando-se que Lucas, por ser pessoa com defici\u00eancia, necessita de atendimento educacional especializado, n\u00e3o podendo ser inclu\u00eddo na rede regular de ensino do Munic\u00edpio Sigma.",
                 "pmi": [
                     0.021554156864633925,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pleito de Maria deve ser deferido, ressalvando-se que Lucas, por ser pessoa com defici\u00eancia, necessita de atendimento educacional especializado, n\u00e3o podendo ser inclu\u00eddo na rede regular de ensino do Munic\u00edpio Sigma."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A assessoria jur\u00eddica da Secretaria de Educa\u00e7\u00e3o do Munic\u00edpio Sigma deve opinar pela rejei\u00e7\u00e3o do pedido formulado por Maria, pois incumbe privativamente \u00e0 Uni\u00e3o, por meio do Minist\u00e9rio da Educa\u00e7\u00e3o e Cultura (MEC) , organizar e prestar a educa\u00e7\u00e3o b\u00e1sica obrigat\u00f3ria e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade.",
                 "pmi": [
                     0.051278539343651064,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A assessoria jur\u00eddica da Secretaria de Educa\u00e7\u00e3o do Munic\u00edpio Sigma deve opinar pela rejei\u00e7\u00e3o do pedido formulado por Maria, pois incumbe privativamente \u00e0 Uni\u00e3o, por meio do Minist\u00e9rio da Educa\u00e7\u00e3o e Cultura (MEC) , organizar e prestar a educa\u00e7\u00e3o b\u00e1sica obrigat\u00f3ria e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade."
+                ]
             }
         ],
         "valid": true

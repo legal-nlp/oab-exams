@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "n\u00e3o se aplica porque Ana n\u00e3o chegou a ser intimada a devolver os autos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o se aplica porque Ana n\u00e3o chegou a ser intimada a devolver os autos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o se aplica porque Ana ficou menos de tr\u00eas meses com os autos em seu poder.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o se aplica porque Ana ficou menos de tr\u00eas meses com os autos em seu poder."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "aplica-se porque Ana reteve abusivamente os autos em seu poder.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "aplica-se porque Ana reteve abusivamente os autos em seu poder."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "aplica-se porque Ana n\u00e3o poderia ter retirado os autos de cart\u00f3rio para cumprir o prazo assinalado para contesta\u00e7\u00e3o.",
                 "pmi": [
                     0.09900001632025662,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "aplica-se porque Ana n\u00e3o poderia ter retirado os autos de cart\u00f3rio para cumprir o prazo assinalado para contesta\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

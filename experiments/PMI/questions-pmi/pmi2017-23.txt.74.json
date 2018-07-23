@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A sociedade empres\u00e1ria tem raz\u00e3o na justificativa de J\u00falio Cesar, mas est\u00e1 errada em rela\u00e7\u00e3o a Pedro.",
                 "pmi": [
                     0.005046887154254961,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria tem raz\u00e3o na justificativa de J\u00falio Cesar, mas est\u00e1 errada em rela\u00e7\u00e3o a Pedro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A sociedade empres\u00e1ria est\u00e1 errada em rela\u00e7\u00e3o a ambos os empregados.",
                 "pmi": [
                     0.009087749011986914,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria est\u00e1 errada em rela\u00e7\u00e3o a ambos os empregados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "No que tange a Pedro, a sociedade empres\u00e1ria est\u00e1 certa, mas, no tocante a Julio Cesar, n\u00e3o tem raz\u00e3o.",
                 "pmi": [
                     0.004486121914893299,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "No que tange a Pedro, a sociedade empres\u00e1ria est\u00e1 certa, mas, no tocante a Julio Cesar, n\u00e3o tem raz\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A pessoa jur\u00eddica est\u00e1 correta em rela\u00e7\u00e3o a Pedro e a J\u00falio Cesar.",
                 "pmi": [
                     0.01201545973530731,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pessoa jur\u00eddica est\u00e1 correta em rela\u00e7\u00e3o a Pedro e a J\u00falio Cesar."
+                ]
             }
         ],
         "valid": true

@@ -30,3 +30,5 @@ $ for f in *.xml.txt; do
 $ curl http://localhost:9200/corpus/_stats?pretty
 
 See READMEs in IR/ and PMI/ on how to run each experiment.
+
+After executing IR and PMI, compute the "easy" questions via extract-easy.sh.

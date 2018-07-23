@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Dadas as partes envolvidas na lide, a compet\u00eancia para process\u00e1-la ser\u00e1 da vara de fam\u00edlia instalada na referida comarca.",
                 "pmi": [
                     0.020731609284981214,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dadas as partes envolvidas na lide, a compet\u00eancia para process\u00e1-la ser\u00e1 da vara de fam\u00edlia instalada na referida comarca."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ser\u00e1 considerado prevento o ju\u00edzo em que tramita a a\u00e7\u00e3o cautelar caso nesta j\u00e1 tenha sido citado o r\u00e9u em primeiro lugar.",
                 "pmi": [
                     -0.017575374576997014,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ser\u00e1 considerado prevento o ju\u00edzo em que tramita a a\u00e7\u00e3o cautelar caso nesta j\u00e1 tenha sido citado o r\u00e9u em primeiro lugar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A compet\u00eancia do ju\u00edzo, no caso, ser\u00e1 fixada em raz\u00e3o da mat\u00e9ria, de modo que caber\u00e1 o julgamento a uma vara c\u00edvel, a ser definida, entre as instaladas na comarca, pelo crit\u00e9rio da preven\u00e7\u00e3o.",
                 "pmi": [
                     0.054408878129753896,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A compet\u00eancia do ju\u00edzo, no caso, ser\u00e1 fixada em raz\u00e3o da mat\u00e9ria, de modo que caber\u00e1 o julgamento a uma vara c\u00edvel, a ser definida, entre as instaladas na comarca, pelo crit\u00e9rio da preven\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso a cautelar j\u00e1 tenha sido despachada em primeiro lugar, o juiz que proferiu o despacho estar\u00e1 vinculado a seu julgamento e ser\u00e1, por isso, competente para o julgamento do processo principal.",
                 "pmi": [
                     0.14566847939260055,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso a cautelar j\u00e1 tenha sido despachada em primeiro lugar, o juiz que proferiu o despacho estar\u00e1 vinculado a seu julgamento e ser\u00e1, por isso, competente para o julgamento do processo principal."
+                ]
             }
         ],
         "valid": true

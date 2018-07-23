@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "\u00c9 ilegal, pois, al\u00e9m dos acr\u00e9scimos, a base de c\u00e1lculo est\u00e1 sendo de 150% do pre\u00e7o corrente do equipamento no mercado atacadista da pra\u00e7a do remetente.",
                 "pmi": [
                     0.06664132362722079,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 ilegal, pois, al\u00e9m dos acr\u00e9scimos, a base de c\u00e1lculo est\u00e1 sendo de 150% do pre\u00e7o corrente do equipamento no mercado atacadista da pra\u00e7a do remetente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente ao imposto de importa\u00e7\u00e3o.",
                 "pmi": [
                     0.1026755826537623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente ao imposto de importa\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente \u00e0s taxas exigidas para a entrada do produto no pa\u00eds.",
                 "pmi": [
                     0.13930128528664465,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente \u00e0s taxas exigidas para a entrada do produto no pa\u00eds."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente aos encargos cambiais efetivamente pagos pelo laborat\u00f3rio.",
                 "pmi": [
                     0.05314205721752089,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00c9 ilegal, pois a base de c\u00e1lculo est\u00e1 incluindo o montante correspondente aos encargos cambiais efetivamente pagos pelo laborat\u00f3rio."
+                ]
             }
         ],
         "valid": true

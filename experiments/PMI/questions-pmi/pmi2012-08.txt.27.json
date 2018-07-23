@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o \u00e9 poss\u00edvel a restitui\u00e7\u00e3o, pois o pagamento foi espont\u00e2neo, incidindo a m\u00e1xima \u201cquem paga mal paga duas vezes\u201d.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 poss\u00edvel a restitui\u00e7\u00e3o, pois o pagamento foi espont\u00e2neo, incidindo a m\u00e1xima \u201cquem paga mal paga duas vezes\u201d."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o \u00e9 poss\u00edvel a restitui\u00e7\u00e3o, pois, embora pago indevidamente, n\u00e3o cabe restitui\u00e7\u00e3o de tributo indireto.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o \u00e9 poss\u00edvel a restitui\u00e7\u00e3o, pois, embora pago indevidamente, n\u00e3o cabe restitui\u00e7\u00e3o de tributo indireto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Cabe apenas pedido administrativo de restitui\u00e7\u00e3o, em raz\u00e3o do pagamento indevido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe apenas pedido administrativo de restitui\u00e7\u00e3o, em raz\u00e3o do pagamento indevido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Cabe pedido judicial de repeti\u00e7\u00e3o de ind\u00e9bito, desde que a empresa comprove ter assumido o referido encargo, sem t\u00ea-lo transferido a terceiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cabe pedido judicial de repeti\u00e7\u00e3o de ind\u00e9bito, desde que a empresa comprove ter assumido o referido encargo, sem t\u00ea-lo transferido a terceiro."
+                ]
             }
         ],
         "valid": true

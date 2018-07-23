@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A argui\u00e7\u00e3o de suspei\u00e7\u00e3o sempre preceder\u00e1 a qualquer outra.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A argui\u00e7\u00e3o de suspei\u00e7\u00e3o sempre preceder\u00e1 a qualquer outra."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Se for arguida a suspei\u00e7\u00e3o do \u00f3rg\u00e3o do Minist\u00e9rio P\u00fablico, o juiz, depois de ouvi-lo, decidir\u00e1, sem recurso, podendo antes admitir a produ\u00e7\u00e3o de provas no prazo de 10 (dez) dias.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Se for arguida a suspei\u00e7\u00e3o do \u00f3rg\u00e3o do Minist\u00e9rio P\u00fablico, o juiz, depois de ouvi-lo, decidir\u00e1, sem recurso, podendo antes admitir a produ\u00e7\u00e3o de provas no prazo de 10 (dez) dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Poder\u00e1 se opor suspei\u00e7\u00e3o \u00e0s autoridades policiais nos atos do inqu\u00e9rito.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Poder\u00e1 se opor suspei\u00e7\u00e3o \u00e0s autoridades policiais nos atos do inqu\u00e9rito."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "As exce\u00e7\u00f5es ser\u00e3o processadas em autos apartados e n\u00e3o suspender\u00e3o, em regra, o andamento da a\u00e7\u00e3o penal.",
                 "pmi": [
                     0.14270169686248863,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "As exce\u00e7\u00f5es ser\u00e3o processadas em autos apartados e n\u00e3o suspender\u00e3o, em regra, o andamento da a\u00e7\u00e3o penal."
+                ]
             }
         ],
         "valid": true

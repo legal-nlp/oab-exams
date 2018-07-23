@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A liberdade consiste na forma de governo dos homens, e n\u00e3o no governo das leis.",
                 "pmi": [
                     0.024851552276432484,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A liberdade consiste na forma de governo dos homens, e n\u00e3o no governo das leis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A disposi\u00e7\u00e3o de esp\u00edrito pela qual a alma humana nunca pode ser aprisionada \u00e9 o que chamamos de liberdade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A disposi\u00e7\u00e3o de esp\u00edrito pela qual a alma humana nunca pode ser aprisionada \u00e9 o que chamamos de liberdade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Liberdade \u00e9 o direito de fazer tudo o que as leis permitem.",
                 "pmi": [
                     0.05867986921572092,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Liberdade \u00e9 o direito de fazer tudo o que as leis permitem."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O direito de resist\u00eancia aos governos injustos \u00e9 a express\u00e3o maior da liberdade.",
                 "pmi": [
                     0.014268360534048133,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O direito de resist\u00eancia aos governos injustos \u00e9 a express\u00e3o maior da liberdade."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Dever\u00e1 ser requerida a invalida\u00e7\u00e3o dos depoimentos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser requerida a invalida\u00e7\u00e3o dos depoimentos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o h\u00e1 nada a ser requerido, pois o procedimento foi normal visando \u00e0 celeridade e \u00e0 economia processual.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o h\u00e1 nada a ser requerido, pois o procedimento foi normal visando \u00e0 celeridade e \u00e0 economia processual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Dever\u00e1 ser requerido o adiamento da audi\u00eancia para a produ\u00e7\u00e3o de prova testemunhal pelo autor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser requerido o adiamento da audi\u00eancia para a produ\u00e7\u00e3o de prova testemunhal pelo autor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Dever\u00e1 ser requerida a oitiva das testemunhas como informantes.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Dever\u00e1 ser requerida a oitiva das testemunhas como informantes."
+                ]
             }
         ],
         "valid": true

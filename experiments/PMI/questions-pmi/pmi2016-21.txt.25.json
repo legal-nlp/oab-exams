@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Haver\u00e1 o sobrestamento da a\u00e7\u00e3o anulat\u00f3ria at\u00e9 que seja efetivamente apreciada a impugna\u00e7\u00e3o administrativa.",
                 "pmi": [
                     -0.0038858145589303525,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Haver\u00e1 o sobrestamento da a\u00e7\u00e3o anulat\u00f3ria at\u00e9 que seja efetivamente apreciada a impugna\u00e7\u00e3o administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A medida judicial ser\u00e1 indeferida devido \u00e0 utiliza\u00e7\u00e3o de recurso na esfera administrativa.",
                 "pmi": [
                     0.023553428528862125,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A medida judicial ser\u00e1 indeferida devido \u00e0 utiliza\u00e7\u00e3o de recurso na esfera administrativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A propositura de a\u00e7\u00e3o judicial sobre mat\u00e9ria id\u00eantica \u00e0quela demandada na esfera administrativa n\u00e3o constitui em desist\u00eancia de tal esfera.",
                 "pmi": [
                     -0.004867146322980068,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A propositura de a\u00e7\u00e3o judicial sobre mat\u00e9ria id\u00eantica \u00e0quela demandada na esfera administrativa n\u00e3o constitui em desist\u00eancia de tal esfera."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A concomit\u00e2ncia de defesa administrativa com medida judicial versando sobre mat\u00e9rias id\u00eanticas implica desist\u00eancia do recurso administrativo interposto.",
                 "pmi": [
                     0.03301610235220382,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A concomit\u00e2ncia de defesa administrativa com medida judicial versando sobre mat\u00e9rias id\u00eanticas implica desist\u00eancia do recurso administrativo interposto."
+                ]
             }
         ],
         "valid": true

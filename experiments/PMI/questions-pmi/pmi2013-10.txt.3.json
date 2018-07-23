@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ao contratar advogado para a defesa da sua pretens\u00e3o, n\u00e3o mais cabe \u00e0 Ordem dos Advogados interferir no processo para salvaguardar eventuais prerrogativas feridas.",
                 "pmi": [
                     0.06875845597352977,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao contratar advogado para a defesa da sua pretens\u00e3o, n\u00e3o mais cabe \u00e0 Ordem dos Advogados interferir no processo para salvaguardar eventuais prerrogativas feridas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A atua\u00e7\u00e3o da Ordem dos Advogados na defesa das prerrogativas profissionais implicar\u00e1 a assist\u00eancia de representante da institui\u00e7\u00e3o, mesmo com defensor constitu\u00eddo.",
                 "pmi": [
                     0.054425377034760254,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A atua\u00e7\u00e3o da Ordem dos Advogados na defesa das prerrogativas profissionais implicar\u00e1 a assist\u00eancia de representante da institui\u00e7\u00e3o, mesmo com defensor constitu\u00eddo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A assist\u00eancia da Ordem dos Advogados est\u00e1 restrita a processos judiciais ou administrativos, mas n\u00e3o a inqu\u00e9ritos.",
                 "pmi": [
                     0.0469210064604745,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A assist\u00eancia da Ordem dos Advogados est\u00e1 restrita a processos judiciais ou administrativos, mas n\u00e3o a inqu\u00e9ritos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A postula\u00e7\u00e3o de assist\u00eancia deve ser examinada pelo Conselho Federal da Ordem dos Advogados que pode autorizar ou n\u00e3o essa atividade.",
                 "pmi": [
                     0.055204773383844906,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A postula\u00e7\u00e3o de assist\u00eancia deve ser examinada pelo Conselho Federal da Ordem dos Advogados que pode autorizar ou n\u00e3o essa atividade."
+                ]
             }
         ],
         "valid": true

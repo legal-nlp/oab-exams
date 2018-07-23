@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "de crime \u00fanico de porte de arma de fogo.",
                 "pmi": [
                     0.0039038190014503236,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "de crime \u00fanico de porte de arma de fogo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "da continuidade delitiva entre os tr\u00eas delitos imputados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da continuidade delitiva entre os tr\u00eas delitos imputados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "do concurso formal entre dois delitos, em continuidade delitiva com o terceiro.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "do concurso formal entre dois delitos, em continuidade delitiva com o terceiro."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "do concurso formal de crimes entre os tr\u00eas delitos imputados.",
                 "pmi": [
                     0.00625559682406724,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "do concurso formal de crimes entre os tr\u00eas delitos imputados."
+                ]
             }
         ],
         "valid": true

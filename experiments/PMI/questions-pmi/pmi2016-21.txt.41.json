@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a totalidade da d\u00edvida de Ana.",
                 "pmi": [
                     0.03027654263720783,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a totalidade da d\u00edvida de Ana."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a integralidade do d\u00e9bito de Felipe.",
                 "pmi": [
                     0.025718333861380498,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a integralidade do d\u00e9bito de Felipe."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "metade de cada comprador.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "metade de cada comprador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a d\u00edvida de Felipe ou de Ana, pois h\u00e1 solidariedade passiva.",
                 "pmi": [
                     0.0181659255823247,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a d\u00edvida de Felipe ou de Ana, pois h\u00e1 solidariedade passiva."
+                ]
             }
         ],
         "valid": true

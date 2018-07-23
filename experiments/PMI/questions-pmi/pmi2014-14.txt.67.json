@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A hip\u00f3tese \u00e9 de emendatio libelli e o juiz deve absolver o r\u00e9u relativamente ao crime que lhe foi imputado.",
                 "pmi": [
                     0.038815037320951186,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A hip\u00f3tese \u00e9 de emendatio libelli e o juiz deve absolver o r\u00e9u relativamente ao crime que lhe foi imputado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o haver\u00e1 necessidade de aditamento da inicial acusat\u00f3ria, haja vista o fato de que as alega\u00e7\u00f5es finais orais acontecem ap\u00f3s a oitiva das testemunhas e, com isso, respeitam-se os princ\u00edpios do contradit\u00f3rio e da ampla defesa.",
                 "pmi": [
                     0.011577283658034634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o haver\u00e1 necessidade de aditamento da inicial acusat\u00f3ria, haja vista o fato de que as alega\u00e7\u00f5es finais orais acontecem ap\u00f3s a oitiva das testemunhas e, com isso, respeitam-se os princ\u00edpios do contradit\u00f3rio e da ampla defesa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A hip\u00f3tese \u00e9 de mutatio libelli e, nos termos da lei, o Minist\u00e9rio P\u00fablico dever\u00e1 fazer o respectivo aditamento.",
                 "pmi": [
                     0.002687502871682074,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A hip\u00f3tese \u00e9 de mutatio libelli e, nos termos da lei, o Minist\u00e9rio P\u00fablico dever\u00e1 fazer o respectivo aditamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caso o magistrado entenda que deve ocorrer o aditamento da inicial acusat\u00f3ria, se o promotor de justi\u00e7a e, recusar-se a faz\u00ea-lo, o juiz estar\u00e1 obrigado a absolver o r\u00e9u da imputa\u00e7\u00e3o que lhe foi originalmente atribu\u00edda.",
                 "pmi": [
                     0.01327846869367869,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caso o magistrado entenda que deve ocorrer o aditamento da inicial acusat\u00f3ria, se o promotor de justi\u00e7a e, recusar-se a faz\u00ea-lo, o juiz estar\u00e1 obrigado a absolver o r\u00e9u da imputa\u00e7\u00e3o que lhe foi originalmente atribu\u00edda."
+                ]
             }
         ],
         "valid": true

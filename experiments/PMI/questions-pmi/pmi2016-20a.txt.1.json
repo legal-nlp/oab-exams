@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "comunicar ao ju\u00edzo a ren\u00fancia ao mandato, liberando-se, ap\u00f3s a protocoliza\u00e7\u00e3o da peti\u00e7\u00e3o, do dever de representar Rodrigo em ju\u00edzo.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunicar ao ju\u00edzo a ren\u00fancia ao mandato, liberando-se, ap\u00f3s a protocoliza\u00e7\u00e3o da peti\u00e7\u00e3o, do dever de representar Rodrigo em ju\u00edzo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "notificar Rodrigo da ren\u00fancia ao mandato por carta. Ap\u00f3s, dever\u00e1 comunicar ao ju\u00edzo, mas continuar\u00e1 obrigada a representar Rodrigo em ju\u00edzo at\u00e9 que decorridos dez dias da ci\u00eancia apostada pelo magistrado da ren\u00fancia nos autos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "notificar Rodrigo da ren\u00fancia ao mandato por carta. Ap\u00f3s, dever\u00e1 comunicar ao ju\u00edzo, mas continuar\u00e1 obrigada a representar Rodrigo em ju\u00edzo at\u00e9 que decorridos dez dias da ci\u00eancia apostada pelo magistrado da ren\u00fancia nos autos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "comunicar ao ju\u00edzo a ren\u00fancia ao mandato, e, posteriormente, notificar Rodrigo, continuando obrigada a representar o cliente at\u00e9 que ele constitua novo advogado ou defensor p\u00fablico.",
                 "pmi": [
                     0.031653605112513694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunicar ao ju\u00edzo a ren\u00fancia ao mandato, e, posteriormente, notificar Rodrigo, continuando obrigada a representar o cliente at\u00e9 que ele constitua novo advogado ou defensor p\u00fablico."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "notificar Rodrigo da ren\u00fancia ao mandato por carta e, ap\u00f3s, dever\u00e1 comunicar ao ju\u00edzo, mas, nos dez dias seguintes \u00e0 notifica\u00e7\u00e3o ao cliente da ren\u00fancia, L\u00edvia continuar\u00e1 obrigada a representar Rodrigo, a menos que seja substitu\u00edda por outro advogado antes do t\u00e9rmino desse prazo.",
                 "pmi": [
                     0.008756592117856381,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "notificar Rodrigo da ren\u00fancia ao mandato por carta e, ap\u00f3s, dever\u00e1 comunicar ao ju\u00edzo, mas, nos dez dias seguintes \u00e0 notifica\u00e7\u00e3o ao cliente da ren\u00fancia, L\u00edvia continuar\u00e1 obrigada a representar Rodrigo, a menos que seja substitu\u00edda por outro advogado antes do t\u00e9rmino desse prazo."
+                ]
             }
         ],
         "valid": true

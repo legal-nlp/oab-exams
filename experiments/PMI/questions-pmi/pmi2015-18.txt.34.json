@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Declarar, por decreto, a caducidade da concess\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Declarar, por decreto, a caducidade da concess\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Declarar, por decreto, a encampa\u00e7\u00e3o do servi\u00e7o.",
                 "pmi": [
                     0.12722201237537248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Declarar, por decreto, a encampa\u00e7\u00e3o do servi\u00e7o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Declarar, por decreto, ap\u00f3s lei autorizativa, a revoga\u00e7\u00e3o da concess\u00e3o.",
                 "pmi": [
                     -0.017077538514093653,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Declarar, por decreto, ap\u00f3s lei autorizativa, a revoga\u00e7\u00e3o da concess\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Declarar, por lei, a anula\u00e7\u00e3o do contrato de concess\u00e3o.",
                 "pmi": [
                     0.018772619808720765,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Declarar, por lei, a anula\u00e7\u00e3o do contrato de concess\u00e3o."
+                ]
             }
         ],
         "valid": true

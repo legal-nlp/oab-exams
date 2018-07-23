@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a convoca\u00e7\u00e3o s\u00f3 poderia ser feita pelo Senado, e n\u00e3o por uma de suas comiss\u00f5es.",
                 "pmi": [
                     0.03961291371659156,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a convoca\u00e7\u00e3o s\u00f3 poderia ser feita pelo Senado, e n\u00e3o por uma de suas comiss\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a convoca\u00e7\u00e3o \u00e9 inconstitucional, pois a Comiss\u00e3o s\u00f3 poderia encaminhar pedido escrito de informa\u00e7\u00f5es ao Ministro, mas n\u00e3o sua presen\u00e7a pessoal.",
                 "pmi": [
                     0.17226032230104035,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a convoca\u00e7\u00e3o \u00e9 inconstitucional, pois a Comiss\u00e3o s\u00f3 poderia encaminhar pedido escrito de informa\u00e7\u00f5es ao Ministro, mas n\u00e3o sua presen\u00e7a pessoal."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, e a aus\u00eancia injustificada do Ministro importaria crime de responsabilidade.",
                 "pmi": [
                     0.09354361988086837,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, e a aus\u00eancia injustificada do Ministro importaria crime de responsabilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, mas a aus\u00eancia (mesmo que injustificada) do Ministro n\u00e3o importa crime de responsabilidade.",
                 "pmi": [
                     0.11935535690895842,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a convoca\u00e7\u00e3o \u00e9 constitucional, mas a aus\u00eancia (mesmo que injustificada) do Ministro n\u00e3o importa crime de responsabilidade."
+                ]
             }
         ],
         "valid": true

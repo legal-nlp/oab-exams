@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "da Empresa XYZ Ltda.",
                 "pmi": [
                     0.043212886636429304,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da Empresa XYZ Ltda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "da Empresa ABC Ltda.",
                 "pmi": [
                     0.043212886636429304,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "da Empresa ABC Ltda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "dos s\u00f3cios da Empresa ABC Ltda.",
                 "pmi": [
                     0.03240966497732198,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dos s\u00f3cios da Empresa ABC Ltda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "solidariamente da Empresa ABC Ltda. e da Empresa XYZ Ltda.",
                 "pmi": [
                     0.0370396171169394,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "solidariamente da Empresa ABC Ltda. e da Empresa XYZ Ltda."
+                ]
             }
         ],
         "valid": true

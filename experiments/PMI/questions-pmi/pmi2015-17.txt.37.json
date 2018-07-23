@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Patr\u00edcia herda o direito real de usufruto sobre o im\u00f3vel.",
                 "pmi": [
                     0.028941979293933356,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Patr\u00edcia herda o direito real de usufruto sobre o im\u00f3vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Patr\u00edcia adquire somente o direito de uso sobre o im\u00f3vel.",
                 "pmi": [
                     0.01311482453324284,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Patr\u00edcia adquire somente o direito de uso sobre o im\u00f3vel."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O direito real de usufruto extingue-se com o falecimento de Ot\u00e1via.",
                 "pmi": [
                     0.028941979293933356,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O direito real de usufruto extingue-se com o falecimento de Ot\u00e1via."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Patr\u00edcia deve ingressar em ju\u00edzo para obter senten\u00e7a constitutiva do seu direito real de usufruto sobre o im\u00f3vel.",
                 "pmi": [
                     0.035828192735688796,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Patr\u00edcia deve ingressar em ju\u00edzo para obter senten\u00e7a constitutiva do seu direito real de usufruto sobre o im\u00f3vel."
+                ]
             }
         ],
         "valid": true

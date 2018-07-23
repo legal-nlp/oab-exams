@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o pedido de desagravo p\u00fablico s\u00f3 pode ser formulado por J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional.",
                 "pmi": [
                     0.002160567706130437,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pedido de desagravo p\u00fablico s\u00f3 pode ser formulado por J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o pedido de desagravo pode ser formulado por Rafaela, mas depende da concord\u00e2ncia de J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional.",
                 "pmi": [
                     0.008304204783818664,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pedido de desagravo pode ser formulado por Rafaela, mas depende da concord\u00e2ncia de J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o pedido de desagravo pode ser formulado por Rafaela, e n\u00e3o depende da concord\u00e2ncia de J\u00falia, apesar de esta ser a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional.",
                 "pmi": [
                     0.0076654198004479975,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pedido de desagravo pode ser formulado por Rafaela, e n\u00e3o depende da concord\u00e2ncia de J\u00falia, apesar de esta ser a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o pedido de desagravo p\u00fablico s\u00f3 pode ser formulado por J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional, mas o ajuizamento de a\u00e7\u00e3o para apurar a responsabilidade civil implica a perda de objeto do desagravo.",
                 "pmi": [
                     0.02352894253118334,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o pedido de desagravo p\u00fablico s\u00f3 pode ser formulado por J\u00falia, que \u00e9 a pessoa ofendida em raz\u00e3o do exerc\u00edcio profissional, mas o ajuizamento de a\u00e7\u00e3o para apurar a responsabilidade civil implica a perda de objeto do desagravo."
+                ]
             }
         ],
         "valid": true

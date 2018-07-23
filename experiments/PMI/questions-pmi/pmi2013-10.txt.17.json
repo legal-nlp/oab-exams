@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, perfazendo o total de 60 (sessenta) dias.",
                 "pmi": [
                     0.11634770734647819,
                     0.015699444077510956,
                     0.0,
                     0.0
-                ],
-                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, perfazendo o total de 60 (sessenta) dias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, per\u00edodo no qual poder\u00e1 haver nova tentativa de convers\u00e3o em lei.",
                 "pmi": [
                     0.08820993142184824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A medida provis\u00f3ria ter\u00e1 efic\u00e1cia por mais 30 (trinta) dias, per\u00edodo no qual poder\u00e1 haver nova tentativa de convers\u00e3o em lei."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, cabendo ao Presidente da Rep\u00fablica, caso haja interesse, reedit\u00e1-la imediatamente.",
                 "pmi": [
                     0.08763388874514012,
                     0.0040093063336654865,
                     0.0,
                     0.0
-                ],
-                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, cabendo ao Presidente da Rep\u00fablica, caso haja interesse, reedit\u00e1-la imediatamente."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, devendo o Congresso Nacional disciplinar, por decreto legislativo, as rela\u00e7\u00f5es jur\u00eddicas dela decorrentes.",
                 "pmi": [
                     0.11706205909796204,
                     0.062029008552513934,
                     0.0,
                     0.0
-                ],
-                "text": "A medida provis\u00f3ria perder\u00e1 sua efic\u00e1cia, devendo o Congresso Nacional disciplinar, por decreto legislativo, as rela\u00e7\u00f5es jur\u00eddicas dela decorrentes."
+                ]
             }
         ],
         "valid": true

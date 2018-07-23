@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos.",
                 "pmi": [
                     0.030526193174751953,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se admite a legitimidade de associa\u00e7\u00e3o para a defesa de direitos ou interesses difusos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva.",
                 "pmi": [
                     0.014369451525315574,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o pode uma autoridade hier\u00e1rquica superior delegar a uma autoridade inferior o poder de decidir, em primeira inst\u00e2ncia, os processos administrativos de sua compet\u00eancia n\u00e3o exclusiva."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o se admite a intima\u00e7\u00e3o fict\u00edcia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus.",
                 "pmi": [
                     0.020245870615083122,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao processo em apre\u00e7o n\u00e3o se aplica o princ\u00edpio que veda a reformatio in pejus."
+                ]
             }
         ],
         "valid": true

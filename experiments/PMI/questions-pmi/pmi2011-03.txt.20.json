@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Haver\u00e1 prosseguimento normal do recurso, pois tal juntada caracteriza mera faculdade do agravante.",
                 "pmi": [
                     0.00399086061245821,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Haver\u00e1 prosseguimento normal do recurso, pois tal juntada caracteriza mera faculdade do agravante."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "N\u00e3o ser\u00e1 admitido o agravo de instrumento.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o ser\u00e1 admitido o agravo de instrumento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O agravo de instrumento ser\u00e1 julgado pelo tribunal, inviabilizando-se, apenas, o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o pelo magistrado.",
                 "pmi": [
                     0.018797290245107987,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O agravo de instrumento ser\u00e1 julgado pelo tribunal, inviabilizando-se, apenas, o exerc\u00edcio do ju\u00edzo de retrata\u00e7\u00e3o pelo magistrado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Estar\u00e1 caracterizada a litig\u00e2ncia de m\u00e1-f\u00e9, por for\u00e7a de pr\u00e1tica de ato processual manifestamente protelat\u00f3rio, devendo a parte agravante ser sancionada, e o feito, extinto sem resolu\u00e7\u00e3o do m\u00e9rito.",
                 "pmi": [
                     0.008794934474136073,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Estar\u00e1 caracterizada a litig\u00e2ncia de m\u00e1-f\u00e9, por for\u00e7a de pr\u00e1tica de ato processual manifestamente protelat\u00f3rio, devendo a parte agravante ser sancionada, e o feito, extinto sem resolu\u00e7\u00e3o do m\u00e9rito."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o poder\u00e1 ser atendida porque a norma \u00e9 de ordem p\u00fablica, tratando da higiene, salubridade e conforto, n\u00e3o pass\u00edvel de negocia\u00e7\u00e3o.",
                 "pmi": [
                     0.02523318851218364,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o poder\u00e1 ser atendida porque a norma \u00e9 de ordem p\u00fablica, tratando da higiene, salubridade e conforto, n\u00e3o pass\u00edvel de negocia\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "poder\u00e1 ser efetivada, mas depender\u00e1 da realiza\u00e7\u00e3o de acordo ou conven\u00e7\u00e3o coletiva nesse sentido.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser efetivada, mas depender\u00e1 da realiza\u00e7\u00e3o de acordo ou conven\u00e7\u00e3o coletiva nesse sentido."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "poder\u00e1 ser efetivada se autorizada pelo Minist\u00e9rio do Trabalho e Emprego, que verificar\u00e1 se o local tem refeit\u00f3rio adequado e se o empregador n\u00e3o exige realiza\u00e7\u00e3o de horas extras.",
                 "pmi": [
                     0.03734937028765672,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser efetivada se autorizada pelo Minist\u00e9rio do Trabalho e Emprego, que verificar\u00e1 se o local tem refeit\u00f3rio adequado e se o empregador n\u00e3o exige realiza\u00e7\u00e3o de horas extras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 ser efetivada se houver autoriza\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 ser efetivada se houver autoriza\u00e7\u00e3o judicial."
+                ]
             }
         ],
         "valid": true

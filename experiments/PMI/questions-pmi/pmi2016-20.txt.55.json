@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O juiz agiu com acerto ao deixar de condenar Carolina ao pagamento de honor\u00e1rios.",
                 "pmi": [
                     0.007483967496021187,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz agiu com acerto ao deixar de condenar Carolina ao pagamento de honor\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Os honor\u00e1rios advocat\u00edcios de sucumb\u00eancia constituem direito do advogado sem natureza alimentar.",
                 "pmi": [
                     -4.625845919664434e-06,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os honor\u00e1rios advocat\u00edcios de sucumb\u00eancia constituem direito do advogado sem natureza alimentar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A advogada Z\u00e9lia n\u00e3o poder\u00e1 requerer que o pagamento dos honor\u00e1rios seja efetuado em favor da sociedade de advogados no qual figura como s\u00f3cia.",
                 "pmi": [
                     0.0068511374227438445,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A advogada Z\u00e9lia n\u00e3o poder\u00e1 requerer que o pagamento dos honor\u00e1rios seja efetuado em favor da sociedade de advogados no qual figura como s\u00f3cia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O recente tr\u00e2nsito em julgado da omissa senten\u00e7a n\u00e3o obsta o ajuizamento de a\u00e7\u00e3o aut\u00f4noma para defini\u00e7\u00e3o e cobran\u00e7a dos honor\u00e1rios de sucumb\u00eancia.",
                 "pmi": [
                     -0.0008159465147052048,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O recente tr\u00e2nsito em julgado da omissa senten\u00e7a n\u00e3o obsta o ajuizamento de a\u00e7\u00e3o aut\u00f4noma para defini\u00e7\u00e3o e cobran\u00e7a dos honor\u00e1rios de sucumb\u00eancia."
+                ]
             }
         ],
         "valid": true

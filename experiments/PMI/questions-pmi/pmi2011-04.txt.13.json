@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "lei federal ordin\u00e1ria.",
                 "pmi": [
                     0.14696925503317462,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "lei federal ordin\u00e1ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "emenda constitucional.",
                 "pmi": [
                     0.07765076840157553,
                     0.0,
                     0,
                     0
-                ],
-                "text": "emenda constitucional."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "lei complementar.",
                 "pmi": [
                     0.13851944012456524,
                     0.13799052935947154,
                     0,
                     0
-                ],
-                "text": "lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "status supralegal.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "status supralegal."
+                ]
             }
         ],
         "valid": true

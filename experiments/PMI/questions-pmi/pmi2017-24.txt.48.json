@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Loca\u00e7\u00e3o a prazo determinado.",
                 "pmi": [
                     0.09300975404589197,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Loca\u00e7\u00e3o a prazo determinado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Cess\u00e3o de uso a t\u00edtulo oneroso.",
                 "pmi": [
                     0.04784543817367705,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Cess\u00e3o de uso a t\u00edtulo oneroso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Compra e venda a prazo.",
                 "pmi": [
                     0.06182500288363269,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Compra e venda a prazo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Arrendamento mercantil.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Arrendamento mercantil."
+                ]
             }
         ],
         "valid": true

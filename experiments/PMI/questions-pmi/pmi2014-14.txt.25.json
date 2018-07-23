@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Deve observar a reserva de lei complementar.",
                 "pmi": [
                     0.06195474691393802,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve observar a reserva de lei complementar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Deve ser promovida por lei ordin\u00e1ria.",
                 "pmi": [
                     0.02601501189586213,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve ser promovida por lei ordin\u00e1ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Deve observar o princ\u00edpio da irretroatividade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve observar o princ\u00edpio da irretroatividade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Deve observar o princ\u00edpio da anterioridade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Deve observar o princ\u00edpio da anterioridade."
+                ]
             }
         ],
         "valid": true

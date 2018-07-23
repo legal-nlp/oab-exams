@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 inv\u00e1lida em raz\u00e3o de ter sido condenado criminalmente, independentemente do cumprimento da pena, mas a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois atende ao princ\u00edpio do melhor interesse do menor.",
                 "pmi": [
                     0.005979924990446586,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 inv\u00e1lida em raz\u00e3o de ter sido condenado criminalmente, independentemente do cumprimento da pena, mas a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois atende ao princ\u00edpio do melhor interesse do menor."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 v\u00e1lida, apesar da condena\u00e7\u00e3o criminal, e a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois atende ao princ\u00edpio do melhor interesse do menor.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 v\u00e1lida, apesar da condena\u00e7\u00e3o criminal, e a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois atende ao princ\u00edpio do melhor interesse do menor."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 v\u00e1lida, apesar da condena\u00e7\u00e3o criminal, mas a aliena\u00e7\u00e3o do im\u00f3vel, sem pr\u00e9via avalia\u00e7\u00e3o e autoriza\u00e7\u00e3o judicial, \u00e9 il\u00edcita.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nomea\u00e7\u00e3o de L\u00facio como tutor \u00e9 v\u00e1lida, apesar da condena\u00e7\u00e3o criminal, mas a aliena\u00e7\u00e3o do im\u00f3vel, sem pr\u00e9via avalia\u00e7\u00e3o e autoriza\u00e7\u00e3o judicial, \u00e9 il\u00edcita."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A nomea\u00e7\u00e3o de L\u00facio \u00e9 inv\u00e1lida em raz\u00e3o de ter sido condenado criminalmente, mas a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois somente bens m\u00f3veis de alto valor necessitam de pr\u00e9via avalia\u00e7\u00e3o e autoriza\u00e7\u00e3o judicial.",
                 "pmi": [
                     0.0039224748629221986,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A nomea\u00e7\u00e3o de L\u00facio \u00e9 inv\u00e1lida em raz\u00e3o de ter sido condenado criminalmente, mas a aliena\u00e7\u00e3o do im\u00f3vel \u00e9 l\u00edcita, pois somente bens m\u00f3veis de alto valor necessitam de pr\u00e9via avalia\u00e7\u00e3o e autoriza\u00e7\u00e3o judicial."
+                ]
             }
         ],
         "valid": true

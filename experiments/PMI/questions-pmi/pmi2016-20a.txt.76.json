@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O advogado e o cliente poder\u00e3o se retirar, devendo o ocorrido constar do livro de registro de audi\u00eancias.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado e o cliente poder\u00e3o se retirar, devendo o ocorrido constar do livro de registro de audi\u00eancias."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O advogado e o cliente dever\u00e3o aguardar at\u00e9 que se completem 30 minutos para, ent\u00e3o, se retirar e consignar o ocorrido em livro pr\u00f3prio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado e o cliente dever\u00e3o aguardar at\u00e9 que se completem 30 minutos para, ent\u00e3o, se retirar e consignar o ocorrido em livro pr\u00f3prio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O advogado e o cliente dever\u00e3o tentar inverter a pauta de audi\u00eancias, comunicando ao secret\u00e1rio de audi\u00eancias que estar\u00e3o em outra Vara para posterior retorno e realiza\u00e7\u00e3o da assentada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado e o cliente dever\u00e3o tentar inverter a pauta de audi\u00eancias, comunicando ao secret\u00e1rio de audi\u00eancias que estar\u00e3o em outra Vara para posterior retorno e realiza\u00e7\u00e3o da assentada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O advogado e o cliente dever\u00e3o se retirar e depois juntar c\u00f3pia da ata da audi\u00eancia da outra Vara com a justificativa pela aus\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado e o cliente dever\u00e3o se retirar e depois juntar c\u00f3pia da ata da audi\u00eancia da outra Vara com a justificativa pela aus\u00eancia."
+                ]
             }
         ],
         "valid": true

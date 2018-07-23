@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "correta, pois o parcelamento legal pode ser aplicado no caso de cumprimento de senten\u00e7a.",
                 "pmi": [
                     0.04439752241115301,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "correta, pois o parcelamento legal pode ser aplicado no caso de cumprimento de senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "equivocada, tendo em vista que s\u00f3 poderia deferir se fosse feito dep\u00f3sito de 50%.",
                 "pmi": [
                     -0.005587026240150268,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "equivocada, tendo em vista que s\u00f3 poderia deferir se fosse feito dep\u00f3sito de 50%."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "equivocada, pois h\u00e1 veda\u00e7\u00e3o expressa para a concess\u00e3o do parcelamento legal no caso de cumprimento de senten\u00e7a.",
                 "pmi": [
                     0.04446346151648019,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "equivocada, pois h\u00e1 veda\u00e7\u00e3o expressa para a concess\u00e3o do parcelamento legal no caso de cumprimento de senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "correta, pois sempre se deve encontrar a forma mais efetiva para a execu\u00e7\u00e3o.",
                 "pmi": [
                     0.04355643696300568,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "correta, pois sempre se deve encontrar a forma mais efetiva para a execu\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

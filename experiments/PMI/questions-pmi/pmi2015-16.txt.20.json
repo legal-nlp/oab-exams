@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A despeito do Pacto supramencionado, eles n\u00e3o possuem direito ao voto, por estarem em situa\u00e7\u00e3o de encarceramento, o que enseja perda da condi\u00e7\u00e3o de cidad\u00e3o.",
                 "pmi": [
                     0.06351593039263906,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A despeito do Pacto supramencionado, eles n\u00e3o possuem direito ao voto, por estarem em situa\u00e7\u00e3o de encarceramento, o que enseja perda da condi\u00e7\u00e3o de cidad\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Tais presos provis\u00f3rios t\u00eam direito ao voto apenas se manifestarem expressamente o interesse em votar e forem previamente cadastrados pelo TRE.",
                 "pmi": [
                     0.05262843951704756,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Tais presos provis\u00f3rios t\u00eam direito ao voto apenas se manifestarem expressamente o interesse em votar e forem previamente cadastrados pelo TRE."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Todos aqueles que est\u00e3o privados de liberdade por ato legal do Estado perdem seus direitos pol\u00edticos, n\u00e3o podendo, portanto, votar e nem se candidatar.",
                 "pmi": [
                     0.017279615199679625,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Todos aqueles que est\u00e3o privados de liberdade por ato legal do Estado perdem seus direitos pol\u00edticos, n\u00e3o podendo, portanto, votar e nem se candidatar."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Presos provis\u00f3rios t\u00eam o direito de votar em se\u00e7\u00f5es eleitorais especiais devidamente instaladas em estabelecimentos penais e em unidades de interna\u00e7\u00e3o de adolescentes.",
                 "pmi": [
                     0.043840636998983315,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Presos provis\u00f3rios t\u00eam o direito de votar em se\u00e7\u00f5es eleitorais especiais devidamente instaladas em estabelecimentos penais e em unidades de interna\u00e7\u00e3o de adolescentes."
+                ]
             }
         ],
         "valid": true

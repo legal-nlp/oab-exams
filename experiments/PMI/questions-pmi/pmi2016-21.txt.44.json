@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ingressar com a\u00e7\u00e3o de suprimento do consentimento do pai e da av\u00f3 paterna, para fins de obter a autoriza\u00e7\u00e3o judicial de viagem ao exterior.",
                 "pmi": [
                     -0.005486333208837043,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ingressar com a\u00e7\u00e3o de suprimento do consentimento do pai e da av\u00f3 paterna, para fins de obter a autoriza\u00e7\u00e3o judicial de viagem ao exterior."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Solicitar ao pai que fa\u00e7a uma autoriza\u00e7\u00e3o de viagem acompanhada de c\u00f3pias dos documentos dele, pois a crian\u00e7a j\u00e1 possui passaporte v\u00e1lido.",
                 "pmi": [
                     0.03478581773170582,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Solicitar ao pai que fa\u00e7a uma autoriza\u00e7\u00e3o de viagem acompanhada de c\u00f3pias dos documentos dele, pois a crian\u00e7a j\u00e1 possui passaporte v\u00e1lido."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ingressar com a\u00e7\u00e3o de guarda de Jo\u00e3o, requerendo sua guarda provis\u00f3ria, para que possa viajar ao exterior independente da anu\u00eancia do pai e da av\u00f3 paterna.",
                 "pmi": [
                     0.0071095381074396434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ingressar com a\u00e7\u00e3o de guarda de Jo\u00e3o, requerendo sua guarda provis\u00f3ria, para que possa viajar ao exterior independente da anu\u00eancia do pai e da av\u00f3 paterna."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Solicitar ao pai que fa\u00e7a uma autoriza\u00e7\u00e3o de viagem com firma reconhecida, pois a crian\u00e7a j\u00e1 possui passaporte v\u00e1lido.",
                 "pmi": [
                     0.0382643995048764,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Solicitar ao pai que fa\u00e7a uma autoriza\u00e7\u00e3o de viagem com firma reconhecida, pois a crian\u00e7a j\u00e1 possui passaporte v\u00e1lido."
+                ]
             }
         ],
         "valid": true

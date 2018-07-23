@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Clara \u00e9 herdeira do apartamento, em concorr\u00eancia com Joaquim.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Clara \u00e9 herdeira do apartamento, em concorr\u00eancia com Joaquim."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Clara \u00e9 meeira no apartamento e herdeira do s\u00edtio, em concorr\u00eancia com Joaquim.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Clara \u00e9 meeira no apartamento e herdeira do s\u00edtio, em concorr\u00eancia com Joaquim."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Clara \u00e9 herdeira do apartamento e do s\u00edtio, em concorr\u00eancia com Joaquim.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Clara \u00e9 herdeira do apartamento e do s\u00edtio, em concorr\u00eancia com Joaquim."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Clara \u00e9 meeira no s\u00edtio e herdeira do apartamento, em concorr\u00eancia com Joaquim.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Clara \u00e9 meeira no s\u00edtio e herdeira do apartamento, em concorr\u00eancia com Joaquim."
+                ]
             }
         ],
         "valid": true

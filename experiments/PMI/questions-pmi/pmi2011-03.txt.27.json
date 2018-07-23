@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ronaldo pode escolher entre propor a a\u00e7\u00e3o no Juizado Especial da Fazenda P\u00fablica ou uma Vara da Fazenda P\u00fablica, ambos existentes na comarca onde reside e ocorreu o evento.",
                 "pmi": [
                     -0.07329981933139372,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ronaldo pode escolher entre propor a a\u00e7\u00e3o no Juizado Especial da Fazenda P\u00fablica ou uma Vara da Fazenda P\u00fablica, ambos existentes na comarca onde reside e ocorreu o evento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ap\u00f3s o tr\u00e2nsito em julgado da senten\u00e7a de proced\u00eancia do pedido, Ronaldo dever\u00e1 inscrever seu t\u00edtulo para pagamento na forma de precat\u00f3rio.",
                 "pmi": [
                     -0.05210586358314514,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ap\u00f3s o tr\u00e2nsito em julgado da senten\u00e7a de proced\u00eancia do pedido, Ronaldo dever\u00e1 inscrever seu t\u00edtulo para pagamento na forma de precat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Eventual senten\u00e7a de proced\u00eancia proferida em primeira inst\u00e2ncia ser\u00e1 submetida ao reexame necess\u00e1rio, pois sucumbente a Fazenda P\u00fablica.",
                 "pmi": [
                     -0.034360541797200946,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Eventual senten\u00e7a de proced\u00eancia proferida em primeira inst\u00e2ncia ser\u00e1 submetida ao reexame necess\u00e1rio, pois sucumbente a Fazenda P\u00fablica."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O Munic\u00edpio n\u00e3o gozar\u00e1 de prazo em dobro para recorrer na demanda proposta por Ronaldo.",
                 "pmi": [
                     -0.06345536597385634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Munic\u00edpio n\u00e3o gozar\u00e1 de prazo em dobro para recorrer na demanda proposta por Ronaldo."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O advogado empregado n\u00e3o est\u00e1 obrigado \u00e0 presta\u00e7\u00e3o de servi\u00e7os profissionais de interesse pessoal, fora da rela\u00e7\u00e3o de emprego.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O advogado empregado n\u00e3o est\u00e1 obrigado \u00e0 presta\u00e7\u00e3o de servi\u00e7os profissionais de interesse pessoal, fora da rela\u00e7\u00e3o de emprego."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Nas causas em que for parte empregador de direito privado, os honor\u00e1rios de sucumb\u00eancia ser\u00e3o devidos a ele, empregador, e n\u00e3o, aos advogados empregados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Nas causas em que for parte empregador de direito privado, os honor\u00e1rios de sucumb\u00eancia ser\u00e3o devidos a ele, empregador, e n\u00e3o, aos advogados empregados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Considera-se jornada de trabalho o per\u00edodo em que o advogado esteja \u00e0 disposi\u00e7\u00e3o do empregador, aguardando ou executando ordens no \u00e2mbito do escrit\u00f3rio, n\u00e3o sendo consideradas as horas trabalhadas em atividades externas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Considera-se jornada de trabalho o per\u00edodo em que o advogado esteja \u00e0 disposi\u00e7\u00e3o do empregador, aguardando ou executando ordens no \u00e2mbito do escrit\u00f3rio, n\u00e3o sendo consideradas as horas trabalhadas em atividades externas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A rela\u00e7\u00e3o de emprego, no que se refere ao advogado, n\u00e3o retira a isen\u00e7\u00e3o t\u00e9cnica inerente \u00e0 advocacia, mas reduz a independ\u00eancia profissional, visto que o advogado deve atuar de acordo com as orienta\u00e7\u00f5es de seus superiores hier\u00e1rquicos.",
                 "pmi": [
                     0.03953210677018138,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A rela\u00e7\u00e3o de emprego, no que se refere ao advogado, n\u00e3o retira a isen\u00e7\u00e3o t\u00e9cnica inerente \u00e0 advocacia, mas reduz a independ\u00eancia profissional, visto que o advogado deve atuar de acordo com as orienta\u00e7\u00f5es de seus superiores hier\u00e1rquicos."
+                ]
             }
         ],
         "valid": true

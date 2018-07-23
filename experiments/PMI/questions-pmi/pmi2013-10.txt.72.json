@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O empregado est\u00e1 correto, pois n\u00e3o pode haver altera\u00e7\u00e3o contratual que traga malef\u00edcio ao trabalhador, como foi o caso.",
                 "pmi": [
                     0.12246848452313804,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado est\u00e1 correto, pois n\u00e3o pode haver altera\u00e7\u00e3o contratual que traga malef\u00edcio ao trabalhador, como foi o caso."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O empregado est\u00e1 errado, pois sua contrata\u00e7\u00e3o j\u00e1 ocorreu na vig\u00eancia das novas condi\u00e7\u00f5es, retirando o direito ao quarto particular.",
                 "pmi": [
                     0.05596425138990775,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado est\u00e1 errado, pois sua contrata\u00e7\u00e3o j\u00e1 ocorreu na vig\u00eancia das novas condi\u00e7\u00f5es, retirando o direito ao quarto particular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O empregado est\u00e1 correto, pois as vantagens atribu\u00eddas \u00e0 classe trabalhadora n\u00e3o podem retroceder, sob pena de perda da conquista social.",
                 "pmi": [
                     0.029508081799093533,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado est\u00e1 correto, pois as vantagens atribu\u00eddas \u00e0 classe trabalhadora n\u00e3o podem retroceder, sob pena de perda da conquista social."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O empregado teria direito ao quarto particular se comprovasse que a doen\u00e7a teve origem antes de ser contratado e antes da altera\u00e7\u00e3o das condi\u00e7\u00f5es do plano de sa\u00fade.",
                 "pmi": [
                     0.02798571376254236,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregado teria direito ao quarto particular se comprovasse que a doen\u00e7a teve origem antes de ser contratado e antes da altera\u00e7\u00e3o das condi\u00e7\u00f5es do plano de sa\u00fade."
+                ]
             }
         ],
         "valid": true

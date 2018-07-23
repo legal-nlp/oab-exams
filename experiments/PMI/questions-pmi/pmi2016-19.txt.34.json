@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Mesmo diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o.",
                 "pmi": [
                     0.026657807369439047,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Mesmo diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato discricion\u00e1rio da Administra\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Independentemente do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o podendo a Administra\u00e7\u00e3o indeferi-lo.",
                 "pmi": [
                     0.024994003797388798,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Independentemente do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o podendo a Administra\u00e7\u00e3o indeferi-lo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, uma vez que, pela teoria dos motivos determinantes, a validade do ato est\u00e1 ligada aos motivos indicados como seu fundamento.",
                 "pmi": [
                     0.002900991207123089,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Diante do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 inv\u00e1lido, uma vez que, pela teoria dos motivos determinantes, a validade do ato est\u00e1 ligada aos motivos indicados como seu fundamento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A despeito do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o tendo a associa\u00e7\u00e3o de moradores demonstrado o preenchimento dos requisitos.",
                 "pmi": [
                     0.01434979629186104,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A despeito do erro na fundamenta\u00e7\u00e3o, o ato \u00e9 v\u00e1lido, pois a autoriza\u00e7\u00e3o pleiteada \u00e9 ato vinculado, n\u00e3o tendo a associa\u00e7\u00e3o de moradores demonstrado o preenchimento dos requisitos."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "requerer ao juiz a adjudica\u00e7\u00e3o do im\u00f3vel, a despeito de a promessa de compra e venda ter sido celebrada por instrumento particular.",
                 "pmi": [
                     0.06579168279641892,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "requerer ao juiz a adjudica\u00e7\u00e3o do im\u00f3vel, a despeito de a promessa de compra e venda ter sido celebrada por instrumento particular."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "usucapir o im\u00f3vel, j\u00e1 que n\u00e3o faria jus \u00e0 adjudica\u00e7\u00e3o compuls\u00f3ria na hip\u00f3tese.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "usucapir o im\u00f3vel, j\u00e1 que n\u00e3o faria jus \u00e0 adjudica\u00e7\u00e3o compuls\u00f3ria na hip\u00f3tese."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "desisti r do neg\u00f3cio e pedir o dinheiro de volta.",
                 "pmi": [
                     -0.0595009305104469,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desisti r do neg\u00f3cio e pedir o dinheiro de volta."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "exigir a substitui\u00e7\u00e3o do im\u00f3vel prometi do \u00e0 venda por outro, muito embora inexistisse previs\u00e3o expressa a esse respeito no contrato preliminar.",
                 "pmi": [
                     0.032246986705746744,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "exigir a substitui\u00e7\u00e3o do im\u00f3vel prometi do \u00e0 venda por outro, muito embora inexistisse previs\u00e3o expressa a esse respeito no contrato preliminar."
+                ]
             }
         ],
         "valid": true

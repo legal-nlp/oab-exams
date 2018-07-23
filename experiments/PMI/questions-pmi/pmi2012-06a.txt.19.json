@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e9 compet\u00eancia exclusiva do Congresso Nacional resolver definitivamente sobre tratados de qualquer natureza.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 compet\u00eancia exclusiva do Congresso Nacional resolver definitivamente sobre tratados de qualquer natureza."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o Presidente da Rep\u00fablica pode ausentar-se do pa\u00eds por per\u00edodo indefinido sem autoriza\u00e7\u00e3o do Congresso.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Presidente da Rep\u00fablica pode ausentar-se do pa\u00eds por per\u00edodo indefinido sem autoriza\u00e7\u00e3o do Congresso."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "cabe ao Presidente do Senado aprovar o estado de defesa e o estado de s\u00edtio.",
                 "pmi": [
                     0.030552663076930546,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe ao Presidente do Senado aprovar o estado de defesa e o estado de s\u00edtio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "cabe ao Congresso exclusivamente sustar os atos normativos do Executivo que exorbitem de delega\u00e7\u00e3o legislativa.",
                 "pmi": [
                     0.06554810779054025,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "cabe ao Congresso exclusivamente sustar os atos normativos do Executivo que exorbitem de delega\u00e7\u00e3o legislativa."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a moderna advocacia assume caracter\u00edsticas empresariais e permite publicidade como a apresentada.",
                 "pmi": [
                     0.006479380910719218,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a moderna advocacia assume caracter\u00edsticas empresariais e permite publicidade como a apresentada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "atividades moderadas como as sugeridas s\u00e3o admiss\u00edveis.",
                 "pmi": [
                     0.007788048976591181,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "atividades moderadas como as sugeridas s\u00e3o admiss\u00edveis."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "desde que autorizada pela OAB, a propaganda pode ser realizada.",
                 "pmi": [
                     0.01652560633803085,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "desde que autorizada pela OAB, a propaganda pode ser realizada."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "existem restri\u00e7\u00f5es \u00e9ticas \u00e0 propaganda da advocacia, entre as quais as referidas no texto.",
                 "pmi": [
                     0.04233098011155164,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "existem restri\u00e7\u00f5es \u00e9ticas \u00e0 propaganda da advocacia, entre as quais as referidas no texto."
+                ]
             }
         ],
         "valid": true

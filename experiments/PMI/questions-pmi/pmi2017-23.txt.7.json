@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "retirar e devolver autos em cart\u00f3rio, assinando a respectiva carga, bem como visar atos constitutivos de sociedades, para que sejam admitidos a registro.",
                 "pmi": [
                     0.02245215851783441,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "retirar e devolver autos em cart\u00f3rio, assinando a respectiva carga, bem como visar atos constitutivos de sociedades, para que sejam admitidos a registro."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "obter, junto a escriv\u00e3es e chefes de secretaria, certid\u00f5es de pe\u00e7as ou autos de processos em curso ou findos, bem como assinar peti\u00e7\u00f5es de juntada de documentos a processos judiciais ou administrativos.",
                 "pmi": [
                     0.018399699341975904,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "obter, junto a escriv\u00e3es e chefes de secretaria, certid\u00f5es de pe\u00e7as ou autos de processos em curso ou findos, bem como assinar peti\u00e7\u00f5es de juntada de documentos a processos judiciais ou administrativos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "obter, junto a escriv\u00e3es e chefes de secretaria, certid\u00f5es de pe\u00e7as ou autos de processos findos, mas n\u00e3o de processos em curso, bem como subscrever embargos de declara\u00e7\u00e3o opostos em face de decis\u00f5es judiciais.",
                 "pmi": [
                     0.01268987921825372,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "obter, junto a escriv\u00e3es e chefes de secretaria, certid\u00f5es de pe\u00e7as ou autos de processos findos, mas n\u00e3o de processos em curso, bem como subscrever embargos de declara\u00e7\u00e3o opostos em face de decis\u00f5es judiciais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "assinar peti\u00e7\u00f5es de juntada de documentos a processos judiciais, mas n\u00e3o a processos administrativos, nem subscrever embargos de declara\u00e7\u00e3o opostos em face de decis\u00f5es judiciais.",
                 "pmi": [
                     0.020535272122980626,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "assinar peti\u00e7\u00f5es de juntada de documentos a processos judiciais, mas n\u00e3o a processos administrativos, nem subscrever embargos de declara\u00e7\u00e3o opostos em face de decis\u00f5es judiciais."
+                ]
             }
         ],
         "valid": true

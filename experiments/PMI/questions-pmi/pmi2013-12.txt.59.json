@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "L\u00facia deve responder pelo delito de sequestro ou c\u00e1rcere privado, apenas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia deve responder pelo delito de sequestro ou c\u00e1rcere privado, apenas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "L\u00facia n\u00e3o praticou crime algum, pois beneficiada pelo instituto da desist\u00eancia volunt\u00e1ria.",
                 "pmi": [
                     0.007696946469930994,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia n\u00e3o praticou crime algum, pois beneficiada pelo instituto da desist\u00eancia volunt\u00e1ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "L\u00facia deve responder pelo delito de extors\u00e3o mediante sequestro em sua modalidade consumada.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia deve responder pelo delito de extors\u00e3o mediante sequestro em sua modalidade consumada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "L\u00facia n\u00e3o praticou crime algum, pois beneficiada pelo instituto do arrependimento eficaz.",
                 "pmi": [
                     0.007696946469930994,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "L\u00facia n\u00e3o praticou crime algum, pois beneficiada pelo instituto do arrependimento eficaz."
+                ]
             }
         ],
         "valid": true

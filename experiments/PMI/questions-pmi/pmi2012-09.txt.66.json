@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "impr\u00f3prio.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "impr\u00f3prio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ficto.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "ficto."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "diferido ou retardado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "diferido ou retardado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "esperado.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "esperado."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria, a assist\u00eancia ser\u00e1 prestada pela Justi\u00e7a do Trabalho.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria, a assist\u00eancia ser\u00e1 prestada pela Justi\u00e7a do Trabalho."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria ou autoridade do Minist\u00e9rio do Trabalho, a assist\u00eancia ser\u00e1 prestada por representante do Minist\u00e9rio P\u00fablico ou, onde houver, defensor p\u00fablico e, na falta ou impedimento destes, pelo Juiz de Paz.",
                 "pmi": [
                     0.06801130990767944,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "N\u00e3o havendo na localidade sindicato representativo da categoria ou autoridade do Minist\u00e9rio do Trabalho, a assist\u00eancia ser\u00e1 prestada por representante do Minist\u00e9rio P\u00fablico ou, onde houver, defensor p\u00fablico e, na falta ou impedimento destes, pelo Juiz de Paz."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado ou, na aus\u00eancia deste, pela Justi\u00e7a do Trabalho.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A assist\u00eancia na rescis\u00e3o contratual firmada por empregado com mais de (1) um ano de servi\u00e7o somente poder\u00e1 ser realizada pelo sindicato representativo da categoria do empregado ou, na aus\u00eancia deste, pela Justi\u00e7a do Trabalho."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O ve\u00edculo pode ser objeto de penhora pelos credores da JL Ve\u00edculos Usados, mesmo que n\u00e3o pago integralmente o pre\u00e7o.",
                 "pmi": [
                     0.037374945396319664,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O ve\u00edculo pode ser objeto de penhora pelos credores da JL Ve\u00edculos Usados, mesmo que n\u00e3o pago integralmente o pre\u00e7o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "A sociedade empres\u00e1ria JL Ve\u00edculos Usados suportar\u00e1 a perda ou deteriora\u00e7\u00e3o do ve\u00edculo, n\u00e3o se eximindo da obriga\u00e7\u00e3o de pagar o pre\u00e7o ajustado, ainda que a restitui\u00e7\u00e3o se impossibilite sem sua culpa.",
                 "pmi": [
                     0.020159979905952363,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A sociedade empres\u00e1ria JL Ve\u00edculos Usados suportar\u00e1 a perda ou deteriora\u00e7\u00e3o do ve\u00edculo, n\u00e3o se eximindo da obriga\u00e7\u00e3o de pagar o pre\u00e7o ajustado, ainda que a restitui\u00e7\u00e3o se impossibilite sem sua culpa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ainda que n\u00e3o pago integralmente o pre\u00e7o a Maria, o ve\u00edculo consignado poder\u00e1 ser objeto de penhora, caso a sociedade empres\u00e1ria JL Ve\u00edculos Usados seja acionada judicialmente por seus credores.",
                 "pmi": [
                     0.009588603919536958,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ainda que n\u00e3o pago integralmente o pre\u00e7o a Maria, o ve\u00edculo consignado poder\u00e1 ser objeto de penhora, caso a sociedade empres\u00e1ria JL Ve\u00edculos Usados seja acionada judicialmente por seus credores."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Maria poder\u00e1 dispor do ve\u00edculo enquanto perdurar o contrato estimat\u00f3rio, com fundamento na manuten\u00e7\u00e3o da reserva do dom\u00ednio e da posse indireta da coisa.",
                 "pmi": [
                     -0.007293738712503976,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Maria poder\u00e1 dispor do ve\u00edculo enquanto perdurar o contrato estimat\u00f3rio, com fundamento na manuten\u00e7\u00e3o da reserva do dom\u00ednio e da posse indireta da coisa."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Josefina receberia R$ 450.000,00. Os filhos de M\u00e1rio receberiam cada um R$ 75.000,00. Os filhos de Mauro receberiam R$ 50.000,00 cada um. E, por fim, as filhas de Moacir receberiam R$ 75.000,00 cada uma.",
                 "pmi": [
                     0.012210422246381667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Josefina receberia R$ 450.000,00. Os filhos de M\u00e1rio receberiam cada um R$ 75.000,00. Os filhos de Mauro receberiam R$ 50.000,00 cada um. E, por fim, as filhas de Moacir receberiam R$ 75.000,00 cada uma."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A heran\u00e7a seria dividida em tr\u00eas partes de R$ 300.000,00. Paulo e Pedro receberiam cada um R$ 150.000,00. Breno, Bruno e Brian receberiam, cada um, R$ 100.000,00. E, por fim, Isabel e Isolda receberiam cada uma a import\u00e2ncia de R$ 150.000,00.",
                 "pmi": [
                     0.011906185847053325,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A heran\u00e7a seria dividida em tr\u00eas partes de R$ 300.000,00. Paulo e Pedro receberiam cada um R$ 150.000,00. Breno, Bruno e Brian receberiam, cada um, R$ 100.000,00. E, por fim, Isabel e Isolda receberiam cada uma a import\u00e2ncia de R$ 150.000,00."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Paulo e Pedro receberiam cada um R$ 150.000,00. Breno, Bruno e Brian receberiam, cada um, R$ 100.000,00. E, por fim, Moacir receberia R$ 300.000,00.",
                 "pmi": [
                     0.012756627693271417,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo e Pedro receberiam cada um R$ 150.000,00. Breno, Bruno e Brian receberiam, cada um, R$ 100.000,00. E, por fim, Moacir receberia R$ 300.000,00."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Josefina receberia R$ 450.000,00. Paulo e Pedro receberiam cada um R$ 75.000,00. Breno, Bruno e Brian receberiam cada um R$ 50.000,00. Moacir receberia R$ 150.000,00.",
                 "pmi": [
                     0.013229095385614805,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Josefina receberia R$ 450.000,00. Paulo e Pedro receberiam cada um R$ 75.000,00. Breno, Bruno e Brian receberiam cada um R$ 50.000,00. Moacir receberia R$ 150.000,00."
+                ]
             }
         ],
         "valid": true

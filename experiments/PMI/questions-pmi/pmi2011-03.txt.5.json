@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "ser\u00e1 responsabilizado, pois Norberto \u00e9 agente p\u00fablico pertencente a seus quadros.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 responsabilizado, pois Norberto \u00e9 agente p\u00fablico pertencente a seus quadros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "ser\u00e1 responsabilizado, com base na teoria do risco integral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "ser\u00e1 responsabilizado, com base na teoria do risco integral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "somente ser\u00e1 responsabilizado de forma subsidi\u00e1ria, ou seja, caso Norberto n\u00e3o tenha condi\u00e7\u00f5es financeiras.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "somente ser\u00e1 responsabilizado de forma subsidi\u00e1ria, ou seja, caso Norberto n\u00e3o tenha condi\u00e7\u00f5es financeiras."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "n\u00e3o ser\u00e1 responsabilizado, pois Norberto, apesar de ser agente p\u00fablico, n\u00e3o atuou nessa qualidade; sua conduta n\u00e3o pode, pois, ser imputada ao Ente P\u00fablico.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o ser\u00e1 responsabilizado, pois Norberto, apesar de ser agente p\u00fablico, n\u00e3o atuou nessa qualidade; sua conduta n\u00e3o pode, pois, ser imputada ao Ente P\u00fablico."
+                ]
             }
         ],
         "valid": true

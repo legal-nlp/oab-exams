@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia.",
                 "pmi": [
                     0.15582758642675595,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Estadual de 1\u00aa Inst\u00e2ncia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.17722468195128466,
                     0.16601743471228977,
                     0,
                     0
-                ],
-                "text": "o Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o Tribunal Regional Federal.",
                 "pmi": [
                     0.19713805359393125,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Tribunal Regional Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia.",
                 "pmi": [
                     0.13972215966339321,
                     0.06733537725940741,
                     0.0,
                     0.0
-                ],
-                "text": "a Justi\u00e7a Federal de 1\u00aa Inst\u00e2ncia."
+                ]
             }
         ],
         "valid": true

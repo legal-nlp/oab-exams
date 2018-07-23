@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Recurso Ordin\u00e1rio Constitucional e Recurso em Sentido Estrito, respectivamente.",
                 "pmi": [
                     0.051538984517150284,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso Ordin\u00e1rio Constitucional e Recurso em Sentido Estrito, respectivamente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Recurso em Sentido Estrito, nos dois casos.",
                 "pmi": [
                     0.034670192264126,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso em Sentido Estrito, nos dois casos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Recurso Ordin\u00e1rio Constitucional, nos dois casos.",
                 "pmi": [
                     0.021034546635570122,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso Ordin\u00e1rio Constitucional, nos dois casos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Recurso Especial e Recurso Ordin\u00e1rio Constitucional, respectivamente.",
                 "pmi": [
                     0.07401401366498987,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Recurso Especial e Recurso Ordin\u00e1rio Constitucional, respectivamente."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Superior Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.05630233008891067,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Superior Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "o Tribunal de Justi\u00e7a ao qual Fabio esteja vinculado.",
                 "pmi": [
                     0.10506461027639986,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Tribunal de Justi\u00e7a ao qual Fabio esteja vinculado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a Turma Recursal do Tribunal de Justi\u00e7a ao qual Fabio esteja vinculado.",
                 "pmi": [
                     0.0700430735175999,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a Turma Recursal do Tribunal de Justi\u00e7a ao qual Fabio esteja vinculado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "o mesmo magistrado competente para julgar a a\u00e7\u00e3o penal pela pr\u00e1tica do crime de cal\u00fania.",
                 "pmi": [
                     0.12300343237102009,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o mesmo magistrado competente para julgar a a\u00e7\u00e3o penal pela pr\u00e1tica do crime de cal\u00fania."
+                ]
             }
         ],
         "valid": true

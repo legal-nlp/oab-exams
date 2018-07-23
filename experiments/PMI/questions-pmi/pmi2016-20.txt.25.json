@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Estados-membros e o Distrito Federal. Contribui\u00e7\u00e3o previdenci\u00e1ria.",
                 "pmi": [
                     0.11427823708201824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Estados-membros e o Distrito Federal. Contribui\u00e7\u00e3o previdenci\u00e1ria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Uni\u00e3o. Contribui\u00e7\u00e3o social.",
                 "pmi": [
                     0.34628393515574496,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uni\u00e3o. Contribui\u00e7\u00e3o social."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Uni\u00e3o. Imposto sobre a renda.",
                 "pmi": [
                     0.005281930627964486,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Uni\u00e3o. Imposto sobre a renda."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Todos os entes da Federa\u00e7\u00e3o. Contribui\u00e7\u00f5es sociais.",
                 "pmi": [
                     0.0232351761031916,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Todos os entes da Federa\u00e7\u00e3o. Contribui\u00e7\u00f5es sociais."
+                ]
             }
         ],
         "valid": true

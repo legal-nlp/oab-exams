@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "deflagrar o controle repressivo concentrado mediante uma Argui\u00e7\u00e3o de Descumprimento de Preceito Fundamental (ADPF), pois n\u00e3o cabe A\u00e7\u00e3o Direta de Inconstitucionalidade de decreto legislativo.",
                 "pmi": [
                     0.04615002366312303,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deflagrar o controle repressivo concentrado mediante uma Argui\u00e7\u00e3o de Descumprimento de Preceito Fundamental (ADPF), pois n\u00e3o cabe A\u00e7\u00e3o Direta de Inconstitucionalidade de decreto legislativo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "recorrer ao controle preventivo jurisdicional mediante o ajuizamento de um Mandado de Seguran\u00e7a perante o Supremo Tribunal Federal.",
                 "pmi": [
                     0.12604496694506245,
                     0.02558248950670398,
                     0.0,
                     0.0
-                ],
-                "text": "recorrer ao controle preventivo jurisdicional mediante o ajuizamento de um Mandado de Seguran\u00e7a perante o Supremo Tribunal Federal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "deflagrar o controle repressivo pol\u00edtico mediante uma representa\u00e7\u00e3o de inconstitucionalidade, pois se trata de um ato do Poder Legislativo.",
                 "pmi": [
                     0.11149424702295686,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deflagrar o controle repressivo pol\u00edtico mediante uma representa\u00e7\u00e3o de inconstitucionalidade, pois se trata de um ato do Poder Legislativo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "deflagrar o controle repressivo concentrado mediante uma A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI), uma vez que o decreto legislativo \u00e9 ato normativo prim\u00e1rio.",
                 "pmi": [
                     0.0822018964119051,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deflagrar o controle repressivo concentrado mediante uma A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI), uma vez que o decreto legislativo \u00e9 ato normativo prim\u00e1rio."
+                ]
             }
         ],
         "valid": true

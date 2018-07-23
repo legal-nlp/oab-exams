@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "A medida cautelar em a\u00e7\u00e3o direta de inconstitucionalidade por omiss\u00e3o poder\u00e1 consistir na suspens\u00e3o de procedimentos administrativos.",
                 "pmi": [
                     0.19610023039623234,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A medida cautelar em a\u00e7\u00e3o direta de inconstitucionalidade por omiss\u00e3o poder\u00e1 consistir na suspens\u00e3o de procedimentos administrativos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O ajuizamento de a\u00e7\u00e3o direta de inconstitucionalidade e de a\u00e7\u00e3o direta de inconstitucionalidade por omiss\u00e3o n\u00e3o admite desist\u00eancia. Em raz\u00e3o da presun\u00e7\u00e3o de constitucionalidade do ordenamento jur\u00eddico, a legisla\u00e7\u00e3o espec\u00edfica da a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade admite desist\u00eancia.",
                 "pmi": [
                     0.14292156503079217,
                     0.17206139831923511,
                     0.07739144569347048,
-                    0.0
-                ],
-                "text": "O ajuizamento de a\u00e7\u00e3o direta de inconstitucionalidade e de a\u00e7\u00e3o direta de inconstitucionalidade por omiss\u00e3o n\u00e3o admite desist\u00eancia. Em raz\u00e3o da presun\u00e7\u00e3o de constitucionalidade do ordenamento jur\u00eddico, a legisla\u00e7\u00e3o espec\u00edfica da a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade admite desist\u00eancia."
+                    0.07739144569347048
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Existindo norma federal objeto, ao mesmo tempo, de a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade e de a\u00e7\u00e3o direta de inconstitucionalidade, em homenagem ao car\u00e1ter ambivalente destas a\u00e7\u00f5es, ser\u00e1 uma delas extinta sem resolu\u00e7\u00e3o do m\u00e9rito por litispend\u00eancia e a outra ter\u00e1 julgamento de m\u00e9rito.",
                 "pmi": [
                     0.06510923713540719,
                     0.12113865316467672,
                     0.08599049521496721,
-                    0.0
-                ],
-                "text": "Existindo norma federal objeto, ao mesmo tempo, de a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade e de a\u00e7\u00e3o direta de inconstitucionalidade, em homenagem ao car\u00e1ter ambivalente destas a\u00e7\u00f5es, ser\u00e1 uma delas extinta sem resolu\u00e7\u00e3o do m\u00e9rito por litispend\u00eancia e a outra ter\u00e1 julgamento de m\u00e9rito."
+                    0.08599049521496721
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Da decis\u00e3o proferida na a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade caber\u00e1, t\u00e3o somente, a oposi\u00e7\u00e3o de embargos de declara\u00e7\u00e3o e o ajuizamento posterior de a\u00e7\u00e3o rescis\u00f3ria.",
                 "pmi": [
                     -0.005641058366129535,
                     0.19180286751073813,
                     0.1407117194426736,
-                    0.0
-                ],
-                "text": "Da decis\u00e3o proferida na a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade caber\u00e1, t\u00e3o somente, a oposi\u00e7\u00e3o de embargos de declara\u00e7\u00e3o e o ajuizamento posterior de a\u00e7\u00e3o rescis\u00f3ria."
+                    0.1407117194426736
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A aus\u00eancia de registro da sociedade de advogados na Ordem dos Advogados do Brasil constitui mera irregularidade.",
                 "pmi": [
                     0.1337512864898513,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A aus\u00eancia de registro da sociedade de advogados na Ordem dos Advogados do Brasil constitui mera irregularidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Os atos das sociedades de advogados devem ser restritos \u00e0s atividades de consultoria jur\u00eddica.",
                 "pmi": [
                     0.06418679778780366,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os atos das sociedades de advogados devem ser restritos \u00e0s atividades de consultoria jur\u00eddica."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Os atos praticados pelos advogados que integram sociedades irregulares s\u00e3o nulos de pleno direito.",
                 "pmi": [
                     0.0324596119406646,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os atos praticados pelos advogados que integram sociedades irregulares s\u00e3o nulos de pleno direito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A pr\u00e1tica de atos privativos de advocacia por sociedade irregular tipifica exerc\u00edcio irregular da profiss\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A pr\u00e1tica de atos privativos de advocacia por sociedade irregular tipifica exerc\u00edcio irregular da profiss\u00e3o."
+                ]
             }
         ],
         "valid": null

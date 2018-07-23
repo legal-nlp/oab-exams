@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Aplica-se a regra do Direito Penal de retroagir a lei, por ser norma mais benigna.",
                 "pmi": [
                     0.05609353111892184,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplica-se a regra do Direito Penal de retroagir a lei, por ser norma mais benigna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Aplica-se a regra do Direito Processual de imediatidade, em que a lei \u00e9 aplicada no momento em que entra em vigor, sem que se questione se mais gravosa ou n\u00e3o.",
                 "pmi": [
                     0.06892738563380313,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplica-se a regra do Direito Processual de imediatidade, em que a lei \u00e9 aplicada no momento em que entra em vigor, sem que se questione se mais gravosa ou n\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Aplica-se a regra do Direito Penal de irretroatividade da lei, por ser norma mais gravosa.",
                 "pmi": [
                     0.05609353111892184,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplica-se a regra do Direito Penal de irretroatividade da lei, por ser norma mais gravosa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Aplica-se a regra do Direito Processual de imediatidade, em que a lei \u00e9 aplicada no momento em que entra em vigor, devendo-se questionar se a novatio legis \u00e9 mais gravosa ou n\u00e3o.",
                 "pmi": [
                     0.08266634016097048,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Aplica-se a regra do Direito Processual de imediatidade, em que a lei \u00e9 aplicada no momento em que entra em vigor, devendo-se questionar se a novatio legis \u00e9 mais gravosa ou n\u00e3o."
+                ]
             }
         ],
         "valid": true

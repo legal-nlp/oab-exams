@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Arthur poder\u00e1 opor embargos de declara\u00e7\u00e3o, suspendendo o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.",
                 "pmi": [
                     0.0015693422301129296,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Arthur poder\u00e1 opor embargos de declara\u00e7\u00e3o, suspendendo o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Os embargos n\u00e3o interrompem ou suspendem o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal, de modo que Arthur dever\u00e1 optar entre os embargos ou o recurso, sob pena de preclus\u00e3o.",
                 "pmi": [
                     0.01116813296600618,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os embargos n\u00e3o interrompem ou suspendem o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal, de modo que Arthur dever\u00e1 optar entre os embargos ou o recurso, sob pena de preclus\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Eventuais embargos de declara\u00e7\u00e3o interpostos por Arthur interromper\u00e3o o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal.",
                 "pmi": [
                     0.0036468809813113064,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Eventuais embargos de declara\u00e7\u00e3o interpostos por Arthur interromper\u00e3o o prazo para interposi\u00e7\u00e3o de recurso para a Turma Recursal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Arthur n\u00e3o dever\u00e1 interpor embargos de declara\u00e7\u00e3o pois estes n\u00e3o s\u00e3o cab\u00edveis no \u00e2mbito de Juizados Especiais.",
                 "pmi": [
                     0.009852557481842118,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Arthur n\u00e3o dever\u00e1 interpor embargos de declara\u00e7\u00e3o pois estes n\u00e3o s\u00e3o cab\u00edveis no \u00e2mbito de Juizados Especiais."
+                ]
             }
         ],
         "valid": true

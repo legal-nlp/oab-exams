@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Paulo, se assim o desejar, poder\u00e1, no prazo de at\u00e9 um ano ap\u00f3s atingir a maioridade, introduzir em seu nome um patron\u00edmico materno, sem que precise justificar sua vontade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo, se assim o desejar, poder\u00e1, no prazo de at\u00e9 um ano ap\u00f3s atingir a maioridade, introduzir em seu nome um patron\u00edmico materno, sem que precise justificar sua vontade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "\u00e9 obrigat\u00f3ria, em raz\u00e3o da aboli\u00e7\u00e3o do tra\u00e7o patriarcal da legisla\u00e7\u00e3o civil brasileira, a ado\u00e7\u00e3o do sobrenome materno, de modo que o registro de nascimento de Paulo poder\u00e1 ser alterado a qualquer momento e, at\u00e9 mesmo, de of\u00edcio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 obrigat\u00f3ria, em raz\u00e3o da aboli\u00e7\u00e3o do tra\u00e7o patriarcal da legisla\u00e7\u00e3o civil brasileira, a ado\u00e7\u00e3o do sobrenome materno, de modo que o registro de nascimento de Paulo poder\u00e1 ser alterado a qualquer momento e, at\u00e9 mesmo, de of\u00edcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "apenas por meio do casamento ser\u00e1 poss\u00edvel a Paulo alterar seu nome, o que ser\u00e1 feito com a inclus\u00e3o de sobrenome da esposa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "apenas por meio do casamento ser\u00e1 poss\u00edvel a Paulo alterar seu nome, o que ser\u00e1 feito com a inclus\u00e3o de sobrenome da esposa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Paulo poder\u00e1, se assim o desejar, incluir em seu nome apelido que seja not\u00f3rio, o que dever\u00e1 ocorrer por meio de pedido devidamente instru\u00eddo e dirigido ao oficial do cart\u00f3rio de registro civil.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Paulo poder\u00e1, se assim o desejar, incluir em seu nome apelido que seja not\u00f3rio, o que dever\u00e1 ocorrer por meio de pedido devidamente instru\u00eddo e dirigido ao oficial do cart\u00f3rio de registro civil."
+                ]
             }
         ],
         "valid": true

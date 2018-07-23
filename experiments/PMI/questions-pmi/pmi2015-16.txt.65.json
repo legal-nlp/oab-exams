@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A exig\u00eancia de ind\u00edcios de autoria e materialidade para oferecimento de den\u00fancia torna o inqu\u00e9rito policial um procedimento indispens\u00e1vel.",
                 "pmi": [
                     0.050803127643367856,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A exig\u00eancia de ind\u00edcios de autoria e materialidade para oferecimento de den\u00fancia torna o inqu\u00e9rito policial um procedimento indispens\u00e1vel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O despacho que indeferir o requerimento de abertura de inqu\u00e9rito policial \u00e9 irrecorr\u00edvel.",
                 "pmi": [
                     0.08653132521764892,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O despacho que indeferir o requerimento de abertura de inqu\u00e9rito policial \u00e9 irrecorr\u00edvel."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O inqu\u00e9rito policial \u00e9 inquisitivo, logo o defensor n\u00e3o poder\u00e1 ter acesso aos elementos informativos que nele constem, ainda que j\u00e1 documentados.",
                 "pmi": [
                     0.06230125056601609,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O inqu\u00e9rito policial \u00e9 inquisitivo, logo o defensor n\u00e3o poder\u00e1 ter acesso aos elementos informativos que nele constem, ainda que j\u00e1 documentados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "A autoridade policial, ainda que convencida da inexist\u00eancia do crime, n\u00e3o poder\u00e1 mandar arquivar os autos do inqu\u00e9rito j\u00e1 instaurado.",
                 "pmi": [
                     0.05833837390135336,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A autoridade policial, ainda que convencida da inexist\u00eancia do crime, n\u00e3o poder\u00e1 mandar arquivar os autos do inqu\u00e9rito j\u00e1 instaurado."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a isen\u00e7\u00e3o concedida a Vera exonera integralmente Mara de sua obriga\u00e7\u00e3o.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a isen\u00e7\u00e3o concedida a Vera exonera integralmente Mara de sua obriga\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "a isen\u00e7\u00e3o concedida a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o pelo saldo remanescente.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a isen\u00e7\u00e3o concedida a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o pelo saldo remanescente."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a isen\u00e7\u00e3o dada a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o integral.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a isen\u00e7\u00e3o dada a Vera n\u00e3o exonera Mara, restando a este a obriga\u00e7\u00e3o integral."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "a referida lei \u00e9 inconstitucional, dada a impossibilidade de concess\u00e3o de isen\u00e7\u00e3o pessoal em caso de solidariedade de obrigados.",
                 "pmi": [
                     0.03574087189401623,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a referida lei \u00e9 inconstitucional, dada a impossibilidade de concess\u00e3o de isen\u00e7\u00e3o pessoal em caso de solidariedade de obrigados."
+                ]
             }
         ],
         "valid": true

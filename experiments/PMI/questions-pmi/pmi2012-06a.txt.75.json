@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Professores, m\u00e9dicos e rodovi\u00e1rios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Professores, m\u00e9dicos e rodovi\u00e1rios."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ferrovi\u00e1rios, jornalistas e operadores cinematogr\u00e1ficos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Advogados, mineiros de subsolo e securit\u00e1rios.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Advogados, mineiros de subsolo e securit\u00e1rios."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Banc\u00e1rios, comerci\u00e1rios e dom\u00e9sticos."
+                ]
             }
         ],
         "valid": true

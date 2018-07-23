@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A a\u00e7\u00e3o de invent\u00e1rio deve ser ajuizada no foro do domic\u00edlio dos filhos de Lindalva, pois s\u00e3o eles os inventariantes.",
                 "pmi": [
                     -0.024095996858271778,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A a\u00e7\u00e3o de invent\u00e1rio deve ser ajuizada no foro do domic\u00edlio dos filhos de Lindalva, pois s\u00e3o eles os inventariantes."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O foro competente para o invent\u00e1rio \u00e9 o da situa\u00e7\u00e3o dos bens, de forma que o invent\u00e1rio dever\u00e1 ser aberto na Bahia, local onde a maioria dos bens est\u00e1 localizada.",
                 "pmi": [
                     -0.00028234086246347093,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O foro competente para o invent\u00e1rio \u00e9 o da situa\u00e7\u00e3o dos bens, de forma que o invent\u00e1rio dever\u00e1 ser aberto na Bahia, local onde a maioria dos bens est\u00e1 localizada."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A a\u00e7\u00e3o de invent\u00e1rio poder\u00e1 ser ajuizada no foro da situa\u00e7\u00e3o de qualquer dos bens, uma vez que o autor da heran\u00e7a possui bens em lugares diferentes.",
                 "pmi": [
                     0.014685757061167292,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A a\u00e7\u00e3o de invent\u00e1rio poder\u00e1 ser ajuizada no foro da situa\u00e7\u00e3o de qualquer dos bens, uma vez que o autor da heran\u00e7a possui bens em lugares diferentes."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "O invent\u00e1rio dever\u00e1 ser aberto pelos herdeiros no estado de Minas Gerais, uma vez que Lindalva n\u00e3o tinha domic\u00edlio certo e seus bens estavam em lugares diferentes.",
                 "pmi": [
                     0.026386240910798883,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O invent\u00e1rio dever\u00e1 ser aberto pelos herdeiros no estado de Minas Gerais, uma vez que Lindalva n\u00e3o tinha domic\u00edlio certo e seus bens estavam em lugares diferentes."
+                ]
             }
         ],
         "valid": true

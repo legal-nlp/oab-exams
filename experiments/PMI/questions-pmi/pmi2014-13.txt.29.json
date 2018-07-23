@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A Administra\u00e7\u00e3o P\u00fablica pode revogar a licita\u00e7\u00e3o, por qualquer motivo, principalmente por ilegalidade, n\u00e3o havendo direito subjetivo da Companhia X ao contrato.",
                 "pmi": [
                     0.02951241415683782,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A Administra\u00e7\u00e3o P\u00fablica pode revogar a licita\u00e7\u00e3o, por qualquer motivo, principalmente por ilegalidade, n\u00e3o havendo direito subjetivo da Companhia X ao contrato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A revoga\u00e7\u00e3o depende da constata\u00e7\u00e3o de ilegalidade no curso do procedimento e, nesse caso, n\u00e3o pode ser decretada em preju\u00edzo da Companhia X, que j\u00e1 se sagrou vencedora.",
                 "pmi": [
                     0.01695969780678192,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A revoga\u00e7\u00e3o depende da constata\u00e7\u00e3o de ilegalidade no curso do procedimento e, nesse caso, n\u00e3o pode ser decretada em preju\u00edzo da Companhia X, que j\u00e1 se sagrou vencedora."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A revoga\u00e7\u00e3o, fundada na conveni\u00eancia e na oportunidade da Administra\u00e7\u00e3o P\u00fablica, dever\u00e1 sempre ser motivada e baseada em fato superveniente ao in\u00edcio da licita\u00e7\u00e3o.",
                 "pmi": [
                     0.03858087732192314,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A revoga\u00e7\u00e3o, fundada na conveni\u00eancia e na oportunidade da Administra\u00e7\u00e3o P\u00fablica, dever\u00e1 sempre ser motivada e baseada em fato superveniente ao in\u00edcio da licita\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Quando a Administra\u00e7\u00e3o lan\u00e7a um edital e a ele se vincula, somente ser\u00e1 poss\u00edvel a anula\u00e7\u00e3o do certame em caso de ilegalidade, sendo-lhe vedado, pois, revogar a licita\u00e7\u00e3o.",
                 "pmi": [
                     0.01130167647115248,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Quando a Administra\u00e7\u00e3o lan\u00e7a um edital e a ele se vincula, somente ser\u00e1 poss\u00edvel a anula\u00e7\u00e3o do certame em caso de ilegalidade, sendo-lhe vedado, pois, revogar a licita\u00e7\u00e3o."
+                ]
             }
         ],
         "valid": true

@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Ministro do STF ou do STJ.",
                 "pmi": [
                     0.025576256521134457,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ministro do STF ou do STJ."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Diplomata.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Diplomata."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Ministro da Justi\u00e7a.",
                 "pmi": [
                     0.03836438478170169,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Ministro da Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Senador.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Senador."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "O juiz dever\u00e1 homologar a desist\u00eancia, independentemente da concord\u00e2ncia do executado, caso n\u00e3o tenham sido apresentados embargos versando sobre quest\u00f5es de direito material.",
                 "pmi": [
                     0.03039994236154318,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz dever\u00e1 homologar a desist\u00eancia, independentemente da concord\u00e2ncia do executado, caso n\u00e3o tenham sido apresentados embargos versando sobre quest\u00f5es de direito material."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O juiz somente poder\u00e1 homologar a desist\u00eancia ap\u00f3s a anu\u00eancia do executado.",
                 "pmi": [
                     0.012754300381348869,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz somente poder\u00e1 homologar a desist\u00eancia ap\u00f3s a anu\u00eancia do executado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia, j\u00e1 que o credor tem a faculdade de desistir apenas de algumas medidas executivas.",
                 "pmi": [
                     0.024856037503443156,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia, j\u00e1 que o credor tem a faculdade de desistir apenas de algumas medidas executivas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia caso o devedor, citado, ofere\u00e7a embargos que versem apenas sobre quest\u00f5es processuais.",
                 "pmi": [
                     -0.011223917457083102,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz n\u00e3o homologar\u00e1 a desist\u00eancia caso o devedor, citado, ofere\u00e7a embargos que versem apenas sobre quest\u00f5es processuais."
+                ]
             }
         ],
         "valid": true

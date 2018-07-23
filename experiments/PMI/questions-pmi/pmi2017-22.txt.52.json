@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "\u00e9 poss\u00edvel alegar em ju\u00edzo, com \u00eaxito, a nulidade do t\u00edtulo, em raz\u00e3o de o lugar de pagamento ser domic\u00edlio diverso do subscritor, caracterizando m\u00e1-f\u00e9 do portador atual.",
                 "pmi": [
                     -0.003750493177265102,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel alegar em ju\u00edzo, com \u00eaxito, a nulidade do t\u00edtulo, em raz\u00e3o de o lugar de pagamento ser domic\u00edlio diverso do subscritor, caracterizando m\u00e1-f\u00e9 do portador atual."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "n\u00e3o \u00e9 poss\u00edvel ao subscritor se recusar validamente ao pagamento diante da autonomia das obriga\u00e7\u00f5es cambi\u00e1rias e do endosso-mandato realizado na c\u00e1rtula.",
                 "pmi": [
                     -0.04010894524155128,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 poss\u00edvel ao subscritor se recusar validamente ao pagamento diante da autonomia das obriga\u00e7\u00f5es cambi\u00e1rias e do endosso-mandato realizado na c\u00e1rtula."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "\u00e9 poss\u00edvel ao subscritor da nota promiss\u00f3ria opor exce\u00e7\u00e3o pessoal ao benefici\u00e1rio Jer\u00f4nimo quanto ao conte\u00fado literal do t\u00edtulo, diante do preenchimento abusivo.",
                 "pmi": [
                     0.0248023257339615,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "\u00e9 poss\u00edvel ao subscritor da nota promiss\u00f3ria opor exce\u00e7\u00e3o pessoal ao benefici\u00e1rio Jer\u00f4nimo quanto ao conte\u00fado literal do t\u00edtulo, diante do preenchimento abusivo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "n\u00e3o \u00e9 poss\u00edvel a oposi\u00e7\u00e3o de exce\u00e7\u00e3o ao pagamento, porque o subscritor da nota promiss\u00f3ria \u00e9 equiparado ao aceitante da letra de c\u00e2mbio e, como tal, obriga-se a pagar na data do vencimento.",
                 "pmi": [
                     -0.020918345590064925,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o \u00e9 poss\u00edvel a oposi\u00e7\u00e3o de exce\u00e7\u00e3o ao pagamento, porque o subscritor da nota promiss\u00f3ria \u00e9 equiparado ao aceitante da letra de c\u00e2mbio e, como tal, obriga-se a pagar na data do vencimento."
+                ]
             }
         ],
         "valid": true

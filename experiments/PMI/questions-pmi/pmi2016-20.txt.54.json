@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Heitor deveria ter apresentado incidente processual aut\u00f4nomo de impugna\u00e7\u00e3o ao valor da causa.",
                 "pmi": [
                     0.05343541365334028,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Heitor deveria ter apresentado incidente processual aut\u00f4nomo de impugna\u00e7\u00e3o ao valor da causa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Heitor poder\u00e1 formular pedido recursal de modifica\u00e7\u00e3o da decis\u00e3o que rejeitou a impugna\u00e7\u00e3o ao valor da causa, em suas raz\u00f5es recursais de eventual apela\u00e7\u00e3o.",
                 "pmi": [
                     0.016198559057811427,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Heitor poder\u00e1 formular pedido recursal de modifica\u00e7\u00e3o da decis\u00e3o que rejeitou a impugna\u00e7\u00e3o ao valor da causa, em suas raz\u00f5es recursais de eventual apela\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O valor da causa dever\u00e1 ser de R$ 70.000,00 (setenta mil reais), pois existem pedidos cumulativos.",
                 "pmi": [
                     -0.016941143062314583,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O valor da causa dever\u00e1 ser de R$ 70.000,00 (setenta mil reais), pois existem pedidos cumulativos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A impugna\u00e7\u00e3o ao valor da causa somente poderia ser decidida por ocasi\u00e3o da prolata\u00e7\u00e3o da senten\u00e7a de m\u00e9rito.",
                 "pmi": [
                     0.030791457073641552,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A impugna\u00e7\u00e3o ao valor da causa somente poderia ser decidida por ocasi\u00e3o da prolata\u00e7\u00e3o da senten\u00e7a de m\u00e9rito."
+                ]
             }
         ],
         "valid": true

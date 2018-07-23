@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Como ato de natureza essencialmente pol\u00edtica, o Decreto XYZ n\u00e3o est\u00e1 sujeito a qualquer forma de controle.",
                 "pmi": [
                     0.05855299233872592,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como ato de natureza essencialmente pol\u00edtica, o Decreto XYZ n\u00e3o est\u00e1 sujeito a qualquer forma de controle."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Como ato discricion\u00e1rio, o Decreto XYZ n\u00e3o est\u00e1 sujeito a qualquer forma de controle.",
                 "pmi": [
                     0.03614119889711898,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como ato discricion\u00e1rio, o Decreto XYZ n\u00e3o est\u00e1 sujeito a qualquer forma de controle."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Como ato normativo infralegal, o Decreto XYZ est\u00e1 sujeito apenas ao controle pelo Poder Judici\u00e1rio.",
                 "pmi": [
                     0.06945221830589604,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como ato normativo infralegal, o Decreto XYZ est\u00e1 sujeito apenas ao controle pelo Poder Judici\u00e1rio."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "Como ato normativo infralegal, o Decreto XYZ sujeita-se ao controle judicial e ao controle legislativo.",
                 "pmi": [
                     0.07237639430755287,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Como ato normativo infralegal, o Decreto XYZ sujeita-se ao controle judicial e ao controle legislativo."
+                ]
             }
         ],
         "valid": true

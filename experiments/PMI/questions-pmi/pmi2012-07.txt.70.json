@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O empregador n\u00e3o podia ter efetuado o desconto no sal\u00e1rio do empregado, em raz\u00e3o do princ\u00edpio da intangibilidade salarial, sendo inv\u00e1lida a norma coletiva autorizadora.",
                 "pmi": [
                     0.02328534873797679,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O empregador n\u00e3o podia ter efetuado o desconto no sal\u00e1rio do empregado, em raz\u00e3o do princ\u00edpio da intangibilidade salarial, sendo inv\u00e1lida a norma coletiva autorizadora."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O desconto foi l\u00edcito, em face da n\u00e3o observ\u00e2ncia das recomenda\u00e7\u00f5es previstas em norma coletiva.",
                 "pmi": [
                     0.01397879062817899,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto foi l\u00edcito, em face da n\u00e3o observ\u00e2ncia das recomenda\u00e7\u00f5es previstas em norma coletiva."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "O desconto somente pode ser considerado l\u00edcito se comprovado o dolo do empregado.",
                 "pmi": [
                     0.014159532250366253,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto somente pode ser considerado l\u00edcito se comprovado o dolo do empregado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O desconto \u00e9 il\u00edcito, pois o empregador n\u00e3o pode transferir ao empregado os riscos da atividade econ\u00f4mica, sendo inv\u00e1lida a norma coletiva que o autoriza.",
                 "pmi": [
                     0.03509270968049685,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O desconto \u00e9 il\u00edcito, pois o empregador n\u00e3o pode transferir ao empregado os riscos da atividade econ\u00f4mica, sendo inv\u00e1lida a norma coletiva que o autoriza."
+                ]
             }
         ],
         "valid": true

@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Por se tratar de error in procedendo e a causa n\u00e3o estar madura para julgamento, o pedido recursal deve ser de anula\u00e7\u00e3o da senten\u00e7a.",
                 "pmi": [
                     0.022997086207793515,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por se tratar de error in procedendo e a causa n\u00e3o estar madura para julgamento, o pedido recursal deve ser de anula\u00e7\u00e3o da senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Trata-se de erro material, que justifica o pedido de integra\u00e7\u00e3o da senten\u00e7a pelo Tribunal.",
                 "pmi": [
                     0.034376817627735645,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de erro material, que justifica o pedido de integra\u00e7\u00e3o da senten\u00e7a pelo Tribunal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Em se tratando de error in judicando, o pedido adequado, no caso sob exame, \u00e9 de reforma da senten\u00e7a.",
                 "pmi": [
                     0.002446715682137885,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Em se tratando de error in judicando, o pedido adequado, no caso sob exame, \u00e9 de reforma da senten\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Trata-se de erro de procedimento, que justifica o pedido de julgamento do m\u00e9rito da lide no estado em que se encontra.",
                 "pmi": [
                     0.02802531031809824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Trata-se de erro de procedimento, que justifica o pedido de julgamento do m\u00e9rito da lide no estado em que se encontra."
+                ]
             }
         ],
         "valid": true

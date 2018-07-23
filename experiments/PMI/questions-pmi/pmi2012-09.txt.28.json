@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "acolhida, em raz\u00e3o da imunidade rec\u00edproca, que impede que os entes da federa\u00e7\u00e3o instituam impostos sobre bens e servi\u00e7os uns dos outros.",
                 "pmi": [
                     0.0037776376993648554,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "acolhida, em raz\u00e3o da imunidade rec\u00edproca, que impede que os entes da federa\u00e7\u00e3o instituam impostos sobre bens e servi\u00e7os uns dos outros."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "rejeitada, pois na situa\u00e7\u00e3o apresentada o munic\u00edpio se apresenta na condi\u00e7\u00e3o de contribuinte de direito do ICMS.",
                 "pmi": [
                     0.06143699937500659,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "rejeitada, pois na situa\u00e7\u00e3o apresentada o munic\u00edpio se apresenta na condi\u00e7\u00e3o de contribuinte de direito do ICMS."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "acolhida, pois a empresa concession\u00e1ria prestadora do servi\u00e7o de fornecimento de energia n\u00e3o tem compet\u00eancia para cobrar ICMS.",
                 "pmi": [
                     -0.00650497473636518,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "acolhida, pois a empresa concession\u00e1ria prestadora do servi\u00e7o de fornecimento de energia n\u00e3o tem compet\u00eancia para cobrar ICMS."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "rejeitada, pois o munic\u00edpio n\u00e3o goza de imunidade com rela\u00e7\u00e3o a imposto que incide apenas indiretamente sobre seus bens e servi\u00e7os.",
                 "pmi": [
                     0.016654747341533844,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "rejeitada, pois o munic\u00edpio n\u00e3o goza de imunidade com rela\u00e7\u00e3o a imposto que incide apenas indiretamente sobre seus bens e servi\u00e7os."
+                ]
             }
         ],
         "valid": true

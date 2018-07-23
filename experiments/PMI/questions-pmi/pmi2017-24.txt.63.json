@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado e reconhecimento da tentativa.",
                 "pmi": [
                     0.011933109534846694,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado e reconhecimento da tentativa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "o afastamento da causa de aumento e o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado.",
                 "pmi": [
                     0.010349333746529325,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o afastamento da causa de aumento e o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "o afastamento da causa de aumento, apenas.",
                 "pmi": [
                     -0.0007736241866698787,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o afastamento da causa de aumento, apenas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado, apenas.",
                 "pmi": [
                     0.015910812713128927,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o reconhecimento da causa de diminui\u00e7\u00e3o de pena do tr\u00e1fico privilegiado, apenas."
+                ]
             }
         ],
         "valid": true

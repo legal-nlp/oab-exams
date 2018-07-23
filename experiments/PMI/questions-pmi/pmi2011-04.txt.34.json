@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "n\u00e3o deve pagar a Silas as despesas relativas \u00e0 manuten\u00e7\u00e3o dos dois autom\u00f3veis durante o per\u00edodo ajustado.",
                 "pmi": [
                     0.013907741915187876,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "n\u00e3o deve pagar a Silas as despesas relativas \u00e0 manuten\u00e7\u00e3o dos dois autom\u00f3veis durante o per\u00edodo ajustado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "deve cobrar diretamente de Francisco as despesas referentes ao conserto da porta lateral direita.",
                 "pmi": [
                     0.013907741915187876,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve cobrar diretamente de Francisco as despesas referentes ao conserto da porta lateral direita."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "deve arcar com as despesas referentes \u00e0 restitui\u00e7\u00e3o dos dois autom\u00f3veis no local estipulado.",
                 "pmi": [
                     0.018543655886917167,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "deve arcar com as despesas referentes \u00e0 restitui\u00e7\u00e3o dos dois autom\u00f3veis no local estipulado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "poder\u00e1 reter integralmente o valor da contrapresta\u00e7\u00e3o em dinheiro devido a Silas, tendo em vista a ocorr\u00eancia do acidente com um dos autom\u00f3veis.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poder\u00e1 reter integralmente o valor da contrapresta\u00e7\u00e3o em dinheiro devido a Silas, tendo em vista a ocorr\u00eancia do acidente com um dos autom\u00f3veis."
+                ]
             }
         ],
         "valid": true

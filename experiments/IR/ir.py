@@ -70,8 +70,8 @@ def main():
                     selected_option = o
                     justification = "[{}] {}".format(filename, text)
 
-        row = [oab_filename, oab_number,
-               oab_enum, selected_option['letter'], selected_option['text'], justification, str(selected_option['correct'])]
+        row = [oab_filename, oab_number,str(selected_option['correct']),
+               oab_enum, selected_option['letter'], selected_option['text'], justification]
         print("\t".join(row))
 
 if __name__ == "__main__":

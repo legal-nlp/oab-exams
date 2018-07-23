@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "a atua\u00e7\u00e3o de T\u00edcio desborda os limites normais do exerc\u00edcio da advocacia.",
                 "pmi": [
                     0.01771596399681434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a atua\u00e7\u00e3o de T\u00edcio desborda os limites normais do exerc\u00edcio da advocacia."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "inexistindo atividade injuriosa, os atos do advogado s\u00e3o imunes ao controle disciplinar.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "inexistindo atividade injuriosa, os atos do advogado s\u00e3o imunes ao controle disciplinar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a defesa do cliente deve ser pautada pelo dirigente da audi\u00eancia, o magistrado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a defesa do cliente deve ser pautada pelo dirigente da audi\u00eancia, o magistrado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "no processo judicial, os atos do advogado constituem m\u00fanus privado.",
                 "pmi": [
                     0.04835079129331366,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "no processo judicial, os atos do advogado constituem m\u00fanus privado."
+                ]
             }
         ],
         "valid": true

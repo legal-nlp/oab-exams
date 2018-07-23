@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "lei estadual e referendo.",
                 "pmi": [
                     0.05279579808576634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "lei estadual e referendo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "lei municipal e plebiscito.",
                 "pmi": [
                     0.15740409939406377,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "lei municipal e plebiscito."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "lei municipal e referendo.",
                 "pmi": [
                     0.15740409939406377,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "lei municipal e referendo."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "lei estadual e plebiscito.",
                 "pmi": [
                     0.05279579808576634,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "lei estadual e plebiscito."
+                ]
             }
         ],
         "valid": true

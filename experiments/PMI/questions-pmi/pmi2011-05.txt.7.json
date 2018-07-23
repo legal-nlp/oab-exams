@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o advogado deve permanecer sentado na sala de audi\u00eancias at\u00e9 o final do ato.",
                 "pmi": [
                     0.07216107546157309,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado deve permanecer sentado na sala de audi\u00eancias at\u00e9 o final do ato."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "caso o advogado necessite retirar-se do local, deve postular licen\u00e7a \u00e0 autoridade.",
                 "pmi": [
                     0.08563252401848277,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "caso o advogado necessite retirar-se do local, deve postular licen\u00e7a \u00e0 autoridade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "o advogado pode permanecer sentado ou de p\u00e9 nos recintos do Poder Judici\u00e1rio.",
                 "pmi": [
                     0.002962083849748434,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o advogado pode permanecer sentado ou de p\u00e9 nos recintos do Poder Judici\u00e1rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "pode permanecer de p\u00e9, caso autorizado pela autoridade competente.",
                 "pmi": [
                     0.0785588314552358,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "pode permanecer de p\u00e9, caso autorizado pela autoridade competente."
+                ]
             }
         ],
         "valid": true

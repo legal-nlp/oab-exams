@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o estatuto dever\u00e1 conter cl\u00e1usula indicativa do valor do capital social, que ser\u00e1 fixo durante toda a exist\u00eancia da sociedade.",
                 "pmi": [
                     0.05803357522099668,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o estatuto dever\u00e1 conter cl\u00e1usula indicativa do valor do capital social, que ser\u00e1 fixo durante toda a exist\u00eancia da sociedade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "aplicam-se \u00e0s cooperativas as disposi\u00e7\u00f5es do C\u00f3digo Civil referentes \u00e0s sociedades an\u00f4nimas, na omiss\u00e3o da legisla\u00e7\u00e3o especial.",
                 "pmi": [
                     0.07076361968154343,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "aplicam-se \u00e0s cooperativas as disposi\u00e7\u00f5es do C\u00f3digo Civil referentes \u00e0s sociedades an\u00f4nimas, na omiss\u00e3o da legisla\u00e7\u00e3o especial."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "os s\u00f3cios responder\u00e3o sempre de forma solid\u00e1ria, ilimitada e subsidi\u00e1ria pelas obriga\u00e7\u00f5es sociais, por ser a cooperativa uma sociedade de pessoas.",
                 "pmi": [
                     0.026462035577549767,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "os s\u00f3cios responder\u00e3o sempre de forma solid\u00e1ria, ilimitada e subsidi\u00e1ria pelas obriga\u00e7\u00f5es sociais, por ser a cooperativa uma sociedade de pessoas."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "se a cooperativa possuir capital social, as quotas ser\u00e3o intransfer\u00edveis a terceiros estranhos \u00e0 sociedade, ainda que por direito heredit\u00e1rio.",
                 "pmi": [
                     0.04075538002907973,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "se a cooperativa possuir capital social, as quotas ser\u00e3o intransfer\u00edveis a terceiros estranhos \u00e0 sociedade, ainda que por direito heredit\u00e1rio."
+                ]
             }
         ],
         "valid": true

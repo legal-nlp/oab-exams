@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Os contratos de seguro ofertados no mercado de consumo, apesar de serem de ades\u00e3o, s\u00e3o regidos pelo C\u00f3digo Civil, e a eles se aplica o C\u00f3digo de Defesa do Consumidor apenas subsidiariamente e em casos estritos.",
                 "pmi": [
                     0.018911400880947064,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Os contratos de seguro ofertados no mercado de consumo, apesar de serem de ades\u00e3o, s\u00e3o regidos pelo C\u00f3digo Civil, e a eles se aplica o C\u00f3digo de Defesa do Consumidor apenas subsidiariamente e em casos estritos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A cl\u00e1usula prevista, que estipula a possibilidade de cancelamento unilateral do contrato em caso de desequil\u00edbrio econ\u00f4mico, seria vi\u00e1vel desde que exercida na primeira metade do contrato.",
                 "pmi": [
                     0.047014865039906185,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cl\u00e1usula prevista, que estipula a possibilidade de cancelamento unilateral do contrato em caso de desequil\u00edbrio econ\u00f4mico, seria vi\u00e1vel desde que exercida na primeira metade do contrato."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O Minist\u00e9rio P\u00fablico tem legitimidade para ajuizar demanda contra a seguradora, buscando ser declarada a nulidade da cl\u00e1usula contratual celebrada com os consumidores, e que seja proibido \u00e0 seguradora continuar a ofert\u00e1-la no mercado de consumo.",
                 "pmi": [
                     0.02261688564938667,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O Minist\u00e9rio P\u00fablico tem legitimidade para ajuizar demanda contra a seguradora, buscando ser declarada a nulidade da cl\u00e1usula contratual celebrada com os consumidores, e que seja proibido \u00e0 seguradora continuar a ofert\u00e1-la no mercado de consumo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A cl\u00e1usula prevista no contrato celebrado por Jo\u00e3o n\u00e3o \u00e9 abusiva, pois o seguro deve atentar para a equa\u00e7\u00e3o financeira atuarial, necess\u00e1ria ao equil\u00edbrio econ\u00f4mico da aven\u00e7a e \u00e0 pr\u00f3pria higidez e continuidade do contrato.",
                 "pmi": [
                     0.05079122846600601,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A cl\u00e1usula prevista no contrato celebrado por Jo\u00e3o n\u00e3o \u00e9 abusiva, pois o seguro deve atentar para a equa\u00e7\u00e3o financeira atuarial, necess\u00e1ria ao equil\u00edbrio econ\u00f4mico da aven\u00e7a e \u00e0 pr\u00f3pria higidez e continuidade do contrato."
+                ]
             }
         ],
         "valid": true

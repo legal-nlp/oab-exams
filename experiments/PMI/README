@@ -1,19 +1,28 @@
+This experiment does not depend on Elastic Search to make it easier to
+run in clusters.
+
+You need to dump your Elastic Search indices and generate oab.json and
+corpus.json via dump.py
+
+$ python3 dump.py
+$ mv corpus.tmp.json corpus.json
+$ mv oab.tmp.json oab.json
+
 If you have a new oab.json file, first run split-oab.py to split it
 into independent JSONs one of each question and put these new JSONs in
 the questions/ directory.
 
 To execute, run:
 
-for f in questions/*.json; do python3 pmi.py $f; done
+for f in questions/*.json; do python3 pmi-solver.py $f; done
 
 If you are using LSF, you can run the jobs in parallel like:
 
-for f in questions/*.json; do bsub python3 pmi.py $f; done
+for f in questions/*.json; do bsub python3 pmi-solver.py $f; done
 
 After the PMI calculation is done, move all the pmi*.json to a separate
 directory (say, pmi/) and generate the report as follows:
 
-python3 report.py questions-pmi/*.json | sort | uniq -c
-
+python3 report.py questions-pmi/*.json > report.tsv
 
 

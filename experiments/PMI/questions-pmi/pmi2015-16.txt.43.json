@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "o Banco BETA tem direito a promover imediatamente a execu\u00e7\u00e3o judicial da hipoteca que lhe foi conferida.",
                 "pmi": [
                     -0.006323298418964253,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Banco BETA tem direito a promover imediatamente a execu\u00e7\u00e3o judicial da hipoteca que lhe foi conferida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "a hipoteca constitu\u00edda pela companhia GAMA em favor do Banco BETA \u00e9 nula, uma vez que o bem objeto da garantia j\u00e1 se encontrava gravado por outra hipoteca.",
                 "pmi": [
                     -0.0028289589910544368,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a hipoteca constitu\u00edda pela companhia GAMA em favor do Banco BETA \u00e9 nula, uma vez que o bem objeto da garantia j\u00e1 se encontrava gravado por outra hipoteca."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "a hipoteca constitu\u00edda pela GAMA em favor do Banco BETA \u00e9 nula, uma vez que tal hipoteca garante d\u00edvida cujo vencimento \u00e9 inferior ao da d\u00edvida garantida pela primeira hipoteca, constitu\u00edda em favor do Banco RENDA.",
                 "pmi": [
                     0.011694544415687853,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "a hipoteca constitu\u00edda pela GAMA em favor do Banco BETA \u00e9 nula, uma vez que tal hipoteca garante d\u00edvida cujo vencimento \u00e9 inferior ao da d\u00edvida garantida pela primeira hipoteca, constitu\u00edda em favor do Banco RENDA."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "o Banco BETA n\u00e3o poder\u00e1 promover a execu\u00e7\u00e3o judicial da hipoteca que lhe foi conferida antes de vencida a d\u00edvida contra\u00edda pela Companhia GAMA junto ao Banco RENDA.",
                 "pmi": [
                     -0.010883554627488677,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "o Banco BETA n\u00e3o poder\u00e1 promover a execu\u00e7\u00e3o judicial da hipoteca que lhe foi conferida antes de vencida a d\u00edvida contra\u00edda pela Companhia GAMA junto ao Banco RENDA."
+                ]
             }
         ],
         "valid": true

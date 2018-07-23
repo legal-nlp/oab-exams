@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "moralidade, publicidade e legalidade.",
                 "pmi": [
                     0.3018253790882695,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "moralidade, publicidade e legalidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "especificidade, publicidade e moralidade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "especificidade, publicidade e moralidade."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "continuidade, atualidade e cortesia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "continuidade, atualidade e cortesia."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "atratividade, mutualismo e comutatividade.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "atratividade, mutualismo e comutatividade."
+                ]
             }
         ],
         "valid": true

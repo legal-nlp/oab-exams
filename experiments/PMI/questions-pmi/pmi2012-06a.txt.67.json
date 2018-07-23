@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Aos Ju\u00edzes Federais.",
                 "pmi": [
                     0.062490377414137384,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Aos Ju\u00edzes Federais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Ao Superior Tribunal de Justi\u00e7a.",
                 "pmi": [
                     0.19325291641096032,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao Superior Tribunal de Justi\u00e7a."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Aos Ju\u00edzes Estaduais.",
                 "pmi": [
                     0.062490377414137384,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Aos Ju\u00edzes Estaduais."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Ao Supremo Tribunal Federal.",
                 "pmi": [
                     0.1549794482928824,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ao Supremo Tribunal Federal."
+                ]
             }
         ],
         "valid": true

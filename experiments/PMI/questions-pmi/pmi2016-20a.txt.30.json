@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O cons\u00f3rcio \u00e9 ente desprovido de personalidade e, portanto, n\u00e3o \u00e9 v\u00e1lida a previs\u00e3o contida no protocolo de inten\u00e7\u00f5es.",
                 "pmi": [
                     0.0025336980999387205,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cons\u00f3rcio \u00e9 ente desprovido de personalidade e, portanto, n\u00e3o \u00e9 v\u00e1lida a previs\u00e3o contida no protocolo de inten\u00e7\u00f5es."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "O cons\u00f3rcio em refer\u00eancia n\u00e3o poder\u00e1 ser constitu\u00eddo sem a obrigat\u00f3ria participa\u00e7\u00e3o da Uni\u00e3o entre os seus consorciados.",
                 "pmi": [
                     0.03987636126186374,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O cons\u00f3rcio em refer\u00eancia n\u00e3o poder\u00e1 ser constitu\u00eddo sem a obrigat\u00f3ria participa\u00e7\u00e3o da Uni\u00e3o entre os seus consorciados."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Ap\u00f3s a constitui\u00e7\u00e3o do cons\u00f3rcio, poder\u00e1 ele promover desapropria\u00e7\u00e3o, pois prevista no protocolo, mas a declara\u00e7\u00e3o de utilidade p\u00fablica n\u00e3o pode ser feita pelo cons\u00f3rcio.",
                 "pmi": [
                     0.03297312477852283,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Ap\u00f3s a constitui\u00e7\u00e3o do cons\u00f3rcio, poder\u00e1 ele promover desapropria\u00e7\u00e3o, pois prevista no protocolo, mas a declara\u00e7\u00e3o de utilidade p\u00fablica n\u00e3o pode ser feita pelo cons\u00f3rcio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Com a assinatura do protocolo de inten\u00e7\u00f5es por todos os entes participantes, estar\u00e1 constitu\u00eddo o cons\u00f3rcio em refer\u00eancia.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Com a assinatura do protocolo de inten\u00e7\u00f5es por todos os entes participantes, estar\u00e1 constitu\u00eddo o cons\u00f3rcio em refer\u00eancia."
+                ]
             }
         ],
         "valid": true

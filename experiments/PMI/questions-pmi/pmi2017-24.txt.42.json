@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Proibir o acesso da aluna \u00e0 escola.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Proibir o acesso da aluna \u00e0 escola."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Marcar uma reuni\u00e3o com os pais da aluna Maria, a fim de compeli-los a descobrir a cabe\u00e7a da filha.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Marcar uma reuni\u00e3o com os pais da aluna Maria, a fim de compeli-los a descobrir a cabe\u00e7a da filha."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "Permitir o acesso regular da aluna.",
                 "pmi": [
                     0.05607890247150557,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Permitir o acesso regular da aluna."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Proibir o acesso das tr\u00eas alunas.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Proibir o acesso das tr\u00eas alunas."
+                ]
             }
         ],
         "valid": true

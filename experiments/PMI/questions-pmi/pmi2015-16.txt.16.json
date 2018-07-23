@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Caio da Silva, por estar fora do espa\u00e7o f\u00edsico do Congresso Nacional, n\u00e3o \u00e9 alcan\u00e7ado pela garantia da imunidade material, respondendo pelos crimes contra a honra que praticou.",
                 "pmi": [
                     0.01511020903608718,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio da Silva, por estar fora do espa\u00e7o f\u00edsico do Congresso Nacional, n\u00e3o \u00e9 alcan\u00e7ado pela garantia da imunidade material, respondendo pelos crimes contra a honra que praticou."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Caio da Silva, mesmo fora do espa\u00e7o f\u00edsico do Congresso Nacional, \u00e9 alcan\u00e7ado pela garantia da imunidade material, tendo em vista que as ofensas proferidas est\u00e3o relacionadas ao exerc\u00edcio da atividade parlamentar.",
                 "pmi": [
                     0.025333729511613376,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio da Silva, mesmo fora do espa\u00e7o f\u00edsico do Congresso Nacional, \u00e9 alcan\u00e7ado pela garantia da imunidade material, tendo em vista que as ofensas proferidas est\u00e3o relacionadas ao exerc\u00edcio da atividade parlamentar."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Caio da Silva n\u00e3o est\u00e1 coberto pela garantia da imunidade material, tendo em vista que as ofensas foram proferidas em um momento de recesso parlamentar, o que afasta qualquer rela\u00e7\u00e3o com a atividade de Senador.",
                 "pmi": [
                     0.035761586071384646,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio da Silva n\u00e3o est\u00e1 coberto pela garantia da imunidade material, tendo em vista que as ofensas foram proferidas em um momento de recesso parlamentar, o que afasta qualquer rela\u00e7\u00e3o com a atividade de Senador."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Caio da Silva n\u00e3o est\u00e1 coberto pela garantia da imunidade material, visto que, durante o recesso parlamentar, sequer estava no territ\u00f3rio do Estado que representa na condi\u00e7\u00e3o de Senador.",
                 "pmi": [
                     0.02759384502395034,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Caio da Silva n\u00e3o est\u00e1 coberto pela garantia da imunidade material, visto que, durante o recesso parlamentar, sequer estava no territ\u00f3rio do Estado que representa na condi\u00e7\u00e3o de Senador."
+                ]
             }
         ],
         "valid": true

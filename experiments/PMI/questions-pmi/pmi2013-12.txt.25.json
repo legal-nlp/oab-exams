@@ -10,46 +10,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Pedro s\u00f3 se torna respons\u00e1vel tribut\u00e1rio do IPTU, da Taxa de Coleta Domiciliar de Lixo e da Contribui\u00e7\u00e3o de Melhoria, permanecendo Jo\u00e3o como sujeito passivo da Taxa de Inspe\u00e7\u00e3o Sanit\u00e1ria.",
                 "pmi": [
                     0.012289630739820643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro s\u00f3 se torna respons\u00e1vel tribut\u00e1rio do IPTU, da Taxa de Coleta Domiciliar de Lixo e da Contribui\u00e7\u00e3o de Melhoria, permanecendo Jo\u00e3o como sujeito passivo da Taxa de Inspe\u00e7\u00e3o Sanit\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Pedro s\u00f3 se torna respons\u00e1vel tribut\u00e1rio do IPTU e da Taxa de Coleta Domiciliar de Lixo, permanecendo Jo\u00e3o como sujeito passivo da Taxa de Inspe\u00e7\u00e3o Sanit\u00e1ria e da Contribui\u00e7\u00e3o de Melhoria.",
                 "pmi": [
                     0.012289630739820643,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro s\u00f3 se torna respons\u00e1vel tribut\u00e1rio do IPTU e da Taxa de Coleta Domiciliar de Lixo, permanecendo Jo\u00e3o como sujeito passivo da Taxa de Inspe\u00e7\u00e3o Sanit\u00e1ria e da Contribui\u00e7\u00e3o de Melhoria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Pedro \u00e9 o respons\u00e1vel tribut\u00e1rio de todos os tributos, devido \u00e0 sucess\u00e3o imobili\u00e1ria.",
                 "pmi": [
                     0.0259649532959109,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Pedro \u00e9 o respons\u00e1vel tribut\u00e1rio de todos os tributos, devido \u00e0 sucess\u00e3o imobili\u00e1ria."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Jo\u00e3o continua sendo o sujeito passivo de todos os tributos, muito embora o im\u00f3vel tenha sido adquirido por Pedro.",
                 "pmi": [
                     0.020194963674597367,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Jo\u00e3o continua sendo o sujeito passivo de todos os tributos, muito embora o im\u00f3vel tenha sido adquirido por Pedro."
+                ]
             }
         ],
         "valid": true

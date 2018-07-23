@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "poderia atuar como advogado em causa pr\u00f3pria.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poderia atuar como advogado em causa pr\u00f3pria."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "dever\u00e1 contratar advogado para a causa diante da situa\u00e7\u00e3o de incompatibilidade.",
                 "pmi": [
                     0.031002641423843253,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "dever\u00e1 contratar advogado para a causa diante da situa\u00e7\u00e3o de incompatibilidade."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "poderia advogar; recomenda-se, contudo, a contrata\u00e7\u00e3o de advogado.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "poderia advogar; recomenda-se, contudo, a contrata\u00e7\u00e3o de advogado."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "est\u00e1 com a sua inscri\u00e7\u00e3o como advogado suspensa.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "est\u00e1 com a sua inscri\u00e7\u00e3o como advogado suspensa."
+                ]
             }
         ],
         "valid": true

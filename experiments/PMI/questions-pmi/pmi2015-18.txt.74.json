@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "O regulamento interno \u00e9 ato unilateral de vontade do empregador, que poder\u00e1 modific\u00e1-lo a qualquer momento, da\u00ed por que n\u00e3o h\u00e1 direito adquirido e a nova condi\u00e7\u00e3o alcan\u00e7a Reinaldo.",
                 "pmi": [
                     0.013606134118239218,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O regulamento interno \u00e9 ato unilateral de vontade do empregador, que poder\u00e1 modific\u00e1-lo a qualquer momento, da\u00ed por que n\u00e3o h\u00e1 direito adquirido e a nova condi\u00e7\u00e3o alcan\u00e7a Reinaldo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A altera\u00e7\u00e3o somente \u00e9 v\u00e1lida para aqueles que foram admitidos anteriormente \u00e0 mudan\u00e7a e n\u00e3o prevalece para os que forem contratados ap\u00f3s a mudan\u00e7a.",
                 "pmi": [
                     0.005175904789442267,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A altera\u00e7\u00e3o somente \u00e9 v\u00e1lida para aqueles que foram admitidos anteriormente \u00e0 mudan\u00e7a e n\u00e3o prevalece para os que forem contratados ap\u00f3s a mudan\u00e7a."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "A altera\u00e7\u00e3o \u00e9 v\u00e1lida, mas s\u00f3 alcan\u00e7a aqueles admitidos posteriormente \u00e0 mudan\u00e7a, n\u00e3o podendo ent\u00e3o alcan\u00e7ar a situa\u00e7\u00e3o de Reinaldo.",
                 "pmi": [
                     -0.0006306877796592751,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A altera\u00e7\u00e3o \u00e9 v\u00e1lida, mas s\u00f3 alcan\u00e7a aqueles admitidos posteriormente \u00e0 mudan\u00e7a, n\u00e3o podendo ent\u00e3o alcan\u00e7ar a situa\u00e7\u00e3o de Reinaldo."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "A altera\u00e7\u00e3o feita pela empresa \u00e9 ilegal, pois, uma vez concedida a benesse, ela n\u00e3o pode ser retirada em momento algum e para nenhum empregado, atual ou futuro.",
                 "pmi": [
                     0.0004451216226819495,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A altera\u00e7\u00e3o feita pela empresa \u00e9 ilegal, pois, uma vez concedida a benesse, ela n\u00e3o pode ser retirada em momento algum e para nenhum empregado, atual ou futuro."
+                ]
             }
         ],
         "valid": true

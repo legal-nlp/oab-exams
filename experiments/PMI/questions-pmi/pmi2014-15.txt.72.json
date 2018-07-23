@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "Adicional noturno.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "Adicional noturno."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "Horas extras.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Horas extras."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "FGTS obrigat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0,
                     0
-                ],
-                "text": "FGTS obrigat\u00f3rio."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Seguro-desemprego obrigat\u00f3rio.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Seguro-desemprego obrigat\u00f3rio."
+                ]
             }
         ],
         "valid": true

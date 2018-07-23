@@ -8,46 +8,46 @@
             {
                 "correct": true,
                 "letter": "A",
+                "text": "Por c\u00e1lculos.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Por c\u00e1lculos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "Por arbitramento.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Por arbitramento."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "Por artigos.",
                 "pmi": [
                     0.0,
                     0,
                     0,
                     0
-                ],
-                "text": "Por artigos."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Por execu\u00e7\u00e3o por quantia certa.",
                 "pmi": [
                     -0.0012855631122317556,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Por execu\u00e7\u00e3o por quantia certa."
+                ]
             }
         ],
         "valid": true

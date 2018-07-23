@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "H\u00e1 equ\u00edvoco, pois, a partir da decreta\u00e7\u00e3o da fal\u00eancia, a a\u00e7\u00e3o trabalhista passa a ser da compet\u00eancia do ju\u00edzo falimentar, que deve proferir a senten\u00e7a.",
                 "pmi": [
                     0.04201023545551804,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "H\u00e1 equ\u00edvoco, pois, a partir da decreta\u00e7\u00e3o da fal\u00eancia, a a\u00e7\u00e3o trabalhista passa a ser da compet\u00eancia do ju\u00edzo falimentar, que deve proferir a senten\u00e7a."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "O pagamento do valor homologado dever\u00e1 ser feito no ju\u00edzo da fal\u00eancia, que \u00e9 universal.",
                 "pmi": [
                     0.006798810774313598,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O pagamento do valor homologado dever\u00e1 ser feito no ju\u00edzo da fal\u00eancia, que \u00e9 universal."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "A execu\u00e7\u00e3o ser\u00e1 feita diretamente na Justi\u00e7a do Trabalho, porque o t\u00edtulo executivo foi criado pelo Juiz do Trabalho.",
                 "pmi": [
                     -0.008518229435924523,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A execu\u00e7\u00e3o ser\u00e1 feita diretamente na Justi\u00e7a do Trabalho, porque o t\u00edtulo executivo foi criado pelo Juiz do Trabalho."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "Essa \u00e9 a \u00fanica hip\u00f3tese de compet\u00eancia concorrente, ou seja, poder\u00e1 ser executado tanto na Justi\u00e7a do Trabalho quanto na Justi\u00e7a comum.",
                 "pmi": [
                     0.021209545659021837,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "Essa \u00e9 a \u00fanica hip\u00f3tese de compet\u00eancia concorrente, ou seja, poder\u00e1 ser executado tanto na Justi\u00e7a do Trabalho quanto na Justi\u00e7a comum."
+                ]
             }
         ],
         "valid": true

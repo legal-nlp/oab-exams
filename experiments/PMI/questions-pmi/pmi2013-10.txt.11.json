@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "interpreta\u00e7\u00e3o restritiva, por levar em conta apenas os objetivos da lei, ignorando sua estrutura gramatical.",
                 "pmi": [
                     0.05056958690593691,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpreta\u00e7\u00e3o restritiva, por levar em conta apenas os objetivos da lei, ignorando sua estrutura gramatical."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "interpreta\u00e7\u00e3o extensiva, por aumentar o conte\u00fado de significado das senten\u00e7as com seus objetivos historicamente determinados.",
                 "pmi": [
                     0.0,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpreta\u00e7\u00e3o extensiva, por aumentar o conte\u00fado de significado das senten\u00e7as com seus objetivos historicamente determinados."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "interpreta\u00e7\u00e3o aut\u00eantica, pois apenas as finalidades da lei podem dar autenticidade \u00e0 interpreta\u00e7\u00e3o.",
                 "pmi": [
                     0.07585438035890536,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpreta\u00e7\u00e3o aut\u00eantica, pois apenas as finalidades da lei podem dar autenticidade \u00e0 interpreta\u00e7\u00e3o."
+                ]
             },
             {
                 "correct": true,
                 "letter": "D",
+                "text": "interpreta\u00e7\u00e3o teleol\u00f3gica, pois o sentido da lei deve ser considerado \u00e0 luz de seus objetivos.",
                 "pmi": [
                     0.06501804030763317,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "interpreta\u00e7\u00e3o teleol\u00f3gica, pois o sentido da lei deve ser considerado \u00e0 luz de seus objetivos."
+                ]
             }
         ],
         "valid": true

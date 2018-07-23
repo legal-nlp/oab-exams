@@ -10,46 +10,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "assumir a defesa da empresa, por for\u00e7a da rela\u00e7\u00e3o de trabalho.",
                 "pmi": [
                     0.06351533687473021,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "assumir a defesa da empresa, por for\u00e7a da rela\u00e7\u00e3o de trabalho."
+                ]
             },
             {
                 "correct": true,
                 "letter": "B",
+                "text": "comunicar o fato \u00e0 empresa e escusar-se de realizar a defesa.",
                 "pmi": [
                     0.03813650193284236,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "comunicar o fato \u00e0 empresa e escusar-se de realizar a defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "C",
+                "text": "indicar advogado da sua equipe para realizar a defesa.",
                 "pmi": [
                     0.13302929927713011,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "indicar advogado da sua equipe para realizar a defesa."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "renunciar ao cargo por impossibilidade de exerc\u00edcio do mesmo.",
                 "pmi": [
                     0.018844509146781603,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "renunciar ao cargo por impossibilidade de exerc\u00edcio do mesmo."
+                ]
             }
         ],
         "valid": true

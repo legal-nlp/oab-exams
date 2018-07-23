@@ -8,46 +8,46 @@
             {
                 "correct": null,
                 "letter": "A",
+                "text": "A convers\u00e3o da indisponibilidade em penhora deve ser deferida independentemente de ci\u00eancia pr\u00e9via do ato executado, visto que n\u00e3o houve o pagamento espont\u00e2neo da d\u00edvida.",
                 "pmi": [
                     0.05351631877074213,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A convers\u00e3o da indisponibilidade em penhora deve ser deferida independentemente de ci\u00eancia pr\u00e9via do ato executado, visto que n\u00e3o houve o pagamento espont\u00e2neo da d\u00edvida."
+                ]
             },
             {
                 "correct": null,
                 "letter": "B",
+                "text": "A indisponibilidade \u00e9 nula, pois promovida sem a pr\u00e9via oitiva do r\u00e9u, o que viola o contradit\u00f3rio e a ampla defesa.",
                 "pmi": [
                     0.030500909748983715,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "A indisponibilidade \u00e9 nula, pois promovida sem a pr\u00e9via oitiva do r\u00e9u, o que viola o contradit\u00f3rio e a ampla defesa."
+                ]
             },
             {
                 "correct": true,
                 "letter": "C",
+                "text": "O juiz, considerando o excesso do bloqueio, n\u00e3o deveria ter dado vista do processo ao exequente, mas promovido o cancelamento da indisponibilidade excessiva no prazo m\u00e1ximo de vinte e quatro horas.",
                 "pmi": [
                     0.006510313481719889,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz, considerando o excesso do bloqueio, n\u00e3o deveria ter dado vista do processo ao exequente, mas promovido o cancelamento da indisponibilidade excessiva no prazo m\u00e1ximo de vinte e quatro horas."
+                ]
             },
             {
                 "correct": null,
                 "letter": "D",
+                "text": "O juiz, independentemente do excesso da indisponibilidade, deveria ter dado vista do processo ao executado, a fim de que este comprovasse a impenhorabilidade da quantia bloqueada.",
                 "pmi": [
                     0.017390698173972763,
                     0.0,
                     0.0,
                     0.0
-                ],
-                "text": "O juiz, independentemente do excesso da indisponibilidade, deveria ter dado vista do processo ao executado, a fim de que este comprovasse a impenhorabilidade da quantia bloqueada."
+                ]
             }
         ],
         "valid": true
