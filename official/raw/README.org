@@ -1,54 +1,39 @@
-Important observations
+# -*- mode:org -*-
+#+TITLE: OAB bar exam files
 
-In order to make parsing easier, we defined some markers and
-conventions. Take this part of the raw file as an example:
+these are the plaintext versions of the Brazilian OAB bar exams,
+annotated with their answers (and sometimes with which legal documents
+support the correct answer).
 
+* format
+the format we designed is exemplified by the question below:
 #+BEGIN_EXAMPLE
----
-ENUM [NULL]? Questão [num] 
+ENUM (NULL)? Questão [integer] 
 
 AREA [area]
 
-[text]
+[paragraph]+
  
 OPTIONS
 
-A) [text]
+A) [paragraph]
 
-B) [text]
+B) [paragraph]
 
-C) [text]
+C) [paragraph]
 
-D:CORRECT) [text]
+D:CORRECT) [paragraph]
+
+---
 #+END_EXAMPLE
 
-- The CORRECT indicates the correct answer.
+- The CORRECT indicates the correct answer among the options.
 
-- In every exam there are 4 different models of test. Each model has
-  the same content, however, the questions are presented in a
-  different sequential order. That's specially important when you
-  check the answer sheet. For this corpus we only used the white model
-  or the first model of the exam (named in portuguese as "prova
-  branca").
-
-- The marker bellow was used to indicate that this question was
-  nullified by the organizers:
-
-- On the first, second and third exams the whole test used to have 100
-  questions. From the 4th exam onwards the organizers changed the test
-  to have a total of 80 questions.
-
-- Before 2010, Brazil did not have a unified OAB Exam. Each State from
-  the country used to have his own exam.
-
-- For some reason, the 6th and the 20th exams had problems and they
-  were reapplied in some regions of the country. Both the first and
-  the reapplication count as the 6th edition. However, these two tests
-  had a different content.
+- The marker =NULL= was used to indicate that this question was
+  nullified by the organizers.
 
 - We inserted the areas of law as a marker. This is the complete list
   of all the areas covered on the exams:
-
   - ETHICS
   - PHILOSOPHY
   - CONSTITUTIONAL
@@ -66,3 +51,28 @@ D:CORRECT) [text]
   - CRIMINAL-PROCEDURE
   - LABOUR
   - LABOUR-PROCEDURE
+
+* sources
+the original PDF exams and answer sheets can be found at several
+places on the web; for example, at the [[http://www.oabrj.org.br/banco-de-provas][OAB-RJ website]]. they can also
+be found at the [[http://oab.fgv.br/][FGV projetos website]] (FGV projetos is the organization
+that has been tasked by OAB with designing the exams in last years).
+
+- In every exam there are 4 different models of test. Each model has
+  the same content, however, the questions are presented in a
+  different sequential order. That's specially important when you
+  check the answer sheet. For this corpus we only used the white model
+  or the first model of the exam (named in portuguese as "tipo 1 --
+  prova branca").
+
+- On the first, second and third exams the whole test used to have 100
+  questions. From the 4th exam onwards the organizers changed the test
+  to have a total of 80 questions.
+
+- Before 2010, Brazil did not have a unified OAB Exam. Each State from
+  the country used to have his own exam.
+
+- For some reason, the 6th and the 20th exams had problems and they
+  were reapplied in some regions of the country. Both the first and
+  the reapplication count as the 6th edition. However, these two tests
+  had a different content.
