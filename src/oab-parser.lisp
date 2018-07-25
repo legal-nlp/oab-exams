@@ -177,10 +177,51 @@
 	       (format stream "~%")))))
 
 (defun files-es ()
-  (dolist (path (directory "../official/raw/*.txt"))
+  (dolist (path (directory "*.txt"))
     (with-open-file (ss (format nil "~a.json" (pathname-name path))
 			:direction :output :if-exists :supersede)
       (file-to-es path ss))))
 
 
+
+;; utils
+
+(defun compr (elt n 1st)
+  (if (null 1st)
+      (list (n-elts elt n))
+      (let ((next (car 1st)))
+	(if (eql next elt)
+	    (compr elt (+ n 1) (cdr 1st))
+	    (cons (n-elts elt n)
+		  (compr next 1 (cdr 1st)))))))
+
+(defun n-elts (elt n)
+  (if (> n 1)
+      (list n elt)
+      elt))
+
+(defun compress (x)
+  (if (consp x)
+      (compr (car x) 1 (cdr x)) x))
+
+
+(defun classify ()
+  (let ((tab (make-hash-table :test #'equal))) 
+    (dolist (fn (directory "*.txt") tab) 
+      (mapc (lambda (q) 
+	      (dolist (a (slot-value q 'areas))
+		(push (slot-value q 'number) (gethash a tab)))) 
+	    (parse-oab-file fn)))
+    (loop for k being each hash-key of tab
+	  do (format t "~a: ~a~%" k
+		     (compress (sort (mapcar #'parse-integer (gethash k tab)) #'<))))))
+
+
+(defun questions-by-area (area)
+  (let ((questions nil))
+    (dolist (fn (directory "/Users/ar/work/oab-exams/official/raw/*.txt") questions)
+      (dolist (q (parse-oab-file fn)) (push q questions)))
+    (mapcar (lambda (q) (list (slot-value q 'filename) (slot-value q 'number)))
+	    (remove-if-not (lambda (q) (member area (slot-value q 'areas) :test #'equal))
+			   questions))))
 
