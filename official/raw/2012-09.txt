@@ -55,7 +55,7 @@ atuação do advogado nas duas funções: preposto e
 representante judicial. 
 
 ---
-ENUM NULL Questão 3 
+ENUM Questão 3 NULL
 
 AREA ETHICS
 
@@ -742,7 +742,7 @@ C) É imposto monofásico e qualificado como indireto.
 D) É imposto interno e lançado por declaração. 
 
 ---
-ENUM NULL Questão 26
+ENUM Questão 26 NULL
    
 AREA TAXES
 
@@ -767,7 +767,7 @@ mesmo que feita a terceiro de boa-fé, após notificação do
 lançamento fiscal. 
 
 ---
-ENUM NULL Questão 27 
+ENUM Questão 27 NULL
    
 AREA TAXES
 
