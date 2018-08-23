@@ -8,9 +8,9 @@ support the correct answer).
 * format
 the format we designed is exemplified by the question below:
 #+BEGIN_EXAMPLE
-ENUM (NULL)? Questão [integer] 
+Questão [integer] (NULL)?
 
-AREA [area]
+AREA ([area])?
 
 [paragraph]+
  
@@ -23,17 +23,18 @@ B) [paragraph]
 C) [paragraph]
 
 D:CORRECT) [paragraph]
-
----
 #+END_EXAMPLE
 
-- The CORRECT indicates the correct answer among the options.
+- a =paragraph= is all the text up to a blank line (=\n\n=).
+
+- The =CORRECT= tag indicates the correct answer among the options.
 
 - The marker =NULL= was used to indicate that this question was
   nullified by the organizers.
 
-- We inserted the areas of law as a marker. This is the complete list
-  of all the areas covered on the exams:
+- We inserted the legal areas that questions pertain to in some
+  questions. This is the complete list of all the areas covered on the
+  exams:
   - ETHICS
   - PHILOSOPHY
   - CONSTITUTIONAL
