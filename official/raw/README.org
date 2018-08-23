@@ -10,9 +10,9 @@ the format we designed is exemplified by the question below:
 #+BEGIN_EXAMPLE
 Questão [integer] (NULL)?
 
-AREA ([area])?
+AREA ([area])*
 
-[paragraph]+
+([paragraph])+
  
 OPTIONS
 
