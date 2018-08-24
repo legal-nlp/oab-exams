@@ -1,0 +1,3 @@
+
+
+docker run -it --rm -v ~/work/:/mnt freeling /bin/bash
