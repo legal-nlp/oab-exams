@@ -1,21 +1,21 @@
-
-<!ELEMENT questions (question*)>
-<!ELEMENT items (item)* >
-
-<!ELEMENT question (statement, items*) >
-<!ATTLIST question
-	  number CDATA #REQUIRED
-	  valid (true | false) #IMPLIED>
-
 <!ELEMENT statement (#PCDATA) >
 
 <!ELEMENT item (#PCDATA) >
 <!ATTLIST item
 	  letter CDATA #REQUIRED
-	  correct (true | false) #IMPLIED>
+	  correct (true | false) #REQUIRED>
 
-<!ELEMENT OAB-exam (questions) >
+<!ELEMENT OAB-exam (question*) >
 <!ATTLIST OAB-exam
 	  year CDATA #REQUIRED
 	  edition CDATA #REQUIRED>
 
+<!ELEMENT question (statement, item, item, item, item) >
+
+<!ATTLIST question
+	  number CDATA #REQUIRED
+	  valid (true | false) #REQUIRED
+          area (ETHICS | PHILOSOPHY | CONSTITUTIONAL | HUMAN-RIGHTS
+          | INTERNATIONAL | TAXES | ADMINISTRATIVE | ENVIRONMENTAL
+          | CIVIL | CHILDREN | CONSUMER | BUSINESS | CIVIL-PROCEDURE
+          | CRIMINAL | CRIMINAL-PROCEDURE | LABOUR | LABOUR-PROCEDURE) #IMPLIED>
