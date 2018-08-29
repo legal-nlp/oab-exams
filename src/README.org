@@ -17,5 +17,3 @@ Generate the XML files
   (mapc #'oab-parser:mirror-oab-to-xml (directory #p"/*.txt"))
 
 #+END_SRC
-
-	     
