@@ -33,8 +33,9 @@ D:CORRECT) [paragraph]
   nullified by the organizers.
 
 - We inserted the legal areas that questions pertain to in some
-  questions. This is the complete list of all the areas covered on the
-  exams:
+  questions. If a question has more than one AREA, it should list both
+  in the same line, with a space character separating them. This is
+  the complete list of all the areas covered on the exams:
   - ETHICS
   - PHILOSOPHY
   - CONSTITUTIONAL
@@ -52,6 +53,8 @@ D:CORRECT) [paragraph]
   - CRIMINAL-PROCEDURE
   - LABOUR
   - LABOUR-PROCEDURE
+
+- every file must end with a blank line.
 
 * sources
 the original PDF exams and answer sheets can be found at several
