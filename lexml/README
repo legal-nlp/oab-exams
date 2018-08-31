@@ -1,0 +1,16 @@
+# -*- mode:org -*-
+#+TITLE: Brazilian laws
+
+Brazilian laws are written in a plaintext format and then converted to
+XML by [[https://github.com/OAB-exams/brazilian-law-parser][this utility]]. their format is simple: one simply has to
+separate each 'dispositivo' (título, capítulo, artigo, inciso, etc.)
+from the next with a blank line.
+
+the laws have been annotated with any references they make to legal
+texts: =[$ $]= denote content that refers to legal text in the same
+law, and =[# #]= denote content referring to another legal text.
+
+one can run this sed script to remove these annotations, if desired:
+: sed -e 's/\[[$#]//g' -e 's/[$#]\]//g' annotated-law.txt > law.txt
+we have made no provisions for escaping as these markers should be
+absent from any legal text.
