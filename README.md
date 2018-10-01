@@ -27,4 +27,9 @@ This repository has a corpus with raw text files from:
  
   + [Paper](http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_59.pdf)
   + [Slides](http://compling.hss.ntu.edu.sg/events/2018-gwc/presentations/GWC2018_59.pdf)
+  
+  
++ Pedro Delfino's Undergraduate Thesis
+
+  + [Paper](http://bibliotecadigital.fgv.br/dspace/handle/10438/24728)
 
